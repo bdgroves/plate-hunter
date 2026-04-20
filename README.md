@@ -2,13 +2,15 @@
 
 ### *Washington State · Road Trip Edition*
 
-> "Only 5 square dancer plates registered in all of Washington. They're out there. Somewhere."
+> "The least popular special-design plate last year was the square dancer design, on only five vehicles, despite being one of the least expensive." — Seattle Times, April 20, 2026
 
 ---
 
 Washington has 72 specialty license plates — and most people have never noticed most of them. There's a plate for pickleball. A plate for honeybees. A plate for the Muckleshoot Tribe. A plate that's only legal on cars built before 1916. And somewhere on the roads of the Evergreen State, five vehicles are rolling around with a square dancer on the back bumper, 300 points just waiting to be claimed.
 
-**PLATE HUNTER** is a road trip game built around that premise. You see a plate in real life, you tap it in the app. It unlocks in full color. You earn points. The rarer the plate, the more it's worth — and the rarity tiers are pulled directly from the Washington DOL's annual vehicle registration report. This isn't made up. The square dancer really does have only five registered vehicles. The Horseless Carriage plate really does require a pre-1916 automobile. The Medal of Honor plate requires, well, a Medal of Honor.
+**PLATE HUNTER** is a road trip game built around that premise. You see a plate in real life, you tap it in the app. It unlocks in full color. You earn points. The rarer the plate, the more it's worth — and the rarity tiers are pulled directly from the Washington DOL's annual vehicle registration data. This isn't made up.
+
+In 2025, nearly **184,000 Washington vehicles** carried a special-design plate, generating **$5.8 million in fees**. Add personalized plates and the number climbs to **$9.8 million**. Washingtonians take their plates seriously. PLATE HUNTER takes them seriously too.
 
 No server. No login. No ads. Just a phone, an open road, and 72 plates to find.
 
@@ -26,7 +28,7 @@ That's it. No account required.
 
 ## The Rarity System
 
-Point values are grounded in real data from the **Washington Department of Licensing 2024 Report to the Legislature**, which publishes vehicle counts per specialty plate design.
+Point values are grounded in real data from the **Washington DOL 2025 registration figures**, as reported by the Seattle Times. Every number below is an actual vehicle count from actual Washington roads.
 
 | Tier | Vehicles on WA Roads | Points |
 |---|---|---|
@@ -35,14 +37,32 @@ Point values are grounded in real data from the **Washington Department of Licen
 | 🟧 Rare | 500 – 3,000 | 50 pts |
 | 🟨 **Legendary** | Under 500 | 150 – 300 pts |
 
-### Legendary Tier
+### By the Numbers — 2025 DOL Data
 
-These are the white whales. Spotting any one of these on a road trip is genuinely remarkable.
+The top of the leaderboard isn't surprising. The bottom is where it gets interesting.
+
+| Rank | Plate | Vehicles | Annual Fees |
+|---|---|---|---|
+| 🥇 1 | WSU Cougars | 24,100 | $734,000 |
+| 🥈 2 | Collector Vehicle | 20,300 | $710,400 |
+| 🥉 3 | Washington National Parks | 12,700 | $404,000 |
+| 4 | Law Enforcement Memorial | 11,300 | $351,100 |
+| 5 | Seattle Seahawks | 11,100 | $336,000 |
+| 6 | University of Washington | 10,300 | $313,000 |
+| 7 | US Army | 7,700 | $240,300 |
+| — | Seattle Mariners | 1,100 | $35,300 |
+| — | Seattle University | ~200 | $6,600 |
+| — | Horseless Carriage | ~140 | — |
+| 💀 Last | **Square Dancer** | **5** | — |
+
+### Legendary Tier — The White Whales
+
+Spotting any one of these on a road trip is genuinely remarkable.
 
 | Plate | Why It's Legendary | Points |
 |---|---|---|
-| 🕺 **Square Dancer** | ~5 registered statewide | 300 |
-| 🏎 **Horseless Carriage** | Pre-1916 vehicles only — operational antiques | 300 |
+| 🕺 **Square Dancer** | 5 registered statewide. *Five.* | 300 |
+| 🏎 **Horseless Carriage** | ~140 statewide. Pre-1916 vehicles only — operational antiques | 300 |
 | 🏅 **Medal of Honor** | Eligibility requires the nation's highest military honor | 300 |
 | 🤡 **J.P. Patches Pal** | Seattle's beloved TV clown. The nostalgia is real but the plates are scarce | 200 |
 | 🕊 **Former Prisoner of War** | Restricted to verified POW/MIA families | 200 |
@@ -139,7 +159,7 @@ Base plate images from **[jonkeegan/us-license-plates](https://github.com/jonkee
 
 2025 Washington additions (Pickleball, Keep WA Evergreen, Honeybees, LeMay, Throwback, Smokey Bear, Mt. St. Helens) sourced from the [Washington State Department of Licensing](https://dol.wa.gov/vehicles-and-boats/vehicles/license-plates/get-custom-plates/special-design-plates).
 
-Rarity data from the WA DOL 2024 Report to the Legislature.
+Rarity data and vehicle counts from the WA DOL 2025 registration figures, as reported by [Gene Balk / FYI Guy, Seattle Times, April 20, 2026](https://www.seattletimes.com).
 
 ---
 
