@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>🔍 Plate Hunter — Washington</title>
+<link href="https://fonts.googleapis.com/css2?family=Boogaloo&family=Nunito:wght@400;700;800;900&display=swap" rel="stylesheet">
+<style>
+:root{--y:#f5c518;--o:#f07d18;--g:#2db37a;--bg:#0d1b2e;--card:#162640;--txt:#f0f4ff;--mut:#6b8aab;--bdr:rgba(255,255,255,.07)}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Nunito',sans-serif;background:var(--bg);color:var(--txt);min-height:100vh;overflow-x:hidden}
+body::before{content:'';position:fixed;bottom:0;left:0;right:0;height:50px;background:#1a1a1a;z-index:0;pointer-events:none}
+body::after{content:'';position:fixed;bottom:16px;left:0;right:0;height:7px;background:repeating-linear-gradient(90deg,var(--y) 0 50px,transparent 50px 100px);z-index:1;animation:road .5s linear infinite;pointer-events:none}
+@keyframes road{to{transform:translateX(-100px)}}
+header{background:linear-gradient(160deg,#0a3a68,#1a6fb5);padding:14px 16px 16px;text-align:center;border-bottom:4px solid var(--y);box-shadow:0 4px 24px rgba(0,0,0,.5);position:sticky;top:0;z-index:100}
+.title{font-family:'Boogaloo',cursive;font-size:2.2rem;color:var(--y);letter-spacing:3px;text-shadow:3px 3px 0 rgba(0,0,0,.3);line-height:1}
+.sub{font-size:.7rem;font-weight:800;letter-spacing:3px;text-transform:uppercase;color:rgba(255,255,255,.7);margin-top:3px}
+.pw{background:var(--card);padding:11px 15px 9px;border-bottom:1px solid var(--bdr)}
+.pr{display:flex;justify-content:space-between;align-items:center;margin-bottom:6px}
+.pl{font-size:.7rem;font-weight:800;text-transform:uppercase;letter-spacing:1.5px;color:var(--mut)}
+.pn{font-family:'Boogaloo',cursive;font-size:1.25rem;color:var(--y)}
+.pt{height:12px;background:rgba(255,255,255,.07);border-radius:99px;overflow:hidden}
+.pf{height:100%;background:linear-gradient(90deg,var(--g),#a3e635);border-radius:99px;transition:width .5s cubic-bezier(.34,1.56,.64,1)}
+.st{display:flex;gap:8px;margin-top:7px;flex-wrap:wrap}
+.pill{display:flex;align-items:center;gap:3px;background:rgba(255,255,255,.06);border:1px solid var(--bdr);border-radius:99px;padding:3px 10px;font-size:.71rem;font-weight:800;color:var(--y)}
+.pill span{color:var(--mut);font-weight:600}
+.fb{padding:9px 11px;display:flex;gap:6px;overflow-x:auto;scrollbar-width:none;background:rgba(10,18,30,.9);border-bottom:1px solid var(--bdr);position:sticky;top:83px;z-index:99;backdrop-filter:blur(8px)}
+.fb::-webkit-scrollbar{display:none}
+.ch{flex-shrink:0;background:rgba(255,255,255,.05);border:1.5px solid rgba(255,255,255,.1);border-radius:99px;padding:5px 12px;font-family:'Nunito',sans-serif;font-size:.71rem;font-weight:800;color:var(--mut);cursor:pointer;transition:all .15s;white-space:nowrap;user-select:none;-webkit-tap-highlight-color:transparent}
+.ch:hover{border-color:rgba(245,197,24,.5);color:var(--txt)}
+.ch.on{background:var(--y);border-color:var(--y);color:#111}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(152px,1fr));gap:12px;padding:14px 12px 92px}
+.card{background:var(--card);border-radius:14px;overflow:hidden;cursor:pointer;border:2px solid var(--bdr);transition:transform .15s,box-shadow .15s,border-color .2s;position:relative;-webkit-tap-highlight-color:transparent;user-select:none}
+.card:hover{transform:translateY(-3px) scale(1.025);box-shadow:0 8px 30px rgba(0,0,0,.5)}
+.card:active{transform:scale(.95)}
+.card.found{border-color:var(--g);box-shadow:0 0 20px rgba(45,179,122,.3)}
+.iw{padding:9px 9px 3px;position:relative;background:rgba(0,0,0,.15);min-height:78px;display:flex;align-items:center;justify-content:center}
+.plate-img{width:100%;height:74px;object-fit:contain;display:block;border-radius:5px;transition:filter .3s,opacity .3s}
+.card:not(.found) .plate-img{filter:grayscale(90%) brightness(.45);opacity:.7}
+.chk{position:absolute;top:5px;right:5px;width:24px;height:24px;background:var(--g);border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:13px;opacity:0;transform:scale(0);transition:all .3s cubic-bezier(.34,1.56,.64,1);box-shadow:0 2px 8px rgba(45,179,122,.6);z-index:2}
+.card.found .chk{opacity:1;transform:scale(1)}
+.ci{padding:6px 9px 9px}
+.cn{font-size:.73rem;font-weight:800;color:var(--txt);line-height:1.25;margin-bottom:4px}
+.cm{display:flex;align-items:center;justify-content:space-between}
+.rar{font-size:.59rem;font-weight:900;letter-spacing:.3px;text-transform:uppercase;padding:2px 6px;border-radius:99px}
+.r-common{background:rgba(107,138,171,.18);color:#8aaec8}
+.r-uncommon{background:rgba(45,179,122,.18);color:var(--g)}
+.r-rare{background:rgba(240,125,24,.18);color:var(--o)}
+.r-legendary{background:linear-gradient(135deg,rgba(245,197,24,.25),rgba(139,92,246,.25));color:var(--y);animation:glow 2s ease infinite}
+@keyframes glow{0%,100%{box-shadow:0 0 3px rgba(245,197,24,.3)}50%{box-shadow:0 0 10px rgba(245,197,24,.8)}}
+.pts{font-size:.64rem;font-weight:800;color:var(--y)}
+@keyframes pop{0%{transform:scale(1)}35%{transform:scale(1.09)}65%{transform:scale(.97)}100%{transform:scale(1)}}
+.pop{animation:pop .35s ease}
+.burst{position:fixed;pointer-events:none;z-index:9999}
+.bit{position:absolute;border-radius:2px;animation:fly .75s ease-out forwards}
+@keyframes fly{0%{transform:translate(0,0) rotate(0deg);opacity:1}100%{transform:translate(var(--tx),var(--ty)) rotate(var(--tr));opacity:0}}
+.toast{position:fixed;bottom:64px;left:50%;transform:translateX(-50%) translateY(16px);background:#0d2240;border:2px solid var(--g);border-radius:99px;padding:9px 20px;font-size:.85rem;font-weight:800;color:var(--txt);opacity:0;transition:all .28s cubic-bezier(.34,1.56,.64,1);z-index:9998;white-space:nowrap;box-shadow:0 4px 20px rgba(0,0,0,.5);pointer-events:none;max-width:92vw;overflow:hidden;text-overflow:ellipsis}
+.toast.show{opacity:1;transform:translateX(-50%) translateY(0)}
+.ms{position:fixed;top:50%;left:50%;transform:translate(-50%,-50%) scale(.7);background:linear-gradient(135deg,#0a3a68,#1a6fb5);border:3px solid var(--y);border-radius:20px;padding:24px 30px;text-align:center;z-index:9999;opacity:0;transition:all .4s cubic-bezier(.34,1.56,.64,1);pointer-events:none;box-shadow:0 20px 60px rgba(0,0,0,.7);min-width:230px}
+.ms.show{opacity:1;transform:translate(-50%,-50%) scale(1);pointer-events:all}
+.ms-em{font-size:3rem;margin-bottom:8px}
+.ms-ti{font-family:'Boogaloo',cursive;font-size:1.6rem;color:var(--y)}
+.ms-su{font-size:.82rem;color:rgba(255,255,255,.85);margin-top:4px;font-weight:700}
+.ms-btn{margin-top:16px;background:var(--y);color:#111;border:none;border-radius:99px;padding:9px 24px;font-family:'Nunito',sans-serif;font-size:.9rem;font-weight:900;cursor:pointer}
+</style>
+</head>
+<body>
+<header>
+  <div class="title">🔍 PLATE HUNTER</div>
+  <div class="sub">Washington &bull; Spot &bull; Tap &bull; Collect</div>
+</header>
+<div class="pw">
+  <div class="pr"><span class="pl">Washington Plates Found</span><span class="pn" id="pCt">0 / 72</span></div>
+  <div class="pt"><div class="pf" id="pFill" style="width:0%"></div></div>
+  <div class="st">
+    <div class="pill">⭐ <strong id="tPts">0</strong><span>pts</span></div>
+    <div class="pill">🏆 <strong id="lCt">0</strong><span>legendary</span></div>
+    <div class="pill">🔥 <strong id="rCt">0</strong><span>rare</span></div>
+  </div>
+</div>
+<div class="fb" id="fb">
+  <div class="ch on" data-cat="all">All 72</div>
+  <div class="ch" data-cat="military">🎖 Military</div>
+  <div class="ch" data-cat="veterans">🎗 Veterans</div>
+  <div class="ch" data-cat="nature">🌲 Nature</div>
+  <div class="ch" data-cat="sports">🏆 Sports</div>
+  <div class="ch" data-cat="colleges">🎓 Colleges</div>
+  <div class="ch" data-cat="firstresponder">🚒 1st Resp</div>
+  <div class="ch" data-cat="charity">💙 Charity</div>
+  <div class="ch" data-cat="hobby">🎨 Hobby</div>
+  <div class="ch" data-cat="vehicle">🚗 Vehicle</div>
+  <div class="ch" data-cat="tribal">🦅 Tribal</div>
+  <div class="ch" data-cat="found">✅ Found</div>
+</div>
+<div class="grid" id="grid"></div>
+<div class="toast" id="toast"></div>
+<div class="ms" id="ms">
+  <div class="ms-em" id="msEm">🏆</div>
+  <div class="ms-ti" id="msTi">Milestone!</div>
+  <div class="ms-su" id="msSu"></div>
+  <button class="ms-btn" onclick="closeMs()">Keep Hunting!</button>
+</div>
+<script>
+const PLATES=[{"id":"af","name":"US Air Force","cat":"military","rar":"rare","pts":50,"img":"airforcePlate.png"},{"id":"army","name":"US Army","cat":"military","rar":"uncommon","pts":25,"img":"armyPlate.png"},{"id":"cg","name":"US Coast Guard","cat":"military","rar":"rare","pts":50,"img":"coastguardPlate.png"},{"id":"mc","name":"US Marine Corps","cat":"military","rar":"rare","pts":50,"img":"marinesPlate.png"},{"id":"ng","name":"WA National Guard","cat":"military","rar":"rare","pts":50,"img":"NationalGuardPlate.png"},{"id":"navy","name":"US Navy","cat":"military","rar":"rare","pts":50,"img":"navyPlate.png"},{"id":"dav","name":"Disabled American Veteran","cat":"veterans","rar":"rare","pts":50,"img":"disabledVetPlate.png"},{"id":"pow","name":"Former Prisoner of War","cat":"veterans","rar":"legendary","pts":200,"img":"formerPOWplate.png"},{"id":"gs","name":"Gold Star Family","cat":"veterans","rar":"rare","pts":50,"img":"goldstarPlate.png"},{"id":"moh","name":"Medal of Honor","cat":"veterans","rar":"legendary","pts":300,"img":"MOHplate.png"},{"id":"mars","name":"Military Affiliate Radio","cat":"veterans","rar":"legendary","pts":150,"img":"MARSplate.png"},{"id":"ph","name":"Purple Heart","cat":"veterans","rar":"rare","pts":50,"img":"purpleheartPlate.png"},{"id":"v988","name":"988 Prevent Veteran Suicide","cat":"veterans","rar":"rare","pts":50,"img":"lifeline-plate.png"},{"id":"orca","name":"Endangered Wildlife \u2013 Orca","cat":"nature","rar":"uncommon","pts":25,"img":"orcaPlate.jpg"},{"id":"hb","name":"Honeybees & Pollinators","cat":"nature","rar":"rare","pts":50,"img":"honeybees-pollinators-plate.png"},{"id":"lt","name":"Lighthouses","cat":"nature","rar":"rare","pts":50,"img":"lighthousePlate.png"},{"id":"sji","name":"San Juan Islands","cat":"nature","rar":"uncommon","pts":25,"img":"SanJuanIslandsPlate.png"},{"id":"sf","name":"State Flower","cat":"nature","rar":"rare","pts":50,"img":"StateFlowerPlate.png"},{"id":"wac","name":"Washington Apple Commission","cat":"nature","rar":"rare","pts":50,"img":"WashingtonApplesPlate.jpg"},{"id":"np","name":"Washington National Parks","cat":"nature","rar":"common","pts":10,"img":"NationalParksPlate.jpg"},{"id":"stp","name":"Washington State Parks","cat":"nature","rar":"uncommon","pts":25,"img":"StateParksPlate.jpg"},{"id":"bear","name":"Wildlife \u2013 Bear","cat":"nature","rar":"rare","pts":50,"img":"bearPlate.jpg"},{"id":"deer","name":"Wildlife \u2013 Deer","cat":"nature","rar":"rare","pts":50,"img":"deerPlate.jpg"},{"id":"elk","name":"Wildlife \u2013 Elk","cat":"nature","rar":"rare","pts":50,"img":"elkPlate.jpg"},{"id":"steel","name":"Wildlife \u2013 Steelhead","cat":"nature","rar":"rare","pts":50,"img":"SteelheadPlate.png"},{"id":"eagle","name":"Wild on Washington \u2013 Eagle","cat":"nature","rar":"uncommon","pts":25,"img":"eaglePlate.jpg"},{"id":"kwe","name":"Keep WA Evergreen","cat":"nature","rar":"rare","pts":50,"img":"keep-wa-evergreen-plate.png"},{"id":"smb","name":"Smokey Bear","cat":"nature","rar":"rare","pts":50,"img":"smokey-bear-plate.png"},{"id":"msh","name":"Mount St. Helens","cat":"nature","rar":"rare","pts":50,"img":"mount-st-helens-license-plate-scaled.png"},{"id":"hawks","name":"Seattle Seahawks","cat":"sports","rar":"common","pts":10,"img":"seahawksPlate.png"},{"id":"mar","name":"Seattle Mariners","cat":"sports","rar":"uncommon","pts":25,"img":"marinersPlate.png"},{"id":"krak","name":"Seattle Kraken","cat":"sports","rar":"uncommon","pts":25,"img":"kraken-plate.png"},{"id":"sound","name":"Seattle Sounders FC","cat":"sports","rar":"uncommon","pts":25,"img":"soundersPlate.png"},{"id":"storm","name":"Seattle Storm","cat":"sports","rar":"rare","pts":50,"img":"stormPlate.png"},{"id":"ski","name":"Ski and Ride","cat":"sports","rar":"rare","pts":50,"img":"skiPlate.jpg"},{"id":"pkl","name":"State Sport: Pickleball","cat":"sports","rar":"rare","pts":50,"img":"pickleball-plate.png"},{"id":"tennis","name":"Tennis","cat":"sports","rar":"legendary","pts":150,"img":"TennisPlate.png"},{"id":"wrest","name":"Wrestling","cat":"sports","rar":"legendary","pts":150,"img":"WrestlingPlate.png"},{"id":"wsu","name":"Washington State University","cat":"colleges","rar":"common","pts":10,"img":"WSUplate.png"},{"id":"uw","name":"University of Washington","cat":"colleges","rar":"common","pts":10,"img":"UWplate.png"},{"id":"cwu","name":"Central Washington Univ.","cat":"colleges","rar":"uncommon","pts":25,"img":"CWUplate.png"},{"id":"ewu","name":"Eastern Washington Univ.","cat":"colleges","rar":"uncommon","pts":25,"img":"EWUplate.png"},{"id":"esc","name":"The Evergreen State College","cat":"colleges","rar":"rare","pts":50,"img":"TESCplate.png"},{"id":"gonz","name":"Gonzaga University","cat":"colleges","rar":"uncommon","pts":25,"img":"gonzagaPlate.png"},{"id":"seu","name":"Seattle University","cat":"colleges","rar":"rare","pts":50,"img":"seattle-univ-plate.png"},{"id":"wwu","name":"Western Washington Univ.","cat":"colleges","rar":"uncommon","pts":25,"img":"WWUplate.png"},{"id":"lem","name":"Law Enforcement Memorial","cat":"firstresponder","rar":"common","pts":10,"img":"LEMplate.png"},{"id":"pff","name":"Professional Firefighter","cat":"firstresponder","rar":"uncommon","pts":25,"img":"firefighterPlate.png"},{"id":"vff","name":"Volunteer Firefighter","cat":"firstresponder","rar":"rare","pts":50,"img":"VolunteerFirefighterPlate.png"},{"id":"4h","name":"4-H","cat":"charity","rar":"uncommon","pts":25,"img":"4Hplate.png"},{"id":"bca","name":"Breast Cancer Awareness","cat":"charity","rar":"uncommon","pts":25,"img":"Breast-cancer-plate.png"},{"id":"ffa","name":"FFA Foundation","cat":"charity","rar":"rare","pts":50,"img":"FFAplate.png"},{"id":"fh","name":"Fred Hutchinson Cancer Ctr.","cat":"charity","rar":"rare","pts":50,"img":"fredhutchplate.png"},{"id":"hks","name":"Helping Kids Speak","cat":"charity","rar":"rare","pts":50,"img":"HelpingKidsSpeakPlate.png"},{"id":"jpp","name":"J.P. Patches Pal","cat":"charity","rar":"legendary","pts":200,"img":"patches-pal-plate.png"},{"id":"kks","name":"Keep Kids Safe","cat":"charity","rar":"uncommon","pts":25,"img":"KeepKidsSafePlate.png"},{"id":"wine","name":"Washington Wine Commission","cat":"charity","rar":"rare","pts":50,"img":"wine-country-plate.png"},{"id":"pets","name":"We Love Our Pets","cat":"charity","rar":"uncommon","pts":25,"img":"petsPlate.png"},{"id":"ham","name":"Amateur Radio (HAM)","cat":"hobby","rar":"rare","pts":50,"img":"HAMplate.png"},{"id":"fly","name":"Fly Washington Aviation","cat":"hobby","rar":"rare","pts":50,"img":"AviationPlate.png"},{"id":"mm","name":"Music Matters","cat":"hobby","rar":"rare","pts":50,"img":"musicPlate.png"},{"id":"str","name":"Share the Road","cat":"hobby","rar":"rare","pts":50,"img":"ShareRoadPlate.png"},{"id":"sq","name":"Square Dancer","cat":"hobby","rar":"legendary","pts":300,"img":"squaredancePlate.png"},{"id":"tbk","name":"Throwback Blackout","cat":"hobby","rar":"rare","pts":50,"img":"throwback-plate.png"},{"id":"lemay","name":"LeMay Car Museum","cat":"hobby","rar":"rare","pts":50,"img":"lemay-plate.png"},{"id":"col","name":"Collector Vehicle","cat":"vehicle","rar":"common","pts":10,"img":"collectorPlate.png"},{"id":"hc","name":"Horseless Carriage","cat":"vehicle","rar":"legendary","pts":300,"img":"HorselessCarriagePlate.png"},{"id":"rest","name":"Restored Vehicle","cat":"vehicle","rar":"rare","pts":50,"img":"restoredPlate.jpg"},{"id":"rs","name":"Rideshare / Vanpool","cat":"vehicle","rar":"rare","pts":50,"img":"ridesharePlate.png"},{"id":"cheh","name":"Chehalis Tribe","cat":"tribal","rar":"legendary","pts":200,"img":"chehalis-tribe-plate.png"},{"id":"muck","name":"Muckleshoot Tribe","cat":"tribal","rar":"legendary","pts":200,"img":"muckleshoot-tribe-plate.png"},{"id":"puy","name":"Puyallup Tribe","cat":"tribal","rar":"legendary","pts":200,"img":"puyallup-tribe-plate.png"}];
+const TOTAL=72;
+let found=JSON.parse(localStorage.getItem('ph_wa')||'{}');
+let shownMs=JSON.parse(localStorage.getItem('ph_wa_ms')||'[]');
+let filter='all';
+const MS=[
+  {at:1, em:'🚗',ti:'First Plate!',    su:'Your very first Washington plate spotted!'},
+  {at:5, em:'👀',ti:'Eyes Open!',       su:"5 plates — you're on a roll!"},
+  {at:10,em:'🔍',ti:'Plate Detective',  su:'10 plates! Sharp eyes, hunter!'},
+  {at:25,em:'⭐',ti:'Quarter Deck!',    su:'25 plates — one third of the way there!'},
+  {at:50,em:'🔥',ti:'Plate Hunter Pro', su:'50 plates! Seriously impressive!'},
+  {at:TOTAL,em:'🏆',ti:'COMPLETE!',     su:`ALL ${TOTAL} Washington plates found! LEGENDARY!`},
+];
+function render(){
+  const g=document.getElementById('grid');
+  const list=filter==='all'?PLATES:filter==='found'?PLATES.filter(p=>found[p.id]):PLATES.filter(p=>p.cat===filter);
+  if(!list.length){g.innerHTML=`<div style="grid-column:1/-1;text-align:center;padding:60px 20px;color:var(--mut)"><div style="font-size:3rem;margin-bottom:12px">🔍</div><p style="font-weight:800;line-height:1.6">No plates found yet in this category!<br>Get out and start hunting!</p></div>`;return;}
+  g.innerHTML=list.map(p=>{
+    const f=!!found[p.id];
+    return `<div class="card${f?' found':''}" data-id="${p.id}" onclick="tap('${p.id}')">
+      <div class="iw"><img class="plate-img" src="plates/WA/${p.img}" alt="${p.name}" loading="lazy"><div class="chk">✓</div></div>
+      <div class="ci"><div class="cn">${p.name}</div>
+      <div class="cm"><span class="rar r-${p.rar}">${p.rar}</span><span class="pts">+${p.pts}pts</span></div></div></div>`;
+  }).join('');
+}
+function stats(){
+  const fc=PLATES.filter(p=>found[p.id]).length;
+  const pts=PLATES.filter(p=>found[p.id]).reduce((s,p)=>s+p.pts,0);
+  document.getElementById('pCt').textContent=`${fc} / ${TOTAL}`;
+  document.getElementById('pFill').style.width=`${(fc/TOTAL)*100}%`;
+  document.getElementById('tPts').textContent=pts;
+  document.getElementById('lCt').textContent=PLATES.filter(p=>found[p.id]&&p.rar==='legendary').length;
+  document.getElementById('rCt').textContent=PLATES.filter(p=>found[p.id]&&p.rar==='rare').length;
+  return PLATES.filter(p=>found[p.id]).length;
+}
+function tap(id){
+  const p=PLATES.find(x=>x.id===id);if(!p)return;
+  const was=!!found[id];
+  was?delete found[id]:(found[id]=Date.now());
+  localStorage.setItem('ph_wa',JSON.stringify(found));
+  const card=document.querySelector(`[data-id="${id}"]`);
+  if(card){card.classList.toggle('found',!was);card.classList.add('pop');setTimeout(()=>card.classList.remove('pop'),350);}
+  if(!was){confetti(card);showToast(p);checkMs(stats());}else stats();
+  if(filter==='found')render();
+}
+const CC=['#f5c518','#2db37a','#f07d18','#e03c3c','#8b5cf6','#4fc3f7','#ff6eb4'];
+function confetti(el){
+  if(!el)return;
+  const r=el.getBoundingClientRect(),cx=r.left+r.width/2,cy=r.top+r.height/2;
+  const b=document.createElement('div');b.className='burst';b.style.cssText=`left:${cx}px;top:${cy}px`;
+  for(let i=0;i<20;i++){
+    const bit=document.createElement('div');bit.className='bit';
+    const a=(i/20)*360,d=45+Math.random()*60,s=5+Math.random()*6;
+    bit.style.cssText=`background:${CC[i%CC.length]};width:${s}px;height:${s}px;--tx:${Math.cos(a*Math.PI/180)*d}px;--ty:${Math.sin(a*Math.PI/180)*d}px;--tr:${Math.random()*360}deg;left:-3px;top:-3px`;
+    b.appendChild(bit);
+  }
+  document.body.appendChild(b);setTimeout(()=>b.remove(),850);
+}
+let tT;
+function showToast(p){
+  const t=document.getElementById('toast');
+  const m={legendary:`🏆 LEGENDARY! ${p.name} +${p.pts}pts!!`,rare:`🔥 Rare find! ${p.name} +${p.pts}pts`,uncommon:`✨ Nice! ${p.name} +${p.pts}pts`,common:`✓ Spotted! ${p.name} +${p.pts}pts`};
+  t.textContent=m[p.rar]||m.common;
+  t.style.borderColor=p.rar==='legendary'?'var(--y)':p.rar==='rare'?'var(--o)':'var(--g)';
+  t.classList.add('show');clearTimeout(tT);tT=setTimeout(()=>t.classList.remove('show'),2600);
+}
+function checkMs(count){
+  const m=MS.find(m=>m.at===count&&!shownMs.includes(m.at));
+  if(!m)return;
+  shownMs.push(m.at);localStorage.setItem('ph_wa_ms',JSON.stringify(shownMs));
+  setTimeout(()=>{document.getElementById('msEm').textContent=m.em;document.getElementById('msTi').textContent=m.ti;document.getElementById('msSu').textContent=m.su;document.getElementById('ms').classList.add('show');},600);
+}
+function closeMs(){document.getElementById('ms').classList.remove('show');}
+document.getElementById('fb').addEventListener('click',e=>{
+  const ch=e.target.closest('.ch');if(!ch)return;
+  document.querySelectorAll('.ch').forEach(c=>c.classList.remove('on'));
+  ch.classList.add('on');filter=ch.dataset.cat;render();
+});
+render();stats();
+</script>
+</body>
+</html>
