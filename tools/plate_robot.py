@@ -467,14 +467,14 @@ def main() -> int:
         return 0
     pages = json.loads((ROOT / "data" / "watch.json").read_text(encoding="utf-8"))
     if a.only:
-        pages = [p for p in pages if p["code"][:2] in {c.upper() for c in a.only}]
+        pages = [p for p in pages if p["code"].split("-")[0] in {c.upper() for c in a.only}]
     SNAP.mkdir(parents=True, exist_ok=True)
     status_file = SNAP / "_status.json"
     status = json.loads(status_file.read_text()) if status_file.exists() else {}
     states: dict[str, State] = {}
     report: list[str] = []
     for page in pages:
-        st = page["code"][:2]
+        st = page["code"].split("-")[0]   # "WA-2" is Washington's second page; Mexico's codes have three letters
         if not (ROOT / "data" / f"{st}.json").exists():
             continue
         states.setdefault(st, State(st))

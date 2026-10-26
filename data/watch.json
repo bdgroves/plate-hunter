@@ -468,5 +468,45 @@
   "code": "TAM",
   "name": "Tamaulipas",
   "url": "https://tamaulipas.gob.mx/2025/03/invita-gobierno-de-tamaulipas-a-aprovechar-el-50-de-descuento-en-recargos-y-a-regularizar-la-tenencia-vehicular/"
+ },
+ {
+  "code": "BCN",
+  "name": "Baja California",
+  "url": "https://www.bajacalifornia.gob.mx/Prensa/Noticia/26394"
+ },
+ {
+  "code": "COA",
+  "name": "Coahuila",
+  "url": "https://coahuila.gob.mx/noticias/index/atiende-gobierno-estatal-alta-demanda-en-replaqueo-y-pago-de-derechos-de-control-vehicular-03-01-25"
+ },
+ {
+  "code": "PUE",
+  "name": "Puebla",
+  "url": "https://www.puebla.gob.mx/index.php/noticias/item/23330-presenta-gobierno-del-estado-placas-conmemorativas-mexico-2026"
+ },
+ {
+  "code": "PUE-2",
+  "name": "Puebla",
+  "url": "https://puebla.gob.mx/index.php/noticias/item/20813-gobierno-de-puebla-informa-sobre-la-entrega-de-placas-para-vehiculos-ecologicos"
+ },
+ {
+  "code": "CMX",
+  "name": "Mexico City",
+  "url": "https://www.semovi.cdmx.gob.mx/tramites-y-servicios/vehiculos-particulares/placas/alta-de-placas-para-vehiculo-hibrido"
+ },
+ {
+  "code": "CMX-2",
+  "name": "Mexico City",
+  "url": "https://noticiasc21.cdmx.gob.mx/noticia/cdmx-arranca-entrega-de-placas-conmemorativas-del-mundial-2026-esto-es-lo-que-debes-saber"
+ },
+ {
+  "code": "VER",
+  "name": "Veracruz",
+  "url": "https://www.veracruz.gob.mx/2026/01/06/programa-de-reemplacamiento-2026-ano-nuevo-placas-nuevas/"
+ },
+ {
+  "code": "ROO",
+  "name": "Quintana Roo",
+  "url": "https://sefiplan.qroo.gob.mx/site/contenido/211"
  }
 ]

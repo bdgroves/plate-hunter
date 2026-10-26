@@ -8,8 +8,8 @@
 
 Two games in one page:
 
-- **🗺 States**: the classic. Spot a plate from every state (and DC) on this trip. Tap a state on the map or in the list, and watch the country fill in yellow. Start a new trip when you set off again; the states you've *ever* seen are kept.
-- **✨ Specialty**: the deep cut. Washington has 72 special-design plates, from pickleball to the Muckleshoot Tribe to a plate only for cars built before 1916. Tap one when you spot it. The rarer it is on real roads, the more it's worth. **Every state is here too: about 7,100 plates in all.** Washington, Oregon, Idaho, California and Nevada are checked against each state's current list; the rest come from a 2023 snapshot and are being checked one state at a time.
+- **🗺 States**: the classic. Spot a plate from every state (and DC) on this trip. Tap a state on the map or in the list, and watch the country fill in gold. A switch above the map flips to **🇨🇦 Canada** (10 provinces, 3 territories) and **🇲🇽 Mexico** (31 states and Mexico City); each country keeps its own count, and one trip spans all three. Start a new trip when you set off again; the places you've *ever* seen are kept.
+- **✨ Specialty**: the deep cut. **8,099 special-design plates** from every US state, Canadian province and territory, and Mexican state, from Washington's square dancer (five on the road) to Nunavut's polar-bear plate. Tap one when you spot it. In Washington the rarer it is on real roads, the more it's worth. Every list has been checked against the licensing agency's current one (October 2026), and plates a state no longer sells stay in the game marked *No longer sold, still on the road*. Mexico's lists are the designs a road-tripper can still spot: the current plate, earlier designs still legal, World Cup 2026, eco and antique plates.
 
 No server. No login. No ads. It installs to a phone's home screen and works with no signal.
 
@@ -61,21 +61,33 @@ plate-hunter/
 ├── manifest.webmanifest    home-screen install
 ├── data/
 │   ├── states.json         50 states + DC, with each one's everyday plate
+│   ├── provinces.json      Canada's 13 provinces and territories (same shape)
+│   ├── mexico.json         Mexico's 32 states (ISO 3166-2 codes: JAL, CMX …)
 │   ├── us-map.json         state outlines (us-atlas, Albers USA)
+│   ├── ca-map.json         province outlines (Natural Earth 1:50m, Statistics Canada Lambert)
+│   ├── mx-map.json         Mexican state outlines (Natural Earth 1:10m, EPSG:6372)
 │   ├── collections.json    the specialty collections and how many plates each has
-│   ├── WA.json …           one file per state: every specialty plate
+│   ├── WA.json ON.json JAL.json …  one file per state/province: every specialty plate
 │   ├── watch.json          the agency pages the plate robot visits
 │   ├── watch/              what it decided about each picture on each page (+ _status.json)
 │   ├── known/              fingerprints of every 2023 US plate picture
 │   └── pending.json        pictures waiting for a person to say yes or no
 ├── plates/
 │   ├── WA/ OR/ …           specialty plate pictures (WebP, 480 px)
-│   └── standard/           one everyday plate per state
+│   └── standard/           one everyday plate per state, province and Mexican state
+├── incoming/               pictures a person fetched by hand (see "Sites that refuse GitHub")
 ├── research/               the curated source lists the tools build from
+│   ├── since2023/          what changed since the 2023 snapshot, five passes (Oct 2026)
+│   ├── canada/ · mexico/   the Canadian and Mexican research, with the briefs used
 └── tools/
     ├── validate.py         checks every data file (runs on every push)
     ├── research_from_keegan.py  first-draft research lists from the 2023 dataset
     ├── add_state.py        builds a state's collection from a research list
+    ├── apply_since.py      applies a "what changed since 2023" research file
+    ├── add_canada.py       builds a Canadian or Mexican collection from a research file
+    ├── fetch_pictures.py   downloads pictures known only by address (fetch-pictures.yml)
+    ├── grab_pictures.ps1   PowerShell: downloads waiting pictures at home
+    ├── grab_in_browser.js  Chrome console: the same, for sites that only answer a browser
     ├── index.py            rebuilds data/collections.json
     ├── standard_plates.py  builds the States game's plate pictures
     ├── plate_robot.py      the plate robot (see below)
@@ -121,11 +133,15 @@ People can also report a plate from the game (**?** → *Tell us on GitHub*).
 
 Categories: military, veterans, nature, sports, colleges, firstresponder, charity, hobby, vehicle, tribal, other. Ids are lowercase with dashes and never change once published (finds are saved by id).
 
+### Sites that refuse GitHub
+
+Some agency sites refuse GitHub's servers (Illinois, Nunavut, many Mexican states), so their pictures can't be downloaded by `fetch-pictures.yml`. Open the agency's site in Chrome, press F12, open the Console and paste [`tools/grab_in_browser.js`](tools/grab_in_browser.js): it saves every picture still waiting on that site as `STATE--plate-id.ext` (or `standard--CODE.ext` for an everyday plate). Drag the files into [`incoming/`](incoming/) on GitHub and commit; `fetch-pictures.yml` converts them, checks they're plate-shaped, points the plates at them and removes the used files. A plate entry may carry `"img_crop": [x0, y0, x1, y1]` to cut the plate out of a press photo.
+
 ### Checking a state
 
 Every state starts as a first draft made by `tools/research_from_keegan.py` from Jon Keegan's 2023 dataset: plates nobody sees on a car (dealer, government, motorcycle, trailer, taxi…) dropped, variants of one design folded together, a category guessed from the title, and every entry marked `"status": "keegan-2023"`. The game labels those states *2023 list*.
 
-To check one (Washington, Oregon, Idaho, California and Nevada are done):
+Every state has now been checked (October 2026; see `research/since2023/`). To check one again:
 
 1. Open `research/<STATE>.json` beside the state's current plate page. Fix names and categories, set plates the state no longer sells to `"status": "discontinued"`, add new plates (a picture file in Keegan's dataset, or `"source_img"` with the agency's picture address), and change every `"keegan-2023"` to `"current"`. Add `"vehicles"` wherever the state publishes counts; with enough of them the state gets real rarity tiers.
 2. `python tools/add_state.py <STATE> research/<STATE>.json --keegan path/to/us-license-plates`
@@ -138,8 +154,8 @@ Plate ids come from the names, and finds are saved by id, so rename with care on
 
 ## Credits
 
-Plate pictures are from the states' licensing agencies, most by way of **[jonkeegan/us-license-plates](https://github.com/jonkeegan/us-license-plates)**: every US plate as of mid-2023, collected by Jon Keegan for [Beautiful Public Data](https://www.beautifulpublicdata.com/). Newer Washington plates (Pickleball, Keep WA Evergreen, Honeybees, LeMay, Throwback, Smokey Bear, Mount St. Helens) come from the [Washington State Department of Licensing](https://dol.wa.gov/vehicles-and-boats/vehicles/license-plates/get-custom-plates/special-design-plates).
+Plate pictures are from the licensing agencies of the US states, Canadian provinces and territories and Mexican states, and from the plates' sponsors; most US ones by way of **[jonkeegan/us-license-plates](https://github.com/jonkeegan/us-license-plates)**: every US plate as of mid-2023, collected by Jon Keegan for [Beautiful Public Data](https://www.beautifulpublicdata.com/). Newer Washington plates (Pickleball, Keep WA Evergreen, Honeybees, LeMay, Throwback, Smokey Bear, Mount St. Helens) come from the [Washington State Department of Licensing](https://dol.wa.gov/vehicles-and-boats/vehicles/license-plates/get-custom-plates/special-design-plates).
 
-Washington counts: WA DOL 2025 registration figures, via [Gene Balk, Seattle Times, April 20, 2026](https://www.seattletimes.com). State outlines: [us-atlas](https://github.com/topojson/us-atlas) (US Census Bureau cartographic boundaries).
+Washington counts: WA DOL 2025 registration figures, via [Gene Balk, Seattle Times, April 20, 2026](https://www.seattletimes.com). State outlines: [us-atlas](https://github.com/topojson/us-atlas) (US Census Bureau cartographic boundaries). Canada and Mexico: [Natural Earth](https://www.naturalearthdata.com/) admin-1 boundaries (public domain).
 
 Part of [brooksgroves.com](https://brooksgroves.com) · [GitHub](https://github.com/bdgroves) · [Bluesky](https://bsky.app/profile/bdgroves.bsky.social)
