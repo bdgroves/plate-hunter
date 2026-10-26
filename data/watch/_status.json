@@ -14,9 +14,11 @@
   "checked": "2026-10-26"
  },
  "CA": {
-  "url": "https://www.dmv.ca.gov/portal/vehicle-registration/license-plates-decals-and-placards/california-license-plates/special-license-plates/",
-  "ok": false,
-  "error": "HTTP Error 404: Not Found",
+  "url": "https://www.dmv.ca.gov/portal/vehicle-registration/license-plates-decals-and-placards/license-plates/special-interest-special-license-plates/",
+  "ok": true,
+  "pictures": 121,
+  "plates": 39,
+  "added": [],
   "checked": "2026-10-26"
  },
  "CO": {
@@ -79,6 +81,14 @@
   "url": "https://itd.idaho.gov/wp-content/uploads/2016/06/plates.pdf",
   "ok": false,
   "error": "HTTP Error 404: Not Found",
+  "checked": "2026-10-26"
+ },
+ "ID-2": {
+  "url": "https://itd.idaho.gov/?p=3247",
+  "ok": true,
+  "pictures": 1,
+  "plates": 0,
+  "added": [],
   "checked": "2026-10-26"
  },
  "IN": {
@@ -144,9 +154,11 @@
   "checked": "2026-10-26"
  },
  "MN": {
-  "url": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf",
-  "ok": false,
-  "error": "HTTP Error 404: Not Found",
+  "url": "https://dps.mn.gov/divisions/dvs/vehicle/license-plates/specialized-license-plates",
+  "ok": true,
+  "pictures": 96,
+  "plates": 47,
+  "added": [],
   "checked": "2026-10-26"
  },
  "MO": {
@@ -246,9 +258,11 @@
   "checked": "2026-10-26"
  },
  "OK": {
-  "url": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/mv-forms/Specialty%20Plates%20Catalog.pdf",
-  "ok": false,
-  "error": "HTTP Error 404: Not Found",
+  "url": "https://oklahoma.gov/service/all-services/auto-vehicle/specialty-plates.html",
+  "ok": true,
+  "pictures": 5,
+  "plates": 0,
+  "added": [],
   "checked": "2026-10-26"
  },
  "OR": {

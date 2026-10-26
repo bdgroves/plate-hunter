@@ -1,0 +1,33 @@
+{
+ "code": "OK",
+ "url": "https://oklahoma.gov/service/all-services/auto-vehicle/specialty-plates.html",
+ "complete": true,
+ "pictures": {
+  "/service/all-services/auto-vehicle/specialty-plates/_jcr_content/root/container/container_1615430378/contentblock.coreimg.png/1772835750645/one.png": {
+   "src": "https://oklahoma.gov/service/all-services/auto-vehicle/specialty-plates/_jcr_content/root/container/container_1615430378/contentblock.coreimg.png/1772835750645/one.png",
+   "alt": "One",
+   "verdict": "not-a-plate"
+  },
+  "/service/all-services/auto-vehicle/specialty-plates/_jcr_content/root/container/container_1615430378/contentblock_227002160.coreimg.jpeg/1707170480748/car-driving-picture.jpeg": {
+   "src": "https://oklahoma.gov/service/all-services/auto-vehicle/specialty-plates/_jcr_content/root/container/container_1615430378/contentblock_227002160.coreimg.jpeg/1707170480748/car-driving-picture.jpeg",
+   "alt": "",
+   "verdict": "not-a-plate"
+  },
+  "/service/all-services/auto-vehicle/specialty-plates/_jcr_content/root/container/container_1615430378/contentblock_copy_1015779086.coreimg.png/1772836061873/four.png": {
+   "src": "https://oklahoma.gov/service/all-services/auto-vehicle/specialty-plates/_jcr_content/root/container/container_1615430378/contentblock_copy_1015779086.coreimg.png/1772836061873/four.png",
+   "alt": "Four",
+   "verdict": "not-a-plate"
+  },
+  "/service/all-services/auto-vehicle/specialty-plates/_jcr_content/root/container/container_1615430378/contentblock_copy_1661012790.coreimg.png/1778516329095/two.png": {
+   "src": "https://oklahoma.gov/service/all-services/auto-vehicle/specialty-plates/_jcr_content/root/container/container_1615430378/contentblock_copy_1661012790.coreimg.png/1778516329095/two.png",
+   "alt": "Two",
+   "verdict": "not-a-plate"
+  },
+  "/service/all-services/auto-vehicle/specialty-plates/_jcr_content/root/container/container_1615430378/contentblock_copy_1981025433.coreimg.png/1778516436833/three.png": {
+   "src": "https://oklahoma.gov/service/all-services/auto-vehicle/specialty-plates/_jcr_content/root/container/container_1615430378/contentblock_copy_1981025433.coreimg.png/1778516436833/three.png",
+   "alt": "Three",
+   "verdict": "not-a-plate"
+  }
+ },
+ "checked": "2026-10-26"
+}

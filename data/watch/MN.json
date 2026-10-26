@@ -1,0 +1,468 @@
+{
+ "code": "MN",
+ "url": "https://dps.mn.gov/divisions/dvs/vehicle/license-plates/specialized-license-plates",
+ "complete": false,
+ "pictures": {
+  "/_next/image": {
+   "src": "https://dps.mn.gov/_next/image?url=%2Fstatic%2Fmdps-logo.png&w=1920&q=75",
+   "alt": "DPS - Home",
+   "verdict": "not-a-plate"
+  },
+  "/files/dvs/Agriculture-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Agriculture-Text-1500x751.jpg?v=1765415252",
+   "alt": "Sample of an Agriculture license plate",
+   "verdict": "pending:MN-of-an-agriculture"
+  },
+  "/files/dvs/Amateur-Radio-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Amateur-Radio-Text-1500x751.jpg?v=1765415253",
+   "alt": "Sample of an Amateur Radio license plate",
+   "verdict": "plate:aro-amateur-radio"
+  },
+  "/files/dvs/American-Legion-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/American-Legion-Text-1500x751.jpg?v=1765415254",
+   "alt": "Sample of an American Legion license plate",
+   "verdict": "plate:retired-law-enforcement"
+  },
+  "/files/dvs/BENNIESREADY.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/BENNIESREADY.jpg?v=1782244791",
+   "alt": "College of St. Benedict license plate with the letters CSB in red on the left side and the word Bennies underneath.",
+   "verdict": "pending:MN-concordia-university-st-paul"
+  },
+  "/files/dvs/Blackout-Blank-1500x763.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Blackout-Blank-1500x763.jpg?v=1765415260",
+   "alt": "Sample of a Blackout license plate",
+   "verdict": "pending:MN-of-a-blackout"
+  },
+  "/files/dvs/Collegiate-Augsburg-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Collegiate-Augsburg-Text-1500x751.jpg?v=1778093315",
+   "alt": "Sample of an Augsburg College license plate",
+   "verdict": "plate:collegiate-bemidji"
+  },
+  "/files/dvs/Collegiate-Bemidji-State-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Collegiate-Bemidji-State-Text-1500x751.jpg?v=1765415283",
+   "alt": "Sample of a Bemidji State University license plate",
+   "verdict": "plate:collegiate-bemidji"
+  },
+  "/files/dvs/Collegiate-Bethel-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Collegiate-Bethel-Text-1500x751.jpg?v=1765415285",
+   "alt": "Sample of a Bethel University license plate",
+   "verdict": "pending:MN-of-a-bethel-university"
+  },
+  "/files/dvs/Collegiate-Concordia-Moorhead-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Collegiate-Concordia-Moorhead-Text-1500x751.jpg?v=1765415286",
+   "alt": "Sample of a Concordia College Moorhead license plate",
+   "verdict": "plate:collegiate-concordia-college-moorhead"
+  },
+  "/files/dvs/Collegiate-Concordia-St.-Paul-Text-1500x768.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Collegiate-Concordia-St.-Paul-Text-1500x768.jpg?v=1765415287",
+   "alt": "Sample of a Concordia University St. Paul license plate",
+   "verdict": "plate:collegiate-concordia-university-st-paul"
+  },
+  "/files/dvs/Collegiate-Crown-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Collegiate-Crown-Text-1500x751.jpg?v=1765415289",
+   "alt": "Sample of a Crown College license plate",
+   "verdict": "plate:collegiate-st-thomas"
+  },
+  "/files/dvs/Collegiate-Gustavus-Adolphus-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Collegiate-Gustavus-Adolphus-Text-1500x751.jpg?v=1765415290",
+   "alt": "Sample of a Gustavus Adolphus College license plate",
+   "verdict": "plate:collegiate-concordia-college-moorhead"
+  },
+  "/files/dvs/Collegiate-Hamline-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Collegiate-Hamline-Text-1500x751.jpg?v=1765415291",
+   "alt": "Sample of a Hamline University license plate",
+   "verdict": "plate:collegiate-concordia-university-st-paul"
+  },
+  "/files/dvs/Collegiate-MN-State-Mankato-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Collegiate-MN-State-Mankato-Text-1500x751.jpg?v=1765415296",
+   "alt": "Sample of a Minnesota State Mankato license plate",
+   "verdict": "plate:collegiate-concordia-college-moorhead"
+  },
+  "/files/dvs/Collegiate-MN-State-Univ-Moorhead-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Collegiate-MN-State-Univ-Moorhead-Text-1500x751.jpg?v=1765415297",
+   "alt": "Sample of a Minnesota State University Moorhead license plate",
+   "verdict": "plate:collegiate-minnesota-state-university-mo"
+  },
+  "/files/dvs/Collegiate-Macalester-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Collegiate-Macalester-Text-1500x751.jpg?v=1765415293",
+   "alt": "Sample of a Macalester College license plate",
+   "verdict": "plate:collegiate-macalester-university"
+  },
+  "/files/dvs/Collegiate-Metro-State-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Collegiate-Metro-State-Text-1500x751.jpg?v=1765415294",
+   "alt": "Sample of a Metro State University license plate",
+   "verdict": "plate:collegiate-st-olaf"
+  },
+  "/files/dvs/Collegiate-Southwest-MN-State-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Collegiate-Southwest-MN-State-Text-1500x751.jpg?v=1765415298",
+   "alt": "Sample of a Southwest Minnesota State University license plate",
+   "verdict": "plate:collegiate-u-of-m-duluth"
+  },
+  "/files/dvs/Collegiate-St-Catherine-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Collegiate-St-Catherine-Text-1500x751.jpg?v=1765415301",
+   "alt": "Sample of a St. Catherine University license plate",
+   "verdict": "plate:collegiate-st-catherine-s-university"
+  },
+  "/files/dvs/Collegiate-St-Cloud-State-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Collegiate-St-Cloud-State-Text-1500x751.jpg?v=1765415303",
+   "alt": "Sample of a St. Cloud State University license plate",
+   "verdict": "plate:collegiate-st-thomas"
+  },
+  "/files/dvs/Collegiate-St-Johns-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Collegiate-St-Johns-Text-1500x751.jpg?v=1782244683",
+   "alt": "Sample of a Saint John's University license plate",
+   "verdict": "pending:MN-of-a-saint-john-s-university"
+  },
+  "/files/dvs/Collegiate-St-Olaf-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Collegiate-St-Olaf-Text-1500x751.jpg?v=1765415307",
+   "alt": "Sample of a St. Olaf College license plate",
+   "verdict": "plate:collegiate-st-olaf"
+  },
+  "/files/dvs/Collegiate-St-Scholastica-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Collegiate-St-Scholastica-Text-1500x751.jpg?v=1765415308",
+   "alt": "Sample of a the College of St. Scholastica license plate",
+   "verdict": "plate:collegiate-st-thomas"
+  },
+  "/files/dvs/Collegiate-St-Thomas-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Collegiate-St-Thomas-Text-1500x751.jpg?v=1765415310",
+   "alt": "Sample of a University of St. Thomas license plate",
+   "verdict": "plate:collegiate-st-thomas"
+  },
+  "/files/dvs/Collegiate-Univ-of-Northwestern-St.-Paul-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Collegiate-Univ-of-Northwestern-St.-Paul-Text-1500x751.jpg?v=1765415311",
+   "alt": "Sample of a University of Northwestern St. Paul license plate",
+   "verdict": "plate:collegiate-st-thomas"
+  },
+  "/files/dvs/Collegiate-UofM-Crookston-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Collegiate-UofM-Crookston-Text-1500x751.jpg?v=1765415312",
+   "alt": "Sample of a University of Minnesota Crookston license plate",
+   "verdict": "plate:collegiate-u-of-m-morris"
+  },
+  "/files/dvs/Collegiate-UofM-Duluth-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Collegiate-UofM-Duluth-Text-1500x751.jpg?v=1765415314",
+   "alt": "Sample of a University of Minnesota Duluth license plate",
+   "verdict": "plate:collegiate-u-of-m-duluth"
+  },
+  "/files/dvs/Collegiate-UofM-Morris-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Collegiate-UofM-Morris-Text-1500x751.jpg?v=1765415315",
+   "alt": "Sample of a University of Minnesota Morris license plate",
+   "verdict": "plate:collegiate-u-of-m-morris"
+  },
+  "/files/dvs/Collegiate-UofM-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Collegiate-UofM-Text-1500x751.jpg?v=1765415317",
+   "alt": "Sample of a University of Minnesota license plate",
+   "verdict": "plate:collegiate-u-of-m-twin-cities"
+  },
+  "/files/dvs/Collegiate-Winona-State-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Collegiate-Winona-State-Text-1500x751.jpg?v=1765415318",
+   "alt": "Sample of a Winona State University license plate",
+   "verdict": "plate:collegiate-bemidji"
+  },
+  "/files/dvs/Critical-Habitat-Angler-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Critical-Habitat-Angler-Text-1500x751.jpg?v=1765415319",
+   "alt": "Sample of a Critical Habitat Angler license plate",
+   "verdict": "pending:MN-of-a-critical-habitat-angler"
+  },
+  "/files/dvs/Critical-Habitat-Buck-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Critical-Habitat-Buck-Text-1500x751.jpg?v=1765415321",
+   "alt": "Sample of a Critical Habitat Buck license plate",
+   "verdict": "pending:MN-of-a-critical-habitat-buck"
+  },
+  "/files/dvs/Critical-Habitat-Chickadee-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Critical-Habitat-Chickadee-Text-1500x751.jpg?v=1765415322",
+   "alt": "Sample of a Critical Habitat Chickadee license plate",
+   "verdict": "pending:MN-of-a-critical-habitat-chickadee"
+  },
+  "/files/dvs/Critical-Habitat-Deer-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Critical-Habitat-Deer-Text-1500x751.jpg?v=1765415323",
+   "alt": "Sample of a Critical Habitat Deer license plate",
+   "verdict": "pending:MN-of-a-critical-habitat-deer"
+  },
+  "/files/dvs/Critical-Habitat-Lady-Slipper-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Critical-Habitat-Lady-Slipper-Text-1500x751.jpg?v=1765415325",
+   "alt": "Sample of a Critical Habitat Lady Slipper license plate",
+   "verdict": "pending:MN-of-a-critical-habitat-lady-slipper"
+  },
+  "/files/dvs/Critical-Habitat-Loon-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Critical-Habitat-Loon-Text-1500x751.jpg?v=1765415326",
+   "alt": "Sample of a Critical Habitat Loon license plate",
+   "verdict": "pending:MN-of-a-critical-habitat-loon"
+  },
+  "/files/dvs/Critical-Habitat-Moose-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Critical-Habitat-Moose-Text-1500x751.jpg?v=1765415327",
+   "alt": "Sample of a Critical Habitat Moose license plate",
+   "verdict": "plate:critical-habitat-dnr-conservation-kouba-"
+  },
+  "/files/dvs/Critical-Habitat-Pheasant-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Critical-Habitat-Pheasant-Text-1500x751.jpg?v=1765415329",
+   "alt": "Sample of a Critical Habitat Pheasant license plate",
+   "verdict": "plate:critical-habitat-dnr-conservation-pheasa"
+  },
+  "/files/dvs/Critical-Habitat-Pollinator-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Critical-Habitat-Pollinator-Text-1500x751.jpg?v=1765415330",
+   "alt": "Sample of a Critical Habitat Pollinator license plate",
+   "verdict": "plate:critical-habitat-dnr-conservation-pollin"
+  },
+  "/files/dvs/Disabled-American-Vet-Org-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Disabled-American-Vet-Org-Text-1500x751.jpg?v=1765415346",
+   "alt": "Sample of a Disabled American Veteran Organization license plate",
+   "verdict": "plate:retired-law-enforcement"
+  },
+  "/files/dvs/Firefighter-Text-1500x751_0.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Firefighter-Text-1500x751_0.jpg?v=1765415451",
+   "alt": "Sample of a Volunteer Firefighter license plate",
+   "verdict": "pending:MN-of-a-volunteer-firefighter"
+  },
+  "/files/dvs/Gold-Star-Family-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Gold-Star-Family-Text-1500x751.jpg?v=1765415454",
+   "alt": "Sample of a Gold Star Family license plate",
+   "verdict": "pending:MN-of-a-gold-star-family"
+  },
+  "/files/dvs/Honorary-Consul-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Honorary-Consul-Text-1500x751.jpg?v=1765415460",
+   "alt": "Sample of an Honorary Consul license plate",
+   "verdict": "not-for-cars"
+  },
+  "/files/dvs/LPSMUM2-904x459.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/LPSMUM2-904x459.jpg?v=1784900623",
+   "alt": "Sample of a Saint Mary's University license plate",
+   "verdict": "plate:collegiate-u-of-m-duluth"
+  },
+  "/files/dvs/Law-Enforcement-Memorial-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Law-Enforcement-Memorial-Text-1500x751.jpg?v=1765415469",
+   "alt": "Sample of a Law Enforcement Memorial license plate",
+   "verdict": "plate:law-enforcement-memorial"
+  },
+  "/files/dvs/MMIR-Text-1500x751.png": {
+   "src": "https://assets.dps.mn.gov/files/dvs/MMIR-Text-1500x751.png?v=1765415493",
+   "alt": "Sample of a Missing and Murdered Indigenous Relatives (MMIR) license plate",
+   "verdict": "pending:MN-support-our-troops"
+  },
+  "/files/dvs/MN-Sports-Lynx-Blank-1500x744.png": {
+   "src": "https://assets.dps.mn.gov/files/dvs/MN-Sports-Lynx-Blank-1500x744.png?v=1787671190",
+   "alt": "Sample of a Lynx sports team license plate",
+   "verdict": "pending:MN-of-a-lynx-sports-team"
+  },
+  "/files/dvs/MN-Sports-Timberwolves-Blank-1500x752.png": {
+   "src": "https://assets.dps.mn.gov/files/dvs/MN-Sports-Timberwolves-Blank-1500x752.png?v=1792417245",
+   "alt": "License plate with black background and green text on top and bottom that read Minnesota Timberwolves. Team logo on the left side.",
+   "verdict": "pending:MN-vikings"
+  },
+  "/files/dvs/MN-Sports-Twins-Text-1500x750.png": {
+   "src": "https://assets.dps.mn.gov/files/dvs/MN-Sports-Twins-Text-1500x750.png?v=1765415504",
+   "alt": "Sample of a Twins sports team license plate",
+   "verdict": "pending:MN-of-a-twins-sports-team"
+  },
+  "/files/dvs/MN-Sports-United-Text-1500x763.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/MN-Sports-United-Text-1500x763.jpg?v=1765415508",
+   "alt": "Sample of a Minnesota United sports team license plate",
+   "verdict": "pending:MN-of-a-minnesota-united-sports-team"
+  },
+  "/files/dvs/MN-Sports-Vikings-Text-1500x758.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/MN-Sports-Vikings-Text-1500x758.jpg?v=1765415511",
+   "alt": "Sample of a Vikings sports team license plate",
+   "verdict": "pending:MN-of-a-vikings-sports-team"
+  },
+  "/files/dvs/MN-Sports-Wild-Text-1500x766.png": {
+   "src": "https://assets.dps.mn.gov/files/dvs/MN-Sports-Wild-Text-1500x766.png?v=1765415514",
+   "alt": "Sample of a Wild sports team license plate",
+   "verdict": "pending:MN-of-a-wild-sports-team"
+  },
+  "/files/dvs/Minnesota-Golf-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Minnesota-Golf-Text-1500x751.jpg?v=1765415489",
+   "alt": "Sample of a Minnesota Golf license plate",
+   "verdict": "pending:MN-of-a-minnesota-golf"
+  },
+  "/files/dvs/National-Guard-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/National-Guard-Text-1500x751.jpg?v=1765415551",
+   "alt": "Sample of a National Guard license plate",
+   "verdict": "pending:MN-of-a-national-guard"
+  },
+  "/files/dvs/Proud-to-be-a-Veteran-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Proud-to-be-a-Veteran-Text-1500x751.jpg?v=1765415563",
+   "alt": "Sample of a Proud to be a Veteran license plate",
+   "verdict": "plate:retired-law-enforcement"
+  },
+  "/files/dvs/Ready-Reserve-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Ready-Reserve-Text-1500x751.jpg?v=1765415566",
+   "alt": "Sample of a Ready Reserve license plate",
+   "verdict": "pending:MN-of-a-ready-reserve"
+  },
+  "/files/dvs/Remembering-Victims-of-Impaired-Drivers-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Remembering-Victims-of-Impaired-Drivers-Text-1500x751.jpg?v=1765415588",
+   "alt": "Sample of a Remembering Victims of Impaired Drivers license plate",
+   "verdict": "plate:retired-law-enforcement"
+  },
+  "/files/dvs/Retired-Firefighter-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Retired-Firefighter-Text-1500x751.jpg?v=1765415591",
+   "alt": "Sample of a Retried Firefighter license plate",
+   "verdict": "pending:MN-of-a-retried-firefighter"
+  },
+  "/files/dvs/Retired-Law-Enforcement-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Retired-Law-Enforcement-Text-1500x751.jpg?v=1765415594",
+   "alt": "Sample of a Retired Law Enforcement license plate",
+   "verdict": "plate:retired-law-enforcement"
+  },
+  "/files/dvs/Standard-Collector-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Standard-Collector-Text-1500x751.jpg?v=1765415600",
+   "alt": "Sample of a Collector license plate",
+   "verdict": "plate:collector-class-streetrod"
+  },
+  "/files/dvs/Standard-Pioneer-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Standard-Pioneer-Text-1500x751.jpg?v=1765415629",
+   "alt": "Sample of a Pioneer license plate",
+   "verdict": "pending:MN-of-a-pioneer"
+  },
+  "/files/dvs/Standard-Street-Rod-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Standard-Street-Rod-Text-1500x751.jpg?v=1765415630",
+   "alt": "Sample of a Street Rod license plate",
+   "verdict": "plate:collector-class-streetrod"
+  },
+  "/files/dvs/Start-Seeing-Motorcycles-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Start-Seeing-Motorcycles-Text-1500x751.jpg?v=1765415647",
+   "alt": "Sample of a Start Seeing Motorcycles license plate",
+   "verdict": "not-for-cars"
+  },
+  "/files/dvs/State-Parks-Trails-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/State-Parks-Trails-Text-1500x751.jpg?v=1765495998",
+   "alt": "Sample of State Parks and Trails vehicle license plate",
+   "verdict": "plate:minnesota-state-parks-trails"
+  },
+  "/files/dvs/Support-Our-Troops-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Support-Our-Troops-Text-1500x751.jpg?v=1765415652",
+   "alt": "Sample of a Support our Troops license plate",
+   "verdict": "pending:MN-of-a-support-our-troops"
+  },
+  "/files/dvs/Vet-Afghan-War-Campaign-Medal-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Vet-Afghan-War-Campaign-Medal-Text-1500x751.jpg?v=1765415655",
+   "alt": "Sample of an Afghanistan War Veteran license plate",
+   "verdict": "pending:MN-of-an-afghanistan-war-veteran"
+  },
+  "/files/dvs/Vet-Armed-Forces-Expeditionary-Medal-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Vet-Armed-Forces-Expeditionary-Medal-Text-1500x751.jpg?v=1765415658",
+   "alt": "Sample of an Armed Forces Expeditionary Medal license plate",
+   "verdict": "plate:retired-law-enforcement"
+  },
+  "/files/dvs/Vet-Bronze-Star-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Vet-Bronze-Star-Text-1500x751.jpg?v=1765415659",
+   "alt": "Sample of a Bronze Star Veteran license plate",
+   "verdict": "plate:retired-law-enforcement"
+  },
+  "/files/dvs/Vet-Combat-Wounded-Purple-Heart-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Vet-Combat-Wounded-Purple-Heart-Text-1500x751.jpg?v=1765415662",
+   "alt": "Sample of a Combat Wounded (Purple Heart) Veteran license plate",
+   "verdict": "pending:MN-of-a-combat-wounded-purple-heart-veteran"
+  },
+  "/files/dvs/Vet-Ex-POW-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Vet-Ex-POW-Text-1500x751.jpg?v=1765415665",
+   "alt": "Sample of an Ex-POW Veteran license plate",
+   "verdict": "pending:MN-of-an-ex-pow-veteran"
+  },
+  "/files/dvs/Vet-GWOT-Expeditionary-Medal-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Vet-GWOT-Expeditionary-Medal-Text-1500x751.jpg?v=1765415670",
+   "alt": "Sample of a Global War on Terror (GWOT) Veteran license plate",
+   "verdict": "plate:retired-law-enforcement"
+  },
+  "/files/dvs/Vet-GWOT-Service-Medal-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Vet-GWOT-Service-Medal-Text-1500x751.jpg?v=1765415673",
+   "alt": "Sample of a Global War on Terror (GWOT) Service Medal Veteran license plate",
+   "verdict": "plate:retired-law-enforcement"
+  },
+  "/files/dvs/Vet-Gulf-War-Desert-Storm-Medal-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Vet-Gulf-War-Desert-Storm-Medal-Text-1500x751.jpg?v=1765415666",
+   "alt": "Sample of a Gulf War Veteran license plate",
+   "verdict": "plate:retired-law-enforcement"
+  },
+  "/files/dvs/Vet-Gulf-War-Soldier-At-Arms-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Vet-Gulf-War-Soldier-At-Arms-Text-1500x751.jpg?v=1765415669",
+   "alt": "Sample of a Gulf War Veteran Soldier at Arms license plate",
+   "verdict": "plate:retired-law-enforcement"
+  },
+  "/files/dvs/Vet-Iraq-War-Campaign-Medal-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Vet-Iraq-War-Campaign-Medal-Text-1500x751.jpg?v=1765415675",
+   "alt": "Sample of an Iraq War Veteran license plate",
+   "verdict": "skipped-2023"
+  },
+  "/files/dvs/Vet-Korean-Defense-Service-Medal-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Vet-Korean-Defense-Service-Medal-Text-1500x751.jpg?v=1765415679",
+   "alt": "Sample of a Korean Defense Service Veteran license plate",
+   "verdict": "pending:MN-of-a-korean-defense-service-veteran"
+  },
+  "/files/dvs/Vet-Korean-Service-Medal-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Vet-Korean-Service-Medal-Text-1500x751.jpg?v=1765415680",
+   "alt": "Sample of a Korean War Veteran license plate",
+   "verdict": "pending:MN-of-a-korean-war-veteran"
+  },
+  "/files/dvs/Vet-Korean-Soldier-At-Arms-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Vet-Korean-Soldier-At-Arms-Text-1500x751.jpg?v=1765415682",
+   "alt": "Sample of a Korean War Veteran Soldier at Arms license plate",
+   "verdict": "pending:MN-minnesota-national-guard"
+  },
+  "/files/dvs/Vet-Laos-War-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Vet-Laos-War-Text-1500x751.jpg?v=1765415683",
+   "alt": "Sample of a Laos War Veteran license plate",
+   "verdict": "plate:retired-law-enforcement"
+  },
+  "/files/dvs/Vet-Medal-of-Honor-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Vet-Medal-of-Honor-Text-1500x751.jpg?v=1765415684",
+   "alt": "Sample of a Congressional Medal of Honor Veteran license plate",
+   "verdict": "pending:MN-of-a-congressional-medal-of-honor-vetera"
+  },
+  "/files/dvs/Vet-Pearl-Harbor-Survivor-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Vet-Pearl-Harbor-Survivor-Text-1500x751.jpg?v=1765415686",
+   "alt": "Sample of a Pearl Harbor Survivor Veteran license plate",
+   "verdict": "plate:retired-law-enforcement"
+  },
+  "/files/dvs/Vet-Silver-Star-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Vet-Silver-Star-Text-1500x751.jpg?v=1765415687",
+   "alt": "Sample of a Silver Star Veteran license plate",
+   "verdict": "plate:retired-law-enforcement"
+  },
+  "/files/dvs/Vet-Vietnam-Service-Medal-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Vet-Vietnam-Service-Medal-Text-1500x751.jpg?v=1765415690",
+   "alt": "Sample of a Vietnam Veteran license plate",
+   "verdict": "pending:MN-of-a-vietnam-veteran"
+  },
+  "/files/dvs/Vet-Vietnam-Soldier-At-Arms-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Vet-Vietnam-Soldier-At-Arms-Text-1500x751.jpg?v=1765415691",
+   "alt": "Sample of a Vietnam Veteran Soldier at Arms license plate",
+   "verdict": "pending:MN-of-a-vietnam-veteran-soldier-at-arms"
+  },
+  "/files/dvs/Vet-Woman-Veteran-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Vet-Woman-Veteran-Text-1500x751.jpg?v=1765415694",
+   "alt": "Sample of a Woman Veteran license plate",
+   "verdict": "pending:MN-of-a-woman-veteran"
+  },
+  "/files/dvs/Vet-World-War-II-Service-Medal-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Vet-World-War-II-Service-Medal-Text-1500x751.jpg?v=1765415695",
+   "alt": "Sample of a World War II Veteran license plate",
+   "verdict": "pending:MN-of-a-world-war-ii-veteran"
+  },
+  "/files/dvs/Vet-World-War-II-Soldier-At-Arms-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Vet-World-War-II-Soldier-At-Arms-Text-1500x751.jpg?v=1765415697",
+   "alt": "Sample of a World War II Veteran Soldier at Arms license plate",
+   "verdict": "pending:MN-bronze-star"
+  },
+  "/files/dvs/Veteran-of-Foreign-Wars-VFW-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Veteran-of-Foreign-Wars-VFW-Text-1500x751.jpg?v=1765415698",
+   "alt": "Sample of a Veteran of Foreign Wars (VFW) license plate",
+   "verdict": "plate:retired-law-enforcement"
+  },
+  "/files/dvs/Volunteer-Ambulance-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Volunteer-Ambulance-Text-1500x751.jpg?v=1765415701",
+   "alt": "Sample of a Volunteer Ambulance license plate",
+   "verdict": "pending:MN-of-a-volunteer-ambulance"
+  },
+  "/files/sfm/Standard-Classic-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/sfm/Standard-Classic-Text-1500x751.jpg?v=1765418169",
+   "alt": "Sample of a Classic car license plate",
+   "verdict": "pending:MN-of-a-classic-car"
+  },
+  "/static/mdps-state.png": {
+   "src": "https://dps.mn.gov/static/mdps-state.png",
+   "alt": "",
+   "verdict": "not-a-plate"
+  }
+ },
+ "checked": "2026-10-26"
+}
