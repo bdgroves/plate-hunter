@@ -1,0 +1,826 @@
+{
+ "code": "IN",
+ "name": "Indiana",
+ "rated": false,
+ "checked": false,
+ "updated": "2026-10-25",
+ "about": "Indiana special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "sources": [
+  {
+   "title": "Jon Keegan, us-license-plates (2023)",
+   "url": "https://github.com/jonkeegan/us-license-plates"
+  }
+ ],
+ "plates": [
+  {
+   "id": "4-h-foundation",
+   "name": "4-H Foundation",
+   "cat": "charity",
+   "img": "4-h-foundation.webp"
+  },
+  {
+   "id": "500-festival",
+   "name": "500 Festival",
+   "cat": "other",
+   "img": "500-festival.webp"
+  },
+  {
+   "id": "a-kid-again-inc",
+   "name": "A Kid Again, Inc",
+   "cat": "other",
+   "img": "a-kid-again-inc.webp"
+  },
+  {
+   "id": "abraham-lincolns-boyhood-home",
+   "name": "Abraham Lincolns Boyhood Home",
+   "cat": "other",
+   "img": "abraham-lincolns-boyhood-home.webp"
+  },
+  {
+   "id": "als-therapy-development-institute",
+   "name": "ALS Therapy Development Institute",
+   "cat": "other",
+   "img": "als-therapy-development-institute.webp"
+  },
+  {
+   "id": "amateur-radio",
+   "name": "Amateur Radio",
+   "cat": "hobby",
+   "img": "amateur-radio.webp"
+  },
+  {
+   "id": "american-diabetes-association",
+   "name": "American Diabetes Association",
+   "cat": "charity",
+   "img": "american-diabetes-association.webp"
+  },
+  {
+   "id": "american-foundation-for-suicide-preventi",
+   "name": "American Foundation for Suicide Prevention",
+   "cat": "charity",
+   "img": "american-foundation-for-suicide-preventi.webp"
+  },
+  {
+   "id": "american-legion",
+   "name": "American Legion",
+   "cat": "veterans",
+   "img": "american-legion.webp"
+  },
+  {
+   "id": "anderson-university",
+   "name": "Anderson University",
+   "cat": "colleges",
+   "img": "anderson-university.webp"
+  },
+  {
+   "id": "armed-forces-expeditionary",
+   "name": "Armed Forces Expeditionary",
+   "cat": "military",
+   "img": "armed-forces-expeditionary.webp"
+  },
+  {
+   "id": "army-medal-of-honor",
+   "name": "Army Medal of Honor",
+   "cat": "veterans",
+   "img": "army-medal-of-honor.webp"
+  },
+  {
+   "id": "arts-trust",
+   "name": "Arts Trust",
+   "cat": "hobby",
+   "img": "arts-trust.webp"
+  },
+  {
+   "id": "autism-awareness",
+   "name": "Autism Awareness",
+   "cat": "charity",
+   "img": "autism-awareness.webp"
+  },
+  {
+   "id": "ball-state-university",
+   "name": "Ball State University",
+   "cat": "colleges",
+   "img": "ball-state-university.webp"
+  },
+  {
+   "id": "bethel-university",
+   "name": "Bethel University",
+   "cat": "colleges",
+   "img": "bethel-university.webp"
+  },
+  {
+   "id": "black-expo",
+   "name": "Black Expo",
+   "cat": "other",
+   "img": "black-expo.webp"
+  },
+  {
+   "id": "boy-scouts",
+   "name": "Boy Scouts",
+   "cat": "charity",
+   "img": "boy-scouts.webp"
+  },
+  {
+   "id": "boys-and-girls-club-in-indiana-inc",
+   "name": "Boys and Girls Club in Indiana Inc",
+   "cat": "charity",
+   "img": "boys-and-girls-club-in-indiana-inc.webp"
+  },
+  {
+   "id": "breast-cancer-awareness",
+   "name": "Breast Cancer Awareness",
+   "cat": "charity",
+   "img": "breast-cancer-awareness.webp"
+  },
+  {
+   "id": "butler-university",
+   "name": "Butler University",
+   "cat": "colleges",
+   "img": "butler-university.webp"
+  },
+  {
+   "id": "cancer-support-community",
+   "name": "Cancer Support Community",
+   "cat": "charity",
+   "img": "cancer-support-community.webp"
+  },
+  {
+   "id": "circular-indiana",
+   "name": "Circular Indiana",
+   "cat": "other",
+   "img": "circular-indiana.webp"
+  },
+  {
+   "id": "d-a-r-e-indiana-trust",
+   "name": "D.A.R.E. Indiana Trust",
+   "cat": "other",
+   "img": "d-a-r-e-indiana-trust.webp"
+  },
+  {
+   "id": "delta-research-and-educational-foundatio",
+   "name": "Delta Research and Educational Foundation",
+   "cat": "charity",
+   "img": "delta-research-and-educational-foundatio.webp"
+  },
+  {
+   "id": "depauw-university",
+   "name": "DePauw University",
+   "cat": "colleges",
+   "img": "depauw-university.webp"
+  },
+  {
+   "id": "disability",
+   "name": "Disability",
+   "cat": "charity",
+   "img": "disability.webp"
+  },
+  {
+   "id": "disabled-hoosier-air-force-veteran",
+   "name": "Disabled Hoosier Air Force Veteran",
+   "cat": "veterans",
+   "img": "disabled-hoosier-air-force-veteran.webp"
+  },
+  {
+   "id": "disabled-hoosier-army-veteran",
+   "name": "Disabled Hoosier Army Veteran",
+   "cat": "veterans",
+   "img": "disabled-hoosier-army-veteran.webp"
+  },
+  {
+   "id": "disabled-hoosier-coast-guard-veteran",
+   "name": "Disabled Hoosier Coast Guard Veteran",
+   "cat": "veterans",
+   "img": "disabled-hoosier-coast-guard-veteran.webp"
+  },
+  {
+   "id": "disabled-hoosier-marine-veteran",
+   "name": "Disabled Hoosier Marine Veteran",
+   "cat": "veterans",
+   "img": "disabled-hoosier-marine-veteran.webp"
+  },
+  {
+   "id": "disabled-hoosier-merchant-marine-veteran",
+   "name": "Disabled Hoosier Merchant Marine Veteran",
+   "cat": "veterans",
+   "img": "disabled-hoosier-merchant-marine-veteran.webp"
+  },
+  {
+   "id": "disabled-hoosier-navy-veteran",
+   "name": "Disabled Hoosier Navy Veteran",
+   "cat": "veterans",
+   "img": "disabled-hoosier-navy-veteran.webp"
+  },
+  {
+   "id": "donate-life",
+   "name": "Donate Life",
+   "cat": "charity",
+   "img": "donate-life.webp"
+  },
+  {
+   "id": "down-syndrome-indiana",
+   "name": "Down Syndrome Indiana",
+   "cat": "charity",
+   "img": "down-syndrome-indiana.webp"
+  },
+  {
+   "id": "ducks-unlimited",
+   "name": "Ducks Unlimited",
+   "cat": "nature",
+   "img": "ducks-unlimited.webp"
+  },
+  {
+   "id": "environmental",
+   "name": "Environmental",
+   "cat": "nature",
+   "img": "environmental.webp"
+  },
+  {
+   "id": "ex-pow",
+   "name": "Ex-POW",
+   "cat": "veterans",
+   "img": "ex-pow.webp"
+  },
+  {
+   "id": "family-first-inc",
+   "name": "Family First, Inc.",
+   "cat": "other",
+   "img": "family-first-inc.webp"
+  },
+  {
+   "id": "farm",
+   "name": "Farm",
+   "cat": "vehicle",
+   "img": "farm.webp"
+  },
+  {
+   "id": "first-responders",
+   "name": "First Responders",
+   "cat": "firstresponder",
+   "img": "first-responders.webp"
+  },
+  {
+   "id": "fort-wayne-zoological-society-inc",
+   "name": "Fort Wayne Zoological Society, Inc",
+   "cat": "nature",
+   "img": "fort-wayne-zoological-society-inc.webp"
+  },
+  {
+   "id": "franklin-college",
+   "name": "Franklin College",
+   "cat": "colleges",
+   "img": "franklin-college.webp"
+  },
+  {
+   "id": "fraternal-order-of-police",
+   "name": "Fraternal Order of Police",
+   "cat": "firstresponder",
+   "img": "fraternal-order-of-police.webp"
+  },
+  {
+   "id": "freemason",
+   "name": "Freemason",
+   "cat": "hobby",
+   "img": "freemason.webp"
+  },
+  {
+   "id": "future-farmers-of-america-ffa-trust",
+   "name": "Future Farmers of America (FFA) Trust",
+   "cat": "vehicle",
+   "img": "future-farmers-of-america-ffa-trust.webp"
+  },
+  {
+   "id": "gold-star-family",
+   "name": "Gold Star Family",
+   "cat": "veterans",
+   "img": "gold-star-family.webp"
+  },
+  {
+   "id": "golf-foundation",
+   "name": "Golf Foundation",
+   "cat": "sports",
+   "img": "golf-foundation.webp"
+  },
+  {
+   "id": "greenways-foundation",
+   "name": "Greenways Foundation",
+   "cat": "charity",
+   "img": "greenways-foundation.webp"
+  },
+  {
+   "id": "habitat-for-humanity",
+   "name": "Habitat for Humanity",
+   "cat": "nature",
+   "img": "habitat-for-humanity.webp"
+  },
+  {
+   "id": "hanover-college",
+   "name": "Hanover College",
+   "cat": "colleges",
+   "img": "hanover-college.webp"
+  },
+  {
+   "id": "health-foundation-of-greater-indianapoli",
+   "name": "Health Foundation of Greater Indianapolis",
+   "cat": "charity",
+   "img": "health-foundation-of-greater-indianapoli.webp"
+  },
+  {
+   "id": "historic",
+   "name": "Historic",
+   "cat": "other",
+   "img": "historic.webp"
+  },
+  {
+   "id": "hoosier-air-force-veteran",
+   "name": "Hoosier Air Force Veteran",
+   "cat": "veterans",
+   "img": "hoosier-air-force-veteran.webp"
+  },
+  {
+   "id": "hoosier-army-veteran",
+   "name": "Hoosier Army Veteran",
+   "cat": "veterans",
+   "img": "hoosier-army-veteran.webp"
+  },
+  {
+   "id": "hoosier-coast-guard-veteran",
+   "name": "Hoosier Coast Guard Veteran",
+   "cat": "veterans",
+   "img": "hoosier-coast-guard-veteran.webp"
+  },
+  {
+   "id": "hoosier-marine-veteran",
+   "name": "Hoosier Marine Veteran",
+   "cat": "veterans",
+   "img": "hoosier-marine-veteran.webp"
+  },
+  {
+   "id": "hoosier-merchant-marine-veteran",
+   "name": "Hoosier Merchant Marine Veteran",
+   "cat": "veterans",
+   "img": "hoosier-merchant-marine-veteran.webp"
+  },
+  {
+   "id": "hoosier-navy-veteran",
+   "name": "Hoosier Navy Veteran",
+   "cat": "veterans",
+   "img": "hoosier-navy-veteran.webp"
+  },
+  {
+   "id": "huntington-university",
+   "name": "Huntington University",
+   "cat": "colleges",
+   "img": "huntington-university.webp"
+  },
+  {
+   "id": "in-god-we-trust",
+   "name": "In God We Trust",
+   "cat": "charity",
+   "img": "in-god-we-trust.webp"
+  },
+  {
+   "id": "indiana-alliance-of-ymcas",
+   "name": "Indiana Alliance of YMCAs",
+   "cat": "charity",
+   "img": "indiana-alliance-of-ymcas.webp"
+  },
+  {
+   "id": "indiana-association-of-chiefs-of-police-",
+   "name": "Indiana Association of Chiefs of Police Foundation",
+   "cat": "firstresponder",
+   "img": "indiana-association-of-chiefs-of-police-.webp"
+  },
+  {
+   "id": "indiana-association-of-pregnancy-centers",
+   "name": "Indiana Association of Pregnancy Centers",
+   "cat": "charity",
+   "img": "indiana-association-of-pregnancy-centers.webp"
+  },
+  {
+   "id": "indiana-bicycle-coalition",
+   "name": "Indiana Bicycle Coalition",
+   "cat": "hobby",
+   "img": "indiana-bicycle-coalition.webp"
+  },
+  {
+   "id": "indiana-coal-mining-institute",
+   "name": "Indiana Coal Mining Institute",
+   "cat": "other",
+   "img": "indiana-coal-mining-institute.webp"
+  },
+  {
+   "id": "indiana-department-of-education",
+   "name": "Indiana Department of Education",
+   "cat": "charity",
+   "img": "indiana-department-of-education.webp"
+  },
+  {
+   "id": "indiana-emergency-medical-services-assoc",
+   "name": "Indiana Emergency Medical Services Association (IEMSA",
+   "cat": "firstresponder",
+   "img": "indiana-emergency-medical-services-assoc.webp"
+  },
+  {
+   "id": "indiana-farm-bureau-inc",
+   "name": "Indiana Farm Bureau, Inc.",
+   "cat": "vehicle",
+   "img": "indiana-farm-bureau-inc.webp"
+  },
+  {
+   "id": "indiana-institute-of-technology",
+   "name": "Indiana Institute of Technology",
+   "cat": "colleges",
+   "img": "indiana-institute-of-technology.webp"
+  },
+  {
+   "id": "indiana-motorassociation",
+   "name": "Indiana MotorAssociation",
+   "cat": "charity",
+   "img": "indiana-motorassociation.webp"
+  },
+  {
+   "id": "indiana-music-education-association-foun",
+   "name": "Indiana Music Education Association Foundation",
+   "cat": "hobby",
+   "img": "indiana-music-education-association-foun.webp"
+  },
+  {
+   "id": "indiana-organization-of-nurse-executives",
+   "name": "Indiana Organization of Nurse Executives",
+   "cat": "other",
+   "img": "indiana-organization-of-nurse-executives.webp"
+  },
+  {
+   "id": "indiana-patriot-guard-riders",
+   "name": "Indiana Patriot Guard Riders",
+   "cat": "other",
+   "img": "indiana-patriot-guard-riders.webp"
+  },
+  {
+   "id": "indiana-sheriff-s-association",
+   "name": "Indiana Sheriff's Association",
+   "cat": "firstresponder",
+   "img": "indiana-sheriff-s-association.webp"
+  },
+  {
+   "id": "indiana-shrine-association",
+   "name": "Indiana Shrine Association",
+   "cat": "hobby",
+   "img": "indiana-shrine-association.webp"
+  },
+  {
+   "id": "indiana-soccer",
+   "name": "Indiana Soccer",
+   "cat": "sports",
+   "img": "indiana-soccer.webp"
+  },
+  {
+   "id": "indiana-state-council-knights-of-columbu",
+   "name": "Indiana State Council Knights of Columbus Charity Fund Inc.",
+   "cat": "hobby",
+   "img": "indiana-state-council-knights-of-columbu.webp"
+  },
+  {
+   "id": "indiana-state-university",
+   "name": "Indiana State University",
+   "cat": "colleges",
+   "img": "indiana-state-university.webp"
+  },
+  {
+   "id": "indiana-university",
+   "name": "Indiana University",
+   "cat": "colleges",
+   "img": "indiana-university.webp"
+  },
+  {
+   "id": "indiana-volunteer-firefighter",
+   "name": "Indiana Volunteer Firefighter",
+   "cat": "firstresponder",
+   "img": "indiana-volunteer-firefighter.webp"
+  },
+  {
+   "id": "indiana-wesleyan-university",
+   "name": "Indiana Wesleyan University",
+   "cat": "colleges",
+   "img": "indiana-wesleyan-university.webp"
+  },
+  {
+   "id": "indiana-youth-group",
+   "name": "Indiana Youth Group",
+   "cat": "other",
+   "img": "indiana-youth-group.webp"
+  },
+  {
+   "id": "indianapolis-colts",
+   "name": "Indianapolis Colts",
+   "cat": "sports",
+   "img": "indianapolis-colts.webp"
+  },
+  {
+   "id": "indianapolis-motor-speedway-museum",
+   "name": "Indianapolis Motor Speedway Museum",
+   "cat": "sports",
+   "img": "indianapolis-motor-speedway-museum.webp"
+  },
+  {
+   "id": "indianapolis-zoological-society",
+   "name": "Indianapolis Zoological Society",
+   "cat": "nature",
+   "img": "indianapolis-zoological-society.webp"
+  },
+  {
+   "id": "insuring-foster-youth-foster-success",
+   "name": "Insuring Foster Youth (Foster Success",
+   "cat": "charity",
+   "img": "insuring-foster-youth-foster-success.webp"
+  },
+  {
+   "id": "iuoe-local-150-scholarship-fund-inc",
+   "name": "IUOE Local 150 Scholarship Fund, Inc.",
+   "cat": "charity",
+   "img": "iuoe-local-150-scholarship-fund-inc.webp"
+  },
+  {
+   "id": "iupui",
+   "name": "IUPUI",
+   "cat": "other",
+   "img": "iupui.webp"
+  },
+  {
+   "id": "ivy-tech-community-college",
+   "name": "Ivy Tech Community College",
+   "cat": "colleges",
+   "img": "ivy-tech-community-college.webp"
+  },
+  {
+   "id": "juvenile-diabetes",
+   "name": "Juvenile Diabetes",
+   "cat": "charity",
+   "img": "juvenile-diabetes.webp"
+  },
+  {
+   "id": "kids-first-trust",
+   "name": "Kids First Trust",
+   "cat": "charity",
+   "img": "kids-first-trust.webp"
+  },
+  {
+   "id": "lewis-and-clark-expedition",
+   "name": "Lewis and Clark Expedition",
+   "cat": "other",
+   "img": "lewis-and-clark-expedition.webp"
+  },
+  {
+   "id": "lions-of-indiana",
+   "name": "Lions of Indiana",
+   "cat": "sports",
+   "img": "lions-of-indiana.webp"
+  },
+  {
+   "id": "manchester-university",
+   "name": "Manchester University",
+   "cat": "colleges",
+   "img": "manchester-university.webp"
+  },
+  {
+   "id": "marian-university",
+   "name": "Marian University",
+   "cat": "colleges",
+   "img": "marian-university.webp"
+  },
+  {
+   "id": "marine-foundation-of-indiana",
+   "name": "Marine Foundation of Indiana",
+   "cat": "military",
+   "img": "marine-foundation-of-indiana.webp"
+  },
+  {
+   "id": "martin-university",
+   "name": "Martin University",
+   "cat": "colleges",
+   "img": "martin-university.webp"
+  },
+  {
+   "id": "mini",
+   "name": "Mini",
+   "cat": "other",
+   "img": "mini.webp"
+  },
+  {
+   "id": "national-guard",
+   "name": "National Guard",
+   "cat": "military",
+   "img": "national-guard.webp"
+  },
+  {
+   "id": "national-rifle-association",
+   "name": "National Rifle Association",
+   "cat": "charity",
+   "img": "national-rifle-association.webp"
+  },
+  {
+   "id": "national-sisterhood-united-for-journeyme",
+   "name": "National Sisterhood United for Journeymen Linemen",
+   "cat": "other",
+   "img": "national-sisterhood-united-for-journeyme.webp"
+  },
+  {
+   "id": "native-american",
+   "name": "Native American",
+   "cat": "other",
+   "img": "native-american.webp"
+  },
+  {
+   "id": "notre-dame",
+   "name": "Notre Dame",
+   "cat": "other",
+   "img": "notre-dame.webp"
+  },
+  {
+   "id": "pacers-foundation",
+   "name": "Pacers Foundation",
+   "cat": "sports",
+   "img": "pacers-foundation.webp"
+  },
+  {
+   "id": "pearl-harbor-survivor",
+   "name": "Pearl Harbor Survivor",
+   "cat": "veterans",
+   "img": "pearl-harbor-survivor.webp"
+  },
+  {
+   "id": "pet-friendly-services-of-indiana",
+   "name": "Pet Friendly Services of Indiana",
+   "cat": "charity",
+   "img": "pet-friendly-services-of-indiana.webp"
+  },
+  {
+   "id": "peyton-manning-st-vincent",
+   "name": "Peyton Manning St Vincent",
+   "cat": "other",
+   "img": "peyton-manning-st-vincent.webp"
+  },
+  {
+   "id": "pow-mia",
+   "name": "POW-MIA",
+   "cat": "veterans",
+   "img": "pow-mia.webp"
+  },
+  {
+   "id": "professional-firefighters",
+   "name": "Professional Firefighters",
+   "cat": "firstresponder",
+   "img": "professional-firefighters.webp"
+  },
+  {
+   "id": "purdue-university",
+   "name": "Purdue University",
+   "cat": "colleges",
+   "img": "purdue-university.webp"
+  },
+  {
+   "id": "purdue-university-fort-wayne",
+   "name": "Purdue University Fort Wayne",
+   "cat": "colleges",
+   "img": "purdue-university-fort-wayne.webp"
+  },
+  {
+   "id": "purple-heart",
+   "name": "Purple Heart",
+   "cat": "veterans",
+   "img": "purple-heart.webp"
+  },
+  {
+   "id": "purple-heart-disability",
+   "name": "Purple Heart Disability",
+   "cat": "veterans",
+   "img": "purple-heart-disability.webp"
+  },
+  {
+   "id": "riley-hospital",
+   "name": "Riley Hospital",
+   "cat": "charity",
+   "img": "riley-hospital.webp"
+  },
+  {
+   "id": "rose-hulman",
+   "name": "Rose Hulman",
+   "cat": "other",
+   "img": "rose-hulman.webp"
+  },
+  {
+   "id": "rv",
+   "name": "RV",
+   "cat": "vehicle",
+   "img": "rv.webp"
+  },
+  {
+   "id": "saint-mary-of-the-woods",
+   "name": "Saint Mary of the Woods",
+   "cat": "other",
+   "img": "saint-mary-of-the-woods.webp"
+  },
+  {
+   "id": "saint-mary-s-college",
+   "name": "Saint Mary's College",
+   "cat": "colleges",
+   "img": "saint-mary-s-college.webp"
+  },
+  {
+   "id": "special-machinery",
+   "name": "Special Machinery",
+   "cat": "other",
+   "img": "special-machinery.webp"
+  },
+  {
+   "id": "special-olympics",
+   "name": "Special Olympics",
+   "cat": "sports",
+   "img": "special-olympics.webp"
+  },
+  {
+   "id": "state-police",
+   "name": "State Police",
+   "cat": "firstresponder",
+   "img": "state-police.webp"
+  },
+  {
+   "id": "support-our-troops",
+   "name": "Support Our Troops",
+   "cat": "charity",
+   "img": "support-our-troops.webp"
+  },
+  {
+   "id": "taylor-university",
+   "name": "Taylor University",
+   "cat": "colleges",
+   "img": "taylor-university.webp"
+  },
+  {
+   "id": "tony-stewart-foundation",
+   "name": "Tony Stewart Foundation",
+   "cat": "hobby",
+   "img": "tony-stewart-foundation.webp"
+  },
+  {
+   "id": "trine-university",
+   "name": "Trine University",
+   "cat": "colleges",
+   "img": "trine-university.webp"
+  },
+  {
+   "id": "university-of-evansville",
+   "name": "University of Evansville",
+   "cat": "colleges",
+   "img": "university-of-evansville.webp"
+  },
+  {
+   "id": "university-of-indianapolis",
+   "name": "University of Indianapolis",
+   "cat": "colleges",
+   "img": "university-of-indianapolis.webp"
+  },
+  {
+   "id": "university-of-saint-francis",
+   "name": "University of Saint Francis",
+   "cat": "colleges",
+   "img": "university-of-saint-francis.webp"
+  },
+  {
+   "id": "university-of-southern-indiana",
+   "name": "University of Southern Indiana",
+   "cat": "colleges",
+   "img": "university-of-southern-indiana.webp"
+  },
+  {
+   "id": "valparaiso-university",
+   "name": "Valparaiso University",
+   "cat": "colleges",
+   "img": "valparaiso-university.webp"
+  },
+  {
+   "id": "versiti-indiana",
+   "name": "Versiti Indiana",
+   "cat": "other",
+   "img": "versiti-indiana.webp"
+  },
+  {
+   "id": "vincennes-university",
+   "name": "Vincennes University",
+   "cat": "colleges",
+   "img": "vincennes-university.webp"
+  },
+  {
+   "id": "wabash-college",
+   "name": "Wabash College",
+   "cat": "colleges",
+   "img": "wabash-college.webp"
+  },
+  {
+   "id": "wfyi-public-media",
+   "name": "WFYI Public Media",
+   "cat": "other",
+   "img": "wfyi-public-media.webp"
+  }
+ ]
+}

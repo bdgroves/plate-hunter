@@ -1,0 +1,514 @@
+{
+ "code": "MN",
+ "name": "Minnesota",
+ "rated": false,
+ "checked": false,
+ "updated": "2026-10-25",
+ "about": "Minnesota special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "sources": [
+  {
+   "title": "Jon Keegan, us-license-plates (2023)",
+   "url": "https://github.com/jonkeegan/us-license-plates"
+  }
+ ],
+ "plates": [
+  {
+   "id": "proud-to-be-a-veteran",
+   "name": "“Proud to be a Veteran”",
+   "cat": "veterans",
+   "img": "proud-to-be-a-veteran.webp"
+  },
+  {
+   "id": "agricultural",
+   "name": "Agricultural",
+   "cat": "charity",
+   "img": "agricultural.webp"
+  },
+  {
+   "id": "american-legion",
+   "name": "American Legion",
+   "cat": "veterans",
+   "img": "american-legion.webp"
+  },
+  {
+   "id": "aro-amateur-radio",
+   "name": "ARO (Amateur Radio",
+   "cat": "hobby",
+   "img": "aro-amateur-radio.webp"
+  },
+  {
+   "id": "citizens-band-radio",
+   "name": "Citizens Band Radio",
+   "cat": "hobby",
+   "img": "citizens-band-radio.webp"
+  },
+  {
+   "id": "collector-class-pioneer",
+   "name": "Collector Class: Pioneer",
+   "cat": "vehicle",
+   "img": "collector-class-pioneer.webp"
+  },
+  {
+   "id": "collector-class-streetrod",
+   "name": "Collector Class: StreetRod",
+   "cat": "vehicle",
+   "img": "collector-class-streetrod.webp"
+  },
+  {
+   "id": "collector-class-classic",
+   "name": "Collector Class:Classic",
+   "cat": "vehicle",
+   "img": "collector-class-classic.webp"
+  },
+  {
+   "id": "collector-class-collector",
+   "name": "Collector Class:Collector",
+   "cat": "vehicle",
+   "img": "collector-class-collector.webp"
+  },
+  {
+   "id": "collegiate-augsburg-college",
+   "name": "Collegiate: Augsburg College",
+   "cat": "colleges",
+   "img": "collegiate-augsburg-college.webp"
+  },
+  {
+   "id": "collegiate-bemidji",
+   "name": "Collegiate: Bemidji",
+   "cat": "colleges",
+   "img": "collegiate-bemidji.webp"
+  },
+  {
+   "id": "collegiate-bethel-university",
+   "name": "Collegiate: Bethel University",
+   "cat": "colleges",
+   "img": "collegiate-bethel-university.webp"
+  },
+  {
+   "id": "collegiate-college-of-st-benedict",
+   "name": "Collegiate: College of St. Benedict",
+   "cat": "colleges",
+   "img": "collegiate-college-of-st-benedict.webp"
+  },
+  {
+   "id": "collegiate-concordia-college-moorhead",
+   "name": "Collegiate: Concordia College (Moorhead",
+   "cat": "colleges",
+   "img": "collegiate-concordia-college-moorhead.webp"
+  },
+  {
+   "id": "collegiate-concordia-university-st-paul",
+   "name": "Collegiate: Concordia University (St. Paul",
+   "cat": "colleges",
+   "img": "collegiate-concordia-university-st-paul.webp"
+  },
+  {
+   "id": "collegiate-crown-college",
+   "name": "Collegiate: Crown College",
+   "cat": "colleges",
+   "img": "collegiate-crown-college.webp"
+  },
+  {
+   "id": "collegiate-gustavus-adolphus",
+   "name": "Collegiate: Gustavus Adolphus",
+   "cat": "colleges",
+   "img": "collegiate-gustavus-adolphus.webp"
+  },
+  {
+   "id": "collegiate-hamline-university",
+   "name": "Collegiate: Hamline University",
+   "cat": "colleges",
+   "img": "collegiate-hamline-university.webp"
+  },
+  {
+   "id": "collegiate-macalester-university",
+   "name": "Collegiate: Macalester University",
+   "cat": "colleges",
+   "img": "collegiate-macalester-university.webp"
+  },
+  {
+   "id": "collegiate-metropolitan-state-university",
+   "name": "Collegiate: Metropolitan State University",
+   "cat": "colleges",
+   "img": "collegiate-metropolitan-state-university.webp"
+  },
+  {
+   "id": "collegiate-minnesota-state-university-ma",
+   "name": "Collegiate: Minnesota State University Mankato",
+   "cat": "colleges",
+   "img": "collegiate-minnesota-state-university-ma.webp"
+  },
+  {
+   "id": "collegiate-minnesota-state-university-mo",
+   "name": "Collegiate: Minnesota State University Moorhead",
+   "cat": "colleges",
+   "img": "collegiate-minnesota-state-university-mo.webp"
+  },
+  {
+   "id": "collegiate-southwest-minnesota-state-uni",
+   "name": "Collegiate: Southwest Minnesota State University",
+   "cat": "colleges",
+   "img": "collegiate-southwest-minnesota-state-uni.webp"
+  },
+  {
+   "id": "collegiate-st-catherine-s-university",
+   "name": "Collegiate: St. Catherine’s University",
+   "cat": "colleges",
+   "img": "collegiate-st-catherine-s-university.webp"
+  },
+  {
+   "id": "collegiate-st-cloud-state",
+   "name": "Collegiate: St. Cloud State",
+   "cat": "colleges",
+   "img": "collegiate-st-cloud-state.webp"
+  },
+  {
+   "id": "collegiate-st-john-s",
+   "name": "Collegiate: St. John’s",
+   "cat": "colleges",
+   "img": "collegiate-st-john-s.webp"
+  },
+  {
+   "id": "collegiate-st-mary-s",
+   "name": "Collegiate: St. Mary's",
+   "cat": "colleges",
+   "img": "collegiate-st-mary-s.webp"
+  },
+  {
+   "id": "collegiate-st-olaf",
+   "name": "Collegiate: St. Olaf",
+   "cat": "colleges",
+   "img": "collegiate-st-olaf.webp"
+  },
+  {
+   "id": "collegiate-st-thomas",
+   "name": "Collegiate: St. Thomas",
+   "cat": "colleges",
+   "img": "collegiate-st-thomas.webp"
+  },
+  {
+   "id": "collegiate-u-of-m-crookston",
+   "name": "Collegiate: U of M Crookston",
+   "cat": "colleges",
+   "img": "collegiate-u-of-m-crookston.webp"
+  },
+  {
+   "id": "collegiate-u-of-m-duluth",
+   "name": "Collegiate: U of M Duluth",
+   "cat": "colleges",
+   "img": "collegiate-u-of-m-duluth.webp"
+  },
+  {
+   "id": "collegiate-u-of-m-morris",
+   "name": "Collegiate: U of M Morris",
+   "cat": "colleges",
+   "img": "collegiate-u-of-m-morris.webp"
+  },
+  {
+   "id": "collegiate-u-of-m-twin-cities",
+   "name": "Collegiate: U of M Twin Cities",
+   "cat": "colleges",
+   "img": "collegiate-u-of-m-twin-cities.webp"
+  },
+  {
+   "id": "collegiate-university-of-northwestern-st",
+   "name": "Collegiate: University of Northwestern St. Paul",
+   "cat": "colleges",
+   "img": "collegiate-university-of-northwestern-st.webp"
+  },
+  {
+   "id": "collegiate-winona-state",
+   "name": "Collegiate: Winona State",
+   "cat": "colleges",
+   "img": "collegiate-winona-state.webp"
+  },
+  {
+   "id": "commuterpool",
+   "name": "CommuterPool",
+   "cat": "other",
+   "img": "commuterpool.webp"
+  },
+  {
+   "id": "critical-habitat-dnr-conservation-angler",
+   "name": "Critical Habitat (DNR Conservation) - Anglers",
+   "cat": "nature",
+   "img": "critical-habitat-dnr-conservation-angler.webp"
+  },
+  {
+   "id": "critical-habitat-dnr-conservation-buck",
+   "name": "Critical Habitat (DNR Conservation) - Buck",
+   "cat": "nature",
+   "img": "critical-habitat-dnr-conservation-buck.webp"
+  },
+  {
+   "id": "critical-habitat-dnr-conservation-chicka",
+   "name": "Critical Habitat (DNR Conservation) - Chickadee",
+   "cat": "nature",
+   "img": "critical-habitat-dnr-conservation-chicka.webp"
+  },
+  {
+   "id": "critical-habitat-dnr-conservation-deer",
+   "name": "Critical Habitat (DNR Conservation) - Deer",
+   "cat": "nature",
+   "img": "critical-habitat-dnr-conservation-deer.webp"
+  },
+  {
+   "id": "critical-habitat-dnr-conservation-kouba-",
+   "name": "Critical Habitat (DNR Conservation) - Kouba Moose",
+   "cat": "nature",
+   "img": "critical-habitat-dnr-conservation-kouba-.webp"
+  },
+  {
+   "id": "critical-habitat-dnr-conservation-ladysl",
+   "name": "Critical Habitat (DNR Conservation) - Ladyslipper",
+   "cat": "nature",
+   "img": "critical-habitat-dnr-conservation-ladysl.webp"
+  },
+  {
+   "id": "critical-habitat-dnr-conservation-loon",
+   "name": "Critical Habitat (DNR Conservation) - Loon",
+   "cat": "nature",
+   "img": "critical-habitat-dnr-conservation-loon.webp"
+  },
+  {
+   "id": "critical-habitat-dnr-conservation-pheasa",
+   "name": "Critical Habitat (DNR Conservation) - Pheasant",
+   "cat": "nature",
+   "img": "critical-habitat-dnr-conservation-pheasa.webp"
+  },
+  {
+   "id": "critical-habitat-dnr-conservation-pollin",
+   "name": "Critical Habitat (DNR Conservation) - Pollinator",
+   "cat": "nature",
+   "img": "critical-habitat-dnr-conservation-pollin.webp"
+  },
+  {
+   "id": "critical-habitat-dnr-conservation-wild-t",
+   "name": "Critical Habitat (DNR Conservation) - Wild Turkey",
+   "cat": "sports",
+   "img": "critical-habitat-dnr-conservation-wild-t.webp"
+  },
+  {
+   "id": "disabled",
+   "name": "Disabled",
+   "cat": "other",
+   "img": "disabled.webp"
+  },
+  {
+   "id": "disabled-american-veteran-organization",
+   "name": "Disabled American Veteran Organization",
+   "cat": "veterans",
+   "img": "disabled-american-veteran-organization.webp"
+  },
+  {
+   "id": "firefighter",
+   "name": "Firefighter",
+   "cat": "firstresponder",
+   "img": "firefighter.webp"
+  },
+  {
+   "id": "firefighter-retired",
+   "name": "Firefighter (Retired",
+   "cat": "firstresponder",
+   "img": "firefighter-retired.webp"
+  },
+  {
+   "id": "gold-star-family",
+   "name": "Gold Star Family",
+   "cat": "veterans",
+   "img": "gold-star-family.webp"
+  },
+  {
+   "id": "law-enforcement-memorial",
+   "name": "Law Enforcement Memorial",
+   "cat": "firstresponder",
+   "img": "law-enforcement-memorial.webp"
+  },
+  {
+   "id": "minnesota-100",
+   "name": "Minnesota 100",
+   "cat": "other",
+   "img": "minnesota-100.webp"
+  },
+  {
+   "id": "minnesota-golf",
+   "name": "Minnesota Golf",
+   "cat": "sports",
+   "img": "minnesota-golf.webp"
+  },
+  {
+   "id": "minnesota-state-parks-trails",
+   "name": "Minnesota State Parks & Trails",
+   "cat": "nature",
+   "img": "minnesota-state-parks-trails.webp"
+  },
+  {
+   "id": "national-guard-mn",
+   "name": "National Guard (MN",
+   "cat": "military",
+   "img": "national-guard-mn.webp"
+  },
+  {
+   "id": "ready-reserve",
+   "name": "Ready Reserve",
+   "cat": "military",
+   "img": "ready-reserve.webp"
+  },
+  {
+   "id": "remembering-victims-of-impaired-drivers",
+   "name": "Remembering Victims of Impaired Drivers",
+   "cat": "nature",
+   "img": "remembering-victims-of-impaired-drivers.webp"
+  },
+  {
+   "id": "retired-law-enforcement",
+   "name": "Retired Law Enforcement",
+   "cat": "firstresponder",
+   "img": "retired-law-enforcement.webp"
+  },
+  {
+   "id": "support-our-troops",
+   "name": "Support our Troops",
+   "cat": "charity",
+   "img": "support-our-troops.webp"
+  },
+  {
+   "id": "veteran-afghanistan",
+   "name": "Veteran: Afghanistan",
+   "cat": "veterans",
+   "img": "veteran-afghanistan.webp"
+  },
+  {
+   "id": "veteran-armed-forces-expeditionary-servi",
+   "name": "Veteran: Armed Forces Expeditionary Service Medal",
+   "cat": "veterans",
+   "img": "veteran-armed-forces-expeditionary-servi.webp"
+  },
+  {
+   "id": "veteran-bronze-star",
+   "name": "Veteran: Bronze Star",
+   "cat": "veterans",
+   "img": "veteran-bronze-star.webp"
+  },
+  {
+   "id": "veteran-combat-wounded-purple-heart",
+   "name": "Veteran: Combat Wounded (Purple Heart",
+   "cat": "veterans",
+   "img": "veteran-combat-wounded-purple-heart.webp"
+  },
+  {
+   "id": "veteran-ex-pow",
+   "name": "Veteran: Ex-POW",
+   "cat": "veterans",
+   "img": "veteran-ex-pow.webp"
+  },
+  {
+   "id": "veteran-global-war-on-terrorism-expediti",
+   "name": "Veteran: Global War on Terrorism (Expeditionary",
+   "cat": "veterans",
+   "img": "veteran-global-war-on-terrorism-expediti.webp"
+  },
+  {
+   "id": "veteran-global-war-on-terrorism-service",
+   "name": "Veteran: Global War on Terrorism (Service",
+   "cat": "veterans",
+   "img": "veteran-global-war-on-terrorism-service.webp"
+  },
+  {
+   "id": "veteran-gulf-war-desert-storm",
+   "name": "Veteran: Gulf War (Desert Storm",
+   "cat": "veterans",
+   "img": "veteran-gulf-war-desert-storm.webp"
+  },
+  {
+   "id": "veteran-iraq-war",
+   "name": "Veteran: Iraq War",
+   "cat": "veterans",
+   "img": "veteran-iraq-war.webp"
+  },
+  {
+   "id": "veteran-korea",
+   "name": "Veteran: Korea",
+   "cat": "veterans",
+   "img": "veteran-korea.webp"
+  },
+  {
+   "id": "veteran-korea-ribbon",
+   "name": "Veteran: Korea - Ribbon",
+   "cat": "veterans",
+   "img": "veteran-korea-ribbon.webp"
+  },
+  {
+   "id": "veteran-korean-defense-service-medal",
+   "name": "Veteran: Korean Defense Service Medal",
+   "cat": "veterans",
+   "img": "veteran-korean-defense-service-medal.webp"
+  },
+  {
+   "id": "veteran-laos-war-allied-vet",
+   "name": "Veteran: Laos War (Allied Vet",
+   "cat": "veterans",
+   "img": "veteran-laos-war-allied-vet.webp"
+  },
+  {
+   "id": "veteran-medal-of-honor",
+   "name": "Veteran: Medal of Honor",
+   "cat": "veterans",
+   "img": "veteran-medal-of-honor.webp"
+  },
+  {
+   "id": "veteran-pearl-harbor-survivor",
+   "name": "Veteran: Pearl Harbor Survivor",
+   "cat": "veterans",
+   "img": "veteran-pearl-harbor-survivor.webp"
+  },
+  {
+   "id": "veteran-silver-star",
+   "name": "Veteran: Silver Star",
+   "cat": "veterans",
+   "img": "veteran-silver-star.webp"
+  },
+  {
+   "id": "veteran-vietnam",
+   "name": "Veteran: Vietnam",
+   "cat": "veterans",
+   "img": "veteran-vietnam.webp"
+  },
+  {
+   "id": "veteran-vietnam-ribbon",
+   "name": "Veteran: Vietnam - Ribbon",
+   "cat": "veterans",
+   "img": "veteran-vietnam-ribbon.webp"
+  },
+  {
+   "id": "veteran-woman-vet",
+   "name": "Veteran: Woman Vet",
+   "cat": "veterans",
+   "img": "veteran-woman-vet.webp"
+  },
+  {
+   "id": "veteran-world-war-ii",
+   "name": "Veteran: World War II",
+   "cat": "veterans",
+   "img": "veteran-world-war-ii.webp"
+  },
+  {
+   "id": "veteran-world-war-ii-ribbon",
+   "name": "Veteran: World War II - Ribbon",
+   "cat": "veterans",
+   "img": "veteran-world-war-ii-ribbon.webp"
+  },
+  {
+   "id": "vfw",
+   "name": "VFW",
+   "cat": "veterans",
+   "img": "vfw.webp"
+  },
+  {
+   "id": "volunteer-ambulance-attendant",
+   "name": "Volunteer Ambulance Attendant",
+   "cat": "other",
+   "img": "volunteer-ambulance-attendant.webp"
+  }
+ ]
+}

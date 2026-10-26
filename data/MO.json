@@ -1,0 +1,964 @@
+{
+ "code": "MO",
+ "name": "Missouri",
+ "rated": false,
+ "checked": false,
+ "updated": "2026-10-25",
+ "about": "Missouri special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "sources": [
+  {
+   "title": "Jon Keegan, us-license-plates (2023)",
+   "url": "https://github.com/jonkeegan/us-license-plates"
+  }
+ ],
+ "plates": [
+  {
+   "id": "air-force",
+   "name": "Air Force",
+   "cat": "military",
+   "img": "air-force.webp"
+  },
+  {
+   "id": "air-medal",
+   "name": "Air Medal",
+   "cat": "veterans",
+   "img": "air-medal.webp"
+  },
+  {
+   "id": "alpha-kappa-alpha",
+   "name": "Alpha Kappa Alpha",
+   "cat": "other",
+   "img": "alpha-kappa-alpha.webp"
+  },
+  {
+   "id": "alpha-phi-alpha",
+   "name": "Alpha Phi Alpha",
+   "cat": "other",
+   "img": "alpha-phi-alpha.webp"
+  },
+  {
+   "id": "amateur-radio",
+   "name": "Amateur Radio",
+   "cat": "hobby",
+   "img": "amateur-radio.webp"
+  },
+  {
+   "id": "american-heart-association-winning-women",
+   "name": "American Heart Association (Winning Women",
+   "cat": "hobby",
+   "img": "american-heart-association-winning-women.webp"
+  },
+  {
+   "id": "american-legion",
+   "name": "American Legion",
+   "cat": "veterans",
+   "img": "american-legion.webp"
+  },
+  {
+   "id": "arkansas-alumni-go-hogs",
+   "name": "Arkansas Alumni - Go Hogs!",
+   "cat": "colleges",
+   "img": "arkansas-alumni-go-hogs.webp"
+  },
+  {
+   "id": "armed-forces-expeditionary-medal",
+   "name": "Armed Forces Expeditionary Medal",
+   "cat": "veterans",
+   "img": "armed-forces-expeditionary-medal.webp"
+  },
+  {
+   "id": "army",
+   "name": "Army",
+   "cat": "military",
+   "img": "army.webp"
+  },
+  {
+   "id": "back-the-blue",
+   "name": "Back the Blue",
+   "cat": "other",
+   "img": "back-the-blue.webp"
+  },
+  {
+   "id": "baptist-bible-college",
+   "name": "Baptist Bible College",
+   "cat": "colleges",
+   "img": "baptist-bible-college.webp"
+  },
+  {
+   "id": "be-an-organ-donor",
+   "name": "Be An Organ Donor",
+   "cat": "charity",
+   "img": "be-an-organ-donor.webp"
+  },
+  {
+   "id": "breast-cancer-awareness",
+   "name": "Breast Cancer Awareness",
+   "cat": "charity",
+   "img": "breast-cancer-awareness.webp"
+  },
+  {
+   "id": "bronze-star",
+   "name": "Bronze Star",
+   "cat": "veterans",
+   "img": "bronze-star.webp"
+  },
+  {
+   "id": "bronze-star-valor",
+   "name": "Bronze Star Valor",
+   "cat": "veterans",
+   "img": "bronze-star-valor.webp"
+  },
+  {
+   "id": "cave-state",
+   "name": "Cave State",
+   "cat": "other",
+   "img": "cave-state.webp"
+  },
+  {
+   "id": "central-methodist-university",
+   "name": "Central Methodist University",
+   "cat": "colleges",
+   "img": "central-methodist-university.webp"
+  },
+  {
+   "id": "childrens-trust-fund",
+   "name": "Childrens Trust Fund",
+   "cat": "charity",
+   "img": "childrens-trust-fund.webp"
+  },
+  {
+   "id": "choose-life",
+   "name": "Choose Life",
+   "cat": "other",
+   "img": "choose-life.webp"
+  },
+  {
+   "id": "civil-air-patrol",
+   "name": "Civil Air Patrol",
+   "cat": "other",
+   "img": "civil-air-patrol.webp"
+  },
+  {
+   "id": "coast-guard",
+   "name": "Coast Guard",
+   "cat": "military",
+   "img": "coast-guard.webp"
+  },
+  {
+   "id": "columbia-college",
+   "name": "Columbia College",
+   "cat": "colleges",
+   "img": "columbia-college.webp"
+  },
+  {
+   "id": "combat-action",
+   "name": "Combat Action",
+   "cat": "veterans",
+   "img": "combat-action.webp"
+  },
+  {
+   "id": "combat-action-ribbon",
+   "name": "Combat Action Ribbon",
+   "cat": "veterans",
+   "img": "combat-action-ribbon.webp"
+  },
+  {
+   "id": "combat-infrantryman",
+   "name": "Combat Infrantryman",
+   "cat": "veterans",
+   "img": "combat-infrantryman.webp"
+  },
+  {
+   "id": "combat-medic",
+   "name": "Combat Medic",
+   "cat": "veterans",
+   "img": "combat-medic.webp"
+  },
+  {
+   "id": "congressional-medal-of-honor",
+   "name": "Congressional Medal Of Honor",
+   "cat": "veterans",
+   "img": "congressional-medal-of-honor.webp"
+  },
+  {
+   "id": "conservation-bald-eagle",
+   "name": "Conservation (Bald Eagle",
+   "cat": "nature",
+   "img": "conservation-bald-eagle.webp"
+  },
+  {
+   "id": "conservation-bluebird",
+   "name": "Conservation (Bluebird",
+   "cat": "nature",
+   "img": "conservation-bluebird.webp"
+  },
+  {
+   "id": "conservation-deer",
+   "name": "Conservation (Deer",
+   "cat": "nature",
+   "img": "conservation-deer.webp"
+  },
+  {
+   "id": "coroners-office-mcmea",
+   "name": "Coroners Office (MCMEA",
+   "cat": "other",
+   "img": "coroners-office-mcmea.webp"
+  },
+  {
+   "id": "culver-stockton-college",
+   "name": "Culver-Stockton College",
+   "cat": "colleges",
+   "img": "culver-stockton-college.webp"
+  },
+  {
+   "id": "custom",
+   "name": "Custom",
+   "cat": "vehicle",
+   "img": "custom.webp"
+  },
+  {
+   "id": "delta-sigma-theta",
+   "name": "Delta Sigma Theta",
+   "cat": "other",
+   "img": "delta-sigma-theta.webp"
+  },
+  {
+   "id": "disabled-veteran",
+   "name": "Disabled Veteran",
+   "cat": "veterans",
+   "img": "disabled-veteran.webp"
+  },
+  {
+   "id": "disabled-veteran-alternate",
+   "name": "Disabled Veteran - Alternate",
+   "cat": "veterans",
+   "img": "disabled-veteran-alternate.webp"
+  },
+  {
+   "id": "distinguished-flying-cross",
+   "name": "Distinguished Flying Cross",
+   "cat": "veterans",
+   "img": "distinguished-flying-cross.webp"
+  },
+  {
+   "id": "don-t-tread-on-me",
+   "name": "Don't Tread on Me",
+   "cat": "other",
+   "img": "don-t-tread-on-me.webp"
+  },
+  {
+   "id": "drury-university",
+   "name": "Drury University",
+   "cat": "colleges",
+   "img": "drury-university.webp"
+  },
+  {
+   "id": "ducks-unlimited",
+   "name": "Ducks Unlimited",
+   "cat": "nature",
+   "img": "ducks-unlimited.webp"
+  },
+  {
+   "id": "eagle-scout",
+   "name": "Eagle Scout",
+   "cat": "charity",
+   "img": "eagle-scout.webp"
+  },
+  {
+   "id": "emt",
+   "name": "EMT",
+   "cat": "other",
+   "img": "emt.webp"
+  },
+  {
+   "id": "fight-terrorism",
+   "name": "Fight Terrorism",
+   "cat": "other",
+   "img": "fight-terrorism.webp"
+  },
+  {
+   "id": "firefighter",
+   "name": "Firefighter",
+   "cat": "firstresponder",
+   "img": "firefighter.webp"
+  },
+  {
+   "id": "fontbonne-university",
+   "name": "Fontbonne University",
+   "cat": "colleges",
+   "img": "fontbonne-university.webp"
+  },
+  {
+   "id": "former-p-o-w",
+   "name": "Former P.O.W.",
+   "cat": "veterans",
+   "img": "former-p-o-w.webp"
+  },
+  {
+   "id": "fraternal-order-of-eagles",
+   "name": "Fraternal Order Of Eagles",
+   "cat": "sports",
+   "img": "fraternal-order-of-eagles.webp"
+  },
+  {
+   "id": "fraternal-order-of-police",
+   "name": "Fraternal Order Of Police",
+   "cat": "firstresponder",
+   "img": "fraternal-order-of-police.webp"
+  },
+  {
+   "id": "friends-of-arrow-rock",
+   "name": "Friends Of Arrow Rock",
+   "cat": "other",
+   "img": "friends-of-arrow-rock.webp"
+  },
+  {
+   "id": "gateway-arch",
+   "name": "Gateway Arch",
+   "cat": "other",
+   "img": "gateway-arch.webp"
+  },
+  {
+   "id": "god-bless-america",
+   "name": "God Bless America",
+   "cat": "other",
+   "img": "god-bless-america.webp"
+  },
+  {
+   "id": "grand-lodge-freemason",
+   "name": "Grand Lodge Freemason",
+   "cat": "hobby",
+   "img": "grand-lodge-freemason.webp"
+  },
+  {
+   "id": "great-rivers-state",
+   "name": "Great Rivers State",
+   "cat": "nature",
+   "img": "great-rivers-state.webp"
+  },
+  {
+   "id": "gulf-war-veteran",
+   "name": "Gulf War Veteran",
+   "cat": "veterans",
+   "img": "gulf-war-veteran.webp"
+  },
+  {
+   "id": "hearing-impaired-kids-endowment",
+   "name": "Hearing Impaired Kids Endowment",
+   "cat": "charity",
+   "img": "hearing-impaired-kids-endowment.webp"
+  },
+  {
+   "id": "helping-schools",
+   "name": "Helping Schools",
+   "cat": "charity",
+   "img": "helping-schools.webp"
+  },
+  {
+   "id": "historic",
+   "name": "Historic",
+   "cat": "other",
+   "img": "historic.webp"
+  },
+  {
+   "id": "i-d-rather-fly",
+   "name": "I'd Rather Fly",
+   "cat": "other",
+   "img": "i-d-rather-fly.webp"
+  },
+  {
+   "id": "i-m-pet-friendly",
+   "name": "I'm Pet Friendly",
+   "cat": "charity",
+   "img": "i-m-pet-friendly.webp"
+  },
+  {
+   "id": "kansas-city-chiefs",
+   "name": "Kansas City Chiefs",
+   "cat": "sports",
+   "img": "kansas-city-chiefs.webp"
+  },
+  {
+   "id": "kansas-city-royals",
+   "name": "Kansas City Royals",
+   "cat": "sports",
+   "img": "kansas-city-royals.webp"
+  },
+  {
+   "id": "kansas-city-zoo",
+   "name": "Kansas City Zoo",
+   "cat": "nature",
+   "img": "kansas-city-zoo.webp"
+  },
+  {
+   "id": "kappa-alpha-psi",
+   "name": "Kappa Alpha Psi",
+   "cat": "other",
+   "img": "kappa-alpha-psi.webp"
+  },
+  {
+   "id": "kingdom-of-calontir",
+   "name": "Kingdom Of Calontir",
+   "cat": "other",
+   "img": "kingdom-of-calontir.webp"
+  },
+  {
+   "id": "knights-of-columbus",
+   "name": "Knights Of Columbus",
+   "cat": "hobby",
+   "img": "knights-of-columbus.webp"
+  },
+  {
+   "id": "korean-war-veteran",
+   "name": "Korean War Veteran",
+   "cat": "veterans",
+   "img": "korean-war-veteran.webp"
+  },
+  {
+   "id": "legion-of-merit",
+   "name": "Legion of Merit",
+   "cat": "veterans",
+   "img": "legion-of-merit.webp"
+  },
+  {
+   "id": "lincoln-university",
+   "name": "Lincoln University",
+   "cat": "colleges",
+   "img": "lincoln-university.webp"
+  },
+  {
+   "id": "lindenwood-university",
+   "name": "Lindenwood University",
+   "cat": "colleges",
+   "img": "lindenwood-university.webp"
+  },
+  {
+   "id": "lions-club",
+   "name": "Lions Club",
+   "cat": "sports",
+   "img": "lions-club.webp"
+  },
+  {
+   "id": "marine",
+   "name": "Marine",
+   "cat": "military",
+   "img": "marine.webp"
+  },
+  {
+   "id": "marine-corps-league",
+   "name": "Marine Corps League",
+   "cat": "military",
+   "img": "marine-corps-league.webp"
+  },
+  {
+   "id": "maryville-university-of-st-louis",
+   "name": "Maryville University of St. Louis",
+   "cat": "colleges",
+   "img": "maryville-university-of-st-louis.webp"
+  },
+  {
+   "id": "masters",
+   "name": "MASTERS",
+   "cat": "other",
+   "img": "masters.webp"
+  },
+  {
+   "id": "merchant-marine",
+   "name": "Merchant Marine",
+   "cat": "military",
+   "img": "merchant-marine.webp"
+  },
+  {
+   "id": "meritorious-service-medal",
+   "name": "Meritorious Service Medal",
+   "cat": "veterans",
+   "img": "meritorious-service-medal.webp"
+  },
+  {
+   "id": "missouri-4-h",
+   "name": "Missouri 4-H",
+   "cat": "charity",
+   "img": "missouri-4-h.webp"
+  },
+  {
+   "id": "missouri-association-of-realtors",
+   "name": "Missouri Association of Realtors",
+   "cat": "charity",
+   "img": "missouri-association-of-realtors.webp"
+  },
+  {
+   "id": "missouri-bicycle-and-pedestrian-federati",
+   "name": "Missouri Bicycle and Pedestrian Federation",
+   "cat": "hobby",
+   "img": "missouri-bicycle-and-pedestrian-federati.webp"
+  },
+  {
+   "id": "missouri-botanical-garden",
+   "name": "Missouri Botanical Garden",
+   "cat": "nature",
+   "img": "missouri-botanical-garden.webp"
+  },
+  {
+   "id": "missouri-elks-association",
+   "name": "Missouri Elks Association",
+   "cat": "nature",
+   "img": "missouri-elks-association.webp"
+  },
+  {
+   "id": "missouri-federation-of-square-amp-round-",
+   "name": "Missouri Federation Of Square &amp; Round Dance Clubs",
+   "cat": "charity",
+   "img": "missouri-federation-of-square-amp-round-.webp"
+  },
+  {
+   "id": "missouri-jaycees",
+   "name": "Missouri Jaycees",
+   "cat": "other",
+   "img": "missouri-jaycees.webp"
+  },
+  {
+   "id": "missouri-junior-golf-foundation",
+   "name": "Missouri Junior Golf Foundation",
+   "cat": "sports",
+   "img": "missouri-junior-golf-foundation.webp"
+  },
+  {
+   "id": "missouri-nurses-foundation",
+   "name": "Missouri Nurses Foundation",
+   "cat": "charity",
+   "img": "missouri-nurses-foundation.webp"
+  },
+  {
+   "id": "missouri-remembers-pow-mia",
+   "name": "Missouri Remembers POW*MIA",
+   "cat": "veterans",
+   "img": "missouri-remembers-pow-mia.webp"
+  },
+  {
+   "id": "missouri-southern-state-university",
+   "name": "Missouri Southern State University",
+   "cat": "colleges",
+   "img": "missouri-southern-state-university.webp"
+  },
+  {
+   "id": "missouri-state-university",
+   "name": "Missouri State University",
+   "cat": "colleges",
+   "img": "missouri-state-university.webp"
+  },
+  {
+   "id": "missouri-task-force-1",
+   "name": "Missouri Task Force 1",
+   "cat": "other",
+   "img": "missouri-task-force-1.webp"
+  },
+  {
+   "id": "missouri-travel-council",
+   "name": "Missouri Travel Council",
+   "cat": "other",
+   "img": "missouri-travel-council.webp"
+  },
+  {
+   "id": "missouri-university-of-science-and-techn",
+   "name": "Missouri University of Science and Technology",
+   "cat": "colleges",
+   "img": "missouri-university-of-science-and-techn.webp"
+  },
+  {
+   "id": "missouri-valley-college",
+   "name": "Missouri Valley College",
+   "cat": "colleges",
+   "img": "missouri-valley-college.webp"
+  },
+  {
+   "id": "missouri-western-state-university",
+   "name": "Missouri Western State University",
+   "cat": "colleges",
+   "img": "missouri-western-state-university.webp"
+  },
+  {
+   "id": "mkn-teamsters",
+   "name": "MKN Teamsters",
+   "cat": "other",
+   "img": "mkn-teamsters.webp"
+  },
+  {
+   "id": "mo-ag-agribusiness",
+   "name": "MO-AG Agribusiness",
+   "cat": "other",
+   "img": "mo-ag-agribusiness.webp"
+  },
+  {
+   "id": "national-guard",
+   "name": "National Guard",
+   "cat": "military",
+   "img": "national-guard.webp"
+  },
+  {
+   "id": "navy",
+   "name": "Navy",
+   "cat": "military",
+   "img": "navy.webp"
+  },
+  {
+   "id": "navy-cross",
+   "name": "Navy Cross",
+   "cat": "veterans",
+   "img": "navy-cross.webp"
+  },
+  {
+   "id": "northwest-missouri-state-university",
+   "name": "Northwest Missouri State University",
+   "cat": "colleges",
+   "img": "northwest-missouri-state-university.webp"
+  },
+  {
+   "id": "omega-psi-phi",
+   "name": "Omega Psi Phi",
+   "cat": "other",
+   "img": "omega-psi-phi.webp"
+  },
+  {
+   "id": "operation-enduring-freedom",
+   "name": "Operation Enduring Freedom",
+   "cat": "other",
+   "img": "operation-enduring-freedom.webp"
+  },
+  {
+   "id": "operation-iraqi-freedom-veteran",
+   "name": "Operation Iraqi Freedom Veteran",
+   "cat": "veterans",
+   "img": "operation-iraqi-freedom-veteran.webp"
+  },
+  {
+   "id": "operation-noble-eagle",
+   "name": "Operation Noble Eagle",
+   "cat": "nature",
+   "img": "operation-noble-eagle.webp"
+  },
+  {
+   "id": "order-of-the-arrow",
+   "name": "Order Of The Arrow",
+   "cat": "other",
+   "img": "order-of-the-arrow.webp"
+  },
+  {
+   "id": "order-of-the-eastern-star-harmony-grand-",
+   "name": "Order Of The Eastern Star - Harmony Grand Chapter",
+   "cat": "hobby",
+   "img": "order-of-the-eastern-star-harmony-grand-.webp"
+  },
+  {
+   "id": "paramedic",
+   "name": "Paramedic",
+   "cat": "firstresponder",
+   "img": "paramedic.webp"
+  },
+  {
+   "id": "park-university",
+   "name": "Park University",
+   "cat": "colleges",
+   "img": "park-university.webp"
+  },
+  {
+   "id": "pearl-harbor-survivor",
+   "name": "Pearl Harbor Survivor",
+   "cat": "veterans",
+   "img": "pearl-harbor-survivor.webp"
+  },
+  {
+   "id": "pittsburg-state-university",
+   "name": "Pittsburg State University",
+   "cat": "colleges",
+   "img": "pittsburg-state-university.webp"
+  },
+  {
+   "id": "prince-hall-grand-lodge-masons",
+   "name": "Prince Hall Grand Lodge Masons",
+   "cat": "hobby",
+   "img": "prince-hall-grand-lodge-masons.webp"
+  },
+  {
+   "id": "purple-heart",
+   "name": "Purple Heart",
+   "cat": "veterans",
+   "img": "purple-heart.webp"
+  },
+  {
+   "id": "ranken-technical-college",
+   "name": "Ranken Technical College",
+   "cat": "colleges",
+   "img": "ranken-technical-college.webp"
+  },
+  {
+   "id": "retired-air-force",
+   "name": "Retired Air Force",
+   "cat": "military",
+   "img": "retired-air-force.webp"
+  },
+  {
+   "id": "retired-army",
+   "name": "Retired Army",
+   "cat": "military",
+   "img": "retired-army.webp"
+  },
+  {
+   "id": "retired-marine",
+   "name": "Retired Marine",
+   "cat": "military",
+   "img": "retired-marine.webp"
+  },
+  {
+   "id": "retired-marine-corps-league",
+   "name": "Retired Marine Corps League",
+   "cat": "military",
+   "img": "retired-marine-corps-league.webp"
+  },
+  {
+   "id": "retired-military-coast-guard",
+   "name": "Retired Military Coast Guard",
+   "cat": "veterans",
+   "img": "retired-military-coast-guard.webp"
+  },
+  {
+   "id": "retired-national-guard",
+   "name": "Retired National Guard",
+   "cat": "military",
+   "img": "retired-national-guard.webp"
+  },
+  {
+   "id": "retired-navy",
+   "name": "Retired Navy",
+   "cat": "military",
+   "img": "retired-navy.webp"
+  },
+  {
+   "id": "rockhurst-university",
+   "name": "Rockhurst University",
+   "cat": "colleges",
+   "img": "rockhurst-university.webp"
+  },
+  {
+   "id": "rotary-international",
+   "name": "Rotary International",
+   "cat": "hobby",
+   "img": "rotary-international.webp"
+  },
+  {
+   "id": "safari-club-international",
+   "name": "Safari Club International",
+   "cat": "charity",
+   "img": "safari-club-international.webp"
+  },
+  {
+   "id": "saint-louis-university",
+   "name": "Saint Louis University",
+   "cat": "colleges",
+   "img": "saint-louis-university.webp"
+  },
+  {
+   "id": "search-and-rescue-sarcom",
+   "name": "Search and Rescue (SARCOM",
+   "cat": "firstresponder",
+   "img": "search-and-rescue-sarcom.webp"
+  },
+  {
+   "id": "shriners",
+   "name": "Shriners",
+   "cat": "hobby",
+   "img": "shriners.webp"
+  },
+  {
+   "id": "sigma-gamma-rho",
+   "name": "Sigma Gamma Rho",
+   "cat": "other",
+   "img": "sigma-gamma-rho.webp"
+  },
+  {
+   "id": "silver-star",
+   "name": "Silver Star",
+   "cat": "veterans",
+   "img": "silver-star.webp"
+  },
+  {
+   "id": "some-gave-all-gold-star",
+   "name": "Some Gave All (Gold Star",
+   "cat": "veterans",
+   "img": "some-gave-all-gold-star.webp"
+  },
+  {
+   "id": "southeast-missouri-state",
+   "name": "Southeast Missouri State",
+   "cat": "other",
+   "img": "southeast-missouri-state.webp"
+  },
+  {
+   "id": "special-olympics-missouri",
+   "name": "Special Olympics Missouri",
+   "cat": "sports",
+   "img": "special-olympics-missouri.webp"
+  },
+  {
+   "id": "st-louis-blues",
+   "name": "St. Louis Blues",
+   "cat": "other",
+   "img": "st-louis-blues.webp"
+  },
+  {
+   "id": "st-louis-cardinals",
+   "name": "St. Louis Cardinals",
+   "cat": "sports",
+   "img": "st-louis-cardinals.webp"
+  },
+  {
+   "id": "st-louis-zoo",
+   "name": "St. Louis Zoo",
+   "cat": "nature",
+   "img": "st-louis-zoo.webp"
+  },
+  {
+   "id": "stephens-college",
+   "name": "Stephens College",
+   "cat": "colleges",
+   "img": "stephens-college.webp"
+  },
+  {
+   "id": "street-rod",
+   "name": "Street Rod",
+   "cat": "vehicle",
+   "img": "street-rod.webp"
+  },
+  {
+   "id": "tribe-mic-o-say-kansas-city-district",
+   "name": "Tribe Mic-O-Say - Kansas City District",
+   "cat": "tribal",
+   "img": "tribe-mic-o-say-kansas-city-district.webp"
+  },
+  {
+   "id": "tribe-mic-o-say-st-joseph-district",
+   "name": "Tribe Mic-O-Say - St. Joseph District",
+   "cat": "tribal",
+   "img": "tribe-mic-o-say-st-joseph-district.webp"
+  },
+  {
+   "id": "truman-state-university",
+   "name": "Truman State University",
+   "cat": "colleges",
+   "img": "truman-state-university.webp"
+  },
+  {
+   "id": "united-states-veteran",
+   "name": "United States Veteran",
+   "cat": "veterans",
+   "img": "united-states-veteran.webp"
+  },
+  {
+   "id": "university-of-central-missouri",
+   "name": "University of Central Missouri",
+   "cat": "colleges",
+   "img": "university-of-central-missouri.webp"
+  },
+  {
+   "id": "university-of-health-sciences-and-pharma",
+   "name": "University of Health Sciences and Pharmacy in St. Louis",
+   "cat": "colleges",
+   "img": "university-of-health-sciences-and-pharma.webp"
+  },
+  {
+   "id": "university-of-missouri-columbia-mizzou",
+   "name": "University Of Missouri - Columbia (Mizzou",
+   "cat": "colleges",
+   "img": "university-of-missouri-columbia-mizzou.webp"
+  },
+  {
+   "id": "university-of-missouri-kansas-city",
+   "name": "University Of Missouri - Kansas City",
+   "cat": "colleges",
+   "img": "university-of-missouri-kansas-city.webp"
+  },
+  {
+   "id": "university-of-missouri-st-louis",
+   "name": "University Of Missouri - St. Louis",
+   "cat": "colleges",
+   "img": "university-of-missouri-st-louis.webp"
+  },
+  {
+   "id": "vanpool",
+   "name": "Vanpool",
+   "cat": "other",
+   "img": "vanpool.webp"
+  },
+  {
+   "id": "veterans-of-foreign-wars-vfw",
+   "name": "Veterans Of Foreign Wars (VFW",
+   "cat": "veterans",
+   "img": "veterans-of-foreign-wars-vfw.webp"
+  },
+  {
+   "id": "vietnam-veteran",
+   "name": "Vietnam Veteran",
+   "cat": "veterans",
+   "img": "vietnam-veteran.webp"
+  },
+  {
+   "id": "wartime-disabled-dav",
+   "name": "Wartime Disabled - DAV",
+   "cat": "veterans",
+   "img": "wartime-disabled-dav.webp"
+  },
+  {
+   "id": "washington-university",
+   "name": "Washington University",
+   "cat": "colleges",
+   "img": "washington-university.webp"
+  },
+  {
+   "id": "we-shall-not-forget",
+   "name": "We Shall Not Forget",
+   "cat": "other",
+   "img": "we-shall-not-forget.webp"
+  },
+  {
+   "id": "webster-university",
+   "name": "Webster University",
+   "cat": "colleges",
+   "img": "webster-university.webp"
+  },
+  {
+   "id": "westminster-college",
+   "name": "Westminster College",
+   "cat": "colleges",
+   "img": "westminster-college.webp"
+  },
+  {
+   "id": "william-jewell-college",
+   "name": "William Jewell College",
+   "cat": "colleges",
+   "img": "william-jewell-college.webp"
+  },
+  {
+   "id": "william-woods-university",
+   "name": "William Woods University",
+   "cat": "colleges",
+   "img": "william-woods-university.webp"
+  },
+  {
+   "id": "wilson-s-creek-national-battlefield",
+   "name": "Wilson's Creek National Battlefield",
+   "cat": "other",
+   "img": "wilson-s-creek-national-battlefield.webp"
+  },
+  {
+   "id": "woman-veteran",
+   "name": "Woman Veteran",
+   "cat": "veterans",
+   "img": "woman-veteran.webp"
+  },
+  {
+   "id": "world-war-ii-veteran",
+   "name": "World War II Veteran",
+   "cat": "veterans",
+   "img": "world-war-ii-veteran.webp"
+  }
+ ]
+}

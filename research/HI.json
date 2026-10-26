@@ -1,0 +1,86 @@
+[
+ {
+  "title": "Combat Veteran",
+  "keegan_img": "combat-vet.png",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dod.hawaii.gov/ovs/benefits-and-services/"
+ },
+ {
+  "title": "Combat Wounded (Purple Heart",
+  "keegan_img": "Veterans_Specialty_License_Plate_-_Combat_Wounded.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dod.hawaii.gov/ovs/benefits-and-services/"
+ },
+ {
+  "title": "Gold Star Family",
+  "keegan_img": "gold-star-family.png",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dod.hawaii.gov/ovs/benefits-and-services/"
+ },
+ {
+  "title": "Haleakalā National Park",
+  "keegan_img": "National_Parks.png",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.honolulu.gov/cms-csd-menu/site-csd-sitearticles/34571-the-hawai%CA%BBi-national-park-license-plates-information.html"
+ },
+ {
+  "title": "Hawaiʻi Volcanoes National Park",
+  "keegan_img": "volcanoes.png",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.honolulu.gov/cms-csd-menu/site-csd-sitearticles/34571-the-hawai%CA%BBi-national-park-license-plates-information.html"
+ },
+ {
+  "title": "Korea Veteran",
+  "keegan_img": "korea-vet.png",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dod.hawaii.gov/ovs/benefits-and-services/"
+ },
+ {
+  "title": "Pearl Harbor Survivor",
+  "keegan_img": "pearl_harbor.png",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dod.hawaii.gov/ovs/benefits-and-services/"
+ },
+ {
+  "title": "Persian Gulf Veteran",
+  "keegan_img": "persian-gulf-vet.png",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dod.hawaii.gov/ovs/benefits-and-services/"
+ },
+ {
+  "title": "Polynesian Voyaging Society",
+  "keegan_img": "PVS_Plate.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.honolulu.gov/cms-csd-menu/site-csd-sitearticles/34571-the-hawai%CA%BBi-national-park-license-plates-information.html"
+ },
+ {
+  "title": "Veteran",
+  "keegan_img": "veteran.png",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dod.hawaii.gov/ovs/benefits-and-services/"
+ },
+ {
+  "title": "Vietnam Veteran",
+  "keegan_img": "vietnam-vet.png",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dod.hawaii.gov/ovs/benefits-and-services/"
+ },
+ {
+  "title": "World War II Veteran",
+  "keegan_img": "ww2-vet.png",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dod.hawaii.gov/ovs/benefits-and-services/"
+ }
+]

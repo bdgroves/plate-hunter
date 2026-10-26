@@ -1,0 +1,334 @@
+{
+ "code": "SD",
+ "name": "South Dakota",
+ "rated": false,
+ "checked": false,
+ "updated": "2026-10-25",
+ "about": "South Dakota special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "sources": [
+  {
+   "title": "Jon Keegan, us-license-plates (2023)",
+   "url": "https://github.com/jonkeegan/us-license-plates"
+  }
+ ],
+ "plates": [
+  {
+   "id": "air-force-woman-veteran",
+   "name": "Air Force - Woman Veteran",
+   "cat": "veterans",
+   "img": "air-force-woman-veteran.webp"
+  },
+  {
+   "id": "air-force-cross",
+   "name": "Air Force Cross",
+   "cat": "military",
+   "img": "air-force-cross.webp"
+  },
+  {
+   "id": "air-force",
+   "name": "Air Force",
+   "cat": "military",
+   "img": "air-force.webp"
+  },
+  {
+   "id": "air-force-active-duty",
+   "name": "Air Force- Active Duty",
+   "cat": "military",
+   "img": "air-force-active-duty.webp"
+  },
+  {
+   "id": "amateur-radio",
+   "name": "Amateur Radio",
+   "cat": "hobby",
+   "img": "amateur-radio.webp"
+  },
+  {
+   "id": "army",
+   "name": "Army",
+   "cat": "military",
+   "img": "army.webp"
+  },
+  {
+   "id": "army-woman-veteran",
+   "name": "Army- Woman Veteran",
+   "cat": "veterans",
+   "img": "army-woman-veteran.webp"
+  },
+  {
+   "id": "army-active-duty",
+   "name": "Army- Active Duty",
+   "cat": "military",
+   "img": "army-active-duty.webp"
+  },
+  {
+   "id": "bronze-star",
+   "name": "Bronze Star",
+   "cat": "veterans",
+   "img": "bronze-star.webp"
+  },
+  {
+   "id": "bronze-star-with-valor",
+   "name": "Bronze Star with Valor",
+   "cat": "veterans",
+   "img": "bronze-star-with-valor.webp"
+  },
+  {
+   "id": "cheyenne-river-sioux-tribe",
+   "name": "Cheyenne River Sioux Tribe",
+   "cat": "tribal",
+   "img": "cheyenne-river-sioux-tribe.webp"
+  },
+  {
+   "id": "cheyenne-river-sioux-tribe-veteran",
+   "name": "Cheyenne River Sioux Tribe - Veteran",
+   "cat": "tribal",
+   "img": "cheyenne-river-sioux-tribe-veteran.webp"
+  },
+  {
+   "id": "coast-guard",
+   "name": "Coast Guard",
+   "cat": "military",
+   "img": "coast-guard.webp"
+  },
+  {
+   "id": "coast-guard-woman-veteran",
+   "name": "Coast Guard- Woman Veteran",
+   "cat": "veterans",
+   "img": "coast-guard-woman-veteran.webp"
+  },
+  {
+   "id": "coast-guard-active-duty",
+   "name": "Coast Guard- Active Duty",
+   "cat": "military",
+   "img": "coast-guard-active-duty.webp"
+  },
+  {
+   "id": "crow-creek-sioux-tribe",
+   "name": "Crow Creek Sioux Tribe",
+   "cat": "tribal",
+   "img": "crow-creek-sioux-tribe.webp"
+  },
+  {
+   "id": "crow-creek-sioux-tribe-veteran",
+   "name": "Crow Creek Sioux Tribe - Veteran",
+   "cat": "tribal",
+   "img": "crow-creek-sioux-tribe-veteran.webp"
+  },
+  {
+   "id": "dignity-sculpture",
+   "name": "Dignity Sculpture",
+   "cat": "other",
+   "img": "dignity-sculpture.webp"
+  },
+  {
+   "id": "disabled-veteran",
+   "name": "Disabled Veteran",
+   "cat": "veterans",
+   "img": "disabled-veteran.webp"
+  },
+  {
+   "id": "distinguished-flying-cross",
+   "name": "Distinguished Flying Cross",
+   "cat": "veterans",
+   "img": "distinguished-flying-cross.webp"
+  },
+  {
+   "id": "distinguished-service-cross",
+   "name": "Distinguished Service Cross",
+   "cat": "veterans",
+   "img": "distinguished-service-cross.webp"
+  },
+  {
+   "id": "firefighter",
+   "name": "Firefighter",
+   "cat": "firstresponder",
+   "img": "firefighter.webp"
+  },
+  {
+   "id": "flandreau-santee-sioux-tribe",
+   "name": "Flandreau Santee Sioux Tribe",
+   "cat": "tribal",
+   "img": "flandreau-santee-sioux-tribe.webp"
+  },
+  {
+   "id": "flandreau-santee-sioux-tribe-veteran",
+   "name": "Flandreau Santee Sioux Tribe - Veteran",
+   "cat": "tribal",
+   "img": "flandreau-santee-sioux-tribe-veteran.webp"
+  },
+  {
+   "id": "gold-star",
+   "name": "Gold Star",
+   "cat": "veterans",
+   "img": "gold-star.webp"
+  },
+  {
+   "id": "lower-brule-sioux-tribe",
+   "name": "Lower Brule Sioux Tribe",
+   "cat": "tribal",
+   "img": "lower-brule-sioux-tribe.webp"
+  },
+  {
+   "id": "lower-brule-sioux-tribe-veteran",
+   "name": "Lower Brule Sioux Tribe - Veteran",
+   "cat": "tribal",
+   "img": "lower-brule-sioux-tribe-veteran.webp"
+  },
+  {
+   "id": "marine",
+   "name": "Marine",
+   "cat": "military",
+   "img": "marine.webp"
+  },
+  {
+   "id": "marine-woman-veteran",
+   "name": "Marine- Woman Veteran",
+   "cat": "veterans",
+   "img": "marine-woman-veteran.webp"
+  },
+  {
+   "id": "marine-active-duty",
+   "name": "Marine- Active Duty",
+   "cat": "military",
+   "img": "marine-active-duty.webp"
+  },
+  {
+   "id": "medal-of-honor",
+   "name": "Medal of Honor",
+   "cat": "veterans",
+   "img": "medal-of-honor.webp"
+  },
+  {
+   "id": "national-guard",
+   "name": "National Guard",
+   "cat": "military",
+   "img": "national-guard.webp"
+  },
+  {
+   "id": "navy-cross",
+   "name": "Navy Cross",
+   "cat": "veterans",
+   "img": "navy-cross.webp"
+  },
+  {
+   "id": "navy-cross-motorcyle",
+   "name": "Navy Cross- Motorcyle",
+   "cat": "veterans",
+   "img": "navy-cross-motorcyle.webp"
+  },
+  {
+   "id": "navy",
+   "name": "Navy",
+   "cat": "military",
+   "img": "navy.webp"
+  },
+  {
+   "id": "navy-woman-veteran",
+   "name": "Navy- Woman Veteran",
+   "cat": "veterans",
+   "img": "navy-woman-veteran.webp"
+  },
+  {
+   "id": "navy-active-duty",
+   "name": "Navy- Active Duty",
+   "cat": "military",
+   "img": "navy-active-duty.webp"
+  },
+  {
+   "id": "oglala-lakota-sioux-tribe",
+   "name": "Oglala Lakota Sioux Tribe",
+   "cat": "tribal",
+   "img": "oglala-lakota-sioux-tribe.webp"
+  },
+  {
+   "id": "oglala-lakota-sioux-tribe-veteran",
+   "name": "Oglala Lakota Sioux Tribe - Veteran",
+   "cat": "tribal",
+   "img": "oglala-lakota-sioux-tribe-veteran.webp"
+  },
+  {
+   "id": "pearl-harbor-survivor",
+   "name": "Pearl Harbor Survivor",
+   "cat": "veterans",
+   "img": "pearl-harbor-survivor.webp"
+  },
+  {
+   "id": "permanently-disabled-person",
+   "name": "Permanently Disabled Person",
+   "cat": "other",
+   "img": "permanently-disabled-person.webp"
+  },
+  {
+   "id": "pow",
+   "name": "POW",
+   "cat": "veterans",
+   "img": "pow.webp"
+  },
+  {
+   "id": "purple-heart",
+   "name": "Purple Heart",
+   "cat": "veterans",
+   "img": "purple-heart.webp"
+  },
+  {
+   "id": "rearonly",
+   "name": "RearOnly",
+   "cat": "other",
+   "img": "rearonly.webp"
+  },
+  {
+   "id": "rosebud-sioux-tribe",
+   "name": "Rosebud Sioux Tribe",
+   "cat": "tribal",
+   "img": "rosebud-sioux-tribe.webp"
+  },
+  {
+   "id": "rosebud-sioux-tribe-veteran",
+   "name": "Rosebud Sioux Tribe - Veteran",
+   "cat": "tribal",
+   "img": "rosebud-sioux-tribe-veteran.webp"
+  },
+  {
+   "id": "silver-star",
+   "name": "Silver Star",
+   "cat": "veterans",
+   "img": "silver-star.webp"
+  },
+  {
+   "id": "sisseton-wahpeton-sioux-tribe",
+   "name": "Sisseton-Wahpeton Sioux Tribe",
+   "cat": "tribal",
+   "img": "sisseton-wahpeton-sioux-tribe.webp"
+  },
+  {
+   "id": "sisseton-wahpeton-sioux-tribe-veteran",
+   "name": "Sisseton-Wahpeton Sioux Tribe - Veteran",
+   "cat": "tribal",
+   "img": "sisseton-wahpeton-sioux-tribe-veteran.webp"
+  },
+  {
+   "id": "standing-rock-sioux-tribe",
+   "name": "Standing Rock Sioux Tribe",
+   "cat": "tribal",
+   "img": "standing-rock-sioux-tribe.webp"
+  },
+  {
+   "id": "standing-rock-sioux-tribe-veteran",
+   "name": "Standing Rock Sioux Tribe - Veteran",
+   "cat": "tribal",
+   "img": "standing-rock-sioux-tribe-veteran.webp"
+  },
+  {
+   "id": "yankton-sioux-tribe",
+   "name": "Yankton Sioux Tribe",
+   "cat": "tribal",
+   "img": "yankton-sioux-tribe.webp"
+  },
+  {
+   "id": "yankton-sioux-tribe-veteran",
+   "name": "Yankton Sioux Tribe - Veteran",
+   "cat": "tribal",
+   "img": "yankton-sioux-tribe-veteran.webp"
+  }
+ ]
+}

@@ -1,0 +1,1384 @@
+{
+ "code": "MS",
+ "name": "Mississippi",
+ "rated": false,
+ "checked": false,
+ "updated": "2026-10-25",
+ "about": "Mississippi special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "sources": [
+  {
+   "title": "Jon Keegan, us-license-plates (2023)",
+   "url": "https://github.com/jonkeegan/us-license-plates"
+  }
+ ],
+ "plates": [
+  {
+   "id": "4-h-club",
+   "name": "4 - H Club",
+   "cat": "charity",
+   "img": "4-h-club.webp"
+  },
+  {
+   "id": "active-reserve",
+   "name": "Active Reserve",
+   "cat": "military",
+   "img": "active-reserve.webp"
+  },
+  {
+   "id": "afghanistan-veteran",
+   "name": "Afghanistan Veteran",
+   "cat": "veterans",
+   "img": "afghanistan-veteran.webp"
+  },
+  {
+   "id": "air-medal",
+   "name": "Air Medal",
+   "cat": "veterans",
+   "img": "air-medal.webp"
+  },
+  {
+   "id": "alcorn-state-university",
+   "name": "Alcorn State University",
+   "cat": "colleges",
+   "img": "alcorn-state-university.webp"
+  },
+  {
+   "id": "alpha-kappa-alpha",
+   "name": "Alpha Kappa Alpha",
+   "cat": "other",
+   "img": "alpha-kappa-alpha.webp"
+  },
+  {
+   "id": "alpha-phi-alpha",
+   "name": "Alpha Phi Alpha",
+   "cat": "other",
+   "img": "alpha-phi-alpha.webp"
+  },
+  {
+   "id": "amateur-radio",
+   "name": "Amateur Radio",
+   "cat": "hobby",
+   "img": "amateur-radio.webp"
+  },
+  {
+   "id": "ambulance",
+   "name": "Ambulance",
+   "cat": "other",
+   "img": "ambulance.webp"
+  },
+  {
+   "id": "american-legion",
+   "name": "American Legion",
+   "cat": "veterans",
+   "img": "american-legion.webp"
+  },
+  {
+   "id": "antique",
+   "name": "Antique",
+   "cat": "vehicle",
+   "img": "antique.webp"
+  },
+  {
+   "id": "auburn-university",
+   "name": "Auburn University",
+   "cat": "colleges",
+   "img": "auburn-university.webp"
+  },
+  {
+   "id": "autism-awareness",
+   "name": "Autism Awareness",
+   "cat": "charity",
+   "img": "autism-awareness.webp"
+  },
+  {
+   "id": "b-10",
+   "name": "B-10",
+   "cat": "other",
+   "img": "b-10.webp"
+  },
+  {
+   "id": "band-of-choctaw-indians",
+   "name": "Band of Choctaw Indians",
+   "cat": "tribal",
+   "img": "band-of-choctaw-indians.webp"
+  },
+  {
+   "id": "bass-department-of-wildlife-fisheries-an",
+   "name": "Bass - Department of Wildlife Fisheries and Parks",
+   "cat": "nature",
+   "img": "bass-department-of-wildlife-fisheries-an.webp"
+  },
+  {
+   "id": "belhaven-university",
+   "name": "Belhaven University",
+   "cat": "colleges",
+   "img": "belhaven-university.webp"
+  },
+  {
+   "id": "bicycle-share-the-road",
+   "name": "Bicycle Share the Road",
+   "cat": "hobby",
+   "img": "bicycle-share-the-road.webp"
+  },
+  {
+   "id": "biloxi-public-school-district",
+   "name": "Biloxi Public School District",
+   "cat": "charity",
+   "img": "biloxi-public-school-district.webp"
+  },
+  {
+   "id": "blair-e-batson-children-hospital",
+   "name": "Blair E Batson Children Hospital",
+   "cat": "charity",
+   "img": "blair-e-batson-children-hospital.webp"
+  },
+  {
+   "id": "board-of-contractor",
+   "name": "Board of Contractor",
+   "cat": "vehicle",
+   "img": "board-of-contractor.webp"
+  },
+  {
+   "id": "booneville-school-district",
+   "name": "Booneville School District",
+   "cat": "charity",
+   "img": "booneville-school-district.webp"
+  },
+  {
+   "id": "boy-scouts-of-america",
+   "name": "Boy Scouts of America",
+   "cat": "charity",
+   "img": "boy-scouts-of-america.webp"
+  },
+  {
+   "id": "breast-cancer-awareness",
+   "name": "Breast Cancer Awareness",
+   "cat": "charity",
+   "img": "breast-cancer-awareness.webp"
+  },
+  {
+   "id": "bronze-star",
+   "name": "Bronze Star",
+   "cat": "veterans",
+   "img": "bronze-star.webp"
+  },
+  {
+   "id": "bronze-star-disabled",
+   "name": "Bronze Star Disabled",
+   "cat": "veterans",
+   "img": "bronze-star-disabled.webp"
+  },
+  {
+   "id": "butterfly-department-of-wildlife-fisheri",
+   "name": "Butterfly - Department of Wildlife Fisheries and Parks",
+   "cat": "nature",
+   "img": "butterfly-department-of-wildlife-fisheri.webp"
+  },
+  {
+   "id": "catch-a-dream-foundation",
+   "name": "Catch A Dream Foundation",
+   "cat": "charity",
+   "img": "catch-a-dream-foundation.webp"
+  },
+  {
+   "id": "cattleman-s-foundation",
+   "name": "Cattleman’s Foundation",
+   "cat": "charity",
+   "img": "cattleman-s-foundation.webp"
+  },
+  {
+   "id": "children-s-advocacy-center",
+   "name": "Children’s Advocacy Center",
+   "cat": "charity",
+   "img": "children-s-advocacy-center.webp"
+  },
+  {
+   "id": "choose-life",
+   "name": "Choose Life",
+   "cat": "other",
+   "img": "choose-life.webp"
+  },
+  {
+   "id": "civil-air-patrol",
+   "name": "Civil Air Patrol",
+   "cat": "other",
+   "img": "civil-air-patrol.webp"
+  },
+  {
+   "id": "coastal-conservation",
+   "name": "Coastal Conservation",
+   "cat": "nature",
+   "img": "coastal-conservation.webp"
+  },
+  {
+   "id": "colon-cancer-prevention",
+   "name": "Colon Cancer Prevention",
+   "cat": "charity",
+   "img": "colon-cancer-prevention.webp"
+  },
+  {
+   "id": "columbia-school-district",
+   "name": "Columbia School District",
+   "cat": "charity",
+   "img": "columbia-school-district.webp"
+  },
+  {
+   "id": "combat-veteran-air-force",
+   "name": "Combat Veteran Air Force",
+   "cat": "veterans",
+   "img": "combat-veteran-air-force.webp"
+  },
+  {
+   "id": "combat-veteran-army",
+   "name": "Combat Veteran Army",
+   "cat": "veterans",
+   "img": "combat-veteran-army.webp"
+  },
+  {
+   "id": "combat-veteran-coast-guard",
+   "name": "Combat Veteran Coast Guard",
+   "cat": "veterans",
+   "img": "combat-veteran-coast-guard.webp"
+  },
+  {
+   "id": "combat-veteran-marine",
+   "name": "Combat Veteran Marine",
+   "cat": "veterans",
+   "img": "combat-veteran-marine.webp"
+  },
+  {
+   "id": "combat-veteran-navy",
+   "name": "Combat Veteran Navy",
+   "cat": "veterans",
+   "img": "combat-veteran-navy.webp"
+  },
+  {
+   "id": "deer-department-of-wildlife-fisheries-an",
+   "name": "Deer - Department of Wildlife Fisheries and Parks",
+   "cat": "nature",
+   "img": "deer-department-of-wildlife-fisheries-an.webp"
+  },
+  {
+   "id": "defense-freedom-medal",
+   "name": "Defense Freedom Medal",
+   "cat": "veterans",
+   "img": "defense-freedom-medal.webp"
+  },
+  {
+   "id": "delta-sigma-theta",
+   "name": "Delta Sigma Theta",
+   "cat": "other",
+   "img": "delta-sigma-theta.webp"
+  },
+  {
+   "id": "delta-state-university",
+   "name": "Delta State University",
+   "cat": "colleges",
+   "img": "delta-state-university.webp"
+  },
+  {
+   "id": "delta-waterfowl",
+   "name": "Delta Waterfowl",
+   "cat": "nature",
+   "img": "delta-waterfowl.webp"
+  },
+  {
+   "id": "dental-hygienist",
+   "name": "Dental Hygienist",
+   "cat": "other",
+   "img": "dental-hygienist.webp"
+  },
+  {
+   "id": "department-of-transportation",
+   "name": "Department of Transportation",
+   "cat": "other",
+   "img": "department-of-transportation.webp"
+  },
+  {
+   "id": "diabetic",
+   "name": "Diabetic",
+   "cat": "other",
+   "img": "diabetic.webp"
+  },
+  {
+   "id": "disabled",
+   "name": "Disabled",
+   "cat": "other",
+   "img": "disabled.webp"
+  },
+  {
+   "id": "disabled-american-veteran-air-force",
+   "name": "Disabled American Veteran - Air Force",
+   "cat": "veterans",
+   "img": "disabled-american-veteran-air-force.webp"
+  },
+  {
+   "id": "disabled-american-veteran-army",
+   "name": "Disabled American Veteran - Army",
+   "cat": "veterans",
+   "img": "disabled-american-veteran-army.webp"
+  },
+  {
+   "id": "disabled-american-veteran-coast-guard",
+   "name": "Disabled American Veteran - Coast Guard",
+   "cat": "veterans",
+   "img": "disabled-american-veteran-coast-guard.webp"
+  },
+  {
+   "id": "disabled-american-veteran-marine",
+   "name": "Disabled American Veteran - Marine",
+   "cat": "veterans",
+   "img": "disabled-american-veteran-marine.webp"
+  },
+  {
+   "id": "disabled-american-veteran-navy",
+   "name": "Disabled American Veteran - Navy",
+   "cat": "veterans",
+   "img": "disabled-american-veteran-navy.webp"
+  },
+  {
+   "id": "disabled-american-veteran-less-than-100",
+   "name": "Disabled American Veteran Less than 100%",
+   "cat": "veterans",
+   "img": "disabled-american-veteran-less-than-100.webp"
+  },
+  {
+   "id": "distinguished-flying-cross",
+   "name": "Distinguished Flying Cross",
+   "cat": "veterans",
+   "img": "distinguished-flying-cross.webp"
+  },
+  {
+   "id": "dixie-national",
+   "name": "Dixie National",
+   "cat": "other",
+   "img": "dixie-national.webp"
+  },
+  {
+   "id": "down-syndrome-awareness",
+   "name": "Down Syndrome Awareness",
+   "cat": "charity",
+   "img": "down-syndrome-awareness.webp"
+  },
+  {
+   "id": "ducks-unlimited-inc",
+   "name": "Ducks Unlimited Inc",
+   "cat": "nature",
+   "img": "ducks-unlimited-inc.webp"
+  },
+  {
+   "id": "dyslexia-awareness",
+   "name": "Dyslexia Awareness",
+   "cat": "charity",
+   "img": "dyslexia-awareness.webp"
+  },
+  {
+   "id": "east-central-attendance-center",
+   "name": "East Central Attendance Center",
+   "cat": "other",
+   "img": "east-central-attendance-center.webp"
+  },
+  {
+   "id": "electric-power-association",
+   "name": "Electric Power Association",
+   "cat": "vehicle",
+   "img": "electric-power-association.webp"
+  },
+  {
+   "id": "enterprise-school-district",
+   "name": "Enterprise School District",
+   "cat": "charity",
+   "img": "enterprise-school-district.webp"
+  },
+  {
+   "id": "ex-prisoner-of-war",
+   "name": "Ex Prisoner of War",
+   "cat": "veterans",
+   "img": "ex-prisoner-of-war.webp"
+  },
+  {
+   "id": "f-10",
+   "name": "F-10",
+   "cat": "other",
+   "img": "f-10.webp"
+  },
+  {
+   "id": "fannie-lou-hamer-cancer-foundation",
+   "name": "Fannie Lou Hamer Cancer Foundation",
+   "cat": "charity",
+   "img": "fannie-lou-hamer-cancer-foundation.webp"
+  },
+  {
+   "id": "farm-carriers-over-10-000-gvw",
+   "name": "Farm Carriers over 10,000 GVW",
+   "cat": "vehicle",
+   "img": "farm-carriers-over-10-000-gvw.webp"
+  },
+  {
+   "id": "farm-families-of-mississippi",
+   "name": "Farm Families of Mississippi",
+   "cat": "vehicle",
+   "img": "farm-families-of-mississippi.webp"
+  },
+  {
+   "id": "female-veteran-air-force",
+   "name": "Female Veteran - Air Force",
+   "cat": "veterans",
+   "img": "female-veteran-air-force.webp"
+  },
+  {
+   "id": "female-veteran-army",
+   "name": "Female Veteran - Army",
+   "cat": "veterans",
+   "img": "female-veteran-army.webp"
+  },
+  {
+   "id": "female-veteran-cost-guard",
+   "name": "Female Veteran - Cost Guard",
+   "cat": "veterans",
+   "img": "female-veteran-cost-guard.webp"
+  },
+  {
+   "id": "female-veteran-marine",
+   "name": "Female Veteran - Marine",
+   "cat": "veterans",
+   "img": "female-veteran-marine.webp"
+  },
+  {
+   "id": "fire-fighters",
+   "name": "Fire Fighters",
+   "cat": "firstresponder",
+   "img": "fire-fighters.webp"
+  },
+  {
+   "id": "forestry-association",
+   "name": "Forestry Association",
+   "cat": "nature",
+   "img": "forestry-association.webp"
+  },
+  {
+   "id": "gentry-high-school",
+   "name": "Gentry High School",
+   "cat": "charity",
+   "img": "gentry-high-school.webp"
+  },
+  {
+   "id": "germantown-high-school",
+   "name": "Germantown High School",
+   "cat": "charity",
+   "img": "germantown-high-school.webp"
+  },
+  {
+   "id": "god-bless-america-sunflower-consolidated",
+   "name": "God Bless America - Sunflower Consolidated School Preservation",
+   "cat": "tribal",
+   "img": "god-bless-america-sunflower-consolidated.webp"
+  },
+  {
+   "id": "gold-star-air-force",
+   "name": "Gold Star Air Force",
+   "cat": "veterans",
+   "img": "gold-star-air-force.webp"
+  },
+  {
+   "id": "gold-star-army",
+   "name": "Gold Star Army",
+   "cat": "veterans",
+   "img": "gold-star-army.webp"
+  },
+  {
+   "id": "gold-star-coast-guard",
+   "name": "Gold Star Coast Guard",
+   "cat": "veterans",
+   "img": "gold-star-coast-guard.webp"
+  },
+  {
+   "id": "gold-star-marine",
+   "name": "Gold Star Marine",
+   "cat": "veterans",
+   "img": "gold-star-marine.webp"
+  },
+  {
+   "id": "gold-star-navy",
+   "name": "Gold Star Navy",
+   "cat": "veterans",
+   "img": "gold-star-navy.webp"
+  },
+  {
+   "id": "grand-lodge",
+   "name": "Grand Lodge",
+   "cat": "other",
+   "img": "grand-lodge.webp"
+  },
+  {
+   "id": "gulf-coast-regional-tourism-partnership",
+   "name": "Gulf Coast Regional Tourism Partnership",
+   "cat": "nature",
+   "img": "gulf-coast-regional-tourism-partnership.webp"
+  },
+  {
+   "id": "gulfport-police-athletic-league",
+   "name": "Gulfport Police Athletic League",
+   "cat": "firstresponder",
+   "img": "gulfport-police-athletic-league.webp"
+  },
+  {
+   "id": "gulfport-school-district",
+   "name": "Gulfport School District",
+   "cat": "charity",
+   "img": "gulfport-school-district.webp"
+  },
+  {
+   "id": "hattiesburg-school-district",
+   "name": "Hattiesburg School District",
+   "cat": "charity",
+   "img": "hattiesburg-school-district.webp"
+  },
+  {
+   "id": "hearing-impaired",
+   "name": "Hearing Impaired",
+   "cat": "other",
+   "img": "hearing-impaired.webp"
+  },
+  {
+   "id": "heroines-of-jericho",
+   "name": "Heroines of Jericho",
+   "cat": "other",
+   "img": "heroines-of-jericho.webp"
+  },
+  {
+   "id": "historic-natchez-city-of-natchez",
+   "name": "Historic Natchez/City of Natchez",
+   "cat": "other",
+   "img": "historic-natchez-city-of-natchez.webp"
+  },
+  {
+   "id": "historical",
+   "name": "Historical",
+   "cat": "other",
+   "img": "historical.webp"
+  },
+  {
+   "id": "holmes-community-college",
+   "name": "Holmes Community College",
+   "cat": "colleges",
+   "img": "holmes-community-college.webp"
+  },
+  {
+   "id": "honoring-fallen-officers",
+   "name": "Honoring Fallen Officers",
+   "cat": "firstresponder",
+   "img": "honoring-fallen-officers.webp"
+  },
+  {
+   "id": "honoring-veterans",
+   "name": "Honoring Veterans",
+   "cat": "veterans",
+   "img": "honoring-veterans.webp"
+  },
+  {
+   "id": "hummingbird-department-of-wildlife-fishe",
+   "name": "Hummingbird - Department of Wildlife Fisheries and Parks",
+   "cat": "nature",
+   "img": "hummingbird-department-of-wildlife-fishe.webp"
+  },
+  {
+   "id": "i-care-for-animals",
+   "name": "I Care for Animals",
+   "cat": "charity",
+   "img": "i-care-for-animals.webp"
+  },
+  {
+   "id": "i-love-mississippi-sunflower-consolidate",
+   "name": "I Love Mississippi - Sunflower Consolidated School Preservation",
+   "cat": "tribal",
+   "img": "i-love-mississippi-sunflower-consolidate.webp"
+  },
+  {
+   "id": "institute-for-marine-mammal-studies-prot",
+   "name": "Institute for Marine Mammal Studies - Protect Dolphin",
+   "cat": "military",
+   "img": "institute-for-marine-mammal-studies-prot.webp"
+  },
+  {
+   "id": "institute-for-marine-mammal-studies-shar",
+   "name": "Institute for Marine Mammal Studies - Shark",
+   "cat": "military",
+   "img": "institute-for-marine-mammal-studies-shar.webp"
+  },
+  {
+   "id": "iraq-veteran",
+   "name": "Iraq Veteran",
+   "cat": "veterans",
+   "img": "iraq-veteran.webp"
+  },
+  {
+   "id": "jackson-state-university",
+   "name": "Jackson State University",
+   "cat": "colleges",
+   "img": "jackson-state-university.webp"
+  },
+  {
+   "id": "jackson-zoo",
+   "name": "Jackson Zoo",
+   "cat": "nature",
+   "img": "jackson-zoo.webp"
+  },
+  {
+   "id": "juvenile-diabetes-research-foundation",
+   "name": "Juvenile Diabetes Research Foundation",
+   "cat": "charity",
+   "img": "juvenile-diabetes-research-foundation.webp"
+  },
+  {
+   "id": "kappa-alpha-psi",
+   "name": "Kappa Alpha Psi",
+   "cat": "other",
+   "img": "kappa-alpha-psi.webp"
+  },
+  {
+   "id": "kemp-s-ridley-sea-turtle",
+   "name": "Kemp’s Ridley Sea Turtle",
+   "cat": "nature",
+   "img": "kemp-s-ridley-sea-turtle.webp"
+  },
+  {
+   "id": "killed-in-action",
+   "name": "Killed in Action",
+   "cat": "other",
+   "img": "killed-in-action.webp"
+  },
+  {
+   "id": "knights-of-columbus",
+   "name": "Knights of Columbus",
+   "cat": "hobby",
+   "img": "knights-of-columbus.webp"
+  },
+  {
+   "id": "lab-department-of-wildlife-fisheries-and",
+   "name": "Lab - Department of Wildlife Fisheries and Parks",
+   "cat": "nature",
+   "img": "lab-department-of-wildlife-fisheries-and.webp"
+  },
+  {
+   "id": "lanier-high-school",
+   "name": "Lanier High School",
+   "cat": "charity",
+   "img": "lanier-high-school.webp"
+  },
+  {
+   "id": "laurel-school-district",
+   "name": "Laurel School District",
+   "cat": "charity",
+   "img": "laurel-school-district.webp"
+  },
+  {
+   "id": "law-enforcement-police",
+   "name": "Law Enforcement - Police",
+   "cat": "firstresponder",
+   "img": "law-enforcement-police.webp"
+  },
+  {
+   "id": "law-enforcement-sheriff",
+   "name": "Law Enforcement - Sheriff",
+   "cat": "firstresponder",
+   "img": "law-enforcement-sheriff.webp"
+  },
+  {
+   "id": "law-enforcement-state",
+   "name": "Law Enforcement - State",
+   "cat": "firstresponder",
+   "img": "law-enforcement-state.webp"
+  },
+  {
+   "id": "le-bonheur-children-s-hospital",
+   "name": "Le Bonheur Children’s Hospital",
+   "cat": "charity",
+   "img": "le-bonheur-children-s-hospital.webp"
+  },
+  {
+   "id": "louisiana-state-university",
+   "name": "Louisiana State University",
+   "cat": "colleges",
+   "img": "louisiana-state-university.webp"
+  },
+  {
+   "id": "madison-jaguars",
+   "name": "Madison Jaguars",
+   "cat": "sports",
+   "img": "madison-jaguars.webp"
+  },
+  {
+   "id": "mallard-department-of-wildlife-fisheries",
+   "name": "Mallard - Department of Wildlife Fisheries and Parks",
+   "cat": "nature",
+   "img": "mallard-department-of-wildlife-fisheries.webp"
+  },
+  {
+   "id": "marine-corps",
+   "name": "Marine Corps",
+   "cat": "military",
+   "img": "marine-corps.webp"
+  },
+  {
+   "id": "maurice-f-lucas-sr-grand-chapter-of-the-",
+   "name": "Maurice F Lucas, Sr., Grand Chapter of the Eastern Star",
+   "cat": "hobby",
+   "img": "maurice-f-lucas-sr-grand-chapter-of-the-.webp"
+  },
+  {
+   "id": "medal-of-honor-army",
+   "name": "Medal of Honor - Army",
+   "cat": "veterans",
+   "img": "medal-of-honor-army.webp"
+  },
+  {
+   "id": "medal-of-honor-marine",
+   "name": "Medal of Honor - Marine",
+   "cat": "veterans",
+   "img": "medal-of-honor-marine.webp"
+  },
+  {
+   "id": "meridian-public-school",
+   "name": "Meridian Public School",
+   "cat": "charity",
+   "img": "meridian-public-school.webp"
+  },
+  {
+   "id": "millsaps-college",
+   "name": "Millsaps College",
+   "cat": "colleges",
+   "img": "millsaps-college.webp"
+  },
+  {
+   "id": "mississippi-after-school-alliance",
+   "name": "Mississippi After School Alliance",
+   "cat": "charity",
+   "img": "mississippi-after-school-alliance.webp"
+  },
+  {
+   "id": "mississippi-association-of-emergency-ser",
+   "name": "Mississippi Association of Emergency Services",
+   "cat": "firstresponder",
+   "img": "mississippi-association-of-emergency-ser.webp"
+  },
+  {
+   "id": "mississippi-blood-services-inc",
+   "name": "Mississippi Blood Services, Inc",
+   "cat": "other",
+   "img": "mississippi-blood-services-inc.webp"
+  },
+  {
+   "id": "mississippi-children-s-museum",
+   "name": "Mississippi Children's Museum",
+   "cat": "charity",
+   "img": "mississippi-children-s-museum.webp"
+  },
+  {
+   "id": "mississippi-college",
+   "name": "Mississippi College",
+   "cat": "colleges",
+   "img": "mississippi-college.webp"
+  },
+  {
+   "id": "mississippi-department-of-transportation",
+   "name": "Mississippi Department of Transportation",
+   "cat": "other",
+   "img": "mississippi-department-of-transportation.webp"
+  },
+  {
+   "id": "mississippi-family-physicians",
+   "name": "Mississippi Family Physicians",
+   "cat": "other",
+   "img": "mississippi-family-physicians.webp"
+  },
+  {
+   "id": "mississippi-golf-association",
+   "name": "Mississippi Golf Association",
+   "cat": "sports",
+   "img": "mississippi-golf-association.webp"
+  },
+  {
+   "id": "mississippi-home-of-the-blues",
+   "name": "Mississippi Home of the Blues",
+   "cat": "other",
+   "img": "mississippi-home-of-the-blues.webp"
+  },
+  {
+   "id": "mississippi-law-enforcement-officers-ass",
+   "name": "Mississippi Law Enforcement Officers Association Supporter",
+   "cat": "firstresponder",
+   "img": "mississippi-law-enforcement-officers-ass.webp"
+  },
+  {
+   "id": "mississippi-loggers-association",
+   "name": "Mississippi Loggers Association",
+   "cat": "charity",
+   "img": "mississippi-loggers-association.webp"
+  },
+  {
+   "id": "mississippi-motosteps",
+   "name": "Mississippi Motosteps",
+   "cat": "other",
+   "img": "mississippi-motosteps.webp"
+  },
+  {
+   "id": "mississippi-nurses-foundation",
+   "name": "Mississippi Nurses Foundation",
+   "cat": "charity",
+   "img": "mississippi-nurses-foundation.webp"
+  },
+  {
+   "id": "mississippi-organ-donor",
+   "name": "Mississippi Organ Donor",
+   "cat": "charity",
+   "img": "mississippi-organ-donor.webp"
+  },
+  {
+   "id": "mississippi-public-broadcasting",
+   "name": "Mississippi Public Broadcasting",
+   "cat": "other",
+   "img": "mississippi-public-broadcasting.webp"
+  },
+  {
+   "id": "mississippi-state-equine-association",
+   "name": "Mississippi State Equine Association",
+   "cat": "hobby",
+   "img": "mississippi-state-equine-association.webp"
+  },
+  {
+   "id": "mississippi-state-parks",
+   "name": "Mississippi State Parks",
+   "cat": "nature",
+   "img": "mississippi-state-parks.webp"
+  },
+  {
+   "id": "mississippi-state-university",
+   "name": "Mississippi State University",
+   "cat": "colleges",
+   "img": "mississippi-state-university.webp"
+  },
+  {
+   "id": "mississippi-tennis-association",
+   "name": "Mississippi Tennis Association",
+   "cat": "sports",
+   "img": "mississippi-tennis-association.webp"
+  },
+  {
+   "id": "mississippi-toughest-kids-foundation",
+   "name": "Mississippi Toughest Kids Foundation",
+   "cat": "charity",
+   "img": "mississippi-toughest-kids-foundation.webp"
+  },
+  {
+   "id": "mississippi-university-for-women",
+   "name": "Mississippi University for Women",
+   "cat": "colleges",
+   "img": "mississippi-university-for-women.webp"
+  },
+  {
+   "id": "mississippi-valley-state-university",
+   "name": "Mississippi Valley State University",
+   "cat": "colleges",
+   "img": "mississippi-valley-state-university.webp"
+  },
+  {
+   "id": "mixed-martial-arts",
+   "name": "Mixed Martial Arts",
+   "cat": "hobby",
+   "img": "mixed-martial-arts.webp"
+  },
+  {
+   "id": "ms-law-enforcement-officer-association-s",
+   "name": "MS Law Enforcement Officer Association Supporter",
+   "cat": "firstresponder",
+   "img": "ms-law-enforcement-officer-association-s.webp"
+  },
+  {
+   "id": "msu-baseball-championship",
+   "name": "MSU Baseball Championship",
+   "cat": "sports",
+   "img": "msu-baseball-championship.webp"
+  },
+  {
+   "id": "mw-stringer-grand-lodge-f-am-prince-hall",
+   "name": "MW Stringer Grand Lodge - F & AM Prince Hall Affiliated",
+   "cat": "other",
+   "img": "mw-stringer-grand-lodge-f-am-prince-hall.webp"
+  },
+  {
+   "id": "national-guard-special",
+   "name": "National Guard - Special",
+   "cat": "military",
+   "img": "national-guard-special.webp"
+  },
+  {
+   "id": "national-guard-state",
+   "name": "National Guard - State",
+   "cat": "military",
+   "img": "national-guard-state.webp"
+  },
+  {
+   "id": "national-rifle-association",
+   "name": "National Rifle Association",
+   "cat": "charity",
+   "img": "national-rifle-association.webp"
+  },
+  {
+   "id": "national-wild-turkey-federation",
+   "name": "National Wild Turkey Federation",
+   "cat": "sports",
+   "img": "national-wild-turkey-federation.webp"
+  },
+  {
+   "id": "navy-and-marine-corps",
+   "name": "Navy and Marine Corps",
+   "cat": "military",
+   "img": "navy-and-marine-corps.webp"
+  },
+  {
+   "id": "new-orleans-saints-football",
+   "name": "New Orleans Saints Football",
+   "cat": "sports",
+   "img": "new-orleans-saints-football.webp"
+  },
+  {
+   "id": "oak-grove-school",
+   "name": "Oak Grove School",
+   "cat": "charity",
+   "img": "oak-grove-school.webp"
+  },
+  {
+   "id": "ocean-springs-athletic-foundation",
+   "name": "Ocean Springs Athletic Foundation",
+   "cat": "nature",
+   "img": "ocean-springs-athletic-foundation.webp"
+  },
+  {
+   "id": "ole-miss-welcome-home",
+   "name": "Ole Miss Welcome Home",
+   "cat": "other",
+   "img": "ole-miss-welcome-home.webp"
+  },
+  {
+   "id": "olive-branch-high-school",
+   "name": "Olive Branch High School",
+   "cat": "charity",
+   "img": "olive-branch-high-school.webp"
+  },
+  {
+   "id": "omega-psi-phi",
+   "name": "Omega Psi Phi",
+   "cat": "other",
+   "img": "omega-psi-phi.webp"
+  },
+  {
+   "id": "oxford-school-district",
+   "name": "Oxford School District",
+   "cat": "charity",
+   "img": "oxford-school-district.webp"
+  },
+  {
+   "id": "pearl-harbor",
+   "name": "Pearl Harbor",
+   "cat": "veterans",
+   "img": "pearl-harbor.webp"
+  },
+  {
+   "id": "pearl-river-valley-water",
+   "name": "Pearl River Valley Water",
+   "cat": "nature",
+   "img": "pearl-river-valley-water.webp"
+  },
+  {
+   "id": "pearl-school-district",
+   "name": "Pearl School District",
+   "cat": "charity",
+   "img": "pearl-school-district.webp"
+  },
+  {
+   "id": "petal-school-district",
+   "name": "Petal School District",
+   "cat": "charity",
+   "img": "petal-school-district.webp"
+  },
+  {
+   "id": "phi-beta-sigma",
+   "name": "Phi Beta Sigma",
+   "cat": "other",
+   "img": "phi-beta-sigma.webp"
+  },
+  {
+   "id": "poplarville-public-school-district",
+   "name": "Poplarville Public School District",
+   "cat": "charity",
+   "img": "poplarville-public-school-district.webp"
+  },
+  {
+   "id": "profession-of-pharmacy",
+   "name": "Profession of Pharmacy",
+   "cat": "other",
+   "img": "profession-of-pharmacy.webp"
+  },
+  {
+   "id": "professional-fire-fighter",
+   "name": "Professional Fire Fighter",
+   "cat": "firstresponder",
+   "img": "professional-fire-fighter.webp"
+  },
+  {
+   "id": "professional-hair-designers",
+   "name": "Professional Hair Designers",
+   "cat": "other",
+   "img": "professional-hair-designers.webp"
+  },
+  {
+   "id": "property-carrier-over-10-000-gvw",
+   "name": "Property Carrier Over 10,000 GVW",
+   "cat": "other",
+   "img": "property-carrier-over-10-000-gvw.webp"
+  },
+  {
+   "id": "purple-heart-disabled",
+   "name": "Purple Heart - Disabled",
+   "cat": "veterans",
+   "img": "purple-heart-disabled.webp"
+  },
+  {
+   "id": "purple-heart-original",
+   "name": "Purple Heart - Original",
+   "cat": "veterans",
+   "img": "purple-heart-original.webp"
+  },
+  {
+   "id": "rabbit-department-of-wildlife-fisheries-",
+   "name": "Rabbit - Department of Wildlife Fisheries and Parks",
+   "cat": "nature",
+   "img": "rabbit-department-of-wildlife-fisheries-.webp"
+  },
+  {
+   "id": "realtors-mississippi-association",
+   "name": "Realtors (Mississippi Association",
+   "cat": "charity",
+   "img": "realtors-mississippi-association.webp"
+  },
+  {
+   "id": "retired-air-force",
+   "name": "Retired Air Force",
+   "cat": "military",
+   "img": "retired-air-force.webp"
+  },
+  {
+   "id": "retired-army",
+   "name": "Retired Army",
+   "cat": "military",
+   "img": "retired-army.webp"
+  },
+  {
+   "id": "retired-as-career-law-enforcement-office",
+   "name": "Retired as Career Law Enforcement Officer",
+   "cat": "firstresponder",
+   "img": "retired-as-career-law-enforcement-office.webp"
+  },
+  {
+   "id": "retired-coast-guard",
+   "name": "Retired Coast Guard",
+   "cat": "military",
+   "img": "retired-coast-guard.webp"
+  },
+  {
+   "id": "retired-marine",
+   "name": "Retired Marine",
+   "cat": "military",
+   "img": "retired-marine.webp"
+  },
+  {
+   "id": "retired-merchant-marine",
+   "name": "Retired Merchant Marine",
+   "cat": "military",
+   "img": "retired-merchant-marine.webp"
+  },
+  {
+   "id": "retired-national-guard",
+   "name": "Retired National Guard",
+   "cat": "military",
+   "img": "retired-national-guard.webp"
+  },
+  {
+   "id": "retired-navy",
+   "name": "Retired Navy",
+   "cat": "military",
+   "img": "retired-navy.webp"
+  },
+  {
+   "id": "retired-reserves",
+   "name": "Retired Reserves",
+   "cat": "military",
+   "img": "retired-reserves.webp"
+  },
+  {
+   "id": "retired-troopers",
+   "name": "Retired Troopers",
+   "cat": "firstresponder",
+   "img": "retired-troopers.webp"
+  },
+  {
+   "id": "ridgeland-high-school",
+   "name": "Ridgeland High School",
+   "cat": "charity",
+   "img": "ridgeland-high-school.webp"
+  },
+  {
+   "id": "rotary-international",
+   "name": "Rotary International",
+   "cat": "hobby",
+   "img": "rotary-international.webp"
+  },
+  {
+   "id": "rust-college",
+   "name": "Rust College",
+   "cat": "colleges",
+   "img": "rust-college.webp"
+  },
+  {
+   "id": "sheriff-s-office",
+   "name": "Sheriff’s Office",
+   "cat": "firstresponder",
+   "img": "sheriff-s-office.webp"
+  },
+  {
+   "id": "sigma-gamma-rho-sorority-supporter",
+   "name": "Sigma Gamma Rho Sorority Supporter",
+   "cat": "charity",
+   "img": "sigma-gamma-rho-sorority-supporter.webp"
+  },
+  {
+   "id": "silver-star",
+   "name": "Silver Star",
+   "cat": "veterans",
+   "img": "silver-star.webp"
+  },
+  {
+   "id": "soil-conservation",
+   "name": "Soil Conservation",
+   "cat": "nature",
+   "img": "soil-conservation.webp"
+  },
+  {
+   "id": "sons-of-confederate-veterans",
+   "name": "Sons of Confederate Veterans",
+   "cat": "veterans",
+   "img": "sons-of-confederate-veterans.webp"
+  },
+  {
+   "id": "south-panola-school-district",
+   "name": "South Panola School District",
+   "cat": "charity",
+   "img": "south-panola-school-district.webp"
+  },
+  {
+   "id": "special-national-guard",
+   "name": "Special National Guard",
+   "cat": "military",
+   "img": "special-national-guard.webp"
+  },
+  {
+   "id": "speckled-trout-department-of-wildlife-fi",
+   "name": "Speckled Trout - Department of Wildlife Fisheries and Parks",
+   "cat": "nature",
+   "img": "speckled-trout-department-of-wildlife-fi.webp"
+  },
+  {
+   "id": "st-jude-children-s-hospital",
+   "name": "St Jude Children’s Hospital",
+   "cat": "charity",
+   "img": "st-jude-children-s-hospital.webp"
+  },
+  {
+   "id": "st-martin-high-school",
+   "name": "St Martin High School",
+   "cat": "charity",
+   "img": "st-martin-high-school.webp"
+  },
+  {
+   "id": "st-patrick-high-school",
+   "name": "St Patrick High School",
+   "cat": "charity",
+   "img": "st-patrick-high-school.webp"
+  },
+  {
+   "id": "starkville-oktibbeha-football",
+   "name": "Starkville – Oktibbeha Football",
+   "cat": "sports",
+   "img": "starkville-oktibbeha-football.webp"
+  },
+  {
+   "id": "state-flag",
+   "name": "State Flag",
+   "cat": "other",
+   "img": "state-flag.webp"
+  },
+  {
+   "id": "street-rod",
+   "name": "Street Rod",
+   "cat": "vehicle",
+   "img": "street-rod.webp"
+  },
+  {
+   "id": "support-teachers",
+   "name": "Support Teachers",
+   "cat": "charity",
+   "img": "support-teachers.webp"
+  },
+  {
+   "id": "tougaloo-college",
+   "name": "Tougaloo College",
+   "cat": "colleges",
+   "img": "tougaloo-college.webp"
+  },
+  {
+   "id": "tupelo-elvis-presley-fan-club",
+   "name": "Tupelo Elvis Presley Fan Club",
+   "cat": "charity",
+   "img": "tupelo-elvis-presley-fan-club.webp"
+  },
+  {
+   "id": "tupelo-public-school",
+   "name": "Tupelo Public School",
+   "cat": "charity",
+   "img": "tupelo-public-school.webp"
+  },
+  {
+   "id": "turkey-department-of-wildlife-fisheries-",
+   "name": "Turkey - Department of Wildlife Fisheries and Parks",
+   "cat": "nature",
+   "img": "turkey-department-of-wildlife-fisheries-.webp"
+  },
+  {
+   "id": "university-of-alabama",
+   "name": "University of Alabama",
+   "cat": "colleges",
+   "img": "university-of-alabama.webp"
+  },
+  {
+   "id": "university-of-memphis",
+   "name": "University of Memphis",
+   "cat": "colleges",
+   "img": "university-of-memphis.webp"
+  },
+  {
+   "id": "university-of-mississippi",
+   "name": "University of Mississippi",
+   "cat": "colleges",
+   "img": "university-of-mississippi.webp"
+  },
+  {
+   "id": "university-of-southern-mississippi",
+   "name": "University of Southern Mississippi",
+   "cat": "colleges",
+   "img": "university-of-southern-mississippi.webp"
+  },
+  {
+   "id": "vancleave-home-run-club",
+   "name": "Vancleave Home Run Club",
+   "cat": "charity",
+   "img": "vancleave-home-run-club.webp"
+  },
+  {
+   "id": "veteran-air-force",
+   "name": "Veteran Air Force",
+   "cat": "veterans",
+   "img": "veteran-air-force.webp"
+  },
+  {
+   "id": "veteran-army",
+   "name": "Veteran Army",
+   "cat": "veterans",
+   "img": "veteran-army.webp"
+  },
+  {
+   "id": "veteran-coast-guard",
+   "name": "Veteran Coast Guard",
+   "cat": "veterans",
+   "img": "veteran-coast-guard.webp"
+  },
+  {
+   "id": "veteran-marine",
+   "name": "Veteran Marine",
+   "cat": "veterans",
+   "img": "veteran-marine.webp"
+  },
+  {
+   "id": "veteran-navy",
+   "name": "Veteran Navy",
+   "cat": "veterans",
+   "img": "veteran-navy.webp"
+  },
+  {
+   "id": "veterans-of-foreign-wars",
+   "name": "Veterans of Foreign Wars",
+   "cat": "veterans",
+   "img": "veterans-of-foreign-wars.webp"
+  },
+  {
+   "id": "veterans-of-the-us-armed-forces",
+   "name": "Veterans of the US Armed Forces",
+   "cat": "veterans",
+   "img": "veterans-of-the-us-armed-forces.webp"
+  },
+  {
+   "id": "vietnam-veteran",
+   "name": "Vietnam Veteran",
+   "cat": "veterans",
+   "img": "vietnam-veteran.webp"
+  },
+  {
+   "id": "volunteer-service",
+   "name": "Volunteer Service",
+   "cat": "other",
+   "img": "volunteer-service.webp"
+  },
+  {
+   "id": "west-jones-high-school",
+   "name": "West Jones High School",
+   "cat": "charity",
+   "img": "west-jones-high-school.webp"
+  },
+  {
+   "id": "west-lauderdale-knights",
+   "name": "West Lauderdale Knights",
+   "cat": "hobby",
+   "img": "west-lauderdale-knights.webp"
+  },
+  {
+   "id": "wildlife-enforcement",
+   "name": "Wildlife Enforcement",
+   "cat": "nature",
+   "img": "wildlife-enforcement.webp"
+  },
+  {
+   "id": "wildlife-federation",
+   "name": "Wildlife Federation",
+   "cat": "nature",
+   "img": "wildlife-federation.webp"
+  },
+  {
+   "id": "william-carey-university",
+   "name": "William Carey University",
+   "cat": "colleges",
+   "img": "william-carey-university.webp"
+  },
+  {
+   "id": "youth-soccer-association",
+   "name": "Youth Soccer Association",
+   "cat": "sports",
+   "img": "youth-soccer-association.webp"
+  },
+  {
+   "id": "zeta-phi-beta-sorority",
+   "name": "Zeta Phi Beta Sorority",
+   "cat": "other",
+   "img": "zeta-phi-beta-sorority.webp"
+  }
+ ]
+}

@@ -1,0 +1,702 @@
+[
+ {
+  "title": "Alzheimer's Awareness",
+  "keegan_img": "alzheimers.gif",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/alzheimers.html"
+ },
+ {
+  "title": "Amateur Radio",
+  "keegan_img": "amateurradio.gif",
+  "cat": "hobby",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/amateur_radio.html"
+ },
+ {
+  "title": "America Remembers",
+  "keegan_img": "americaremembers.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/america_remembers.html"
+ },
+ {
+  "title": "Antique",
+  "keegan_img": "antique.gif",
+  "cat": "vehicle",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/antique.html"
+ },
+ {
+  "title": "Antique– Expanded-Use",
+  "keegan_img": "antique-exp.gif",
+  "cat": "vehicle",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/antiqueexpand.html"
+ },
+ {
+  "title": "Autism Awareness",
+  "keegan_img": "autismawareness.gif",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/autism.html"
+ },
+ {
+  "title": "B",
+  "keegan_img": "btruck.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/b_truck.html"
+ },
+ {
+  "title": "C",
+  "keegan_img": "ctruck.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/truck_and_trailer_plates/home.html"
+ },
+ {
+  "title": "Charitable",
+  "keegan_img": "charitablevehicle.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/charitable_vehicle.html"
+ },
+ {
+  "title": "Chicago Bears",
+  "keegan_img": "chicagobears.gif",
+  "cat": "sports",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/bears.html"
+ },
+ {
+  "title": "Chicago Blackhawks",
+  "keegan_img": "chicagoblackhawks.gif",
+  "cat": "sports",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/blackhawks.html"
+ },
+ {
+  "title": "Chicago Bulls",
+  "keegan_img": "chicagobulls.gif",
+  "cat": "sports",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/bulls.html"
+ },
+ {
+  "title": "Chicago Cubs",
+  "keegan_img": "chicagocubs.gif",
+  "cat": "sports",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/cubs.html"
+ },
+ {
+  "title": "Chicago White Sox",
+  "keegan_img": "chicagowhitesox.gif",
+  "cat": "sports",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/whitesox.html"
+ },
+ {
+  "title": "Collegiate Series",
+  "keegan_img": "c-uofi.gif",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/collegiate/home.html"
+ },
+ {
+  "title": "Ducks Unlimited",
+  "keegan_img": "ducksunlimited.gif",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/ducksunlimited.html"
+ },
+ {
+  "title": "Eagle Scout",
+  "keegan_img": "eaglescout.gif",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/eaglescout.html"
+ },
+ {
+  "title": "Education",
+  "keegan_img": "education.gif",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/education.html"
+ },
+ {
+  "title": "Electric",
+  "keegan_img": "electricvehicle.gif",
+  "cat": "vehicle",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/electric_vehicle.html"
+ },
+ {
+  "title": "Environmental",
+  "keegan_img": "environmental.gif",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/environmental.html"
+ },
+ {
+  "title": "Farm- 16,000 lbs. or less",
+  "keegan_img": "vf.gif",
+  "cat": "vehicle",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/truck_and_trailer_plates/farm_truck_trailer.html"
+ },
+ {
+  "title": "Farm- 16,001 lbs. to 20,000 lbs.",
+  "keegan_img": "vg.gif",
+  "cat": "vehicle",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/truck_and_trailer_plates/farm_truck_trailer.html"
+ },
+ {
+  "title": "Farm- 20,001 lbs. to 24,000 lbs.",
+  "keegan_img": "vh.gif",
+  "cat": "vehicle",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/truck_and_trailer_plates/farm_truck_trailer.html"
+ },
+ {
+  "title": "Farm- 24,001 lbs. to 28,000 lbs.",
+  "keegan_img": "vj.gif",
+  "cat": "vehicle",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/truck_and_trailer_plates/farm_truck_trailer.html"
+ },
+ {
+  "title": "Farm- 28,001 lbs. to 32,000 lbs.",
+  "keegan_img": "vk.gif",
+  "cat": "vehicle",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/truck_and_trailer_plates/farm_truck_trailer.html"
+ },
+ {
+  "title": "Farm- 32,001 lbs. to 36,000 lbs.",
+  "keegan_img": "vl.gif",
+  "cat": "vehicle",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/truck_and_trailer_plates/farm_truck_trailer.html"
+ },
+ {
+  "title": "Farm- 36,001 lbs. to 45,000 lbs.",
+  "keegan_img": "vp.gif",
+  "cat": "vehicle",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/truck_and_trailer_plates/farm_truck_trailer.html"
+ },
+ {
+  "title": "Farm- 45,001 lbs. to 54,999 lbs.",
+  "keegan_img": "vr.gif",
+  "cat": "vehicle",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/truck_and_trailer_plates/farm_truck_trailer.html"
+ },
+ {
+  "title": "Farm- 55,000 lbs. to 64,000 lbs.",
+  "keegan_img": "vt.gif",
+  "cat": "vehicle",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/truck_and_trailer_plates/farm_truck_trailer.html"
+ },
+ {
+  "title": "Farm- 64,001 lbs. to 73,280 lbs.",
+  "keegan_img": "vv.gif",
+  "cat": "vehicle",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/truck_and_trailer_plates/farm_truck_trailer.html"
+ },
+ {
+  "title": "Farm- 73,281 lbs. to 77,000 lbs.",
+  "keegan_img": "vx.gif",
+  "cat": "vehicle",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/truck_and_trailer_plates/farm_truck_trailer.html"
+ },
+ {
+  "title": "Farm- 77,001 lbs. to 80,000 lbs.",
+  "keegan_img": "vz.gif",
+  "cat": "vehicle",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/truck_and_trailer_plates/farm_truck_trailer.html"
+ },
+ {
+  "title": "Fire Chief",
+  "keegan_img": "firechief.png",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/firechief.html"
+ },
+ {
+  "title": "Firefighters Memorial",
+  "keegan_img": "fr-firefightersmemorial.gif",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/firefighters_memorial.html"
+ },
+ {
+  "title": "Flat WeightClass D - 10,001-12,000 lbs",
+  "keegan_img": "d.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/truck_and_trailer_plates/home.html"
+ },
+ {
+  "title": "Flat WeightClass F - 12,001-16,000 lbs.",
+  "keegan_img": "f.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/truck_and_trailer_plates/home.html"
+ },
+ {
+  "title": "Flat WeightClass H - 16,001-26,000 lbs.",
+  "keegan_img": "h.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/truck_and_trailer_plates/home.html"
+ },
+ {
+  "title": "Flat WeightClass J - 26,001-28,000 lbs.",
+  "keegan_img": "j.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/truck_and_trailer_plates/home.html"
+ },
+ {
+  "title": "Flat WeightClass K - 28,001-32,000 lbs.",
+  "keegan_img": "k.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/truck_and_trailer_plates/home.html"
+ },
+ {
+  "title": "Flat WeightClass L - 32,001-36,000 lbs.",
+  "keegan_img": "l.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/truck_and_trailer_plates/home.html"
+ },
+ {
+  "title": "Flat WeightClass N - 36,001-40,000 lbs.",
+  "keegan_img": "n.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/truck_and_trailer_plates/home.html"
+ },
+ {
+  "title": "Flat WeightClass P - 40,001-45,000 lbs.",
+  "keegan_img": "p.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/truck_and_trailer_plates/home.html"
+ },
+ {
+  "title": "Flat WeightClass Q - 45,001-50,000 lbs.",
+  "keegan_img": "q.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/truck_and_trailer_plates/home.html"
+ },
+ {
+  "title": "Flat WeightClass R - 50,001-54,999 lbs.",
+  "keegan_img": "r.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/truck_and_trailer_plates/home.html"
+ },
+ {
+  "title": "Flat WeightClass S - 55,000-59,500 lbs.",
+  "keegan_img": "s.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/truck_and_trailer_plates/home.html"
+ },
+ {
+  "title": "Flat WeightClass T - 59,501-64,000 lbs.",
+  "keegan_img": "t.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/truck_and_trailer_plates/home.html"
+ },
+ {
+  "title": "Flat WeightClass V - 64,001-73,280 lbs.",
+  "keegan_img": "v.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/truck_and_trailer_plates/home.html"
+ },
+ {
+  "title": "Flat WeightClass X - 73,281-77,000 lbs.",
+  "keegan_img": "x.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/truck_and_trailer_plates/home.html"
+ },
+ {
+  "title": "Flat WeightClass Z - 77,001-80,000 lbs.",
+  "keegan_img": "z.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/truck_and_trailer_plates/home.html"
+ },
+ {
+  "title": "Hearing Impaired",
+  "keegan_img": "hearingimpaired.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/hearing_impared.html"
+ },
+ {
+  "title": "Illinois Chicago Police Memorial Foundation",
+  "keegan_img": "fr-chicagopolicememorial.gif",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/chicagopolicememorial.html"
+ },
+ {
+  "title": "Illinois Fraternal Order of Police",
+  "keegan_img": "fop.gif",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/fop.html"
+ },
+ {
+  "title": "Illinois Hospice",
+  "keegan_img": "illinoishospice.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/hospice.html"
+ },
+ {
+  "title": "Illinois Michigan Canal",
+  "keegan_img": "ilmichcanal.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/illinois_mich_canal.html"
+ },
+ {
+  "title": "Illinois Nurses",
+  "keegan_img": "illinoisnurses.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/nurses.html"
+ },
+ {
+  "title": "Illinois Pan Hellenic Series",
+  "keegan_img": "p-alphakappaalpha.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/pan_hellenic/home.html"
+ },
+ {
+  "title": "Illinois Police Association",
+  "keegan_img": "fr-ilpoliceassocmem.gif",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/ilpolice.html"
+ },
+ {
+  "title": "Illinois Retired Law Enforcement",
+  "keegan_img": "fr-retiredlawenforce.gif",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/retiredlawenforce.html"
+ },
+ {
+  "title": "Illinois State Police Memorial Park",
+  "keegan_img": "fr-statepolicememorialpark.gif",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/statepolicememorial.html"
+ },
+ {
+  "title": "International Brotherhood of Teamsters",
+  "keegan_img": "teamsters.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/teamsters.html"
+ },
+ {
+  "title": "Korean War Veteran",
+  "keegan_img": "m-koreanwarveteran.gif",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/military/korean_war.html"
+ },
+ {
+  "title": "Law Enforcement Torch Run for Special Olympics",
+  "keegan_img": "fr-lawenforcetorchrun.gif",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/torchrun.html"
+ },
+ {
+  "title": "Mammogram",
+  "keegan_img": "mammogram.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/mammogram.html"
+ },
+ {
+  "title": "Master Mason",
+  "keegan_img": "mastermason.gif",
+  "cat": "hobby",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/master_masons.html"
+ },
+ {
+  "title": "Mileage- 12,000 lbs. or less",
+  "keegan_img": "md.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/truck_and_trailer_plates/mileage.html"
+ },
+ {
+  "title": "Mileage- 12,001 lbs. to 16,000 lbs.",
+  "keegan_img": "mf.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/truck_and_trailer_plates/mileage.html"
+ },
+ {
+  "title": "Mileage- 16,001 lbs. to 20,000 lbs.",
+  "keegan_img": "mg.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/truck_and_trailer_plates/mileage.html"
+ },
+ {
+  "title": "Mileage- 20,001 lbs. to 24,000 lbs.",
+  "keegan_img": "mh.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/truck_and_trailer_plates/mileage.html"
+ },
+ {
+  "title": "Mileage- 24,001 lbs. to 28,000 lbs.",
+  "keegan_img": "mj.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/truck_and_trailer_plates/mileage.html"
+ },
+ {
+  "title": "Mileage- 28,001 lbs. to 32,000 lbs.",
+  "keegan_img": "mk.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/truck_and_trailer_plates/mileage.html"
+ },
+ {
+  "title": "Mileage- 32,001 lbs. to 36,000 lbs.",
+  "keegan_img": "ml.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/truck_and_trailer_plates/mileage.html"
+ },
+ {
+  "title": "Mileage- 36,001 lbs. to 40,000 lbs.",
+  "keegan_img": "mn.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/truck_and_trailer_plates/mileage.html"
+ },
+ {
+  "title": "Mileage- 40,001 lbs. to 45,000 lbs.",
+  "keegan_img": "mp.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/truck_and_trailer_plates/mileage.html"
+ },
+ {
+  "title": "Mileage- 45,001 lbs. to 54,999 lbs.",
+  "keegan_img": "mr.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/truck_and_trailer_plates/mileage.html"
+ },
+ {
+  "title": "Mileage- 55,000 lbs. to 59,500 lbs.",
+  "keegan_img": "ms.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/truck_and_trailer_plates/mileage.html"
+ },
+ {
+  "title": "Mileage- 59,501 lbs. to 64,000 lbs.",
+  "keegan_img": "mt.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/truck_and_trailer_plates/mileage.html"
+ },
+ {
+  "title": "Mileage- 64,001 lbs. to 73,280 lbs.",
+  "keegan_img": "mv.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/truck_and_trailer_plates/mileage.html"
+ },
+ {
+  "title": "Mileage- 73,281 lbs. to 77,000 lbs.",
+  "keegan_img": "mx.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/truck_and_trailer_plates/mileage.html"
+ },
+ {
+  "title": "Mileage- 77,001 lbs. to 80,000 lbs.",
+  "keegan_img": "mz.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/truck_and_trailer_plates/mileage.html"
+ },
+ {
+  "title": "Organ Donor",
+  "keegan_img": "organdonor.gif",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/organ_donor.html"
+ },
+ {
+  "title": "Ovarian Cancer Awareness",
+  "keegan_img": "ovariancancer.gif",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/ovarian.html"
+ },
+ {
+  "title": "Park District Youth",
+  "keegan_img": "parkdistrict.gif",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/park_district.html"
+ },
+ {
+  "title": "Person's with Disabilities",
+  "keegan_img": "personsdisabilities.gif",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/persons_disabilities.html"
+ },
+ {
+  "title": "Pet Friendly",
+  "keegan_img": "petfriendly.gif",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/petfriendly.html"
+ },
+ {
+  "title": "Police Memorial",
+  "keegan_img": "fr-policememorial.gif",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/police_memorial.html"
+ },
+ {
+  "title": "President of a Village or Incorporated Town or Mayor",
+  "keegan_img": "presmayor.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/presmayor.html"
+ },
+ {
+  "title": "Prevent Violence",
+  "keegan_img": "preventviolence.gif",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/prevent_violence.html"
+ },
+ {
+  "title": "Prince Hall Freemasonry",
+  "keegan_img": "princehall.gif",
+  "cat": "hobby",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/princehallfreemasonery.html"
+ },
+ {
+  "title": "Recreational",
+  "keegan_img": "recreationalvehicle.gif",
+  "cat": "vehicle",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/truck_and_trailer_plates/home.html"
+ },
+ {
+  "title": "Rotary International",
+  "keegan_img": "rotaryclub.gif",
+  "cat": "hobby",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/rotary.html"
+ },
+ {
+  "title": "Route 66",
+  "keegan_img": "route66.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/route66.html"
+ },
+ {
+  "title": "Saluting Agriculture",
+  "keegan_img": "salutingagriculture.gif",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/salutingag.html"
+ },
+ {
+  "title": "Share the Road",
+  "keegan_img": "shareroad.gif",
+  "cat": "hobby",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/sharetheroad.html"
+ },
+ {
+  "title": "Sheet Metal Workers International Association",
+  "keegan_img": "sheetmetalworkers.gif",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/sheetmetal.html"
+ },
+ {
+  "title": "Sporting Series",
+  "keegan_img": "ss-deer.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/sporting_series/home.html"
+ },
+ {
+  "title": "St. Louis Cardinals",
+  "keegan_img": "stlouiscardinals.gif",
+  "cat": "sports",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/stlouiscardinals.html"
+ },
+ {
+  "title": "Support Our Troops",
+  "keegan_img": "supportourtroops.gif",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/supporttroops.html"
+ },
+ {
+  "title": "Support Youth Golf",
+  "keegan_img": "supportyouthgolf.gif",
+  "cat": "sports",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/youthgolf.html"
+ },
+ {
+  "title": "Tinted Windows",
+  "keegan_img": "tintedwindows.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/tinted_windows.html"
+ },
+ {
+  "title": "Wildlife Prairie Park",
+  "keegan_img": "peoriawildlife.gif",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/wildlife_prairie.html"
+ }
+]

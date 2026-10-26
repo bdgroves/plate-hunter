@@ -1,0 +1,724 @@
+{
+ "code": "AR",
+ "name": "Arkansas",
+ "rated": false,
+ "checked": false,
+ "updated": "2026-10-25",
+ "about": "Arkansas special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "sources": [
+  {
+   "title": "Jon Keegan, us-license-plates (2023)",
+   "url": "https://github.com/jonkeegan/us-license-plates"
+  }
+ ],
+ "plates": [
+  {
+   "id": "amateur-radio",
+   "name": "Amateur Radio",
+   "cat": "hobby",
+   "img": "amateur-radio.webp"
+  },
+  {
+   "id": "ambulance",
+   "name": "Ambulance",
+   "cat": "other",
+   "img": "ambulance.webp"
+  },
+  {
+   "id": "antique-current",
+   "name": "Antique- Current",
+   "cat": "vehicle",
+   "img": "antique-current.webp"
+  },
+  {
+   "id": "ar-tennis",
+   "name": "AR Tennis",
+   "cat": "sports",
+   "img": "ar-tennis.webp"
+  },
+  {
+   "id": "arkansas-agricultural-education-ffa",
+   "name": "Arkansas Agricultural Education( FFA",
+   "cat": "charity",
+   "img": "arkansas-agricultural-education-ffa.webp"
+  },
+  {
+   "id": "arkansas-coalition-against-domestic-viol",
+   "name": "Arkansas Coalition Against Domestic Violence",
+   "cat": "charity",
+   "img": "arkansas-coalition-against-domestic-viol.webp"
+  },
+  {
+   "id": "arkansas-court-appointed-special-advocat",
+   "name": "Arkansas Court Appointed Special Advocates",
+   "cat": "other",
+   "img": "arkansas-court-appointed-special-advocat.webp"
+  },
+  {
+   "id": "arkansas-down-syndrome-association",
+   "name": "Arkansas Down Syndrome Association",
+   "cat": "charity",
+   "img": "arkansas-down-syndrome-association.webp"
+  },
+  {
+   "id": "arkansas-rice-council",
+   "name": "Arkansas Rice Council",
+   "cat": "other",
+   "img": "arkansas-rice-council.webp"
+  },
+  {
+   "id": "arkansas-school-for-the-deaf",
+   "name": "Arkansas School for the Deaf",
+   "cat": "charity",
+   "img": "arkansas-school-for-the-deaf.webp"
+  },
+  {
+   "id": "arkansas-sheriffs-association",
+   "name": "Arkansas Sheriffs’ Association",
+   "cat": "firstresponder",
+   "img": "arkansas-sheriffs-association.webp"
+  },
+  {
+   "id": "arkansas-state-lodge-fraternal-order-of-",
+   "name": "Arkansas State Lodge Fraternal Order of Police",
+   "cat": "firstresponder",
+   "img": "arkansas-state-lodge-fraternal-order-of-.webp"
+  },
+  {
+   "id": "arkansas-state-parks",
+   "name": "Arkansas State Parks",
+   "cat": "nature",
+   "img": "arkansas-state-parks.webp"
+  },
+  {
+   "id": "arkansas-state-university",
+   "name": "Arkansas State University",
+   "cat": "colleges",
+   "img": "arkansas-state-university.webp"
+  },
+  {
+   "id": "arkansas-tech-university",
+   "name": "Arkansas Tech University",
+   "cat": "colleges",
+   "img": "arkansas-tech-university.webp"
+  },
+  {
+   "id": "armed-forces-reserve",
+   "name": "Armed Forces Reserve",
+   "cat": "military",
+   "img": "armed-forces-reserve.webp"
+  },
+  {
+   "id": "armed-forces-retired",
+   "name": "Armed Forces Retired",
+   "cat": "military",
+   "img": "armed-forces-retired.webp"
+  },
+  {
+   "id": "autism-awareness",
+   "name": "Autism Awareness",
+   "cat": "charity",
+   "img": "autism-awareness.webp"
+  },
+  {
+   "id": "boy-scout-girl-scout-and-orphanages",
+   "name": "Boy Scout, Girl Scout, and Orphanages",
+   "cat": "charity",
+   "img": "boy-scout-girl-scout-and-orphanages.webp"
+  },
+  {
+   "id": "boy-scouts-of-america",
+   "name": "Boy Scouts of America",
+   "cat": "charity",
+   "img": "boy-scouts-of-america.webp"
+  },
+  {
+   "id": "buffalo-river",
+   "name": "Buffalo River",
+   "cat": "nature",
+   "img": "buffalo-river.webp"
+  },
+  {
+   "id": "cattlemen-s-foundation",
+   "name": "Cattlemen’s Foundation",
+   "cat": "charity",
+   "img": "cattlemen-s-foundation.webp"
+  },
+  {
+   "id": "childhood-cancer-research",
+   "name": "Childhood Cancer Research",
+   "cat": "charity",
+   "img": "childhood-cancer-research.webp"
+  },
+  {
+   "id": "choose-life",
+   "name": "Choose Life",
+   "cat": "other",
+   "img": "choose-life.webp"
+  },
+  {
+   "id": "cold-war-veteran",
+   "name": "Cold War Veteran",
+   "cat": "veterans",
+   "img": "cold-war-veteran.webp"
+  },
+  {
+   "id": "committed-to-education",
+   "name": "Committed To Education",
+   "cat": "charity",
+   "img": "committed-to-education.webp"
+  },
+  {
+   "id": "congressional-medal-of-honor",
+   "name": "Congressional Medal of Honor",
+   "cat": "veterans",
+   "img": "congressional-medal-of-honor.webp"
+  },
+  {
+   "id": "department-of-conservation-districts",
+   "name": "Department of Conservation Districts",
+   "cat": "nature",
+   "img": "department-of-conservation-districts.webp"
+  },
+  {
+   "id": "disabled-veteran-free",
+   "name": "Disabled Veteran- Free",
+   "cat": "veterans",
+   "img": "disabled-veteran-free.webp"
+  },
+  {
+   "id": "distinguished-flying-cross",
+   "name": "Distinguished Flying Cross",
+   "cat": "veterans",
+   "img": "distinguished-flying-cross.webp"
+  },
+  {
+   "id": "dr-martin-luther-king-jr",
+   "name": "Dr. Martin Luther King, Jr.",
+   "cat": "other",
+   "img": "dr-martin-luther-king-jr.webp"
+  },
+  {
+   "id": "dr-martin-luther-king-jr-commission",
+   "name": "Dr. Martin Luther King, Jr. Commission",
+   "cat": "other",
+   "img": "dr-martin-luther-king-jr-commission.webp"
+  },
+  {
+   "id": "ducks-unlimited-valid-no-longer-issued",
+   "name": "Ducks Unlimited- Valid No Longer Issued",
+   "cat": "nature",
+   "img": "ducks-unlimited-valid-no-longer-issued.webp"
+  },
+  {
+   "id": "ducks-unlimited",
+   "name": "Ducks Unlimited",
+   "cat": "nature",
+   "img": "ducks-unlimited.webp"
+  },
+  {
+   "id": "emergency-medical-services",
+   "name": "Emergency Medical Services",
+   "cat": "firstresponder",
+   "img": "emergency-medical-services.webp"
+  },
+  {
+   "id": "ex-prisoner-of-war",
+   "name": "Ex-Prisoner Of War",
+   "cat": "veterans",
+   "img": "ex-prisoner-of-war.webp"
+  },
+  {
+   "id": "fire-fighter-active",
+   "name": "Fire Fighter(Active",
+   "cat": "firstresponder",
+   "img": "fire-fighter-active.webp"
+  },
+  {
+   "id": "fire-fighter-memorial",
+   "name": "Fire Fighter(Memorial",
+   "cat": "firstresponder",
+   "img": "fire-fighter-memorial.webp"
+  },
+  {
+   "id": "fire-fighter-retired",
+   "name": "Fire Fighter(Retired",
+   "cat": "firstresponder",
+   "img": "fire-fighter-retired.webp"
+  },
+  {
+   "id": "freemason",
+   "name": "Freemason",
+   "cat": "hobby",
+   "img": "freemason.webp"
+  },
+  {
+   "id": "game-fish-bird-dog",
+   "name": "Game & Fish Bird Dog",
+   "cat": "nature",
+   "img": "game-fish-bird-dog.webp"
+  },
+  {
+   "id": "game-fish-crappie-fish",
+   "name": "Game & Fish Crappie Fish",
+   "cat": "nature",
+   "img": "game-fish-crappie-fish.webp"
+  },
+  {
+   "id": "game-fish-deer",
+   "name": "Game & Fish Deer",
+   "cat": "nature",
+   "img": "game-fish-deer.webp"
+  },
+  {
+   "id": "game-fish-ivory-billed-woodpecker",
+   "name": "Game & Fish Ivory Billed Woodpecker",
+   "cat": "nature",
+   "img": "game-fish-ivory-billed-woodpecker.webp"
+  },
+  {
+   "id": "game-fish-longear-sunfish",
+   "name": "Game & Fish Longear Sunfish",
+   "cat": "nature",
+   "img": "game-fish-longear-sunfish.webp"
+  },
+  {
+   "id": "game-fish-monarch-butterfly",
+   "name": "Game & Fish Monarch Butterfly",
+   "cat": "nature",
+   "img": "game-fish-monarch-butterfly.webp"
+  },
+  {
+   "id": "game-fish-red-cardinal",
+   "name": "Game & Fish Red Cardinal",
+   "cat": "nature",
+   "img": "game-fish-red-cardinal.webp"
+  },
+  {
+   "id": "game-and-fish-black-bear",
+   "name": "Game and Fish Black Bear",
+   "cat": "nature",
+   "img": "game-and-fish-black-bear.webp"
+  },
+  {
+   "id": "game-and-fish-black-lab",
+   "name": "Game and Fish Black Lab",
+   "cat": "nature",
+   "img": "game-and-fish-black-lab.webp"
+  },
+  {
+   "id": "game-and-fish-butterfly",
+   "name": "Game and Fish Butterfly",
+   "cat": "nature",
+   "img": "game-and-fish-butterfly.webp"
+  },
+  {
+   "id": "game-and-fish-deer-new-design",
+   "name": "Game and Fish Deer (New Design",
+   "cat": "nature",
+   "img": "game-and-fish-deer-new-design.webp"
+  },
+  {
+   "id": "game-and-fish-deer",
+   "name": "Game And Fish Deer",
+   "cat": "nature",
+   "img": "game-and-fish-deer.webp"
+  },
+  {
+   "id": "game-and-fish-eagle",
+   "name": "Game and Fish Eagle",
+   "cat": "nature",
+   "img": "game-and-fish-eagle.webp"
+  },
+  {
+   "id": "game-and-fish-elk",
+   "name": "Game and Fish Elk",
+   "cat": "nature",
+   "img": "game-and-fish-elk.webp"
+  },
+  {
+   "id": "game-and-fish-hummingbird",
+   "name": "Game And Fish Hummingbird",
+   "cat": "nature",
+   "img": "game-and-fish-hummingbird.webp"
+  },
+  {
+   "id": "game-and-fish-largemouth-bass",
+   "name": "Game and Fish Largemouth Bass",
+   "cat": "nature",
+   "img": "game-and-fish-largemouth-bass.webp"
+  },
+  {
+   "id": "game-and-fish-mallard-duck",
+   "name": "Game and Fish Mallard Duck",
+   "cat": "nature",
+   "img": "game-and-fish-mallard-duck.webp"
+  },
+  {
+   "id": "game-and-fish-rainbow-trout",
+   "name": "Game And Fish Rainbow Trout",
+   "cat": "nature",
+   "img": "game-and-fish-rainbow-trout.webp"
+  },
+  {
+   "id": "game-and-fish-red-fox",
+   "name": "Game and Fish Red Fox",
+   "cat": "nature",
+   "img": "game-and-fish-red-fox.webp"
+  },
+  {
+   "id": "game-and-fish-smallmouth-bass",
+   "name": "Game and Fish Smallmouth Bass",
+   "cat": "nature",
+   "img": "game-and-fish-smallmouth-bass.webp"
+  },
+  {
+   "id": "game-and-fish-squirrel",
+   "name": "Game and Fish Squirrel",
+   "cat": "nature",
+   "img": "game-and-fish-squirrel.webp"
+  },
+  {
+   "id": "game-and-fish-wild-turkey",
+   "name": "Game and Fish Wild Turkey",
+   "cat": "sports",
+   "img": "game-and-fish-wild-turkey.webp"
+  },
+  {
+   "id": "game-fish-pintail-duck",
+   "name": "Game Fish Pintail Duck",
+   "cat": "nature",
+   "img": "game-fish-pintail-duck.webp"
+  },
+  {
+   "id": "gold-star-family",
+   "name": "Gold Star Family",
+   "cat": "veterans",
+   "img": "gold-star-family.webp"
+  },
+  {
+   "id": "golf-association",
+   "name": "Golf Association",
+   "cat": "sports",
+   "img": "golf-association.webp"
+  },
+  {
+   "id": "grand-lodge-of-arkansas",
+   "name": "Grand Lodge of Arkansas",
+   "cat": "other",
+   "img": "grand-lodge-of-arkansas.webp"
+  },
+  {
+   "id": "harding-university",
+   "name": "Harding University",
+   "cat": "colleges",
+   "img": "harding-university.webp"
+  },
+  {
+   "id": "henderson-state-university",
+   "name": "Henderson State University",
+   "cat": "colleges",
+   "img": "henderson-state-university.webp"
+  },
+  {
+   "id": "hendrix-college",
+   "name": "Hendrix College",
+   "cat": "colleges",
+   "img": "hendrix-college.webp"
+  },
+  {
+   "id": "hospice-and-palliative-care",
+   "name": "Hospice and Palliative Care",
+   "cat": "other",
+   "img": "hospice-and-palliative-care.webp"
+  },
+  {
+   "id": "humane-society-of-the-ozarks",
+   "name": "Humane Society of the Ozarks",
+   "cat": "charity",
+   "img": "humane-society-of-the-ozarks.webp"
+  },
+  {
+   "id": "in-god-we-trust",
+   "name": "In God We Trust",
+   "cat": "charity",
+   "img": "in-god-we-trust.webp"
+  },
+  {
+   "id": "john-brown-university",
+   "name": "John Brown University",
+   "cat": "colleges",
+   "img": "john-brown-university.webp"
+  },
+  {
+   "id": "justice-of-the-peace",
+   "name": "Justice of the Peace",
+   "cat": "other",
+   "img": "justice-of-the-peace.webp"
+  },
+  {
+   "id": "kappa-alpha-psi-fraternity",
+   "name": "Kappa Alpha PSI Fraternity",
+   "cat": "other",
+   "img": "kappa-alpha-psi-fraternity.webp"
+  },
+  {
+   "id": "korean-veteran",
+   "name": "Korean Veteran",
+   "cat": "veterans",
+   "img": "korean-veteran.webp"
+  },
+  {
+   "id": "little-rock-rangers-soccer-club",
+   "name": "Little Rock Rangers Soccer Club",
+   "cat": "military",
+   "img": "little-rock-rangers-soccer-club.webp"
+  },
+  {
+   "id": "lyon-college",
+   "name": "Lyon College",
+   "cat": "colleges",
+   "img": "lyon-college.webp"
+  },
+  {
+   "id": "merchant-marine-retired",
+   "name": "Merchant Marine Retired",
+   "cat": "military",
+   "img": "merchant-marine-retired.webp"
+  },
+  {
+   "id": "mid-south-community-college",
+   "name": "Mid-South Community College",
+   "cat": "colleges",
+   "img": "mid-south-community-college.webp"
+  },
+  {
+   "id": "national-guard",
+   "name": "National Guard",
+   "cat": "military",
+   "img": "national-guard.webp"
+  },
+  {
+   "id": "national-park-community-college",
+   "name": "National Park Community College",
+   "cat": "colleges",
+   "img": "national-park-community-college.webp"
+  },
+  {
+   "id": "national-wild-turkey-federation",
+   "name": "National Wild Turkey Federation",
+   "cat": "sports",
+   "img": "national-wild-turkey-federation.webp"
+  },
+  {
+   "id": "northwest-arkansas-community-college",
+   "name": "Northwest Arkansas Community College",
+   "cat": "colleges",
+   "img": "northwest-arkansas-community-college.webp"
+  },
+  {
+   "id": "omega-psi-phi-fraternity",
+   "name": "Omega PSI PHI Fraternity",
+   "cat": "other",
+   "img": "omega-psi-phi-fraternity.webp"
+  },
+  {
+   "id": "operation-iraqi-freedom-veteran",
+   "name": "Operation Iraqi Freedom Veteran",
+   "cat": "veterans",
+   "img": "operation-iraqi-freedom-veteran.webp"
+  },
+  {
+   "id": "organ-donor-awareness",
+   "name": "Organ Donor Awareness",
+   "cat": "charity",
+   "img": "organ-donor-awareness.webp"
+  },
+  {
+   "id": "ouachita-baptist-university",
+   "name": "Ouachita Baptist University",
+   "cat": "colleges",
+   "img": "ouachita-baptist-university.webp"
+  },
+  {
+   "id": "pearl-harbor-survivor",
+   "name": "Pearl Harbor Survivor",
+   "cat": "veterans",
+   "img": "pearl-harbor-survivor.webp"
+  },
+  {
+   "id": "persian-gulf-war-veteran",
+   "name": "Persian Gulf War Veteran",
+   "cat": "veterans",
+   "img": "persian-gulf-war-veteran.webp"
+  },
+  {
+   "id": "persons-with-disabilities",
+   "name": "Persons With Disabilities",
+   "cat": "charity",
+   "img": "persons-with-disabilities.webp"
+  },
+  {
+   "id": "persons-with-disabilities-placard",
+   "name": "Persons With Disabilities Placard",
+   "cat": "charity",
+   "img": "persons-with-disabilities-placard.webp"
+  },
+  {
+   "id": "phi-beta-sigma-fraternity",
+   "name": "Phi Beta Sigma Fraternity",
+   "cat": "other",
+   "img": "phi-beta-sigma-fraternity.webp"
+  },
+  {
+   "id": "prince-hall-grand-lodge-of-arkansas",
+   "name": "Prince Hall Grand Lodge of Arkansas",
+   "cat": "other",
+   "img": "prince-hall-grand-lodge-of-arkansas.webp"
+  },
+  {
+   "id": "purple-heart-combat-wounded",
+   "name": "Purple Heart - Combat Wounded",
+   "cat": "veterans",
+   "img": "purple-heart-combat-wounded.webp"
+  },
+  {
+   "id": "quail-forever",
+   "name": "Quail Forever",
+   "cat": "nature",
+   "img": "quail-forever.webp"
+  },
+  {
+   "id": "realtor",
+   "name": "Realtor",
+   "cat": "other",
+   "img": "realtor.webp"
+  },
+  {
+   "id": "school",
+   "name": "School",
+   "cat": "charity",
+   "img": "school.webp"
+  },
+  {
+   "id": "search-and-rescue",
+   "name": "Search and Rescue",
+   "cat": "firstresponder",
+   "img": "search-and-rescue.webp"
+  },
+  {
+   "id": "sheep-dog-impact-assistance",
+   "name": "Sheep Dog Impact Assistance",
+   "cat": "other",
+   "img": "sheep-dog-impact-assistance.webp"
+  },
+  {
+   "id": "sons-of-confederate-veterans",
+   "name": "Sons of Confederate Veterans",
+   "cat": "veterans",
+   "img": "sons-of-confederate-veterans.webp"
+  },
+  {
+   "id": "southern-arkansas-university",
+   "name": "Southern Arkansas University",
+   "cat": "colleges",
+   "img": "southern-arkansas-university.webp"
+  },
+  {
+   "id": "support-animal-rescue-and-shelters",
+   "name": "Support Animal Rescue and Shelters",
+   "cat": "firstresponder",
+   "img": "support-animal-rescue-and-shelters.webp"
+  },
+  {
+   "id": "support-our-troops",
+   "name": "Support Our Troops",
+   "cat": "charity",
+   "img": "support-our-troops.webp"
+  },
+  {
+   "id": "support-spay-or-neutering-specialtyfor-n",
+   "name": "Support Spay or Neutering Specialtyfor North Little Rock Friends of Animals, Inc.",
+   "cat": "charity",
+   "img": "support-spay-or-neutering-specialtyfor-n.webp"
+  },
+  {
+   "id": "susan-g-komen-breast-cancer",
+   "name": "Susan G. Komen Breast Cancer",
+   "cat": "charity",
+   "img": "susan-g-komen-breast-cancer.webp"
+  },
+  {
+   "id": "university-of-arkansas-agriculture-4-h",
+   "name": "University of Arkansas Agriculture 4-H",
+   "cat": "colleges",
+   "img": "university-of-arkansas-agriculture-4-h.webp"
+  },
+  {
+   "id": "university-of-arkansas-at-fayetteville-c",
+   "name": "University Of Arkansas at Fayetteville- Current",
+   "cat": "colleges",
+   "img": "university-of-arkansas-at-fayetteville-c.webp"
+  },
+  {
+   "id": "university-of-arkansas-at-little-rock",
+   "name": "University of Arkansas at Little Rock",
+   "cat": "colleges",
+   "img": "university-of-arkansas-at-little-rock.webp"
+  },
+  {
+   "id": "university-of-arkansas-at-monticello",
+   "name": "University of Arkansas at Monticello",
+   "cat": "colleges",
+   "img": "university-of-arkansas-at-monticello.webp"
+  },
+  {
+   "id": "university-of-arkansas-at-pine-bluff",
+   "name": "University Of Arkansas at Pine Bluff",
+   "cat": "colleges",
+   "img": "university-of-arkansas-at-pine-bluff.webp"
+  },
+  {
+   "id": "university-of-arkansas-fort-smith",
+   "name": "University Of Arkansas Fort Smith",
+   "cat": "colleges",
+   "img": "university-of-arkansas-fort-smith.webp"
+  },
+  {
+   "id": "university-of-arkansas-medical-sciences",
+   "name": "University of Arkansas Medical Sciences",
+   "cat": "colleges",
+   "img": "university-of-arkansas-medical-sciences.webp"
+  },
+  {
+   "id": "university-of-central-arkansas1st-design",
+   "name": "University Of Central Arkansas1st Design",
+   "cat": "colleges",
+   "img": "university-of-central-arkansas1st-design.webp"
+  },
+  {
+   "id": "university-of-central-arkansas2nd-design",
+   "name": "University of Central Arkansas2nd Design",
+   "cat": "colleges",
+   "img": "university-of-central-arkansas2nd-design.webp"
+  },
+  {
+   "id": "vietnam-war-veteran",
+   "name": "Vietnam War Veteran",
+   "cat": "veterans",
+   "img": "vietnam-war-veteran.webp"
+  },
+  {
+   "id": "world-war-ii-veteran",
+   "name": "World War II Veteran",
+   "cat": "veterans",
+   "img": "world-war-ii-veteran.webp"
+  },
+  {
+   "id": "zeta-phi-beta-sorority",
+   "name": "Zeta Phi Beta Sorority",
+   "cat": "other",
+   "img": "zeta-phi-beta-sorority.webp"
+  }
+ ]
+}

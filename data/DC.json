@@ -1,0 +1,292 @@
+{
+ "code": "DC",
+ "name": "District of Columbia",
+ "rated": false,
+ "checked": false,
+ "updated": "2026-10-25",
+ "about": "District of Columbia special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "sources": [
+  {
+   "title": "Jon Keegan, us-license-plates (2023)",
+   "url": "https://github.com/jonkeegan/us-license-plates"
+  }
+ ],
+ "plates": [
+  {
+   "id": "alpha-kappa-alpha",
+   "name": "Alpha Kappa Alpha",
+   "cat": "other",
+   "img": "alpha-kappa-alpha.webp"
+  },
+  {
+   "id": "alpha-phi-alpha",
+   "name": "Alpha Phi Alpha",
+   "cat": "other",
+   "img": "alpha-phi-alpha.webp"
+  },
+  {
+   "id": "anacostia-river-commemorative",
+   "name": "Anacostia River Commemorative",
+   "cat": "nature",
+   "img": "anacostia-river-commemorative.webp"
+  },
+  {
+   "id": "bad-boys-club",
+   "name": "Bad Boys Club",
+   "cat": "charity",
+   "img": "bad-boys-club.webp"
+  },
+  {
+   "id": "bicycle-awareness",
+   "name": "Bicycle Awareness",
+   "cat": "hobby",
+   "img": "bicycle-awareness.webp"
+  },
+  {
+   "id": "blue-knights",
+   "name": "Blue Knights",
+   "cat": "hobby",
+   "img": "blue-knights.webp"
+  },
+  {
+   "id": "breast-cancer-awareness",
+   "name": "Breast Cancer Awareness",
+   "cat": "charity",
+   "img": "breast-cancer-awareness.webp"
+  },
+  {
+   "id": "children-first-foundation",
+   "name": "Children First Foundation",
+   "cat": "charity",
+   "img": "children-first-foundation.webp"
+  },
+  {
+   "id": "dc-fire-fighters-local-36",
+   "name": "DC Fire Fighters Local 36",
+   "cat": "firstresponder",
+   "img": "dc-fire-fighters-local-36.webp"
+  },
+  {
+   "id": "dc-veteran",
+   "name": "DC Veteran",
+   "cat": "veterans",
+   "img": "dc-veteran.webp"
+  },
+  {
+   "id": "delta-sigma-theta-sorority",
+   "name": "Delta Sigma Theta Sorority",
+   "cat": "other",
+   "img": "delta-sigma-theta-sorority.webp"
+  },
+  {
+   "id": "disabled-american-veteran-dav",
+   "name": "Disabled American Veteran (DAV",
+   "cat": "veterans",
+   "img": "disabled-american-veteran-dav.webp"
+  },
+  {
+   "id": "disabled-american-veteran-dav-symbol",
+   "name": "Disabled American Veteran (DAV)- Symbol",
+   "cat": "veterans",
+   "img": "disabled-american-veteran-dav-symbol.webp"
+  },
+  {
+   "id": "disabled-veterans",
+   "name": "Disabled Veterans",
+   "cat": "veterans",
+   "img": "disabled-veterans.webp"
+  },
+  {
+   "id": "disabled-veterans-symbol",
+   "name": "Disabled Veterans - Symbol",
+   "cat": "veterans",
+   "img": "disabled-veterans-symbol.webp"
+  },
+  {
+   "id": "district-of-columbia-lodge-fop",
+   "name": "District of Columbia Lodge/FOP",
+   "cat": "other",
+   "img": "district-of-columbia-lodge-fop.webp"
+  },
+  {
+   "id": "donate-life-note-it-is-not-necessary-to-",
+   "name": "Donate Life Note: It is not necessary to obtain a letter from Infinite Legacy to obtain this organizational.",
+   "cat": "charity",
+   "img": "donate-life-note-it-is-not-necessary-to-.webp"
+  },
+  {
+   "id": "florida-a-m-university",
+   "name": "Florida A&M University",
+   "cat": "colleges",
+   "img": "florida-a-m-university.webp"
+  },
+  {
+   "id": "howard-university",
+   "name": "Howard University",
+   "cat": "colleges",
+   "img": "howard-university.webp"
+  },
+  {
+   "id": "kappa-alpha-psi-fraternity",
+   "name": "Kappa Alpha Psi Fraternity",
+   "cat": "other",
+   "img": "kappa-alpha-psi-fraternity.webp"
+  },
+  {
+   "id": "mississippi-state-university",
+   "name": "Mississippi State University",
+   "cat": "colleges",
+   "img": "mississippi-state-university.webp"
+  },
+  {
+   "id": "morehouse-college-alumni",
+   "name": "Morehouse College Alumni",
+   "cat": "colleges",
+   "img": "morehouse-college-alumni.webp"
+  },
+  {
+   "id": "national-association-of-black-scuba-dive",
+   "name": "National Association of Black Scuba Divers",
+   "cat": "charity",
+   "img": "national-association-of-black-scuba-dive.webp"
+  },
+  {
+   "id": "nc-a-t-su-alumni",
+   "name": "NC A&T SU Alumni",
+   "cat": "colleges",
+   "img": "nc-a-t-su-alumni.webp"
+  },
+  {
+   "id": "norfolk-state-alumni",
+   "name": "Norfolk State Alumni",
+   "cat": "colleges",
+   "img": "norfolk-state-alumni.webp"
+  },
+  {
+   "id": "omega-psi-phi-fraternity",
+   "name": "Omega Psi Phi Fraternity",
+   "cat": "other",
+   "img": "omega-psi-phi-fraternity.webp"
+  },
+  {
+   "id": "porsche-club-of-america",
+   "name": "Porsche Club of America",
+   "cat": "charity",
+   "img": "porsche-club-of-america.webp"
+  },
+  {
+   "id": "prince-hall-masonic-family",
+   "name": "Prince Hall Masonic Family",
+   "cat": "hobby",
+   "img": "prince-hall-masonic-family.webp"
+  },
+  {
+   "id": "prince-hall-order-of-the-eastern-star",
+   "name": "Prince Hall Order of the Eastern Star",
+   "cat": "hobby",
+   "img": "prince-hall-order-of-the-eastern-star.webp"
+  },
+  {
+   "id": "southern-methodist-university",
+   "name": "Southern Methodist University",
+   "cat": "colleges",
+   "img": "southern-methodist-university.webp"
+  },
+  {
+   "id": "spirit-of-faith-christian-center",
+   "name": "Spirit of Faith Christian Center",
+   "cat": "charity",
+   "img": "spirit-of-faith-christian-center.webp"
+  },
+  {
+   "id": "st-john-s-college",
+   "name": "St John’s College",
+   "cat": "colleges",
+   "img": "st-john-s-college.webp"
+  },
+  {
+   "id": "the-george-washington-university",
+   "name": "The George Washington University",
+   "cat": "colleges",
+   "img": "the-george-washington-university.webp"
+  },
+  {
+   "id": "university-of-michigan",
+   "name": "University of Michigan",
+   "cat": "colleges",
+   "img": "university-of-michigan.webp"
+  },
+  {
+   "id": "university-of-mississippi-ole-miss",
+   "name": "University of Mississippi (Ole Miss",
+   "cat": "colleges",
+   "img": "university-of-mississippi-ole-miss.webp"
+  },
+  {
+   "id": "veterans-of-foreign-wars-of-us",
+   "name": "Veterans of Foreign Wars of US",
+   "cat": "veterans",
+   "img": "veterans-of-foreign-wars-of-us.webp"
+  },
+  {
+   "id": "veterans-specialty-air-force",
+   "name": "Veterans Specialty- Air Force",
+   "cat": "veterans",
+   "img": "veterans-specialty-air-force.webp"
+  },
+  {
+   "id": "veterans-specialty-army",
+   "name": "Veterans Specialty- Army",
+   "cat": "veterans",
+   "img": "veterans-specialty-army.webp"
+  },
+  {
+   "id": "veterans-specialty-coast-guard",
+   "name": "Veterans Specialty- Coast Guard",
+   "cat": "veterans",
+   "img": "veterans-specialty-coast-guard.webp"
+  },
+  {
+   "id": "veterans-specialty-marines",
+   "name": "Veterans Specialty- Marines",
+   "cat": "veterans",
+   "img": "veterans-specialty-marines.webp"
+  },
+  {
+   "id": "veterans-specialty-navy",
+   "name": "Veterans Specialty- Navy",
+   "cat": "veterans",
+   "img": "veterans-specialty-navy.webp"
+  },
+  {
+   "id": "washington-capitals",
+   "name": "Washington Capitals",
+   "cat": "sports",
+   "img": "washington-capitals.webp"
+  },
+  {
+   "id": "washington-capitals-2018-stanley-cup",
+   "name": "Washington Capitals- 2018 Stanley Cup",
+   "cat": "sports",
+   "img": "washington-capitals-2018-stanley-cup.webp"
+  },
+  {
+   "id": "washington-mystics",
+   "name": "Washington Mystics",
+   "cat": "other",
+   "img": "washington-mystics.webp"
+  },
+  {
+   "id": "washington-mystics-2019-champs",
+   "name": "Washington Mystics- 2019 champs",
+   "cat": "other",
+   "img": "washington-mystics-2019-champs.webp"
+  },
+  {
+   "id": "washington-nationals-note-it-is-not-nece",
+   "name": "Washington Nationals Note: It is not necessary to obtain a letter from the Washington Nationals to obtain this organizational.",
+   "cat": "sports",
+   "img": "washington-nationals-note-it-is-not-nece.webp"
+  }
+ ]
+}

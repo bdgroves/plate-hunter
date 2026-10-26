@@ -1,0 +1,850 @@
+{
+ "code": "DE",
+ "name": "Delaware",
+ "rated": false,
+ "checked": false,
+ "updated": "2026-10-25",
+ "about": "Delaware special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "sources": [
+  {
+   "title": "Jon Keegan, us-license-plates (2023)",
+   "url": "https://github.com/jonkeegan/us-license-plates"
+  }
+ ],
+ "plates": [
+  {
+   "id": "air-force-commendation-medal",
+   "name": "Air Force Commendation Medal",
+   "cat": "veterans",
+   "img": "air-force-commendation-medal.webp"
+  },
+  {
+   "id": "air-medal",
+   "name": "Air Medal",
+   "cat": "veterans",
+   "img": "air-medal.webp"
+  },
+  {
+   "id": "alpha-kappa-alpha",
+   "name": "Alpha Kappa Alpha",
+   "cat": "other",
+   "img": "alpha-kappa-alpha.webp"
+  },
+  {
+   "id": "alpha-phi-alpha",
+   "name": "Alpha Phi Alpha",
+   "cat": "other",
+   "img": "alpha-phi-alpha.webp"
+  },
+  {
+   "id": "american-legion",
+   "name": "American Legion",
+   "cat": "veterans",
+   "img": "american-legion.webp"
+  },
+  {
+   "id": "animal-welfare",
+   "name": "Animal Welfare",
+   "cat": "charity",
+   "img": "animal-welfare.webp"
+  },
+  {
+   "id": "antique",
+   "name": "Antique",
+   "cat": "vehicle",
+   "img": "antique.webp"
+  },
+  {
+   "id": "application-for-delaware-sample",
+   "name": "Application for Delaware Sample",
+   "cat": "other",
+   "img": "application-for-delaware-sample.webp"
+  },
+  {
+   "id": "army-dept-of",
+   "name": "Army (Dept of",
+   "cat": "military",
+   "img": "army-dept-of.webp"
+  },
+  {
+   "id": "army-commendation-medal",
+   "name": "Army Commendation Medal",
+   "cat": "veterans",
+   "img": "army-commendation-medal.webp"
+  },
+  {
+   "id": "attack-addiction",
+   "name": "atTAcK Addiction",
+   "cat": "other",
+   "img": "attack-addiction.webp"
+  },
+  {
+   "id": "autism-acceptance-and-inclusion",
+   "name": "Autism Acceptance and Inclusion",
+   "cat": "charity",
+   "img": "autism-acceptance-and-inclusion.webp"
+  },
+  {
+   "id": "breast-cancer-awareness",
+   "name": "Breast Cancer Awareness",
+   "cat": "charity",
+   "img": "breast-cancer-awareness.webp"
+  },
+  {
+   "id": "bronze-star",
+   "name": "Bronze Star",
+   "cat": "veterans",
+   "img": "bronze-star.webp"
+  },
+  {
+   "id": "bronze-star-w-o-valor",
+   "name": "Bronze Star (w/o Valor",
+   "cat": "veterans",
+   "img": "bronze-star-w-o-valor.webp"
+  },
+  {
+   "id": "buffalo-soldiers",
+   "name": "Buffalo Soldiers",
+   "cat": "nature",
+   "img": "buffalo-soldiers.webp"
+  },
+  {
+   "id": "caesar-rodney-centennial",
+   "name": "Caesar Rodney Centennial",
+   "cat": "charity",
+   "img": "caesar-rodney-centennial.webp"
+  },
+  {
+   "id": "call-sample-58a",
+   "name": "Call(Sample 58A",
+   "cat": "other",
+   "img": "call-sample-58a.webp"
+  },
+  {
+   "id": "cancer-support-community",
+   "name": "Cancer Support Community",
+   "cat": "charity",
+   "img": "cancer-support-community.webp"
+  },
+  {
+   "id": "cape-henlopen-high-school",
+   "name": "Cape Henlopen High School",
+   "cat": "charity",
+   "img": "cape-henlopen-high-school.webp"
+  },
+  {
+   "id": "caravel-academy",
+   "name": "Caravel Academy",
+   "cat": "other",
+   "img": "caravel-academy.webp"
+  },
+  {
+   "id": "choose-life",
+   "name": "Choose Life",
+   "cat": "other",
+   "img": "choose-life.webp"
+  },
+  {
+   "id": "cib",
+   "name": "CIB",
+   "cat": "other",
+   "img": "cib.webp"
+  },
+  {
+   "id": "coast-guard",
+   "name": "Coast Guard",
+   "cat": "military",
+   "img": "coast-guard.webp"
+  },
+  {
+   "id": "conquer-childhood-cancer",
+   "name": "Conquer Childhood Cancer",
+   "cat": "charity",
+   "img": "conquer-childhood-cancer.webp"
+  },
+  {
+   "id": "conrad-hs-alumni",
+   "name": "Conrad HS Alumni",
+   "cat": "colleges",
+   "img": "conrad-hs-alumni.webp"
+  },
+  {
+   "id": "correctional-officers-association-of-del",
+   "name": "Correctional Officers Association of Delaware",
+   "cat": "charity",
+   "img": "correctional-officers-association-of-del.webp"
+  },
+  {
+   "id": "credit-union",
+   "name": "Credit Union",
+   "cat": "other",
+   "img": "credit-union.webp"
+  },
+  {
+   "id": "dav-special-parking",
+   "name": "DAV / Special Parking",
+   "cat": "veterans",
+   "img": "dav-special-parking.webp"
+  },
+  {
+   "id": "delaware-association-of-realtors",
+   "name": "Delaware Association of Realtors",
+   "cat": "charity",
+   "img": "delaware-association-of-realtors.webp"
+  },
+  {
+   "id": "delaware-civil-air-patrol",
+   "name": "Delaware Civil Air Patrol",
+   "cat": "other",
+   "img": "delaware-civil-air-patrol.webp"
+  },
+  {
+   "id": "delaware-east-carolina-university",
+   "name": "Delaware East Carolina University",
+   "cat": "colleges",
+   "img": "delaware-east-carolina-university.webp"
+  },
+  {
+   "id": "delaware-episcopal-diocese",
+   "name": "Delaware Episcopal Diocese",
+   "cat": "other",
+   "img": "delaware-episcopal-diocese.webp"
+  },
+  {
+   "id": "delaware-mobile-surf-fisherman",
+   "name": "Delaware Mobile Surf Fisherman",
+   "cat": "nature",
+   "img": "delaware-mobile-surf-fisherman.webp"
+  },
+  {
+   "id": "delaware-organ-donor",
+   "name": "Delaware Organ Donor",
+   "cat": "charity",
+   "img": "delaware-organ-donor.webp"
+  },
+  {
+   "id": "delaware-senior-olympics",
+   "name": "Delaware Senior Olympics",
+   "cat": "sports",
+   "img": "delaware-senior-olympics.webp"
+  },
+  {
+   "id": "delaware-state-fair",
+   "name": "Delaware State Fair",
+   "cat": "other",
+   "img": "delaware-state-fair.webp"
+  },
+  {
+   "id": "delaware-state-university",
+   "name": "Delaware State University",
+   "cat": "colleges",
+   "img": "delaware-state-university.webp"
+  },
+  {
+   "id": "delaware-technical-university",
+   "name": "Delaware Technical University",
+   "cat": "colleges",
+   "img": "delaware-technical-university.webp"
+  },
+  {
+   "id": "delaware-veterans",
+   "name": "Delaware Veterans",
+   "cat": "veterans",
+   "img": "delaware-veterans.webp"
+  },
+  {
+   "id": "delaware-william-henry-high-school-alumn",
+   "name": "Delaware William Henry High School Alumni",
+   "cat": "colleges",
+   "img": "delaware-william-henry-high-school-alumn.webp"
+  },
+  {
+   "id": "delmar",
+   "name": "Delmar",
+   "cat": "other",
+   "img": "delmar.webp"
+  },
+  {
+   "id": "delta-sigma-theta",
+   "name": "Delta Sigma Theta",
+   "cat": "other",
+   "img": "delta-sigma-theta.webp"
+  },
+  {
+   "id": "delta-waterfowl",
+   "name": "Delta Waterfowl",
+   "cat": "nature",
+   "img": "delta-waterfowl.webp"
+  },
+  {
+   "id": "disabled-american-veterans",
+   "name": "Disabled American Veterans",
+   "cat": "veterans",
+   "img": "disabled-american-veterans.webp"
+  },
+  {
+   "id": "distinguished-flying-cross",
+   "name": "Distinguished Flying Cross",
+   "cat": "veterans",
+   "img": "distinguished-flying-cross.webp"
+  },
+  {
+   "id": "distinguished-service-cross",
+   "name": "Distinguished Service Cross",
+   "cat": "veterans",
+   "img": "distinguished-service-cross.webp"
+  },
+  {
+   "id": "dover-high-school",
+   "name": "Dover High School",
+   "cat": "charity",
+   "img": "dover-high-school.webp"
+  },
+  {
+   "id": "ducks-unlimited",
+   "name": "Ducks Unlimited",
+   "cat": "nature",
+   "img": "ducks-unlimited.webp"
+  },
+  {
+   "id": "east-carolina-university",
+   "name": "East Carolina University",
+   "cat": "colleges",
+   "img": "east-carolina-university.webp"
+  },
+  {
+   "id": "eastern-star-pha",
+   "name": "Eastern Star PHA",
+   "cat": "hobby",
+   "img": "eastern-star-pha.webp"
+  },
+  {
+   "id": "elks-lodge",
+   "name": "Elks Lodge",
+   "cat": "nature",
+   "img": "elks-lodge.webp"
+  },
+  {
+   "id": "environmental-lighthouse",
+   "name": "Environmental Lighthouse",
+   "cat": "nature",
+   "img": "environmental-lighthouse.webp"
+  },
+  {
+   "id": "farm-bureau",
+   "name": "Farm Bureau",
+   "cat": "vehicle",
+   "img": "farm-bureau.webp"
+  },
+  {
+   "id": "farm-preservation",
+   "name": "Farm Preservation",
+   "cat": "tribal",
+   "img": "farm-preservation.webp"
+  },
+  {
+   "id": "felton-high-school",
+   "name": "Felton High School",
+   "cat": "charity",
+   "img": "felton-high-school.webp"
+  },
+  {
+   "id": "flyers-charities",
+   "name": "Flyers Charities",
+   "cat": "other",
+   "img": "flyers-charities.webp"
+  },
+  {
+   "id": "fraternal-order-of-police",
+   "name": "Fraternal Order of Police",
+   "cat": "firstresponder",
+   "img": "fraternal-order-of-police.webp"
+  },
+  {
+   "id": "gold-star-family",
+   "name": "Gold Star Family",
+   "cat": "veterans",
+   "img": "gold-star-family.webp"
+  },
+  {
+   "id": "goldey-beacom-college",
+   "name": "Goldey Beacom College",
+   "cat": "colleges",
+   "img": "goldey-beacom-college.webp"
+  },
+  {
+   "id": "groove-phi-groove",
+   "name": "Groove Phi Groove",
+   "cat": "other",
+   "img": "groove-phi-groove.webp"
+  },
+  {
+   "id": "harrington-high-school",
+   "name": "Harrington High School",
+   "cat": "charity",
+   "img": "harrington-high-school.webp"
+  },
+  {
+   "id": "honorably-discharged-military-veteran",
+   "name": "Honorably Discharged Military Veteran",
+   "cat": "veterans",
+   "img": "honorably-discharged-military-veteran.webp"
+  },
+  {
+   "id": "honoring-veterans",
+   "name": "Honoring Veterans",
+   "cat": "veterans",
+   "img": "honoring-veterans.webp"
+  },
+  {
+   "id": "horseshoe-crab",
+   "name": "Horseshoe Crab",
+   "cat": "hobby",
+   "img": "horseshoe-crab.webp"
+  },
+  {
+   "id": "indian-river-hs-alumni",
+   "name": "Indian River HS Alumni",
+   "cat": "colleges",
+   "img": "indian-river-hs-alumni.webp"
+  },
+  {
+   "id": "johns-hopkins-university",
+   "name": "Johns Hopkins University",
+   "cat": "colleges",
+   "img": "johns-hopkins-university.webp"
+  },
+  {
+   "id": "kappa-alpha-psi",
+   "name": "Kappa Alpha Psi",
+   "cat": "other",
+   "img": "kappa-alpha-psi.webp"
+  },
+  {
+   "id": "keep-delaware-beautiful",
+   "name": "Keep Delaware Beautiful",
+   "cat": "nature",
+   "img": "keep-delaware-beautiful.webp"
+  },
+  {
+   "id": "kings-point-merchant-marine",
+   "name": "Kings Point - Merchant Marine",
+   "cat": "military",
+   "img": "kings-point-merchant-marine.webp"
+  },
+  {
+   "id": "knights-of-columbus",
+   "name": "Knights of Columbus",
+   "cat": "hobby",
+   "img": "knights-of-columbus.webp"
+  },
+  {
+   "id": "korean-war-veteran",
+   "name": "Korean War Veteran",
+   "cat": "veterans",
+   "img": "korean-war-veteran.webp"
+  },
+  {
+   "id": "ladies-auxiliary",
+   "name": "Ladies Auxiliary",
+   "cat": "other",
+   "img": "ladies-auxiliary.webp"
+  },
+  {
+   "id": "law-enforcement-memorial",
+   "name": "Law Enforcement Memorial",
+   "cat": "firstresponder",
+   "img": "law-enforcement-memorial.webp"
+  },
+  {
+   "id": "lions-club",
+   "name": "Lions Club",
+   "cat": "sports",
+   "img": "lions-club.webp"
+  },
+  {
+   "id": "loyal-order-of-moose",
+   "name": "Loyal Order of Moose",
+   "cat": "hobby",
+   "img": "loyal-order-of-moose.webp"
+  },
+  {
+   "id": "marine-corp-league",
+   "name": "Marine Corp League",
+   "cat": "military",
+   "img": "marine-corp-league.webp"
+  },
+  {
+   "id": "marine-education-research-rehabilitation",
+   "name": "Marine Education Research / Rehabilitation",
+   "cat": "military",
+   "img": "marine-education-research-rehabilitation.webp"
+  },
+  {
+   "id": "marines",
+   "name": "Marines",
+   "cat": "military",
+   "img": "marines.webp"
+  },
+  {
+   "id": "masonic-mason",
+   "name": "Masonic Mason",
+   "cat": "hobby",
+   "img": "masonic-mason.webp"
+  },
+  {
+   "id": "migratory-shorebirds",
+   "name": "Migratory Shorebirds",
+   "cat": "nature",
+   "img": "migratory-shorebirds.webp"
+  },
+  {
+   "id": "missing-in-action",
+   "name": "Missing In Action",
+   "cat": "other",
+   "img": "missing-in-action.webp"
+  },
+  {
+   "id": "nanticoke-indian-association",
+   "name": "Nanticoke Indian Association",
+   "cat": "charity",
+   "img": "nanticoke-indian-association.webp"
+  },
+  {
+   "id": "national-guard",
+   "name": "National Guard",
+   "cat": "military",
+   "img": "national-guard.webp"
+  },
+  {
+   "id": "national-rifle-association",
+   "name": "National Rifle Association",
+   "cat": "charity",
+   "img": "national-rifle-association.webp"
+  },
+  {
+   "id": "navy-dept-of",
+   "name": "Navy (Dept. of",
+   "cat": "military",
+   "img": "navy-dept-of.webp"
+  },
+  {
+   "id": "navy-commendation-medal",
+   "name": "Navy Commendation Medal",
+   "cat": "veterans",
+   "img": "navy-commendation-medal.webp"
+  },
+  {
+   "id": "navy-cross",
+   "name": "Navy Cross",
+   "cat": "veterans",
+   "img": "navy-cross.webp"
+  },
+  {
+   "id": "ncc-retired-police",
+   "name": "NCC Retired Police",
+   "cat": "firstresponder",
+   "img": "ncc-retired-police.webp"
+  },
+  {
+   "id": "newark-high-school",
+   "name": "Newark High School",
+   "cat": "charity",
+   "img": "newark-high-school.webp"
+  },
+  {
+   "id": "notre-dame",
+   "name": "Notre Dame",
+   "cat": "other",
+   "img": "notre-dame.webp"
+  },
+  {
+   "id": "nur-shrine",
+   "name": "Nur Shrine",
+   "cat": "hobby",
+   "img": "nur-shrine.webp"
+  },
+  {
+   "id": "ohio-state-university",
+   "name": "Ohio State University",
+   "cat": "colleges",
+   "img": "ohio-state-university.webp"
+  },
+  {
+   "id": "omega-psi-phi",
+   "name": "Omega Psi Phi",
+   "cat": "other",
+   "img": "omega-psi-phi.webp"
+  },
+  {
+   "id": "operation-desert-storm",
+   "name": "Operation Desert Storm",
+   "cat": "veterans",
+   "img": "operation-desert-storm.webp"
+  },
+  {
+   "id": "operation-enduring-freedom",
+   "name": "Operation Enduring Freedom",
+   "cat": "other",
+   "img": "operation-enduring-freedom.webp"
+  },
+  {
+   "id": "operation-iraqi-freedom",
+   "name": "Operation Iraqi Freedom",
+   "cat": "veterans",
+   "img": "operation-iraqi-freedom.webp"
+  },
+  {
+   "id": "order-of-eastern-star",
+   "name": "Order of Eastern Star",
+   "cat": "hobby",
+   "img": "order-of-eastern-star.webp"
+  },
+  {
+   "id": "pearl-harbor-survivor",
+   "name": "Pearl Harbor Survivor",
+   "cat": "veterans",
+   "img": "pearl-harbor-survivor.webp"
+  },
+  {
+   "id": "penn-state-university",
+   "name": "Penn State University",
+   "cat": "colleges",
+   "img": "penn-state-university.webp"
+  },
+  {
+   "id": "phi-beta-sigma-fraternity-inc",
+   "name": "Phi Beta Sigma Fraternity, Inc.",
+   "cat": "other",
+   "img": "phi-beta-sigma-fraternity-inc.webp"
+  },
+  {
+   "id": "pollinator",
+   "name": "Pollinator",
+   "cat": "nature",
+   "img": "pollinator.webp"
+  },
+  {
+   "id": "prince-hall-affiliated",
+   "name": "Prince Hall Affiliated",
+   "cat": "other",
+   "img": "prince-hall-affiliated.webp"
+  },
+  {
+   "id": "prisoner-of-war",
+   "name": "Prisoner of War",
+   "cat": "veterans",
+   "img": "prisoner-of-war.webp"
+  },
+  {
+   "id": "professional-firefighter",
+   "name": "Professional Firefighter",
+   "cat": "firstresponder",
+   "img": "professional-firefighter.webp"
+  },
+  {
+   "id": "purdue-university-alumni",
+   "name": "Purdue University Alumni",
+   "cat": "colleges",
+   "img": "purdue-university-alumni.webp"
+  },
+  {
+   "id": "purple-heart",
+   "name": "Purple Heart",
+   "cat": "veterans",
+   "img": "purple-heart.webp"
+  },
+  {
+   "id": "reserve-forces",
+   "name": "Reserve Forces",
+   "cat": "military",
+   "img": "reserve-forces.webp"
+  },
+  {
+   "id": "retired-new-castle-police-department",
+   "name": "Retired New Castle Police Department",
+   "cat": "firstresponder",
+   "img": "retired-new-castle-police-department.webp"
+  },
+  {
+   "id": "retired-state-police",
+   "name": "Retired State Police",
+   "cat": "firstresponder",
+   "img": "retired-state-police.webp"
+  },
+  {
+   "id": "saint-josephs-university",
+   "name": "Saint Josephs University",
+   "cat": "colleges",
+   "img": "saint-josephs-university.webp"
+  },
+  {
+   "id": "salesianum-alumni",
+   "name": "Salesianum Alumni",
+   "cat": "colleges",
+   "img": "salesianum-alumni.webp"
+  },
+  {
+   "id": "silver-star",
+   "name": "Silver Star",
+   "cat": "veterans",
+   "img": "silver-star.webp"
+  },
+  {
+   "id": "so-delaware-street-rod-association",
+   "name": "So. Delaware Street Rod Association",
+   "cat": "vehicle",
+   "img": "so-delaware-street-rod-association.webp"
+  },
+  {
+   "id": "standardbred-owners-association",
+   "name": "Standardbred Owners Association",
+   "cat": "charity",
+   "img": "standardbred-owners-association.webp"
+  },
+  {
+   "id": "stop-child-abuse",
+   "name": "Stop Child Abuse",
+   "cat": "charity",
+   "img": "stop-child-abuse.webp"
+  },
+  {
+   "id": "submarine-service",
+   "name": "Submarine Service",
+   "cat": "military",
+   "img": "submarine-service.webp"
+  },
+  {
+   "id": "telephone-pioneers",
+   "name": "Telephone Pioneers",
+   "cat": "other",
+   "img": "telephone-pioneers.webp"
+  },
+  {
+   "id": "temple-university",
+   "name": "Temple University",
+   "cat": "colleges",
+   "img": "temple-university.webp"
+  },
+  {
+   "id": "unitedworkers",
+   "name": "UnitedWorkers",
+   "cat": "other",
+   "img": "unitedworkers.webp"
+  },
+  {
+   "id": "united-states-air-force",
+   "name": "United States Air Force",
+   "cat": "military",
+   "img": "united-states-air-force.webp"
+  },
+  {
+   "id": "university-of-delaware",
+   "name": "University of Delaware",
+   "cat": "colleges",
+   "img": "university-of-delaware.webp"
+  },
+  {
+   "id": "university-of-michigan",
+   "name": "University of Michigan",
+   "cat": "colleges",
+   "img": "university-of-michigan.webp"
+  },
+  {
+   "id": "university-of-pennsylvania",
+   "name": "University of Pennsylvania",
+   "cat": "colleges",
+   "img": "university-of-pennsylvania.webp"
+  },
+  {
+   "id": "us-naval-academy",
+   "name": "US Naval Academy",
+   "cat": "other",
+   "img": "us-naval-academy.webp"
+  },
+  {
+   "id": "veterans-foreign-war",
+   "name": "Veterans Foreign War",
+   "cat": "veterans",
+   "img": "veterans-foreign-war.webp"
+  },
+  {
+   "id": "vietnam-veteran",
+   "name": "Vietnam Veteran",
+   "cat": "veterans",
+   "img": "vietnam-veteran.webp"
+  },
+  {
+   "id": "villanova-university",
+   "name": "Villanova University",
+   "cat": "colleges",
+   "img": "villanova-university.webp"
+  },
+  {
+   "id": "virginia-tech",
+   "name": "Virginia Tech",
+   "cat": "other",
+   "img": "virginia-tech.webp"
+  },
+  {
+   "id": "volunteer-fireman",
+   "name": "Volunteer Fireman",
+   "cat": "other",
+   "img": "volunteer-fireman.webp"
+  },
+  {
+   "id": "wesley-college",
+   "name": "Wesley College",
+   "cat": "colleges",
+   "img": "wesley-college.webp"
+  },
+  {
+   "id": "west-point",
+   "name": "West Point",
+   "cat": "other",
+   "img": "west-point.webp"
+  },
+  {
+   "id": "west-virginia-university",
+   "name": "West Virginia University",
+   "cat": "colleges",
+   "img": "west-virginia-university.webp"
+  },
+  {
+   "id": "wilmington-fire-department",
+   "name": "Wilmington Fire Department",
+   "cat": "firstresponder",
+   "img": "wilmington-fire-department.webp"
+  },
+  {
+   "id": "wilmington-police-department",
+   "name": "Wilmington Police Department",
+   "cat": "firstresponder",
+   "img": "wilmington-police-department.webp"
+  },
+  {
+   "id": "wilmington-university",
+   "name": "Wilmington University",
+   "cat": "colleges",
+   "img": "wilmington-university.webp"
+  },
+  {
+   "id": "women-s-military-monument",
+   "name": "Women's Military Monument",
+   "cat": "military",
+   "img": "women-s-military-monument.webp"
+  },
+  {
+   "id": "world-war-ii",
+   "name": "World War II",
+   "cat": "veterans",
+   "img": "world-war-ii.webp"
+  },
+  {
+   "id": "zeta-phi-beta",
+   "name": "Zeta Phi Beta",
+   "cat": "other",
+   "img": "zeta-phi-beta.webp"
+  }
+ ]
+}

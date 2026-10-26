@@ -9,7 +9,7 @@
 Two games in one page:
 
 - **🗺 States**: the classic. Spot a plate from every state (and DC) on this trip. Tap a state on the map or in the list, and watch the country fill in yellow. Start a new trip when you set off again; the states you've *ever* seen are kept.
-- **✨ Specialty**: the deep cut. Washington has 72 special-design plates, from pickleball to the Muckleshoot Tribe to a plate only for cars built before 1916. Tap one when you spot it. The rarer it is on real roads, the more it's worth. Oregon, Idaho, California and Nevada are here too.
+- **✨ Specialty**: the deep cut. Washington has 72 special-design plates, from pickleball to the Muckleshoot Tribe to a plate only for cars built before 1916. Tap one when you spot it. The rarer it is on real roads, the more it's worth. **Every state is here too: about 7,100 plates in all.** Washington, Oregon, Idaho, California and Nevada are checked against each state's current list; the rest come from a 2023 snapshot and are being checked one state at a time.
 
 No server. No login. No ads. It installs to a phone's home screen and works with no signal.
 
@@ -72,7 +72,9 @@ plate-hunter/
 ├── research/               the curated source lists the tools build from
 └── tools/
     ├── validate.py         checks every data file (runs on every push)
+    ├── research_from_keegan.py  first-draft research lists from the 2023 dataset
     ├── add_state.py        builds a state's collection from a research list
+    ├── index.py            rebuilds data/collections.json
     ├── standard_plates.py  builds the States game's plate pictures
     └── watch_plates.py     the weekly new-plate check
 ```
@@ -104,12 +106,18 @@ python -m http.server 8000
 
 Categories: military, veterans, nature, sports, colleges, firstresponder, charity, hobby, vehicle, tribal, other. Ids are lowercase with dashes and never change once published (finds are saved by id).
 
-### Adding a state
+### Checking a state
 
-1. Make `research/<STATE>.json`: the state's current plates, each with a title, category, and a picture (a file in Jon Keegan's dataset or a URL on the agency site). Mark plates the agency no longer sells as `"status": "discontinued"`.
+Every state starts as a first draft made by `tools/research_from_keegan.py` from Jon Keegan's 2023 dataset: plates nobody sees on a car (dealer, government, motorcycle, trailer, taxi…) dropped, variants of one design folded together, a category guessed from the title, and every entry marked `"status": "keegan-2023"`. The game labels those states *2023 list*.
+
+To check one (Washington, Oregon, Idaho, California and Nevada are done):
+
+1. Open `research/<STATE>.json` beside the state's current plate page. Fix names and categories, set plates the state no longer sells to `"status": "discontinued"`, add new plates (a picture file in Keegan's dataset, or `"source_img"` with the agency's picture address), and change every `"keegan-2023"` to `"current"`. Add `"vehicles"` wherever the state publishes counts; with enough of them the state gets real rarity tiers.
 2. `python tools/add_state.py <STATE> research/<STATE>.json --keegan path/to/us-license-plates`
-3. Add the agency's plate page to `data/watch.json` and the new `data/<STATE>.json` to `FILES` in `sw.js` if it should load offline before it's opened once.
-4. Validate and push.
+3. Add the state's plate page to `data/watch.json` if it isn't there, and `data/<STATE>.json` to `FILES` in `sw.js` so it loads offline before it's opened once.
+4. Validate and push. Pictures known only by address download on GitHub (`fetch-pictures.yml`).
+
+Plate ids come from the names, and finds are saved by id, so rename with care once people have played a state.
 
 ---
 

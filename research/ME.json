@@ -1,0 +1,240 @@
+[
+ {
+  "title": "Agriculture - Commerical",
+  "keegan_img": "acplate.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.maine.gov/sos/bmv/registration/agplates.html"
+ },
+ {
+  "title": "Agriculture",
+  "keegan_img": "agplate.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.maine.gov/sos/bmv/registration/agplates.html"
+ },
+ {
+  "title": "Amputee/Loss of Use of Limb(s), or Blind Veteran",
+  "keegan_img": "passengerplt.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.maine.gov/sos/bmv/registration/availablevet.html"
+ },
+ {
+  "title": "Animal Welfare",
+  "keegan_img": "awplate.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.maine.gov/sos/bmv/registration/awplate.html"
+ },
+ {
+  "title": "Antique",
+  "keegan_img": "AQ.gif",
+  "cat": "vehicle",
+  "status": "keegan-2023",
+  "source": "https://apps1.web.maine.gov/cgi-bin/online/bmv/vanity/select_type"
+ },
+ {
+  "title": "Barbara Bush Childrens Hospital",
+  "keegan_img": "bushplate.png",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.maine.gov/sos/bmv/registration/bushplate.html"
+ },
+ {
+  "title": "Black Bear",
+  "keegan_img": "blackbearplate.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.maine.gov/sos/bmv/registration/bbplate.html"
+ },
+ {
+  "title": "Breast Cancer Support",
+  "keegan_img": "bcplate.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.maine.gov/sos/bmv/registration/bcplate.html"
+ },
+ {
+  "title": "Combination",
+  "keegan_img": "CM.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://apps1.web.maine.gov/cgi-bin/online/bmv/vanity/select_type"
+ },
+ {
+  "title": "Conservation",
+  "keegan_img": "Cr.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.maine.gov/sos/bmv/registration/crplate.html"
+ },
+ {
+  "title": "Custom",
+  "keegan_img": "CV.gif",
+  "cat": "vehicle",
+  "status": "keegan-2023",
+  "source": "https://apps1.web.maine.gov/cgi-bin/online/bmv/vanity/select_type"
+ },
+ {
+  "title": "Disability",
+  "keegan_img": "DX.gif",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://apps1.web.maine.gov/cgi-bin/online/bmv/vanity/select_type"
+ },
+ {
+  "title": "Disability Special Veteran",
+  "keegan_img": "dsplates.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.maine.gov/sos/bmv/registration/availablevet.html"
+ },
+ {
+  "title": "Disability Special Veteran- Decal",
+  "keegan_img": "dsdecal.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.maine.gov/sos/bmv/registration/availablevet.html"
+ },
+ {
+  "title": "Disabled Veteran Parking",
+  "keegan_img": "vxplate1.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.maine.gov/sos/bmv/registration/availablevet.html"
+ },
+ {
+  "title": "Disabled Veteran",
+  "keegan_img": "disablevetplt.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.maine.gov/sos/bmv/registration/availablevet.html"
+ },
+ {
+  "title": "Emergency Medical Services",
+  "keegan_img": "EMS Plate.png",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://www.maine.gov/sos/bmv/registration/emsplate.html"
+ },
+ {
+  "title": "Firefighter",
+  "keegan_img": "FD.gif",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://apps1.web.maine.gov/cgi-bin/online/bmv/vanity/select_type"
+ },
+ {
+  "title": "Gold Star Family - Gold",
+  "keegan_img": "goldstarplate2.png",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.maine.gov/sos/bmv/registration/availablevet.html"
+ },
+ {
+  "title": "Gold Star Family - Purple",
+  "keegan_img": "goldstarplate1.png",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.maine.gov/sos/bmv/registration/availablevet.html"
+ },
+ {
+  "title": "Hire",
+  "keegan_img": "TX.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://apps1.web.maine.gov/cgi-bin/online/bmv/vanity/select_type"
+ },
+ {
+  "title": "Lighthouse Trust",
+  "keegan_img": "lighthouse.png",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.maine.gov/sos/bmv/registration/lhplate.html"
+ },
+ {
+  "title": "Lobster",
+  "keegan_img": "lobsterplt.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.maine.gov/sos/bmv/registration/lobplates.html"
+ },
+ {
+  "title": "Motor Home",
+  "keegan_img": "MH.gif",
+  "cat": "vehicle",
+  "status": "keegan-2023",
+  "source": "https://apps1.web.maine.gov/cgi-bin/online/bmv/vanity/select_type"
+ },
+ {
+  "title": "Pearl Harbor Survivor",
+  "keegan_img": "pearlharborplt.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.maine.gov/sos/bmv/registration/availablevet.html"
+ },
+ {
+  "title": "Purple Heart",
+  "keegan_img": "purpleheartplt.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.maine.gov/sos/bmv/registration/availablevet.html"
+ },
+ {
+  "title": "Special Veteran",
+  "keegan_img": "vtplates.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.maine.gov/sos/bmv/registration/availablevet.html"
+ },
+ {
+  "title": "Special Veteran- Decal",
+  "keegan_img": "vtdecal.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.maine.gov/sos/bmv/registration/availablevet.html"
+ },
+ {
+  "title": "Sportsman",
+  "keegan_img": "swplate.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.maine.gov/sos/bmv/registration/swplate.html"
+ },
+ {
+  "title": "Street Rod",
+  "keegan_img": "SR.gif",
+  "cat": "vehicle",
+  "status": "keegan-2023",
+  "source": "https://apps1.web.maine.gov/cgi-bin/online/bmv/vanity/select_type"
+ },
+ {
+  "title": "Support Troops",
+  "keegan_img": "tsplate.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.maine.gov/sos/bmv/registration/tsplate.html"
+ },
+ {
+  "title": "University of Maine",
+  "keegan_img": "um.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.maine.gov/sos/bmv/registration/umplate.html"
+ },
+ {
+  "title": "Wabanaki",
+  "keegan_img": "WB.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://apps1.web.maine.gov/cgi-bin/online/bmv/vanity/select_type"
+ },
+ {
+  "title": "Wabanaki Recognition",
+  "keegan_img": "Wabanaki.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.maine.gov/sos/bmv/registration/wbplate.html"
+ }
+]

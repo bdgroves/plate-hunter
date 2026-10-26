@@ -1,0 +1,1018 @@
+{
+ "code": "NY",
+ "name": "New York",
+ "rated": false,
+ "checked": false,
+ "updated": "2026-10-25",
+ "about": "New York special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "sources": [
+  {
+   "title": "Jon Keegan, us-license-plates (2023)",
+   "url": "https://github.com/jonkeegan/us-license-plates"
+  }
+ ],
+ "plates": [
+  {
+   "id": "40-8-the-grande-voiture-du-new-york-la-s",
+   "name": "40 & 8 - The Grande Voiture du New York, La Societe Des Quarante Hommes et Huit Chevaux",
+   "cat": "other",
+   "img": "40-8-the-grande-voiture-du-new-york-la-s.webp"
+  },
+  {
+   "id": "9-11-remembrance",
+   "name": "9-11 Remembrance",
+   "cat": "other",
+   "img": "9-11-remembrance.webp"
+  },
+  {
+   "id": "acupuncturist",
+   "name": "Acupuncturist",
+   "cat": "other",
+   "img": "acupuncturist.webp"
+  },
+  {
+   "id": "agriculture-in-the-classroom",
+   "name": "Agriculture in the Classroom",
+   "cat": "charity",
+   "img": "agriculture-in-the-classroom.webp"
+  },
+  {
+   "id": "air-force-reserve",
+   "name": "Air Force Reserve",
+   "cat": "military",
+   "img": "air-force-reserve.webp"
+  },
+  {
+   "id": "air-national-guard",
+   "name": "Air National Guard",
+   "cat": "military",
+   "img": "air-national-guard.webp"
+  },
+  {
+   "id": "airborne",
+   "name": "Airborne",
+   "cat": "military",
+   "img": "airborne.webp"
+  },
+  {
+   "id": "american-legion",
+   "name": "American Legion",
+   "cat": "veterans",
+   "img": "american-legion.webp"
+  },
+  {
+   "id": "amvets",
+   "name": "AMVETS",
+   "cat": "veterans",
+   "img": "amvets.webp"
+  },
+  {
+   "id": "army-national-guard",
+   "name": "Army National Guard",
+   "cat": "military",
+   "img": "army-national-guard.webp"
+  },
+  {
+   "id": "army-reserve",
+   "name": "Army Reserve",
+   "cat": "military",
+   "img": "army-reserve.webp"
+  },
+  {
+   "id": "autism-society-of-america",
+   "name": "Autism Society of America",
+   "cat": "charity",
+   "img": "autism-society-of-america.webp"
+  },
+  {
+   "id": "birthplace-of-baseball",
+   "name": "Birthplace of Baseball",
+   "cat": "sports",
+   "img": "birthplace-of-baseball.webp"
+  },
+  {
+   "id": "bluebird-environmental",
+   "name": "Bluebird Environmental",
+   "cat": "nature",
+   "img": "bluebird-environmental.webp"
+  },
+  {
+   "id": "brooklyn-dodgers",
+   "name": "Brooklyn Dodgers",
+   "cat": "sports",
+   "img": "brooklyn-dodgers.webp"
+  },
+  {
+   "id": "brooklyn-nets",
+   "name": "Brooklyn Nets",
+   "cat": "other",
+   "img": "brooklyn-nets.webp"
+  },
+  {
+   "id": "buffalo-bandits",
+   "name": "Buffalo Bandits",
+   "cat": "nature",
+   "img": "buffalo-bandits.webp"
+  },
+  {
+   "id": "buffalo-bills",
+   "name": "Buffalo Bills",
+   "cat": "sports",
+   "img": "buffalo-bills.webp"
+  },
+  {
+   "id": "buffalo-sabres",
+   "name": "Buffalo Sabres",
+   "cat": "nature",
+   "img": "buffalo-sabres.webp"
+  },
+  {
+   "id": "capital-region",
+   "name": "Capital Region",
+   "cat": "other",
+   "img": "capital-region.webp"
+  },
+  {
+   "id": "catholic-war-veterans-of-america",
+   "name": "Catholic War Veterans of America",
+   "cat": "veterans",
+   "img": "catholic-war-veterans-of-america.webp"
+  },
+  {
+   "id": "central-new-york-region",
+   "name": "Central New York Region",
+   "cat": "other",
+   "img": "central-new-york-region.webp"
+  },
+  {
+   "id": "certified-public-accountant",
+   "name": "Certified Public Accountant",
+   "cat": "other",
+   "img": "certified-public-accountant.webp"
+  },
+  {
+   "id": "chiropractor-dch",
+   "name": "Chiropractor DCH",
+   "cat": "other",
+   "img": "chiropractor-dch.webp"
+  },
+  {
+   "id": "chiropractor-nysca",
+   "name": "Chiropractor NYSCA",
+   "cat": "other",
+   "img": "chiropractor-nysca.webp"
+  },
+  {
+   "id": "city-college-of-new-york",
+   "name": "City College of New York",
+   "cat": "colleges",
+   "img": "city-college-of-new-york.webp"
+  },
+  {
+   "id": "civil-air-patrol",
+   "name": "Civil Air Patrol",
+   "cat": "other",
+   "img": "civil-air-patrol.webp"
+  },
+  {
+   "id": "clarkson-university",
+   "name": "Clarkson University",
+   "cat": "colleges",
+   "img": "clarkson-university.webp"
+  },
+  {
+   "id": "coast-guard-auxiliary",
+   "name": "Coast Guard Auxiliary",
+   "cat": "military",
+   "img": "coast-guard-auxiliary.webp"
+  },
+  {
+   "id": "coast-guard-reserve",
+   "name": "Coast Guard Reserve",
+   "cat": "military",
+   "img": "coast-guard-reserve.webp"
+  },
+  {
+   "id": "combat-infantrymen",
+   "name": "Combat Infantrymen",
+   "cat": "veterans",
+   "img": "combat-infantrymen.webp"
+  },
+  {
+   "id": "congressional-medal-of-honor",
+   "name": "Congressional Medal of Honor",
+   "cat": "veterans",
+   "img": "congressional-medal-of-honor.webp"
+  },
+  {
+   "id": "conserve-habitat",
+   "name": "Conserve Habitat",
+   "cat": "nature",
+   "img": "conserve-habitat.webp"
+  },
+  {
+   "id": "cure-childhood-cancer",
+   "name": "Cure Childhood Cancer",
+   "cat": "charity",
+   "img": "cure-childhood-cancer.webp"
+  },
+  {
+   "id": "dale-earnhardt-nascar-hall-of-fame",
+   "name": "Dale Earnhardt NASCAR Hall of Fame",
+   "cat": "sports",
+   "img": "dale-earnhardt-nascar-hall-of-fame.webp"
+  },
+  {
+   "id": "denny-hamlin",
+   "name": "Denny Hamlin",
+   "cat": "other",
+   "img": "denny-hamlin.webp"
+  },
+  {
+   "id": "disabled-american-veteran",
+   "name": "Disabled American Veteran",
+   "cat": "veterans",
+   "img": "disabled-american-veteran.webp"
+  },
+  {
+   "id": "disabled-veteran",
+   "name": "Disabled Veteran",
+   "cat": "veterans",
+   "img": "disabled-veteran.webp"
+  },
+  {
+   "id": "discover-queens",
+   "name": "Discover Queens",
+   "cat": "other",
+   "img": "discover-queens.webp"
+  },
+  {
+   "id": "doctor-of-dental-surgery",
+   "name": "Doctor of Dental Surgery",
+   "cat": "other",
+   "img": "doctor-of-dental-surgery.webp"
+  },
+  {
+   "id": "down-syndrome-awareness",
+   "name": "Down Syndrome Awareness",
+   "cat": "charity",
+   "img": "down-syndrome-awareness.webp"
+  },
+  {
+   "id": "drive-for-the-cure",
+   "name": "Drive for the Cure",
+   "cat": "other",
+   "img": "drive-for-the-cure.webp"
+  },
+  {
+   "id": "drive-out-diabetes",
+   "name": "Drive Out Diabetes",
+   "cat": "charity",
+   "img": "drive-out-diabetes.webp"
+  },
+  {
+   "id": "ducks-unlimited",
+   "name": "Ducks Unlimited",
+   "cat": "nature",
+   "img": "ducks-unlimited.webp"
+  },
+  {
+   "id": "eighth-air-force-historical-society",
+   "name": "Eighth Air Force Historical Society",
+   "cat": "military",
+   "img": "eighth-air-force-historical-society.webp"
+  },
+  {
+   "id": "emergency-medical-technician",
+   "name": "Emergency Medical Technician",
+   "cat": "firstresponder",
+   "img": "emergency-medical-technician.webp"
+  },
+  {
+   "id": "emergency-medical-technician-paramedic",
+   "name": "Emergency Medical Technician Paramedic",
+   "cat": "firstresponder",
+   "img": "emergency-medical-technician-paramedic.webp"
+  },
+  {
+   "id": "empire-state-flower",
+   "name": "Empire State Flower",
+   "cat": "nature",
+   "img": "empire-state-flower.webp"
+  },
+  {
+   "id": "end-domestic-violence",
+   "name": "End Domestic Violence",
+   "cat": "charity",
+   "img": "end-domestic-violence.webp"
+  },
+  {
+   "id": "excelsior",
+   "name": "Excelsior",
+   "cat": "other",
+   "img": "excelsior.webp"
+  },
+  {
+   "id": "finger-lakes-region",
+   "name": "Finger Lakes Region",
+   "cat": "nature",
+   "img": "finger-lakes-region.webp"
+  },
+  {
+   "id": "fishing-striped-bass-motor-cycle",
+   "name": "Fishing - Striped Bass (motor)cycle",
+   "cat": "nature",
+   "img": "fishing-striped-bass-motor-cycle.webp"
+  },
+  {
+   "id": "fishing-striped-bass",
+   "name": "Fishing - Striped Bass",
+   "cat": "nature",
+   "img": "fishing-striped-bass.webp"
+  },
+  {
+   "id": "fishing-trout",
+   "name": "Fishing - Trout",
+   "cat": "nature",
+   "img": "fishing-trout.webp"
+  },
+  {
+   "id": "fishing-walleye",
+   "name": "Fishing - Walleye",
+   "cat": "nature",
+   "img": "fishing-walleye.webp"
+  },
+  {
+   "id": "fordham-university",
+   "name": "Fordham University",
+   "cat": "colleges",
+   "img": "fordham-university.webp"
+  },
+  {
+   "id": "former-prisoner-of-war",
+   "name": "Former Prisoner of War",
+   "cat": "veterans",
+   "img": "former-prisoner-of-war.webp"
+  },
+  {
+   "id": "giants-super-bowl-champs-2012",
+   "name": "Giants Super Bowl Champs 2012",
+   "cat": "sports",
+   "img": "giants-super-bowl-champs-2012.webp"
+  },
+  {
+   "id": "gold-star-mother",
+   "name": "Gold Star Mother",
+   "cat": "veterans",
+   "img": "gold-star-mother.webp"
+  },
+  {
+   "id": "ham-radio-operator",
+   "name": "Ham Radio Operator",
+   "cat": "hobby",
+   "img": "ham-radio-operator.webp"
+  },
+  {
+   "id": "hunting-deer",
+   "name": "Hunting - Deer",
+   "cat": "nature",
+   "img": "hunting-deer.webp"
+  },
+  {
+   "id": "hunting-duck",
+   "name": "Hunting - Duck",
+   "cat": "nature",
+   "img": "hunting-duck.webp"
+  },
+  {
+   "id": "hunting-turkey",
+   "name": "Hunting - Turkey",
+   "cat": "nature",
+   "img": "hunting-turkey.webp"
+  },
+  {
+   "id": "i-love-ny",
+   "name": "I Love NY",
+   "cat": "other",
+   "img": "i-love-ny.webp"
+  },
+  {
+   "id": "indiana-university",
+   "name": "Indiana University",
+   "cat": "colleges",
+   "img": "indiana-university.webp"
+  },
+  {
+   "id": "iona-college",
+   "name": "Iona College",
+   "cat": "colleges",
+   "img": "iona-college.webp"
+  },
+  {
+   "id": "jewish-war-veterans-of-america",
+   "name": "Jewish War Veterans of America",
+   "cat": "veterans",
+   "img": "jewish-war-veterans-of-america.webp"
+  },
+  {
+   "id": "keep-kids-drug-free",
+   "name": "Keep Kids Drug Free",
+   "cat": "charity",
+   "img": "keep-kids-drug-free.webp"
+  },
+  {
+   "id": "kevin-harvick",
+   "name": "Kevin Harvick",
+   "cat": "other",
+   "img": "kevin-harvick.webp"
+  },
+  {
+   "id": "korean-war-veterans",
+   "name": "Korean War Veterans",
+   "cat": "veterans",
+   "img": "korean-war-veterans.webp"
+  },
+  {
+   "id": "life-pass-it-on",
+   "name": "Life... Pass It On",
+   "cat": "other",
+   "img": "life-pass-it-on.webp"
+  },
+  {
+   "id": "long-island-ducks",
+   "name": "Long Island Ducks",
+   "cat": "nature",
+   "img": "long-island-ducks.webp"
+  },
+  {
+   "id": "long-island-region",
+   "name": "Long Island Region",
+   "cat": "nature",
+   "img": "long-island-region.webp"
+  },
+  {
+   "id": "love-your-library",
+   "name": "Love Your Library",
+   "cat": "charity",
+   "img": "love-your-library.webp"
+  },
+  {
+   "id": "lupus-awareness",
+   "name": "Lupus Awareness",
+   "cat": "charity",
+   "img": "lupus-awareness.webp"
+  },
+  {
+   "id": "marine-and-coastal-district-of-new-york-",
+   "name": "Marine and Coastal District of New York Environmental",
+   "cat": "military",
+   "img": "marine-and-coastal-district-of-new-york-.webp"
+  },
+  {
+   "id": "marine-corps-league",
+   "name": "Marine Corps League",
+   "cat": "military",
+   "img": "marine-corps-league.webp"
+  },
+  {
+   "id": "marine-corps-reserve",
+   "name": "Marine Corps Reserve",
+   "cat": "military",
+   "img": "marine-corps-reserve.webp"
+  },
+  {
+   "id": "martin-truex-jr",
+   "name": "Martin Truex, Jr.",
+   "cat": "other",
+   "img": "martin-truex-jr.webp"
+  },
+  {
+   "id": "medical-doctor",
+   "name": "Medical Doctor",
+   "cat": "other",
+   "img": "medical-doctor.webp"
+  },
+  {
+   "id": "mental-health-awareness",
+   "name": "Mental Health Awareness",
+   "cat": "charity",
+   "img": "mental-health-awareness.webp"
+  },
+  {
+   "id": "mid-hudson-region",
+   "name": "Mid-Hudson Region",
+   "cat": "other",
+   "img": "mid-hudson-region.webp"
+  },
+  {
+   "id": "mohawk-valley-region",
+   "name": "Mohawk Valley Region",
+   "cat": "nature",
+   "img": "mohawk-valley-region.webp"
+  },
+  {
+   "id": "nascar-fan",
+   "name": "NASCAR Fan",
+   "cat": "sports",
+   "img": "nascar-fan.webp"
+  },
+  {
+   "id": "nascar-five-bar",
+   "name": "NASCAR Five Bar",
+   "cat": "sports",
+   "img": "nascar-five-bar.webp"
+  },
+  {
+   "id": "nascar-track",
+   "name": "NASCAR Track",
+   "cat": "sports",
+   "img": "nascar-track.webp"
+  },
+  {
+   "id": "national-multiple-sclerosis-society",
+   "name": "National Multiple Sclerosis Society",
+   "cat": "charity",
+   "img": "national-multiple-sclerosis-society.webp"
+  },
+  {
+   "id": "naval-militia",
+   "name": "Naval Militia",
+   "cat": "other",
+   "img": "naval-militia.webp"
+  },
+  {
+   "id": "navy-reserve",
+   "name": "Navy Reserve",
+   "cat": "military",
+   "img": "navy-reserve.webp"
+  },
+  {
+   "id": "new-york-city-region",
+   "name": "New York City Region",
+   "cat": "other",
+   "img": "new-york-city-region.webp"
+  },
+  {
+   "id": "new-york-giants",
+   "name": "New York Giants",
+   "cat": "sports",
+   "img": "new-york-giants.webp"
+  },
+  {
+   "id": "new-york-islanders",
+   "name": "New York Islanders",
+   "cat": "nature",
+   "img": "new-york-islanders.webp"
+  },
+  {
+   "id": "new-york-jets",
+   "name": "New York Jets",
+   "cat": "sports",
+   "img": "new-york-jets.webp"
+  },
+  {
+   "id": "new-york-mets",
+   "name": "New York Mets",
+   "cat": "sports",
+   "img": "new-york-mets.webp"
+  },
+  {
+   "id": "new-york-press",
+   "name": "New York Press",
+   "cat": "hobby",
+   "img": "new-york-press.webp"
+  },
+  {
+   "id": "new-york-rangers",
+   "name": "New York Rangers",
+   "cat": "military",
+   "img": "new-york-rangers.webp"
+  },
+  {
+   "id": "new-york-state-cultural-institutions-and",
+   "name": "New York State Cultural Institutions and Museums",
+   "cat": "charity",
+   "img": "new-york-state-cultural-institutions-and.webp"
+  },
+  {
+   "id": "new-york-state-dental-association-dds",
+   "name": "New York State Dental Association DDS",
+   "cat": "charity",
+   "img": "new-york-state-dental-association-dds.webp"
+  },
+  {
+   "id": "new-york-state-dental-association-dmd",
+   "name": "New York State Dental Association DMD",
+   "cat": "charity",
+   "img": "new-york-state-dental-association-dmd.webp"
+  },
+  {
+   "id": "new-york-state-fair",
+   "name": "New York State Fair",
+   "cat": "other",
+   "img": "new-york-state-fair.webp"
+  },
+  {
+   "id": "new-york-state-police-investigators-asso",
+   "name": "New York State Police Investigators Association - Surgeons Group",
+   "cat": "firstresponder",
+   "img": "new-york-state-police-investigators-asso.webp"
+  },
+  {
+   "id": "new-york-yankees",
+   "name": "New York Yankees",
+   "cat": "sports",
+   "img": "new-york-yankees.webp"
+  },
+  {
+   "id": "new-york-yankees-world-series-champions-",
+   "name": "New York Yankees World Series Champions 2009",
+   "cat": "sports",
+   "img": "new-york-yankees-world-series-champions-.webp"
+  },
+  {
+   "id": "north-country-region",
+   "name": "North Country Region",
+   "cat": "other",
+   "img": "north-country-region.webp"
+  },
+  {
+   "id": "nurse-practitioner",
+   "name": "Nurse Practitioner",
+   "cat": "other",
+   "img": "nurse-practitioner.webp"
+  },
+  {
+   "id": "ny-knicks",
+   "name": "NY Knicks",
+   "cat": "sports",
+   "img": "ny-knicks.webp"
+  },
+  {
+   "id": "optometrist-ophthalmic-dispenser-opticia",
+   "name": "Optometrist/Ophthalmic Dispenser/Optician",
+   "cat": "other",
+   "img": "optometrist-ophthalmic-dispenser-opticia.webp"
+  },
+  {
+   "id": "our-best-friends",
+   "name": "Our Best Friends",
+   "cat": "other",
+   "img": "our-best-friends.webp"
+  },
+  {
+   "id": "parks-beach-scene",
+   "name": "Parks - Beach Scene",
+   "cat": "nature",
+   "img": "parks-beach-scene.webp"
+  },
+  {
+   "id": "parks-bridge-scene",
+   "name": "Parks - Bridge Scene",
+   "cat": "nature",
+   "img": "parks-bridge-scene.webp"
+  },
+  {
+   "id": "parks-niagara-falls-scene",
+   "name": "Parks - Niagara Falls Scene",
+   "cat": "nature",
+   "img": "parks-niagara-falls-scene.webp"
+  },
+  {
+   "id": "pearl-harbor-survivor",
+   "name": "Pearl Harbor Survivor",
+   "cat": "veterans",
+   "img": "pearl-harbor-survivor.webp"
+  },
+  {
+   "id": "penn-state",
+   "name": "Penn State",
+   "cat": "other",
+   "img": "penn-state.webp"
+  },
+  {
+   "id": "people-for-the-ethical-treatment-of-anim",
+   "name": "People for the Ethical Treatment of Animals",
+   "cat": "charity",
+   "img": "people-for-the-ethical-treatment-of-anim.webp"
+  },
+  {
+   "id": "persian-gulf-veteran",
+   "name": "Persian Gulf Veteran",
+   "cat": "veterans",
+   "img": "persian-gulf-veteran.webp"
+  },
+  {
+   "id": "pharmacist",
+   "name": "Pharmacist",
+   "cat": "other",
+   "img": "pharmacist.webp"
+  },
+  {
+   "id": "phi-beta-sigma",
+   "name": "Phi Beta Sigma",
+   "cat": "other",
+   "img": "phi-beta-sigma.webp"
+  },
+  {
+   "id": "physical-therapist",
+   "name": "Physical Therapist",
+   "cat": "other",
+   "img": "physical-therapist.webp"
+  },
+  {
+   "id": "physician-assistant",
+   "name": "Physician Assistant",
+   "cat": "other",
+   "img": "physician-assistant.webp"
+  },
+  {
+   "id": "podiatrist",
+   "name": "Podiatrist",
+   "cat": "other",
+   "img": "podiatrist.webp"
+  },
+  {
+   "id": "professional-engineer",
+   "name": "Professional Engineer",
+   "cat": "other",
+   "img": "professional-engineer.webp"
+  },
+  {
+   "id": "psychologist",
+   "name": "Psychologist",
+   "cat": "other",
+   "img": "psychologist.webp"
+  },
+  {
+   "id": "purple-heart-recipient",
+   "name": "Purple Heart Recipient",
+   "cat": "veterans",
+   "img": "purple-heart-recipient.webp"
+  },
+  {
+   "id": "registered-architect",
+   "name": "Registered Architect",
+   "cat": "other",
+   "img": "registered-architect.webp"
+  },
+  {
+   "id": "registered-nurse",
+   "name": "Registered Nurse",
+   "cat": "other",
+   "img": "registered-nurse.webp"
+  },
+  {
+   "id": "respiratory-therapist",
+   "name": "Respiratory Therapist",
+   "cat": "other",
+   "img": "respiratory-therapist.webp"
+  },
+  {
+   "id": "richard-petty-historical",
+   "name": "Richard Petty Historical",
+   "cat": "other",
+   "img": "richard-petty-historical.webp"
+  },
+  {
+   "id": "rochester-americans",
+   "name": "Rochester Americans",
+   "cat": "other",
+   "img": "rochester-americans.webp"
+  },
+  {
+   "id": "rochester-institute-of-technology",
+   "name": "Rochester Institute of Technology",
+   "cat": "colleges",
+   "img": "rochester-institute-of-technology.webp"
+  },
+  {
+   "id": "rochester-raging-rhinos",
+   "name": "Rochester Raging Rhinos",
+   "cat": "other",
+   "img": "rochester-raging-rhinos.webp"
+  },
+  {
+   "id": "rochester-red-wings",
+   "name": "Rochester Red Wings",
+   "cat": "other",
+   "img": "rochester-red-wings.webp"
+  },
+  {
+   "id": "ross-chastain",
+   "name": "Ross Chastain",
+   "cat": "other",
+   "img": "ross-chastain.webp"
+  },
+  {
+   "id": "saratoga-horse-racing",
+   "name": "Saratoga Horse Racing",
+   "cat": "sports",
+   "img": "saratoga-horse-racing.webp"
+  },
+  {
+   "id": "saratoga-national-cemetery-honor-guard-a",
+   "name": "Saratoga National Cemetery Honor Guard Association",
+   "cat": "charity",
+   "img": "saratoga-national-cemetery-honor-guard-a.webp"
+  },
+  {
+   "id": "saratoga-cortez",
+   "name": "Saratoga/Cortez",
+   "cat": "other",
+   "img": "saratoga-cortez.webp"
+  },
+  {
+   "id": "schenectady-proctor-s-theatre",
+   "name": "Schenectady/Proctor's Theatre",
+   "cat": "other",
+   "img": "schenectady-proctor-s-theatre.webp"
+  },
+  {
+   "id": "skidmore-college",
+   "name": "Skidmore College",
+   "cat": "colleges",
+   "img": "skidmore-college.webp"
+  },
+  {
+   "id": "southern-tier-region",
+   "name": "Southern Tier Region",
+   "cat": "other",
+   "img": "southern-tier-region.webp"
+  },
+  {
+   "id": "st-lawrence-university",
+   "name": "St. Lawrence University",
+   "cat": "colleges",
+   "img": "st-lawrence-university.webp"
+  },
+  {
+   "id": "state-guard",
+   "name": "State Guard",
+   "cat": "other",
+   "img": "state-guard.webp"
+  },
+  {
+   "id": "state-of-the-arts",
+   "name": "State of the Arts",
+   "cat": "hobby",
+   "img": "state-of-the-arts.webp"
+  },
+  {
+   "id": "stony-brook-university",
+   "name": "Stony Brook University",
+   "cat": "colleges",
+   "img": "stony-brook-university.webp"
+  },
+  {
+   "id": "syracuse-university",
+   "name": "Syracuse University",
+   "cat": "colleges",
+   "img": "syracuse-university.webp"
+  },
+  {
+   "id": "union-college",
+   "name": "Union College",
+   "cat": "colleges",
+   "img": "union-college.webp"
+  },
+  {
+   "id": "united-states-military-academy-west-poin",
+   "name": "United States Military Academy - West Point",
+   "cat": "military",
+   "img": "united-states-military-academy-west-poin.webp"
+  },
+  {
+   "id": "university-at-albany",
+   "name": "University at Albany",
+   "cat": "colleges",
+   "img": "university-at-albany.webp"
+  },
+  {
+   "id": "university-of-michigan",
+   "name": "University of Michigan",
+   "cat": "colleges",
+   "img": "university-of-michigan.webp"
+  },
+  {
+   "id": "us-air-force-veteran",
+   "name": "US Air Force Veteran",
+   "cat": "veterans",
+   "img": "us-air-force-veteran.webp"
+  },
+  {
+   "id": "us-army-veteran",
+   "name": "US Army Veteran",
+   "cat": "veterans",
+   "img": "us-army-veteran.webp"
+  },
+  {
+   "id": "us-coast-guard-veteran",
+   "name": "US Coast Guard Veteran",
+   "cat": "veterans",
+   "img": "us-coast-guard-veteran.webp"
+  },
+  {
+   "id": "us-marine-corps-veteran",
+   "name": "US Marine Corps Veteran",
+   "cat": "veterans",
+   "img": "us-marine-corps-veteran.webp"
+  },
+  {
+   "id": "us-naval-armed-guard",
+   "name": "US Naval Armed Guard",
+   "cat": "other",
+   "img": "us-naval-armed-guard.webp"
+  },
+  {
+   "id": "us-navy-veteran",
+   "name": "US Navy Veteran",
+   "cat": "veterans",
+   "img": "us-navy-veteran.webp"
+  },
+  {
+   "id": "us-submarine-veterans",
+   "name": "US Submarine Veterans",
+   "cat": "veterans",
+   "img": "us-submarine-veterans.webp"
+  },
+  {
+   "id": "us-veteran",
+   "name": "US Veteran",
+   "cat": "veterans",
+   "img": "us-veteran.webp"
+  },
+  {
+   "id": "veterans-of-foreign-wars",
+   "name": "Veterans of Foreign Wars",
+   "cat": "veterans",
+   "img": "veterans-of-foreign-wars.webp"
+  },
+  {
+   "id": "veterinarian",
+   "name": "Veterinarian",
+   "cat": "other",
+   "img": "veterinarian.webp"
+  },
+  {
+   "id": "vietnam-veteran",
+   "name": "Vietnam Veteran",
+   "cat": "veterans",
+   "img": "vietnam-veteran.webp"
+  },
+  {
+   "id": "vietnam-veterans-of-america",
+   "name": "Vietnam Veterans of America",
+   "cat": "veterans",
+   "img": "vietnam-veterans-of-america.webp"
+  },
+  {
+   "id": "visiting-nurse",
+   "name": "Visiting Nurse",
+   "cat": "other",
+   "img": "visiting-nurse.webp"
+  },
+  {
+   "id": "volunteer-ambulance-service",
+   "name": "Volunteer Ambulance Service",
+   "cat": "other",
+   "img": "volunteer-ambulance-service.webp"
+  },
+  {
+   "id": "volunteer-firefighter",
+   "name": "Volunteer Firefighter",
+   "cat": "firstresponder",
+   "img": "volunteer-firefighter.webp"
+  },
+  {
+   "id": "war-on-terror-veteran",
+   "name": "War on Terror Veteran",
+   "cat": "veterans",
+   "img": "war-on-terror-veteran.webp"
+  },
+  {
+   "id": "water-rescue-team",
+   "name": "Water Rescue Team",
+   "cat": "firstresponder",
+   "img": "water-rescue-team.webp"
+  },
+  {
+   "id": "watkins-glen-international",
+   "name": "Watkins Glen International",
+   "cat": "other",
+   "img": "watkins-glen-international.webp"
+  },
+  {
+   "id": "western-new-york-region",
+   "name": "Western New York Region",
+   "cat": "other",
+   "img": "western-new-york-region.webp"
+  },
+  {
+   "id": "world-war-ii-veterans",
+   "name": "World War II Veterans",
+   "cat": "veterans",
+   "img": "world-war-ii-veterans.webp"
+  }
+ ]
+}

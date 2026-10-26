@@ -1,0 +1,1612 @@
+{
+ "code": "OK",
+ "name": "Oklahoma",
+ "rated": false,
+ "checked": false,
+ "updated": "2026-10-25",
+ "about": "Oklahoma special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "sources": [
+  {
+   "title": "Jon Keegan, us-license-plates (2023)",
+   "url": "https://github.com/jonkeegan/us-license-plates"
+  }
+ ],
+ "plates": [
+  {
+   "id": "180th-infantry",
+   "name": "180th Infantry",
+   "cat": "other",
+   "img": "180th-infantry.webp"
+  },
+  {
+   "id": "abate-of-oklahoma",
+   "name": "ABATE of Oklahoma",
+   "cat": "other",
+   "img": "abate-of-oklahoma.webp"
+  },
+  {
+   "id": "adoption-creates-families",
+   "name": "Adoption Creates Families",
+   "cat": "charity",
+   "img": "adoption-creates-families.webp"
+  },
+  {
+   "id": "afghanistan-combat-veteran",
+   "name": "Afghanistan Combat Veteran",
+   "cat": "veterans",
+   "img": "afghanistan-combat-veteran.webp"
+  },
+  {
+   "id": "agricultural-awareness",
+   "name": "Agricultural Awareness",
+   "cat": "charity",
+   "img": "agricultural-awareness.webp"
+  },
+  {
+   "id": "alpha-kappa-alpha",
+   "name": "Alpha Kappa Alpha",
+   "cat": "other",
+   "img": "alpha-kappa-alpha.webp"
+  },
+  {
+   "id": "alpha-phi-alpha",
+   "name": "Alpha Phi Alpha",
+   "cat": "other",
+   "img": "alpha-phi-alpha.webp"
+  },
+  {
+   "id": "amateur-radio-back",
+   "name": "Amateur Radio - Back",
+   "cat": "hobby",
+   "img": "amateur-radio-back.webp"
+  },
+  {
+   "id": "amateur-radio-front",
+   "name": "Amateur Radio - Front",
+   "cat": "hobby",
+   "img": "amateur-radio-front.webp"
+  },
+  {
+   "id": "ambucs",
+   "name": "AMBUCS",
+   "cat": "other",
+   "img": "ambucs.webp"
+  },
+  {
+   "id": "american-legion",
+   "name": "American Legion",
+   "cat": "veterans",
+   "img": "american-legion.webp"
+  },
+  {
+   "id": "american-quarter-horse",
+   "name": "American Quarter Horse",
+   "cat": "hobby",
+   "img": "american-quarter-horse.webp"
+  },
+  {
+   "id": "animal-friendly",
+   "name": "Animal Friendly",
+   "cat": "charity",
+   "img": "animal-friendly.webp"
+  },
+  {
+   "id": "antique-or-classic",
+   "name": "Antique or Classic",
+   "cat": "vehicle",
+   "img": "antique-or-classic.webp"
+  },
+  {
+   "id": "autism-awareness",
+   "name": "Autism Awareness",
+   "cat": "charity",
+   "img": "autism-awareness.webp"
+  },
+  {
+   "id": "bacone-college",
+   "name": "Bacone College",
+   "cat": "colleges",
+   "img": "bacone-college.webp"
+  },
+  {
+   "id": "balloonist",
+   "name": "Balloonist",
+   "cat": "other",
+   "img": "balloonist.webp"
+  },
+  {
+   "id": "benevolent-order-of-elks",
+   "name": "Benevolent Order of Elks",
+   "cat": "nature",
+   "img": "benevolent-order-of-elks.webp"
+  },
+  {
+   "id": "bike-oklahoma-oklahoma-bicycling-coaliti",
+   "name": "Bike Oklahoma/ Oklahoma Bicycling Coalition",
+   "cat": "hobby",
+   "img": "bike-oklahoma-oklahoma-bicycling-coaliti.webp"
+  },
+  {
+   "id": "bison",
+   "name": "Bison",
+   "cat": "nature",
+   "img": "bison.webp"
+  },
+  {
+   "id": "boy-scouts-of-america",
+   "name": "Boy Scouts of America",
+   "cat": "charity",
+   "img": "boy-scouts-of-america.webp"
+  },
+  {
+   "id": "bronze-star",
+   "name": "Bronze Star",
+   "cat": "veterans",
+   "img": "bronze-star.webp"
+  },
+  {
+   "id": "buffalo-soldier",
+   "name": "Buffalo Soldier",
+   "cat": "nature",
+   "img": "buffalo-soldier.webp"
+  },
+  {
+   "id": "cameron-university",
+   "name": "Cameron University",
+   "cat": "colleges",
+   "img": "cameron-university.webp"
+  },
+  {
+   "id": "carl-albert-state-college",
+   "name": "Carl Albert State College",
+   "cat": "colleges",
+   "img": "carl-albert-state-college.webp"
+  },
+  {
+   "id": "certified-public-accountant",
+   "name": "Certified Public Accountant",
+   "cat": "other",
+   "img": "certified-public-accountant.webp"
+  },
+  {
+   "id": "chickasaw-nation",
+   "name": "Chickasaw Nation",
+   "cat": "tribal",
+   "img": "chickasaw-nation.webp"
+  },
+  {
+   "id": "chickasaw-nation-physically-disabled",
+   "name": "Chickasaw Nation Physically Disabled",
+   "cat": "tribal",
+   "img": "chickasaw-nation-physically-disabled.webp"
+  },
+  {
+   "id": "chickasaw-nation-physically-disabled-fro",
+   "name": "Chickasaw Nation Physically Disabled - Front",
+   "cat": "tribal",
+   "img": "chickasaw-nation-physically-disabled-fro.webp"
+  },
+  {
+   "id": "child-abuse-prevention",
+   "name": "Child Abuse Prevention",
+   "cat": "charity",
+   "img": "child-abuse-prevention.webp"
+  },
+  {
+   "id": "choctaw-nation",
+   "name": "Choctaw Nation",
+   "cat": "tribal",
+   "img": "choctaw-nation.webp"
+  },
+  {
+   "id": "choctaw-nation-physically-disabled-1",
+   "name": "Choctaw Nation Physically Disabled - 1",
+   "cat": "tribal",
+   "img": "choctaw-nation-physically-disabled-1.webp"
+  },
+  {
+   "id": "choctaw-nation-physically-disabled-2",
+   "name": "Choctaw Nation Physically Disabled - 2",
+   "cat": "tribal",
+   "img": "choctaw-nation-physically-disabled-2.webp"
+  },
+  {
+   "id": "choctaw-nation-physically-disabled-3",
+   "name": "Choctaw Nation Physically Disabled - 3",
+   "cat": "tribal",
+   "img": "choctaw-nation-physically-disabled-3.webp"
+  },
+  {
+   "id": "choose-life",
+   "name": "Choose Life",
+   "cat": "other",
+   "img": "choose-life.webp"
+  },
+  {
+   "id": "civil-air-patrol",
+   "name": "Civil Air Patrol",
+   "cat": "other",
+   "img": "civil-air-patrol.webp"
+  },
+  {
+   "id": "civil-emergency-management",
+   "name": "Civil Emergency Management",
+   "cat": "firstresponder",
+   "img": "civil-emergency-management.webp"
+  },
+  {
+   "id": "color-oklahoma",
+   "name": "Color Oklahoma",
+   "cat": "other",
+   "img": "color-oklahoma.webp"
+  },
+  {
+   "id": "combat-action-badge-recipient",
+   "name": "Combat Action Badge Recipient",
+   "cat": "veterans",
+   "img": "combat-action-badge-recipient.webp"
+  },
+  {
+   "id": "combat-action-us-marines",
+   "name": "Combat Action US Marines",
+   "cat": "veterans",
+   "img": "combat-action-us-marines.webp"
+  },
+  {
+   "id": "combat-action-us-navy",
+   "name": "Combat Action US Navy",
+   "cat": "veterans",
+   "img": "combat-action-us-navy.webp"
+  },
+  {
+   "id": "combat-infantry-badge",
+   "name": "Combat Infantry Badge",
+   "cat": "veterans",
+   "img": "combat-infantry-badge.webp"
+  },
+  {
+   "id": "congressional-medal-of-honor",
+   "name": "Congressional Medal of Honor",
+   "cat": "veterans",
+   "img": "congressional-medal-of-honor.webp"
+  },
+  {
+   "id": "connors-state-college",
+   "name": "Connors State College",
+   "cat": "colleges",
+   "img": "connors-state-college.webp"
+  },
+  {
+   "id": "crime-victim-awareness",
+   "name": "Crime Victim Awareness",
+   "cat": "charity",
+   "img": "crime-victim-awareness.webp"
+  },
+  {
+   "id": "crossings-christian-school",
+   "name": "Crossings Christian School",
+   "cat": "charity",
+   "img": "crossings-christian-school.webp"
+  },
+  {
+   "id": "d-day-survivor",
+   "name": "D-Day Survivor",
+   "cat": "veterans",
+   "img": "d-day-survivor.webp"
+  },
+  {
+   "id": "deer-creek-school-foundation",
+   "name": "Deer Creek School Foundation",
+   "cat": "nature",
+   "img": "deer-creek-school-foundation.webp"
+  },
+  {
+   "id": "delta-sigma-theta-sorority",
+   "name": "Delta Sigma Theta Sorority",
+   "cat": "other",
+   "img": "delta-sigma-theta-sorority.webp"
+  },
+  {
+   "id": "deputy-sheriff",
+   "name": "Deputy Sheriff",
+   "cat": "firstresponder",
+   "img": "deputy-sheriff.webp"
+  },
+  {
+   "id": "desert-storm",
+   "name": "Desert Storm",
+   "cat": "veterans",
+   "img": "desert-storm.webp"
+  },
+  {
+   "id": "disabled-american-veteran",
+   "name": "Disabled American Veteran",
+   "cat": "veterans",
+   "img": "disabled-american-veteran.webp"
+  },
+  {
+   "id": "distinguished-flying-cross",
+   "name": "Distinguished Flying Cross",
+   "cat": "veterans",
+   "img": "distinguished-flying-cross.webp"
+  },
+  {
+   "id": "distinguished-service-medal-army",
+   "name": "Distinguished Service Medal - Army",
+   "cat": "veterans",
+   "img": "distinguished-service-medal-army.webp"
+  },
+  {
+   "id": "distinguished-service-medal-coast-guard",
+   "name": "Distinguished Service Medal - Coast Guard",
+   "cat": "veterans",
+   "img": "distinguished-service-medal-coast-guard.webp"
+  },
+  {
+   "id": "distinguished-service-medal-navy",
+   "name": "Distinguished Service Medal - Navy",
+   "cat": "veterans",
+   "img": "distinguished-service-medal-navy.webp"
+  },
+  {
+   "id": "distinguished-service-medal-usmc",
+   "name": "Distinguished Service Medal - USMC",
+   "cat": "veterans",
+   "img": "distinguished-service-medal-usmc.webp"
+  },
+  {
+   "id": "don-t-tread-on-me",
+   "name": "Don’t Tread On Me",
+   "cat": "other",
+   "img": "don-t-tread-on-me.webp"
+  },
+  {
+   "id": "downed-bikers-association",
+   "name": "Downed Bikers Association",
+   "cat": "charity",
+   "img": "downed-bikers-association.webp"
+  },
+  {
+   "id": "ducks-unlimited",
+   "name": "Ducks Unlimited",
+   "cat": "nature",
+   "img": "ducks-unlimited.webp"
+  },
+  {
+   "id": "east-central-university",
+   "name": "East Central University",
+   "cat": "colleges",
+   "img": "east-central-university.webp"
+  },
+  {
+   "id": "eastern-oklahoma-state-college",
+   "name": "Eastern Oklahoma State College",
+   "cat": "colleges",
+   "img": "eastern-oklahoma-state-college.webp"
+  },
+  {
+   "id": "eastern-star",
+   "name": "Eastern Star",
+   "cat": "hobby",
+   "img": "eastern-star.webp"
+  },
+  {
+   "id": "emergency-medical-tech",
+   "name": "Emergency Medical Tech",
+   "cat": "firstresponder",
+   "img": "emergency-medical-tech.webp"
+  },
+  {
+   "id": "environmental-awareness-bison",
+   "name": "Environmental Awareness Bison",
+   "cat": "nature",
+   "img": "environmental-awareness-bison.webp"
+  },
+  {
+   "id": "environmental-awareness-oklahoma-fields",
+   "name": "Environmental Awareness Oklahoma Fields",
+   "cat": "nature",
+   "img": "environmental-awareness-oklahoma-fields.webp"
+  },
+  {
+   "id": "ex-prisoner-of-war",
+   "name": "Ex Prisoner of War",
+   "cat": "veterans",
+   "img": "ex-prisoner-of-war.webp"
+  },
+  {
+   "id": "fight-breast-cancer-black",
+   "name": "Fight Breast Cancer Black",
+   "cat": "charity",
+   "img": "fight-breast-cancer-black.webp"
+  },
+  {
+   "id": "fight-breast-cancer-pink",
+   "name": "Fight Breast Cancer Pink",
+   "cat": "charity",
+   "img": "fight-breast-cancer-pink.webp"
+  },
+  {
+   "id": "firefighter",
+   "name": "Firefighter",
+   "cat": "firstresponder",
+   "img": "firefighter.webp"
+  },
+  {
+   "id": "folds-of-honor-supporter",
+   "name": "Folds of Honor Supporter",
+   "cat": "charity",
+   "img": "folds-of-honor-supporter.webp"
+  },
+  {
+   "id": "four-h",
+   "name": "Four H",
+   "cat": "other",
+   "img": "four-h.webp"
+  },
+  {
+   "id": "fraternal-order-of-police",
+   "name": "Fraternal Order of Police",
+   "cat": "firstresponder",
+   "img": "fraternal-order-of-police.webp"
+  },
+  {
+   "id": "frederick-douglass-high-school",
+   "name": "Frederick Douglass High School",
+   "cat": "charity",
+   "img": "frederick-douglass-high-school.webp"
+  },
+  {
+   "id": "future-farmers-of-america",
+   "name": "Future Farmers of America",
+   "cat": "vehicle",
+   "img": "future-farmers-of-america.webp"
+  },
+  {
+   "id": "global-war-on-terrorism",
+   "name": "Global War on Terrorism",
+   "cat": "veterans",
+   "img": "global-war-on-terrorism.webp"
+  },
+  {
+   "id": "global-war-on-terrorism-medal",
+   "name": "Global War on Terrorism - Medal",
+   "cat": "veterans",
+   "img": "global-war-on-terrorism-medal.webp"
+  },
+  {
+   "id": "gold-star-family",
+   "name": "Gold Star Family",
+   "cat": "veterans",
+   "img": "gold-star-family.webp"
+  },
+  {
+   "id": "gold-star-parent",
+   "name": "Gold Star Parent",
+   "cat": "veterans",
+   "img": "gold-star-parent.webp"
+  },
+  {
+   "id": "gold-star-spouse",
+   "name": "Gold Star Spouse",
+   "cat": "veterans",
+   "img": "gold-star-spouse.webp"
+  },
+  {
+   "id": "gold-star-survivor",
+   "name": "Gold Star Survivor",
+   "cat": "veterans",
+   "img": "gold-star-survivor.webp"
+  },
+  {
+   "id": "heart-of-the-heartland",
+   "name": "Heart of the Heartland",
+   "cat": "hobby",
+   "img": "heart-of-the-heartland.webp"
+  },
+  {
+   "id": "highway-patrol-retired",
+   "name": "Highway Patrol Retired",
+   "cat": "other",
+   "img": "highway-patrol-retired.webp"
+  },
+  {
+   "id": "historic-greenwood-district",
+   "name": "Historic Greenwood District",
+   "cat": "other",
+   "img": "historic-greenwood-district.webp"
+  },
+  {
+   "id": "historic-route-66",
+   "name": "Historic Route 66",
+   "cat": "other",
+   "img": "historic-route-66.webp"
+  },
+  {
+   "id": "in-god-we-trust",
+   "name": "In God We Trust",
+   "cat": "charity",
+   "img": "in-god-we-trust.webp"
+  },
+  {
+   "id": "indian-tribal",
+   "name": "Indian Tribal",
+   "cat": "tribal",
+   "img": "indian-tribal.webp"
+  },
+  {
+   "id": "iraq-combat-veteran",
+   "name": "Iraq Combat Veteran",
+   "cat": "veterans",
+   "img": "iraq-combat-veteran.webp"
+  },
+  {
+   "id": "iwo-jima",
+   "name": "Iwo Jima",
+   "cat": "other",
+   "img": "iwo-jima.webp"
+  },
+  {
+   "id": "jaycees",
+   "name": "Jaycees",
+   "cat": "other",
+   "img": "jaycees.webp"
+  },
+  {
+   "id": "joint-service-commendation-medal",
+   "name": "Joint Service Commendation Medal",
+   "cat": "veterans",
+   "img": "joint-service-commendation-medal.webp"
+  },
+  {
+   "id": "k-state",
+   "name": "K-State",
+   "cat": "other",
+   "img": "k-state.webp"
+  },
+  {
+   "id": "kappa-alpha-psi",
+   "name": "Kappa Alpha Psi",
+   "cat": "other",
+   "img": "kappa-alpha-psi.webp"
+  },
+  {
+   "id": "killed-in-action",
+   "name": "Killed in Action",
+   "cat": "other",
+   "img": "killed-in-action.webp"
+  },
+  {
+   "id": "kiwanis-international",
+   "name": "Kiwanis International",
+   "cat": "hobby",
+   "img": "kiwanis-international.webp"
+  },
+  {
+   "id": "knights-of-columbus",
+   "name": "Knights of Columbus",
+   "cat": "hobby",
+   "img": "knights-of-columbus.webp"
+  },
+  {
+   "id": "korea-defense-medal",
+   "name": "Korea Defense Medal",
+   "cat": "veterans",
+   "img": "korea-defense-medal.webp"
+  },
+  {
+   "id": "korean-war-veteran-45th-infantry",
+   "name": "Korean War Veteran - 45th Infantry",
+   "cat": "veterans",
+   "img": "korean-war-veteran-45th-infantry.webp"
+  },
+  {
+   "id": "korean-war-veteran-army",
+   "name": "Korean War Veteran - Army",
+   "cat": "veterans",
+   "img": "korean-war-veteran-army.webp"
+  },
+  {
+   "id": "korean-war-veteran-coast-guard",
+   "name": "Korean War Veteran - Coast Guard",
+   "cat": "veterans",
+   "img": "korean-war-veteran-coast-guard.webp"
+  },
+  {
+   "id": "korean-war-veteran-navy",
+   "name": "Korean War Veteran - Navy",
+   "cat": "veterans",
+   "img": "korean-war-veteran-navy.webp"
+  },
+  {
+   "id": "korean-war-veteran-usaf",
+   "name": "Korean War Veteran - USAF",
+   "cat": "veterans",
+   "img": "korean-war-veteran-usaf.webp"
+  },
+  {
+   "id": "korean-war-veteran-usmc",
+   "name": "Korean War Veteran - USMC",
+   "cat": "veterans",
+   "img": "korean-war-veteran-usmc.webp"
+  },
+  {
+   "id": "langston-university",
+   "name": "Langston University",
+   "cat": "colleges",
+   "img": "langston-university.webp"
+  },
+  {
+   "id": "legion-of-merit",
+   "name": "Legion of Merit",
+   "cat": "veterans",
+   "img": "legion-of-merit.webp"
+  },
+  {
+   "id": "lions-club",
+   "name": "Lions Club",
+   "cat": "sports",
+   "img": "lions-club.webp"
+  },
+  {
+   "id": "march-of-dimes",
+   "name": "March of Dimes",
+   "cat": "other",
+   "img": "march-of-dimes.webp"
+  },
+  {
+   "id": "masonic-fraternity",
+   "name": "Masonic Fraternity",
+   "cat": "hobby",
+   "img": "masonic-fraternity.webp"
+  },
+  {
+   "id": "merchant-marine",
+   "name": "Merchant Marine",
+   "cat": "military",
+   "img": "merchant-marine.webp"
+  },
+  {
+   "id": "mid-america-christian-university",
+   "name": "Mid-America Christian University",
+   "cat": "colleges",
+   "img": "mid-america-christian-university.webp"
+  },
+  {
+   "id": "military-air-medal",
+   "name": "Military Air Medal",
+   "cat": "veterans",
+   "img": "military-air-medal.webp"
+  },
+  {
+   "id": "missing-in-action",
+   "name": "Missing In Action",
+   "cat": "other",
+   "img": "missing-in-action.webp"
+  },
+  {
+   "id": "monarch-butterfly",
+   "name": "Monarch Butterfly",
+   "cat": "nature",
+   "img": "monarch-butterfly.webp"
+  },
+  {
+   "id": "multi-decoration1",
+   "name": "Multi-Decoration1",
+   "cat": "other",
+   "img": "multi-decoration1.webp"
+  },
+  {
+   "id": "multi-decoration2",
+   "name": "Multi-Decoration2",
+   "cat": "other",
+   "img": "multi-decoration2.webp"
+  },
+  {
+   "id": "multi-decoration-prenumbered",
+   "name": "Multi-Decoration Prenumbered",
+   "cat": "other",
+   "img": "multi-decoration-prenumbered.webp"
+  },
+  {
+   "id": "multiple-sclerosis-society",
+   "name": "Multiple Sclerosis Society",
+   "cat": "charity",
+   "img": "multiple-sclerosis-society.webp"
+  },
+  {
+   "id": "murray-state-college",
+   "name": "Murray State College",
+   "cat": "colleges",
+   "img": "murray-state-college.webp"
+  },
+  {
+   "id": "mustang-club",
+   "name": "Mustang Club",
+   "cat": "hobby",
+   "img": "mustang-club.webp"
+  },
+  {
+   "id": "naacp",
+   "name": "NAACP",
+   "cat": "other",
+   "img": "naacp.webp"
+  },
+  {
+   "id": "nascar-dale-earnhardt-hall-of-fame",
+   "name": "NASCAR Dale Earnhardt Hall of Fame",
+   "cat": "sports",
+   "img": "nascar-dale-earnhardt-hall-of-fame.webp"
+  },
+  {
+   "id": "nascar-richard-petty-historic",
+   "name": "NASCAR Richard Petty Historic",
+   "cat": "sports",
+   "img": "nascar-richard-petty-historic.webp"
+  },
+  {
+   "id": "nascar",
+   "name": "NASCAR ®",
+   "cat": "sports",
+   "img": "nascar.webp"
+  },
+  {
+   "id": "nascar-11-denny-hamlin",
+   "name": "NASCAR 11: Denny Hamlin",
+   "cat": "sports",
+   "img": "nascar-11-denny-hamlin.webp"
+  },
+  {
+   "id": "nascar-14-tony-stewart",
+   "name": "NASCAR 14: Tony Stewart",
+   "cat": "sports",
+   "img": "nascar-14-tony-stewart.webp"
+  },
+  {
+   "id": "nascar-16-greg-biffle",
+   "name": "NASCAR 16: Greg Biffle",
+   "cat": "sports",
+   "img": "nascar-16-greg-biffle.webp"
+  },
+  {
+   "id": "nascar-17-matt-kenseth",
+   "name": "NASCAR 17: Matt Kenseth",
+   "cat": "sports",
+   "img": "nascar-17-matt-kenseth.webp"
+  },
+  {
+   "id": "nascar-18-kyle-busch",
+   "name": "NASCAR 18: Kyle Busch",
+   "cat": "sports",
+   "img": "nascar-18-kyle-busch.webp"
+  },
+  {
+   "id": "nascar-20-joey-logano",
+   "name": "NASCAR 20: Joey Logano",
+   "cat": "sports",
+   "img": "nascar-20-joey-logano.webp"
+  },
+  {
+   "id": "nascar-24-jeff-gordon",
+   "name": "NASCAR 24: Jeff Gordon",
+   "cat": "sports",
+   "img": "nascar-24-jeff-gordon.webp"
+  },
+  {
+   "id": "nascar-29-kevin-harvick",
+   "name": "NASCAR 29: Kevin Harvick",
+   "cat": "sports",
+   "img": "nascar-29-kevin-harvick.webp"
+  },
+  {
+   "id": "nascar-3-dale-earnhardt",
+   "name": "NASCAR 3: Dale Earnhardt",
+   "cat": "sports",
+   "img": "nascar-3-dale-earnhardt.webp"
+  },
+  {
+   "id": "nascar-31-jeff-burton",
+   "name": "NASCAR 31: Jeff Burton",
+   "cat": "sports",
+   "img": "nascar-31-jeff-burton.webp"
+  },
+  {
+   "id": "nascar-39-ryan-newman",
+   "name": "NASCAR 39: Ryan Newman",
+   "cat": "sports",
+   "img": "nascar-39-ryan-newman.webp"
+  },
+  {
+   "id": "nascar-42-juan-pablo-montoya",
+   "name": "NASCAR 42: Juan Pablo Montoya",
+   "cat": "sports",
+   "img": "nascar-42-juan-pablo-montoya.webp"
+  },
+  {
+   "id": "nascar-48-jimmie-johnson",
+   "name": "NASCAR 48: Jimmie Johnson",
+   "cat": "sports",
+   "img": "nascar-48-jimmie-johnson.webp"
+  },
+  {
+   "id": "nascar-5-mark-martin",
+   "name": "NASCAR 5: Mark Martin",
+   "cat": "sports",
+   "img": "nascar-5-mark-martin.webp"
+  },
+  {
+   "id": "nascar-6-david-ragan",
+   "name": "NASCAR 6: David Ragan",
+   "cat": "sports",
+   "img": "nascar-6-david-ragan.webp"
+  },
+  {
+   "id": "nascar-88-dale-earnhardt-jr",
+   "name": "NASCAR 88: Dale Earnhardt Jr.",
+   "cat": "sports",
+   "img": "nascar-88-dale-earnhardt-jr.webp"
+  },
+  {
+   "id": "nascar-99-carl-edwards",
+   "name": "NASCAR 99: Carl Edwards",
+   "cat": "sports",
+   "img": "nascar-99-carl-edwards.webp"
+  },
+  {
+   "id": "national-rifle-association",
+   "name": "National Rifle Association",
+   "cat": "charity",
+   "img": "national-rifle-association.webp"
+  },
+  {
+   "id": "national-weather-center",
+   "name": "National Weather Center",
+   "cat": "other",
+   "img": "national-weather-center.webp"
+  },
+  {
+   "id": "ninety-nines",
+   "name": "Ninety-Nines",
+   "cat": "other",
+   "img": "ninety-nines.webp"
+  },
+  {
+   "id": "northeast-high-school",
+   "name": "Northeast High School",
+   "cat": "charity",
+   "img": "northeast-high-school.webp"
+  },
+  {
+   "id": "northeastern-oklahoma-a-m-college",
+   "name": "Northeastern Oklahoma A&M College",
+   "cat": "colleges",
+   "img": "northeastern-oklahoma-a-m-college.webp"
+  },
+  {
+   "id": "northeastern-state-university",
+   "name": "Northeastern State University",
+   "cat": "colleges",
+   "img": "northeastern-state-university.webp"
+  },
+  {
+   "id": "northern-oklahoma-college",
+   "name": "Northern Oklahoma College",
+   "cat": "colleges",
+   "img": "northern-oklahoma-college.webp"
+  },
+  {
+   "id": "northwestern-oklahoma-state-university",
+   "name": "Northwestern Oklahoma State University",
+   "cat": "colleges",
+   "img": "northwestern-oklahoma-state-university.webp"
+  },
+  {
+   "id": "okc-central-high-school",
+   "name": "OKC Central High School",
+   "cat": "charity",
+   "img": "okc-central-high-school.webp"
+  },
+  {
+   "id": "oklahoma-air-national-guard",
+   "name": "Oklahoma Air National Guard",
+   "cat": "military",
+   "img": "oklahoma-air-national-guard.webp"
+  },
+  {
+   "id": "oklahoma-association-of-realtors",
+   "name": "Oklahoma Association of Realtors",
+   "cat": "charity",
+   "img": "oklahoma-association-of-realtors.webp"
+  },
+  {
+   "id": "oklahoma-aviation",
+   "name": "Oklahoma Aviation",
+   "cat": "hobby",
+   "img": "oklahoma-aviation.webp"
+  },
+  {
+   "id": "oklahoma-baptist-university",
+   "name": "Oklahoma Baptist University",
+   "cat": "colleges",
+   "img": "oklahoma-baptist-university.webp"
+  },
+  {
+   "id": "oklahoma-blood-institute",
+   "name": "Oklahoma Blood Institute",
+   "cat": "other",
+   "img": "oklahoma-blood-institute.webp"
+  },
+  {
+   "id": "oklahoma-christian-university",
+   "name": "Oklahoma Christian University",
+   "cat": "colleges",
+   "img": "oklahoma-christian-university.webp"
+  },
+  {
+   "id": "oklahoma-city-bombing-victims-and-surviv",
+   "name": "Oklahoma City Bombing Victims and Survivors",
+   "cat": "veterans",
+   "img": "oklahoma-city-bombing-victims-and-surviv.webp"
+  },
+  {
+   "id": "oklahoma-city-community-college",
+   "name": "Oklahoma City Community College",
+   "cat": "colleges",
+   "img": "oklahoma-city-community-college.webp"
+  },
+  {
+   "id": "oklahoma-city-thunder",
+   "name": "Oklahoma City Thunder",
+   "cat": "sports",
+   "img": "oklahoma-city-thunder.webp"
+  },
+  {
+   "id": "oklahoma-city-university",
+   "name": "Oklahoma City University",
+   "cat": "colleges",
+   "img": "oklahoma-city-university.webp"
+  },
+  {
+   "id": "oklahoma-history",
+   "name": "Oklahoma History",
+   "cat": "charity",
+   "img": "oklahoma-history.webp"
+  },
+  {
+   "id": "oklahomato-educate",
+   "name": "Oklahomato Educate",
+   "cat": "charity",
+   "img": "oklahomato-educate.webp"
+  },
+  {
+   "id": "oklahoma-military-academy-alumni",
+   "name": "Oklahoma Military Academy Alumni",
+   "cat": "military",
+   "img": "oklahoma-military-academy-alumni.webp"
+  },
+  {
+   "id": "oklahoma-national-guard",
+   "name": "Oklahoma National Guard",
+   "cat": "military",
+   "img": "oklahoma-national-guard.webp"
+  },
+  {
+   "id": "oklahoma-panhandle-state-university",
+   "name": "Oklahoma Panhandle State University",
+   "cat": "colleges",
+   "img": "oklahoma-panhandle-state-university.webp"
+  },
+  {
+   "id": "oklahoma-quarter-horse",
+   "name": "Oklahoma Quarter Horse",
+   "cat": "hobby",
+   "img": "oklahoma-quarter-horse.webp"
+  },
+  {
+   "id": "oklahoma-safe-kids-coalition",
+   "name": "Oklahoma Safe Kids Coalition",
+   "cat": "charity",
+   "img": "oklahoma-safe-kids-coalition.webp"
+  },
+  {
+   "id": "oklahoma-state-university",
+   "name": "Oklahoma State University",
+   "cat": "colleges",
+   "img": "oklahoma-state-university.webp"
+  },
+  {
+   "id": "oklahoma-statehood-centennial",
+   "name": "Oklahoma Statehood Centennial",
+   "cat": "charity",
+   "img": "oklahoma-statehood-centennial.webp"
+  },
+  {
+   "id": "oklahoma-submarine-veterans",
+   "name": "Oklahoma Submarine Veterans",
+   "cat": "veterans",
+   "img": "oklahoma-submarine-veterans.webp"
+  },
+  {
+   "id": "oklahoma-tennis-foundation",
+   "name": "Oklahoma Tennis Foundation",
+   "cat": "sports",
+   "img": "oklahoma-tennis-foundation.webp"
+  },
+  {
+   "id": "oklahoma-wesleyan-college",
+   "name": "Oklahoma Wesleyan College",
+   "cat": "colleges",
+   "img": "oklahoma-wesleyan-college.webp"
+  },
+  {
+   "id": "oklahoma-women-s-veteran",
+   "name": "Oklahoma Women’s Veteran",
+   "cat": "veterans",
+   "img": "oklahoma-women-s-veteran.webp"
+  },
+  {
+   "id": "omega-psi-phi",
+   "name": "Omega Psi Phi",
+   "cat": "other",
+   "img": "omega-psi-phi.webp"
+  },
+  {
+   "id": "operation-enduring-freedom",
+   "name": "Operation Enduring Freedom",
+   "cat": "other",
+   "img": "operation-enduring-freedom.webp"
+  },
+  {
+   "id": "operation-iraqi-freedom",
+   "name": "Operation Iraqi Freedom",
+   "cat": "veterans",
+   "img": "operation-iraqi-freedom.webp"
+  },
+  {
+   "id": "oral-roberts-university",
+   "name": "Oral Roberts University",
+   "cat": "colleges",
+   "img": "oral-roberts-university.webp"
+  },
+  {
+   "id": "organ-eye-and-tissue-donor",
+   "name": "Organ, Eye and Tissue Donor",
+   "cat": "charity",
+   "img": "organ-eye-and-tissue-donor.webp"
+  },
+  {
+   "id": "original-state-flag",
+   "name": "Original State Flag",
+   "cat": "other",
+   "img": "original-state-flag.webp"
+  },
+  {
+   "id": "pancreatic-cancer-research",
+   "name": "Pancreatic Cancer Research",
+   "cat": "charity",
+   "img": "pancreatic-cancer-research.webp"
+  },
+  {
+   "id": "patriot",
+   "name": "Patriot",
+   "cat": "other",
+   "img": "patriot.webp"
+  },
+  {
+   "id": "pearl-harbor-survivor",
+   "name": "Pearl Harbor Survivor",
+   "cat": "veterans",
+   "img": "pearl-harbor-survivor.webp"
+  },
+  {
+   "id": "blue",
+   "name": "Blue",
+   "cat": "other",
+   "img": "blue.webp"
+  },
+  {
+   "id": "gray",
+   "name": "Gray",
+   "cat": "other",
+   "img": "gray.webp"
+  },
+  {
+   "id": "pink",
+   "name": "Pink",
+   "cat": "other",
+   "img": "pink.webp"
+  },
+  {
+   "id": "tan",
+   "name": "Tan",
+   "cat": "other",
+   "img": "tan.webp"
+  },
+  {
+   "id": "white",
+   "name": "White",
+   "cat": "other",
+   "img": "white.webp"
+  },
+  {
+   "id": "yellow",
+   "name": "Yellow",
+   "cat": "other",
+   "img": "yellow.webp"
+  },
+  {
+   "id": "physically-disabled-back",
+   "name": "Physically Disabled Back",
+   "cat": "other",
+   "img": "physically-disabled-back.webp"
+  },
+  {
+   "id": "physically-disabled-front",
+   "name": "Physically Disabled Front",
+   "cat": "other",
+   "img": "physically-disabled-front.webp"
+  },
+  {
+   "id": "pittsburg-state-university",
+   "name": "Pittsburg State University",
+   "cat": "colleges",
+   "img": "pittsburg-state-university.webp"
+  },
+  {
+   "id": "police-chaplain",
+   "name": "Police Chaplain",
+   "cat": "firstresponder",
+   "img": "police-chaplain.webp"
+  },
+  {
+   "id": "police-officer",
+   "name": "Police Officer",
+   "cat": "firstresponder",
+   "img": "police-officer.webp"
+  },
+  {
+   "id": "purple-heart",
+   "name": "Purple Heart",
+   "cat": "veterans",
+   "img": "purple-heart.webp"
+  },
+  {
+   "id": "red-cross-volunteer",
+   "name": "Red Cross Volunteer",
+   "cat": "other",
+   "img": "red-cross-volunteer.webp"
+  },
+  {
+   "id": "red-dirt-jeeps",
+   "name": "Red Dirt Jeeps",
+   "cat": "hobby",
+   "img": "red-dirt-jeeps.webp"
+  },
+  {
+   "id": "rogers-state-university",
+   "name": "Rogers State University",
+   "cat": "colleges",
+   "img": "rogers-state-university.webp"
+  },
+  {
+   "id": "rose-state-college",
+   "name": "Rose State College",
+   "cat": "colleges",
+   "img": "rose-state-college.webp"
+  },
+  {
+   "id": "rotarian",
+   "name": "Rotarian",
+   "cat": "other",
+   "img": "rotarian.webp"
+  },
+  {
+   "id": "seminole-state-college",
+   "name": "Seminole State College",
+   "cat": "colleges",
+   "img": "seminole-state-college.webp"
+  },
+  {
+   "id": "shriners-hospital-for-children",
+   "name": "Shriners Hospital for Children",
+   "cat": "hobby",
+   "img": "shriners-hospital-for-children.webp"
+  },
+  {
+   "id": "silver-star",
+   "name": "Silver Star",
+   "cat": "veterans",
+   "img": "silver-star.webp"
+  },
+  {
+   "id": "somalia-combat-veteran",
+   "name": "Somalia Combat Veteran",
+   "cat": "veterans",
+   "img": "somalia-combat-veteran.webp"
+  },
+  {
+   "id": "sons-of-the-american-revolution",
+   "name": "Sons of the American Revolution",
+   "cat": "other",
+   "img": "sons-of-the-american-revolution.webp"
+  },
+  {
+   "id": "southeastern-oklahoma-state-university",
+   "name": "Southeastern Oklahoma State University",
+   "cat": "colleges",
+   "img": "southeastern-oklahoma-state-university.webp"
+  },
+  {
+   "id": "southern-nazarene-university",
+   "name": "Southern Nazarene University",
+   "cat": "colleges",
+   "img": "southern-nazarene-university.webp"
+  },
+  {
+   "id": "southwestern-christian-university",
+   "name": "Southwestern Christian University",
+   "cat": "colleges",
+   "img": "southwestern-christian-university.webp"
+  },
+  {
+   "id": "southwestern-oklahoma-state-university",
+   "name": "Southwestern Oklahoma State University",
+   "cat": "colleges",
+   "img": "southwestern-oklahoma-state-university.webp"
+  },
+  {
+   "id": "special-forces",
+   "name": "Special Forces",
+   "cat": "military",
+   "img": "special-forces.webp"
+  },
+  {
+   "id": "special-forces-green-beret",
+   "name": "Special Forces Green Beret",
+   "cat": "military",
+   "img": "special-forces-green-beret.webp"
+  },
+  {
+   "id": "square-and-round-dance",
+   "name": "Square and Round Dance",
+   "cat": "other",
+   "img": "square-and-round-dance.webp"
+  },
+  {
+   "id": "state-parks-supporter-golf",
+   "name": "State Parks Supporter - Golf",
+   "cat": "sports",
+   "img": "state-parks-supporter-golf.webp"
+  },
+  {
+   "id": "state-parks-supporter-pavilion",
+   "name": "State Parks Supporter - Pavilion",
+   "cat": "nature",
+   "img": "state-parks-supporter-pavilion.webp"
+  },
+  {
+   "id": "state-parks-supporter-rv",
+   "name": "State Parks Supporter - RV",
+   "cat": "nature",
+   "img": "state-parks-supporter-rv.webp"
+  },
+  {
+   "id": "support-education",
+   "name": "Support Education",
+   "cat": "charity",
+   "img": "support-education.webp"
+  },
+  {
+   "id": "support-our-troops",
+   "name": "Support Our Troops",
+   "cat": "charity",
+   "img": "support-our-troops.webp"
+  },
+  {
+   "id": "tulsa-flag",
+   "name": "Tulsa Flag",
+   "cat": "other",
+   "img": "tulsa-flag.webp"
+  },
+  {
+   "id": "tulsa-zoo",
+   "name": "Tulsa Zoo",
+   "cat": "nature",
+   "img": "tulsa-zoo.webp"
+  },
+  {
+   "id": "u-s-olympics",
+   "name": "U.S. Olympics",
+   "cat": "sports",
+   "img": "u-s-olympics.webp"
+  },
+  {
+   "id": "united-states-air-force",
+   "name": "United States Air Force",
+   "cat": "military",
+   "img": "united-states-air-force.webp"
+  },
+  {
+   "id": "united-states-air-force-academy",
+   "name": "United States Air Force Academy",
+   "cat": "military",
+   "img": "united-states-air-force-academy.webp"
+  },
+  {
+   "id": "united-states-air-force-academy-alumni",
+   "name": "United States Air Force Academy Alumni",
+   "cat": "military",
+   "img": "united-states-air-force-academy-alumni.webp"
+  },
+  {
+   "id": "united-states-air-force-association",
+   "name": "United States Air Force Association",
+   "cat": "military",
+   "img": "united-states-air-force-association.webp"
+  },
+  {
+   "id": "united-states-air-force-reserve",
+   "name": "United States Air Force Reserve",
+   "cat": "military",
+   "img": "united-states-air-force-reserve.webp"
+  },
+  {
+   "id": "united-states-air-force-retired",
+   "name": "United States Air Force Retired",
+   "cat": "military",
+   "img": "united-states-air-force-retired.webp"
+  },
+  {
+   "id": "united-states-army",
+   "name": "United States Army",
+   "cat": "military",
+   "img": "united-states-army.webp"
+  },
+  {
+   "id": "united-states-army-reserve",
+   "name": "United States Army Reserve",
+   "cat": "military",
+   "img": "united-states-army-reserve.webp"
+  },
+  {
+   "id": "united-states-army-retired",
+   "name": "United States Army Retired",
+   "cat": "military",
+   "img": "united-states-army-retired.webp"
+  },
+  {
+   "id": "united-states-coast-guard",
+   "name": "United States Coast Guard",
+   "cat": "military",
+   "img": "united-states-coast-guard.webp"
+  },
+  {
+   "id": "united-states-coast-guard-reserve",
+   "name": "United States Coast Guard Reserve",
+   "cat": "military",
+   "img": "united-states-coast-guard-reserve.webp"
+  },
+  {
+   "id": "united-states-coast-guard-retired",
+   "name": "United States Coast Guard Retired",
+   "cat": "military",
+   "img": "united-states-coast-guard-retired.webp"
+  },
+  {
+   "id": "united-states-marines",
+   "name": "United States Marines",
+   "cat": "military",
+   "img": "united-states-marines.webp"
+  },
+  {
+   "id": "united-states-marines-reserve",
+   "name": "United States Marines Reserve",
+   "cat": "military",
+   "img": "united-states-marines-reserve.webp"
+  },
+  {
+   "id": "united-states-marines-retired",
+   "name": "United States Marines Retired",
+   "cat": "military",
+   "img": "united-states-marines-retired.webp"
+  },
+  {
+   "id": "united-states-navy",
+   "name": "United States Navy",
+   "cat": "military",
+   "img": "united-states-navy.webp"
+  },
+  {
+   "id": "united-states-navy-reserve",
+   "name": "United States Navy Reserve",
+   "cat": "military",
+   "img": "united-states-navy-reserve.webp"
+  },
+  {
+   "id": "united-states-navy-retired",
+   "name": "United States Navy Retired",
+   "cat": "military",
+   "img": "united-states-navy-retired.webp"
+  },
+  {
+   "id": "university-of-central-oklahoma",
+   "name": "University of Central Oklahoma",
+   "cat": "colleges",
+   "img": "university-of-central-oklahoma.webp"
+  },
+  {
+   "id": "university-of-oklahoma",
+   "name": "University of Oklahoma",
+   "cat": "colleges",
+   "img": "university-of-oklahoma.webp"
+  },
+  {
+   "id": "university-of-science-and-arts-of-oklaho",
+   "name": "University of Science and Arts of Oklahoma",
+   "cat": "colleges",
+   "img": "university-of-science-and-arts-of-oklaho.webp"
+  },
+  {
+   "id": "university-of-tulsa",
+   "name": "University of Tulsa",
+   "cat": "colleges",
+   "img": "university-of-tulsa.webp"
+  },
+  {
+   "id": "urban-forestry-and-beautification",
+   "name": "Urban Forestry and Beautification",
+   "cat": "nature",
+   "img": "urban-forestry-and-beautification.webp"
+  },
+  {
+   "id": "usn-seabees-civil-engineer-corps",
+   "name": "USN Seabees/Civil Engineer Corps",
+   "cat": "military",
+   "img": "usn-seabees-civil-engineer-corps.webp"
+  },
+  {
+   "id": "veterans-of-the-united-states-armed-forc",
+   "name": "Veterans of the United States Armed Forces Air Force",
+   "cat": "veterans",
+   "img": "veterans-of-the-united-states-armed-forc.webp"
+  },
+  {
+   "id": "veterans-of-the-united-states-armed-forc-2",
+   "name": "Veterans of the United States Armed Forces Army",
+   "cat": "veterans",
+   "img": "veterans-of-the-united-states-armed-forc-2.webp"
+  },
+  {
+   "id": "veterans-of-the-united-states-armed-forc-2-2",
+   "name": "Veterans of the United States Armed Forces Coast Guard",
+   "cat": "veterans",
+   "img": "veterans-of-the-united-states-armed-forc-2-2.webp"
+  },
+  {
+   "id": "veterans-of-the-united-states-armed-forc-2-2-2",
+   "name": "Veterans of the United States Armed Forces Marines",
+   "cat": "veterans",
+   "img": "veterans-of-the-united-states-armed-forc-2-2-2.webp"
+  },
+  {
+   "id": "veterans-of-the-united-states-armed-forc-2-2-2-2",
+   "name": "Veterans of the United States Armed Forces Navy",
+   "cat": "veterans",
+   "img": "veterans-of-the-united-states-armed-forc-2-2-2-2.webp"
+  },
+  {
+   "id": "vietnam-veteran",
+   "name": "Vietnam Veteran",
+   "cat": "veterans",
+   "img": "vietnam-veteran.webp"
+  },
+  {
+   "id": "west-point",
+   "name": "West Point",
+   "cat": "other",
+   "img": "west-point.webp"
+  },
+  {
+   "id": "western-oklahoma-state-college",
+   "name": "Western Oklahoma State College",
+   "cat": "colleges",
+   "img": "western-oklahoma-state-college.webp"
+  },
+  {
+   "id": "wildlife-conservation-bass",
+   "name": "Wildlife Conservation - Bass",
+   "cat": "nature",
+   "img": "wildlife-conservation-bass.webp"
+  },
+  {
+   "id": "wildlife-conservation-deer",
+   "name": "Wildlife Conservation - Deer",
+   "cat": "nature",
+   "img": "wildlife-conservation-deer.webp"
+  },
+  {
+   "id": "wildlife-conservation-mallard",
+   "name": "Wildlife Conservation - Mallard",
+   "cat": "nature",
+   "img": "wildlife-conservation-mallard.webp"
+  },
+  {
+   "id": "wildlife-conservation-quail",
+   "name": "Wildlife Conservation - Quail",
+   "cat": "nature",
+   "img": "wildlife-conservation-quail.webp"
+  },
+  {
+   "id": "wildlife-conservation-scissor-tail",
+   "name": "Wildlife Conservation - Scissor Tail",
+   "cat": "nature",
+   "img": "wildlife-conservation-scissor-tail.webp"
+  },
+  {
+   "id": "wildlife-conservation-striper",
+   "name": "Wildlife Conservation - Striper",
+   "cat": "nature",
+   "img": "wildlife-conservation-striper.webp"
+  },
+  {
+   "id": "wildlife-conservation-texas-horned-lizar",
+   "name": "Wildlife Conservation - Texas Horned Lizard",
+   "cat": "nature",
+   "img": "wildlife-conservation-texas-horned-lizar.webp"
+  },
+  {
+   "id": "wildlife-conservation-trout",
+   "name": "Wildlife Conservation - Trout",
+   "cat": "nature",
+   "img": "wildlife-conservation-trout.webp"
+  },
+  {
+   "id": "wildlife-conservation-turkey",
+   "name": "Wildlife Conservation - Turkey",
+   "cat": "nature",
+   "img": "wildlife-conservation-turkey.webp"
+  },
+  {
+   "id": "world-war-ii-veteran-45th-infantry",
+   "name": "World War II Veteran - 45th Infantry",
+   "cat": "veterans",
+   "img": "world-war-ii-veteran-45th-infantry.webp"
+  },
+  {
+   "id": "world-war-ii-veteran-army",
+   "name": "World War II Veteran - Army",
+   "cat": "veterans",
+   "img": "world-war-ii-veteran-army.webp"
+  },
+  {
+   "id": "world-war-ii-veteran-navy",
+   "name": "World War II Veteran - NAVY",
+   "cat": "veterans",
+   "img": "world-war-ii-veteran-navy.webp"
+  },
+  {
+   "id": "world-war-ii-veteran-usaf",
+   "name": "World War II Veteran - USAF",
+   "cat": "veterans",
+   "img": "world-war-ii-veteran-usaf.webp"
+  },
+  {
+   "id": "world-war-ii-veteran-uscg",
+   "name": "World War II Veteran - USCG",
+   "cat": "veterans",
+   "img": "world-war-ii-veteran-uscg.webp"
+  },
+  {
+   "id": "world-war-ii-veteran-usmc",
+   "name": "World War II Veteran - USMC",
+   "cat": "veterans",
+   "img": "world-war-ii-veteran-usmc.webp"
+  },
+  {
+   "id": "zeta-phi-beta-phi-beta-sigma",
+   "name": "Zeta Phi Beta / Phi Beta Sigma",
+   "cat": "other",
+   "img": "zeta-phi-beta-phi-beta-sigma.webp"
+  }
+ ]
+}

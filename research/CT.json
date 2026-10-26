@@ -1,0 +1,457 @@
+[
+ {
+  "title": "Amateur radio call letter",
+  "keegan_img": "radio.gif",
+  "cat": "hobby",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "Amistad",
+  "keegan_img": "amistad.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "Animal population control",
+  "keegan_img": "pet.gif",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "Benevolent & Protective Order of the Elks",
+  "keegan_img": "bpoe.gif",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "Blue Knights International",
+  "keegan_img": "blue-knights.gif",
+  "cat": "hobby",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "Candlewood Lake Authority",
+  "keegan_img": "spclaelk.gif",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "Celebrate nursing",
+  "keegan_img": "celnursing.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "Central Connecticut State University",
+  "keegan_img": "spccsu.gif",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "Children First Foundation",
+  "keegan_img": "fund-adoption.gif",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "City of Meriden",
+  "keegan_img": "spmerden.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "City of Norwich",
+  "keegan_img": "sprose.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "Classic",
+  "keegan_img": "new_classic_plate.jpg",
+  "cat": "vehicle",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "Connecticut greenways",
+  "keegan_img": "gway.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "Connecticut Knights of Columbus",
+  "keegan_img": "spcolumb.gif",
+  "cat": "hobby",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "Conserve wildlife - Bobcat",
+  "keegan_img": "bobcat-plate.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "Conserve wildlife - Eagle",
+  "keegan_img": "licplate.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "Cure kids cancer",
+  "keegan_img": "cure-kids.gif",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "Cure prostate cancer",
+  "keegan_img": "cpc.png",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "Disabled American Veterans",
+  "keegan_img": "dvets.gif",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "Ducks unlimited",
+  "keegan_img": "spducks.gif",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "Federated Garden Clubs of Connecticut",
+  "keegan_img": "spgarden.gif",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "Ferrari Club of America",
+  "keegan_img": "ferrari.gif",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "Fidelco Guide Dog Foundation",
+  "keegan_img": "fidelco.gif",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "Firefighters of Connecticut",
+  "keegan_img": "firefighter.gif",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "First Company Governors Foot Guard",
+  "keegan_img": "spftgd.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "First Company Governors Horse Guard",
+  "keegan_img": "sphorse.gif",
+  "cat": "hobby",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "Flag-style veteran(specific wartimes available",
+  "keegan_img": "vet.gif",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "Fraternal Order of Police",
+  "keegan_img": "FOP.gif",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "Gold Star Family",
+  "keegan_img": "goldstarpla.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "Grand Lodge of Connecticut",
+  "keegan_img": "masonic.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "Greater Hartford Chapter of the 82nd Airborne",
+  "keegan_img": "sppara.gif",
+  "cat": "military",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "Hartford Whalers",
+  "keegan_img": "hartford.png",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "IUOE Local 478",
+  "keegan_img": "iuoe.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "Iwo Jima survivor",
+  "keegan_img": "spiwojim.gif",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "Keep kids safe",
+  "keegan_img": "keep-kids-safe.gif",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "Korean War Veterans Association Inc.",
+  "keegan_img": "spkorvt.gif",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "Laos Veterans of America",
+  "keegan_img": "laos.gif",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "Lions Eye Research Foundation",
+  "keegan_img": "lions.gif",
+  "cat": "sports",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "Long Island Sound",
+  "keegan_img": "splis.gif",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "Marine Corps League",
+  "keegan_img": "spmarine.gif",
+  "cat": "military",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "Military Order of the Purple Heart",
+  "keegan_img": "sppurhrt.gif",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "National Guard Association of Connecticut (active",
+  "keegan_img": "spguard.gif",
+  "cat": "military",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "National Guard Association of Connecticut (retired",
+  "keegan_img": "spngret.gif",
+  "cat": "military",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "New England Air Museum",
+  "keegan_img": "museum.gif",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "Olympic spirit",
+  "keegan_img": "olympics-spirit.png",
+  "cat": "sports",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "Operation Lifesaver",
+  "keegan_img": "operation-lifesaver.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "P.T. Barnum Foundation Inc.",
+  "keegan_img": "burnam-festival.gif",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "Pearl Harbor 1941 survivors",
+  "keegan_img": "sppearl.gif",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "Penn State Alumni Association",
+  "keegan_img": "sppenn.gif",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "Police Commissioners Association of Connecticut",
+  "keegan_img": "police-commissioner.gif",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "Police memorial (in the line of duty",
+  "keegan_img": "in-line-of-duty.gif",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "Preservation Connecticut",
+  "keegan_img": "Preservation-CT.jpg",
+  "cat": "tribal",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "Red Sox Foundation",
+  "keegan_img": "red-sox.png",
+  "cat": "sports",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "Save our lakes",
+  "keegan_img": "savelakes.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "Second Company Governors Foot Guard",
+  "keegan_img": "spsec.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "Special Olympics",
+  "keegan_img": "special-olympics.gif",
+  "cat": "sports",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "Support Our Troops",
+  "keegan_img": "support.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "Town of Stafford",
+  "keegan_img": "spstaffo.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "U.S. Submarine Veterans",
+  "keegan_img": "spsub.gif",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "Uniformed Professional Firefighters Association of Connecticut",
+  "keegan_img": "Uniformed-Professional.gif",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "United We Stand",
+  "keegan_img": "united-we-stand.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "University of Connecticut",
+  "keegan_img": "uconn.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "University of Hartford alumni",
+  "keegan_img": "uhartford_2017.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "University of New Haven",
+  "keegan_img": "univnh.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ },
+ {
+  "title": "USS Connecticut Commissioning Committee",
+  "keegan_img": "USS.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+ }
+]

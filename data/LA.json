@@ -1,0 +1,1318 @@
+{
+ "code": "LA",
+ "name": "Louisiana",
+ "rated": false,
+ "checked": false,
+ "updated": "2026-10-25",
+ "about": "Louisiana special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "sources": [
+  {
+   "title": "Jon Keegan, us-license-plates (2023)",
+   "url": "https://github.com/jonkeegan/us-license-plates"
+  }
+ ],
+ "plates": [
+  {
+   "id": "100-disabled-veteran",
+   "name": "100% Disabled Veteran",
+   "cat": "veterans",
+   "img": "100-disabled-veteran.webp"
+  },
+  {
+   "id": "300th-anniversary-new-orleans",
+   "name": "300th Anniversary New Orleans",
+   "cat": "charity",
+   "img": "300th-anniversary-new-orleans.webp"
+  },
+  {
+   "id": "4-h",
+   "name": "4-H",
+   "cat": "charity",
+   "img": "4-h.webp"
+  },
+  {
+   "id": "acadiana-high-school",
+   "name": "Acadiana High School",
+   "cat": "charity",
+   "img": "acadiana-high-school.webp"
+  },
+  {
+   "id": "afghanistan-campaign-veteran",
+   "name": "Afghanistan Campaign Veteran",
+   "cat": "veterans",
+   "img": "afghanistan-campaign-veteran.webp"
+  },
+  {
+   "id": "agricultural-education",
+   "name": "Agricultural Education",
+   "cat": "charity",
+   "img": "agricultural-education.webp"
+  },
+  {
+   "id": "air-force",
+   "name": "Air Force",
+   "cat": "military",
+   "img": "air-force.webp"
+  },
+  {
+   "id": "alpha-kappa-alpha",
+   "name": "Alpha Kappa Alpha",
+   "cat": "other",
+   "img": "alpha-kappa-alpha.webp"
+  },
+  {
+   "id": "alpha-phi-alpha",
+   "name": "Alpha Phi Alpha",
+   "cat": "other",
+   "img": "alpha-phi-alpha.webp"
+  },
+  {
+   "id": "amateur-radio-operator",
+   "name": "Amateur Radio Operator",
+   "cat": "hobby",
+   "img": "amateur-radio-operator.webp"
+  },
+  {
+   "id": "america-s-wetland",
+   "name": "America's Wetland",
+   "cat": "nature",
+   "img": "america-s-wetland.webp"
+  },
+  {
+   "id": "american-indian",
+   "name": "American Indian",
+   "cat": "other",
+   "img": "american-indian.webp"
+  },
+  {
+   "id": "animal-friendly",
+   "name": "Animal Friendly",
+   "cat": "charity",
+   "img": "animal-friendly.webp"
+  },
+  {
+   "id": "antique",
+   "name": "Antique",
+   "cat": "vehicle",
+   "img": "antique.webp"
+  },
+  {
+   "id": "archbishop-rummel-high-school",
+   "name": "Archbishop Rummel High School",
+   "cat": "charity",
+   "img": "archbishop-rummel-high-school.webp"
+  },
+  {
+   "id": "archbishop-shaw-high-school",
+   "name": "Archbishop Shaw High School",
+   "cat": "charity",
+   "img": "archbishop-shaw-high-school.webp"
+  },
+  {
+   "id": "army",
+   "name": "Army",
+   "cat": "military",
+   "img": "army.webp"
+  },
+  {
+   "id": "autism-society",
+   "name": "Autism Society",
+   "cat": "charity",
+   "img": "autism-society.webp"
+  },
+  {
+   "id": "baton-rouge-community",
+   "name": "Baton Rouge Community",
+   "cat": "other",
+   "img": "baton-rouge-community.webp"
+  },
+  {
+   "id": "bayou-state-golfer",
+   "name": "Bayou State Golfer",
+   "cat": "sports",
+   "img": "bayou-state-golfer.webp"
+  },
+  {
+   "id": "beta-sigma-phi",
+   "name": "Beta Sigma Phi",
+   "cat": "other",
+   "img": "beta-sigma-phi.webp"
+  },
+  {
+   "id": "blue-star-mothers",
+   "name": "Blue Star Mothers",
+   "cat": "other",
+   "img": "blue-star-mothers.webp"
+  },
+  {
+   "id": "bossier-parish-community",
+   "name": "Bossier Parish Community",
+   "cat": "other",
+   "img": "bossier-parish-community.webp"
+  },
+  {
+   "id": "boy-scouts-of-america",
+   "name": "Boy Scouts of America",
+   "cat": "charity",
+   "img": "boy-scouts-of-america.webp"
+  },
+  {
+   "id": "breast-cancer-awarness",
+   "name": "Breast Cancer Awarness",
+   "cat": "charity",
+   "img": "breast-cancer-awarness.webp"
+  },
+  {
+   "id": "bronze-star-medal",
+   "name": "Bronze Star Medal",
+   "cat": "veterans",
+   "img": "bronze-star-medal.webp"
+  },
+  {
+   "id": "brother-martin-high-school",
+   "name": "Brother Martin High School",
+   "cat": "charity",
+   "img": "brother-martin-high-school.webp"
+  },
+  {
+   "id": "c-e-byrd-high-school",
+   "name": "C.E. Byrd High School",
+   "cat": "charity",
+   "img": "c-e-byrd-high-school.webp"
+  },
+  {
+   "id": "caddo-parish-magnet-h-school",
+   "name": "Caddo Parish Magnet H School",
+   "cat": "charity",
+   "img": "caddo-parish-magnet-h-school.webp"
+  },
+  {
+   "id": "camp-woodmen",
+   "name": "Camp Woodmen",
+   "cat": "other",
+   "img": "camp-woodmen.webp"
+  },
+  {
+   "id": "capitol-high-school",
+   "name": "Capitol High School",
+   "cat": "charity",
+   "img": "capitol-high-school.webp"
+  },
+  {
+   "id": "captain-shreve-high-school",
+   "name": "Captain Shreve High School",
+   "cat": "charity",
+   "img": "captain-shreve-high-school.webp"
+  },
+  {
+   "id": "carencro-high-school",
+   "name": "Carencro High School",
+   "cat": "charity",
+   "img": "carencro-high-school.webp"
+  },
+  {
+   "id": "catholic-high-school",
+   "name": "Catholic High School",
+   "cat": "charity",
+   "img": "catholic-high-school.webp"
+  },
+  {
+   "id": "centenary",
+   "name": "Centenary",
+   "cat": "other",
+   "img": "centenary.webp"
+  },
+  {
+   "id": "charles-dunbar-award",
+   "name": "Charles Dunbar Award",
+   "cat": "other",
+   "img": "charles-dunbar-award.webp"
+  },
+  {
+   "id": "chez-nous-autres",
+   "name": "Chez Nous Autres",
+   "cat": "other",
+   "img": "chez-nous-autres.webp"
+  },
+  {
+   "id": "child-safety",
+   "name": "Child Safety",
+   "cat": "charity",
+   "img": "child-safety.webp"
+  },
+  {
+   "id": "choose-life",
+   "name": "Choose Life",
+   "cat": "other",
+   "img": "choose-life.webp"
+  },
+  {
+   "id": "civil-air-patrol",
+   "name": "Civil Air Patrol",
+   "cat": "other",
+   "img": "civil-air-patrol.webp"
+  },
+  {
+   "id": "coast-guard",
+   "name": "Coast Guard",
+   "cat": "military",
+   "img": "coast-guard.webp"
+  },
+  {
+   "id": "coastal-conservation",
+   "name": "Coastal Conservation",
+   "cat": "nature",
+   "img": "coastal-conservation.webp"
+  },
+  {
+   "id": "commissioned-police-officer",
+   "name": "Commissioned Police Officer",
+   "cat": "firstresponder",
+   "img": "commissioned-police-officer.webp"
+  },
+  {
+   "id": "congressional-medal-of-honor",
+   "name": "Congressional Medal of Honor",
+   "cat": "veterans",
+   "img": "congressional-medal-of-honor.webp"
+  },
+  {
+   "id": "delgado-community",
+   "name": "Delgado Community",
+   "cat": "other",
+   "img": "delgado-community.webp"
+  },
+  {
+   "id": "delta-sigma-theta",
+   "name": "Delta Sigma Theta",
+   "cat": "other",
+   "img": "delta-sigma-theta.webp"
+  },
+  {
+   "id": "delta-waterfowl",
+   "name": "Delta Waterfowl",
+   "cat": "nature",
+   "img": "delta-waterfowl.webp"
+  },
+  {
+   "id": "deridder-high-school",
+   "name": "Deridder High School",
+   "cat": "charity",
+   "img": "deridder-high-school.webp"
+  },
+  {
+   "id": "desert-storm-air-force",
+   "name": "Desert Storm Air Force",
+   "cat": "veterans",
+   "img": "desert-storm-air-force.webp"
+  },
+  {
+   "id": "desert-storm-army",
+   "name": "Desert Storm Army",
+   "cat": "veterans",
+   "img": "desert-storm-army.webp"
+  },
+  {
+   "id": "desert-storm-coast-guard",
+   "name": "Desert Storm Coast Guard",
+   "cat": "veterans",
+   "img": "desert-storm-coast-guard.webp"
+  },
+  {
+   "id": "desert-storm-marine-corps",
+   "name": "Desert Storm Marine Corps",
+   "cat": "veterans",
+   "img": "desert-storm-marine-corps.webp"
+  },
+  {
+   "id": "desert-storm-navy",
+   "name": "Desert Storm Navy",
+   "cat": "veterans",
+   "img": "desert-storm-navy.webp"
+  },
+  {
+   "id": "dillard-university",
+   "name": "Dillard University",
+   "cat": "colleges",
+   "img": "dillard-university.webp"
+  },
+  {
+   "id": "disabled-veteran",
+   "name": "Disabled Veteran",
+   "cat": "veterans",
+   "img": "disabled-veteran.webp"
+  },
+  {
+   "id": "distinguished-service-cross",
+   "name": "Distinguished Service Cross",
+   "cat": "veterans",
+   "img": "distinguished-service-cross.webp"
+  },
+  {
+   "id": "down-syndrome-awareness",
+   "name": "Down Syndrome Awareness",
+   "cat": "charity",
+   "img": "down-syndrome-awareness.webp"
+  },
+  {
+   "id": "ducks-unlimited",
+   "name": "Ducks Unlimited",
+   "cat": "nature",
+   "img": "ducks-unlimited.webp"
+  },
+  {
+   "id": "educator",
+   "name": "Educator",
+   "cat": "charity",
+   "img": "educator.webp"
+  },
+  {
+   "id": "emergency-medical-technician",
+   "name": "Emergency Medical Technician",
+   "cat": "firstresponder",
+   "img": "emergency-medical-technician.webp"
+  },
+  {
+   "id": "endangered-species",
+   "name": "Endangered Species",
+   "cat": "other",
+   "img": "endangered-species.webp"
+  },
+  {
+   "id": "environmental-education",
+   "name": "Environmental Education",
+   "cat": "nature",
+   "img": "environmental-education.webp"
+  },
+  {
+   "id": "esther-grand-eastern-star",
+   "name": "Esther Grand-Eastern Star",
+   "cat": "hobby",
+   "img": "esther-grand-eastern-star.webp"
+  },
+  {
+   "id": "ex-prisoner-of-war",
+   "name": "Ex-prisoner of War",
+   "cat": "veterans",
+   "img": "ex-prisoner-of-war.webp"
+  },
+  {
+   "id": "family-of-officer-killed",
+   "name": "Family of Officer Killed",
+   "cat": "other",
+   "img": "family-of-officer-killed.webp"
+  },
+  {
+   "id": "feeding-hope",
+   "name": "Feeding Hope",
+   "cat": "other",
+   "img": "feeding-hope.webp"
+  },
+  {
+   "id": "fletcher-community-college",
+   "name": "Fletcher Community College",
+   "cat": "colleges",
+   "img": "fletcher-community-college.webp"
+  },
+  {
+   "id": "fraternal-order-of-police",
+   "name": "Fraternal Order of Police",
+   "cat": "firstresponder",
+   "img": "fraternal-order-of-police.webp"
+  },
+  {
+   "id": "george-washington-carver",
+   "name": "George Washington Carver",
+   "cat": "other",
+   "img": "george-washington-carver.webp"
+  },
+  {
+   "id": "girl-scout",
+   "name": "Girl Scout",
+   "cat": "charity",
+   "img": "girl-scout.webp"
+  },
+  {
+   "id": "globalwaronterrorism",
+   "name": "GlobalWarOnTerrorism",
+   "cat": "other",
+   "img": "globalwaronterrorism.webp"
+  },
+  {
+   "id": "gold-star",
+   "name": "Gold Star",
+   "cat": "veterans",
+   "img": "gold-star.webp"
+  },
+  {
+   "id": "grambling-state",
+   "name": "Grambling State",
+   "cat": "other",
+   "img": "grambling-state.webp"
+  },
+  {
+   "id": "grand-lodge",
+   "name": "Grand Lodge",
+   "cat": "other",
+   "img": "grand-lodge.webp"
+  },
+  {
+   "id": "grotto",
+   "name": "Grotto",
+   "cat": "other",
+   "img": "grotto.webp"
+  },
+  {
+   "id": "helping-schools",
+   "name": "Helping Schools",
+   "cat": "charity",
+   "img": "helping-schools.webp"
+  },
+  {
+   "id": "holy-cross-school",
+   "name": "Holy Cross School",
+   "cat": "charity",
+   "img": "holy-cross-school.webp"
+  },
+  {
+   "id": "honey-bee",
+   "name": "Honey Bee",
+   "cat": "other",
+   "img": "honey-bee.webp"
+  },
+  {
+   "id": "human-jukebox",
+   "name": "Human Jukebox",
+   "cat": "other",
+   "img": "human-jukebox.webp"
+  },
+  {
+   "id": "hunters-for-the-hungry",
+   "name": "Hunters for the hungry",
+   "cat": "other",
+   "img": "hunters-for-the-hungry.webp"
+  },
+  {
+   "id": "i-m-cajun-and-proud",
+   "name": "I'm Cajun ... and Proud!",
+   "cat": "other",
+   "img": "i-m-cajun-and-proud.webp"
+  },
+  {
+   "id": "i-m-creole-and-proud",
+   "name": "I'm Creole ... and Proud!",
+   "cat": "other",
+   "img": "i-m-creole-and-proud.webp"
+  },
+  {
+   "id": "in-god-we-trust",
+   "name": "In God We Trust",
+   "cat": "charity",
+   "img": "in-god-we-trust.webp"
+  },
+  {
+   "id": "iraq-campaign-veteran",
+   "name": "Iraq Campaign Veteran",
+   "cat": "veterans",
+   "img": "iraq-campaign-veteran.webp"
+  },
+  {
+   "id": "jc-christian",
+   "name": "JC Christian",
+   "cat": "other",
+   "img": "jc-christian.webp"
+  },
+  {
+   "id": "jesuit-high-school",
+   "name": "Jesuit High School",
+   "cat": "charity",
+   "img": "jesuit-high-school.webp"
+  },
+  {
+   "id": "k9s4cops",
+   "name": "K9s4COPS",
+   "cat": "other",
+   "img": "k9s4cops.webp"
+  },
+  {
+   "id": "kappa-alpha-psi",
+   "name": "Kappa Alpha Psi",
+   "cat": "other",
+   "img": "kappa-alpha-psi.webp"
+  },
+  {
+   "id": "knights-ladies-of-peter-clave",
+   "name": "Knights Ladies of Peter Clave",
+   "cat": "hobby",
+   "img": "knights-ladies-of-peter-clave.webp"
+  },
+  {
+   "id": "knights-of-columbus",
+   "name": "Knights of Columbus",
+   "cat": "hobby",
+   "img": "knights-of-columbus.webp"
+  },
+  {
+   "id": "korean-veteran-service",
+   "name": "Korean Veteran Service",
+   "cat": "veterans",
+   "img": "korean-veteran-service.webp"
+  },
+  {
+   "id": "korean-war-air-force",
+   "name": "Korean War Air Force",
+   "cat": "veterans",
+   "img": "korean-war-air-force.webp"
+  },
+  {
+   "id": "korean-war-army",
+   "name": "Korean War Army",
+   "cat": "veterans",
+   "img": "korean-war-army.webp"
+  },
+  {
+   "id": "korean-war-coast-guard",
+   "name": "Korean War Coast Guard",
+   "cat": "veterans",
+   "img": "korean-war-coast-guard.webp"
+  },
+  {
+   "id": "korean-war-marine-corps",
+   "name": "Korean War Marine Corps",
+   "cat": "veterans",
+   "img": "korean-war-marine-corps.webp"
+  },
+  {
+   "id": "korean-war-navy",
+   "name": "Korean War Navy",
+   "cat": "veterans",
+   "img": "korean-war-navy.webp"
+  },
+  {
+   "id": "krewe-of-nyx",
+   "name": "Krewe of Nyx",
+   "cat": "other",
+   "img": "krewe-of-nyx.webp"
+  },
+  {
+   "id": "la-cattlemen-association",
+   "name": "LA Cattlemen Association",
+   "cat": "charity",
+   "img": "la-cattlemen-association.webp"
+  },
+  {
+   "id": "la-coalition-against-violence",
+   "name": "LA Coalition Against Violence",
+   "cat": "other",
+   "img": "la-coalition-against-violence.webp"
+  },
+  {
+   "id": "la-energystate",
+   "name": "LA EnergyState",
+   "cat": "other",
+   "img": "la-energystate.webp"
+  },
+  {
+   "id": "la-water-wastewater-operato",
+   "name": "LA Water & Wastewater Operato",
+   "cat": "other",
+   "img": "la-water-wastewater-operato.webp"
+  },
+  {
+   "id": "laos-war-veteran",
+   "name": "Laos War Veteran",
+   "cat": "veterans",
+   "img": "laos-war-veteran.webp"
+  },
+  {
+   "id": "life-center-full-gospel",
+   "name": "Life Center Full Gospel",
+   "cat": "other",
+   "img": "life-center-full-gospel.webp"
+  },
+  {
+   "id": "lions-international",
+   "name": "Lions International",
+   "cat": "sports",
+   "img": "lions-international.webp"
+  },
+  {
+   "id": "louisiana-agriculture",
+   "name": "Louisiana Agriculture",
+   "cat": "charity",
+   "img": "louisiana-agriculture.webp"
+  },
+  {
+   "id": "louisiana-aids-advocacy",
+   "name": "Louisiana AIDS Advocacy",
+   "cat": "other",
+   "img": "louisiana-aids-advocacy.webp"
+  },
+  {
+   "id": "louisiana-black-bear",
+   "name": "Louisiana Black Bear",
+   "cat": "nature",
+   "img": "louisiana-black-bear.webp"
+  },
+  {
+   "id": "louisiana-christian-university",
+   "name": "Louisiana Christian University",
+   "cat": "colleges",
+   "img": "louisiana-christian-university.webp"
+  },
+  {
+   "id": "louisiana-largemouth-bass",
+   "name": "Louisiana Largemouth Bass",
+   "cat": "nature",
+   "img": "louisiana-largemouth-bass.webp"
+  },
+  {
+   "id": "louisiana-motor-transport",
+   "name": "Louisiana Motor Transport",
+   "cat": "other",
+   "img": "louisiana-motor-transport.webp"
+  },
+  {
+   "id": "louisiana-notary",
+   "name": "Louisiana Notary",
+   "cat": "other",
+   "img": "louisiana-notary.webp"
+  },
+  {
+   "id": "louisiana-notary-association",
+   "name": "Louisiana Notary Association",
+   "cat": "charity",
+   "img": "louisiana-notary-association.webp"
+  },
+  {
+   "id": "louisiana-nurses-foundation",
+   "name": "Louisiana Nurses Foundation",
+   "cat": "charity",
+   "img": "louisiana-nurses-foundation.webp"
+  },
+  {
+   "id": "louisiana-organ-donation",
+   "name": "Louisiana Organ Donation",
+   "cat": "other",
+   "img": "louisiana-organ-donation.webp"
+  },
+  {
+   "id": "louisiana-realtors",
+   "name": "Louisiana Realtors",
+   "cat": "other",
+   "img": "louisiana-realtors.webp"
+  },
+  {
+   "id": "louisiana-rotary",
+   "name": "Louisiana Rotary",
+   "cat": "hobby",
+   "img": "louisiana-rotary.webp"
+  },
+  {
+   "id": "louisiana-seafood",
+   "name": "Louisiana Seafood",
+   "cat": "other",
+   "img": "louisiana-seafood.webp"
+  },
+  {
+   "id": "louisiana-special-olympics",
+   "name": "Louisiana Special Olympics",
+   "cat": "sports",
+   "img": "louisiana-special-olympics.webp"
+  },
+  {
+   "id": "louisiana-tech-university",
+   "name": "Louisiana Tech University",
+   "cat": "colleges",
+   "img": "louisiana-tech-university.webp"
+  },
+  {
+   "id": "loyola-university",
+   "name": "Loyola University",
+   "cat": "colleges",
+   "img": "loyola-university.webp"
+  },
+  {
+   "id": "lsu",
+   "name": "LSU",
+   "cat": "other",
+   "img": "lsu.webp"
+  },
+  {
+   "id": "lsu-alexandria",
+   "name": "LSU - Alexandria",
+   "cat": "other",
+   "img": "lsu-alexandria.webp"
+  },
+  {
+   "id": "lsu-eunice",
+   "name": "LSU - Eunice",
+   "cat": "other",
+   "img": "lsu-eunice.webp"
+  },
+  {
+   "id": "lsu-shreveport",
+   "name": "LSU - Shreveport",
+   "cat": "other",
+   "img": "lsu-shreveport.webp"
+  },
+  {
+   "id": "lsu-national-champs-2019",
+   "name": "LSU National Champs 2019",
+   "cat": "other",
+   "img": "lsu-national-champs-2019.webp"
+  },
+  {
+   "id": "lsu-school-of-dentistry",
+   "name": "LSU School of Dentistry",
+   "cat": "charity",
+   "img": "lsu-school-of-dentistry.webp"
+  },
+  {
+   "id": "lung-cancer",
+   "name": "Lung Cancer",
+   "cat": "charity",
+   "img": "lung-cancer.webp"
+  },
+  {
+   "id": "m-w-prince-hall",
+   "name": "M.W. Prince Hall",
+   "cat": "other",
+   "img": "m-w-prince-hall.webp"
+  },
+  {
+   "id": "marine-corps",
+   "name": "Marine Corps",
+   "cat": "military",
+   "img": "marine-corps.webp"
+  },
+  {
+   "id": "marine-corps-league",
+   "name": "Marine Corps League",
+   "cat": "military",
+   "img": "marine-corps-league.webp"
+  },
+  {
+   "id": "math-science-arts",
+   "name": "Math Science Arts",
+   "cat": "hobby",
+   "img": "math-science-arts.webp"
+  },
+  {
+   "id": "mcdonogh-high-school",
+   "name": "McDonogh High School",
+   "cat": "charity",
+   "img": "mcdonogh-high-school.webp"
+  },
+  {
+   "id": "mckinley-senior-high-school",
+   "name": "McKinley Senior High School",
+   "cat": "charity",
+   "img": "mckinley-senior-high-school.webp"
+  },
+  {
+   "id": "mcneese-state-university",
+   "name": "Mcneese State University",
+   "cat": "colleges",
+   "img": "mcneese-state-university.webp"
+  },
+  {
+   "id": "merchant-marine-kings-point",
+   "name": "Merchant Marine Kings Point",
+   "cat": "military",
+   "img": "merchant-marine-kings-point.webp"
+  },
+  {
+   "id": "merchant-marine-veteran",
+   "name": "Merchant Marine Veteran",
+   "cat": "veterans",
+   "img": "merchant-marine-veteran.webp"
+  },
+  {
+   "id": "military-honors",
+   "name": "Military Honors",
+   "cat": "military",
+   "img": "military-honors.webp"
+  },
+  {
+   "id": "national-guard",
+   "name": "National Guard",
+   "cat": "military",
+   "img": "national-guard.webp"
+  },
+  {
+   "id": "national-rifle-association",
+   "name": "National Rifle Association",
+   "cat": "charity",
+   "img": "national-rifle-association.webp"
+  },
+  {
+   "id": "navy",
+   "name": "Navy",
+   "cat": "military",
+   "img": "navy.webp"
+  },
+  {
+   "id": "new-orleans-saints",
+   "name": "New Orleans Saints",
+   "cat": "sports",
+   "img": "new-orleans-saints.webp"
+  },
+  {
+   "id": "nicholls-state",
+   "name": "Nicholls State",
+   "cat": "other",
+   "img": "nicholls-state.webp"
+  },
+  {
+   "id": "northshore-technical-community",
+   "name": "Northshore Technical Community",
+   "cat": "other",
+   "img": "northshore-technical-community.webp"
+  },
+  {
+   "id": "northwestern-state-university",
+   "name": "Northwestern State University",
+   "cat": "colleges",
+   "img": "northwestern-state-university.webp"
+  },
+  {
+   "id": "northwood-high-school",
+   "name": "Northwood High School",
+   "cat": "charity",
+   "img": "northwood-high-school.webp"
+  },
+  {
+   "id": "old-antique",
+   "name": "Old Antique",
+   "cat": "vehicle",
+   "img": "old-antique.webp"
+  },
+  {
+   "id": "omega-psi-phi",
+   "name": "Omega Psi Phi",
+   "cat": "other",
+   "img": "omega-psi-phi.webp"
+  },
+  {
+   "id": "our-lady-of-the-lake",
+   "name": "Our Lady of The Lake",
+   "cat": "nature",
+   "img": "our-lady-of-the-lake.webp"
+  },
+  {
+   "id": "pearl-harbor-survivor",
+   "name": "Pearl Harbor Survivor",
+   "cat": "veterans",
+   "img": "pearl-harbor-survivor.webp"
+  },
+  {
+   "id": "phi-beta-sigma",
+   "name": "Phi Beta Sigma",
+   "cat": "other",
+   "img": "phi-beta-sigma.webp"
+  },
+  {
+   "id": "private-shriner",
+   "name": "Private Shriner",
+   "cat": "hobby",
+   "img": "private-shriner.webp"
+  },
+  {
+   "id": "professional-firefighters",
+   "name": "Professional Firefighters",
+   "cat": "firstresponder",
+   "img": "professional-firefighters.webp"
+  },
+  {
+   "id": "professional-geoscientist",
+   "name": "Professional Geoscientist",
+   "cat": "other",
+   "img": "professional-geoscientist.webp"
+  },
+  {
+   "id": "protect-our-forest",
+   "name": "Protect Our Forest",
+   "cat": "nature",
+   "img": "protect-our-forest.webp"
+  },
+  {
+   "id": "protect-wild-dolphins",
+   "name": "Protect Wild Dolphins",
+   "cat": "sports",
+   "img": "protect-wild-dolphins.webp"
+  },
+  {
+   "id": "purple-heart",
+   "name": "Purple Heart",
+   "cat": "veterans",
+   "img": "purple-heart.webp"
+  },
+  {
+   "id": "quail-forever",
+   "name": "Quail Forever",
+   "cat": "nature",
+   "img": "quail-forever.webp"
+  },
+  {
+   "id": "reserve-forces",
+   "name": "Reserve Forces",
+   "cat": "military",
+   "img": "reserve-forces.webp"
+  },
+  {
+   "id": "retired-air-force",
+   "name": "Retired Air Force",
+   "cat": "military",
+   "img": "retired-air-force.webp"
+  },
+  {
+   "id": "retired-army",
+   "name": "Retired Army",
+   "cat": "military",
+   "img": "retired-army.webp"
+  },
+  {
+   "id": "retired-coast-guard",
+   "name": "Retired Coast Guard",
+   "cat": "military",
+   "img": "retired-coast-guard.webp"
+  },
+  {
+   "id": "retired-firefighters",
+   "name": "Retired Firefighters",
+   "cat": "firstresponder",
+   "img": "retired-firefighters.webp"
+  },
+  {
+   "id": "retired-law-officer",
+   "name": "Retired Law Officer",
+   "cat": "other",
+   "img": "retired-law-officer.webp"
+  },
+  {
+   "id": "retired-marine-corps",
+   "name": "Retired Marine Corps",
+   "cat": "military",
+   "img": "retired-marine-corps.webp"
+  },
+  {
+   "id": "retired-navy",
+   "name": "Retired Navy",
+   "cat": "military",
+   "img": "retired-navy.webp"
+  },
+  {
+   "id": "retired-reserve-force",
+   "name": "Retired Reserve Force",
+   "cat": "military",
+   "img": "retired-reserve-force.webp"
+  },
+  {
+   "id": "river-parish-community",
+   "name": "River Parish Community",
+   "cat": "nature",
+   "img": "river-parish-community.webp"
+  },
+  {
+   "id": "sabine-pass-lighthouse",
+   "name": "Sabine Pass Lighthouse",
+   "cat": "nature",
+   "img": "sabine-pass-lighthouse.webp"
+  },
+  {
+   "id": "seniors-our-heritage",
+   "name": "Seniors Our Heritage",
+   "cat": "charity",
+   "img": "seniors-our-heritage.webp"
+  },
+  {
+   "id": "seymore-dfair",
+   "name": "Seymore DFair",
+   "cat": "other",
+   "img": "seymore-dfair.webp"
+  },
+  {
+   "id": "share-the-road",
+   "name": "Share The Road",
+   "cat": "hobby",
+   "img": "share-the-road.webp"
+  },
+  {
+   "id": "shriner",
+   "name": "Shriner",
+   "cat": "hobby",
+   "img": "shriner.webp"
+  },
+  {
+   "id": "sons-of-confederate-veterans",
+   "name": "Sons of Confederate Veterans",
+   "cat": "veterans",
+   "img": "sons-of-confederate-veterans.webp"
+  },
+  {
+   "id": "southeastern",
+   "name": "Southeastern",
+   "cat": "other",
+   "img": "southeastern.webp"
+  },
+  {
+   "id": "southern-baton-rouge",
+   "name": "Southern - Baton Rouge",
+   "cat": "other",
+   "img": "southern-baton-rouge.webp"
+  },
+  {
+   "id": "southern-new-orleans",
+   "name": "Southern - New Orleans",
+   "cat": "other",
+   "img": "southern-new-orleans.webp"
+  },
+  {
+   "id": "southern-shreveport",
+   "name": "Southern - Shreveport",
+   "cat": "other",
+   "img": "southern-shreveport.webp"
+  },
+  {
+   "id": "southern-law-center",
+   "name": "Southern Law Center",
+   "cat": "other",
+   "img": "southern-law-center.webp"
+  },
+  {
+   "id": "st-augustine-high-school",
+   "name": "St. Augustine High School",
+   "cat": "charity",
+   "img": "st-augustine-high-school.webp"
+  },
+  {
+   "id": "st-jude-hospital",
+   "name": "St. Jude Hospital",
+   "cat": "charity",
+   "img": "st-jude-hospital.webp"
+  },
+  {
+   "id": "st-vincent-de-paul",
+   "name": "St. Vincent de Paul",
+   "cat": "other",
+   "img": "st-vincent-de-paul.webp"
+  },
+  {
+   "id": "street-cruiser",
+   "name": "Street Cruiser",
+   "cat": "other",
+   "img": "street-cruiser.webp"
+  },
+  {
+   "id": "street-rod",
+   "name": "Street Rod",
+   "cat": "vehicle",
+   "img": "street-rod.webp"
+  },
+  {
+   "id": "support-our-troops",
+   "name": "Support Our Troops",
+   "cat": "charity",
+   "img": "support-our-troops.webp"
+  },
+  {
+   "id": "support-our-veterans",
+   "name": "Support Our Veterans",
+   "cat": "veterans",
+   "img": "support-our-veterans.webp"
+  },
+  {
+   "id": "tchefuncte-lighthouse",
+   "name": "Tchefuncte Lighthouse",
+   "cat": "nature",
+   "img": "tchefuncte-lighthouse.webp"
+  },
+  {
+   "id": "town-of-ball",
+   "name": "Town of Ball",
+   "cat": "other",
+   "img": "town-of-ball.webp"
+  },
+  {
+   "id": "tulane-university",
+   "name": "Tulane University",
+   "cat": "colleges",
+   "img": "tulane-university.webp"
+  },
+  {
+   "id": "u-s-air-force",
+   "name": "U.S. Air Force",
+   "cat": "military",
+   "img": "u-s-air-force.webp"
+  },
+  {
+   "id": "u-s-army",
+   "name": "U.S. Army",
+   "cat": "military",
+   "img": "u-s-army.webp"
+  },
+  {
+   "id": "u-s-army-airborne",
+   "name": "U.S. Army Airborne",
+   "cat": "military",
+   "img": "u-s-army-airborne.webp"
+  },
+  {
+   "id": "u-s-army-ranger",
+   "name": "U.S. Army Ranger",
+   "cat": "military",
+   "img": "u-s-army-ranger.webp"
+  },
+  {
+   "id": "u-s-marinecorps",
+   "name": "U.S. MarineCorps",
+   "cat": "other",
+   "img": "u-s-marinecorps.webp"
+  },
+  {
+   "id": "u-s-navy",
+   "name": "U.S. Navy",
+   "cat": "military",
+   "img": "u-s-navy.webp"
+  },
+  {
+   "id": "university-high-school",
+   "name": "University High School",
+   "cat": "colleges",
+   "img": "university-high-school.webp"
+  },
+  {
+   "id": "university-of-la-monroe",
+   "name": "University of LA/Monroe",
+   "cat": "colleges",
+   "img": "university-of-la-monroe.webp"
+  },
+  {
+   "id": "university-of-louisiana-at-la",
+   "name": "University of Louisiana At La",
+   "cat": "colleges",
+   "img": "university-of-louisiana-at-la.webp"
+  },
+  {
+   "id": "university-of-new-orleans",
+   "name": "University of New Orleans",
+   "cat": "colleges",
+   "img": "university-of-new-orleans.webp"
+  },
+  {
+   "id": "unlocking-autism",
+   "name": "Unlocking Autism",
+   "cat": "charity",
+   "img": "unlocking-autism.webp"
+  },
+  {
+   "id": "ursuline-academy",
+   "name": "Ursuline Academy",
+   "cat": "other",
+   "img": "ursuline-academy.webp"
+  },
+  {
+   "id": "vietnam-air-force",
+   "name": "Vietnam Air Force",
+   "cat": "veterans",
+   "img": "vietnam-air-force.webp"
+  },
+  {
+   "id": "vietnam-army",
+   "name": "Vietnam Army",
+   "cat": "veterans",
+   "img": "vietnam-army.webp"
+  },
+  {
+   "id": "vietnam-coast-guard",
+   "name": "Vietnam Coast Guard",
+   "cat": "veterans",
+   "img": "vietnam-coast-guard.webp"
+  },
+  {
+   "id": "vietnam-marine-corps",
+   "name": "Vietnam Marine Corps",
+   "cat": "veterans",
+   "img": "vietnam-marine-corps.webp"
+  },
+  {
+   "id": "vietnam-navy",
+   "name": "Vietnam Navy",
+   "cat": "veterans",
+   "img": "vietnam-navy.webp"
+  },
+  {
+   "id": "volunteer-firefighters",
+   "name": "Volunteer Firefighters",
+   "cat": "firstresponder",
+   "img": "volunteer-firefighters.webp"
+  },
+  {
+   "id": "w-monroe-hs",
+   "name": "W Monroe HS",
+   "cat": "other",
+   "img": "w-monroe-hs.webp"
+  },
+  {
+   "id": "washington-artillery",
+   "name": "Washington Artillery",
+   "cat": "other",
+   "img": "washington-artillery.webp"
+  },
+  {
+   "id": "west-feliciana-high-school",
+   "name": "West Feliciana High School",
+   "cat": "charity",
+   "img": "west-feliciana-high-school.webp"
+  },
+  {
+   "id": "west-point",
+   "name": "West Point",
+   "cat": "other",
+   "img": "west-point.webp"
+  },
+  {
+   "id": "white-tail-deer",
+   "name": "White Tail Deer",
+   "cat": "nature",
+   "img": "white-tail-deer.webp"
+  },
+  {
+   "id": "wild-turkey-federation",
+   "name": "Wild Turkey Federation",
+   "cat": "sports",
+   "img": "wild-turkey-federation.webp"
+  },
+  {
+   "id": "world-war-ii-veteran",
+   "name": "World War II Veteran",
+   "cat": "veterans",
+   "img": "world-war-ii-veteran.webp"
+  },
+  {
+   "id": "wwoz-guardians-of-the-groove",
+   "name": "WWOZ Guardians of The Groove",
+   "cat": "other",
+   "img": "wwoz-guardians-of-the-groove.webp"
+  },
+  {
+   "id": "xavier-university",
+   "name": "Xavier University",
+   "cat": "colleges",
+   "img": "xavier-university.webp"
+  },
+  {
+   "id": "zeta-phi-beta",
+   "name": "Zeta Phi Beta",
+   "cat": "other",
+   "img": "zeta-phi-beta.webp"
+  },
+  {
+   "id": "zulu-social-aid-and-club",
+   "name": "Zulu Social Aid and Club",
+   "cat": "charity",
+   "img": "zulu-social-aid-and-club.webp"
+  }
+ ]
+}

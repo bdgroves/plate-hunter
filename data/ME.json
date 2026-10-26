@@ -1,0 +1,220 @@
+{
+ "code": "ME",
+ "name": "Maine",
+ "rated": false,
+ "checked": false,
+ "updated": "2026-10-25",
+ "about": "Maine special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "sources": [
+  {
+   "title": "Jon Keegan, us-license-plates (2023)",
+   "url": "https://github.com/jonkeegan/us-license-plates"
+  }
+ ],
+ "plates": [
+  {
+   "id": "agriculture-commerical",
+   "name": "Agriculture - Commerical",
+   "cat": "charity",
+   "img": "agriculture-commerical.webp"
+  },
+  {
+   "id": "agriculture",
+   "name": "Agriculture",
+   "cat": "charity",
+   "img": "agriculture.webp"
+  },
+  {
+   "id": "amputee-loss-of-use-of-limb-s-or-blind-v",
+   "name": "Amputee/Loss of Use of Limb(s), or Blind Veteran",
+   "cat": "veterans",
+   "img": "amputee-loss-of-use-of-limb-s-or-blind-v.webp"
+  },
+  {
+   "id": "animal-welfare",
+   "name": "Animal Welfare",
+   "cat": "charity",
+   "img": "animal-welfare.webp"
+  },
+  {
+   "id": "antique",
+   "name": "Antique",
+   "cat": "vehicle",
+   "img": "antique.webp"
+  },
+  {
+   "id": "barbara-bush-childrens-hospital",
+   "name": "Barbara Bush Childrens Hospital",
+   "cat": "charity",
+   "img": "barbara-bush-childrens-hospital.webp"
+  },
+  {
+   "id": "black-bear",
+   "name": "Black Bear",
+   "cat": "nature",
+   "img": "black-bear.webp"
+  },
+  {
+   "id": "breast-cancer-support",
+   "name": "Breast Cancer Support",
+   "cat": "charity",
+   "img": "breast-cancer-support.webp"
+  },
+  {
+   "id": "combination",
+   "name": "Combination",
+   "cat": "other",
+   "img": "combination.webp"
+  },
+  {
+   "id": "conservation",
+   "name": "Conservation",
+   "cat": "nature",
+   "img": "conservation.webp"
+  },
+  {
+   "id": "custom",
+   "name": "Custom",
+   "cat": "vehicle",
+   "img": "custom.webp"
+  },
+  {
+   "id": "disability",
+   "name": "Disability",
+   "cat": "charity",
+   "img": "disability.webp"
+  },
+  {
+   "id": "disability-special-veteran",
+   "name": "Disability Special Veteran",
+   "cat": "veterans",
+   "img": "disability-special-veteran.webp"
+  },
+  {
+   "id": "disability-special-veteran-decal",
+   "name": "Disability Special Veteran- Decal",
+   "cat": "veterans",
+   "img": "disability-special-veteran-decal.webp"
+  },
+  {
+   "id": "disabled-veteran-parking",
+   "name": "Disabled Veteran Parking",
+   "cat": "veterans",
+   "img": "disabled-veteran-parking.webp"
+  },
+  {
+   "id": "disabled-veteran",
+   "name": "Disabled Veteran",
+   "cat": "veterans",
+   "img": "disabled-veteran.webp"
+  },
+  {
+   "id": "emergency-medical-services",
+   "name": "Emergency Medical Services",
+   "cat": "firstresponder",
+   "img": "emergency-medical-services.webp"
+  },
+  {
+   "id": "firefighter",
+   "name": "Firefighter",
+   "cat": "firstresponder",
+   "img": "firefighter.webp"
+  },
+  {
+   "id": "gold-star-family-gold",
+   "name": "Gold Star Family - Gold",
+   "cat": "veterans",
+   "img": "gold-star-family-gold.webp"
+  },
+  {
+   "id": "gold-star-family-purple",
+   "name": "Gold Star Family - Purple",
+   "cat": "veterans",
+   "img": "gold-star-family-purple.webp"
+  },
+  {
+   "id": "hire",
+   "name": "Hire",
+   "cat": "other",
+   "img": "hire.webp"
+  },
+  {
+   "id": "lighthouse-trust",
+   "name": "Lighthouse Trust",
+   "cat": "nature",
+   "img": "lighthouse-trust.webp"
+  },
+  {
+   "id": "lobster",
+   "name": "Lobster",
+   "cat": "other",
+   "img": "lobster.webp"
+  },
+  {
+   "id": "motor-home",
+   "name": "Motor Home",
+   "cat": "vehicle",
+   "img": "motor-home.webp"
+  },
+  {
+   "id": "pearl-harbor-survivor",
+   "name": "Pearl Harbor Survivor",
+   "cat": "veterans",
+   "img": "pearl-harbor-survivor.webp"
+  },
+  {
+   "id": "purple-heart",
+   "name": "Purple Heart",
+   "cat": "veterans",
+   "img": "purple-heart.webp"
+  },
+  {
+   "id": "special-veteran",
+   "name": "Special Veteran",
+   "cat": "veterans",
+   "img": "special-veteran.webp"
+  },
+  {
+   "id": "special-veteran-decal",
+   "name": "Special Veteran- Decal",
+   "cat": "veterans",
+   "img": "special-veteran-decal.webp"
+  },
+  {
+   "id": "sportsman",
+   "name": "Sportsman",
+   "cat": "nature",
+   "img": "sportsman.webp"
+  },
+  {
+   "id": "street-rod",
+   "name": "Street Rod",
+   "cat": "vehicle",
+   "img": "street-rod.webp"
+  },
+  {
+   "id": "support-troops",
+   "name": "Support Troops",
+   "cat": "charity",
+   "img": "support-troops.webp"
+  },
+  {
+   "id": "university-of-maine",
+   "name": "University of Maine",
+   "cat": "colleges",
+   "img": "university-of-maine.webp"
+  },
+  {
+   "id": "wabanaki",
+   "name": "Wabanaki",
+   "cat": "other",
+   "img": "wabanaki.webp"
+  },
+  {
+   "id": "wabanaki-recognition",
+   "name": "Wabanaki Recognition",
+   "cat": "other",
+   "img": "wabanaki-recognition.webp"
+  }
+ ]
+}

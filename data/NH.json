@@ -1,0 +1,106 @@
+{
+ "code": "NH",
+ "name": "New Hampshire",
+ "rated": false,
+ "checked": false,
+ "updated": "2026-10-25",
+ "about": "New Hampshire special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "sources": [
+  {
+   "title": "Jon Keegan, us-license-plates (2023)",
+   "url": "https://github.com/jonkeegan/us-license-plates"
+  }
+ ],
+ "plates": [
+  {
+   "id": "active-duty-military",
+   "name": "Active Duty Military",
+   "cat": "military",
+   "img": "active-duty-military.webp"
+  },
+  {
+   "id": "agricultural",
+   "name": "Agricultural",
+   "cat": "charity",
+   "img": "agricultural.webp"
+  },
+  {
+   "id": "ambulance",
+   "name": "Ambulance",
+   "cat": "other",
+   "img": "ambulance.webp"
+  },
+  {
+   "id": "antique",
+   "name": "Antique",
+   "cat": "vehicle",
+   "img": "antique.webp"
+  },
+  {
+   "id": "conservation-moose",
+   "name": "Conservation (Moose",
+   "cat": "nature",
+   "img": "conservation-moose.webp"
+  },
+  {
+   "id": "conservation-and-state-park",
+   "name": "Conservation and State Park",
+   "cat": "nature",
+   "img": "conservation-and-state-park.webp"
+  },
+  {
+   "id": "disabled-veteran",
+   "name": "Disabled Veteran",
+   "cat": "veterans",
+   "img": "disabled-veteran.webp"
+  },
+  {
+   "id": "farm",
+   "name": "Farm",
+   "cat": "vehicle",
+   "img": "farm.webp"
+  },
+  {
+   "id": "former-prisoner-of-war",
+   "name": "Former Prisoner of War",
+   "cat": "veterans",
+   "img": "former-prisoner-of-war.webp"
+  },
+  {
+   "id": "national-guard",
+   "name": "National Guard",
+   "cat": "military",
+   "img": "national-guard.webp"
+  },
+  {
+   "id": "pearl-harbor-survivor",
+   "name": "Pearl Harbor Survivor",
+   "cat": "veterans",
+   "img": "pearl-harbor-survivor.webp"
+  },
+  {
+   "id": "purple-heart",
+   "name": "Purple Heart",
+   "cat": "veterans",
+   "img": "purple-heart.webp"
+  },
+  {
+   "id": "state-park",
+   "name": "State Park",
+   "cat": "nature",
+   "img": "state-park.webp"
+  },
+  {
+   "id": "street-rod",
+   "name": "Street Rod",
+   "cat": "vehicle",
+   "img": "street-rod.webp"
+  },
+  {
+   "id": "veteran",
+   "name": "Veteran",
+   "cat": "veterans",
+   "img": "veteran.webp"
+  }
+ ]
+}

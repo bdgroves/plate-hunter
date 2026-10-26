@@ -1,0 +1,448 @@
+{
+ "code": "MI",
+ "name": "Michigan",
+ "rated": false,
+ "checked": false,
+ "updated": "2026-10-25",
+ "about": "Michigan special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "sources": [
+  {
+   "title": "Jon Keegan, us-license-plates (2023)",
+   "url": "https://github.com/jonkeegan/us-license-plates"
+  }
+ ],
+ "plates": [
+  {
+   "id": "afghanistan-campaign-medal-veteran",
+   "name": "Afghanistan Campaign Medal veteran",
+   "cat": "veterans",
+   "img": "afghanistan-campaign-medal-veteran.webp"
+  },
+  {
+   "id": "afghanistan-conflict-veteran",
+   "name": "Afghanistan Conflict veteran",
+   "cat": "veterans",
+   "img": "afghanistan-conflict-veteran.webp"
+  },
+  {
+   "id": "agricultural-heritage",
+   "name": "Agricultural Heritage",
+   "cat": "charity",
+   "img": "agricultural-heritage.webp"
+  },
+  {
+   "id": "air-force-veteran",
+   "name": "Air Force veteran",
+   "cat": "veterans",
+   "img": "air-force-veteran.webp"
+  },
+  {
+   "id": "amateur-radio-operator",
+   "name": "Amateur Radio Operator",
+   "cat": "hobby",
+   "img": "amateur-radio-operator.webp"
+  },
+  {
+   "id": "army-veteran",
+   "name": "Army veteran",
+   "cat": "veterans",
+   "img": "army-veteran.webp"
+  },
+  {
+   "id": "blue-star-family",
+   "name": "Blue Star Family",
+   "cat": "other",
+   "img": "blue-star-family.webp"
+  },
+  {
+   "id": "breast-cancer-awareness",
+   "name": "Breast Cancer Awareness",
+   "cat": "charity",
+   "img": "breast-cancer-awareness.webp"
+  },
+  {
+   "id": "central-michigan-university",
+   "name": "Central Michigan University",
+   "cat": "colleges",
+   "img": "central-michigan-university.webp"
+  },
+  {
+   "id": "children-trust-michigan",
+   "name": "Children Trust Michigan",
+   "cat": "charity",
+   "img": "children-trust-michigan.webp"
+  },
+  {
+   "id": "coast-guard-veteran",
+   "name": "Coast Guard veteran",
+   "cat": "veterans",
+   "img": "coast-guard-veteran.webp"
+  },
+  {
+   "id": "combat-wounded-veteran-purple-heart",
+   "name": "Combat wounded veteran - Purple Heart",
+   "cat": "veterans",
+   "img": "combat-wounded-veteran-purple-heart.webp"
+  },
+  {
+   "id": "cuban-missile-crisis-veteran",
+   "name": "Cuban Missile Crisis veteran",
+   "cat": "veterans",
+   "img": "cuban-missile-crisis-veteran.webp"
+  },
+  {
+   "id": "detroit-lions",
+   "name": "Detroit Lions",
+   "cat": "sports",
+   "img": "detroit-lions.webp"
+  },
+  {
+   "id": "detroit-pistons",
+   "name": "Detroit Pistons",
+   "cat": "sports",
+   "img": "detroit-pistons.webp"
+  },
+  {
+   "id": "detroit-red-wings",
+   "name": "Detroit Red Wings",
+   "cat": "other",
+   "img": "detroit-red-wings.webp"
+  },
+  {
+   "id": "detroit-tigers",
+   "name": "Detroit Tigers",
+   "cat": "sports",
+   "img": "detroit-tigers.webp"
+  },
+  {
+   "id": "disability",
+   "name": "Disability",
+   "cat": "charity",
+   "img": "disability.webp"
+  },
+  {
+   "id": "disabled-veteran",
+   "name": "Disabled veteran",
+   "cat": "veterans",
+   "img": "disabled-veteran.webp"
+  },
+  {
+   "id": "dominican-republic-veteran",
+   "name": "Dominican Republic veteran",
+   "cat": "veterans",
+   "img": "dominican-republic-veteran.webp"
+  },
+  {
+   "id": "donate-life",
+   "name": "Donate Life",
+   "cat": "charity",
+   "img": "donate-life.webp"
+  },
+  {
+   "id": "ducks-unlimited",
+   "name": "Ducks Unlimited",
+   "cat": "nature",
+   "img": "ducks-unlimited.webp"
+  },
+  {
+   "id": "eastern-michigan-university",
+   "name": "Eastern Michigan University",
+   "cat": "colleges",
+   "img": "eastern-michigan-university.webp"
+  },
+  {
+   "id": "ex-prisoner-of-war",
+   "name": "Ex-Prisoner of War",
+   "cat": "veterans",
+   "img": "ex-prisoner-of-war.webp"
+  },
+  {
+   "id": "ferris-state-university",
+   "name": "Ferris State University",
+   "cat": "colleges",
+   "img": "ferris-state-university.webp"
+  },
+  {
+   "id": "gold-star-family",
+   "name": "Gold Star Family",
+   "cat": "veterans",
+   "img": "gold-star-family.webp"
+  },
+  {
+   "id": "grand-lodge-of-free-and-accepted-masons-",
+   "name": "Grand Lodge of Free and Accepted Masons of Michigan",
+   "cat": "hobby",
+   "img": "grand-lodge-of-free-and-accepted-masons-.webp"
+  },
+  {
+   "id": "grand-valley-state-university",
+   "name": "Grand Valley State University",
+   "cat": "colleges",
+   "img": "grand-valley-state-university.webp"
+  },
+  {
+   "id": "grenada-conflict-veteran",
+   "name": "Grenada Conflict veteran",
+   "cat": "veterans",
+   "img": "grenada-conflict-veteran.webp"
+  },
+  {
+   "id": "historical",
+   "name": "Historical",
+   "cat": "other",
+   "img": "historical.webp"
+  },
+  {
+   "id": "iraq-campaign-medal-veteran",
+   "name": "Iraq Campaign Medal veteran",
+   "cat": "veterans",
+   "img": "iraq-campaign-medal-veteran.webp"
+  },
+  {
+   "id": "iraq-conflict-veteran",
+   "name": "Iraq Conflict veteran",
+   "cat": "veterans",
+   "img": "iraq-conflict-veteran.webp"
+  },
+  {
+   "id": "korean-war-veteran",
+   "name": "Korean War veteran",
+   "cat": "veterans",
+   "img": "korean-war-veteran.webp"
+  },
+  {
+   "id": "lake-superior-state-university",
+   "name": "Lake Superior State University",
+   "cat": "colleges",
+   "img": "lake-superior-state-university.webp"
+  },
+  {
+   "id": "laos-conflict-veteran",
+   "name": "Laos Conflict veteran",
+   "cat": "veterans",
+   "img": "laos-conflict-veteran.webp"
+  },
+  {
+   "id": "lebanon-conflict-veteran",
+   "name": "Lebanon Conflict veteran",
+   "cat": "veterans",
+   "img": "lebanon-conflict-veteran.webp"
+  },
+  {
+   "id": "lighthouse-preservation",
+   "name": "Lighthouse Preservation",
+   "cat": "tribal",
+   "img": "lighthouse-preservation.webp"
+  },
+  {
+   "id": "mackinac-bridge",
+   "name": "Mackinac Bridge",
+   "cat": "other",
+   "img": "mackinac-bridge.webp"
+  },
+  {
+   "id": "marine-corps-veteran",
+   "name": "Marine Corps veteran",
+   "cat": "veterans",
+   "img": "marine-corps-veteran.webp"
+  },
+  {
+   "id": "medal-of-honor-veteran",
+   "name": "Medal of Honor veteran",
+   "cat": "veterans",
+   "img": "medal-of-honor-veteran.webp"
+  },
+  {
+   "id": "michigan-fraternal-order-of-police",
+   "name": "Michigan Fraternal Order of Police",
+   "cat": "firstresponder",
+   "img": "michigan-fraternal-order-of-police.webp"
+  },
+  {
+   "id": "michigan-professional-fire-fighters-unio",
+   "name": "Michigan Professional Fire Fighters Union",
+   "cat": "firstresponder",
+   "img": "michigan-professional-fire-fighters-unio.webp"
+  },
+  {
+   "id": "michigan-state-firemen-s-association",
+   "name": "Michigan State Firemen's Association",
+   "cat": "charity",
+   "img": "michigan-state-firemen-s-association.webp"
+  },
+  {
+   "id": "michigan-state-university",
+   "name": "Michigan State University",
+   "cat": "colleges",
+   "img": "michigan-state-university.webp"
+  },
+  {
+   "id": "michigan-technological-university",
+   "name": "Michigan Technological University",
+   "cat": "colleges",
+   "img": "michigan-technological-university.webp"
+  },
+  {
+   "id": "military-reserve-member",
+   "name": "Military Reserve member",
+   "cat": "military",
+   "img": "military-reserve-member.webp"
+  },
+  {
+   "id": "national-guard-member",
+   "name": "National Guard member",
+   "cat": "military",
+   "img": "national-guard-member.webp"
+  },
+  {
+   "id": "navy-veteran",
+   "name": "Navy veteran",
+   "cat": "veterans",
+   "img": "navy-veteran.webp"
+  },
+  {
+   "id": "northern-michigan-university",
+   "name": "Northern Michigan University",
+   "cat": "colleges",
+   "img": "northern-michigan-university.webp"
+  },
+  {
+   "id": "oakland-university",
+   "name": "Oakland University",
+   "cat": "colleges",
+   "img": "oakland-university.webp"
+  },
+  {
+   "id": "olympic-education",
+   "name": "Olympic Education",
+   "cat": "sports",
+   "img": "olympic-education.webp"
+  },
+  {
+   "id": "panama-conflict-veteran",
+   "name": "Panama Conflict veteran",
+   "cat": "veterans",
+   "img": "panama-conflict-veteran.webp"
+  },
+  {
+   "id": "patriotic",
+   "name": "Patriotic",
+   "cat": "other",
+   "img": "patriotic.webp"
+  },
+  {
+   "id": "pearl-harbor-survivor",
+   "name": "Pearl Harbor survivor",
+   "cat": "veterans",
+   "img": "pearl-harbor-survivor.webp"
+  },
+  {
+   "id": "persian-gulf-desert-storm-veteran",
+   "name": "Persian Gulf - Desert Storm veteran",
+   "cat": "veterans",
+   "img": "persian-gulf-desert-storm-veteran.webp"
+  },
+  {
+   "id": "police-officers-association-of-michigan",
+   "name": "Police Officers Association of Michigan",
+   "cat": "firstresponder",
+   "img": "police-officers-association-of-michigan.webp"
+  },
+  {
+   "id": "pure-michigan",
+   "name": "Pure Michigan",
+   "cat": "other",
+   "img": "pure-michigan.webp"
+  },
+  {
+   "id": "saginaw-valley-state-university",
+   "name": "Saginaw Valley State University",
+   "cat": "colleges",
+   "img": "saginaw-valley-state-university.webp"
+  },
+  {
+   "id": "somalia-conflict-veteran",
+   "name": "Somalia Conflict veteran",
+   "cat": "veterans",
+   "img": "somalia-conflict-veteran.webp"
+  },
+  {
+   "id": "support-michigan-veterans",
+   "name": "Support Michigan Veterans",
+   "cat": "veterans",
+   "img": "support-michigan-veterans.webp"
+  },
+  {
+   "id": "university-of-michigan",
+   "name": "University of Michigan",
+   "cat": "colleges",
+   "img": "university-of-michigan.webp"
+  },
+  {
+   "id": "university-of-michigan-dearborn",
+   "name": "University of Michigan - Dearborn",
+   "cat": "colleges",
+   "img": "university-of-michigan-dearborn.webp"
+  },
+  {
+   "id": "university-of-michigan-flint",
+   "name": "University of Michigan - Flint",
+   "cat": "colleges",
+   "img": "university-of-michigan-flint.webp"
+  },
+  {
+   "id": "veterans-memorial",
+   "name": "Veterans Memorial",
+   "cat": "veterans",
+   "img": "veterans-memorial.webp"
+  },
+  {
+   "id": "vietnam-service-medal-veteran",
+   "name": "Vietnam Service Medal veteran",
+   "cat": "veterans",
+   "img": "vietnam-service-medal-veteran.webp"
+  },
+  {
+   "id": "vietnam-war-veteran",
+   "name": "Vietnam War veteran",
+   "cat": "veterans",
+   "img": "vietnam-war-veteran.webp"
+  },
+  {
+   "id": "water-quality",
+   "name": "Water Quality",
+   "cat": "other",
+   "img": "water-quality.webp"
+  },
+  {
+   "id": "water-winter-wonderland",
+   "name": "Water-Winter Wonderland",
+   "cat": "other",
+   "img": "water-winter-wonderland.webp"
+  },
+  {
+   "id": "wayne-state-university",
+   "name": "Wayne State University",
+   "cat": "colleges",
+   "img": "wayne-state-university.webp"
+  },
+  {
+   "id": "western-michigan-university",
+   "name": "Western Michigan University",
+   "cat": "colleges",
+   "img": "western-michigan-university.webp"
+  },
+  {
+   "id": "wildlife-habitat",
+   "name": "Wildlife Habitat",
+   "cat": "nature",
+   "img": "wildlife-habitat.webp"
+  },
+  {
+   "id": "world-war-ii-veteran",
+   "name": "World War II veteran",
+   "cat": "veterans",
+   "img": "world-war-ii-veteran.webp"
+  }
+ ]
+}

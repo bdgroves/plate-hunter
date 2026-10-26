@@ -1,0 +1,484 @@
+{
+ "code": "UT",
+ "name": "Utah",
+ "rated": false,
+ "checked": false,
+ "updated": "2026-10-25",
+ "about": "Utah special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "sources": [
+  {
+   "title": "Jon Keegan, us-license-plates (2023)",
+   "url": "https://github.com/jonkeegan/us-license-plates"
+  }
+ ],
+ "plates": [
+  {
+   "id": "amateur-radio",
+   "name": "Amateur Radio",
+   "cat": "hobby",
+   "img": "amateur-radio.webp"
+  },
+  {
+   "id": "autism-awareness",
+   "name": "Autism Awareness",
+   "cat": "charity",
+   "img": "autism-awareness.webp"
+  },
+  {
+   "id": "boy-scouts-of-america",
+   "name": "Boy Scouts of America",
+   "cat": "charity",
+   "img": "boy-scouts-of-america.webp"
+  },
+  {
+   "id": "boys-and-girls-clubs",
+   "name": "Boys and Girls Clubs",
+   "cat": "charity",
+   "img": "boys-and-girls-clubs.webp"
+  },
+  {
+   "id": "cancer-research",
+   "name": "Cancer Research",
+   "cat": "charity",
+   "img": "cancer-research.webp"
+  },
+  {
+   "id": "children-s-issues",
+   "name": "Children’s Issues",
+   "cat": "charity",
+   "img": "children-s-issues.webp"
+  },
+  {
+   "id": "civil-air-patrol",
+   "name": "Civil Air Patrol",
+   "cat": "other",
+   "img": "civil-air-patrol.webp"
+  },
+  {
+   "id": "clean-fuel-clean-air",
+   "name": "Clean Fuel – Clean Air",
+   "cat": "other",
+   "img": "clean-fuel-clean-air.webp"
+  },
+  {
+   "id": "collegiate-brigham-young-university",
+   "name": "Collegiate – Brigham Young University",
+   "cat": "colleges",
+   "img": "collegiate-brigham-young-university.webp"
+  },
+  {
+   "id": "collegiate-college-of-eastern-utah",
+   "name": "Collegiate – College of Eastern Utah",
+   "cat": "colleges",
+   "img": "collegiate-college-of-eastern-utah.webp"
+  },
+  {
+   "id": "collegiate-ensign-college",
+   "name": "Collegiate – Ensign College",
+   "cat": "colleges",
+   "img": "collegiate-ensign-college.webp"
+  },
+  {
+   "id": "collegiate-salt-lake-community-college",
+   "name": "Collegiate – Salt Lake Community College",
+   "cat": "colleges",
+   "img": "collegiate-salt-lake-community-college.webp"
+  },
+  {
+   "id": "collegiate-snow-college",
+   "name": "Collegiate – Snow College",
+   "cat": "colleges",
+   "img": "collegiate-snow-college.webp"
+  },
+  {
+   "id": "collegiate-southern-utah-university",
+   "name": "Collegiate – Southern Utah University",
+   "cat": "colleges",
+   "img": "collegiate-southern-utah-university.webp"
+  },
+  {
+   "id": "collegiate-university-of-utah-2-options-",
+   "name": "Collegiate – University of Utah (2 options available",
+   "cat": "colleges",
+   "img": "collegiate-university-of-utah-2-options-.webp"
+  },
+  {
+   "id": "collegiate-utah-state-university",
+   "name": "Collegiate – Utah State University",
+   "cat": "colleges",
+   "img": "collegiate-utah-state-university.webp"
+  },
+  {
+   "id": "collegiate-utah-tech-university",
+   "name": "Collegiate – Utah Tech University",
+   "cat": "colleges",
+   "img": "collegiate-utah-tech-university.webp"
+  },
+  {
+   "id": "collegiate-utah-valley-university",
+   "name": "Collegiate – Utah Valley University",
+   "cat": "colleges",
+   "img": "collegiate-utah-valley-university.webp"
+  },
+  {
+   "id": "collegiate-weber-state-university",
+   "name": "Collegiate – Weber State University",
+   "cat": "colleges",
+   "img": "collegiate-weber-state-university.webp"
+  },
+  {
+   "id": "collegiate-western-governors-university",
+   "name": "Collegiate – Western Governors University",
+   "cat": "colleges",
+   "img": "collegiate-western-governors-university.webp"
+  },
+  {
+   "id": "collegiate-westminster-college",
+   "name": "Collegiate – Westminster College",
+   "cat": "colleges",
+   "img": "collegiate-westminster-college.webp"
+  },
+  {
+   "id": "disabled",
+   "name": "Disabled",
+   "cat": "other",
+   "img": "disabled.webp"
+  },
+  {
+   "id": "disabled-arches",
+   "name": "Disabled Arches",
+   "cat": "other",
+   "img": "disabled-arches.webp"
+  },
+  {
+   "id": "disabled-skier",
+   "name": "Disabled Skier",
+   "cat": "other",
+   "img": "disabled-skier.webp"
+  },
+  {
+   "id": "disabled-veteran",
+   "name": "Disabled Veteran",
+   "cat": "veterans",
+   "img": "disabled-veteran.webp"
+  },
+  {
+   "id": "donate-life",
+   "name": "Donate Life",
+   "cat": "charity",
+   "img": "donate-life.webp"
+  },
+  {
+   "id": "emergency-medical-technician-emt",
+   "name": "Emergency Medical Technician (EMT",
+   "cat": "firstresponder",
+   "img": "emergency-medical-technician-emt.webp"
+  },
+  {
+   "id": "farm",
+   "name": "Farm",
+   "cat": "vehicle",
+   "img": "farm.webp"
+  },
+  {
+   "id": "firefighter",
+   "name": "Firefighter",
+   "cat": "firstresponder",
+   "img": "firefighter.webp"
+  },
+  {
+   "id": "former-prisoner-of-war-pow",
+   "name": "Former Prisoner of War (POW",
+   "cat": "veterans",
+   "img": "former-prisoner-of-war-pow.webp"
+  },
+  {
+   "id": "fraternal-initiatic-order",
+   "name": "Fraternal Initiatic Order",
+   "cat": "hobby",
+   "img": "fraternal-initiatic-order.webp"
+  },
+  {
+   "id": "gold-star",
+   "name": "Gold Star",
+   "cat": "veterans",
+   "img": "gold-star.webp"
+  },
+  {
+   "id": "historic-black-white",
+   "name": "Historic Black & White",
+   "cat": "other",
+   "img": "historic-black-white.webp"
+  },
+  {
+   "id": "honoring-heroes",
+   "name": "Honoring Heroes",
+   "cat": "other",
+   "img": "honoring-heroes.webp"
+  },
+  {
+   "id": "humanitarian-service",
+   "name": "Humanitarian Service",
+   "cat": "other",
+   "img": "humanitarian-service.webp"
+  },
+  {
+   "id": "in-god-we-trust",
+   "name": "In God We Trust",
+   "cat": "charity",
+   "img": "in-god-we-trust.webp"
+  },
+  {
+   "id": "life-elevated-arches",
+   "name": "Life Elevated Arches",
+   "cat": "other",
+   "img": "life-elevated-arches.webp"
+  },
+  {
+   "id": "life-elevated-skier",
+   "name": "Life Elevated Skier",
+   "cat": "other",
+   "img": "life-elevated-skier.webp"
+  },
+  {
+   "id": "martin-luther-king",
+   "name": "Martin Luther King",
+   "cat": "other",
+   "img": "martin-luther-king.webp"
+  },
+  {
+   "id": "national-basketball-association-nba-utah",
+   "name": "National Basketball Association (NBA) – Utah Jazz",
+   "cat": "sports",
+   "img": "national-basketball-association-nba-utah.webp"
+  },
+  {
+   "id": "national-guard",
+   "name": "National Guard",
+   "cat": "military",
+   "img": "national-guard.webp"
+  },
+  {
+   "id": "national-men-s-soccer-real-salt-lake",
+   "name": "National Men’s Soccer – Real Salt Lake",
+   "cat": "sports",
+   "img": "national-men-s-soccer-real-salt-lake.webp"
+  },
+  {
+   "id": "no-more-homeless-pets",
+   "name": "No More Homeless Pets",
+   "cat": "charity",
+   "img": "no-more-homeless-pets.webp"
+  },
+  {
+   "id": "olympic",
+   "name": "Olympic",
+   "cat": "sports",
+   "img": "olympic.webp"
+  },
+  {
+   "id": "pearl-harbor-survivor",
+   "name": "Pearl Harbor Survivor",
+   "cat": "veterans",
+   "img": "pearl-harbor-survivor.webp"
+  },
+  {
+   "id": "prostate-cancer-awareness",
+   "name": "Prostate Cancer Awareness",
+   "cat": "charity",
+   "img": "prostate-cancer-awareness.webp"
+  },
+  {
+   "id": "public-education-support",
+   "name": "Public Education Support",
+   "cat": "charity",
+   "img": "public-education-support.webp"
+  },
+  {
+   "id": "publicly-owned-vehicles",
+   "name": "Publicly Owned Vehicles",
+   "cat": "other",
+   "img": "publicly-owned-vehicles.webp"
+  },
+  {
+   "id": "purple-heart-combat-wounded",
+   "name": "Purple Heart/Combat Wounded",
+   "cat": "veterans",
+   "img": "purple-heart-combat-wounded.webp"
+  },
+  {
+   "id": "search-and-rescue-teams",
+   "name": "Search and Rescue Teams",
+   "cat": "firstresponder",
+   "img": "search-and-rescue-teams.webp"
+  },
+  {
+   "id": "share-the-road",
+   "name": "Share the Road",
+   "cat": "hobby",
+   "img": "share-the-road.webp"
+  },
+  {
+   "id": "ski-utah",
+   "name": "Ski Utah!",
+   "cat": "sports",
+   "img": "ski-utah.webp"
+  },
+  {
+   "id": "snowmobiler",
+   "name": "Snowmobiler",
+   "cat": "other",
+   "img": "snowmobiler.webp"
+  },
+  {
+   "id": "soil-conservation",
+   "name": "Soil Conservation",
+   "cat": "nature",
+   "img": "soil-conservation.webp"
+  },
+  {
+   "id": "special-interest",
+   "name": "Special Interest",
+   "cat": "other",
+   "img": "special-interest.webp"
+  },
+  {
+   "id": "utah",
+   "name": "Utah",
+   "cat": "other",
+   "img": "utah.webp"
+  },
+  {
+   "id": "utah-centennial",
+   "name": "Utah Centennial",
+   "cat": "charity",
+   "img": "utah-centennial.webp"
+  },
+  {
+   "id": "utah-highway-patrol",
+   "name": "Utah Highway Patrol",
+   "cat": "other",
+   "img": "utah-highway-patrol.webp"
+  },
+  {
+   "id": "utah-housing-opportunity-realtor",
+   "name": "Utah Housing Opportunity (Realtor",
+   "cat": "other",
+   "img": "utah-housing-opportunity-realtor.webp"
+  },
+  {
+   "id": "utah-law-enforcement-memorial",
+   "name": "Utah Law Enforcement Memorial",
+   "cat": "firstresponder",
+   "img": "utah-law-enforcement-memorial.webp"
+  },
+  {
+   "id": "veteran-combat-theater-air-force-combat-",
+   "name": "Veteran Combat Theater – Air Force Combat Action Medal",
+   "cat": "veterans",
+   "img": "veteran-combat-theater-air-force-combat-.webp"
+  },
+  {
+   "id": "veteran-combat-theater-army-combat-actio",
+   "name": "Veteran Combat Theater – Army Combat Action Badge",
+   "cat": "veterans",
+   "img": "veteran-combat-theater-army-combat-actio.webp"
+  },
+  {
+   "id": "veteran-combat-theater-army-combat-infan",
+   "name": "Veteran Combat Theater – Army Combat Infantry Badge",
+   "cat": "veterans",
+   "img": "veteran-combat-theater-army-combat-infan.webp"
+  },
+  {
+   "id": "veteran-combat-theater-marine-navy-comba",
+   "name": "Veteran Combat Theater – Marine & Navy Combat Action Ribbon",
+   "cat": "veterans",
+   "img": "veteran-combat-theater-marine-navy-comba.webp"
+  },
+  {
+   "id": "veterans-air-force",
+   "name": "Veterans – Air Force",
+   "cat": "veterans",
+   "img": "veterans-air-force.webp"
+  },
+  {
+   "id": "veterans-american-legion",
+   "name": "Veterans – American Legion",
+   "cat": "veterans",
+   "img": "veterans-american-legion.webp"
+  },
+  {
+   "id": "veterans-army",
+   "name": "Veterans – Army",
+   "cat": "veterans",
+   "img": "veterans-army.webp"
+  },
+  {
+   "id": "veterans-coast-guard",
+   "name": "Veterans – Coast Guard",
+   "cat": "veterans",
+   "img": "veterans-coast-guard.webp"
+  },
+  {
+   "id": "veterans-marines",
+   "name": "Veterans – Marines",
+   "cat": "veterans",
+   "img": "veterans-marines.webp"
+  },
+  {
+   "id": "veterans-navy",
+   "name": "Veterans – Navy",
+   "cat": "veterans",
+   "img": "veterans-navy.webp"
+  },
+  {
+   "id": "vintage",
+   "name": "Vintage",
+   "cat": "vehicle",
+   "img": "vintage.webp"
+  },
+  {
+   "id": "wildlife-eagle",
+   "name": "Wildlife – Eagle",
+   "cat": "nature",
+   "img": "wildlife-eagle.webp"
+  },
+  {
+   "id": "wildlife-elk",
+   "name": "Wildlife – Elk",
+   "cat": "nature",
+   "img": "wildlife-elk.webp"
+  },
+  {
+   "id": "wildlife-kestrel",
+   "name": "Wildlife – Kestrel",
+   "cat": "nature",
+   "img": "wildlife-kestrel.webp"
+  },
+  {
+   "id": "wildlife-mule-deer",
+   "name": "Wildlife – Mule Deer",
+   "cat": "nature",
+   "img": "wildlife-mule-deer.webp"
+  },
+  {
+   "id": "wildlife-trout",
+   "name": "Wildlife – Trout",
+   "cat": "nature",
+   "img": "wildlife-trout.webp"
+  },
+  {
+   "id": "women-s-suffrage",
+   "name": "Women’s Suffrage",
+   "cat": "other",
+   "img": "women-s-suffrage.webp"
+  },
+  {
+   "id": "zion-national-park",
+   "name": "Zion National Park",
+   "cat": "nature",
+   "img": "zion-national-park.webp"
+  }
+ ]
+}

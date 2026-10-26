@@ -1,0 +1,604 @@
+[
+ {
+  "title": "Amateur radio",
+  "keegan_img": "amradio.gif",
+  "cat": "hobby",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/amateur.aspx"
+ },
+ {
+  "title": "Antique",
+  "keegan_img": "antique.gif",
+  "cat": "vehicle",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/antique.aspx"
+ },
+ {
+  "title": "Bad River Band of Lake Superior Chippewa Indians",
+  "keegan_img": "badriver.gif",
+  "cat": "tribal",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/tribal.aspx"
+ },
+ {
+  "title": "Celebrate Children Foundation - 1999-2010",
+  "keegan_img": "child.gif",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/special.aspx"
+ },
+ {
+  "title": "Celebrate Children Foundation - 2010-2016",
+  "keegan_img": "plate-children-200.gif",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/special.aspx"
+ },
+ {
+  "title": "Celebrate Children Foundation - Current",
+  "keegan_img": "plate-children-2015-200.png",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/child.aspx"
+ },
+ {
+  "title": "Choose Life Wisconsin, Inc.",
+  "keegan_img": "clw-plate-200px.png",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/special.aspx"
+ },
+ {
+  "title": "Civil Air Patrol",
+  "keegan_img": "civilair.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/cvl-air-patrol.aspx"
+ },
+ {
+  "title": "Collector",
+  "keegan_img": "collector.gif",
+  "cat": "vehicle",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/collector-plates.aspx"
+ },
+ {
+  "title": "Collector special",
+  "keegan_img": "collspec.gif",
+  "cat": "vehicle",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/collecspec.aspx"
+ },
+ {
+  "title": "Cure childhood cancer",
+  "keegan_img": "ccc-plate-200px.png",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/special.aspx"
+ },
+ {
+  "title": "Demonstrator",
+  "keegan_img": "DemoTRK.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/dealer.aspx"
+ },
+ {
+  "title": "Disabled",
+  "keegan_img": "displate.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/dsbld-prkg/displate.aspx"
+ },
+ {
+  "title": "Disabled veteran",
+  "keegan_img": "dis-vet-09.gif",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/dsbld-prkg/dvetplat.aspx"
+ },
+ {
+  "title": "Distributor",
+  "keegan_img": "dealerdistributor(002).png",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/dealer.aspx"
+ },
+ {
+  "title": "Donate Life Wisconsin",
+  "keegan_img": "donatelifeplate.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/donatelife.aspx"
+ },
+ {
+  "title": "Drivers education",
+  "keegan_img": "cyc-drive-ed.gif",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/cycle.aspx"
+ },
+ {
+  "title": "Ducks Unlimited",
+  "keegan_img": "ducks.gif",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/ducks.aspx"
+ },
+ {
+  "title": "Emergency medical services - Red + white",
+  "keegan_img": "EMS-red-200px.png",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/emt.aspx"
+ },
+ {
+  "title": "Emergency medical services - White",
+  "keegan_img": "EMS-white-200px.png",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/emt.aspx"
+ },
+ {
+  "title": "Endangered resources - Badger",
+  "keegan_img": "plate-enn-200.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/endanger.aspx"
+ },
+ {
+  "title": "Endangered resources - Eagle",
+  "keegan_img": "eagle-200.png",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/endanger.aspx"
+ },
+ {
+  "title": "Endangered resources - Wolf",
+  "keegan_img": "plate-wolf-200.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/endanger.aspx"
+ },
+ {
+  "title": "Ex-prisoner of war",
+  "keegan_img": "pow.gif",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/xpow.aspx"
+ },
+ {
+  "title": "Farm",
+  "keegan_img": "farmtruck.gif",
+  "cat": "vehicle",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/light-truck.aspx"
+ },
+ {
+  "title": "Finance company",
+  "keegan_img": "finance(002).png",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/dealer.aspx"
+ },
+ {
+  "title": "Firefighter - Red",
+  "keegan_img": "plate-firefighter.gif",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/firefighter.aspx"
+ },
+ {
+  "title": "Firefighter - White",
+  "keegan_img": "firefighter.gif",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/firefighter.aspx"
+ },
+ {
+  "title": "Freemason",
+  "keegan_img": "freemason.gif",
+  "cat": "hobby",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/freemason.aspx"
+ },
+ {
+  "title": "Gold Star Family",
+  "keegan_img": "goldstar.gif",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/goldstar.aspx"
+ },
+ {
+  "title": "Golf Wisconsin",
+  "keegan_img": "golf-wi.gif",
+  "cat": "sports",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/golf.aspx"
+ },
+ {
+  "title": "Green Bay Packers",
+  "keegan_img": "packer.gif",
+  "cat": "sports",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/greenbay.aspx"
+ },
+ {
+  "title": "Harley-Davidson/Share the road",
+  "keegan_img": "plate-harley-200.gif",
+  "cat": "hobby",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/harley-davidson.aspx"
+ },
+ {
+  "title": "Heavy farm",
+  "keegan_img": "plate-heavy-farm-truck-200px.gif",
+  "cat": "vehicle",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/heavy-trucks.aspx"
+ },
+ {
+  "title": "Heavy",
+  "keegan_img": "plate-heavy-truck-200px.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/heavy-trucks.aspx"
+ },
+ {
+  "title": "Historic military",
+  "keegan_img": "plate-hist-military-200px.gif",
+  "cat": "military",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/histmilitary.aspx"
+ },
+ {
+  "title": "Ho-Chunk Nation",
+  "keegan_img": "HoChunkNationPlateDecal.png",
+  "cat": "tribal",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/tribal.aspx"
+ },
+ {
+  "title": "Ho-Chunk Nation - Tribal owned",
+  "keegan_img": "HoChunkNationTribalOwnedPlate.png",
+  "cat": "tribal",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/tribal.aspx"
+ },
+ {
+  "title": "Hobbyist",
+  "keegan_img": "hobbyist.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/hobbyist.aspx"
+ },
+ {
+  "title": "Human Service",
+  "keegan_img": "human-service.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/misc.aspx"
+ },
+ {
+  "title": "In God We Trust",
+  "keegan_img": "god-we-trust.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/in-god-we-trust.aspx"
+ },
+ {
+  "title": "Keeping the Lights On",
+  "keegan_img": "UTLPlate2020.png",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/utl.aspx"
+ },
+ {
+  "title": "Lac Courte Oreilles Chippewa Band of Lake Superior Indians of Wisconsin",
+  "keegan_img": "lco-pride-of-the-ojibwe.jpg",
+  "cat": "tribal",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/tribal.aspx"
+ },
+ {
+  "title": "Lac Courte Oreilles Chippewa Band of Lake Superior Indians of Wisconsin - Eagle",
+  "keegan_img": "lco-p8-eagle.jpg",
+  "cat": "tribal",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/tribal.aspx"
+ },
+ {
+  "title": "Lac Courte Oreilles Chippewa Band of Lake Superior Indians of Wisconsin - Veteran",
+  "keegan_img": "lco-p2-army.jpg",
+  "cat": "tribal",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/tribal.aspx"
+ },
+ {
+  "title": "Lac du Flambeau Band of Lake Superior Chippewa Indians",
+  "keegan_img": "lac-du-fam.gif",
+  "cat": "tribal",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/tribal.aspx"
+ },
+ {
+  "title": "Lao Veterans of America",
+  "keegan_img": "laoplate.gif",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/laoplates.aspx"
+ },
+ {
+  "title": "Law Enforcement Memorial",
+  "keegan_img": "lem-200.png",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/lem.aspx"
+ },
+ {
+  "title": "Light",
+  "keegan_img": "atk.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/light-truck.aspx"
+ },
+ {
+  "title": "Lions Foundation",
+  "keegan_img": "lions-plate-200px.gif",
+  "cat": "sports",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/lionsclub.aspx"
+ },
+ {
+  "title": "Marquette University",
+  "keegan_img": "plate-marquette-200px.gif",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/marquette.aspx"
+ },
+ {
+  "title": "Medal of Honor",
+  "keegan_img": "medal-honor09.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/moh.aspx"
+ },
+ {
+  "title": "Menominee Indian Tribe of Wisconsin",
+  "keegan_img": "menominee-new.gif",
+  "cat": "tribal",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/tribal.aspx"
+ },
+ {
+  "title": "Menominee Indian Tribe of Wisconsin - Shield",
+  "keegan_img": "menominee-shield.png",
+  "cat": "tribal",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/tribal.aspx"
+ },
+ {
+  "title": "Menominee Indian Tribe of Wisconsin - Thunderbird",
+  "keegan_img": "menominee-thunderbird.png",
+  "cat": "tribal",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/tribal.aspx"
+ },
+ {
+  "title": "Military - Red, White + Blue",
+  "keegan_img": "military-4408.gif",
+  "cat": "military",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/military.aspx"
+ },
+ {
+  "title": "Military - White",
+  "keegan_img": "military5.gif",
+  "cat": "military",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/military.aspx"
+ },
+ {
+  "title": "Milwaukee Brewers",
+  "keegan_img": "MilwBrewers_MBN_200-web.png",
+  "cat": "sports",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/milwaukee.aspx"
+ },
+ {
+  "title": "Milwaukee Brewers - Brew crew",
+  "keegan_img": "MilwBrewers-MBO_200-web.png",
+  "cat": "sports",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/milwaukee.aspx"
+ },
+ {
+  "title": "Milwaukee Bucks",
+  "keegan_img": "bucks-200.png",
+  "cat": "sports",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/special.aspx"
+ },
+ {
+  "title": "Motor home",
+  "keegan_img": "plate-motorhome-mtm.gif",
+  "cat": "vehicle",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/misc.aspx"
+ },
+ {
+  "title": "Nurses change lives",
+  "keegan_img": "nurse-plate-200px.png",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/nurses.aspx"
+ },
+ {
+  "title": "Oneida Indian Tribe of Wisconsin",
+  "keegan_img": "oneida.jpg",
+  "cat": "tribal",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/tribal.aspx"
+ },
+ {
+  "title": "Oneida Indian Tribe of Wisconsin - Bear",
+  "keegan_img": "oneida-bear.jpg",
+  "cat": "tribal",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/tribal.aspx"
+ },
+ {
+  "title": "Oneida Indian Tribe of Wisconsin - Clan",
+  "keegan_img": "oneida-clan.gif",
+  "cat": "tribal",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/tribal.aspx"
+ },
+ {
+  "title": "Oneida Indian Tribe of Wisconsin - Eagle",
+  "keegan_img": "oneida-g.gif",
+  "cat": "tribal",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/tribal.aspx"
+ },
+ {
+  "title": "Oneida Indian Tribe of Wisconsin - Turtle",
+  "keegan_img": "oneida-turtle.jpg",
+  "cat": "tribal",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/tribal.aspx"
+ },
+ {
+  "title": "Oneida Indian Tribe of Wisconsin - Vietnam Vet",
+  "keegan_img": "oneida-vietnam-vet.jpg",
+  "cat": "tribal",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/tribal.aspx"
+ },
+ {
+  "title": "Oneida Indian Tribe of Wisconsin - Wolf",
+  "keegan_img": "oneida-wolf.jpg",
+  "cat": "tribal",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/tribal.aspx"
+ },
+ {
+  "title": "Operating Engineers Local 139",
+  "keegan_img": "eng-plate-2020.png",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/eng.aspx"
+ },
+ {
+  "title": "Red Cliff Band of Lake Superior Chippewa",
+  "keegan_img": "red-cliff-200.jpg",
+  "cat": "tribal",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/tribal.aspx"
+ },
+ {
+  "title": "Rescue squad member",
+  "keegan_img": "rescuesquadmember.gif",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/rescue.aspx"
+ },
+ {
+  "title": "Rocky Mountain Elk Foundation",
+  "keegan_img": "elk-plate-200px.png",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/elk.aspx"
+ },
+ {
+  "title": "Scouting alumni",
+  "keegan_img": "bsa-alumni-plate-200px.png",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/bsa.aspx"
+ },
+ {
+  "title": "Scouting alumni - Eagle scout",
+  "keegan_img": "bsa-eagle-plate-200px.png",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/bsa.aspx"
+ },
+ {
+  "title": "Special \"X\" (specific use vehicles",
+  "keegan_img": "special-x.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/misc.aspx"
+ },
+ {
+  "title": "Special designed",
+  "keegan_img": "cycle05.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/special.aspx"
+ },
+ {
+  "title": "St. Croix Chippewa",
+  "keegan_img": "stcroix.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/tribal.aspx"
+ },
+ {
+  "title": "Trout Unlimited",
+  "keegan_img": "trout.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/trout.aspx"
+ },
+ {
+  "title": "University of Wisconsin higher education",
+  "keegan_img": "bucky200.gif",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/university.aspx"
+ },
+ {
+  "title": "Whitetails Unlimited",
+  "keegan_img": "whitetails-plate-200px.png",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/whitetail.aspx"
+ },
+ {
+  "title": "Wholesaler",
+  "keegan_img": "dealerwholesale(002).png",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/dealer.aspx"
+ },
+ {
+  "title": "Wisconsin National Guard",
+  "keegan_img": "ng.gif",
+  "cat": "military",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/wng.aspx"
+ },
+ {
+  "title": "Wisconsin salutes veterans",
+  "keegan_img": "salutes-vets.gif",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/salutes.aspx"
+ },
+ {
+  "title": "Wisconsin State Patrol",
+  "keegan_img": "state-patrol.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/official.aspx"
+ },
+ {
+  "title": "Wisconsin Women's Health Foundation",
+  "keegan_img": "wwhf.gif",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/wwhf.aspx"
+ }
+]

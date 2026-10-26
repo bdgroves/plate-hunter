@@ -1,0 +1,296 @@
+[
+ {
+  "title": "Antique",
+  "keegan_img": "RI_D3825YT%20RI%20Antique%20Vehicle.png",
+  "cat": "vehicle",
+  "status": "keegan-2023",
+  "source": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-types"
+ },
+ {
+  "title": "Atlantic Shark Institute",
+  "keegan_img": "ASI%20-%20lighter.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-designs-charity-plates"
+ },
+ {
+  "title": "Autism Awareness",
+  "keegan_img": "autism-2021.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-designs-charity-plates"
+ },
+ {
+  "title": "Beavertail Lighthouse",
+  "keegan_img": "Beaver%20Tail%20Lighthouse%20with%20letters.JPG",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-designs-charity-plates"
+ },
+ {
+  "title": "Boston Bruins Foundation",
+  "keegan_img": "bruins-2021.jpg",
+  "cat": "sports",
+  "status": "keegan-2023",
+  "source": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-designs-charity-plates"
+ },
+ {
+  "title": "Boy Scouts of America",
+  "keegan_img": "scouts-2021.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-designs-charity-plates"
+ },
+ {
+  "title": "Bristol Fourth of July",
+  "keegan_img": "bristol-fourth-of-july-2021.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-designs-charity-plates"
+ },
+ {
+  "title": "Bronze Star Medal",
+  "keegan_img": "RI%20Bronze%20Star%20Medal_7-29-22_PRINT_BD-DLP_HiRes.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-types/military-veteran-plates"
+ },
+ {
+  "title": "Camper",
+  "keegan_img": "Ocean%20Camper.jpg",
+  "cat": "vehicle",
+  "status": "keegan-2023",
+  "source": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-types"
+ },
+ {
+  "title": "Combination",
+  "keegan_img": "Ocean%20Combination.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-types"
+ },
+ {
+  "title": "Conservation Through Education",
+  "keegan_img": "conservation-through-education-2021.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-designs-charity-plates"
+ },
+ {
+  "title": "Custom",
+  "keegan_img": "RI%20Custom%20Vehicle%20V2%202-25-22%20PRINT%20DLP_HiRes.jpg",
+  "cat": "vehicle",
+  "status": "keegan-2023",
+  "source": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-types"
+ },
+ {
+  "title": "Disabled Veteran",
+  "keegan_img": "RI_D3804YT%20RI%20Dis%20Vet%20DLP.png",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-types/military-veteran-plates"
+ },
+ {
+  "title": "DSTRONG",
+  "keegan_img": "dstrong-2021.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-designs-charity-plates"
+ },
+ {
+  "title": "Electric/Hybrid",
+  "keegan_img": "RI_D3827YT%20RI%20Electric-Hybrid.png",
+  "cat": "vehicle",
+  "status": "keegan-2023",
+  "source": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-designs-charity-plates"
+ },
+ {
+  "title": "Ex-POW",
+  "keegan_img": "EX%20POW.png",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-types/military-veteran-plates"
+ },
+ {
+  "title": "Farm",
+  "keegan_img": "Ocean%20Farm.jpg",
+  "cat": "vehicle",
+  "status": "keegan-2023",
+  "source": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-types"
+ },
+ {
+  "title": "Firefighter",
+  "keegan_img": "RI_D3835YT%20RI%20Firefighter.png",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-designs-charity-plates"
+ },
+ {
+  "title": "Firefighter - Combination",
+  "keegan_img": "RI_D3837YT%20RI%20Firefighter%20Combination.png",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-designs-charity-plates"
+ },
+ {
+  "title": "Firefighter - Commerical",
+  "keegan_img": "RI_D3836YT%20RI%20Firefighter%20Commercial.png",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-designs-charity-plates"
+ },
+ {
+  "title": "Firefighter - Old Design",
+  "keegan_img": "RI_D3803YT%20RI%20Firefighter-WITHWAVE.png",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-designs-charity-plates"
+ },
+ {
+  "title": "Gaspee Days Committee",
+  "keegan_img": "Gaspee-RIDMV%28new%29.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-designs-charity-plates"
+ },
+ {
+  "title": "Gloria Gemma Breast Cancer Resource Foundation",
+  "keegan_img": "gloria-gemma-breast-cancer-2021.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-designs-charity-plates"
+ },
+ {
+  "title": "Gold Star Family",
+  "keegan_img": "RI%20Gold%20Star%20Parents%2011-7-17%20DLP_PRINT_HiRes.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-types/military-veteran-plates"
+ },
+ {
+  "title": "National Guard",
+  "keegan_img": "RI_D3813YT%20RI%20National%20Guard.png",
+  "cat": "military",
+  "status": "keegan-2023",
+  "source": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-types/military-veteran-plates"
+ },
+ {
+  "title": "New England Patriots",
+  "keegan_img": "ne-patriots-6x-champions-plate-2021.png",
+  "cat": "sports",
+  "status": "keegan-2023",
+  "source": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-designs-charity-plates"
+ },
+ {
+  "title": "Ocean",
+  "keegan_img": "Ocean Passenger.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-designs-charity-plates"
+ },
+ {
+  "title": "Plum Beach Lighthouse",
+  "keegan_img": "plum-beach-lighthouse-2021.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-designs-charity-plates"
+ },
+ {
+  "title": "Providence College",
+  "keegan_img": "Providence%20College%201.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-designs-charity-plates"
+ },
+ {
+  "title": "Public",
+  "keegan_img": "Ocean%20Public%20Service.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-types"
+ },
+ {
+  "title": "Purple Heart",
+  "keegan_img": "Purple%20Heart.png",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-types/military-veteran-plates"
+ },
+ {
+  "title": "Radio Operator",
+  "keegan_img": "Ocean%20Radio%20Operator.jpg",
+  "cat": "hobby",
+  "status": "keegan-2023",
+  "source": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-types"
+ },
+ {
+  "title": "Red Sox Foundation",
+  "keegan_img": "red-sox-foundation-2021.jpg",
+  "cat": "sports",
+  "status": "keegan-2023",
+  "source": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-designs-charity-plates"
+ },
+ {
+  "title": "RI Community Food Bank - Mr. Potato Head",
+  "keegan_img": "ri-community-food-bank-mr.-potato-head-2021.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-designs-charity-plates"
+ },
+ {
+  "title": "RI Day of Portugal",
+  "keegan_img": "portugal-2021.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-designs-charity-plates"
+ },
+ {
+  "title": "Rocky Point Foundation",
+  "keegan_img": "rocky-2021.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-designs-charity-plates"
+ },
+ {
+  "title": "Sailboat",
+  "keegan_img": "RI_D3826YT%20RI%20Sailboat-Ocean.png",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-designs-charity-plates"
+ },
+ {
+  "title": "Street Rod",
+  "keegan_img": "RI%20Street%20Rod_9-26-22_BD-DLP_HiRes.jpg",
+  "cat": "vehicle",
+  "status": "keegan-2023",
+  "source": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-types"
+ },
+ {
+  "title": "Suburban",
+  "keegan_img": "Ocean%20Suburban.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-types"
+ },
+ {
+  "title": "Veteran",
+  "keegan_img": "RI_D3805YT%20RI%20Vet.png",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-types/military-veteran-plates"
+ },
+ {
+  "title": "Wave",
+  "keegan_img": "img_plate_WAVE.webp",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-designs-charity-plates"
+ },
+ {
+  "title": "Wildlife Rehabilitators",
+  "keegan_img": "wildlife-rehabilitators-2021.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-designs-charity-plates"
+ }
+]

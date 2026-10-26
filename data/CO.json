@@ -1,0 +1,742 @@
+{
+ "code": "CO",
+ "name": "Colorado",
+ "rated": false,
+ "checked": false,
+ "updated": "2026-10-25",
+ "about": "Colorado special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "sources": [
+  {
+   "title": "Jon Keegan, us-license-plates (2023)",
+   "url": "https://github.com/jonkeegan/us-license-plates"
+  }
+ ],
+ "plates": [
+  {
+   "id": "4th-infantry",
+   "name": "4th Infantry",
+   "cat": "other",
+   "img": "4th-infantry.webp"
+  },
+  {
+   "id": "5-year-collector",
+   "name": "5 Year Collector",
+   "cat": "vehicle",
+   "img": "5-year-collector.webp"
+  },
+  {
+   "id": "adopt-a-shelter-pet",
+   "name": "Adopt A Shelter Pet",
+   "cat": "charity",
+   "img": "adopt-a-shelter-pet.webp"
+  },
+  {
+   "id": "air-force-academy",
+   "name": "Air Force Academy",
+   "cat": "military",
+   "img": "air-force-academy.webp"
+  },
+  {
+   "id": "air-force-cross",
+   "name": "Air Force Cross",
+   "cat": "military",
+   "img": "air-force-cross.webp"
+  },
+  {
+   "id": "als",
+   "name": "ALS",
+   "cat": "other",
+   "img": "als.webp"
+  },
+  {
+   "id": "amateur-radio-call-letter",
+   "name": "Amateur Radio Call Letter",
+   "cat": "hobby",
+   "img": "amateur-radio-call-letter.webp"
+  },
+  {
+   "id": "american-indian-scholars",
+   "name": "American Indian Scholars",
+   "cat": "other",
+   "img": "american-indian-scholars.webp"
+  },
+  {
+   "id": "aviation",
+   "name": "Aviation",
+   "cat": "hobby",
+   "img": "aviation.webp"
+  },
+  {
+   "id": "boy-scouts",
+   "name": "Boy Scouts",
+   "cat": "charity",
+   "img": "boy-scouts.webp"
+  },
+  {
+   "id": "breast-cancer-awareness",
+   "name": "Breast Cancer Awareness",
+   "cat": "charity",
+   "img": "breast-cancer-awareness.webp"
+  },
+  {
+   "id": "broncos-foundation",
+   "name": "Broncos Foundation",
+   "cat": "sports",
+   "img": "broncos-foundation.webp"
+  },
+  {
+   "id": "bronze-star",
+   "name": "Bronze Star",
+   "cat": "veterans",
+   "img": "bronze-star.webp"
+  },
+  {
+   "id": "bronze-star-of-valor",
+   "name": "Bronze Star of Valor",
+   "cat": "veterans",
+   "img": "bronze-star-of-valor.webp"
+  },
+  {
+   "id": "carbon-fund",
+   "name": "Carbon Fund",
+   "cat": "charity",
+   "img": "carbon-fund.webp"
+  },
+  {
+   "id": "child-loss-awareness",
+   "name": "Child Loss Awareness",
+   "cat": "charity",
+   "img": "child-loss-awareness.webp"
+  },
+  {
+   "id": "childhood-cancer-awareness",
+   "name": "Childhood Cancer Awareness",
+   "cat": "charity",
+   "img": "childhood-cancer-awareness.webp"
+  },
+  {
+   "id": "civil-air-patrol",
+   "name": "Civil Air Patrol",
+   "cat": "other",
+   "img": "civil-air-patrol.webp"
+  },
+  {
+   "id": "colorado-avalanche",
+   "name": "Colorado Avalanche",
+   "cat": "sports",
+   "img": "colorado-avalanche.webp"
+  },
+  {
+   "id": "colorado-college",
+   "name": "Colorado College",
+   "cat": "colleges",
+   "img": "colorado-college.webp"
+  },
+  {
+   "id": "colorado-mesa-university",
+   "name": "Colorado Mesa University",
+   "cat": "colleges",
+   "img": "colorado-mesa-university.webp"
+  },
+  {
+   "id": "colorado-nurses",
+   "name": "Colorado Nurses",
+   "cat": "other",
+   "img": "colorado-nurses.webp"
+  },
+  {
+   "id": "colorado-professional-firefighter",
+   "name": "Colorado Professional Firefighter",
+   "cat": "firstresponder",
+   "img": "colorado-professional-firefighter.webp"
+  },
+  {
+   "id": "colorado-rockies",
+   "name": "Colorado Rockies",
+   "cat": "sports",
+   "img": "colorado-rockies.webp"
+  },
+  {
+   "id": "colorado-school-of-mines",
+   "name": "Colorado School of Mines",
+   "cat": "charity",
+   "img": "colorado-school-of-mines.webp"
+  },
+  {
+   "id": "colorado-state-patrol",
+   "name": "Colorado State Patrol",
+   "cat": "other",
+   "img": "colorado-state-patrol.webp"
+  },
+  {
+   "id": "colorado-state-university",
+   "name": "Colorado State University",
+   "cat": "colleges",
+   "img": "colorado-state-university.webp"
+  },
+  {
+   "id": "colorado-state-university-pueblo",
+   "name": "Colorado State University-Pueblo",
+   "cat": "tribal",
+   "img": "colorado-state-university-pueblo.webp"
+  },
+  {
+   "id": "columbine",
+   "name": "Columbine",
+   "cat": "other",
+   "img": "columbine.webp"
+  },
+  {
+   "id": "court-appointed-special-advocates-for-ch",
+   "name": "Court Appointed Special Advocates for Children (C.A.S.A.",
+   "cat": "charity",
+   "img": "court-appointed-special-advocates-for-ch.webp"
+  },
+  {
+   "id": "craig-hospital",
+   "name": "Craig Hospital",
+   "cat": "charity",
+   "img": "craig-hospital.webp"
+  },
+  {
+   "id": "delta-sigma-theta-sorority",
+   "name": "Delta Sigma Theta Sorority",
+   "cat": "other",
+   "img": "delta-sigma-theta-sorority.webp"
+  },
+  {
+   "id": "denver-nuggets",
+   "name": "Denver Nuggets",
+   "cat": "sports",
+   "img": "denver-nuggets.webp"
+  },
+  {
+   "id": "depot",
+   "name": "Depot",
+   "cat": "other",
+   "img": "depot.webp"
+  },
+  {
+   "id": "designer",
+   "name": "Designer",
+   "cat": "other",
+   "img": "designer.webp"
+  },
+  {
+   "id": "disabled-veteran",
+   "name": "Disabled Veteran",
+   "cat": "veterans",
+   "img": "disabled-veteran.webp"
+  },
+  {
+   "id": "disabled-women-veteran",
+   "name": "Disabled Women Veteran",
+   "cat": "veterans",
+   "img": "disabled-women-veteran.webp"
+  },
+  {
+   "id": "distinguished-flying-cross",
+   "name": "Distinguished Flying Cross",
+   "cat": "veterans",
+   "img": "distinguished-flying-cross.webp"
+  },
+  {
+   "id": "distinguished-service-cross",
+   "name": "Distinguished Service Cross",
+   "cat": "veterans",
+   "img": "distinguished-service-cross.webp"
+  },
+  {
+   "id": "donate-life",
+   "name": "Donate Life",
+   "cat": "charity",
+   "img": "donate-life.webp"
+  },
+  {
+   "id": "electric",
+   "name": "Electric",
+   "cat": "vehicle",
+   "img": "electric.webp"
+  },
+  {
+   "id": "emergency-medical-services",
+   "name": "Emergency Medical Services",
+   "cat": "firstresponder",
+   "img": "emergency-medical-services.webp"
+  },
+  {
+   "id": "emergency-medical-services-motorcyle",
+   "name": "Emergency Medical Services - Motorcyle",
+   "cat": "firstresponder",
+   "img": "emergency-medical-services-motorcyle.webp"
+  },
+  {
+   "id": "epilepsy-awareness",
+   "name": "Epilepsy Awareness",
+   "cat": "charity",
+   "img": "epilepsy-awareness.webp"
+  },
+  {
+   "id": "fallen-air-force",
+   "name": "Fallen Air Force",
+   "cat": "military",
+   "img": "fallen-air-force.webp"
+  },
+  {
+   "id": "fallen-army",
+   "name": "Fallen Army",
+   "cat": "military",
+   "img": "fallen-army.webp"
+  },
+  {
+   "id": "fallen-coast-guard",
+   "name": "Fallen Coast Guard",
+   "cat": "military",
+   "img": "fallen-coast-guard.webp"
+  },
+  {
+   "id": "fallen-heroes",
+   "name": "Fallen Heroes",
+   "cat": "other",
+   "img": "fallen-heroes.webp"
+  },
+  {
+   "id": "fallen-marine",
+   "name": "Fallen Marine",
+   "cat": "military",
+   "img": "fallen-marine.webp"
+  },
+  {
+   "id": "fallen-navy",
+   "name": "Fallen Navy",
+   "cat": "military",
+   "img": "fallen-navy.webp"
+  },
+  {
+   "id": "farm",
+   "name": "Farm",
+   "cat": "vehicle",
+   "img": "farm.webp"
+  },
+  {
+   "id": "firefighter",
+   "name": "Firefighter",
+   "cat": "firstresponder",
+   "img": "firefighter.webp"
+  },
+  {
+   "id": "flight-for-life-colorado",
+   "name": "Flight For Life Colorado",
+   "cat": "other",
+   "img": "flight-for-life-colorado.webp"
+  },
+  {
+   "id": "fort-lewis-college",
+   "name": "Fort Lewis College",
+   "cat": "colleges",
+   "img": "fort-lewis-college.webp"
+  },
+  {
+   "id": "girl-scouts",
+   "name": "Girl Scouts",
+   "cat": "charity",
+   "img": "girl-scouts.webp"
+  },
+  {
+   "id": "greyhound-lovers",
+   "name": "Greyhound Lovers",
+   "cat": "other",
+   "img": "greyhound-lovers.webp"
+  },
+  {
+   "id": "gvw",
+   "name": "GVW",
+   "cat": "other",
+   "img": "gvw.webp"
+  },
+  {
+   "id": "historical-black",
+   "name": "Historical - Black",
+   "cat": "other",
+   "img": "historical-black.webp"
+  },
+  {
+   "id": "historical-blue",
+   "name": "Historical - Blue",
+   "cat": "other",
+   "img": "historical-blue.webp"
+  },
+  {
+   "id": "historical-green",
+   "name": "Historical - Green",
+   "cat": "other",
+   "img": "historical-green.webp"
+  },
+  {
+   "id": "historical-red",
+   "name": "Historical - Red",
+   "cat": "other",
+   "img": "historical-red.webp"
+  },
+  {
+   "id": "honorably-discharged-veteran",
+   "name": "Honorably Discharged Veteran",
+   "cat": "veterans",
+   "img": "honorably-discharged-veteran.webp"
+  },
+  {
+   "id": "horseless-carriage",
+   "name": "Horseless Carriage",
+   "cat": "vehicle",
+   "img": "horseless-carriage.webp"
+  },
+  {
+   "id": "hospice-and-palliative",
+   "name": "Hospice and Palliative",
+   "cat": "other",
+   "img": "hospice-and-palliative.webp"
+  },
+  {
+   "id": "italian-american-heritage",
+   "name": "Italian American Heritage",
+   "cat": "charity",
+   "img": "italian-american-heritage.webp"
+  },
+  {
+   "id": "juvenile-diabetes-research-foundation",
+   "name": "Juvenile Diabetes Research Foundation",
+   "cat": "charity",
+   "img": "juvenile-diabetes-research-foundation.webp"
+  },
+  {
+   "id": "kids-first",
+   "name": "Kids First",
+   "cat": "charity",
+   "img": "kids-first.webp"
+  },
+  {
+   "id": "korean-war-veteran",
+   "name": "Korean War Veteran",
+   "cat": "veterans",
+   "img": "korean-war-veteran.webp"
+  },
+  {
+   "id": "medal-of-honor",
+   "name": "Medal Of Honor",
+   "cat": "veterans",
+   "img": "medal-of-honor.webp"
+  },
+  {
+   "id": "mesa-verde-national-park",
+   "name": "Mesa Verde National Park",
+   "cat": "nature",
+   "img": "mesa-verde-national-park.webp"
+  },
+  {
+   "id": "metropolitan-state-university-of-denver",
+   "name": "Metropolitan State University of Denver",
+   "cat": "colleges",
+   "img": "metropolitan-state-university-of-denver.webp"
+  },
+  {
+   "id": "national-guard",
+   "name": "National Guard",
+   "cat": "military",
+   "img": "national-guard.webp"
+  },
+  {
+   "id": "navy-cross",
+   "name": "Navy Cross",
+   "cat": "veterans",
+   "img": "navy-cross.webp"
+  },
+  {
+   "id": "pearl-harbor",
+   "name": "Pearl Harbor",
+   "cat": "veterans",
+   "img": "pearl-harbor.webp"
+  },
+  {
+   "id": "pikes-peak-hill-climb",
+   "name": "Pikes Peak Hill Climb",
+   "cat": "other",
+   "img": "pikes-peak-hill-climb.webp"
+  },
+  {
+   "id": "pioneer",
+   "name": "Pioneer",
+   "cat": "other",
+   "img": "pioneer.webp"
+  },
+  {
+   "id": "prisoner-of-war",
+   "name": "Prisoner of War",
+   "cat": "veterans",
+   "img": "prisoner-of-war.webp"
+  },
+  {
+   "id": "protect-our-rivers",
+   "name": "Protect Our Rivers",
+   "cat": "nature",
+   "img": "protect-our-rivers.webp"
+  },
+  {
+   "id": "pueblo-chile",
+   "name": "Pueblo Chile",
+   "cat": "tribal",
+   "img": "pueblo-chile.webp"
+  },
+  {
+   "id": "purple-heart",
+   "name": "Purple Heart",
+   "cat": "veterans",
+   "img": "purple-heart.webp"
+  },
+  {
+   "id": "raptor",
+   "name": "Raptor",
+   "cat": "other",
+   "img": "raptor.webp"
+  },
+  {
+   "id": "recreational",
+   "name": "Recreational",
+   "cat": "other",
+   "img": "recreational.webp"
+  },
+  {
+   "id": "regis-university",
+   "name": "Regis University",
+   "cat": "colleges",
+   "img": "regis-university.webp"
+  },
+  {
+   "id": "rocky-mountain-national-park",
+   "name": "Rocky Mountain National Park",
+   "cat": "nature",
+   "img": "rocky-mountain-national-park.webp"
+  },
+  {
+   "id": "rotary-international",
+   "name": "Rotary International",
+   "cat": "hobby",
+   "img": "rotary-international.webp"
+  },
+  {
+   "id": "share-the-road",
+   "name": "Share the Road",
+   "cat": "hobby",
+   "img": "share-the-road.webp"
+  },
+  {
+   "id": "silver-star",
+   "name": "Silver Star",
+   "cat": "veterans",
+   "img": "silver-star.webp"
+  },
+  {
+   "id": "ski-country-usa",
+   "name": "Ski Country USA",
+   "cat": "sports",
+   "img": "ski-country-usa.webp"
+  },
+  {
+   "id": "special-olympics",
+   "name": "Special Olympics",
+   "cat": "sports",
+   "img": "special-olympics.webp"
+  },
+  {
+   "id": "special-use",
+   "name": "Special Use",
+   "cat": "other",
+   "img": "special-use.webp"
+  },
+  {
+   "id": "state-parks",
+   "name": "State Parks",
+   "cat": "nature",
+   "img": "state-parks.webp"
+  },
+  {
+   "id": "street-rod",
+   "name": "Street Rod",
+   "cat": "vehicle",
+   "img": "street-rod.webp"
+  },
+  {
+   "id": "submarine-service",
+   "name": "Submarine Service",
+   "cat": "military",
+   "img": "submarine-service.webp"
+  },
+  {
+   "id": "support-education",
+   "name": "Support Education",
+   "cat": "charity",
+   "img": "support-education.webp"
+  },
+  {
+   "id": "support-foster-families",
+   "name": "Support Foster Families",
+   "cat": "charity",
+   "img": "support-foster-families.webp"
+  },
+  {
+   "id": "support-pollinators",
+   "name": "Support Pollinators",
+   "cat": "nature",
+   "img": "support-pollinators.webp"
+  },
+  {
+   "id": "support-the-10th-mountain-division",
+   "name": "Support the 10th Mountain Division",
+   "cat": "nature",
+   "img": "support-the-10th-mountain-division.webp"
+  },
+  {
+   "id": "support-the-horse",
+   "name": "Support the Horse",
+   "cat": "hobby",
+   "img": "support-the-horse.webp"
+  },
+  {
+   "id": "support-the-troops",
+   "name": "Support the Troops",
+   "cat": "charity",
+   "img": "support-the-troops.webp"
+  },
+  {
+   "id": "taxicab",
+   "name": "Taxicab",
+   "cat": "other",
+   "img": "taxicab.webp"
+  },
+  {
+   "id": "u-s-women-veterans",
+   "name": "U.S Women Veterans",
+   "cat": "veterans",
+   "img": "u-s-women-veterans.webp"
+  },
+  {
+   "id": "u-s-air-force",
+   "name": "U.S. Air Force",
+   "cat": "military",
+   "img": "u-s-air-force.webp"
+  },
+  {
+   "id": "u-s-army",
+   "name": "U.S. Army",
+   "cat": "military",
+   "img": "u-s-army.webp"
+  },
+  {
+   "id": "u-s-army-10th-mountain-division",
+   "name": "U.S. Army 10th Mountain Division",
+   "cat": "military",
+   "img": "u-s-army-10th-mountain-division.webp"
+  },
+  {
+   "id": "u-s-army-special-forces",
+   "name": "U.S. Army Special Forces",
+   "cat": "military",
+   "img": "u-s-army-special-forces.webp"
+  },
+  {
+   "id": "u-s-coast-guard",
+   "name": "U.S. Coast Guard",
+   "cat": "military",
+   "img": "u-s-coast-guard.webp"
+  },
+  {
+   "id": "u-s-marine-corps",
+   "name": "U.S. Marine Corps",
+   "cat": "military",
+   "img": "u-s-marine-corps.webp"
+  },
+  {
+   "id": "u-s-navy",
+   "name": "U.S. Navy",
+   "cat": "military",
+   "img": "u-s-navy.webp"
+  },
+  {
+   "id": "u-s-space-force",
+   "name": "U.S. Space Force",
+   "cat": "military",
+   "img": "u-s-space-force.webp"
+  },
+  {
+   "id": "udt-seals",
+   "name": "UDT/SEALs",
+   "cat": "other",
+   "img": "udt-seals.webp"
+  },
+  {
+   "id": "university-of-colorado",
+   "name": "University of Colorado",
+   "cat": "colleges",
+   "img": "university-of-colorado.webp"
+  },
+  {
+   "id": "university-of-denver",
+   "name": "University of Denver",
+   "cat": "colleges",
+   "img": "university-of-denver.webp"
+  },
+  {
+   "id": "university-of-northern-colorado",
+   "name": "University of Northern Colorado",
+   "cat": "colleges",
+   "img": "university-of-northern-colorado.webp"
+  },
+  {
+   "id": "uss-colorado",
+   "name": "USS Colorado",
+   "cat": "other",
+   "img": "uss-colorado.webp"
+  },
+  {
+   "id": "veteran-of-afghanistan-war",
+   "name": "Veteran of Afghanistan War",
+   "cat": "veterans",
+   "img": "veteran-of-afghanistan-war.webp"
+  },
+  {
+   "id": "veteran-of-iraq-war",
+   "name": "Veteran of Iraq War",
+   "cat": "veterans",
+   "img": "veteran-of-iraq-war.webp"
+  },
+  {
+   "id": "veteran-of-operation-desert-storm-shield",
+   "name": "Veteran of Operation Desert Storm/ Shield",
+   "cat": "veterans",
+   "img": "veteran-of-operation-desert-storm-shield.webp"
+  },
+  {
+   "id": "veteran-of-world-war-ii",
+   "name": "Veteran of World War II",
+   "cat": "veterans",
+   "img": "veteran-of-world-war-ii.webp"
+  },
+  {
+   "id": "vietnam-veteran",
+   "name": "Vietnam Veteran",
+   "cat": "veterans",
+   "img": "vietnam-veteran.webp"
+  },
+  {
+   "id": "western-colorado-university",
+   "name": "Western Colorado University",
+   "cat": "colleges",
+   "img": "western-colorado-university.webp"
+  },
+  {
+   "id": "wildlife-sporting",
+   "name": "Wildlife Sporting",
+   "cat": "nature",
+   "img": "wildlife-sporting.webp"
+  }
+ ]
+}

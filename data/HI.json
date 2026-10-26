@@ -1,0 +1,88 @@
+{
+ "code": "HI",
+ "name": "Hawaii",
+ "rated": false,
+ "checked": false,
+ "updated": "2026-10-25",
+ "about": "Hawaii special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "sources": [
+  {
+   "title": "Jon Keegan, us-license-plates (2023)",
+   "url": "https://github.com/jonkeegan/us-license-plates"
+  }
+ ],
+ "plates": [
+  {
+   "id": "combat-veteran",
+   "name": "Combat Veteran",
+   "cat": "veterans",
+   "img": "combat-veteran.webp"
+  },
+  {
+   "id": "combat-wounded-purple-heart",
+   "name": "Combat Wounded (Purple Heart",
+   "cat": "veterans",
+   "img": "combat-wounded-purple-heart.webp"
+  },
+  {
+   "id": "gold-star-family",
+   "name": "Gold Star Family",
+   "cat": "veterans",
+   "img": "gold-star-family.webp"
+  },
+  {
+   "id": "haleakal-national-park",
+   "name": "Haleakalā National Park",
+   "cat": "nature",
+   "img": "haleakal-national-park.webp"
+  },
+  {
+   "id": "hawai-i-volcanoes-national-park",
+   "name": "Hawaiʻi Volcanoes National Park",
+   "cat": "nature",
+   "img": "hawai-i-volcanoes-national-park.webp"
+  },
+  {
+   "id": "korea-veteran",
+   "name": "Korea Veteran",
+   "cat": "veterans",
+   "img": "korea-veteran.webp"
+  },
+  {
+   "id": "pearl-harbor-survivor",
+   "name": "Pearl Harbor Survivor",
+   "cat": "veterans",
+   "img": "pearl-harbor-survivor.webp"
+  },
+  {
+   "id": "persian-gulf-veteran",
+   "name": "Persian Gulf Veteran",
+   "cat": "veterans",
+   "img": "persian-gulf-veteran.webp"
+  },
+  {
+   "id": "polynesian-voyaging-society",
+   "name": "Polynesian Voyaging Society",
+   "cat": "charity",
+   "img": "polynesian-voyaging-society.webp"
+  },
+  {
+   "id": "veteran",
+   "name": "Veteran",
+   "cat": "veterans",
+   "img": "veteran.webp"
+  },
+  {
+   "id": "vietnam-veteran",
+   "name": "Vietnam Veteran",
+   "cat": "veterans",
+   "img": "vietnam-veteran.webp"
+  },
+  {
+   "id": "world-war-ii-veteran",
+   "name": "World War II Veteran",
+   "cat": "veterans",
+   "img": "world-war-ii-veteran.webp"
+  }
+ ]
+}

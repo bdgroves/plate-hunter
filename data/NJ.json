@@ -1,0 +1,652 @@
+{
+ "code": "NJ",
+ "name": "New Jersey",
+ "rated": false,
+ "checked": false,
+ "updated": "2026-10-25",
+ "about": "New Jersey special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "sources": [
+  {
+   "title": "Jon Keegan, us-license-plates (2023)",
+   "url": "https://github.com/jonkeegan/us-license-plates"
+  }
+ ],
+ "plates": [
+  {
+   "id": "agriculture",
+   "name": "Agriculture",
+   "cat": "charity",
+   "img": "agriculture.webp"
+  },
+  {
+   "id": "air-army-guard",
+   "name": "Air/Army Guard",
+   "cat": "military",
+   "img": "air-army-guard.webp"
+  },
+  {
+   "id": "airborne",
+   "name": "Airborne",
+   "cat": "military",
+   "img": "airborne.webp"
+  },
+  {
+   "id": "alpha-kappa-alpha-sorority-inc",
+   "name": "Alpha Kappa Alpha Sorority, Inc.",
+   "cat": "other",
+   "img": "alpha-kappa-alpha-sorority-inc.webp"
+  },
+  {
+   "id": "amateur-radio",
+   "name": "Amateur Radio",
+   "cat": "hobby",
+   "img": "amateur-radio.webp"
+  },
+  {
+   "id": "american-legion",
+   "name": "American Legion",
+   "cat": "veterans",
+   "img": "american-legion.webp"
+  },
+  {
+   "id": "amvets",
+   "name": "AMVETS",
+   "cat": "veterans",
+   "img": "amvets.webp"
+  },
+  {
+   "id": "animal-friendly",
+   "name": "Animal Friendly",
+   "cat": "charity",
+   "img": "animal-friendly.webp"
+  },
+  {
+   "id": "army-reserve",
+   "name": "Army Reserve",
+   "cat": "military",
+   "img": "army-reserve.webp"
+  },
+  {
+   "id": "baymen-s-heritage",
+   "name": "Baymen's Heritage",
+   "cat": "charity",
+   "img": "baymen-s-heritage.webp"
+  },
+  {
+   "id": "chiropractor",
+   "name": "Chiropractor",
+   "cat": "other",
+   "img": "chiropractor.webp"
+  },
+  {
+   "id": "choose-life",
+   "name": "Choose Life",
+   "cat": "other",
+   "img": "choose-life.webp"
+  },
+  {
+   "id": "civil-air-patrol",
+   "name": "Civil Air Patrol",
+   "cat": "other",
+   "img": "civil-air-patrol.webp"
+  },
+  {
+   "id": "columbianism",
+   "name": "Columbianism",
+   "cat": "other",
+   "img": "columbianism.webp"
+  },
+  {
+   "id": "combat-veteran",
+   "name": "Combat Veteran",
+   "cat": "veterans",
+   "img": "combat-veteran.webp"
+  },
+  {
+   "id": "combat-wounded",
+   "name": "Combat Wounded",
+   "cat": "veterans",
+   "img": "combat-wounded.webp"
+  },
+  {
+   "id": "congressional-medal-of-honor",
+   "name": "Congressional Medal Of Honor",
+   "cat": "veterans",
+   "img": "congressional-medal-of-honor.webp"
+  },
+  {
+   "id": "conquer-cancer",
+   "name": "Conquer Cancer",
+   "cat": "charity",
+   "img": "conquer-cancer.webp"
+  },
+  {
+   "id": "conserve-wildlife",
+   "name": "Conserve Wildlife",
+   "cat": "nature",
+   "img": "conserve-wildlife.webp"
+  },
+  {
+   "id": "deborah-heart-lung",
+   "name": "Deborah Heart & Lung",
+   "cat": "hobby",
+   "img": "deborah-heart-lung.webp"
+  },
+  {
+   "id": "dentist-dds",
+   "name": "Dentist - DDS",
+   "cat": "other",
+   "img": "dentist-dds.webp"
+  },
+  {
+   "id": "dentist-dmd",
+   "name": "Dentist - DMD",
+   "cat": "other",
+   "img": "dentist-dmd.webp"
+  },
+  {
+   "id": "disabled-american-veterans",
+   "name": "Disabled American Veterans",
+   "cat": "veterans",
+   "img": "disabled-american-veterans.webp"
+  },
+  {
+   "id": "disabled-vet",
+   "name": "Disabled Vet",
+   "cat": "veterans",
+   "img": "disabled-vet.webp"
+  },
+  {
+   "id": "discover-nj-history",
+   "name": "Discover NJ History",
+   "cat": "charity",
+   "img": "discover-nj-history.webp"
+  },
+  {
+   "id": "emt-a",
+   "name": "EMT-A",
+   "cat": "other",
+   "img": "emt-a.webp"
+  },
+  {
+   "id": "engineer",
+   "name": "Engineer",
+   "cat": "other",
+   "img": "engineer.webp"
+  },
+  {
+   "id": "firefighter",
+   "name": "Firefighter",
+   "cat": "firstresponder",
+   "img": "firefighter.webp"
+  },
+  {
+   "id": "firefighter-int-l",
+   "name": "Firefighter Int'l",
+   "cat": "firstresponder",
+   "img": "firefighter-int-l.webp"
+  },
+  {
+   "id": "first-aider",
+   "name": "First Aider",
+   "cat": "other",
+   "img": "first-aider.webp"
+  },
+  {
+   "id": "freemason",
+   "name": "Freemason",
+   "cat": "hobby",
+   "img": "freemason.webp"
+  },
+  {
+   "id": "garden-state",
+   "name": "Garden State",
+   "cat": "nature",
+   "img": "garden-state.webp"
+  },
+  {
+   "id": "gold-star-family",
+   "name": "Gold Star Family",
+   "cat": "veterans",
+   "img": "gold-star-family.webp"
+  },
+  {
+   "id": "highlanders",
+   "name": "Highlanders",
+   "cat": "other",
+   "img": "highlanders.webp"
+  },
+  {
+   "id": "historic",
+   "name": "Historic",
+   "cat": "other",
+   "img": "historic.webp"
+  },
+  {
+   "id": "honor-legion",
+   "name": "Honor Legion",
+   "cat": "veterans",
+   "img": "honor-legion.webp"
+  },
+  {
+   "id": "kings-point",
+   "name": "Kings Point",
+   "cat": "sports",
+   "img": "kings-point.webp"
+  },
+  {
+   "id": "kiwanis-international",
+   "name": "Kiwanis International",
+   "cat": "hobby",
+   "img": "kiwanis-international.webp"
+  },
+  {
+   "id": "lakehurst-navy",
+   "name": "Lakehurst Navy",
+   "cat": "military",
+   "img": "lakehurst-navy.webp"
+  },
+  {
+   "id": "law-enforcement-memorial",
+   "name": "Law Enforcement Memorial",
+   "cat": "firstresponder",
+   "img": "law-enforcement-memorial.webp"
+  },
+  {
+   "id": "leatherneck",
+   "name": "Leatherneck",
+   "cat": "other",
+   "img": "leatherneck.webp"
+  },
+  {
+   "id": "liberty-state-park",
+   "name": "Liberty State Park",
+   "cat": "nature",
+   "img": "liberty-state-park.webp"
+  },
+  {
+   "id": "meadowlands",
+   "name": "Meadowlands",
+   "cat": "nature",
+   "img": "meadowlands.webp"
+  },
+  {
+   "id": "merchant-marine",
+   "name": "Merchant Marine",
+   "cat": "military",
+   "img": "merchant-marine.webp"
+  },
+  {
+   "id": "mew-jersey-press",
+   "name": "Mew Jersey Press",
+   "cat": "hobby",
+   "img": "mew-jersey-press.webp"
+  },
+  {
+   "id": "nascar",
+   "name": "NASCAR",
+   "cat": "sports",
+   "img": "nascar.webp"
+  },
+  {
+   "id": "navy-cross",
+   "name": "Navy Cross",
+   "cat": "veterans",
+   "img": "navy-cross.webp"
+  },
+  {
+   "id": "navy-league",
+   "name": "Navy League",
+   "cat": "military",
+   "img": "navy-league.webp"
+  },
+  {
+   "id": "new-jersey-devils",
+   "name": "New Jersey Devils",
+   "cat": "other",
+   "img": "new-jersey-devils.webp"
+  },
+  {
+   "id": "new-york-giants",
+   "name": "New York Giants",
+   "cat": "sports",
+   "img": "new-york-giants.webp"
+  },
+  {
+   "id": "new-york-jets",
+   "name": "New York Jets",
+   "cat": "sports",
+   "img": "new-york-jets.webp"
+  },
+  {
+   "id": "new-york-mets",
+   "name": "New York Mets",
+   "cat": "sports",
+   "img": "new-york-mets.webp"
+  },
+  {
+   "id": "new-york-press",
+   "name": "New York Press",
+   "cat": "hobby",
+   "img": "new-york-press.webp"
+  },
+  {
+   "id": "new-york-yankees",
+   "name": "New York Yankees",
+   "cat": "sports",
+   "img": "new-york-yankees.webp"
+  },
+  {
+   "id": "newark-f-f",
+   "name": "Newark F/F",
+   "cat": "other",
+   "img": "newark-f-f.webp"
+  },
+  {
+   "id": "notre-dame",
+   "name": "Notre Dame",
+   "cat": "other",
+   "img": "notre-dame.webp"
+  },
+  {
+   "id": "npdf-safe-cop",
+   "name": "NPDF Safe Cop",
+   "cat": "charity",
+   "img": "npdf-safe-cop.webp"
+  },
+  {
+   "id": "ny-knicks",
+   "name": "NY Knicks",
+   "cat": "sports",
+   "img": "ny-knicks.webp"
+  },
+  {
+   "id": "olympic-spirit",
+   "name": "Olympic Spirit",
+   "cat": "sports",
+   "img": "olympic-spirit.webp"
+  },
+  {
+   "id": "omega-psi-phi",
+   "name": "Omega Psi Phi",
+   "cat": "other",
+   "img": "omega-psi-phi.webp"
+  },
+  {
+   "id": "operating-engineers",
+   "name": "Operating Engineers",
+   "cat": "other",
+   "img": "operating-engineers.webp"
+  },
+  {
+   "id": "organ-donor",
+   "name": "Organ Donor",
+   "cat": "charity",
+   "img": "organ-donor.webp"
+  },
+  {
+   "id": "p-o-w",
+   "name": "P.O.W.",
+   "cat": "veterans",
+   "img": "p-o-w.webp"
+  },
+  {
+   "id": "pearl-harbor-41",
+   "name": "Pearl Harbor 41",
+   "cat": "veterans",
+   "img": "pearl-harbor-41.webp"
+  },
+  {
+   "id": "penn-state-alum",
+   "name": "Penn State Alum",
+   "cat": "other",
+   "img": "penn-state-alum.webp"
+  },
+  {
+   "id": "philadelphia-76ers",
+   "name": "Philadelphia 76ers",
+   "cat": "other",
+   "img": "philadelphia-76ers.webp"
+  },
+  {
+   "id": "philadelphia-eagles",
+   "name": "Philadelphia Eagles",
+   "cat": "sports",
+   "img": "philadelphia-eagles.webp"
+  },
+  {
+   "id": "philadelphia-flyers",
+   "name": "Philadelphia Flyers",
+   "cat": "other",
+   "img": "philadelphia-flyers.webp"
+  },
+  {
+   "id": "philadelphia-phillies",
+   "name": "Philadelphia Phillies",
+   "cat": "sports",
+   "img": "philadelphia-phillies.webp"
+  },
+  {
+   "id": "physician-md",
+   "name": "Physician - MD",
+   "cat": "other",
+   "img": "physician-md.webp"
+  },
+  {
+   "id": "physician-osteopathic",
+   "name": "Physician - Osteopathic",
+   "cat": "other",
+   "img": "physician-osteopathic.webp"
+  },
+  {
+   "id": "pinelands",
+   "name": "Pinelands",
+   "cat": "other",
+   "img": "pinelands.webp"
+  },
+  {
+   "id": "podiatrist",
+   "name": "Podiatrist",
+   "cat": "other",
+   "img": "podiatrist.webp"
+  },
+  {
+   "id": "rotarian",
+   "name": "Rotarian",
+   "cat": "other",
+   "img": "rotarian.webp"
+  },
+  {
+   "id": "rutgers",
+   "name": "Rutgers",
+   "cat": "other",
+   "img": "rutgers.webp"
+  },
+  {
+   "id": "seton-hall",
+   "name": "Seton Hall",
+   "cat": "other",
+   "img": "seton-hall.webp"
+  },
+  {
+   "id": "shore-to-please",
+   "name": "Shore to Please",
+   "cat": "other",
+   "img": "shore-to-please.webp"
+  },
+  {
+   "id": "silent-service",
+   "name": "Silent Service",
+   "cat": "other",
+   "img": "silent-service.webp"
+  },
+  {
+   "id": "silver-star",
+   "name": "Silver Star",
+   "cat": "veterans",
+   "img": "silver-star.webp"
+  },
+  {
+   "id": "square-dancer",
+   "name": "Square Dancer",
+   "cat": "hobby",
+   "img": "square-dancer.webp"
+  },
+  {
+   "id": "state-f-m-b-a",
+   "name": "State F.M.B.A.",
+   "cat": "other",
+   "img": "state-f-m-b-a.webp"
+  },
+  {
+   "id": "state-f-o-p",
+   "name": "State F.O.P.",
+   "cat": "other",
+   "img": "state-f-o-p.webp"
+  },
+  {
+   "id": "state-p-b-a",
+   "name": "State P.B.A.",
+   "cat": "other",
+   "img": "state-p-b-a.webp"
+  },
+  {
+   "id": "stevens-tech",
+   "name": "Stevens Tech.",
+   "cat": "other",
+   "img": "stevens-tech.webp"
+  },
+  {
+   "id": "street-rod",
+   "name": "Street Rod",
+   "cat": "vehicle",
+   "img": "street-rod.webp"
+  },
+  {
+   "id": "teamsters",
+   "name": "Teamsters",
+   "cat": "other",
+   "img": "teamsters.webp"
+  },
+  {
+   "id": "tele-pioneer",
+   "name": "Tele. Pioneer",
+   "cat": "other",
+   "img": "tele-pioneer.webp"
+  },
+  {
+   "id": "temple-alumni",
+   "name": "Temple Alumni",
+   "cat": "colleges",
+   "img": "temple-alumni.webp"
+  },
+  {
+   "id": "tin-can-sailors",
+   "name": "Tin Can Sailors",
+   "cat": "other",
+   "img": "tin-can-sailors.webp"
+  },
+  {
+   "id": "treasure-our-trees",
+   "name": "Treasure our trees",
+   "cat": "nature",
+   "img": "treasure-our-trees.webp"
+  },
+  {
+   "id": "u-of-delaware",
+   "name": "U of Delaware",
+   "cat": "colleges",
+   "img": "u-of-delaware.webp"
+  },
+  {
+   "id": "u-of-michigan",
+   "name": "U of Michigan",
+   "cat": "colleges",
+   "img": "u-of-michigan.webp"
+  },
+  {
+   "id": "u-s-army-retired",
+   "name": "U.S. Army Retired",
+   "cat": "military",
+   "img": "u-s-army-retired.webp"
+  },
+  {
+   "id": "united-bowhunters",
+   "name": "United Bowhunters",
+   "cat": "other",
+   "img": "united-bowhunters.webp"
+  },
+  {
+   "id": "united-we-stand",
+   "name": "United We Stand",
+   "cat": "other",
+   "img": "united-we-stand.webp"
+  },
+  {
+   "id": "usaf-reserve",
+   "name": "USAF Reserve",
+   "cat": "military",
+   "img": "usaf-reserve.webp"
+  },
+  {
+   "id": "usaf-retired",
+   "name": "USAF Retired",
+   "cat": "military",
+   "img": "usaf-retired.webp"
+  },
+  {
+   "id": "uscg-auxiliary",
+   "name": "USCG Auxiliary",
+   "cat": "other",
+   "img": "uscg-auxiliary.webp"
+  },
+  {
+   "id": "uscg-reserve",
+   "name": "USCG Reserve",
+   "cat": "military",
+   "img": "uscg-reserve.webp"
+  },
+  {
+   "id": "usmc-reserve",
+   "name": "USMC Reserve",
+   "cat": "military",
+   "img": "usmc-reserve.webp"
+  },
+  {
+   "id": "usn-reserve",
+   "name": "USN Reserve",
+   "cat": "military",
+   "img": "usn-reserve.webp"
+  },
+  {
+   "id": "uss-new-jersey-battleship",
+   "name": "USS New Jersey Battleship",
+   "cat": "other",
+   "img": "uss-new-jersey-battleship.webp"
+  },
+  {
+   "id": "vfw-of-the-us",
+   "name": "VFW of the US",
+   "cat": "veterans",
+   "img": "vfw-of-the-us.webp"
+  },
+  {
+   "id": "vietnam-vets",
+   "name": "Vietnam Vets",
+   "cat": "veterans",
+   "img": "vietnam-vets.webp"
+  },
+  {
+   "id": "west-point",
+   "name": "West Point",
+   "cat": "other",
+   "img": "west-point.webp"
+  },
+  {
+   "id": "wheelchair-symbol",
+   "name": "Wheelchair Symbol",
+   "cat": "other",
+   "img": "wheelchair-symbol.webp"
+  }
+ ]
+}

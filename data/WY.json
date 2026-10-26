@@ -1,0 +1,214 @@
+{
+ "code": "WY",
+ "name": "Wyoming",
+ "rated": false,
+ "checked": false,
+ "updated": "2026-10-25",
+ "about": "Wyoming special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "sources": [
+  {
+   "title": "Jon Keegan, us-license-plates (2023)",
+   "url": "https://github.com/jonkeegan/us-license-plates"
+  }
+ ],
+ "plates": [
+  {
+   "id": "choice-disabled-veteran-air-force",
+   "name": "Choice Disabled Veteran- Air Force",
+   "cat": "veterans",
+   "img": "choice-disabled-veteran-air-force.webp"
+  },
+  {
+   "id": "choice-disabled-veteran-army",
+   "name": "Choice Disabled Veteran- Army",
+   "cat": "veterans",
+   "img": "choice-disabled-veteran-army.webp"
+  },
+  {
+   "id": "choice-disabled-veteran-coast-guard",
+   "name": "Choice Disabled Veteran- Coast Guard",
+   "cat": "veterans",
+   "img": "choice-disabled-veteran-coast-guard.webp"
+  },
+  {
+   "id": "choice-disabled-veteran-disabled-veteran",
+   "name": "Choice Disabled Veteran- Disabled Veteran",
+   "cat": "veterans",
+   "img": "choice-disabled-veteran-disabled-veteran.webp"
+  },
+  {
+   "id": "choice-disabled-veteran-gold-star-family",
+   "name": "Choice Disabled Veteran- Gold Star Family",
+   "cat": "veterans",
+   "img": "choice-disabled-veteran-gold-star-family.webp"
+  },
+  {
+   "id": "choice-disabled-veteran-merchant-marine",
+   "name": "Choice Disabled Veteran- Merchant Marine",
+   "cat": "veterans",
+   "img": "choice-disabled-veteran-merchant-marine.webp"
+  },
+  {
+   "id": "choice-disabled-veteran-national-guard",
+   "name": "Choice Disabled Veteran- National Guard",
+   "cat": "veterans",
+   "img": "choice-disabled-veteran-national-guard.webp"
+  },
+  {
+   "id": "choice-disabled-veteran-navy",
+   "name": "Choice Disabled Veteran- Navy",
+   "cat": "veterans",
+   "img": "choice-disabled-veteran-navy.webp"
+  },
+  {
+   "id": "choice-disabled-veteran-pearl-harbor-sur",
+   "name": "Choice Disabled Veteran- Pearl Harbor Survivor",
+   "cat": "veterans",
+   "img": "choice-disabled-veteran-pearl-harbor-sur.webp"
+  },
+  {
+   "id": "choice-disabled-veteran-pow",
+   "name": "Choice Disabled Veteran- POW",
+   "cat": "veterans",
+   "img": "choice-disabled-veteran-pow.webp"
+  },
+  {
+   "id": "choice-disabled-veteran-purple-heart",
+   "name": "Choice Disabled Veteran- Purple Heart",
+   "cat": "veterans",
+   "img": "choice-disabled-veteran-purple-heart.webp"
+  },
+  {
+   "id": "choice-disabled-veteran-usmc",
+   "name": "Choice Disabled Veteran- USMC",
+   "cat": "veterans",
+   "img": "choice-disabled-veteran-usmc.webp"
+  },
+  {
+   "id": "disabled-veteran",
+   "name": "Disabled Veteran",
+   "cat": "veterans",
+   "img": "disabled-veteran.webp"
+  },
+  {
+   "id": "emt",
+   "name": "EMT",
+   "cat": "other",
+   "img": "emt.webp"
+  },
+  {
+   "id": "firefighter",
+   "name": "Firefighter",
+   "cat": "firstresponder",
+   "img": "firefighter.webp"
+  },
+  {
+   "id": "former-prisoner-of-war",
+   "name": "Former Prisoner of War",
+   "cat": "veterans",
+   "img": "former-prisoner-of-war.webp"
+  },
+  {
+   "id": "gold-star",
+   "name": "Gold Star",
+   "cat": "veterans",
+   "img": "gold-star.webp"
+  },
+  {
+   "id": "national-guard-army-or-air",
+   "name": "National Guard(Army or Air",
+   "cat": "military",
+   "img": "national-guard-army-or-air.webp"
+  },
+  {
+   "id": "pearl-harbor-survivor",
+   "name": "Pearl Harbor Survivor",
+   "cat": "veterans",
+   "img": "pearl-harbor-survivor.webp"
+  },
+  {
+   "id": "pioneer",
+   "name": "Pioneer",
+   "cat": "other",
+   "img": "pioneer.webp"
+  },
+  {
+   "id": "purple-heart-recipient",
+   "name": "Purple Heart Recipient",
+   "cat": "veterans",
+   "img": "purple-heart-recipient.webp"
+  },
+  {
+   "id": "radio-amateur",
+   "name": "Radio Amateur",
+   "cat": "hobby",
+   "img": "radio-amateur.webp"
+  },
+  {
+   "id": "street-rod-and-custom",
+   "name": "Street Rod and Custom",
+   "cat": "vehicle",
+   "img": "street-rod-and-custom.webp"
+  },
+  {
+   "id": "tribal-eastern-shoshone",
+   "name": "Tribal- Eastern Shoshone",
+   "cat": "tribal",
+   "img": "tribal-eastern-shoshone.webp"
+  },
+  {
+   "id": "tribal-northern-arapaho",
+   "name": "Tribal- Northern Arapaho",
+   "cat": "tribal",
+   "img": "tribal-northern-arapaho.webp"
+  },
+  {
+   "id": "university-of-wyoming",
+   "name": "University of Wyoming",
+   "cat": "colleges",
+   "img": "university-of-wyoming.webp"
+  },
+  {
+   "id": "veteran-air-force",
+   "name": "Veteran- Air Force",
+   "cat": "veterans",
+   "img": "veteran-air-force.webp"
+  },
+  {
+   "id": "veteran-army",
+   "name": "Veteran- Army",
+   "cat": "veterans",
+   "img": "veteran-army.webp"
+  },
+  {
+   "id": "veteran-coast-guard",
+   "name": "Veteran- Coast Guard",
+   "cat": "veterans",
+   "img": "veteran-coast-guard.webp"
+  },
+  {
+   "id": "veteran-merchant-marines",
+   "name": "Veteran- Merchant Marines",
+   "cat": "veterans",
+   "img": "veteran-merchant-marines.webp"
+  },
+  {
+   "id": "veteran-navy",
+   "name": "Veteran- Navy",
+   "cat": "veterans",
+   "img": "veteran-navy.webp"
+  },
+  {
+   "id": "veteran-usmc",
+   "name": "Veteran- USMC",
+   "cat": "veterans",
+   "img": "veteran-usmc.webp"
+  },
+  {
+   "id": "wildlife-conservation",
+   "name": "Wildlife Conservation",
+   "cat": "nature",
+   "img": "wildlife-conservation.webp"
+  }
+ ]
+}

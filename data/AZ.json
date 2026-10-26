@@ -1,0 +1,598 @@
+{
+ "code": "AZ",
+ "name": "Arizona",
+ "rated": false,
+ "checked": false,
+ "updated": "2026-10-25",
+ "about": "Arizona special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "sources": [
+  {
+   "title": "Jon Keegan, us-license-plates (2023)",
+   "url": "https://github.com/jonkeegan/us-license-plates"
+  }
+ ],
+ "plates": [
+  {
+   "id": "alice-cooper-s-solid-rock",
+   "name": "Alice Cooper’s Solid Rock",
+   "cat": "other",
+   "img": "alice-cooper-s-solid-rock.webp"
+  },
+  {
+   "id": "all-in-for-arizona-schools",
+   "name": "All in for Arizona Schools",
+   "cat": "charity",
+   "img": "all-in-for-arizona-schools.webp"
+  },
+  {
+   "id": "alzheimer-s-awareness",
+   "name": "Alzheimer's Awareness",
+   "cat": "charity",
+   "img": "alzheimer-s-awareness.webp"
+  },
+  {
+   "id": "amateur-radio",
+   "name": "Amateur Radio",
+   "cat": "hobby",
+   "img": "amateur-radio.webp"
+  },
+  {
+   "id": "arizona-4-h",
+   "name": "Arizona 4-H",
+   "cat": "charity",
+   "img": "arizona-4-h.webp"
+  },
+  {
+   "id": "arizona-agriculture",
+   "name": "Arizona Agriculture",
+   "cat": "charity",
+   "img": "arizona-agriculture.webp"
+  },
+  {
+   "id": "arizona-cardinals",
+   "name": "Arizona Cardinals",
+   "cat": "sports",
+   "img": "arizona-cardinals.webp"
+  },
+  {
+   "id": "arizona-centennial",
+   "name": "Arizona Centennial",
+   "cat": "charity",
+   "img": "arizona-centennial.webp"
+  },
+  {
+   "id": "arizona-coyotes",
+   "name": "Arizona Coyotes",
+   "cat": "other",
+   "img": "arizona-coyotes.webp"
+  },
+  {
+   "id": "arizona-diamondbacks",
+   "name": "Arizona Diamondbacks",
+   "cat": "sports",
+   "img": "arizona-diamondbacks.webp"
+  },
+  {
+   "id": "arizona-education",
+   "name": "Arizona Education",
+   "cat": "charity",
+   "img": "arizona-education.webp"
+  },
+  {
+   "id": "arizona-highways",
+   "name": "Arizona Highways",
+   "cat": "other",
+   "img": "arizona-highways.webp"
+  },
+  {
+   "id": "arizona-historical-society",
+   "name": "Arizona Historical Society",
+   "cat": "charity",
+   "img": "arizona-historical-society.webp"
+  },
+  {
+   "id": "arizona-realtors-homes-for-all",
+   "name": "Arizona REALTORS® Homes For All",
+   "cat": "other",
+   "img": "arizona-realtors-homes-for-all.webp"
+  },
+  {
+   "id": "arizona-rodeo",
+   "name": "Arizona Rodeo",
+   "cat": "sports",
+   "img": "arizona-rodeo.webp"
+  },
+  {
+   "id": "arizona-science-center",
+   "name": "Arizona Science Center",
+   "cat": "other",
+   "img": "arizona-science-center.webp"
+  },
+  {
+   "id": "arizona-sportsmen-for-wildlife-conservat",
+   "name": "Arizona Sportsmen for Wildlife Conservation",
+   "cat": "nature",
+   "img": "arizona-sportsmen-for-wildlife-conservat.webp"
+  },
+  {
+   "id": "arizona-state-university-asu",
+   "name": "Arizona State University (ASU",
+   "cat": "colleges",
+   "img": "arizona-state-university-asu.webp"
+  },
+  {
+   "id": "barrett-jackson",
+   "name": "Barrett-Jackson",
+   "cat": "other",
+   "img": "barrett-jackson.webp"
+  },
+  {
+   "id": "boy-scouts-of-arizona",
+   "name": "Boy Scouts of Arizona",
+   "cat": "charity",
+   "img": "boy-scouts-of-arizona.webp"
+  },
+  {
+   "id": "cancer-support-for-families",
+   "name": "Cancer Support for Families",
+   "cat": "charity",
+   "img": "cancer-support-for-families.webp"
+  },
+  {
+   "id": "channel-8-pbs",
+   "name": "Channel 8 PBS",
+   "cat": "other",
+   "img": "channel-8-pbs.webp"
+  },
+  {
+   "id": "character-education",
+   "name": "Character Education",
+   "cat": "charity",
+   "img": "character-education.webp"
+  },
+  {
+   "id": "child-abuse-prevention",
+   "name": "Child Abuse Prevention",
+   "cat": "charity",
+   "img": "child-abuse-prevention.webp"
+  },
+  {
+   "id": "childhood-cancer-research",
+   "name": "Childhood Cancer Research",
+   "cat": "charity",
+   "img": "childhood-cancer-research.webp"
+  },
+  {
+   "id": "choose-life",
+   "name": "Choose Life",
+   "cat": "other",
+   "img": "choose-life.webp"
+  },
+  {
+   "id": "classic",
+   "name": "Classic",
+   "cat": "vehicle",
+   "img": "classic.webp"
+  },
+  {
+   "id": "congenital-heart-defect-awareness",
+   "name": "Congenital Heart Defect Awareness",
+   "cat": "hobby",
+   "img": "congenital-heart-defect-awareness.webp"
+  },
+  {
+   "id": "congressional-medal-of-honor",
+   "name": "Congressional Medal of Honor",
+   "cat": "veterans",
+   "img": "congressional-medal-of-honor.webp"
+  },
+  {
+   "id": "deaf-hard-of-hearing",
+   "name": "Deaf / Hard of Hearing",
+   "cat": "other",
+   "img": "deaf-hard-of-hearing.webp"
+  },
+  {
+   "id": "deaf-hard-of-hearing-placard",
+   "name": "Deaf/Hard of Hearing Placard",
+   "cat": "other",
+   "img": "deaf-hard-of-hearing-placard.webp"
+  },
+  {
+   "id": "din-college-warriors",
+   "name": "Diné College Warriors",
+   "cat": "colleges",
+   "img": "din-college-warriors.webp"
+  },
+  {
+   "id": "disability-full-size-6-x-12",
+   "name": "Disability (full size 6\" x 12\"",
+   "cat": "charity",
+   "img": "disability-full-size-6-x-12.webp"
+  },
+  {
+   "id": "distinguished-flying-cross",
+   "name": "Distinguished Flying Cross",
+   "cat": "veterans",
+   "img": "distinguished-flying-cross.webp"
+  },
+  {
+   "id": "donate-life-arizona-organ-donation",
+   "name": "Donate Life Arizona (Organ Donation",
+   "cat": "charity",
+   "img": "donate-life-arizona-organ-donation.webp"
+  },
+  {
+   "id": "environmental",
+   "name": "Environmental",
+   "cat": "nature",
+   "img": "environmental.webp"
+  },
+  {
+   "id": "farm",
+   "name": "Farm",
+   "cat": "vehicle",
+   "img": "farm.webp"
+  },
+  {
+   "id": "fiesta-bowl",
+   "name": "Fiesta Bowl",
+   "cat": "nature",
+   "img": "fiesta-bowl.webp"
+  },
+  {
+   "id": "fire-fighter",
+   "name": "Fire Fighter",
+   "cat": "firstresponder",
+   "img": "fire-fighter.webp"
+  },
+  {
+   "id": "firefighter-safety-training",
+   "name": "Firefighter Safety Training",
+   "cat": "firstresponder",
+   "img": "firefighter-safety-training.webp"
+  },
+  {
+   "id": "first-responder",
+   "name": "First Responder",
+   "cat": "firstresponder",
+   "img": "first-responder.webp"
+  },
+  {
+   "id": "former-prisoner-of-war",
+   "name": "Former Prisoner of War",
+   "cat": "veterans",
+   "img": "former-prisoner-of-war.webp"
+  },
+  {
+   "id": "fraternal-order-of-police",
+   "name": "Fraternal Order of Police",
+   "cat": "firstresponder",
+   "img": "fraternal-order-of-police.webp"
+  },
+  {
+   "id": "girl-scouts",
+   "name": "Girl Scouts",
+   "cat": "charity",
+   "img": "girl-scouts.webp"
+  },
+  {
+   "id": "gold-star-family",
+   "name": "Gold Star Family",
+   "cat": "veterans",
+   "img": "gold-star-family.webp"
+  },
+  {
+   "id": "golden-rule",
+   "name": "Golden Rule",
+   "cat": "other",
+   "img": "golden-rule.webp"
+  },
+  {
+   "id": "grand-canyon-university",
+   "name": "Grand Canyon University",
+   "cat": "colleges",
+   "img": "grand-canyon-university.webp"
+  },
+  {
+   "id": "habitat-for-humanity",
+   "name": "Habitat for Humanity",
+   "cat": "nature",
+   "img": "habitat-for-humanity.webp"
+  },
+  {
+   "id": "historic",
+   "name": "Historic",
+   "cat": "vehicle",
+   "img": "historic.webp"
+  },
+  {
+   "id": "honoring-fallen-police-officers",
+   "name": "Honoring Fallen Police Officers",
+   "cat": "firstresponder",
+   "img": "honoring-fallen-police-officers.webp"
+  },
+  {
+   "id": "horseless-carriage",
+   "name": "Horseless Carriage",
+   "cat": "vehicle",
+   "img": "horseless-carriage.webp"
+  },
+  {
+   "id": "hunger-relief",
+   "name": "Hunger Relief",
+   "cat": "charity",
+   "img": "hunger-relief.webp"
+  },
+  {
+   "id": "in-god-we-trust",
+   "name": "In God We Trust",
+   "cat": "charity",
+   "img": "in-god-we-trust.webp"
+  },
+  {
+   "id": "keep-arizona-beautiful",
+   "name": "Keep Arizona Beautiful",
+   "cat": "nature",
+   "img": "keep-arizona-beautiful.webp"
+  },
+  {
+   "id": "legion-of-valor",
+   "name": "Legion of Valor",
+   "cat": "veterans",
+   "img": "legion-of-valor.webp"
+  },
+  {
+   "id": "luke-air-force-base",
+   "name": "Luke Air Force Base",
+   "cat": "military",
+   "img": "luke-air-force-base.webp"
+  },
+  {
+   "id": "make-a-wish-arizona",
+   "name": "Make-A-Wish Arizona",
+   "cat": "other",
+   "img": "make-a-wish-arizona.webp"
+  },
+  {
+   "id": "masonic-fraternity",
+   "name": "Masonic Fraternity",
+   "cat": "hobby",
+   "img": "masonic-fraternity.webp"
+  },
+  {
+   "id": "midwestern-university",
+   "name": "Midwestern University",
+   "cat": "colleges",
+   "img": "midwestern-university.webp"
+  },
+  {
+   "id": "military-support-freedom",
+   "name": "Military Support/Freedom",
+   "cat": "military",
+   "img": "military-support-freedom.webp"
+  },
+  {
+   "id": "national-guard",
+   "name": "National Guard",
+   "cat": "military",
+   "img": "national-guard.webp"
+  },
+  {
+   "id": "navajo-nation",
+   "name": "Navajo Nation",
+   "cat": "tribal",
+   "img": "navajo-nation.webp"
+  },
+  {
+   "id": "northern-arizona-university-nau",
+   "name": "Northern Arizona University (NAU",
+   "cat": "colleges",
+   "img": "northern-arizona-university-nau.webp"
+  },
+  {
+   "id": "pearl-harbor-survivor",
+   "name": "Pearl Harbor Survivor",
+   "cat": "veterans",
+   "img": "pearl-harbor-survivor.webp"
+  },
+  {
+   "id": "pet-friendly-spay-and-neuter",
+   "name": "Pet Friendly/Spay and Neuter",
+   "cat": "charity",
+   "img": "pet-friendly-spay-and-neuter.webp"
+  },
+  {
+   "id": "phoenix-raceway",
+   "name": "Phoenix Raceway",
+   "cat": "other",
+   "img": "phoenix-raceway.webp"
+  },
+  {
+   "id": "phoenix-suns",
+   "name": "Phoenix Suns",
+   "cat": "sports",
+   "img": "phoenix-suns.webp"
+  },
+  {
+   "id": "pink-ribbon-cancer-awareness",
+   "name": "Pink Ribbon/Cancer Awareness",
+   "cat": "charity",
+   "img": "pink-ribbon-cancer-awareness.webp"
+  },
+  {
+   "id": "purple-heart",
+   "name": "Purple Heart",
+   "cat": "veterans",
+   "img": "purple-heart.webp"
+  },
+  {
+   "id": "route-66",
+   "name": "Route 66",
+   "cat": "other",
+   "img": "route-66.webp"
+  },
+  {
+   "id": "san-carlos-apache-tribe",
+   "name": "San Carlos Apache Tribe",
+   "cat": "tribal",
+   "img": "san-carlos-apache-tribe.webp"
+  },
+  {
+   "id": "share-the-road",
+   "name": "Share the Road",
+   "cat": "hobby",
+   "img": "share-the-road.webp"
+  },
+  {
+   "id": "southwest-pga-golf",
+   "name": "Southwest PGA (Golf",
+   "cat": "sports",
+   "img": "southwest-pga-golf.webp"
+  },
+  {
+   "id": "special-olympics-arizona",
+   "name": "Special Olympics Arizona",
+   "cat": "sports",
+   "img": "special-olympics-arizona.webp"
+  },
+  {
+   "id": "street-rod",
+   "name": "Street Rod",
+   "cat": "vehicle",
+   "img": "street-rod.webp"
+  },
+  {
+   "id": "thunderbird-school-of-global-management",
+   "name": "Thunderbird School of Global Management",
+   "cat": "sports",
+   "img": "thunderbird-school-of-global-management.webp"
+  },
+  {
+   "id": "thunderbirds-charities",
+   "name": "Thunderbirds Charities",
+   "cat": "sports",
+   "img": "thunderbirds-charities.webp"
+  },
+  {
+   "id": "u-s-army",
+   "name": "U.S. Army",
+   "cat": "military",
+   "img": "u-s-army.webp"
+  },
+  {
+   "id": "u-s-marine-corps",
+   "name": "U.S. Marine Corps",
+   "cat": "military",
+   "img": "u-s-marine-corps.webp"
+  },
+  {
+   "id": "university-of-arizona-uofa",
+   "name": "University of Arizona (UofA",
+   "cat": "colleges",
+   "img": "university-of-arizona-uofa.webp"
+  },
+  {
+   "id": "university-of-phoenix",
+   "name": "University of Phoenix",
+   "cat": "colleges",
+   "img": "university-of-phoenix.webp"
+  },
+  {
+   "id": "veteran",
+   "name": "Veteran",
+   "cat": "veterans",
+   "img": "veteran.webp"
+  },
+  {
+   "id": "veteran-air-force",
+   "name": "Veteran Air Force",
+   "cat": "veterans",
+   "img": "veteran-air-force.webp"
+  },
+  {
+   "id": "veteran-army",
+   "name": "Veteran Army",
+   "cat": "veterans",
+   "img": "veteran-army.webp"
+  },
+  {
+   "id": "veteran-coast-guard",
+   "name": "Veteran Coast Guard",
+   "cat": "veterans",
+   "img": "veteran-coast-guard.webp"
+  },
+  {
+   "id": "veteran-code-talker",
+   "name": "Veteran Code Talker",
+   "cat": "veterans",
+   "img": "veteran-code-talker.webp"
+  },
+  {
+   "id": "veteran-marine",
+   "name": "Veteran Marine",
+   "cat": "veterans",
+   "img": "veteran-marine.webp"
+  },
+  {
+   "id": "veteran-navy",
+   "name": "Veteran Navy",
+   "cat": "veterans",
+   "img": "veteran-navy.webp"
+  },
+  {
+   "id": "veterans-of-foreign-wars",
+   "name": "Veterans of Foreign Wars",
+   "cat": "veterans",
+   "img": "veterans-of-foreign-wars.webp"
+  },
+  {
+   "id": "veterans-of-foreign-wars-auxiliary-arizo",
+   "name": "Veterans of Foreign Wars Auxiliary Arizona",
+   "cat": "veterans",
+   "img": "veterans-of-foreign-wars-auxiliary-arizo.webp"
+  },
+  {
+   "id": "white-mountain-apache-tribe",
+   "name": "White Mountain Apache Tribe",
+   "cat": "tribal",
+   "img": "white-mountain-apache-tribe.webp"
+  },
+  {
+   "id": "women-veterans",
+   "name": "Women Veterans",
+   "cat": "veterans",
+   "img": "women-veterans.webp"
+  },
+  {
+   "id": "women-veterans-air-force",
+   "name": "Women Veterans Air Force",
+   "cat": "veterans",
+   "img": "women-veterans-air-force.webp"
+  },
+  {
+   "id": "women-veterans-army",
+   "name": "Women Veterans Army",
+   "cat": "veterans",
+   "img": "women-veterans-army.webp"
+  },
+  {
+   "id": "women-veterans-coast-guard",
+   "name": "Women Veterans Coast Guard",
+   "cat": "veterans",
+   "img": "women-veterans-coast-guard.webp"
+  },
+  {
+   "id": "women-veterans-marine",
+   "name": "Women Veterans Marine",
+   "cat": "veterans",
+   "img": "women-veterans-marine.webp"
+  },
+  {
+   "id": "women-veterans-navy",
+   "name": "Women Veterans Navy",
+   "cat": "veterans",
+   "img": "women-veterans-navy.webp"
+  }
+ ]
+}

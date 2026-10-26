@@ -1,0 +1,1318 @@
+{
+ "code": "SC",
+ "name": "South Carolina",
+ "rated": false,
+ "checked": false,
+ "updated": "2026-10-25",
+ "about": "South Carolina special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "sources": [
+  {
+   "title": "Jon Keegan, us-license-plates (2023)",
+   "url": "https://github.com/jonkeegan/us-license-plates"
+  }
+ ],
+ "plates": [
+  {
+   "id": "250th-year-anniversary-revolutionary-war",
+   "name": "250th Year Anniversary Revolutionary War",
+   "cat": "charity",
+   "img": "250th-year-anniversary-revolutionary-war.webp"
+  },
+  {
+   "id": "air-force",
+   "name": "Air Force",
+   "cat": "military",
+   "img": "air-force.webp"
+  },
+  {
+   "id": "air-force-distinguished-service-cross",
+   "name": "Air Force Distinguished Service Cross",
+   "cat": "veterans",
+   "img": "air-force-distinguished-service-cross.webp"
+  },
+  {
+   "id": "air-force-distinguished-service-medal",
+   "name": "Air Force Distinguished Service Medal",
+   "cat": "veterans",
+   "img": "air-force-distinguished-service-medal.webp"
+  },
+  {
+   "id": "air-medal",
+   "name": "Air Medal",
+   "cat": "veterans",
+   "img": "air-medal.webp"
+  },
+  {
+   "id": "air-national-guard",
+   "name": "Air National Guard",
+   "cat": "military",
+   "img": "air-national-guard.webp"
+  },
+  {
+   "id": "allen-university",
+   "name": "Allen University",
+   "cat": "colleges",
+   "img": "allen-university.webp"
+  },
+  {
+   "id": "alpha-kappa-alpha-sorority-inc",
+   "name": "Alpha Kappa Alpha Sorority, Inc.",
+   "cat": "other",
+   "img": "alpha-kappa-alpha-sorority-inc.webp"
+  },
+  {
+   "id": "alpha-phi-alpha-fraternity",
+   "name": "Alpha Phi Alpha Fraternity",
+   "cat": "other",
+   "img": "alpha-phi-alpha-fraternity.webp"
+  },
+  {
+   "id": "amateur-radio",
+   "name": "Amateur Radio",
+   "cat": "hobby",
+   "img": "amateur-radio.webp"
+  },
+  {
+   "id": "american-red-cross",
+   "name": "American Red Cross",
+   "cat": "other",
+   "img": "american-red-cross.webp"
+  },
+  {
+   "id": "ancient-free-masons",
+   "name": "Ancient Free Masons",
+   "cat": "hobby",
+   "img": "ancient-free-masons.webp"
+  },
+  {
+   "id": "anderson-university",
+   "name": "Anderson University",
+   "cat": "colleges",
+   "img": "anderson-university.webp"
+  },
+  {
+   "id": "antique",
+   "name": "Antique",
+   "cat": "vehicle",
+   "img": "antique.webp"
+  },
+  {
+   "id": "appalachian-state-university",
+   "name": "Appalachian State University",
+   "cat": "colleges",
+   "img": "appalachian-state-university.webp"
+  },
+  {
+   "id": "army",
+   "name": "Army",
+   "cat": "military",
+   "img": "army.webp"
+  },
+  {
+   "id": "army-distinguished-service-medal",
+   "name": "Army Distinguished Service Medal",
+   "cat": "veterans",
+   "img": "army-distinguished-service-medal.webp"
+  },
+  {
+   "id": "army-national-guard",
+   "name": "Army National Guard",
+   "cat": "military",
+   "img": "army-national-guard.webp"
+  },
+  {
+   "id": "auburn-university",
+   "name": "Auburn University",
+   "cat": "colleges",
+   "img": "auburn-university.webp"
+  },
+  {
+   "id": "autism-awareness",
+   "name": "Autism Awareness",
+   "cat": "charity",
+   "img": "autism-awareness.webp"
+  },
+  {
+   "id": "beaufort-water-festival",
+   "name": "Beaufort Water Festival",
+   "cat": "other",
+   "img": "beaufort-water-festival.webp"
+  },
+  {
+   "id": "benedict-college",
+   "name": "Benedict College",
+   "cat": "colleges",
+   "img": "benedict-college.webp"
+  },
+  {
+   "id": "bob-jones-university",
+   "name": "Bob Jones University",
+   "cat": "colleges",
+   "img": "bob-jones-university.webp"
+  },
+  {
+   "id": "boy-scouts-of-america",
+   "name": "Boy Scouts of America",
+   "cat": "charity",
+   "img": "boy-scouts-of-america.webp"
+  },
+  {
+   "id": "boykin-spaniel-foundation",
+   "name": "Boykin Spaniel Foundation",
+   "cat": "charity",
+   "img": "boykin-spaniel-foundation.webp"
+  },
+  {
+   "id": "breast-cancer-awareness",
+   "name": "Breast Cancer Awareness",
+   "cat": "charity",
+   "img": "breast-cancer-awareness.webp"
+  },
+  {
+   "id": "bronze-star",
+   "name": "Bronze Star",
+   "cat": "veterans",
+   "img": "bronze-star.webp"
+  },
+  {
+   "id": "bronze-star-with-valor",
+   "name": "Bronze Star with Valor",
+   "cat": "veterans",
+   "img": "bronze-star-with-valor.webp"
+  },
+  {
+   "id": "camp-sertoma",
+   "name": "Camp Sertoma",
+   "cat": "other",
+   "img": "camp-sertoma.webp"
+  },
+  {
+   "id": "carolina-panthers",
+   "name": "Carolina Panthers",
+   "cat": "sports",
+   "img": "carolina-panthers.webp"
+  },
+  {
+   "id": "charleston-animal-society",
+   "name": "Charleston Animal Society",
+   "cat": "charity",
+   "img": "charleston-animal-society.webp"
+  },
+  {
+   "id": "charleston-southern-university",
+   "name": "Charleston Southern University",
+   "cat": "colleges",
+   "img": "charleston-southern-university.webp"
+  },
+  {
+   "id": "chase-away-childhood-cancer",
+   "name": "Chase Away Childhood Cancer",
+   "cat": "charity",
+   "img": "chase-away-childhood-cancer.webp"
+  },
+  {
+   "id": "children-s-hospital-of-greenville-health",
+   "name": "Children's Hospital of Greenville Health System",
+   "cat": "charity",
+   "img": "children-s-hospital-of-greenville-health.webp"
+  },
+  {
+   "id": "choose-life-sc",
+   "name": "Choose Life SC",
+   "cat": "other",
+   "img": "choose-life-sc.webp"
+  },
+  {
+   "id": "claflin-university",
+   "name": "Claflin University",
+   "cat": "colleges",
+   "img": "claflin-university.webp"
+  },
+  {
+   "id": "clemson-2016-national-football-champions",
+   "name": "Clemson 2016 National Football Championship",
+   "cat": "sports",
+   "img": "clemson-2016-national-football-champions.webp"
+  },
+  {
+   "id": "clemson-2018-national-football-champions",
+   "name": "Clemson 2018 National Football Championship",
+   "cat": "sports",
+   "img": "clemson-2018-national-football-champions.webp"
+  },
+  {
+   "id": "clemson-university",
+   "name": "Clemson University",
+   "cat": "colleges",
+   "img": "clemson-university.webp"
+  },
+  {
+   "id": "coast-guard",
+   "name": "Coast Guard",
+   "cat": "military",
+   "img": "coast-guard.webp"
+  },
+  {
+   "id": "coast-guard-distinguished-service-medal",
+   "name": "Coast Guard Distinguished Service Medal",
+   "cat": "veterans",
+   "img": "coast-guard-distinguished-service-medal.webp"
+  },
+  {
+   "id": "coastal-carolina-university",
+   "name": "Coastal Carolina University",
+   "cat": "colleges",
+   "img": "coastal-carolina-university.webp"
+  },
+  {
+   "id": "coastal-conservation-association",
+   "name": "Coastal Conservation Association",
+   "cat": "nature",
+   "img": "coastal-conservation-association.webp"
+  },
+  {
+   "id": "coker-university",
+   "name": "Coker University",
+   "cat": "colleges",
+   "img": "coker-university.webp"
+  },
+  {
+   "id": "college-of-charleston",
+   "name": "College of Charleston",
+   "cat": "colleges",
+   "img": "college-of-charleston.webp"
+  },
+  {
+   "id": "columbia-college",
+   "name": "Columbia College",
+   "cat": "colleges",
+   "img": "columbia-college.webp"
+  },
+  {
+   "id": "combat-related-disabled-veteran",
+   "name": "Combat Related Disabled Veteran",
+   "cat": "veterans",
+   "img": "combat-related-disabled-veteran.webp"
+  },
+  {
+   "id": "connie-maxwell-children-s-ministry",
+   "name": "Connie Maxwell Children's Ministry",
+   "cat": "charity",
+   "img": "connie-maxwell-children-s-ministry.webp"
+  },
+  {
+   "id": "converse-college",
+   "name": "Converse College",
+   "cat": "colleges",
+   "img": "converse-college.webp"
+  },
+  {
+   "id": "darlington-established-1950",
+   "name": "Darlington Established 1950",
+   "cat": "other",
+   "img": "darlington-established-1950.webp"
+  },
+  {
+   "id": "darlington-raceway",
+   "name": "Darlington Raceway",
+   "cat": "other",
+   "img": "darlington-raceway.webp"
+  },
+  {
+   "id": "delta-sigma-theta",
+   "name": "Delta Sigma Theta",
+   "cat": "other",
+   "img": "delta-sigma-theta.webp"
+  },
+  {
+   "id": "denmark-technical-college",
+   "name": "Denmark Technical College",
+   "cat": "colleges",
+   "img": "denmark-technical-college.webp"
+  },
+  {
+   "id": "disabled-female-veteran",
+   "name": "Disabled Female Veteran",
+   "cat": "veterans",
+   "img": "disabled-female-veteran.webp"
+  },
+  {
+   "id": "disabled",
+   "name": "Disabled",
+   "cat": "other",
+   "img": "disabled.webp"
+  },
+  {
+   "id": "disabled-veteran",
+   "name": "Disabled Veteran",
+   "cat": "veterans",
+   "img": "disabled-veteran.webp"
+  },
+  {
+   "id": "distinguished-flying-cross",
+   "name": "Distinguished Flying Cross",
+   "cat": "veterans",
+   "img": "distinguished-flying-cross.webp"
+  },
+  {
+   "id": "distinguished-service-cross-army",
+   "name": "Distinguished Service Cross - Army",
+   "cat": "veterans",
+   "img": "distinguished-service-cross-army.webp"
+  },
+  {
+   "id": "donate-life",
+   "name": "Donate Life",
+   "cat": "charity",
+   "img": "donate-life.webp"
+  },
+  {
+   "id": "dr-mary-mcleod-bethune",
+   "name": "Dr. Mary McLeod Bethune",
+   "cat": "other",
+   "img": "dr-mary-mcleod-bethune.webp"
+  },
+  {
+   "id": "driven-by-the-arts",
+   "name": "Driven By The Arts",
+   "cat": "hobby",
+   "img": "driven-by-the-arts.webp"
+  },
+  {
+   "id": "driver-s-for-a-cure",
+   "name": "Driver's For a Cure",
+   "cat": "nature",
+   "img": "driver-s-for-a-cure.webp"
+  },
+  {
+   "id": "ducks-unlimited",
+   "name": "Ducks Unlimited",
+   "cat": "nature",
+   "img": "ducks-unlimited.webp"
+  },
+  {
+   "id": "eagle-scouts-of-america",
+   "name": "Eagle Scouts of America",
+   "cat": "charity",
+   "img": "eagle-scouts-of-america.webp"
+  },
+  {
+   "id": "earth-echo-international",
+   "name": "Earth Echo International",
+   "cat": "other",
+   "img": "earth-echo-international.webp"
+  },
+  {
+   "id": "emergency-medical-services",
+   "name": "Emergency Medical Services",
+   "cat": "firstresponder",
+   "img": "emergency-medical-services.webp"
+  },
+  {
+   "id": "emergency-medical-technician",
+   "name": "Emergency Medical Technician",
+   "cat": "firstresponder",
+   "img": "emergency-medical-technician.webp"
+  },
+  {
+   "id": "endangered-species",
+   "name": "Endangered Species",
+   "cat": "other",
+   "img": "endangered-species.webp"
+  },
+  {
+   "id": "erskine-college",
+   "name": "Erskine College",
+   "cat": "colleges",
+   "img": "erskine-college.webp"
+  },
+  {
+   "id": "farm",
+   "name": "Farm",
+   "cat": "vehicle",
+   "img": "farm.webp"
+  },
+  {
+   "id": "female-veteran",
+   "name": "Female Veteran",
+   "cat": "veterans",
+   "img": "female-veteran.webp"
+  },
+  {
+   "id": "firefighter",
+   "name": "Firefighter",
+   "cat": "firstresponder",
+   "img": "firefighter.webp"
+  },
+  {
+   "id": "first-in-golf",
+   "name": "First in Golf",
+   "cat": "sports",
+   "img": "first-in-golf.webp"
+  },
+  {
+   "id": "florida-state-university",
+   "name": "Florida State University",
+   "cat": "colleges",
+   "img": "florida-state-university.webp"
+  },
+  {
+   "id": "forestry-association-of-south-carolina",
+   "name": "Forestry Association of South Carolina",
+   "cat": "nature",
+   "img": "forestry-association-of-south-carolina.webp"
+  },
+  {
+   "id": "francis-marion-university",
+   "name": "Francis Marion University",
+   "cat": "colleges",
+   "img": "francis-marion-university.webp"
+  },
+  {
+   "id": "fraternal-order-of-police",
+   "name": "Fraternal Order of Police",
+   "cat": "firstresponder",
+   "img": "fraternal-order-of-police.webp"
+  },
+  {
+   "id": "friends-of-hunting-island-state-park",
+   "name": "Friends of Hunting Island State Park",
+   "cat": "nature",
+   "img": "friends-of-hunting-island-state-park.webp"
+  },
+  {
+   "id": "furman-university",
+   "name": "Furman University",
+   "cat": "colleges",
+   "img": "furman-university.webp"
+  },
+  {
+   "id": "gardner-webb-university",
+   "name": "Gardner-Webb University",
+   "cat": "colleges",
+   "img": "gardner-webb-university.webp"
+  },
+  {
+   "id": "georgia-tech-foundation",
+   "name": "Georgia Tech Foundation",
+   "cat": "charity",
+   "img": "georgia-tech-foundation.webp"
+  },
+  {
+   "id": "gold-star-family",
+   "name": "Gold Star Family",
+   "cat": "veterans",
+   "img": "gold-star-family.webp"
+  },
+  {
+   "id": "gone-fishing",
+   "name": "Gone Fishing",
+   "cat": "nature",
+   "img": "gone-fishing.webp"
+  },
+  {
+   "id": "heritage-classic-foundation",
+   "name": "Heritage Classic Foundation",
+   "cat": "vehicle",
+   "img": "heritage-classic-foundation.webp"
+  },
+  {
+   "id": "hl-hunley",
+   "name": "HL Hunley",
+   "cat": "other",
+   "img": "hl-hunley.webp"
+  },
+  {
+   "id": "homeownership-the-american-dream",
+   "name": "Homeownership: The American Dream",
+   "cat": "other",
+   "img": "homeownership-the-american-dream.webp"
+  },
+  {
+   "id": "in-god-we-trust",
+   "name": "In God We Trust",
+   "cat": "charity",
+   "img": "in-god-we-trust.webp"
+  },
+  {
+   "id": "in-reason-we-trust",
+   "name": "In Reason We Trust",
+   "cat": "other",
+   "img": "in-reason-we-trust.webp"
+  },
+  {
+   "id": "kappa-alpha-psi",
+   "name": "Kappa Alpha Psi",
+   "cat": "other",
+   "img": "kappa-alpha-psi.webp"
+  },
+  {
+   "id": "keep-it-beautiful",
+   "name": "Keep it Beautiful",
+   "cat": "nature",
+   "img": "keep-it-beautiful.webp"
+  },
+  {
+   "id": "kiwanis-international-foundation",
+   "name": "Kiwanis International Foundation",
+   "cat": "hobby",
+   "img": "kiwanis-international-foundation.webp"
+  },
+  {
+   "id": "korean-veteran",
+   "name": "Korean Veteran",
+   "cat": "veterans",
+   "img": "korean-veteran.webp"
+  },
+  {
+   "id": "lander-university",
+   "name": "Lander University",
+   "cat": "colleges",
+   "img": "lander-university.webp"
+  },
+  {
+   "id": "legion-of-merit",
+   "name": "Legion of Merit",
+   "cat": "veterans",
+   "img": "legion-of-merit.webp"
+  },
+  {
+   "id": "limestone-university",
+   "name": "Limestone University",
+   "cat": "colleges",
+   "img": "limestone-university.webp"
+  },
+  {
+   "id": "lions-international",
+   "name": "Lions International",
+   "cat": "sports",
+   "img": "lions-international.webp"
+  },
+  {
+   "id": "marine-corps",
+   "name": "Marine Corps",
+   "cat": "military",
+   "img": "marine-corps.webp"
+  },
+  {
+   "id": "marine-corps-distinguished-service-medal",
+   "name": "Marine Corps Distinguished Service Medal",
+   "cat": "veterans",
+   "img": "marine-corps-distinguished-service-medal.webp"
+  },
+  {
+   "id": "marine-corps-league",
+   "name": "Marine Corps League",
+   "cat": "military",
+   "img": "marine-corps-league.webp"
+  },
+  {
+   "id": "medal-of-honor-air-force",
+   "name": "Medal of Honor Air Force",
+   "cat": "veterans",
+   "img": "medal-of-honor-air-force.webp"
+  },
+  {
+   "id": "medal-of-honor-army",
+   "name": "Medal of Honor Army",
+   "cat": "veterans",
+   "img": "medal-of-honor-army.webp"
+  },
+  {
+   "id": "medal-of-honor-navy",
+   "name": "Medal of Honor Navy",
+   "cat": "veterans",
+   "img": "medal-of-honor-navy.webp"
+  },
+  {
+   "id": "medal-of-valor",
+   "name": "Medal of Valor",
+   "cat": "veterans",
+   "img": "medal-of-valor.webp"
+  },
+  {
+   "id": "meritorious-service-medal",
+   "name": "Meritorious Service Medal",
+   "cat": "veterans",
+   "img": "meritorious-service-medal.webp"
+  },
+  {
+   "id": "mississippi-state",
+   "name": "Mississippi State",
+   "cat": "other",
+   "img": "mississippi-state.webp"
+  },
+  {
+   "id": "morris-college",
+   "name": "Morris College",
+   "cat": "colleges",
+   "img": "morris-college.webp"
+  },
+  {
+   "id": "morris-island-lighthouse",
+   "name": "Morris Island Lighthouse",
+   "cat": "nature",
+   "img": "morris-island-lighthouse.webp"
+  },
+  {
+   "id": "mothers-against-drunk-driving",
+   "name": "Mothers Against Drunk Driving",
+   "cat": "other",
+   "img": "mothers-against-drunk-driving.webp"
+  },
+  {
+   "id": "multiple-sclerosis-society",
+   "name": "Multiple Sclerosis Society",
+   "cat": "charity",
+   "img": "multiple-sclerosis-society.webp"
+  },
+  {
+   "id": "musc",
+   "name": "MUSC",
+   "cat": "other",
+   "img": "musc.webp"
+  },
+  {
+   "id": "musc-children-s-hospital",
+   "name": "MUSC Children's Hospital",
+   "cat": "charity",
+   "img": "musc-children-s-hospital.webp"
+  },
+  {
+   "id": "nascar",
+   "name": "NASCAR",
+   "cat": "sports",
+   "img": "nascar.webp"
+  },
+  {
+   "id": "navy",
+   "name": "Navy",
+   "cat": "military",
+   "img": "navy.webp"
+  },
+  {
+   "id": "navy-distinguished-service-cross",
+   "name": "Navy Distinguished Service Cross",
+   "cat": "veterans",
+   "img": "navy-distinguished-service-cross.webp"
+  },
+  {
+   "id": "navy-distinguished-service-medal",
+   "name": "Navy Distinguished Service Medal",
+   "cat": "veterans",
+   "img": "navy-distinguished-service-medal.webp"
+  },
+  {
+   "id": "newberry-college",
+   "name": "Newberry College",
+   "cat": "colleges",
+   "img": "newberry-college.webp"
+  },
+  {
+   "id": "no-more-homeless-pets",
+   "name": "No More Homeless Pets",
+   "cat": "charity",
+   "img": "no-more-homeless-pets.webp"
+  },
+  {
+   "id": "normandy-invasion-survivor",
+   "name": "Normandy Invasion Survivor",
+   "cat": "veterans",
+   "img": "normandy-invasion-survivor.webp"
+  },
+  {
+   "id": "north-carolina-state-university",
+   "name": "North Carolina State University",
+   "cat": "colleges",
+   "img": "north-carolina-state-university.webp"
+  },
+  {
+   "id": "north-greenville-university",
+   "name": "North Greenville University",
+   "cat": "colleges",
+   "img": "north-greenville-university.webp"
+  },
+  {
+   "id": "northwestern-high-school",
+   "name": "Northwestern High School",
+   "cat": "charity",
+   "img": "northwestern-high-school.webp"
+  },
+  {
+   "id": "nurses-foundation",
+   "name": "Nurses Foundation",
+   "cat": "charity",
+   "img": "nurses-foundation.webp"
+  },
+  {
+   "id": "omega-psi-phi",
+   "name": "Omega Psi Phi",
+   "cat": "other",
+   "img": "omega-psi-phi.webp"
+  },
+  {
+   "id": "operating-enduring-freedom",
+   "name": "Operating Enduring Freedom",
+   "cat": "other",
+   "img": "operating-enduring-freedom.webp"
+  },
+  {
+   "id": "operation-desert-shield-desert-storm",
+   "name": "Operation Desert Shield - Desert Storm",
+   "cat": "veterans",
+   "img": "operation-desert-shield-desert-storm.webp"
+  },
+  {
+   "id": "operation-iraqi-freedom",
+   "name": "Operation Iraqi Freedom",
+   "cat": "veterans",
+   "img": "operation-iraqi-freedom.webp"
+  },
+  {
+   "id": "our-farms-our-future",
+   "name": "Our Farms Our Future",
+   "cat": "vehicle",
+   "img": "our-farms-our-future.webp"
+  },
+  {
+   "id": "palmetto-cross",
+   "name": "Palmetto Cross",
+   "cat": "other",
+   "img": "palmetto-cross.webp"
+  },
+  {
+   "id": "palmetto-health-children-s-hospital",
+   "name": "Palmetto Health Children's Hospital",
+   "cat": "charity",
+   "img": "palmetto-health-children-s-hospital.webp"
+  },
+  {
+   "id": "parrothead",
+   "name": "Parrothead",
+   "cat": "other",
+   "img": "parrothead.webp"
+  },
+  {
+   "id": "pearl-harbor",
+   "name": "Pearl Harbor",
+   "cat": "veterans",
+   "img": "pearl-harbor.webp"
+  },
+  {
+   "id": "penn-center",
+   "name": "Penn Center",
+   "cat": "other",
+   "img": "penn-center.webp"
+  },
+  {
+   "id": "phi-beta-sigma",
+   "name": "Phi Beta Sigma",
+   "cat": "other",
+   "img": "phi-beta-sigma.webp"
+  },
+  {
+   "id": "play-tennis",
+   "name": "Play Tennis!",
+   "cat": "sports",
+   "img": "play-tennis.webp"
+  },
+  {
+   "id": "powering-the-palmetto-state",
+   "name": "Powering the Palmetto State",
+   "cat": "other",
+   "img": "powering-the-palmetto-state.webp"
+  },
+  {
+   "id": "presbyterian-college",
+   "name": "Presbyterian College",
+   "cat": "colleges",
+   "img": "presbyterian-college.webp"
+  },
+  {
+   "id": "prince-hall-masons",
+   "name": "Prince Hall Masons",
+   "cat": "hobby",
+   "img": "prince-hall-masons.webp"
+  },
+  {
+   "id": "prince-hall-order-of-the-eastern-star",
+   "name": "Prince Hall Order of the Eastern Star",
+   "cat": "hobby",
+   "img": "prince-hall-order-of-the-eastern-star.webp"
+  },
+  {
+   "id": "prisoner-of-war",
+   "name": "Prisoner of War",
+   "cat": "veterans",
+   "img": "prisoner-of-war.webp"
+  },
+  {
+   "id": "protect-wild-dolphins-alliance",
+   "name": "Protect Wild Dolphins Alliance",
+   "cat": "sports",
+   "img": "protect-wild-dolphins-alliance.webp"
+  },
+  {
+   "id": "public-education",
+   "name": "Public Education",
+   "cat": "charity",
+   "img": "public-education.webp"
+  },
+  {
+   "id": "purdue-university",
+   "name": "Purdue University",
+   "cat": "colleges",
+   "img": "purdue-university.webp"
+  },
+  {
+   "id": "purple-heart",
+   "name": "Purple Heart",
+   "cat": "veterans",
+   "img": "purple-heart.webp"
+  },
+  {
+   "id": "quality-deer-management",
+   "name": "Quality Deer Management",
+   "cat": "nature",
+   "img": "quality-deer-management.webp"
+  },
+  {
+   "id": "reduce-reuse-recycle",
+   "name": "Reduce Reuse Recycle",
+   "cat": "nature",
+   "img": "reduce-reuse-recycle.webp"
+  },
+  {
+   "id": "retired-national-guard",
+   "name": "Retired National Guard",
+   "cat": "military",
+   "img": "retired-national-guard.webp"
+  },
+  {
+   "id": "riverbanks-zoo-garden",
+   "name": "Riverbanks Zoo & Garden",
+   "cat": "nature",
+   "img": "riverbanks-zoo-garden.webp"
+  },
+  {
+   "id": "rocky-mountain-elk-foundation",
+   "name": "Rocky Mountain Elk Foundation",
+   "cat": "nature",
+   "img": "rocky-mountain-elk-foundation.webp"
+  },
+  {
+   "id": "ronald-mcdonald-house-charities",
+   "name": "Ronald McDonald House Charities",
+   "cat": "other",
+   "img": "ronald-mcdonald-house-charities.webp"
+  },
+  {
+   "id": "rotary-international",
+   "name": "Rotary International",
+   "cat": "hobby",
+   "img": "rotary-international.webp"
+  },
+  {
+   "id": "sc-ancient-free-and-accepted-masons",
+   "name": "SC Ancient Free and Accepted Masons",
+   "cat": "hobby",
+   "img": "sc-ancient-free-and-accepted-masons.webp"
+  },
+  {
+   "id": "sc-aviation-association-hall-of-fame",
+   "name": "SC Aviation Association- Hall of Fame",
+   "cat": "hobby",
+   "img": "sc-aviation-association-hall-of-fame.webp"
+  },
+  {
+   "id": "sc-cattlemen-s-association",
+   "name": "SC Cattlemen's Association",
+   "cat": "charity",
+   "img": "sc-cattlemen-s-association.webp"
+  },
+  {
+   "id": "sc-chiropractic-association",
+   "name": "SC Chiropractic Association",
+   "cat": "charity",
+   "img": "sc-chiropractic-association.webp"
+  },
+  {
+   "id": "sc-concerns-of-police-survivors",
+   "name": "SC Concerns of Police Survivors",
+   "cat": "veterans",
+   "img": "sc-concerns-of-police-survivors.webp"
+  },
+  {
+   "id": "sc-elks-foundation",
+   "name": "SC Elks Foundation",
+   "cat": "nature",
+   "img": "sc-elks-foundation.webp"
+  },
+  {
+   "id": "sc-equality",
+   "name": "SC Equality",
+   "cat": "other",
+   "img": "sc-equality.webp"
+  },
+  {
+   "id": "sc-sheriffs-association",
+   "name": "SC Sheriffs' Association",
+   "cat": "firstresponder",
+   "img": "sc-sheriffs-association.webp"
+  },
+  {
+   "id": "sc-stands-with-israel",
+   "name": "SC Stands With Israel",
+   "cat": "other",
+   "img": "sc-stands-with-israel.webp"
+  },
+  {
+   "id": "sc-state-university",
+   "name": "SC State University",
+   "cat": "colleges",
+   "img": "sc-state-university.webp"
+  },
+  {
+   "id": "sc-troopers-association",
+   "name": "SC Troopers Association",
+   "cat": "firstresponder",
+   "img": "sc-troopers-association.webp"
+  },
+  {
+   "id": "shag",
+   "name": "Shag",
+   "cat": "other",
+   "img": "shag.webp"
+  },
+  {
+   "id": "share-the-road",
+   "name": "Share the Road",
+   "cat": "hobby",
+   "img": "share-the-road.webp"
+  },
+  {
+   "id": "sherman-college-of-chiropractic",
+   "name": "Sherman College of Chiropractic",
+   "cat": "colleges",
+   "img": "sherman-college-of-chiropractic.webp"
+  },
+  {
+   "id": "shriners",
+   "name": "Shriners",
+   "cat": "hobby",
+   "img": "shriners.webp"
+  },
+  {
+   "id": "sigma-gamma-rho",
+   "name": "Sigma Gamma Rho",
+   "cat": "other",
+   "img": "sigma-gamma-rho.webp"
+  },
+  {
+   "id": "silver-star",
+   "name": "Silver Star",
+   "cat": "veterans",
+   "img": "silver-star.webp"
+  },
+  {
+   "id": "soldier-s-medal",
+   "name": "Soldier's Medal",
+   "cat": "veterans",
+   "img": "soldier-s-medal.webp"
+  },
+  {
+   "id": "sons-of-confederate-veterans",
+   "name": "Sons of Confederate Veterans",
+   "cat": "veterans",
+   "img": "sons-of-confederate-veterans.webp"
+  },
+  {
+   "id": "southern-wesleyan-university",
+   "name": "Southern Wesleyan University",
+   "cat": "colleges",
+   "img": "southern-wesleyan-university.webp"
+  },
+  {
+   "id": "space-force",
+   "name": "Space Force",
+   "cat": "military",
+   "img": "space-force.webp"
+  },
+  {
+   "id": "special-olympics",
+   "name": "Special Olympics",
+   "cat": "sports",
+   "img": "special-olympics.webp"
+  },
+  {
+   "id": "square-dance",
+   "name": "Square Dance",
+   "cat": "hobby",
+   "img": "square-dance.webp"
+  },
+  {
+   "id": "state-guard",
+   "name": "State Guard",
+   "cat": "other",
+   "img": "state-guard.webp"
+  },
+  {
+   "id": "support-our-troops",
+   "name": "Support Our Troops",
+   "cat": "charity",
+   "img": "support-our-troops.webp"
+  },
+  {
+   "id": "surfrider-foundation",
+   "name": "Surfrider Foundation",
+   "cat": "charity",
+   "img": "surfrider-foundation.webp"
+  },
+  {
+   "id": "technology-alliance",
+   "name": "Technology Alliance",
+   "cat": "other",
+   "img": "technology-alliance.webp"
+  },
+  {
+   "id": "the-citadel",
+   "name": "The Citadel",
+   "cat": "other",
+   "img": "the-citadel.webp"
+  },
+  {
+   "id": "the-ohio-state-university",
+   "name": "The Ohio State University",
+   "cat": "colleges",
+   "img": "the-ohio-state-university.webp"
+  },
+  {
+   "id": "tree-my-dog",
+   "name": "Tree My Dog",
+   "cat": "nature",
+   "img": "tree-my-dog.webp"
+  },
+  {
+   "id": "trees-sc",
+   "name": "Trees SC",
+   "cat": "nature",
+   "img": "trees-sc.webp"
+  },
+  {
+   "id": "trout-unlimited-inc",
+   "name": "Trout Unlimited INC.",
+   "cat": "nature",
+   "img": "trout-unlimited-inc.webp"
+  },
+  {
+   "id": "united-we-stand",
+   "name": "United We Stand",
+   "cat": "other",
+   "img": "united-we-stand.webp"
+  },
+  {
+   "id": "university-of-alabama",
+   "name": "University of Alabama",
+   "cat": "colleges",
+   "img": "university-of-alabama.webp"
+  },
+  {
+   "id": "university-of-florida",
+   "name": "University of Florida",
+   "cat": "colleges",
+   "img": "university-of-florida.webp"
+  },
+  {
+   "id": "university-of-georgia",
+   "name": "University of Georgia",
+   "cat": "colleges",
+   "img": "university-of-georgia.webp"
+  },
+  {
+   "id": "university-of-north-carolina",
+   "name": "University of North Carolina",
+   "cat": "colleges",
+   "img": "university-of-north-carolina.webp"
+  },
+  {
+   "id": "university-of-south-carolina",
+   "name": "University of South Carolina",
+   "cat": "colleges",
+   "img": "university-of-south-carolina.webp"
+  },
+  {
+   "id": "university-of-tennessee",
+   "name": "University of Tennessee",
+   "cat": "colleges",
+   "img": "university-of-tennessee.webp"
+  },
+  {
+   "id": "us-air-force-academy",
+   "name": "US Air Force Academy",
+   "cat": "military",
+   "img": "us-air-force-academy.webp"
+  },
+  {
+   "id": "us-air-force-reserve",
+   "name": "US Air Force Reserve",
+   "cat": "military",
+   "img": "us-air-force-reserve.webp"
+  },
+  {
+   "id": "us-armed-forces-retired",
+   "name": "US Armed Forces Retired",
+   "cat": "military",
+   "img": "us-armed-forces-retired.webp"
+  },
+  {
+   "id": "us-army-reserve",
+   "name": "US Army Reserve",
+   "cat": "military",
+   "img": "us-army-reserve.webp"
+  },
+  {
+   "id": "us-coast-guard-reserve",
+   "name": "US Coast Guard Reserve",
+   "cat": "military",
+   "img": "us-coast-guard-reserve.webp"
+  },
+  {
+   "id": "us-marine-corps-reserve",
+   "name": "US Marine Corps Reserve",
+   "cat": "military",
+   "img": "us-marine-corps-reserve.webp"
+  },
+  {
+   "id": "us-naval-academy",
+   "name": "US Naval Academy",
+   "cat": "other",
+   "img": "us-naval-academy.webp"
+  },
+  {
+   "id": "us-navy-chief-petty-officer",
+   "name": "US Navy Chief Petty Officer",
+   "cat": "military",
+   "img": "us-navy-chief-petty-officer.webp"
+  },
+  {
+   "id": "us-navy-reserve",
+   "name": "US Navy Reserve",
+   "cat": "military",
+   "img": "us-navy-reserve.webp"
+  },
+  {
+   "id": "usc-2017-2022-women-s-basketball-nationa",
+   "name": "USC 2017 & 2022 Women's Basketball National Champions",
+   "cat": "sports",
+   "img": "usc-2017-2022-women-s-basketball-nationa.webp"
+  },
+  {
+   "id": "usc-association-of-letterman",
+   "name": "USC Association of Letterman",
+   "cat": "charity",
+   "img": "usc-association-of-letterman.webp"
+  },
+  {
+   "id": "usc-baseball-national-champions",
+   "name": "USC Baseball National Champions",
+   "cat": "sports",
+   "img": "usc-baseball-national-champions.webp"
+  },
+  {
+   "id": "usc-upstate",
+   "name": "USC Upstate",
+   "cat": "other",
+   "img": "usc-upstate.webp"
+  },
+  {
+   "id": "veteran",
+   "name": "Veteran",
+   "cat": "veterans",
+   "img": "veteran.webp"
+  },
+  {
+   "id": "vietnam-veteran",
+   "name": "Vietnam Veteran",
+   "cat": "veterans",
+   "img": "vietnam-veteran.webp"
+  },
+  {
+   "id": "virginia-tech",
+   "name": "Virginia Tech",
+   "cat": "other",
+   "img": "virginia-tech.webp"
+  },
+  {
+   "id": "volunteer-firefighter",
+   "name": "Volunteer Firefighter",
+   "cat": "firstresponder",
+   "img": "volunteer-firefighter.webp"
+  },
+  {
+   "id": "voorhees-college",
+   "name": "Voorhees College",
+   "cat": "colleges",
+   "img": "voorhees-college.webp"
+  },
+  {
+   "id": "west-point",
+   "name": "West Point",
+   "cat": "other",
+   "img": "west-point.webp"
+  },
+  {
+   "id": "wildlife-deer",
+   "name": "Wildlife Deer",
+   "cat": "nature",
+   "img": "wildlife-deer.webp"
+  },
+  {
+   "id": "wildlife-painted-bunting",
+   "name": "Wildlife Painted Bunting",
+   "cat": "nature",
+   "img": "wildlife-painted-bunting.webp"
+  },
+  {
+   "id": "wilson-high-school",
+   "name": "Wilson High School",
+   "cat": "charity",
+   "img": "wilson-high-school.webp"
+  },
+  {
+   "id": "winthrop-university",
+   "name": "Winthrop University",
+   "cat": "colleges",
+   "img": "winthrop-university.webp"
+  },
+  {
+   "id": "wofford-college",
+   "name": "Wofford College",
+   "cat": "colleges",
+   "img": "wofford-college.webp"
+  },
+  {
+   "id": "working-for-the-wild-turkey",
+   "name": "Working for the Wild Turkey",
+   "cat": "sports",
+   "img": "working-for-the-wild-turkey.webp"
+  },
+  {
+   "id": "world-war-ii",
+   "name": "World War II",
+   "cat": "veterans",
+   "img": "world-war-ii.webp"
+  },
+  {
+   "id": "www-ibelievesc-net",
+   "name": "www.IBELIEVEsc.net",
+   "cat": "other",
+   "img": "www-ibelievesc-net.webp"
+  },
+  {
+   "id": "zeta-phi-beta",
+   "name": "Zeta Phi Beta",
+   "cat": "other",
+   "img": "zeta-phi-beta.webp"
+  }
+ ]
+}

@@ -1,0 +1,430 @@
+{
+ "code": "KS",
+ "name": "Kansas",
+ "rated": false,
+ "checked": false,
+ "updated": "2026-10-25",
+ "about": "Kansas special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "sources": [
+  {
+   "title": "Jon Keegan, us-license-plates (2023)",
+   "url": "https://github.com/jonkeegan/us-license-plates"
+  }
+ ],
+ "plates": [
+  {
+   "id": "2020-disabled",
+   "name": "2020 Disabled",
+   "cat": "other",
+   "img": "2020-disabled.webp"
+  },
+  {
+   "id": "2020",
+   "name": "2020",
+   "cat": "other",
+   "img": "2020.webp"
+  },
+  {
+   "id": "ad-astra-disabled",
+   "name": "Ad Astra Disabled",
+   "cat": "other",
+   "img": "ad-astra-disabled.webp"
+  },
+  {
+   "id": "ad-astra",
+   "name": "Ad Astra",
+   "cat": "other",
+   "img": "ad-astra.webp"
+  },
+  {
+   "id": "agriculture-in-the-classroom",
+   "name": "Agriculture in the Classroom",
+   "cat": "charity",
+   "img": "agriculture-in-the-classroom.webp"
+  },
+  {
+   "id": "agriculture-in-the-classroom-new",
+   "name": "Agriculture in the Classroom - NEW",
+   "cat": "charity",
+   "img": "agriculture-in-the-classroom-new.webp"
+  },
+  {
+   "id": "amateur-radio-operator",
+   "name": "Amateur Radio Operator",
+   "cat": "hobby",
+   "img": "amateur-radio-operator.webp"
+  },
+  {
+   "id": "antique1-current-issue",
+   "name": "Antique1 – current issue",
+   "cat": "vehicle",
+   "img": "antique1-current-issue.webp"
+  },
+  {
+   "id": "autism-awareness",
+   "name": "Autism Awareness",
+   "cat": "charity",
+   "img": "autism-awareness.webp"
+  },
+  {
+   "id": "baker-university",
+   "name": "Baker University",
+   "cat": "colleges",
+   "img": "baker-university.webp"
+  },
+  {
+   "id": "benedictine-college",
+   "name": "Benedictine College",
+   "cat": "colleges",
+   "img": "benedictine-college.webp"
+  },
+  {
+   "id": "braden-s-hope-2022",
+   "name": "Braden’s Hope 2022",
+   "cat": "other",
+   "img": "braden-s-hope-2022.webp"
+  },
+  {
+   "id": "breast-cancer-research",
+   "name": "Breast Cancer Research",
+   "cat": "charity",
+   "img": "breast-cancer-research.webp"
+  },
+  {
+   "id": "children-s-trust-fund",
+   "name": "Children’s Trust Fund",
+   "cat": "charity",
+   "img": "children-s-trust-fund.webp"
+  },
+  {
+   "id": "choose-life-2022",
+   "name": "Choose Life 2022",
+   "cat": "other",
+   "img": "choose-life-2022.webp"
+  },
+  {
+   "id": "city-of-wichita-black-letters",
+   "name": "City of Wichita - Black letters",
+   "cat": "other",
+   "img": "city-of-wichita-black-letters.webp"
+  },
+  {
+   "id": "city-of-wichita-white-letters",
+   "name": "City of Wichita - White letters",
+   "cat": "other",
+   "img": "city-of-wichita-white-letters.webp"
+  },
+  {
+   "id": "cong-medal-of-honor",
+   "name": "Cong. Medal of Honor",
+   "cat": "veterans",
+   "img": "cong-medal-of-honor.webp"
+  },
+  {
+   "id": "desert-storm",
+   "name": "Desert Storm",
+   "cat": "veterans",
+   "img": "desert-storm.webp"
+  },
+  {
+   "id": "disabled-veteran",
+   "name": "Disabled Veteran",
+   "cat": "veterans",
+   "img": "disabled-veteran.webp"
+  },
+  {
+   "id": "donate-life",
+   "name": "Donate Life",
+   "cat": "charity",
+   "img": "donate-life.webp"
+  },
+  {
+   "id": "ducks-unlimited",
+   "name": "Ducks Unlimited",
+   "cat": "nature",
+   "img": "ducks-unlimited.webp"
+  },
+  {
+   "id": "eisenhower-foundation",
+   "name": "Eisenhower Foundation",
+   "cat": "charity",
+   "img": "eisenhower-foundation.webp"
+  },
+  {
+   "id": "emergency-medical-services",
+   "name": "Emergency Medical Services",
+   "cat": "firstresponder",
+   "img": "emergency-medical-services.webp"
+  },
+  {
+   "id": "emporia-state-university",
+   "name": "Emporia State University",
+   "cat": "colleges",
+   "img": "emporia-state-university.webp"
+  },
+  {
+   "id": "enduring-freedom",
+   "name": "Enduring Freedom",
+   "cat": "other",
+   "img": "enduring-freedom.webp"
+  },
+  {
+   "id": "ex-prisoner-of-war",
+   "name": "Ex-Prisoner of War",
+   "cat": "veterans",
+   "img": "ex-prisoner-of-war.webp"
+  },
+  {
+   "id": "families-of-the-fallen",
+   "name": "Families of the Fallen",
+   "cat": "other",
+   "img": "families-of-the-fallen.webp"
+  },
+  {
+   "id": "firefighter",
+   "name": "Firefighter",
+   "cat": "firstresponder",
+   "img": "firefighter.webp"
+  },
+  {
+   "id": "foreign-organization",
+   "name": "Foreign Organization",
+   "cat": "other",
+   "img": "foreign-organization.webp"
+  },
+  {
+   "id": "fort-hays-state-university",
+   "name": "Fort Hays State University",
+   "cat": "colleges",
+   "img": "fort-hays-state-university.webp"
+  },
+  {
+   "id": "friends-university",
+   "name": "Friends University",
+   "cat": "colleges",
+   "img": "friends-university.webp"
+  },
+  {
+   "id": "gadsden-flag-2022",
+   "name": "Gadsden Flag 2022",
+   "cat": "other",
+   "img": "gadsden-flag-2022.webp"
+  },
+  {
+   "id": "gold-star-mother",
+   "name": "Gold Star Mother",
+   "cat": "veterans",
+   "img": "gold-star-mother.webp"
+  },
+  {
+   "id": "highway-patrol",
+   "name": "Highway Patrol",
+   "cat": "other",
+   "img": "highway-patrol.webp"
+  },
+  {
+   "id": "highway-patrol-capitol-police-and-motor-",
+   "name": "Highway Patrol – Capitol Police and Motor Carrier Enforcement",
+   "cat": "firstresponder",
+   "img": "highway-patrol-capitol-police-and-motor-.webp"
+  },
+  {
+   "id": "horse-council",
+   "name": "Horse Council",
+   "cat": "hobby",
+   "img": "horse-council.webp"
+  },
+  {
+   "id": "i-m-pet-friendly",
+   "name": "I’m Pet Friendly",
+   "cat": "charity",
+   "img": "i-m-pet-friendly.webp"
+  },
+  {
+   "id": "in-god-we-trust",
+   "name": "In God We Trust",
+   "cat": "charity",
+   "img": "in-god-we-trust.webp"
+  },
+  {
+   "id": "iraqi-freedom",
+   "name": "Iraqi Freedom",
+   "cat": "veterans",
+   "img": "iraqi-freedom.webp"
+  },
+  {
+   "id": "kansas-state-university",
+   "name": "Kansas State University",
+   "cat": "colleges",
+   "img": "kansas-state-university.webp"
+  },
+  {
+   "id": "kansas-state-university-new",
+   "name": "Kansas State University - NEW",
+   "cat": "colleges",
+   "img": "kansas-state-university-new.webp"
+  },
+  {
+   "id": "kcc-equipment",
+   "name": "KCC Equipment",
+   "cat": "other",
+   "img": "kcc-equipment.webp"
+  },
+  {
+   "id": "korean-war-veteran",
+   "name": "Korean War Veteran",
+   "cat": "veterans",
+   "img": "korean-war-veteran.webp"
+  },
+  {
+   "id": "love-chloe-2022",
+   "name": "Love Chloe 2022",
+   "cat": "other",
+   "img": "love-chloe-2022.webp"
+  },
+  {
+   "id": "masonic-lodge",
+   "name": "Masonic Lodge",
+   "cat": "hobby",
+   "img": "masonic-lodge.webp"
+  },
+  {
+   "id": "motor-carrier-custom-harvester",
+   "name": "Motor Carrier Custom Harvester",
+   "cat": "other",
+   "img": "motor-carrier-custom-harvester.webp"
+  },
+  {
+   "id": "national-guard",
+   "name": "National Guard",
+   "cat": "military",
+   "img": "national-guard.webp"
+  },
+  {
+   "id": "ottawa-university",
+   "name": "Ottawa University",
+   "cat": "colleges",
+   "img": "ottawa-university.webp"
+  },
+  {
+   "id": "pearl-harbor-survivor",
+   "name": "Pearl Harbor Survivor",
+   "cat": "veterans",
+   "img": "pearl-harbor-survivor.webp"
+  },
+  {
+   "id": "antique",
+   "name": "Antique",
+   "cat": "vehicle",
+   "img": "antique.webp"
+  },
+  {
+   "id": "pittsburg-state-university",
+   "name": "Pittsburg State University",
+   "cat": "colleges",
+   "img": "pittsburg-state-university.webp"
+  },
+  {
+   "id": "purple-heart",
+   "name": "Purple Heart",
+   "cat": "veterans",
+   "img": "purple-heart.webp"
+  },
+  {
+   "id": "shriner-s",
+   "name": "Shriner’s",
+   "cat": "hobby",
+   "img": "shriner-s.webp"
+  },
+  {
+   "id": "special-interest4",
+   "name": "Special Interest4",
+   "cat": "other",
+   "img": "special-interest4.webp"
+  },
+  {
+   "id": "special-olympics",
+   "name": "Special Olympics",
+   "cat": "sports",
+   "img": "special-olympics.webp"
+  },
+  {
+   "id": "street-rod5",
+   "name": "Street Rod5",
+   "cat": "vehicle",
+   "img": "street-rod5.webp"
+  },
+  {
+   "id": "support-the-arts",
+   "name": "Support the Arts",
+   "cat": "hobby",
+   "img": "support-the-arts.webp"
+  },
+  {
+   "id": "u-s-air-force-2022",
+   "name": "U.S. Air Force 2022",
+   "cat": "military",
+   "img": "u-s-air-force-2022.webp"
+  },
+  {
+   "id": "u-s-army-2022",
+   "name": "U.S. Army 2022",
+   "cat": "military",
+   "img": "u-s-army-2022.webp"
+  },
+  {
+   "id": "u-s-coast-guard-2022",
+   "name": "U.S. Coast Guard 2022",
+   "cat": "military",
+   "img": "u-s-coast-guard-2022.webp"
+  },
+  {
+   "id": "u-s-marine-corps-2022",
+   "name": "U.S. Marine Corps 2022",
+   "cat": "military",
+   "img": "u-s-marine-corps-2022.webp"
+  },
+  {
+   "id": "u-s-navy-2022",
+   "name": "U.S. Navy 2022",
+   "cat": "military",
+   "img": "u-s-navy-2022.webp"
+  },
+  {
+   "id": "u-s-space-force-2022",
+   "name": "U.S. Space Force 2022",
+   "cat": "military",
+   "img": "u-s-space-force-2022.webp"
+  },
+  {
+   "id": "u-s-veteran",
+   "name": "U.S. Veteran",
+   "cat": "veterans",
+   "img": "u-s-veteran.webp"
+  },
+  {
+   "id": "university-of-kansas",
+   "name": "University of Kansas",
+   "cat": "colleges",
+   "img": "university-of-kansas.webp"
+  },
+  {
+   "id": "vietnam-veteran",
+   "name": "Vietnam Veteran",
+   "cat": "veterans",
+   "img": "vietnam-veteran.webp"
+  },
+  {
+   "id": "washburn-university",
+   "name": "Washburn University",
+   "cat": "colleges",
+   "img": "washburn-university.webp"
+  },
+  {
+   "id": "wichita-state-university",
+   "name": "Wichita State University",
+   "cat": "colleges",
+   "img": "wichita-state-university.webp"
+  }
+ ]
+}

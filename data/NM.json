@@ -1,0 +1,316 @@
+{
+ "code": "NM",
+ "name": "New Mexico",
+ "rated": false,
+ "checked": false,
+ "updated": "2026-10-25",
+ "about": "New Mexico special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "sources": [
+  {
+   "title": "Jon Keegan, us-license-plates (2023)",
+   "url": "https://github.com/jonkeegan/us-license-plates"
+  }
+ ],
+ "plates": [
+  {
+   "id": "100-disabled-veteran",
+   "name": "100% Disabled Veteran",
+   "cat": "veterans",
+   "img": "100-disabled-veteran.webp"
+  },
+  {
+   "id": "active-duty-national-guard",
+   "name": "Active Duty National Guard",
+   "cat": "military",
+   "img": "active-duty-national-guard.webp"
+  },
+  {
+   "id": "adopt-a-child",
+   "name": "Adopt a Child",
+   "cat": "charity",
+   "img": "adopt-a-child.webp"
+  },
+  {
+   "id": "air-force-veteran",
+   "name": "Air Force Veteran",
+   "cat": "veterans",
+   "img": "air-force-veteran.webp"
+  },
+  {
+   "id": "amateur-radio-operator",
+   "name": "Amateur Radio Operator",
+   "cat": "hobby",
+   "img": "amateur-radio-operator.webp"
+  },
+  {
+   "id": "army-veteran",
+   "name": "Army Veteran",
+   "cat": "veterans",
+   "img": "army-veteran.webp"
+  },
+  {
+   "id": "autism-awareness",
+   "name": "Autism Awareness",
+   "cat": "charity",
+   "img": "autism-awareness.webp"
+  },
+  {
+   "id": "bass-fishing",
+   "name": "Bass Fishing",
+   "cat": "nature",
+   "img": "bass-fishing.webp"
+  },
+  {
+   "id": "boy-scouts-centennial",
+   "name": "Boy Scouts Centennial",
+   "cat": "charity",
+   "img": "boy-scouts-centennial.webp"
+  },
+  {
+   "id": "breast-cancer-awareness",
+   "name": "Breast Cancer Awareness",
+   "cat": "charity",
+   "img": "breast-cancer-awareness.webp"
+  },
+  {
+   "id": "centennial",
+   "name": "Centennial",
+   "cat": "charity",
+   "img": "centennial.webp"
+  },
+  {
+   "id": "central-new-mexico-community-college",
+   "name": "Central New Mexico Community College",
+   "cat": "colleges",
+   "img": "central-new-mexico-community-college.webp"
+  },
+  {
+   "id": "children-s-trust-fund",
+   "name": "Children’s Trust Fund",
+   "cat": "charity",
+   "img": "children-s-trust-fund.webp"
+  },
+  {
+   "id": "chile",
+   "name": "Chile",
+   "cat": "other",
+   "img": "chile.webp"
+  },
+  {
+   "id": "coast-guard-veteran",
+   "name": "Coast Guard Veteran",
+   "cat": "veterans",
+   "img": "coast-guard-veteran.webp"
+  },
+  {
+   "id": "cumbres-and-toltec-railway",
+   "name": "Cumbres and Toltec Railway",
+   "cat": "other",
+   "img": "cumbres-and-toltec-railway.webp"
+  },
+  {
+   "id": "disabled-person",
+   "name": "Disabled Person",
+   "cat": "other",
+   "img": "disabled-person.webp"
+  },
+  {
+   "id": "disabled-veteran-wheelchair",
+   "name": "Disabled Veteran Wheelchair",
+   "cat": "veterans",
+   "img": "disabled-veteran-wheelchair.webp"
+  },
+  {
+   "id": "eastern-new-mexico-university",
+   "name": "Eastern New Mexico University",
+   "cat": "colleges",
+   "img": "eastern-new-mexico-university.webp"
+  },
+  {
+   "id": "emergency-medical-technicians-emt",
+   "name": "Emergency Medical Technicians (EMT",
+   "cat": "firstresponder",
+   "img": "emergency-medical-technicians-emt.webp"
+  },
+  {
+   "id": "farm-and-ranch-heritage",
+   "name": "Farm And Ranch Heritage",
+   "cat": "vehicle",
+   "img": "farm-and-ranch-heritage.webp"
+  },
+  {
+   "id": "firefighters",
+   "name": "Firefighters",
+   "cat": "firstresponder",
+   "img": "firefighters.webp"
+  },
+  {
+   "id": "fraternal-order-of-police",
+   "name": "Fraternal Order of Police",
+   "cat": "firstresponder",
+   "img": "fraternal-order-of-police.webp"
+  },
+  {
+   "id": "gold-star-family",
+   "name": "Gold Star Family",
+   "cat": "veterans",
+   "img": "gold-star-family.webp"
+  },
+  {
+   "id": "horseless-carriage",
+   "name": "Horseless Carriage",
+   "cat": "vehicle",
+   "img": "horseless-carriage.webp"
+  },
+  {
+   "id": "las-cruces",
+   "name": "Las Cruces",
+   "cat": "other",
+   "img": "las-cruces.webp"
+  },
+  {
+   "id": "marine-veteran",
+   "name": "Marine Veteran",
+   "cat": "veterans",
+   "img": "marine-veteran.webp"
+  },
+  {
+   "id": "navy-veteran",
+   "name": "Navy Veteran",
+   "cat": "veterans",
+   "img": "navy-veteran.webp"
+  },
+  {
+   "id": "new-mexico-highlands-university",
+   "name": "New Mexico Highlands University",
+   "cat": "colleges",
+   "img": "new-mexico-highlands-university.webp"
+  },
+  {
+   "id": "new-mexico-junior-college",
+   "name": "New Mexico Junior College",
+   "cat": "colleges",
+   "img": "new-mexico-junior-college.webp"
+  },
+  {
+   "id": "new-mexico-military-institute",
+   "name": "New Mexico Military Institute",
+   "cat": "military",
+   "img": "new-mexico-military-institute.webp"
+  },
+  {
+   "id": "new-mexico-state-university",
+   "name": "New Mexico State University",
+   "cat": "colleges",
+   "img": "new-mexico-state-university.webp"
+  },
+  {
+   "id": "new-mexico-tech",
+   "name": "New Mexico Tech",
+   "cat": "other",
+   "img": "new-mexico-tech.webp"
+  },
+  {
+   "id": "northern-new-mexico-college",
+   "name": "Northern New Mexico College",
+   "cat": "colleges",
+   "img": "northern-new-mexico-college.webp"
+  },
+  {
+   "id": "organ-donor",
+   "name": "Organ Donor",
+   "cat": "charity",
+   "img": "organ-donor.webp"
+  },
+  {
+   "id": "patriot",
+   "name": "Patriot",
+   "cat": "other",
+   "img": "patriot.webp"
+  },
+  {
+   "id": "pearl-harbor-survivor",
+   "name": "Pearl Harbor Survivor",
+   "cat": "veterans",
+   "img": "pearl-harbor-survivor.webp"
+  },
+  {
+   "id": "pet-care-spay-neuter",
+   "name": "Pet Care – Spay/Neuter",
+   "cat": "charity",
+   "img": "pet-care-spay-neuter.webp"
+  },
+  {
+   "id": "pollinator-protection",
+   "name": "Pollinator Protection",
+   "cat": "nature",
+   "img": "pollinator-protection.webp"
+  },
+  {
+   "id": "red-yellow-prestige",
+   "name": "Red & Yellow Prestige",
+   "cat": "other",
+   "img": "red-yellow-prestige.webp"
+  },
+  {
+   "id": "retired-firefighters",
+   "name": "Retired Firefighters",
+   "cat": "firstresponder",
+   "img": "retired-firefighters.webp"
+  },
+  {
+   "id": "retired-law-enforcement",
+   "name": "Retired Law Enforcement",
+   "cat": "firstresponder",
+   "img": "retired-law-enforcement.webp"
+  },
+  {
+   "id": "retired-nm-state-police",
+   "name": "Retired NM State Police",
+   "cat": "firstresponder",
+   "img": "retired-nm-state-police.webp"
+  },
+  {
+   "id": "route-66",
+   "name": "Route 66",
+   "cat": "other",
+   "img": "route-66.webp"
+  },
+  {
+   "id": "santa-fe-400th-anniversary",
+   "name": "Santa Fe 400th Anniversary",
+   "cat": "charity",
+   "img": "santa-fe-400th-anniversary.webp"
+  },
+  {
+   "id": "university-of-new-mexico",
+   "name": "University of New Mexico",
+   "cat": "colleges",
+   "img": "university-of-new-mexico.webp"
+  },
+  {
+   "id": "volunteer-firefighters",
+   "name": "Volunteer Firefighters",
+   "cat": "firstresponder",
+   "img": "volunteer-firefighters.webp"
+  },
+  {
+   "id": "western-new-mexico-university",
+   "name": "Western New Mexico University",
+   "cat": "colleges",
+   "img": "western-new-mexico-university.webp"
+  },
+  {
+   "id": "wildlife-artwork",
+   "name": "Wildlife Artwork",
+   "cat": "nature",
+   "img": "wildlife-artwork.webp"
+  },
+  {
+   "id": "woman-veteran",
+   "name": "Woman Veteran",
+   "cat": "veterans",
+   "img": "woman-veteran.webp"
+  }
+ ]
+}

@@ -174,3 +174,11 @@ header{background:linear-gradient(160deg,var(--head1),var(--head2));padding:10px
   .burst{display:none}
   *{transition-duration:.01ms!important}
 }
+
+/* state picker + search (specialty) */
+.picker{display:flex;align-items:center;gap:10px;padding:10px 15px;background:var(--bg);border-bottom:1px solid var(--bdr)}
+.picker select{flex:1;max-width:420px;background:var(--card);color:var(--txt);border:1.5px solid rgba(255,255,255,.18);border-radius:10px;padding:9px 12px;font:800 .95rem Nunito,sans-serif}
+.picker select:focus-visible{outline:3px solid var(--y)}
+.search{padding:9px 11px 0;background:rgba(10,18,30,.92)}
+.search input{width:100%;background:var(--card);color:var(--txt);border:1.5px solid rgba(255,255,255,.14);border-radius:99px;padding:8px 14px;font:700 .85rem Nunito,sans-serif}
+.search input::placeholder{color:var(--mut)}

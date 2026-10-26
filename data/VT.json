@@ -1,0 +1,316 @@
+{
+ "code": "VT",
+ "name": "Vermont",
+ "rated": false,
+ "checked": false,
+ "updated": "2026-10-25",
+ "about": "Vermont special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "sources": [
+  {
+   "title": "Jon Keegan, us-license-plates (2023)",
+   "url": "https://github.com/jonkeegan/us-license-plates"
+  }
+ ],
+ "plates": [
+  {
+   "id": "agriculture",
+   "name": "Agriculture",
+   "cat": "charity",
+   "img": "agriculture.webp"
+  },
+  {
+   "id": "amateur-radio-operator",
+   "name": "Amateur Radio Operator",
+   "cat": "hobby",
+   "img": "amateur-radio-operator.webp"
+  },
+  {
+   "id": "american-legion",
+   "name": "American Legion",
+   "cat": "veterans",
+   "img": "american-legion.webp"
+  },
+  {
+   "id": "antique",
+   "name": "Antique",
+   "cat": "vehicle",
+   "img": "antique.webp"
+  },
+  {
+   "id": "building-bright-futures",
+   "name": "Building Bright Futures",
+   "cat": "other",
+   "img": "building-bright-futures.webp"
+  },
+  {
+   "id": "conservation-deer",
+   "name": "Conservation (Deer",
+   "cat": "nature",
+   "img": "conservation-deer.webp"
+  },
+  {
+   "id": "conservation-loon",
+   "name": "Conservation (Loon",
+   "cat": "nature",
+   "img": "conservation-loon.webp"
+  },
+  {
+   "id": "conservation-trout",
+   "name": "Conservation (Trout",
+   "cat": "nature",
+   "img": "conservation-trout.webp"
+  },
+  {
+   "id": "disabled",
+   "name": "Disabled",
+   "cat": "other",
+   "img": "disabled.webp"
+  },
+  {
+   "id": "dmv",
+   "name": "DMV",
+   "cat": "other",
+   "img": "dmv.webp"
+  },
+  {
+   "id": "driver-education",
+   "name": "Driver Education",
+   "cat": "nature",
+   "img": "driver-education.webp"
+  },
+  {
+   "id": "emergency-medical-service",
+   "name": "Emergency Medical Service",
+   "cat": "firstresponder",
+   "img": "emergency-medical-service.webp"
+  },
+  {
+   "id": "ex-prisoner-of-war",
+   "name": "Ex-Prisoner of War",
+   "cat": "veterans",
+   "img": "ex-prisoner-of-war.webp"
+  },
+  {
+   "id": "exhibition",
+   "name": "Exhibition",
+   "cat": "other",
+   "img": "exhibition.webp"
+  },
+  {
+   "id": "federal-program",
+   "name": "Federal Program",
+   "cat": "other",
+   "img": "federal-program.webp"
+  },
+  {
+   "id": "freemason-s",
+   "name": "Freemason’s",
+   "cat": "hobby",
+   "img": "freemason-s.webp"
+  },
+  {
+   "id": "gold-star-family",
+   "name": "Gold Star Family",
+   "cat": "veterans",
+   "img": "gold-star-family.webp"
+  },
+  {
+   "id": "gold-star-next-of-kin",
+   "name": "Gold Star Next of Kin",
+   "cat": "veterans",
+   "img": "gold-star-next-of-kin.webp"
+  },
+  {
+   "id": "lion-s-club",
+   "name": "Lion’s Club",
+   "cat": "charity",
+   "img": "lion-s-club.webp"
+  },
+  {
+   "id": "low-number-100-9999",
+   "name": "Low Number (100-9999",
+   "cat": "other",
+   "img": "low-number-100-9999.webp"
+  },
+  {
+   "id": "low-vermont-numbers",
+   "name": "Low Vermont Numbers",
+   "cat": "other",
+   "img": "low-vermont-numbers.webp"
+  },
+  {
+   "id": "motor-driven-cycle",
+   "name": "Motor-Driven Cycle",
+   "cat": "other",
+   "img": "motor-driven-cycle.webp"
+  },
+  {
+   "id": "national-ski-patrol",
+   "name": "National Ski Patrol",
+   "cat": "sports",
+   "img": "national-ski-patrol.webp"
+  },
+  {
+   "id": "pearl-harbor-survivor",
+   "name": "Pearl Harbor Survivor",
+   "cat": "veterans",
+   "img": "pearl-harbor-survivor.webp"
+  },
+  {
+   "id": "pleasure",
+   "name": "Pleasure",
+   "cat": "other",
+   "img": "pleasure.webp"
+  },
+  {
+   "id": "professional-firefighters-of-vermont",
+   "name": "Professional Firefighters of Vermont",
+   "cat": "firstresponder",
+   "img": "professional-firefighters-of-vermont.webp"
+  },
+  {
+   "id": "purple-heart",
+   "name": "Purple Heart",
+   "cat": "veterans",
+   "img": "purple-heart.webp"
+  },
+  {
+   "id": "rotary",
+   "name": "Rotary",
+   "cat": "hobby",
+   "img": "rotary.webp"
+  },
+  {
+   "id": "sheriff-department",
+   "name": "Sheriff Department",
+   "cat": "firstresponder",
+   "img": "sheriff-department.webp"
+  },
+  {
+   "id": "special",
+   "name": "Special",
+   "cat": "other",
+   "img": "special.webp"
+  },
+  {
+   "id": "special-purpose",
+   "name": "Special Purpose",
+   "cat": "other",
+   "img": "special-purpose.webp"
+  },
+  {
+   "id": "state-house-of-representatives",
+   "name": "State House of Representatives",
+   "cat": "other",
+   "img": "state-house-of-representatives.webp"
+  },
+  {
+   "id": "street-rod",
+   "name": "Street Rod",
+   "cat": "vehicle",
+   "img": "street-rod.webp"
+  },
+  {
+   "id": "u-s-veteran-iraq-campaign",
+   "name": "U. S. Veteran Iraq Campaign",
+   "cat": "veterans",
+   "img": "u-s-veteran-iraq-campaign.webp"
+  },
+  {
+   "id": "u-s-house",
+   "name": "U.S. House",
+   "cat": "other",
+   "img": "u-s-house.webp"
+  },
+  {
+   "id": "u-s-veteran",
+   "name": "U.S. Veteran",
+   "cat": "veterans",
+   "img": "u-s-veteran.webp"
+  },
+  {
+   "id": "u-s-veteran-afghanistan-campaign",
+   "name": "U.S. Veteran Afghanistan Campaign",
+   "cat": "veterans",
+   "img": "u-s-veteran-afghanistan-campaign.webp"
+  },
+  {
+   "id": "u-s-veteran-gulf-war",
+   "name": "U.S. Veteran Gulf War",
+   "cat": "veterans",
+   "img": "u-s-veteran-gulf-war.webp"
+  },
+  {
+   "id": "u-s-veteran-korean-war",
+   "name": "U.S. Veteran Korean War",
+   "cat": "veterans",
+   "img": "u-s-veteran-korean-war.webp"
+  },
+  {
+   "id": "u-s-veteran-vietnam-war",
+   "name": "U.S. Veteran Vietnam War",
+   "cat": "veterans",
+   "img": "u-s-veteran-vietnam-war.webp"
+  },
+  {
+   "id": "u-s-veteran-world-war-ii",
+   "name": "U.S. Veteran World War II",
+   "cat": "veterans",
+   "img": "u-s-veteran-world-war-ii.webp"
+  },
+  {
+   "id": "vermont-firefighters-association",
+   "name": "Vermont Firefighters Association",
+   "cat": "firstresponder",
+   "img": "vermont-firefighters-association.webp"
+  },
+  {
+   "id": "vermont-game-warden",
+   "name": "Vermont Game Warden",
+   "cat": "other",
+   "img": "vermont-game-warden.webp"
+  },
+  {
+   "id": "vermont-house-speaker",
+   "name": "Vermont House Speaker",
+   "cat": "other",
+   "img": "vermont-house-speaker.webp"
+  },
+  {
+   "id": "vermont-national-guard",
+   "name": "Vermont National Guard",
+   "cat": "military",
+   "img": "vermont-national-guard.webp"
+  },
+  {
+   "id": "vermont-state-officers",
+   "name": "Vermont State Officers’",
+   "cat": "other",
+   "img": "vermont-state-officers.webp"
+  },
+  {
+   "id": "vermont-state-police",
+   "name": "Vermont State Police",
+   "cat": "firstresponder",
+   "img": "vermont-state-police.webp"
+  },
+  {
+   "id": "veterans-of-foreign-wars",
+   "name": "Veterans of Foreign Wars",
+   "cat": "veterans",
+   "img": "veterans-of-foreign-wars.webp"
+  },
+  {
+   "id": "vietnam-veterans-of-america",
+   "name": "Vietnam Veterans of America",
+   "cat": "veterans",
+   "img": "vietnam-veterans-of-america.webp"
+  },
+  {
+   "id": "volunteer",
+   "name": "Volunteer",
+   "cat": "other",
+   "img": "volunteer.webp"
+  }
+ ]
+}

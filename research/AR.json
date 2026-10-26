@@ -1,0 +1,828 @@
+[
+ {
+  "title": "Amateur Radio",
+  "keegan_img": "amateur_radio_lg.jpg",
+  "cat": "hobby",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/amateur-radio-license-plate"
+ },
+ {
+  "title": "Ambulance",
+  "keegan_img": "ambulance_lg.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/ambulance-license-plate"
+ },
+ {
+  "title": "Antique- Current",
+  "keegan_img": "antique_vehicle_current_lg.jpg",
+  "cat": "vehicle",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/antique-vehicle-license-plate-current"
+ },
+ {
+  "title": "AR Tennis",
+  "keegan_img": "ARTennisLicensePlate2ndCAD.png",
+  "cat": "sports",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/ar-tennis-license-plate"
+ },
+ {
+  "title": "Arkansas Agricultural Education( FFA",
+  "keegan_img": "Agriculture_FFA_(002)_-_Copy.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/arkansas-agricultural-education-plate-ffa"
+ },
+ {
+  "title": "Arkansas Coalition Against Domestic Violence",
+  "keegan_img": "123_11.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/arkansas-coalition-against-domestic-violence"
+ },
+ {
+  "title": "Arkansas Court Appointed Special Advocates",
+  "keegan_img": "CASA_lg.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/arkansas-court-appointed-special-advocates"
+ },
+ {
+  "title": "Arkansas Down Syndrome Association",
+  "keegan_img": "DownSyndrome_lg.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/arkansas-down-syndrome-association-license-plate"
+ },
+ {
+  "title": "Arkansas Rice Council",
+  "keegan_img": "ricelg.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/arkansas-rice-council"
+ },
+ {
+  "title": "Arkansas School for the Deaf",
+  "keegan_img": "school4deaf_lg.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/arkansas-school-for-the-deaf-license-plate"
+ },
+ {
+  "title": "Arkansas Sheriffs’ Association",
+  "keegan_img": "ASA_lg.jpg",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/arkansas-sheriffs-association"
+ },
+ {
+  "title": "Arkansas State Lodge Fraternal Order of Police",
+  "keegan_img": "FraternalOrder_ofPolice.jpg",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/arkansas-state-lodge-fraternal-order-of-police-license-plate"
+ },
+ {
+  "title": "Arkansas State Parks",
+  "keegan_img": "StateParks_lg.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/arkansas-state-parks"
+ },
+ {
+  "title": "Arkansas State University",
+  "keegan_img": "asu2_lg.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/arkansas-state-university-license-plate"
+ },
+ {
+  "title": "Arkansas Tech University",
+  "keegan_img": "artech_lg.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/arkansas-tech-university-license-plate"
+ },
+ {
+  "title": "Armed Forces Reserve",
+  "keegan_img": "af_reserved_lg.jpg",
+  "cat": "military",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/armed-forces-reserve-license-plate1"
+ },
+ {
+  "title": "Armed Forces Retired",
+  "keegan_img": "af_retired_lg.jpg",
+  "cat": "military",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/armed-forces-retired-license-plate"
+ },
+ {
+  "title": "Autism Awareness",
+  "keegan_img": "autism_lg.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/autism-awareness"
+ },
+ {
+  "title": "Boy Scout, Girl Scout, and Orphanages",
+  "keegan_img": "MISSING.png",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/boy-scout-girl-scout-and-orphanages-license-plate"
+ },
+ {
+  "title": "Boy Scouts of America",
+  "keegan_img": "boyscout_lg.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/boy-scouts-of-america-license-plate"
+ },
+ {
+  "title": "Buffalo River",
+  "keegan_img": "Buffalo_River_v1_RS.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/buffalo-license-plate"
+ },
+ {
+  "title": "Cattlemen’s Foundation",
+  "keegan_img": "cattlemen_lg.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/cattlemens-foundation-license-plate"
+ },
+ {
+  "title": "Childhood Cancer Research",
+  "keegan_img": "CCR_lg.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/childhood-cancer-research"
+ },
+ {
+  "title": "Choose Life",
+  "keegan_img": "ar_choose_life_lg.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/choose-life-license-plate"
+ },
+ {
+  "title": "Cold War Veteran",
+  "keegan_img": "coldwar_vet_lg.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/cold-war-veteran-license-plate"
+ },
+ {
+  "title": "Committed To Education",
+  "keegan_img": "education_book_lg.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/committed-to-education-license-plate-design-1"
+ },
+ {
+  "title": "Congressional Medal of Honor",
+  "keegan_img": "ar_mh_lg.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/congressional-medal-of-honor-license-plate"
+ },
+ {
+  "title": "Department of Conservation Districts",
+  "keegan_img": "Conservation_lg.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/department-of-conservation-districts"
+ },
+ {
+  "title": "Disabled Veteran- Free",
+  "keegan_img": "davfree_lg.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/disabled-veteran-license-plate-free3"
+ },
+ {
+  "title": "Distinguished Flying Cross",
+  "keegan_img": "dfcross_lg.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/distinguished-flying-cross-plate"
+ },
+ {
+  "title": "Dr. Martin Luther King, Jr.",
+  "keegan_img": "mlk_lg.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/dr.-martin-luther-king-jr"
+ },
+ {
+  "title": "Dr. Martin Luther King, Jr. Commission",
+  "keegan_img": "mlk2_lg.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/dr.-martin-luther-king-jr.-commission-license-plate"
+ },
+ {
+  "title": "Ducks Unlimited- Valid No Longer Issued",
+  "keegan_img": "du_design1_lg.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/ducks-unlimited-license-plate-design-1-valid-no-longer-issued1"
+ },
+ {
+  "title": "Ducks Unlimited",
+  "keegan_img": "du_design2_lg.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/ducks-unlimited-license-plate-design-2"
+ },
+ {
+  "title": "Emergency Medical Services",
+  "keegan_img": "ems_lg.jpg",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/emergency-medical-services-license-plate"
+ },
+ {
+  "title": "Ex-Prisoner Of War",
+  "keegan_img": "redtop_expow_lg.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/ex-prisoner-of-war-license-plate"
+ },
+ {
+  "title": "Fire Fighter(Active",
+  "keegan_img": "firefighter_lg.jpg",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/fire-fighter-license-plate-active"
+ },
+ {
+  "title": "Fire Fighter(Memorial",
+  "keegan_img": "firefighter_memorial_lg.jpg",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/fire-fighter-license-plate-memorial"
+ },
+ {
+  "title": "Fire Fighter(Retired",
+  "keegan_img": "firefighter_ret_lg.jpg",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/fire-fighter-license-plate-retired"
+ },
+ {
+  "title": "Freemason",
+  "keegan_img": "freemason_lg.jpg",
+  "cat": "hobby",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/freemason-license-plate"
+ },
+ {
+  "title": "Game & Fish Bird Dog",
+  "keegan_img": "GameFishBirdDog2ndCAD2020.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/game-fish-bird-dog-license-plate"
+ },
+ {
+  "title": "Game & Fish Crappie Fish",
+  "keegan_img": "agfcCrappieFish_lg.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/game-fish-crappie-fish-license-plate"
+ },
+ {
+  "title": "Game & Fish Deer",
+  "keegan_img": "GameFishDeer1stCAD.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/game-fish-deer-license-plate"
+ },
+ {
+  "title": "Game & Fish Ivory Billed Woodpecker",
+  "keegan_img": "agfc_woodpecker_lg.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/game-fish-ivory-billed-woodpecker-plate"
+ },
+ {
+  "title": "Game & Fish Longear Sunfish",
+  "keegan_img": "Longear_Sunfish_v1_RS.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/game-fish-longear-sunfish-license-plate"
+ },
+ {
+  "title": "Game & Fish Monarch Butterfly",
+  "keegan_img": "Monarch_Butterfly_GameFish.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/game-fish-monarch-butterfly"
+ },
+ {
+  "title": "Game & Fish Red Cardinal",
+  "keegan_img": "RedCardinal_lg.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/game-fish-red-cardinal-license-plate"
+ },
+ {
+  "title": "Game and Fish Black Bear",
+  "keegan_img": "agfc_bear_lg.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/game-and-fish-black-bear-license-plate"
+ },
+ {
+  "title": "Game and Fish Black Lab",
+  "keegan_img": "agfc_blacklab_lg.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/game-and-fish-black-lab-license-plate"
+ },
+ {
+  "title": "Game and Fish Butterfly",
+  "keegan_img": "agfc_butterfly_lg.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/game-and-fish-butterfly-license-plate"
+ },
+ {
+  "title": "Game and Fish Deer (New Design",
+  "keegan_img": "agfc_deer_2011_lg.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/game-and-fish-deer-new-design-license-plate"
+ },
+ {
+  "title": "Game And Fish Deer",
+  "keegan_img": "agfc_deer_lg.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/game-and-fish-deer-license-plate"
+ },
+ {
+  "title": "Game and Fish Eagle",
+  "keegan_img": "agfc_eagle_lg.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/game-and-fish-eagle-plate1"
+ },
+ {
+  "title": "Game and Fish Elk",
+  "keegan_img": "agfc_elk_lg.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/game-and-fish-elk-license-plate1"
+ },
+ {
+  "title": "Game And Fish Hummingbird",
+  "keegan_img": "agfc_hummingbird_lg.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/game-and-fish-hummingbird-license-plate1"
+ },
+ {
+  "title": "Game and Fish Largemouth Bass",
+  "keegan_img": "agfc_bass_lg.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/game-and-fish-largemouth-bass-license-plate1"
+ },
+ {
+  "title": "Game and Fish Mallard Duck",
+  "keegan_img": "afgc_mallard_lg.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/game-and-fish-mallard-duck-license-plate1"
+ },
+ {
+  "title": "Game And Fish Rainbow Trout",
+  "keegan_img": "agfc_trout_lg.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/game-and-fish-rainbow-trout-license-plate1"
+ },
+ {
+  "title": "Game and Fish Red Fox",
+  "keegan_img": "GameFish_RedFox.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/game-and-fish-red-fox-license-plate1"
+ },
+ {
+  "title": "Game and Fish Smallmouth Bass",
+  "keegan_img": "agfcSmBass_lg.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/game-and-fish-smallmouth-bass-license-plate1"
+ },
+ {
+  "title": "Game and Fish Squirrel",
+  "keegan_img": "agfcSquirrel_lg.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/game-and-fish-squirrel-license-plate1"
+ },
+ {
+  "title": "Game and Fish Wild Turkey",
+  "keegan_img": "agfc_turkey_lg.jpg",
+  "cat": "sports",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/game-and-fish-wild-turkey-license-plate1"
+ },
+ {
+  "title": "Game Fish Pintail Duck",
+  "keegan_img": "GameFishPintailDuck1stCAD.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/game-fish-pintail-duck-license-plate"
+ },
+ {
+  "title": "Gold Star Family",
+  "keegan_img": "goldstar_family_lg.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/gold-star-family-license-plate1"
+ },
+ {
+  "title": "Golf Association",
+  "keegan_img": "golf_lg.jpg",
+  "cat": "sports",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/golf-association-license-plate1"
+ },
+ {
+  "title": "Grand Lodge of Arkansas",
+  "keegan_img": "GrandLodgeofArkansas1stCAD.png",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/grand-lodge-of-arkansas"
+ },
+ {
+  "title": "Harding University",
+  "keegan_img": "harding_lg.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/harding-university-license-plate1"
+ },
+ {
+  "title": "Henderson State University",
+  "keegan_img": "henderson_lg.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/henderson-state-university-license-plate1"
+ },
+ {
+  "title": "Hendrix College",
+  "keegan_img": "hendrix_lg.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/hendrix-college-license-plate1"
+ },
+ {
+  "title": "Hospice and Palliative Care",
+  "keegan_img": "HospicePalliativeCare_lg.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/hospice-and-palliative-care1"
+ },
+ {
+  "title": "Humane Society of the Ozarks",
+  "keegan_img": "humaneSociety_lg.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/humane-society-of-the-ozarks-license-plate1"
+ },
+ {
+  "title": "In God We Trust",
+  "keegan_img": "igwe_lg.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/in-god-we-trust-license-plate1"
+ },
+ {
+  "title": "John Brown University",
+  "keegan_img": "JohnBrownUniversity1stCAD.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/john-brown-university-license-plate"
+ },
+ {
+  "title": "Justice of the Peace",
+  "keegan_img": "redtop_jp_lg.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/justice-of-the-peace-license-plate1"
+ },
+ {
+  "title": "Kappa Alpha PSI Fraternity",
+  "keegan_img": "Kappa_Alpha_lg.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/kappa-alpha-psi-fraternity-license-plate1"
+ },
+ {
+  "title": "Korean Veteran",
+  "keegan_img": "korean_lg.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/korean-veteran-license-plate1"
+ },
+ {
+  "title": "Little Rock Rangers Soccer Club",
+  "keegan_img": "LittleRockRangersSoccerClub2ndCAD.jpg",
+  "cat": "military",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/little-rock-rangers-soccer-club"
+ },
+ {
+  "title": "Lyon College",
+  "keegan_img": "lyons_lg.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/lyon-college-license-plate1"
+ },
+ {
+  "title": "Merchant Marine Retired",
+  "keegan_img": "redtop_retmm_lg.jpg",
+  "cat": "military",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/merchant-marine-retired-license-plate1"
+ },
+ {
+  "title": "Mid-South Community College",
+  "keegan_img": "mscc_lg.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/mid-south-community-college-license-plate1"
+ },
+ {
+  "title": "National Guard",
+  "keegan_img": "national_guard_lg.jpg",
+  "cat": "military",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/national-guard-license-plate1"
+ },
+ {
+  "title": "National Park Community College",
+  "keegan_img": "NationalParkCollege_lg.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/national-park-community-college-license-plate1"
+ },
+ {
+  "title": "National Wild Turkey Federation",
+  "keegan_img": "NWTF_lg.jpg",
+  "cat": "sports",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/national-wild-turkey-federation1"
+ },
+ {
+  "title": "Northwest Arkansas Community College",
+  "keegan_img": "nwacc_lg.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/northwest-arkansas-community-college-plate1"
+ },
+ {
+  "title": "Omega PSI PHI Fraternity",
+  "keegan_img": "omegapsiphi_lg.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/omega-psi-phi-fraternity-license-plate1"
+ },
+ {
+  "title": "Operation Iraqi Freedom Veteran",
+  "keegan_img": "iraqi_freedom_lg.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/operation-iraqi-freedom-veteran-license-plate1"
+ },
+ {
+  "title": "Organ Donor Awareness",
+  "keegan_img": "organ_donor_lg.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/organ-donor-awareness-license-plate1"
+ },
+ {
+  "title": "Ouachita Baptist University",
+  "keegan_img": "obu_lg.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/ouachita-baptist-university-license-plate1"
+ },
+ {
+  "title": "Pearl Harbor Survivor",
+  "keegan_img": "pearlharbor_lg.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/pearl-harbor-survivor-license-plate1"
+ },
+ {
+  "title": "Persian Gulf War Veteran",
+  "keegan_img": "persiangulf_lg.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/persian-gulf-war-veteran-license-plate1"
+ },
+ {
+  "title": "Persons With Disabilities",
+  "keegan_img": "disabled_lg.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/persons-with-disabilities-license-plate"
+ },
+ {
+  "title": "Persons With Disabilities Placard",
+  "keegan_img": "hand_stacked_placards.gif",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/persons-with-disabilities-placard1"
+ },
+ {
+  "title": "Phi Beta Sigma Fraternity",
+  "keegan_img": "phiBetaSigma_lg.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/phi-beta-sigma-fraternity-license-plate1"
+ },
+ {
+  "title": "Prince Hall Grand Lodge of Arkansas",
+  "keegan_img": "PrinceHallGrandLodgeofArkansas4thCAD.png",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/prince-hall-grand-lodge-of-arkansas"
+ },
+ {
+  "title": "Purple Heart - Combat Wounded",
+  "keegan_img": "purpleheart_lg.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/purple-heart-combat-wounded-license-plate1"
+ },
+ {
+  "title": "Quail Forever",
+  "keegan_img": "Quail_Forever_CAD_1st_%28006%29.png",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/quail-forever"
+ },
+ {
+  "title": "Realtor",
+  "keegan_img": "realtor_lg.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/realtor-license-plate1"
+ },
+ {
+  "title": "School",
+  "keegan_img": "schoolvehicle_lg.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/school-vehicle-license-plate1"
+ },
+ {
+  "title": "Search and Rescue",
+  "keegan_img": "sar_lg.jpg",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/search-and-rescue-license-plate1"
+ },
+ {
+  "title": "Sheep Dog Impact Assistance",
+  "keegan_img": "sdia_lg.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/sheep-dog-impact-assistance-license-plate1"
+ },
+ {
+  "title": "Sons of Confederate Veterans",
+  "keegan_img": "sonsOfConfVets_sm.png",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/sons-of-confederate-veterans-license-plate1"
+ },
+ {
+  "title": "Southern Arkansas University",
+  "keegan_img": "sau_lg.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/southern-arkansas-university-license-plate1"
+ },
+ {
+  "title": "Support Animal Rescue and Shelters",
+  "keegan_img": "animalshelter_lg.jpg",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/support-animal-rescue-and-shelters-license-plate1"
+ },
+ {
+  "title": "Support Our Troops",
+  "keegan_img": "sot_lg.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/support-our-troops-license-plate1"
+ },
+ {
+  "title": "Support Spay or Neutering Specialtyfor North Little Rock Friends of Animals, Inc.",
+  "keegan_img": "spayneuter_lg.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/support-spay-or-neutering-specialty-license-plate-for-north-little-rock-friends-of-animals-inc1"
+ },
+ {
+  "title": "Susan G. Komen Breast Cancer",
+  "keegan_img": "breast_cancer_lg.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/susan-g.-komen-breast-cancer-license-plate1"
+ },
+ {
+  "title": "University of Arkansas Agriculture 4-H",
+  "keegan_img": "4h_lg.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/university-of-arkansas-agriculture-4-h-license-plate1"
+ },
+ {
+  "title": "University Of Arkansas at Fayetteville- Current",
+  "keegan_img": "HT_ArkansasTag.png",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/university-of-arkansas-at-fayetteville-license-plate-current2"
+ },
+ {
+  "title": "University of Arkansas at Little Rock",
+  "keegan_img": "ualr_lg.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/university-of-arkansas-at-little-rock-license-plate1"
+ },
+ {
+  "title": "University of Arkansas at Monticello",
+  "keegan_img": "uam_lg.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/university-of-arkansas-at-monticello-license-plate1"
+ },
+ {
+  "title": "University Of Arkansas at Pine Bluff",
+  "keegan_img": "uapb_lg.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/university-of-arkansas-at-pine-bluff-license-plate1"
+ },
+ {
+  "title": "University Of Arkansas Fort Smith",
+  "keegan_img": "UofAFortSmith_lg.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/university-of-arkansas-fort-smith-license-plate1"
+ },
+ {
+  "title": "University of Arkansas Medical Sciences",
+  "keegan_img": "uams_lg.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/university-of-arkansas-medical-sciences-license-plate1"
+ },
+ {
+  "title": "University Of Central Arkansas1st Design",
+  "keegan_img": "uca_lg.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/university-of-central-arkansas-license-plate-1st-design1"
+ },
+ {
+  "title": "University of Central Arkansas2nd Design",
+  "keegan_img": "uca2_lg.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/university-of-central-arkansas-license-plate-2nd-design1"
+ },
+ {
+  "title": "Vietnam War Veteran",
+  "keegan_img": "vietnam_lg.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/vietnam-war-veteran-license-plate1"
+ },
+ {
+  "title": "World War II Veteran",
+  "keegan_img": "wwII_lg.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/world-war-ii-veteran-license-plate1"
+ },
+ {
+  "title": "Zeta Phi Beta Sorority",
+  "keegan_img": "zpbs_lg.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.dfa.arkansas.gov/specialty-plates/details/zeta-phi-beta-sorority-license-plate1"
+ }
+]

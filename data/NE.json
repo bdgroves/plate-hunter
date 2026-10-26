@@ -1,0 +1,250 @@
+{
+ "code": "NE",
+ "name": "Nebraska",
+ "rated": false,
+ "checked": false,
+ "updated": "2026-10-25",
+ "about": "Nebraska special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "sources": [
+  {
+   "title": "Jon Keegan, us-license-plates (2023)",
+   "url": "https://github.com/jonkeegan/us-license-plates"
+  }
+ ],
+ "plates": [
+  {
+   "id": "amateur-radio",
+   "name": "Amateur Radio",
+   "cat": "hobby",
+   "img": "amateur-radio.webp"
+  },
+  {
+   "id": "breast-cancer-awareness",
+   "name": "Breast Cancer Awareness",
+   "cat": "charity",
+   "img": "breast-cancer-awareness.webp"
+  },
+  {
+   "id": "cattlemen-research-education-foundation",
+   "name": "Cattlemen Research & Education Foundation",
+   "cat": "charity",
+   "img": "cattlemen-research-education-foundation.webp"
+  },
+  {
+   "id": "choose-life",
+   "name": "Choose Life",
+   "cat": "other",
+   "img": "choose-life.webp"
+  },
+  {
+   "id": "corn-growers-association",
+   "name": "Corn Growers Association",
+   "cat": "charity",
+   "img": "corn-growers-association.webp"
+  },
+  {
+   "id": "creighton-university",
+   "name": "Creighton University",
+   "cat": "colleges",
+   "img": "creighton-university.webp"
+  },
+  {
+   "id": "disabled-american-veteran",
+   "name": "Disabled American Veteran",
+   "cat": "veterans",
+   "img": "disabled-american-veteran.webp"
+  },
+  {
+   "id": "donate-life",
+   "name": "Donate Life",
+   "cat": "charity",
+   "img": "donate-life.webp"
+  },
+  {
+   "id": "down-syndrome-awareness",
+   "name": "Down Syndrome Awareness",
+   "cat": "charity",
+   "img": "down-syndrome-awareness.webp"
+  },
+  {
+   "id": "ducks-unlimited-inc",
+   "name": "Ducks Unlimited Inc.",
+   "cat": "nature",
+   "img": "ducks-unlimited-inc.webp"
+  },
+  {
+   "id": "ex-prisoner-of-war",
+   "name": "Ex-Prisoner of War",
+   "cat": "veterans",
+   "img": "ex-prisoner-of-war.webp"
+  },
+  {
+   "id": "friends-of-the-union-pacific-rr-museum",
+   "name": "Friends of the Union Pacific RR Museum",
+   "cat": "charity",
+   "img": "friends-of-the-union-pacific-rr-museum.webp"
+  },
+  {
+   "id": "gold-star-family",
+   "name": "Gold Star Family",
+   "cat": "veterans",
+   "img": "gold-star-family.webp"
+  },
+  {
+   "id": "greater-omaha-chamber-of-commerce",
+   "name": "Greater Omaha Chamber of Commerce",
+   "cat": "charity",
+   "img": "greater-omaha-chamber-of-commerce.webp"
+  },
+  {
+   "id": "henry-doorly-zoo",
+   "name": "Henry Doorly Zoo",
+   "cat": "nature",
+   "img": "henry-doorly-zoo.webp"
+  },
+  {
+   "id": "historical",
+   "name": "Historical",
+   "cat": "other",
+   "img": "historical.webp"
+  },
+  {
+   "id": "husker",
+   "name": "Husker",
+   "cat": "other",
+   "img": "husker.webp"
+  },
+  {
+   "id": "josh-the-otter-be-safe-around-water",
+   "name": "Josh The Otter-Be Safe Around Water",
+   "cat": "charity",
+   "img": "josh-the-otter-be-safe-around-water.webp"
+  },
+  {
+   "id": "message",
+   "name": "Message",
+   "cat": "other",
+   "img": "message.webp"
+  },
+  {
+   "id": "military-honor",
+   "name": "Military Honor",
+   "cat": "military",
+   "img": "military-honor.webp"
+  },
+  {
+   "id": "mountain-lion-conservation",
+   "name": "Mountain Lion Conservation",
+   "cat": "nature",
+   "img": "mountain-lion-conservation.webp"
+  },
+  {
+   "id": "native-american",
+   "name": "Native American",
+   "cat": "other",
+   "img": "native-american.webp"
+  },
+  {
+   "id": "nebraska-center-for-nursing",
+   "name": "Nebraska Center for Nursing",
+   "cat": "other",
+   "img": "nebraska-center-for-nursing.webp"
+  },
+  {
+   "id": "nebraska-history",
+   "name": "Nebraska History",
+   "cat": "charity",
+   "img": "nebraska-history.webp"
+  },
+  {
+   "id": "pearl-harbor-survivor",
+   "name": "Pearl Harbor Survivor",
+   "cat": "veterans",
+   "img": "pearl-harbor-survivor.webp"
+  },
+  {
+   "id": "planned-parenthood",
+   "name": "Planned Parenthood",
+   "cat": "other",
+   "img": "planned-parenthood.webp"
+  },
+  {
+   "id": "prostate-cancer-awareness",
+   "name": "Prostate Cancer Awareness",
+   "cat": "charity",
+   "img": "prostate-cancer-awareness.webp"
+  },
+  {
+   "id": "purple-heart",
+   "name": "Purple Heart",
+   "cat": "veterans",
+   "img": "purple-heart.webp"
+  },
+  {
+   "id": "sammy-s-superheroes",
+   "name": "Sammy's Superheroes",
+   "cat": "other",
+   "img": "sammy-s-superheroes.webp"
+  },
+  {
+   "id": "serious-injury-line-of-duty-death-respon",
+   "name": "Serious Injury & Line-of-Duty Death Response Team",
+   "cat": "other",
+   "img": "serious-injury-line-of-duty-death-respon.webp"
+  },
+  {
+   "id": "special-interest",
+   "name": "Special Interest",
+   "cat": "other",
+   "img": "special-interest.webp"
+  },
+  {
+   "id": "support-our-troops",
+   "name": "Support Our Troops",
+   "cat": "charity",
+   "img": "support-our-troops.webp"
+  },
+  {
+   "id": "support-the-arts",
+   "name": "Support the Arts",
+   "cat": "hobby",
+   "img": "support-the-arts.webp"
+  },
+  {
+   "id": "the-good-life-is-outside",
+   "name": "The Good Life Is Outside",
+   "cat": "other",
+   "img": "the-good-life-is-outside.webp"
+  },
+  {
+   "id": "university-of-nebraska-omaha",
+   "name": "University of Nebraska-Omaha",
+   "cat": "colleges",
+   "img": "university-of-nebraska-omaha.webp"
+  },
+  {
+   "id": "vets-get-pets",
+   "name": "Vets Get Pets",
+   "cat": "charity",
+   "img": "vets-get-pets.webp"
+  },
+  {
+   "id": "wildlife-conservation-bighorn-sheep",
+   "name": "Wildlife Conservation- Bighorn Sheep",
+   "cat": "nature",
+   "img": "wildlife-conservation-bighorn-sheep.webp"
+  },
+  {
+   "id": "wildlife-conservation-ornate-box-turtle",
+   "name": "Wildlife Conservation- Ornate Box Turtle",
+   "cat": "nature",
+   "img": "wildlife-conservation-ornate-box-turtle.webp"
+  },
+  {
+   "id": "wildlife-conservation-sandhill-crane",
+   "name": "Wildlife Conservation- Sandhill Crane",
+   "cat": "nature",
+   "img": "wildlife-conservation-sandhill-crane.webp"
+  }
+ ]
+}

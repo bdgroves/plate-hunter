@@ -1,0 +1,664 @@
+{
+ "code": "WV",
+ "name": "West Virginia",
+ "rated": false,
+ "checked": false,
+ "updated": "2026-10-25",
+ "about": "West Virginia special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "sources": [
+  {
+   "title": "Jon Keegan, us-license-plates (2023)",
+   "url": "https://github.com/jonkeegan/us-license-plates"
+  }
+ ],
+ "plates": [
+  {
+   "id": "150th-anniversary",
+   "name": "150th Anniversary",
+   "cat": "charity",
+   "img": "150th-anniversary.webp"
+  },
+  {
+   "id": "82nd-airborne-division-association",
+   "name": "82nd Airborne Division Association",
+   "cat": "military",
+   "img": "82nd-airborne-division-association.webp"
+  },
+  {
+   "id": "9-11-commemorative",
+   "name": "9-11 Commemorative",
+   "cat": "other",
+   "img": "9-11-commemorative.webp"
+  },
+  {
+   "id": "911-enhanced-council",
+   "name": "911-Enhanced Council",
+   "cat": "other",
+   "img": "911-enhanced-council.webp"
+  },
+  {
+   "id": "a-f-a-m",
+   "name": "A.F. & A.M.",
+   "cat": "other",
+   "img": "a-f-a-m.webp"
+  },
+  {
+   "id": "air-force-cross",
+   "name": "Air Force Cross",
+   "cat": "military",
+   "img": "air-force-cross.webp"
+  },
+  {
+   "id": "air-force-reserves",
+   "name": "Air Force Reserves",
+   "cat": "military",
+   "img": "air-force-reserves.webp"
+  },
+  {
+   "id": "air-force-retired",
+   "name": "Air Force Retired",
+   "cat": "military",
+   "img": "air-force-retired.webp"
+  },
+  {
+   "id": "air-medal",
+   "name": "Air Medal",
+   "cat": "veterans",
+   "img": "air-medal.webp"
+  },
+  {
+   "id": "air-national-guard",
+   "name": "Air National Guard",
+   "cat": "military",
+   "img": "air-national-guard.webp"
+  },
+  {
+   "id": "alderson-broaddus-college",
+   "name": "Alderson-Broaddus College",
+   "cat": "colleges",
+   "img": "alderson-broaddus-college.webp"
+  },
+  {
+   "id": "amateur-radio",
+   "name": "Amateur Radio",
+   "cat": "hobby",
+   "img": "amateur-radio.webp"
+  },
+  {
+   "id": "american-legion",
+   "name": "American Legion",
+   "cat": "veterans",
+   "img": "american-legion.webp"
+  },
+  {
+   "id": "antique",
+   "name": "Antique",
+   "cat": "vehicle",
+   "img": "antique.webp"
+  },
+  {
+   "id": "army-national-guard",
+   "name": "Army National Guard",
+   "cat": "military",
+   "img": "army-national-guard.webp"
+  },
+  {
+   "id": "army-reserves",
+   "name": "Army Reserves",
+   "cat": "military",
+   "img": "army-reserves.webp"
+  },
+  {
+   "id": "army-retired",
+   "name": "Army Retired",
+   "cat": "military",
+   "img": "army-retired.webp"
+  },
+  {
+   "id": "back-the-blue",
+   "name": "Back the Blue",
+   "cat": "other",
+   "img": "back-the-blue.webp"
+  },
+  {
+   "id": "back-the-blue-wounded-in-the-line-of-dut",
+   "name": "Back the Blue Wounded in the Line of Duty or Surviving Spouse",
+   "cat": "veterans",
+   "img": "back-the-blue-wounded-in-the-line-of-dut.webp"
+  },
+  {
+   "id": "benevolent-protective-order-of-elks",
+   "name": "Benevolent Protective Order of Elks",
+   "cat": "nature",
+   "img": "benevolent-protective-order-of-elks.webp"
+  },
+  {
+   "id": "beni-kedem-temple",
+   "name": "Beni Kedem Temple",
+   "cat": "other",
+   "img": "beni-kedem-temple.webp"
+  },
+  {
+   "id": "bowlers",
+   "name": "Bowlers",
+   "cat": "nature",
+   "img": "bowlers.webp"
+  },
+  {
+   "id": "breast-cancer-awareness",
+   "name": "Breast Cancer Awareness",
+   "cat": "charity",
+   "img": "breast-cancer-awareness.webp"
+  },
+  {
+   "id": "bronze-star",
+   "name": "Bronze Star",
+   "cat": "veterans",
+   "img": "bronze-star.webp"
+  },
+  {
+   "id": "certified-firefighter",
+   "name": "Certified Firefighter",
+   "cat": "firstresponder",
+   "img": "certified-firefighter.webp"
+  },
+  {
+   "id": "character-education",
+   "name": "Character Education",
+   "cat": "charity",
+   "img": "character-education.webp"
+  },
+  {
+   "id": "classic",
+   "name": "Classic",
+   "cat": "vehicle",
+   "img": "classic.webp"
+  },
+  {
+   "id": "coast-guard-reserves",
+   "name": "Coast Guard Reserves",
+   "cat": "military",
+   "img": "coast-guard-reserves.webp"
+  },
+  {
+   "id": "coast-guard-retired",
+   "name": "Coast Guard Retired",
+   "cat": "military",
+   "img": "coast-guard-retired.webp"
+  },
+  {
+   "id": "combat-infantry-badge",
+   "name": "Combat Infantry Badge",
+   "cat": "veterans",
+   "img": "combat-infantry-badge.webp"
+  },
+  {
+   "id": "combat-medic",
+   "name": "Combat Medic",
+   "cat": "veterans",
+   "img": "combat-medic.webp"
+  },
+  {
+   "id": "concord-college",
+   "name": "Concord College",
+   "cat": "colleges",
+   "img": "concord-college.webp"
+  },
+  {
+   "id": "contractors-association-of-wv",
+   "name": "Contractors Association of WV",
+   "cat": "vehicle",
+   "img": "contractors-association-of-wv.webp"
+  },
+  {
+   "id": "cure-childhood-cancer",
+   "name": "Cure Childhood Cancer",
+   "cat": "charity",
+   "img": "cure-childhood-cancer.webp"
+  },
+  {
+   "id": "davis-and-elkins",
+   "name": "Davis and Elkins",
+   "cat": "nature",
+   "img": "davis-and-elkins.webp"
+  },
+  {
+   "id": "deputy-sheriffs-association",
+   "name": "Deputy Sheriffs Association",
+   "cat": "firstresponder",
+   "img": "deputy-sheriffs-association.webp"
+  },
+  {
+   "id": "disabled-american-veterans",
+   "name": "Disabled American Veterans",
+   "cat": "veterans",
+   "img": "disabled-american-veterans.webp"
+  },
+  {
+   "id": "disabled-veterans",
+   "name": "Disabled Veterans",
+   "cat": "veterans",
+   "img": "disabled-veterans.webp"
+  },
+  {
+   "id": "disabled-veterans-mobility-impaired",
+   "name": "Disabled Veterans Mobility Impaired",
+   "cat": "veterans",
+   "img": "disabled-veterans-mobility-impaired.webp"
+  },
+  {
+   "id": "distinguished-flying-cross",
+   "name": "Distinguished Flying Cross",
+   "cat": "veterans",
+   "img": "distinguished-flying-cross.webp"
+  },
+  {
+   "id": "distinguished-service-cross",
+   "name": "Distinguished Service Cross",
+   "cat": "veterans",
+   "img": "distinguished-service-cross.webp"
+  },
+  {
+   "id": "educator",
+   "name": "Educator",
+   "cat": "charity",
+   "img": "educator.webp"
+  },
+  {
+   "id": "emergency-medical-services",
+   "name": "Emergency Medical Services",
+   "cat": "firstresponder",
+   "img": "emergency-medical-services.webp"
+  },
+  {
+   "id": "f-a-m-p-h-a",
+   "name": "F. & A.M. P.H.A.",
+   "cat": "other",
+   "img": "f-a-m-p-h-a.webp"
+  },
+  {
+   "id": "ffa-4h",
+   "name": "FFA - 4H",
+   "cat": "charity",
+   "img": "ffa-4h.webp"
+  },
+  {
+   "id": "fire-fighter",
+   "name": "Fire Fighter",
+   "cat": "firstresponder",
+   "img": "fire-fighter.webp"
+  },
+  {
+   "id": "former-prisoner-of-war",
+   "name": "Former Prisoner of War",
+   "cat": "veterans",
+   "img": "former-prisoner-of-war.webp"
+  },
+  {
+   "id": "fraternal-order-of-police",
+   "name": "Fraternal Order of Police",
+   "cat": "firstresponder",
+   "img": "fraternal-order-of-police.webp"
+  },
+  {
+   "id": "friends-of-coal",
+   "name": "Friends of Coal",
+   "cat": "other",
+   "img": "friends-of-coal.webp"
+  },
+  {
+   "id": "gas-oil-association-of-wv",
+   "name": "Gas & Oil Association of WV",
+   "cat": "charity",
+   "img": "gas-oil-association-of-wv.webp"
+  },
+  {
+   "id": "gold-star-family",
+   "name": "Gold Star Family",
+   "cat": "veterans",
+   "img": "gold-star-family.webp"
+  },
+  {
+   "id": "in-god-we-trust",
+   "name": "In God We Trust",
+   "cat": "charity",
+   "img": "in-god-we-trust.webp"
+  },
+  {
+   "id": "knights-of-columbus",
+   "name": "Knights of Columbus",
+   "cat": "hobby",
+   "img": "knights-of-columbus.webp"
+  },
+  {
+   "id": "korean-war-veteran",
+   "name": "Korean War Veteran",
+   "cat": "veterans",
+   "img": "korean-war-veteran.webp"
+  },
+  {
+   "id": "league-of-postmasters",
+   "name": "League of Postmasters",
+   "cat": "charity",
+   "img": "league-of-postmasters.webp"
+  },
+  {
+   "id": "lions-international",
+   "name": "Lions International",
+   "cat": "sports",
+   "img": "lions-international.webp"
+  },
+  {
+   "id": "marine-corps-league",
+   "name": "Marine Corps League",
+   "cat": "military",
+   "img": "marine-corps-league.webp"
+  },
+  {
+   "id": "marine-corps-reserves",
+   "name": "Marine Corps Reserves",
+   "cat": "military",
+   "img": "marine-corps-reserves.webp"
+  },
+  {
+   "id": "marines-corps-retired",
+   "name": "Marines Corps Retired",
+   "cat": "military",
+   "img": "marines-corps-retired.webp"
+  },
+  {
+   "id": "marshall-university",
+   "name": "Marshall University",
+   "cat": "colleges",
+   "img": "marshall-university.webp"
+  },
+  {
+   "id": "medal-of-honor",
+   "name": "Medal of Honor",
+   "cat": "veterans",
+   "img": "medal-of-honor.webp"
+  },
+  {
+   "id": "mobility-impaired",
+   "name": "Mobility Impaired",
+   "cat": "other",
+   "img": "mobility-impaired.webp"
+  },
+  {
+   "id": "nascar-carl-edwards-99",
+   "name": "NASCAR® - Carl Edwards #99",
+   "cat": "sports",
+   "img": "nascar-carl-edwards-99.webp"
+  },
+  {
+   "id": "nascar-dale-earnhardt",
+   "name": "NASCAR® - Dale Earnhardt",
+   "cat": "sports",
+   "img": "nascar-dale-earnhardt.webp"
+  },
+  {
+   "id": "nascar-dale-earnhardt-jr-88",
+   "name": "NASCAR® - Dale Earnhardt Jr. #88",
+   "cat": "sports",
+   "img": "nascar-dale-earnhardt-jr-88.webp"
+  },
+  {
+   "id": "nascar-jeff-gordon-24-a",
+   "name": "NASCAR® - Jeff Gordon #24 (a",
+   "cat": "sports",
+   "img": "nascar-jeff-gordon-24-a.webp"
+  },
+  {
+   "id": "nascar-jeff-gordon-24-b",
+   "name": "NASCAR® - Jeff Gordon #24 (b",
+   "cat": "sports",
+   "img": "nascar-jeff-gordon-24-b.webp"
+  },
+  {
+   "id": "nascar-jimmie-johnson-48",
+   "name": "NASCAR® - Jimmie Johnson #48",
+   "cat": "sports",
+   "img": "nascar-jimmie-johnson-48.webp"
+  },
+  {
+   "id": "nascar-kevin-harvick-29",
+   "name": "NASCAR® - Kevin Harvick #29",
+   "cat": "sports",
+   "img": "nascar-kevin-harvick-29.webp"
+  },
+  {
+   "id": "nascar-matt-kenseth-17",
+   "name": "NASCAR® - Matt Kenseth #17",
+   "cat": "sports",
+   "img": "nascar-matt-kenseth-17.webp"
+  },
+  {
+   "id": "nascar-standard",
+   "name": "NASCAR® - Standard",
+   "cat": "sports",
+   "img": "nascar-standard.webp"
+  },
+  {
+   "id": "nascar-tony-stewart-14",
+   "name": "NASCAR® - Tony Stewart #14",
+   "cat": "sports",
+   "img": "nascar-tony-stewart-14.webp"
+  },
+  {
+   "id": "navy-cross",
+   "name": "Navy Cross",
+   "cat": "veterans",
+   "img": "navy-cross.webp"
+  },
+  {
+   "id": "navy-reserves",
+   "name": "Navy Reserves",
+   "cat": "military",
+   "img": "navy-reserves.webp"
+  },
+  {
+   "id": "navy-retired",
+   "name": "Navy Retired",
+   "cat": "military",
+   "img": "navy-retired.webp"
+  },
+  {
+   "id": "organ-donor",
+   "name": "Organ Donor",
+   "cat": "charity",
+   "img": "organ-donor.webp"
+  },
+  {
+   "id": "osiris-shriner",
+   "name": "Osiris Shriner",
+   "cat": "hobby",
+   "img": "osiris-shriner.webp"
+  },
+  {
+   "id": "pearl-harbor-survivor",
+   "name": "Pearl Harbor Survivor",
+   "cat": "veterans",
+   "img": "pearl-harbor-survivor.webp"
+  },
+  {
+   "id": "penn-state-alumni",
+   "name": "Penn State Alumni",
+   "cat": "colleges",
+   "img": "penn-state-alumni.webp"
+  },
+  {
+   "id": "persian-gulf-veteran",
+   "name": "Persian Gulf Veteran",
+   "cat": "veterans",
+   "img": "persian-gulf-veteran.webp"
+  },
+  {
+   "id": "professional-firefighter",
+   "name": "Professional Firefighter",
+   "cat": "firstresponder",
+   "img": "professional-firefighter.webp"
+  },
+  {
+   "id": "protect-pollinators",
+   "name": "Protect Pollinators",
+   "cat": "nature",
+   "img": "protect-pollinators.webp"
+  },
+  {
+   "id": "pupil-transportation",
+   "name": "Pupil Transportation",
+   "cat": "other",
+   "img": "pupil-transportation.webp"
+  },
+  {
+   "id": "purple-heart",
+   "name": "Purple Heart",
+   "cat": "veterans",
+   "img": "purple-heart.webp"
+  },
+  {
+   "id": "rotary-international",
+   "name": "Rotary International",
+   "cat": "hobby",
+   "img": "rotary-international.webp"
+  },
+  {
+   "id": "silver-star",
+   "name": "Silver Star",
+   "cat": "veterans",
+   "img": "silver-star.webp"
+  },
+  {
+   "id": "united-we-stand",
+   "name": "United We Stand",
+   "cat": "other",
+   "img": "united-we-stand.webp"
+  },
+  {
+   "id": "veteran",
+   "name": "Veteran",
+   "cat": "veterans",
+   "img": "veteran.webp"
+  },
+  {
+   "id": "vietnam-war-veteran",
+   "name": "Vietnam War Veteran",
+   "cat": "veterans",
+   "img": "vietnam-war-veteran.webp"
+  },
+  {
+   "id": "virginia-tech",
+   "name": "Virginia Tech",
+   "cat": "other",
+   "img": "virginia-tech.webp"
+  },
+  {
+   "id": "volunteer-firefighter",
+   "name": "Volunteer Firefighter",
+   "cat": "firstresponder",
+   "img": "volunteer-firefighter.webp"
+  },
+  {
+   "id": "war-on-terrorism-afghanistan",
+   "name": "War On Terrorism - Afghanistan",
+   "cat": "veterans",
+   "img": "war-on-terrorism-afghanistan.webp"
+  },
+  {
+   "id": "war-on-terrorism-iraq",
+   "name": "War on Terrorism - Iraq",
+   "cat": "veterans",
+   "img": "war-on-terrorism-iraq.webp"
+  },
+  {
+   "id": "wesleyan-college",
+   "name": "Wesleyan College",
+   "cat": "colleges",
+   "img": "wesleyan-college.webp"
+  },
+  {
+   "id": "west-virginia-state-college",
+   "name": "West Virginia State College",
+   "cat": "colleges",
+   "img": "west-virginia-state-college.webp"
+  },
+  {
+   "id": "west-virginia-university",
+   "name": "West Virginia University",
+   "cat": "colleges",
+   "img": "west-virginia-university.webp"
+  },
+  {
+   "id": "whitewater-rafting",
+   "name": "Whitewater Rafting",
+   "cat": "other",
+   "img": "whitewater-rafting.webp"
+  },
+  {
+   "id": "wildlife-bluebird",
+   "name": "Wildlife - Bluebird",
+   "cat": "nature",
+   "img": "wildlife-bluebird.webp"
+  },
+  {
+   "id": "wildlife-box-turtle",
+   "name": "Wildlife - Box Turtle",
+   "cat": "nature",
+   "img": "wildlife-box-turtle.webp"
+  },
+  {
+   "id": "wildlife-brook-trout",
+   "name": "Wildlife - Brook Trout",
+   "cat": "nature",
+   "img": "wildlife-brook-trout.webp"
+  },
+  {
+   "id": "wildlife-deer",
+   "name": "Wildlife - Deer",
+   "cat": "nature",
+   "img": "wildlife-deer.webp"
+  },
+  {
+   "id": "wildlife-eastern-elk",
+   "name": "Wildlife - Eastern Elk",
+   "cat": "nature",
+   "img": "wildlife-eastern-elk.webp"
+  },
+  {
+   "id": "women-veterans",
+   "name": "Women Veterans",
+   "cat": "veterans",
+   "img": "women-veterans.webp"
+  },
+  {
+   "id": "world-war-ii-veteran",
+   "name": "World War II Veteran",
+   "cat": "veterans",
+   "img": "world-war-ii-veteran.webp"
+  },
+  {
+   "id": "wounded-in-the-line-of-duty",
+   "name": "Wounded in the Line of Duty",
+   "cat": "veterans",
+   "img": "wounded-in-the-line-of-duty.webp"
+  },
+  {
+   "id": "wv-chiropractic-society",
+   "name": "WV Chiropractic Society",
+   "cat": "charity",
+   "img": "wv-chiropractic-society.webp"
+  },
+  {
+   "id": "wv-square-and-round-dance-federation",
+   "name": "WV Square and Round Dance Federation",
+   "cat": "other",
+   "img": "wv-square-and-round-dance-federation.webp"
+  },
+  {
+   "id": "wv-tech",
+   "name": "WV Tech",
+   "cat": "other",
+   "img": "wv-tech.webp"
+  }
+ ]
+}

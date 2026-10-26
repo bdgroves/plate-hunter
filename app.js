@@ -59,7 +59,7 @@ async function loadCollection(code) {
   col.found = store.get(col.key, {});
   col.msShown = store.get(col.key + '_ms', []);
   for (const p of col.plates) if (!col.rated || !p.pts) { p.rar = p.rar || 'unrated'; p.pts = p.pts || UNRATED_PTS; }
-  S.col = col; S.colCode = code; S.filter = 'all';
+  S.col = col; S.colCode = code; S.filter = 'all'; S.q = '';
   store.set('ph_col', code);
 }
 
@@ -148,30 +148,40 @@ function stateCard(s) {
     </button></div>`;
 }
 
+const opt = k => `<option value="${k.code}"${S.colCode === k.code ? ' selected' : ''}>${esc(k.name)} (${k.count.toLocaleString()})</option>`;
+
 function renderSpecialty() {
   const c = S.col;
   const counts = {}; c.plates.forEach(p => counts[p.cat] = (counts[p.cat] || 0) + 1);
   const cats = CATS.filter(([k]) => counts[k]);
   $('#main').innerHTML = `
-  ${S.collections.length > 1 ? `<div class="fb cols" role="group" aria-label="Choose a state">${S.collections.map(k =>
-    `<button class="ch" data-col="${k.code}" aria-pressed="${k.code === c.code}">${esc(k.name)}<span class="n">${k.count}</span></button>`).join('')}</div>` : ''}
+  <div class="picker">
+    <label for="colPick" class="pl">State</label>
+    <select id="colPick">
+      <optgroup label="Checked against the state's current list">${S.collections.filter(k => k.checked !== false).map(opt).join('')}</optgroup>
+      <optgroup label="From the 2023 list (not checked yet)">${S.collections.filter(k => k.checked === false).map(opt).join('')}</optgroup>
+    </select>
+  </div>
   <section class="pw" aria-label="${esc(c.name)} progress">
     <div class="pr"><span class="pl">${esc(c.name)} plates found</span><span class="pn" id="pCt"></span></div>
     <div class="pt"><div class="pf" id="pFill"></div></div>
     <div class="st">
       <span class="pill">⭐ <strong id="tPts">0</strong><span>pts</span></span>
       ${c.rated ? `<span class="pill">🏆 <strong id="lCt">0</strong><span>legendary</span></span><span class="pill">🔥 <strong id="rCt">0</strong><span>rare</span></span>` : `<span class="pill"><span>rarity not rated yet</span></span>`}
+      ${c.checked === false ? `<span class="pill" title="These plates come from a 2023 snapshot of every US plate and haven't been checked against ${esc(c.name)}'s current list yet."><span>2023 list</span></span>` : ''}
       <span class="spacer"></span>
       <button class="link-btn" id="offBtn">Save for offline</button>
     </div>
   </section>
+  <div class="search"><input id="q" type="search" placeholder="Search ${c.plates.length.toLocaleString()} ${esc(c.name)} plates" aria-label="Search plates by name" autocomplete="off"></div>
   <div class="fb" id="fb" role="group" aria-label="Filter plates">
     <button class="ch" data-cat="all" aria-pressed="true">All ${c.plates.length}</button>
     ${cats.map(([k, e, l]) => `<button class="ch" data-cat="${k}" aria-pressed="false">${e} ${l}<span class="n">${counts[k]}</span></button>`).join('')}
     <button class="ch" data-cat="found" aria-pressed="false">✅ Found</button>
   </div>
   <div class="grid" id="grid"></div>`;
-  document.querySelectorAll('[data-col]').forEach(b => b.onclick = async () => { await loadCollection(b.dataset.col); show('specialty'); });
+  $('#colPick').onchange = async e => { await loadCollection(e.target.value); show('specialty'); };
+  $('#q').oninput = e => { S.q = e.target.value.trim().toLowerCase(); renderGrid(); };
   $('#fb').onclick = e => {
     const ch = e.target.closest('.ch'); if (!ch) return;
     S.filter = ch.dataset.cat;
@@ -189,7 +199,8 @@ function renderSpecialty() {
 
 function renderGrid() {
   const c = S.col, f = S.filter;
-  const list = f === 'all' ? c.plates : f === 'found' ? c.plates.filter(p => c.found[p.id]) : c.plates.filter(p => p.cat === f);
+  let list = f === 'all' ? c.plates : f === 'found' ? c.plates.filter(p => c.found[p.id]) : c.plates.filter(p => p.cat === f);
+  if (S.q) list = list.filter(p => p.name.toLowerCase().includes(S.q));
   $('#grid').innerHTML = list.length ? list.map(p => {
     const fd = !!c.found[p.id];
     return `<div class="card${fd ? ' found' : ''}" data-card="${p.id}">
@@ -200,7 +211,7 @@ function renderGrid() {
         <div class="cn">${esc(p.name)}</div>
         <div class="cm"><span class="rar r-${p.rar}">${p.rar}</span><span class="pts">+${p.pts} pts</span></div>
       </button></div>`;
-  }).join('') : `<div class="empty"><b>🔍</b>${f === 'found' ? 'No plates found yet.<br>Get out there and start hunting!' : 'Nothing here.'}</div>`;
+  }).join('') : `<div class="empty"><b>🔍</b>${S.q ? `No plate matches “${esc(S.q)}”.` : f === 'found' ? 'No plates found yet.<br>Get out there and start hunting!' : 'Nothing here.'}</div>`;
 }
 
 function plateStats() {
@@ -341,11 +352,12 @@ function openState(code) {
 
 function openAbout() {
   S.drawer = { kind: 'about', id: null };
-  const cols = S.collections.map(c => `${esc(c.name)} (${c.count})`).join(', ');
+  const total = S.collections.reduce((s, c) => s + c.count, 0).toLocaleString();
+  const checked = S.collections.filter(c => c.checked !== false).map(c => esc(c.name)).join(', ').replace(/, ([^,]*)$/, ' and $1');
   openSheet(`<div class="drawer-body sheet-text">
     <h2 class="drawer-name">How to play</h2>
     <p><b>States</b> is the classic road-trip game. Every time you see a plate from a new state, tap it on the map or in the list. Start a new trip when you set off again; the states you've ever seen are kept.</p>
-    <p><b>Specialty</b> is the deep cut: special-design plates for ${cols}. Tap a plate when you spot it. Rarer plates are worth more. In Washington the points come from how many vehicles really carry each plate, from the Department of Licensing's own counts. The other states aren't rated yet, so every plate there is worth the same.</p>
+    <p><b>Specialty</b> is the deep cut: ${total} special-design plates from every state. Tap a plate when you spot it. ${checked} are checked against each state's current list; the rest come from a 2023 snapshot and get checked over time, so a few may be retired or missing. Rarer plates are worth more. In Washington the points come from how many vehicles really carry each plate, from the Department of Licensing's own counts. The other states aren't rated yet, so every plate there is worth the same.</p>
     <p>Tapped the wrong one? Use <b>Undo</b>, or open the plate and unmark it.</p>
     <h3>Your progress</h3>
     <p>Everything is saved in this browser on this device, with no account. To move it to another phone, save a backup and open it there.</p>

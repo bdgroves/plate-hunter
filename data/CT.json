@@ -1,0 +1,406 @@
+{
+ "code": "CT",
+ "name": "Connecticut",
+ "rated": false,
+ "checked": false,
+ "updated": "2026-10-25",
+ "about": "Connecticut special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "sources": [
+  {
+   "title": "Jon Keegan, us-license-plates (2023)",
+   "url": "https://github.com/jonkeegan/us-license-plates"
+  }
+ ],
+ "plates": [
+  {
+   "id": "amateur-radio-call-letter",
+   "name": "Amateur radio call letter",
+   "cat": "hobby",
+   "img": "amateur-radio-call-letter.webp"
+  },
+  {
+   "id": "amistad",
+   "name": "Amistad",
+   "cat": "other",
+   "img": "amistad.webp"
+  },
+  {
+   "id": "animal-population-control",
+   "name": "Animal population control",
+   "cat": "charity",
+   "img": "animal-population-control.webp"
+  },
+  {
+   "id": "benevolent-protective-order-of-the-elks",
+   "name": "Benevolent & Protective Order of the Elks",
+   "cat": "nature",
+   "img": "benevolent-protective-order-of-the-elks.webp"
+  },
+  {
+   "id": "blue-knights-international",
+   "name": "Blue Knights International",
+   "cat": "hobby",
+   "img": "blue-knights-international.webp"
+  },
+  {
+   "id": "candlewood-lake-authority",
+   "name": "Candlewood Lake Authority",
+   "cat": "nature",
+   "img": "candlewood-lake-authority.webp"
+  },
+  {
+   "id": "celebrate-nursing",
+   "name": "Celebrate nursing",
+   "cat": "other",
+   "img": "celebrate-nursing.webp"
+  },
+  {
+   "id": "central-connecticut-state-university",
+   "name": "Central Connecticut State University",
+   "cat": "colleges",
+   "img": "central-connecticut-state-university.webp"
+  },
+  {
+   "id": "children-first-foundation",
+   "name": "Children First Foundation",
+   "cat": "charity",
+   "img": "children-first-foundation.webp"
+  },
+  {
+   "id": "city-of-meriden",
+   "name": "City of Meriden",
+   "cat": "other",
+   "img": "city-of-meriden.webp"
+  },
+  {
+   "id": "city-of-norwich",
+   "name": "City of Norwich",
+   "cat": "other",
+   "img": "city-of-norwich.webp"
+  },
+  {
+   "id": "classic",
+   "name": "Classic",
+   "cat": "vehicle",
+   "img": "classic.webp"
+  },
+  {
+   "id": "connecticut-greenways",
+   "name": "Connecticut greenways",
+   "cat": "other",
+   "img": "connecticut-greenways.webp"
+  },
+  {
+   "id": "connecticut-knights-of-columbus",
+   "name": "Connecticut Knights of Columbus",
+   "cat": "hobby",
+   "img": "connecticut-knights-of-columbus.webp"
+  },
+  {
+   "id": "conserve-wildlife-bobcat",
+   "name": "Conserve wildlife - Bobcat",
+   "cat": "nature",
+   "img": "conserve-wildlife-bobcat.webp"
+  },
+  {
+   "id": "conserve-wildlife-eagle",
+   "name": "Conserve wildlife - Eagle",
+   "cat": "nature",
+   "img": "conserve-wildlife-eagle.webp"
+  },
+  {
+   "id": "cure-kids-cancer",
+   "name": "Cure kids cancer",
+   "cat": "charity",
+   "img": "cure-kids-cancer.webp"
+  },
+  {
+   "id": "cure-prostate-cancer",
+   "name": "Cure prostate cancer",
+   "cat": "charity",
+   "img": "cure-prostate-cancer.webp"
+  },
+  {
+   "id": "disabled-american-veterans",
+   "name": "Disabled American Veterans",
+   "cat": "veterans",
+   "img": "disabled-american-veterans.webp"
+  },
+  {
+   "id": "ducks-unlimited",
+   "name": "Ducks unlimited",
+   "cat": "nature",
+   "img": "ducks-unlimited.webp"
+  },
+  {
+   "id": "federated-garden-clubs-of-connecticut",
+   "name": "Federated Garden Clubs of Connecticut",
+   "cat": "nature",
+   "img": "federated-garden-clubs-of-connecticut.webp"
+  },
+  {
+   "id": "ferrari-club-of-america",
+   "name": "Ferrari Club of America",
+   "cat": "charity",
+   "img": "ferrari-club-of-america.webp"
+  },
+  {
+   "id": "fidelco-guide-dog-foundation",
+   "name": "Fidelco Guide Dog Foundation",
+   "cat": "charity",
+   "img": "fidelco-guide-dog-foundation.webp"
+  },
+  {
+   "id": "firefighters-of-connecticut",
+   "name": "Firefighters of Connecticut",
+   "cat": "firstresponder",
+   "img": "firefighters-of-connecticut.webp"
+  },
+  {
+   "id": "first-company-governors-foot-guard",
+   "name": "First Company Governors Foot Guard",
+   "cat": "other",
+   "img": "first-company-governors-foot-guard.webp"
+  },
+  {
+   "id": "first-company-governors-horse-guard",
+   "name": "First Company Governors Horse Guard",
+   "cat": "hobby",
+   "img": "first-company-governors-horse-guard.webp"
+  },
+  {
+   "id": "flag-style-veteran-specific-wartimes-ava",
+   "name": "Flag-style veteran(specific wartimes available",
+   "cat": "veterans",
+   "img": "flag-style-veteran-specific-wartimes-ava.webp"
+  },
+  {
+   "id": "fraternal-order-of-police",
+   "name": "Fraternal Order of Police",
+   "cat": "firstresponder",
+   "img": "fraternal-order-of-police.webp"
+  },
+  {
+   "id": "gold-star-family",
+   "name": "Gold Star Family",
+   "cat": "veterans",
+   "img": "gold-star-family.webp"
+  },
+  {
+   "id": "grand-lodge-of-connecticut",
+   "name": "Grand Lodge of Connecticut",
+   "cat": "other",
+   "img": "grand-lodge-of-connecticut.webp"
+  },
+  {
+   "id": "greater-hartford-chapter-of-the-82nd-air",
+   "name": "Greater Hartford Chapter of the 82nd Airborne",
+   "cat": "military",
+   "img": "greater-hartford-chapter-of-the-82nd-air.webp"
+  },
+  {
+   "id": "hartford-whalers",
+   "name": "Hartford Whalers",
+   "cat": "nature",
+   "img": "hartford-whalers.webp"
+  },
+  {
+   "id": "iuoe-local-478",
+   "name": "IUOE Local 478",
+   "cat": "other",
+   "img": "iuoe-local-478.webp"
+  },
+  {
+   "id": "iwo-jima-survivor",
+   "name": "Iwo Jima survivor",
+   "cat": "veterans",
+   "img": "iwo-jima-survivor.webp"
+  },
+  {
+   "id": "keep-kids-safe",
+   "name": "Keep kids safe",
+   "cat": "charity",
+   "img": "keep-kids-safe.webp"
+  },
+  {
+   "id": "korean-war-veterans-association-inc",
+   "name": "Korean War Veterans Association Inc.",
+   "cat": "veterans",
+   "img": "korean-war-veterans-association-inc.webp"
+  },
+  {
+   "id": "laos-veterans-of-america",
+   "name": "Laos Veterans of America",
+   "cat": "veterans",
+   "img": "laos-veterans-of-america.webp"
+  },
+  {
+   "id": "lions-eye-research-foundation",
+   "name": "Lions Eye Research Foundation",
+   "cat": "sports",
+   "img": "lions-eye-research-foundation.webp"
+  },
+  {
+   "id": "long-island-sound",
+   "name": "Long Island Sound",
+   "cat": "nature",
+   "img": "long-island-sound.webp"
+  },
+  {
+   "id": "marine-corps-league",
+   "name": "Marine Corps League",
+   "cat": "military",
+   "img": "marine-corps-league.webp"
+  },
+  {
+   "id": "military-order-of-the-purple-heart",
+   "name": "Military Order of the Purple Heart",
+   "cat": "veterans",
+   "img": "military-order-of-the-purple-heart.webp"
+  },
+  {
+   "id": "national-guard-association-of-connecticu",
+   "name": "National Guard Association of Connecticut (active",
+   "cat": "military",
+   "img": "national-guard-association-of-connecticu.webp"
+  },
+  {
+   "id": "national-guard-association-of-connecticu-2",
+   "name": "National Guard Association of Connecticut (retired",
+   "cat": "military",
+   "img": "national-guard-association-of-connecticu-2.webp"
+  },
+  {
+   "id": "new-england-air-museum",
+   "name": "New England Air Museum",
+   "cat": "charity",
+   "img": "new-england-air-museum.webp"
+  },
+  {
+   "id": "olympic-spirit",
+   "name": "Olympic spirit",
+   "cat": "sports",
+   "img": "olympic-spirit.webp"
+  },
+  {
+   "id": "operation-lifesaver",
+   "name": "Operation Lifesaver",
+   "cat": "other",
+   "img": "operation-lifesaver.webp"
+  },
+  {
+   "id": "p-t-barnum-foundation-inc",
+   "name": "P.T. Barnum Foundation Inc.",
+   "cat": "charity",
+   "img": "p-t-barnum-foundation-inc.webp"
+  },
+  {
+   "id": "pearl-harbor-1941-survivors",
+   "name": "Pearl Harbor 1941 survivors",
+   "cat": "veterans",
+   "img": "pearl-harbor-1941-survivors.webp"
+  },
+  {
+   "id": "penn-state-alumni-association",
+   "name": "Penn State Alumni Association",
+   "cat": "colleges",
+   "img": "penn-state-alumni-association.webp"
+  },
+  {
+   "id": "police-commissioners-association-of-conn",
+   "name": "Police Commissioners Association of Connecticut",
+   "cat": "firstresponder",
+   "img": "police-commissioners-association-of-conn.webp"
+  },
+  {
+   "id": "police-memorial-in-the-line-of-duty",
+   "name": "Police memorial (in the line of duty",
+   "cat": "firstresponder",
+   "img": "police-memorial-in-the-line-of-duty.webp"
+  },
+  {
+   "id": "preservation-connecticut",
+   "name": "Preservation Connecticut",
+   "cat": "tribal",
+   "img": "preservation-connecticut.webp"
+  },
+  {
+   "id": "red-sox-foundation",
+   "name": "Red Sox Foundation",
+   "cat": "sports",
+   "img": "red-sox-foundation.webp"
+  },
+  {
+   "id": "save-our-lakes",
+   "name": "Save our lakes",
+   "cat": "nature",
+   "img": "save-our-lakes.webp"
+  },
+  {
+   "id": "second-company-governors-foot-guard",
+   "name": "Second Company Governors Foot Guard",
+   "cat": "other",
+   "img": "second-company-governors-foot-guard.webp"
+  },
+  {
+   "id": "special-olympics",
+   "name": "Special Olympics",
+   "cat": "sports",
+   "img": "special-olympics.webp"
+  },
+  {
+   "id": "support-our-troops",
+   "name": "Support Our Troops",
+   "cat": "charity",
+   "img": "support-our-troops.webp"
+  },
+  {
+   "id": "town-of-stafford",
+   "name": "Town of Stafford",
+   "cat": "other",
+   "img": "town-of-stafford.webp"
+  },
+  {
+   "id": "u-s-submarine-veterans",
+   "name": "U.S. Submarine Veterans",
+   "cat": "veterans",
+   "img": "u-s-submarine-veterans.webp"
+  },
+  {
+   "id": "uniformed-professional-firefighters-asso",
+   "name": "Uniformed Professional Firefighters Association of Connecticut",
+   "cat": "firstresponder",
+   "img": "uniformed-professional-firefighters-asso.webp"
+  },
+  {
+   "id": "united-we-stand",
+   "name": "United We Stand",
+   "cat": "other",
+   "img": "united-we-stand.webp"
+  },
+  {
+   "id": "university-of-connecticut",
+   "name": "University of Connecticut",
+   "cat": "colleges",
+   "img": "university-of-connecticut.webp"
+  },
+  {
+   "id": "university-of-hartford-alumni",
+   "name": "University of Hartford alumni",
+   "cat": "colleges",
+   "img": "university-of-hartford-alumni.webp"
+  },
+  {
+   "id": "university-of-new-haven",
+   "name": "University of New Haven",
+   "cat": "colleges",
+   "img": "university-of-new-haven.webp"
+  },
+  {
+   "id": "uss-connecticut-commissioning-committee",
+   "name": "USS Connecticut Commissioning Committee",
+   "cat": "other",
+   "img": "uss-connecticut-commissioning-committee.webp"
+  }
+ ]
+}

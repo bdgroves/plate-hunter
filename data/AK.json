@@ -1,0 +1,274 @@
+{
+ "code": "AK",
+ "name": "Alaska",
+ "rated": false,
+ "checked": false,
+ "updated": "2026-10-25",
+ "about": "Alaska special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "sources": [
+  {
+   "title": "Jon Keegan, us-license-plates (2023)",
+   "url": "https://github.com/jonkeegan/us-license-plates"
+  }
+ ],
+ "plates": [
+  {
+   "id": "air-force",
+   "name": "Air Force",
+   "cat": "military",
+   "img": "air-force.webp"
+  },
+  {
+   "id": "alaska-children-s-trust",
+   "name": "Alaska Children's Trust",
+   "cat": "charity",
+   "img": "alaska-children-s-trust.webp"
+  },
+  {
+   "id": "alaska-national-guard",
+   "name": "Alaska National Guard",
+   "cat": "military",
+   "img": "alaska-national-guard.webp"
+  },
+  {
+   "id": "amateur-radio-call-sign",
+   "name": "Amateur Radio (Call Sign",
+   "cat": "hobby",
+   "img": "amateur-radio-call-sign.webp"
+  },
+  {
+   "id": "army",
+   "name": "Army",
+   "cat": "military",
+   "img": "army.webp"
+  },
+  {
+   "id": "blood-bank-of-alaska",
+   "name": "Blood Bank of Alaska",
+   "cat": "other",
+   "img": "blood-bank-of-alaska.webp"
+  },
+  {
+   "id": "breast-cancer-awareness",
+   "name": "Breast Cancer Awareness",
+   "cat": "charity",
+   "img": "breast-cancer-awareness.webp"
+  },
+  {
+   "id": "caribou",
+   "name": "Caribou",
+   "cat": "other",
+   "img": "caribou.webp"
+  },
+  {
+   "id": "celebrating-the-arts",
+   "name": "Celebrating the Arts",
+   "cat": "hobby",
+   "img": "celebrating-the-arts.webp"
+  },
+  {
+   "id": "choose-life",
+   "name": "Choose Life",
+   "cat": "other",
+   "img": "choose-life.webp"
+  },
+  {
+   "id": "coast-guard",
+   "name": "Coast Guard",
+   "cat": "military",
+   "img": "coast-guard.webp"
+  },
+  {
+   "id": "custom-collector",
+   "name": "Custom Collector",
+   "cat": "vehicle",
+   "img": "custom-collector.webp"
+  },
+  {
+   "id": "disabled-veteran-w-parking-privileges",
+   "name": "Disabled Veteran w/ Parking Privileges",
+   "cat": "veterans",
+   "img": "disabled-veteran-w-parking-privileges.webp"
+  },
+  {
+   "id": "disabled-veteran-w-o-parking-privileges",
+   "name": "Disabled Veteran w/o Parking Privileges",
+   "cat": "veterans",
+   "img": "disabled-veteran-w-o-parking-privileges.webp"
+  },
+  {
+   "id": "disabled-w-parking-privileges",
+   "name": "Disabled w/ Parking Privileges",
+   "cat": "other",
+   "img": "disabled-w-parking-privileges.webp"
+  },
+  {
+   "id": "farm",
+   "name": "Farm",
+   "cat": "vehicle",
+   "img": "farm.webp"
+  },
+  {
+   "id": "firefighter-ems",
+   "name": "Firefighter/EMS",
+   "cat": "firstresponder",
+   "img": "firefighter-ems.webp"
+  },
+  {
+   "id": "former-prisoner-of-war",
+   "name": "Former Prisoner of War",
+   "cat": "veterans",
+   "img": "former-prisoner-of-war.webp"
+  },
+  {
+   "id": "freemason",
+   "name": "Freemason",
+   "cat": "hobby",
+   "img": "freemason.webp"
+  },
+  {
+   "id": "gold-star-family",
+   "name": "Gold Star Family",
+   "cat": "veterans",
+   "img": "gold-star-family.webp"
+  },
+  {
+   "id": "grizzly-bear",
+   "name": "Grizzly Bear",
+   "cat": "nature",
+   "img": "grizzly-bear.webp"
+  },
+  {
+   "id": "historic",
+   "name": "Historic",
+   "cat": "vehicle",
+   "img": "historic.webp"
+  },
+  {
+   "id": "iditarod-finisher",
+   "name": "Iditarod Finisher",
+   "cat": "other",
+   "img": "iditarod-finisher.webp"
+  },
+  {
+   "id": "in-god-we-trust",
+   "name": "In God We Trust",
+   "cat": "charity",
+   "img": "in-god-we-trust.webp"
+  },
+  {
+   "id": "international-association-of-fire-fighte",
+   "name": "International Association of Fire Fighters (IAFF",
+   "cat": "firstresponder",
+   "img": "international-association-of-fire-fighte.webp"
+  },
+  {
+   "id": "knights-of-columbus",
+   "name": "Knights of Columbus",
+   "cat": "hobby",
+   "img": "knights-of-columbus.webp"
+  },
+  {
+   "id": "laos-vet",
+   "name": "Laos Vet",
+   "cat": "other",
+   "img": "laos-vet.webp"
+  },
+  {
+   "id": "lions-club",
+   "name": "Lions Club",
+   "cat": "sports",
+   "img": "lions-club.webp"
+  },
+  {
+   "id": "marines",
+   "name": "Marines",
+   "cat": "military",
+   "img": "marines.webp"
+  },
+  {
+   "id": "mountain",
+   "name": "Mountain",
+   "cat": "nature",
+   "img": "mountain.webp"
+  },
+  {
+   "id": "national-rifle-association",
+   "name": "National Rifle Association",
+   "cat": "charity",
+   "img": "national-rifle-association.webp"
+  },
+  {
+   "id": "navy",
+   "name": "Navy",
+   "cat": "military",
+   "img": "navy.webp"
+  },
+  {
+   "id": "pearl-harbor-survivor",
+   "name": "Pearl Harbor Survivor",
+   "cat": "veterans",
+   "img": "pearl-harbor-survivor.webp"
+  },
+  {
+   "id": "pioneers-of-alaska",
+   "name": "Pioneers of Alaska",
+   "cat": "other",
+   "img": "pioneers-of-alaska.webp"
+  },
+  {
+   "id": "pro-family-pro-choice",
+   "name": "Pro-Family, Pro-Choice",
+   "cat": "other",
+   "img": "pro-family-pro-choice.webp"
+  },
+  {
+   "id": "purple-heart",
+   "name": "Purple Heart",
+   "cat": "veterans",
+   "img": "purple-heart.webp"
+  },
+  {
+   "id": "pws",
+   "name": "PWS",
+   "cat": "other",
+   "img": "pws.webp"
+  },
+  {
+   "id": "support-our-troops",
+   "name": "Support Our Troops",
+   "cat": "charity",
+   "img": "support-our-troops.webp"
+  },
+  {
+   "id": "supporting-the-arts",
+   "name": "Supporting the Arts",
+   "cat": "hobby",
+   "img": "supporting-the-arts.webp"
+  },
+  {
+   "id": "uaa",
+   "name": "UAA",
+   "cat": "other",
+   "img": "uaa.webp"
+  },
+  {
+   "id": "uaf",
+   "name": "UAF",
+   "cat": "other",
+   "img": "uaf.webp"
+  },
+  {
+   "id": "uas",
+   "name": "UAS",
+   "cat": "other",
+   "img": "uas.webp"
+  },
+  {
+   "id": "veterans-commemorative",
+   "name": "Veterans Commemorative",
+   "cat": "veterans",
+   "img": "veterans-commemorative.webp"
+  }
+ ]
+}

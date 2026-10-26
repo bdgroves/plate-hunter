@@ -1,0 +1,1330 @@
+{
+ "code": "FL",
+ "name": "Florida",
+ "rated": false,
+ "checked": false,
+ "updated": "2026-10-25",
+ "about": "Florida special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "sources": [
+  {
+   "title": "Jon Keegan, us-license-plates (2023)",
+   "url": "https://github.com/jonkeegan/us-license-plates"
+  }
+ ],
+ "plates": [
+  {
+   "id": "a-state-of-vision",
+   "name": "A State of Vision",
+   "cat": "other",
+   "img": "a-state-of-vision.webp"
+  },
+  {
+   "id": "advent-health-university",
+   "name": "Advent Health University",
+   "cat": "colleges",
+   "img": "advent-health-university.webp"
+  },
+  {
+   "id": "agricultural-education",
+   "name": "Agricultural Education",
+   "cat": "charity",
+   "img": "agricultural-education.webp"
+  },
+  {
+   "id": "agriculture",
+   "name": "Agriculture",
+   "cat": "charity",
+   "img": "agriculture.webp"
+  },
+  {
+   "id": "agriculture-consumer-services",
+   "name": "Agriculture Consumer Services",
+   "cat": "charity",
+   "img": "agriculture-consumer-services.webp"
+  },
+  {
+   "id": "air-force-combat-action-medal",
+   "name": "Air Force Combat Action Medal",
+   "cat": "veterans",
+   "img": "air-force-combat-action-medal.webp"
+  },
+  {
+   "id": "air-force-cross",
+   "name": "Air Force Cross",
+   "cat": "military",
+   "img": "air-force-cross.webp"
+  },
+  {
+   "id": "alpha-kappa-alpha",
+   "name": "Alpha Kappa Alpha",
+   "cat": "other",
+   "img": "alpha-kappa-alpha.webp"
+  },
+  {
+   "id": "alpha-phi-alpha",
+   "name": "Alpha Phi Alpha",
+   "cat": "other",
+   "img": "alpha-phi-alpha.webp"
+  },
+  {
+   "id": "amateur-radio",
+   "name": "Amateur Radio",
+   "cat": "hobby",
+   "img": "amateur-radio.webp"
+  },
+  {
+   "id": "america-the-beautiful",
+   "name": "America the Beautiful",
+   "cat": "other",
+   "img": "america-the-beautiful.webp"
+  },
+  {
+   "id": "american-legion",
+   "name": "American Legion",
+   "cat": "veterans",
+   "img": "american-legion.webp"
+  },
+  {
+   "id": "animal-friend",
+   "name": "Animal Friend",
+   "cat": "charity",
+   "img": "animal-friend.webp"
+  },
+  {
+   "id": "antique",
+   "name": "Antique",
+   "cat": "vehicle",
+   "img": "antique.webp"
+  },
+  {
+   "id": "apply-for-workforce-innovation",
+   "name": "Apply for Workforce Innovation",
+   "cat": "other",
+   "img": "apply-for-workforce-innovation.webp"
+  },
+  {
+   "id": "aquaculture",
+   "name": "Aquaculture",
+   "cat": "other",
+   "img": "aquaculture.webp"
+  },
+  {
+   "id": "army-of-occupation",
+   "name": "Army of Occupation",
+   "cat": "military",
+   "img": "army-of-occupation.webp"
+  },
+  {
+   "id": "authenticated-the-owner-provides-the-not",
+   "name": "Authenticated (The owner provides the, not the State.",
+   "cat": "other",
+   "img": "authenticated-the-owner-provides-the-not.webp"
+  },
+  {
+   "id": "ave-maria-university",
+   "name": "Ave Maria University",
+   "cat": "colleges",
+   "img": "ave-maria-university.webp"
+  },
+  {
+   "id": "barry-university",
+   "name": "Barry University",
+   "cat": "colleges",
+   "img": "barry-university.webp"
+  },
+  {
+   "id": "beacon-college",
+   "name": "Beacon College",
+   "cat": "colleges",
+   "img": "beacon-college.webp"
+  },
+  {
+   "id": "bethune-cookman-university",
+   "name": "Bethune-Cookman University",
+   "cat": "colleges",
+   "img": "bethune-cookman-university.webp"
+  },
+  {
+   "id": "big-brothers-big-sisters",
+   "name": "Big Brothers Big Sisters",
+   "cat": "other",
+   "img": "big-brothers-big-sisters.webp"
+  },
+  {
+   "id": "blue-angels",
+   "name": "Blue Angels",
+   "cat": "other",
+   "img": "blue-angels.webp"
+  },
+  {
+   "id": "bronze-star",
+   "name": "Bronze Star",
+   "cat": "veterans",
+   "img": "bronze-star.webp"
+  },
+  {
+   "id": "challenger-columbia",
+   "name": "Challenger - Columbia",
+   "cat": "other",
+   "img": "challenger-columbia.webp"
+  },
+  {
+   "id": "choose-life",
+   "name": "Choose Life",
+   "cat": "other",
+   "img": "choose-life.webp"
+  },
+  {
+   "id": "combat-action-badge",
+   "name": "Combat Action Badge",
+   "cat": "veterans",
+   "img": "combat-action-badge.webp"
+  },
+  {
+   "id": "combat-action-ribbon",
+   "name": "Combat Action Ribbon",
+   "cat": "veterans",
+   "img": "combat-action-ribbon.webp"
+  },
+  {
+   "id": "combat-infantry-badge",
+   "name": "Combat Infantry Badge",
+   "cat": "veterans",
+   "img": "combat-infantry-badge.webp"
+  },
+  {
+   "id": "combat-medical-badge",
+   "name": "Combat Medical Badge",
+   "cat": "veterans",
+   "img": "combat-medical-badge.webp"
+  },
+  {
+   "id": "conserve-florida-s-fisheries",
+   "name": "Conserve Florida's Fisheries",
+   "cat": "nature",
+   "img": "conserve-florida-s-fisheries.webp"
+  },
+  {
+   "id": "conserve-wildlife",
+   "name": "Conserve Wildlife",
+   "cat": "nature",
+   "img": "conserve-wildlife.webp"
+  },
+  {
+   "id": "custom",
+   "name": "Custom",
+   "cat": "vehicle",
+   "img": "custom.webp"
+  },
+  {
+   "id": "delta-sigma-theta",
+   "name": "Delta Sigma Theta",
+   "cat": "other",
+   "img": "delta-sigma-theta.webp"
+  },
+  {
+   "id": "department-of-corrections",
+   "name": "Department of Corrections",
+   "cat": "firstresponder",
+   "img": "department-of-corrections.webp"
+  },
+  {
+   "id": "department-of-environmental-protection",
+   "name": "Department of Environmental Protection",
+   "cat": "nature",
+   "img": "department-of-environmental-protection.webp"
+  },
+  {
+   "id": "department-of-transportation",
+   "name": "Department of Transportation",
+   "cat": "other",
+   "img": "department-of-transportation.webp"
+  },
+  {
+   "id": "disabled-veteran",
+   "name": "Disabled Veteran",
+   "cat": "veterans",
+   "img": "disabled-veteran.webp"
+  },
+  {
+   "id": "disabled-veteran-wheelchair",
+   "name": "Disabled Veteran - Wheelchair",
+   "cat": "veterans",
+   "img": "disabled-veteran-wheelchair.webp"
+  },
+  {
+   "id": "discover-florida-s-horses",
+   "name": "Discover Florida’s Horses",
+   "cat": "hobby",
+   "img": "discover-florida-s-horses.webp"
+  },
+  {
+   "id": "discover-florida-s-oceans",
+   "name": "Discover Florida’s Oceans",
+   "cat": "nature",
+   "img": "discover-florida-s-oceans.webp"
+  },
+  {
+   "id": "distinguished-flying-cross",
+   "name": "Distinguished Flying Cross",
+   "cat": "veterans",
+   "img": "distinguished-flying-cross.webp"
+  },
+  {
+   "id": "distinguished-service-cross",
+   "name": "Distinguished Service Cross",
+   "cat": "veterans",
+   "img": "distinguished-service-cross.webp"
+  },
+  {
+   "id": "division-of-driver-licenses",
+   "name": "Division of Driver Licenses",
+   "cat": "nature",
+   "img": "division-of-driver-licenses.webp"
+  },
+  {
+   "id": "division-of-motor-vehicles",
+   "name": "Division of Motor Vehicles",
+   "cat": "other",
+   "img": "division-of-motor-vehicles.webp"
+  },
+  {
+   "id": "ducks-unlimited",
+   "name": "Ducks Unlimited",
+   "cat": "nature",
+   "img": "ducks-unlimited.webp"
+  },
+  {
+   "id": "eckerd-college",
+   "name": "Eckerd College",
+   "cat": "colleges",
+   "img": "eckerd-college.webp"
+  },
+  {
+   "id": "edward-waters-university",
+   "name": "Edward Waters University",
+   "cat": "colleges",
+   "img": "edward-waters-university.webp"
+  },
+  {
+   "id": "embry-riddle-aeronautical-university",
+   "name": "Embry-Riddle Aeronautical University",
+   "cat": "colleges",
+   "img": "embry-riddle-aeronautical-university.webp"
+  },
+  {
+   "id": "emergency-management-personnel",
+   "name": "Emergency Management Personnel",
+   "cat": "firstresponder",
+   "img": "emergency-management-personnel.webp"
+  },
+  {
+   "id": "emergency-medical-services",
+   "name": "Emergency Medical Services",
+   "cat": "firstresponder",
+   "img": "emergency-medical-services.webp"
+  },
+  {
+   "id": "end-breast-cancer",
+   "name": "End Breast Cancer",
+   "cat": "charity",
+   "img": "end-breast-cancer.webp"
+  },
+  {
+   "id": "endless-summer",
+   "name": "Endless Summer",
+   "cat": "other",
+   "img": "endless-summer.webp"
+  },
+  {
+   "id": "everglades-river-of-grass",
+   "name": "Everglades River of Grass",
+   "cat": "nature",
+   "img": "everglades-river-of-grass.webp"
+  },
+  {
+   "id": "everglades-university",
+   "name": "Everglades University",
+   "cat": "colleges",
+   "img": "everglades-university.webp"
+  },
+  {
+   "id": "ex-prisoner-of-war",
+   "name": "Ex-Prisoner of War",
+   "cat": "veterans",
+   "img": "ex-prisoner-of-war.webp"
+  },
+  {
+   "id": "explore-off-road",
+   "name": "Explore Off Road",
+   "cat": "other",
+   "img": "explore-off-road.webp"
+  },
+  {
+   "id": "explore-our-state-parks",
+   "name": "Explore Our State Parks",
+   "cat": "nature",
+   "img": "explore-our-state-parks.webp"
+  },
+  {
+   "id": "fallen-law-enforcement-oficers",
+   "name": "Fallen Law Enforcement Oficers",
+   "cat": "firstresponder",
+   "img": "fallen-law-enforcement-oficers.webp"
+  },
+  {
+   "id": "family-first",
+   "name": "Family First",
+   "cat": "other",
+   "img": "family-first.webp"
+  },
+  {
+   "id": "family-values",
+   "name": "Family Values",
+   "cat": "other",
+   "img": "family-values.webp"
+  },
+  {
+   "id": "fire",
+   "name": "Fire",
+   "cat": "firstresponder",
+   "img": "fire.webp"
+  },
+  {
+   "id": "fish-wildlife-commission",
+   "name": "Fish - Wildlife Commission",
+   "cat": "nature",
+   "img": "fish-wildlife-commission.webp"
+  },
+  {
+   "id": "fish-florida",
+   "name": "Fish Florida",
+   "cat": "nature",
+   "img": "fish-florida.webp"
+  },
+  {
+   "id": "flagler-college",
+   "name": "Flagler College",
+   "cat": "colleges",
+   "img": "flagler-college.webp"
+  },
+  {
+   "id": "florida-a-m-university",
+   "name": "Florida A&M University",
+   "cat": "colleges",
+   "img": "florida-a-m-university.webp"
+  },
+  {
+   "id": "florida-atlantic-university",
+   "name": "Florida Atlantic University",
+   "cat": "colleges",
+   "img": "florida-atlantic-university.webp"
+  },
+  {
+   "id": "florida-college",
+   "name": "Florida College",
+   "cat": "colleges",
+   "img": "florida-college.webp"
+  },
+  {
+   "id": "florida-department-of-law-enforcement",
+   "name": "Florida Department of Law Enforcement",
+   "cat": "firstresponder",
+   "img": "florida-department-of-law-enforcement.webp"
+  },
+  {
+   "id": "florida-department-of-veterans-afairs",
+   "name": "Florida Department of Veterans Afairs",
+   "cat": "veterans",
+   "img": "florida-department-of-veterans-afairs.webp"
+  },
+  {
+   "id": "florida-gulf-coast-university",
+   "name": "Florida Gulf Coast University",
+   "cat": "colleges",
+   "img": "florida-gulf-coast-university.webp"
+  },
+  {
+   "id": "florida-highway-patrol",
+   "name": "Florida Highway Patrol",
+   "cat": "other",
+   "img": "florida-highway-patrol.webp"
+  },
+  {
+   "id": "florida-institute-of-technology",
+   "name": "Florida Institute of Technology",
+   "cat": "colleges",
+   "img": "florida-institute-of-technology.webp"
+  },
+  {
+   "id": "florida-international-university",
+   "name": "Florida International University",
+   "cat": "colleges",
+   "img": "florida-international-university.webp"
+  },
+  {
+   "id": "florida-memorial-university",
+   "name": "Florida Memorial University",
+   "cat": "colleges",
+   "img": "florida-memorial-university.webp"
+  },
+  {
+   "id": "florida-national-guard",
+   "name": "Florida National Guard",
+   "cat": "military",
+   "img": "florida-national-guard.webp"
+  },
+  {
+   "id": "florida-panthers",
+   "name": "Florida Panthers",
+   "cat": "sports",
+   "img": "florida-panthers.webp"
+  },
+  {
+   "id": "florida-sherifs-association",
+   "name": "Florida Sherifs Association",
+   "cat": "charity",
+   "img": "florida-sherifs-association.webp"
+  },
+  {
+   "id": "florida-sherifs-youth-ranches",
+   "name": "Florida Sherifs Youth Ranches",
+   "cat": "other",
+   "img": "florida-sherifs-youth-ranches.webp"
+  },
+  {
+   "id": "florida-southern-college",
+   "name": "Florida Southern College",
+   "cat": "colleges",
+   "img": "florida-southern-college.webp"
+  },
+  {
+   "id": "florida-state-university",
+   "name": "Florida State University",
+   "cat": "colleges",
+   "img": "florida-state-university.webp"
+  },
+  {
+   "id": "foreign-organization",
+   "name": "Foreign Organization",
+   "cat": "other",
+   "img": "foreign-organization.webp"
+  },
+  {
+   "id": "former-military",
+   "name": "Former Military",
+   "cat": "military",
+   "img": "former-military.webp"
+  },
+  {
+   "id": "fraternal-order-of-police",
+   "name": "Fraternal Order of Police",
+   "cat": "firstresponder",
+   "img": "fraternal-order-of-police.webp"
+  },
+  {
+   "id": "freemasonry",
+   "name": "Freemasonry",
+   "cat": "hobby",
+   "img": "freemasonry.webp"
+  },
+  {
+   "id": "fwc-oficer",
+   "name": "FWC Oficer",
+   "cat": "other",
+   "img": "fwc-oficer.webp"
+  },
+  {
+   "id": "gadsden-flag-dtom",
+   "name": "Gadsden Flag (DTOM",
+   "cat": "other",
+   "img": "gadsden-flag-dtom.webp"
+  },
+  {
+   "id": "go-fishing-largemouth-bass",
+   "name": "Go Fishing (Largemouth Bass",
+   "cat": "nature",
+   "img": "go-fishing-largemouth-bass.webp"
+  },
+  {
+   "id": "gold-star-family",
+   "name": "Gold Star Family",
+   "cat": "veterans",
+   "img": "gold-star-family.webp"
+  },
+  {
+   "id": "golf-capital-of-the-world",
+   "name": "Golf Capital of the World",
+   "cat": "sports",
+   "img": "golf-capital-of-the-world.webp"
+  },
+  {
+   "id": "gov-college",
+   "name": "Gov. College",
+   "cat": "colleges",
+   "img": "gov-college.webp"
+  },
+  {
+   "id": "heavydual",
+   "name": "HeavyDual",
+   "cat": "other",
+   "img": "heavydual.webp"
+  },
+  {
+   "id": "helping-sea-turtles-survive",
+   "name": "Helping Sea Turtles Survive",
+   "cat": "nature",
+   "img": "helping-sea-turtles-survive.webp"
+  },
+  {
+   "id": "historical-horseless-carriage",
+   "name": "Historical - Horseless Carriage",
+   "cat": "vehicle",
+   "img": "historical-horseless-carriage.webp"
+  },
+  {
+   "id": "historical-street-rod",
+   "name": "Historical - Street Rod",
+   "cat": "vehicle",
+   "img": "historical-street-rod.webp"
+  },
+  {
+   "id": "hodges-university",
+   "name": "Hodges University",
+   "cat": "colleges",
+   "img": "hodges-university.webp"
+  },
+  {
+   "id": "horse-country",
+   "name": "Horse Country",
+   "cat": "hobby",
+   "img": "horse-country.webp"
+  },
+  {
+   "id": "horseless-carriage",
+   "name": "Horseless Carriage",
+   "cat": "vehicle",
+   "img": "horseless-carriage.webp"
+  },
+  {
+   "id": "hospice-every-day-is-a-gift",
+   "name": "HOSPICE: Every Day Is A Gift",
+   "cat": "other",
+   "img": "hospice-every-day-is-a-gift.webp"
+  },
+  {
+   "id": "house-speaker",
+   "name": "House Speaker*",
+   "cat": "other",
+   "img": "house-speaker.webp"
+  },
+  {
+   "id": "imagine",
+   "name": "Imagine",
+   "cat": "other",
+   "img": "imagine.webp"
+  },
+  {
+   "id": "in-god-we-trust",
+   "name": "In God We Trust",
+   "cat": "charity",
+   "img": "in-god-we-trust.webp"
+  },
+  {
+   "id": "indian-river-lagoon",
+   "name": "Indian River Lagoon",
+   "cat": "nature",
+   "img": "indian-river-lagoon.webp"
+  },
+  {
+   "id": "invest-in-children",
+   "name": "Invest in Children",
+   "cat": "charity",
+   "img": "invest-in-children.webp"
+  },
+  {
+   "id": "iota-phi-theta",
+   "name": "Iota Phi Theta",
+   "cat": "other",
+   "img": "iota-phi-theta.webp"
+  },
+  {
+   "id": "jacksonville-jaguars-nfl",
+   "name": "Jacksonville Jaguars (NFL",
+   "cat": "sports",
+   "img": "jacksonville-jaguars-nfl.webp"
+  },
+  {
+   "id": "jacksonville-university",
+   "name": "Jacksonville University",
+   "cat": "colleges",
+   "img": "jacksonville-university.webp"
+  },
+  {
+   "id": "kappa-alpha-psi",
+   "name": "Kappa Alpha Psi",
+   "cat": "other",
+   "img": "kappa-alpha-psi.webp"
+  },
+  {
+   "id": "keep-kids-drug-free",
+   "name": "Keep Kids Drug Free",
+   "cat": "charity",
+   "img": "keep-kids-drug-free.webp"
+  },
+  {
+   "id": "keiser-university",
+   "name": "Keiser University",
+   "cat": "colleges",
+   "img": "keiser-university.webp"
+  },
+  {
+   "id": "korean-war-veteran",
+   "name": "Korean War Veteran",
+   "cat": "veterans",
+   "img": "korean-war-veteran.webp"
+  },
+  {
+   "id": "labor-employment-security",
+   "name": "Labor - Employment Security",
+   "cat": "other",
+   "img": "labor-employment-security.webp"
+  },
+  {
+   "id": "lauren-s-kids",
+   "name": "Lauren's Kids",
+   "cat": "charity",
+   "img": "lauren-s-kids.webp"
+  },
+  {
+   "id": "live-the-dream",
+   "name": "Live the Dream",
+   "cat": "other",
+   "img": "live-the-dream.webp"
+  },
+  {
+   "id": "lynn-university",
+   "name": "Lynn University",
+   "cat": "colleges",
+   "img": "lynn-university.webp"
+  },
+  {
+   "id": "medal-of-honor-air-force",
+   "name": "Medal of Honor (Air Force",
+   "cat": "veterans",
+   "img": "medal-of-honor-air-force.webp"
+  },
+  {
+   "id": "medal-of-honor-army",
+   "name": "Medal of Honor (Army",
+   "cat": "veterans",
+   "img": "medal-of-honor-army.webp"
+  },
+  {
+   "id": "medal-of-honor-navy",
+   "name": "Medal of Honor (Navy",
+   "cat": "veterans",
+   "img": "medal-of-honor-navy.webp"
+  },
+  {
+   "id": "miami-dolphins-nfl",
+   "name": "Miami Dolphins (NFL",
+   "cat": "sports",
+   "img": "miami-dolphins-nfl.webp"
+  },
+  {
+   "id": "miami-heat-nba",
+   "name": "Miami Heat (NBA",
+   "cat": "sports",
+   "img": "miami-heat-nba.webp"
+  },
+  {
+   "id": "miami-marlins-mlb",
+   "name": "Miami Marlins (MLB",
+   "cat": "sports",
+   "img": "miami-marlins-mlb.webp"
+  },
+  {
+   "id": "miccosukee-indian",
+   "name": "Miccosukee Indian",
+   "cat": "other",
+   "img": "miccosukee-indian.webp"
+  },
+  {
+   "id": "mofitt-cancer-center",
+   "name": "Mofitt Cancer Center",
+   "cat": "charity",
+   "img": "mofitt-cancer-center.webp"
+  },
+  {
+   "id": "nascar",
+   "name": "NASCAR",
+   "cat": "sports",
+   "img": "nascar.webp"
+  },
+  {
+   "id": "national-guard",
+   "name": "National Guard",
+   "cat": "military",
+   "img": "national-guard.webp"
+  },
+  {
+   "id": "navy-cross",
+   "name": "Navy Cross",
+   "cat": "veterans",
+   "img": "navy-cross.webp"
+  },
+  {
+   "id": "navy-submariner",
+   "name": "Navy Submariner",
+   "cat": "military",
+   "img": "navy-submariner.webp"
+  },
+  {
+   "id": "north-broward-hospital-district",
+   "name": "North Broward Hospital District",
+   "cat": "charity",
+   "img": "north-broward-hospital-district.webp"
+  },
+  {
+   "id": "nova-southeastern-university",
+   "name": "Nova Southeastern University",
+   "cat": "colleges",
+   "img": "nova-southeastern-university.webp"
+  },
+  {
+   "id": "omega-psi-phi",
+   "name": "Omega Psi Phi",
+   "cat": "other",
+   "img": "omega-psi-phi.webp"
+  },
+  {
+   "id": "operation-desert-shield",
+   "name": "Operation Desert Shield",
+   "cat": "nature",
+   "img": "operation-desert-shield.webp"
+  },
+  {
+   "id": "operation-desert-storm",
+   "name": "Operation Desert Storm",
+   "cat": "veterans",
+   "img": "operation-desert-storm.webp"
+  },
+  {
+   "id": "operation-enduring-freedom",
+   "name": "Operation Enduring Freedom",
+   "cat": "other",
+   "img": "operation-enduring-freedom.webp"
+  },
+  {
+   "id": "operation-iraqi-freedom",
+   "name": "Operation Iraqi Freedom",
+   "cat": "veterans",
+   "img": "operation-iraqi-freedom.webp"
+  },
+  {
+   "id": "orlando-city-soccer",
+   "name": "Orlando City Soccer",
+   "cat": "sports",
+   "img": "orlando-city-soccer.webp"
+  },
+  {
+   "id": "orlando-magic-nba",
+   "name": "Orlando Magic (NBA",
+   "cat": "sports",
+   "img": "orlando-magic-nba.webp"
+  },
+  {
+   "id": "palm-beach-atlantic-university",
+   "name": "Palm Beach Atlantic University",
+   "cat": "colleges",
+   "img": "palm-beach-atlantic-university.webp"
+  },
+  {
+   "id": "paralyzed-veterans-of-america",
+   "name": "Paralyzed Veterans of America",
+   "cat": "veterans",
+   "img": "paralyzed-veterans-of-america.webp"
+  },
+  {
+   "id": "pearl-harbor-survivor",
+   "name": "Pearl Harbor Survivor",
+   "cat": "veterans",
+   "img": "pearl-harbor-survivor.webp"
+  },
+  {
+   "id": "phi-beta-sigma",
+   "name": "Phi Beta Sigma",
+   "cat": "other",
+   "img": "phi-beta-sigma.webp"
+  },
+  {
+   "id": "play-tennis",
+   "name": "Play Tennis",
+   "cat": "sports",
+   "img": "play-tennis.webp"
+  },
+  {
+   "id": "police",
+   "name": "Police",
+   "cat": "firstresponder",
+   "img": "police.webp"
+  },
+  {
+   "id": "police-athletic-league",
+   "name": "Police Athletic League",
+   "cat": "firstresponder",
+   "img": "police-athletic-league.webp"
+  },
+  {
+   "id": "press",
+   "name": "Press",
+   "cat": "hobby",
+   "img": "press.webp"
+  },
+  {
+   "id": "protect-florida-springs",
+   "name": "Protect Florida Springs",
+   "cat": "other",
+   "img": "protect-florida-springs.webp"
+  },
+  {
+   "id": "protect-florida-whales",
+   "name": "Protect Florida Whales",
+   "cat": "nature",
+   "img": "protect-florida-whales.webp"
+  },
+  {
+   "id": "protect-marine-wildlife",
+   "name": "Protect Marine Wildlife",
+   "cat": "military",
+   "img": "protect-marine-wildlife.webp"
+  },
+  {
+   "id": "protect-our-oceans",
+   "name": "Protect Our Oceans",
+   "cat": "nature",
+   "img": "protect-our-oceans.webp"
+  },
+  {
+   "id": "protect-our-reefs",
+   "name": "Protect Our Reefs",
+   "cat": "nature",
+   "img": "protect-our-reefs.webp"
+  },
+  {
+   "id": "protect-the-panther",
+   "name": "Protect the Panther",
+   "cat": "nature",
+   "img": "protect-the-panther.webp"
+  },
+  {
+   "id": "protect-wild-dolphins",
+   "name": "Protect Wild Dolphins",
+   "cat": "sports",
+   "img": "protect-wild-dolphins.webp"
+  },
+  {
+   "id": "public-service-commission",
+   "name": "Public Service Commission",
+   "cat": "other",
+   "img": "public-service-commission.webp"
+  },
+  {
+   "id": "purple-heart",
+   "name": "Purple Heart",
+   "cat": "veterans",
+   "img": "purple-heart.webp"
+  },
+  {
+   "id": "restricted",
+   "name": "Restricted",
+   "cat": "other",
+   "img": "restricted.webp"
+  },
+  {
+   "id": "retired-house",
+   "name": "Retired House*",
+   "cat": "other",
+   "img": "retired-house.webp"
+  },
+  {
+   "id": "ringling-college-of-art-and-design",
+   "name": "Ringling College of Art and Design",
+   "cat": "colleges",
+   "img": "ringling-college-of-art-and-design.webp"
+  },
+  {
+   "id": "rollins-college",
+   "name": "Rollins College",
+   "cat": "colleges",
+   "img": "rollins-college.webp"
+  },
+  {
+   "id": "saint-leo-university",
+   "name": "Saint Leo University",
+   "cat": "colleges",
+   "img": "saint-leo-university.webp"
+  },
+  {
+   "id": "saint-thomas-university",
+   "name": "Saint Thomas University",
+   "cat": "colleges",
+   "img": "saint-thomas-university.webp"
+  },
+  {
+   "id": "salutes-firefighters",
+   "name": "Salutes Firefighters",
+   "cat": "firstresponder",
+   "img": "salutes-firefighters.webp"
+  },
+  {
+   "id": "salutes-veterans",
+   "name": "Salutes Veterans",
+   "cat": "veterans",
+   "img": "salutes-veterans.webp"
+  },
+  {
+   "id": "save-our-seas",
+   "name": "Save Our Seas",
+   "cat": "other",
+   "img": "save-our-seas.webp"
+  },
+  {
+   "id": "save-the-manatee",
+   "name": "Save the Manatee",
+   "cat": "nature",
+   "img": "save-the-manatee.webp"
+  },
+  {
+   "id": "save-wild-florida",
+   "name": "Save Wild Florida",
+   "cat": "sports",
+   "img": "save-wild-florida.webp"
+  },
+  {
+   "id": "scouting-teaches-values-boy-scouts-of-am",
+   "name": "Scouting Teaches Values (Boy Scouts of America",
+   "cat": "charity",
+   "img": "scouting-teaches-values-boy-scouts-of-am.webp"
+  },
+  {
+   "id": "seminole-indian",
+   "name": "Seminole Indian",
+   "cat": "other",
+   "img": "seminole-indian.webp"
+  },
+  {
+   "id": "share-the-road",
+   "name": "Share the Road",
+   "cat": "hobby",
+   "img": "share-the-road.webp"
+  },
+  {
+   "id": "sheriff",
+   "name": "Sheriff",
+   "cat": "firstresponder",
+   "img": "sheriff.webp"
+  },
+  {
+   "id": "sigma-gamma-rho",
+   "name": "Sigma Gamma Rho",
+   "cat": "other",
+   "img": "sigma-gamma-rho.webp"
+  },
+  {
+   "id": "silver-star",
+   "name": "Silver Star",
+   "cat": "veterans",
+   "img": "silver-star.webp"
+  },
+  {
+   "id": "southeastern-university",
+   "name": "Southeastern University",
+   "cat": "colleges",
+   "img": "southeastern-university.webp"
+  },
+  {
+   "id": "state-fire-marshall",
+   "name": "State Fire Marshall",
+   "cat": "firstresponder",
+   "img": "state-fire-marshall.webp"
+  },
+  {
+   "id": "state-of-the-arts",
+   "name": "State of the Arts",
+   "cat": "hobby",
+   "img": "state-of-the-arts.webp"
+  },
+  {
+   "id": "state-wildflower",
+   "name": "State Wildflower",
+   "cat": "nature",
+   "img": "state-wildflower.webp"
+  },
+  {
+   "id": "stetson-university",
+   "name": "Stetson University",
+   "cat": "colleges",
+   "img": "stetson-university.webp"
+  },
+  {
+   "id": "stop-child-abuse",
+   "name": "Stop Child Abuse",
+   "cat": "charity",
+   "img": "stop-child-abuse.webp"
+  },
+  {
+   "id": "stop-heart-disease",
+   "name": "Stop Heart Disease",
+   "cat": "hobby",
+   "img": "stop-heart-disease.webp"
+  },
+  {
+   "id": "support-education",
+   "name": "Support Education",
+   "cat": "charity",
+   "img": "support-education.webp"
+  },
+  {
+   "id": "support-autism-programs",
+   "name": "Support Autism Programs",
+   "cat": "sports",
+   "img": "support-autism-programs.webp"
+  },
+  {
+   "id": "support-florida-special-olympics",
+   "name": "Support Florida Special Olympics",
+   "cat": "sports",
+   "img": "support-florida-special-olympics.webp"
+  },
+  {
+   "id": "support-homeownership-for-all",
+   "name": "Support Homeownership For All",
+   "cat": "charity",
+   "img": "support-homeownership-for-all.webp"
+  },
+  {
+   "id": "support-law-enforcement",
+   "name": "Support Law Enforcement",
+   "cat": "firstresponder",
+   "img": "support-law-enforcement.webp"
+  },
+  {
+   "id": "support-our-troops",
+   "name": "Support Our Troops",
+   "cat": "charity",
+   "img": "support-our-troops.webp"
+  },
+  {
+   "id": "tampa-bay-buccaneers-nfl",
+   "name": "Tampa Bay Buccaneers (NFL",
+   "cat": "sports",
+   "img": "tampa-bay-buccaneers-nfl.webp"
+  },
+  {
+   "id": "tampa-bay-estuary",
+   "name": "Tampa Bay Estuary",
+   "cat": "nature",
+   "img": "tampa-bay-estuary.webp"
+  },
+  {
+   "id": "tampa-bay-lightning-nhl",
+   "name": "Tampa Bay Lightning (NHL",
+   "cat": "sports",
+   "img": "tampa-bay-lightning-nhl.webp"
+  },
+  {
+   "id": "tampa-bay-rays",
+   "name": "Tampa Bay Rays",
+   "cat": "nature",
+   "img": "tampa-bay-rays.webp"
+  },
+  {
+   "id": "trees-are-cool",
+   "name": "Trees are Cool",
+   "cat": "nature",
+   "img": "trees-are-cool.webp"
+  },
+  {
+   "id": "u-s-air-force",
+   "name": "U.S. Air Force",
+   "cat": "military",
+   "img": "u-s-air-force.webp"
+  },
+  {
+   "id": "u-s-army",
+   "name": "U.S. Army",
+   "cat": "military",
+   "img": "u-s-army.webp"
+  },
+  {
+   "id": "u-s-coast-guard",
+   "name": "U.S. Coast Guard",
+   "cat": "military",
+   "img": "u-s-coast-guard.webp"
+  },
+  {
+   "id": "u-s-marine-corps",
+   "name": "U.S. Marine Corps",
+   "cat": "military",
+   "img": "u-s-marine-corps.webp"
+  },
+  {
+   "id": "u-s-navy",
+   "name": "U.S. Navy",
+   "cat": "military",
+   "img": "u-s-navy.webp"
+  },
+  {
+   "id": "u-s-olympic-spirit",
+   "name": "U.S. Olympic Spirit",
+   "cat": "sports",
+   "img": "u-s-olympic-spirit.webp"
+  },
+  {
+   "id": "u-s-paratrooper",
+   "name": "U.S. Paratrooper",
+   "cat": "firstresponder",
+   "img": "u-s-paratrooper.webp"
+  },
+  {
+   "id": "u-s-reserve",
+   "name": "U.S. Reserve",
+   "cat": "military",
+   "img": "u-s-reserve.webp"
+  },
+  {
+   "id": "united-we-stand",
+   "name": "United We Stand",
+   "cat": "other",
+   "img": "united-we-stand.webp"
+  },
+  {
+   "id": "university-of-central-florida",
+   "name": "University of Central Florida",
+   "cat": "colleges",
+   "img": "university-of-central-florida.webp"
+  },
+  {
+   "id": "university-of-florida",
+   "name": "University of Florida",
+   "cat": "colleges",
+   "img": "university-of-florida.webp"
+  },
+  {
+   "id": "university-of-georgia",
+   "name": "University of Georgia",
+   "cat": "colleges",
+   "img": "university-of-georgia.webp"
+  },
+  {
+   "id": "university-of-miami",
+   "name": "University of Miami",
+   "cat": "colleges",
+   "img": "university-of-miami.webp"
+  },
+  {
+   "id": "university-of-north-florida",
+   "name": "University of North Florida",
+   "cat": "colleges",
+   "img": "university-of-north-florida.webp"
+  },
+  {
+   "id": "university-of-south-florida",
+   "name": "University of South Florida",
+   "cat": "colleges",
+   "img": "university-of-south-florida.webp"
+  },
+  {
+   "id": "university-of-tampa",
+   "name": "University of Tampa",
+   "cat": "colleges",
+   "img": "university-of-tampa.webp"
+  },
+  {
+   "id": "university-of-west-florida",
+   "name": "University of West Florida",
+   "cat": "colleges",
+   "img": "university-of-west-florida.webp"
+  },
+  {
+   "id": "vet-disabled",
+   "name": "Vet disabled",
+   "cat": "other",
+   "img": "vet-disabled.webp"
+  },
+  {
+   "id": "veteran-of-u-s-armed-forces",
+   "name": "Veteran of U.S. Armed Forces",
+   "cat": "veterans",
+   "img": "veteran-of-u-s-armed-forces.webp"
+  },
+  {
+   "id": "vietnam-war-veteran",
+   "name": "Vietnam War Veteran",
+   "cat": "veterans",
+   "img": "vietnam-war-veteran.webp"
+  },
+  {
+   "id": "visit-our-lights",
+   "name": "Visit Our Lights",
+   "cat": "other",
+   "img": "visit-our-lights.webp"
+  },
+  {
+   "id": "volunteer-fire-department",
+   "name": "Volunteer Fire Department",
+   "cat": "firstresponder",
+   "img": "volunteer-fire-department.webp"
+  },
+  {
+   "id": "walt-disney-world",
+   "name": "Walt Disney World",
+   "cat": "other",
+   "img": "walt-disney-world.webp"
+  },
+  {
+   "id": "warner-college",
+   "name": "Warner College",
+   "cat": "colleges",
+   "img": "warner-college.webp"
+  },
+  {
+   "id": "water-managment-district",
+   "name": "Water Managment District",
+   "cat": "other",
+   "img": "water-managment-district.webp"
+  },
+  {
+   "id": "webber-international-university",
+   "name": "Webber International University",
+   "cat": "colleges",
+   "img": "webber-international-university.webp"
+  },
+  {
+   "id": "wildlife-foundation-of-florida",
+   "name": "Wildlife Foundation of Florida",
+   "cat": "nature",
+   "img": "wildlife-foundation-of-florida.webp"
+  },
+  {
+   "id": "woman-veteran",
+   "name": "Woman Veteran",
+   "cat": "veterans",
+   "img": "woman-veteran.webp"
+  },
+  {
+   "id": "world-war-ii-veteran",
+   "name": "World War II Veteran",
+   "cat": "veterans",
+   "img": "world-war-ii-veteran.webp"
+  },
+  {
+   "id": "zeta-phi-beta",
+   "name": "Zeta Phi Beta",
+   "cat": "other",
+   "img": "zeta-phi-beta.webp"
+  }
+ ]
+}

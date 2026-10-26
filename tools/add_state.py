@@ -81,6 +81,7 @@ def main() -> int:
     ap.add_argument("--keegan", type=Path, help="local clone of github.com/jonkeegan/us-license-plates")
     ap.add_argument("--min-counted", type=float, default=0.6,
                     help="share of plates that need a vehicle count before the state is rated")
+    ap.add_argument("--no-index", action="store_true", help="don't touch data/collections.json (run tools/index.py after)")
     a = ap.parse_args()
     code = a.code.upper()
     rows = [r for r in json.loads(Path(a.research).read_text()) if r.get("status") != "discontinued"
@@ -104,7 +105,7 @@ def main() -> int:
             im = im.convert("RGBA") if im.mode in ("P", "LA", "RGBA") else im.convert("RGB")
             if im.width > 480:
                 im = im.resize((480, round(im.height * 480 / im.width)), Image.LANCZOS)
-            im.save(out_dir / f"{pid}.webp", "WEBP", quality=82, method=6)
+            im.save(out_dir / f"{pid}.webp", "WEBP", quality=80, method=4)
             p["img"] = f"{pid}.webp"
         elif trusted(r.get("source_img")):
             p["img_url"] = r["source_img"]   # fetch_pictures.py downloads it on GitHub's runners
@@ -131,13 +132,18 @@ def main() -> int:
             p["rar"], p["pts"], p["rar_by_hand"] = keep["rar"], keep["pts"], True
         plates.append(p)
 
-    doc = {"code": code, "name": NAMES[code], "rated": rated,
+    unchecked = bool(rows) and all(r.get("status") == "keegan-2023" for r in rows)
+    doc = {"code": code, "name": NAMES[code], "rated": rated, "checked": not unchecked,
            "updated": __import__("datetime").date.today().isoformat(),
-           "about": f"{NAMES[code]} special-design plates." + ("" if rated else " Not rated yet: every plate is worth the same."),
+           "about": f"{NAMES[code]} special-design plates." + ("" if rated else " Not rated yet: every plate is worth the same.")
+                    + (" From the 2023 snapshot, not yet checked against the state's current list." if unchecked else ""),
            "sources": [{"title": "Jon Keegan, us-license-plates (2023)", "url": "https://github.com/jonkeegan/us-license-plates"}],
            "plates": plates}
     data_file.write_text(json.dumps(doc, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
 
+    if a.no_index:
+        print(f"{code}: {len(plates)} plates written")
+        return 0
     cols_file = ROOT / "data/collections.json"
     cols = [c for c in json.loads(cols_file.read_text()) if c["code"] != code]
     cols.append({"code": code, "name": NAMES[code], "file": f"data/{code}.json", "count": len(plates), "rated": rated})

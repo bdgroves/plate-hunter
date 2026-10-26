@@ -1,0 +1,358 @@
+{
+ "code": "MA",
+ "name": "Massachusetts",
+ "rated": false,
+ "checked": false,
+ "updated": "2026-10-25",
+ "about": "Massachusetts special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "sources": [
+  {
+   "title": "Jon Keegan, us-license-plates (2023)",
+   "url": "https://github.com/jonkeegan/us-license-plates"
+  }
+ ],
+ "plates": [
+  {
+   "id": "als-one",
+   "name": "ALS ONE",
+   "cat": "other",
+   "img": "als-one.webp"
+  },
+  {
+   "id": "antique",
+   "name": "ANTIQUE",
+   "cat": "vehicle",
+   "img": "antique.webp"
+  },
+  {
+   "id": "atlantic-white-shark-conservancy",
+   "name": "ATLANTIC WHITE SHARK CONSERVANCY",
+   "cat": "nature",
+   "img": "atlantic-white-shark-conservancy.webp"
+  },
+  {
+   "id": "basketball-hall-of-fame",
+   "name": "BASKETBALL HALL OF FAME",
+   "cat": "sports",
+   "img": "basketball-hall-of-fame.webp"
+  },
+  {
+   "id": "blackstone-valley",
+   "name": "BLACKSTONE VALLEY",
+   "cat": "other",
+   "img": "blackstone-valley.webp"
+  },
+  {
+   "id": "boston-celtics",
+   "name": "BOSTON CELTICS",
+   "cat": "sports",
+   "img": "boston-celtics.webp"
+  },
+  {
+   "id": "bronze-star",
+   "name": "BRONZE STAR",
+   "cat": "veterans",
+   "img": "bronze-star.webp"
+  },
+  {
+   "id": "bruins-youth-hockey",
+   "name": "BRUINS/YOUTH HOCKEY",
+   "cat": "sports",
+   "img": "bruins-youth-hockey.webp"
+  },
+  {
+   "id": "cape-and-islands",
+   "name": "CAPE AND ISLANDS",
+   "cat": "nature",
+   "img": "cape-and-islands.webp"
+  },
+  {
+   "id": "cape-ann",
+   "name": "CAPE ANN",
+   "cat": "other",
+   "img": "cape-ann.webp"
+  },
+  {
+   "id": "choose-life",
+   "name": "CHOOSE LIFE",
+   "cat": "other",
+   "img": "choose-life.webp"
+  },
+  {
+   "id": "congressional-medal-of-honor",
+   "name": "CONGRESSIONAL MEDAL OF HONOR",
+   "cat": "veterans",
+   "img": "congressional-medal-of-honor.webp"
+  },
+  {
+   "id": "conquer-cancer",
+   "name": "CONQUER CANCER",
+   "cat": "charity",
+   "img": "conquer-cancer.webp"
+  },
+  {
+   "id": "cure-breast-cancer",
+   "name": "CURE BREAST CANCER",
+   "cat": "charity",
+   "img": "cure-breast-cancer.webp"
+  },
+  {
+   "id": "disability",
+   "name": "DISABILITY",
+   "cat": "charity",
+   "img": "disability.webp"
+  },
+  {
+   "id": "disabled-veteran",
+   "name": "DISABLED VETERAN",
+   "cat": "veterans",
+   "img": "disabled-veteran.webp"
+  },
+  {
+   "id": "distinguished-flying-cross",
+   "name": "DISTINGUISHED FLYING CROSS",
+   "cat": "veterans",
+   "img": "distinguished-flying-cross.webp"
+  },
+  {
+   "id": "electric",
+   "name": "ELECTRIC",
+   "cat": "vehicle",
+   "img": "electric.webp"
+  },
+  {
+   "id": "emergency",
+   "name": "EMERGENCY",
+   "cat": "firstresponder",
+   "img": "emergency.webp"
+  },
+  {
+   "id": "ex-pow",
+   "name": "EX-POW",
+   "cat": "veterans",
+   "img": "ex-pow.webp"
+  },
+  {
+   "id": "fallen-heroes",
+   "name": "FALLEN HEROES",
+   "cat": "other",
+   "img": "fallen-heroes.webp"
+  },
+  {
+   "id": "firefighters-memorial",
+   "name": "FIREFIGHTERS MEMORIAL",
+   "cat": "firstresponder",
+   "img": "firefighters-memorial.webp"
+  },
+  {
+   "id": "fish-and-wildlife",
+   "name": "FISH AND WILDLIFE",
+   "cat": "nature",
+   "img": "fish-and-wildlife.webp"
+  },
+  {
+   "id": "foreign-organization",
+   "name": "FOREIGN ORGANIZATION",
+   "cat": "other",
+   "img": "foreign-organization.webp"
+  },
+  {
+   "id": "freemasonry",
+   "name": "FREEMASONRY",
+   "cat": "hobby",
+   "img": "freemasonry.webp"
+  },
+  {
+   "id": "fresh-and-local",
+   "name": "FRESH AND LOCAL",
+   "cat": "other",
+   "img": "fresh-and-local.webp"
+  },
+  {
+   "id": "gold-star-family",
+   "name": "GOLD STAR FAMILY",
+   "cat": "veterans",
+   "img": "gold-star-family.webp"
+  },
+  {
+   "id": "habitat-and-heritage",
+   "name": "HABITAT AND HERITAGE",
+   "cat": "nature",
+   "img": "habitat-and-heritage.webp"
+  },
+  {
+   "id": "ham-operator",
+   "name": "HAM OPERATOR",
+   "cat": "hobby",
+   "img": "ham-operator.webp"
+  },
+  {
+   "id": "house",
+   "name": "HOUSE",
+   "cat": "other",
+   "img": "house.webp"
+  },
+  {
+   "id": "invest-in-children",
+   "name": "INVEST IN CHILDREN",
+   "cat": "charity",
+   "img": "invest-in-children.webp"
+  },
+  {
+   "id": "legion-of-valor",
+   "name": "LEGION OF VALOR",
+   "cat": "veterans",
+   "img": "legion-of-valor.webp"
+  },
+  {
+   "id": "limited-use-luv",
+   "name": "LIMITED USE(LUV",
+   "cat": "other",
+   "img": "limited-use-luv.webp"
+  },
+  {
+   "id": "lottery",
+   "name": "LOTTERY",
+   "cat": "other",
+   "img": "lottery.webp"
+  },
+  {
+   "id": "martha-s-vineyard",
+   "name": "MARTHA’S VINEYARD",
+   "cat": "other",
+   "img": "martha-s-vineyard.webp"
+  },
+  {
+   "id": "massachusetts-animal-coalition",
+   "name": "MASSACHUSETTS ANIMAL COALITION",
+   "cat": "charity",
+   "img": "massachusetts-animal-coalition.webp"
+  },
+  {
+   "id": "medical-doctor-md",
+   "name": "MEDICAL DOCTOR (MD",
+   "cat": "other",
+   "img": "medical-doctor-md.webp"
+  },
+  {
+   "id": "nantucket-island",
+   "name": "NANTUCKET ISLAND",
+   "cat": "nature",
+   "img": "nantucket-island.webp"
+  },
+  {
+   "id": "national-guard",
+   "name": "NATIONAL GUARD",
+   "cat": "military",
+   "img": "national-guard.webp"
+  },
+  {
+   "id": "new-england-patriots",
+   "name": "NEW ENGLAND PATRIOTS",
+   "cat": "sports",
+   "img": "new-england-patriots.webp"
+  },
+  {
+   "id": "news-photographer",
+   "name": "NEWS PHOTOGRAPHER",
+   "cat": "hobby",
+   "img": "news-photographer.webp"
+  },
+  {
+   "id": "olympic-spirit",
+   "name": "OLYMPIC SPIRIT",
+   "cat": "sports",
+   "img": "olympic-spirit.webp"
+  },
+  {
+   "id": "pan-mass-challenge",
+   "name": "PAN-MASS CHALLENGE",
+   "cat": "other",
+   "img": "pan-mass-challenge.webp"
+  },
+  {
+   "id": "pearl-harbor-survivor",
+   "name": "PEARL HARBOR SURVIVOR",
+   "cat": "veterans",
+   "img": "pearl-harbor-survivor.webp"
+  },
+  {
+   "id": "plymouth-400",
+   "name": "PLYMOUTH 400",
+   "cat": "other",
+   "img": "plymouth-400.webp"
+  },
+  {
+   "id": "purple-heart",
+   "name": "PURPLE HEART",
+   "cat": "veterans",
+   "img": "purple-heart.webp"
+  },
+  {
+   "id": "red-sox-jimmy-fund",
+   "name": "RED SOX/JIMMY FUND",
+   "cat": "sports",
+   "img": "red-sox-jimmy-fund.webp"
+  },
+  {
+   "id": "registered-nurse",
+   "name": "REGISTERED NURSE",
+   "cat": "other",
+   "img": "registered-nurse.webp"
+  },
+  {
+   "id": "right-whale-roseate-tern",
+   "name": "RIGHT WHALE/ROSEATE TERN",
+   "cat": "nature",
+   "img": "right-whale-roseate-tern.webp"
+  },
+  {
+   "id": "silver-star",
+   "name": "SILVER STAR",
+   "cat": "veterans",
+   "img": "silver-star.webp"
+  },
+  {
+   "id": "state-police-association-of-massachusett",
+   "name": "STATE POLICE ASSOCIATION OF MASSACHUSETTS",
+   "cat": "firstresponder",
+   "img": "state-police-association-of-massachusett.webp"
+  },
+  {
+   "id": "striped-bass",
+   "name": "STRIPED BASS",
+   "cat": "nature",
+   "img": "striped-bass.webp"
+  },
+  {
+   "id": "umass",
+   "name": "UMASS",
+   "cat": "other",
+   "img": "umass.webp"
+  },
+  {
+   "id": "united-we-stand",
+   "name": "UNITED WE STAND",
+   "cat": "other",
+   "img": "united-we-stand.webp"
+  },
+  {
+   "id": "veterans",
+   "name": "VETERANS'",
+   "cat": "veterans",
+   "img": "veterans.webp"
+  },
+  {
+   "id": "veterans-decal",
+   "name": "VETERANS'- Decal",
+   "cat": "veterans",
+   "img": "veterans-decal.webp"
+  },
+  {
+   "id": "welcome-home",
+   "name": "WELCOME HOME",
+   "cat": "other",
+   "img": "welcome-home.webp"
+  }
+ ]
+}

@@ -1,0 +1,832 @@
+{
+ "code": "KY",
+ "name": "Kentucky",
+ "rated": false,
+ "checked": false,
+ "updated": "2026-10-25",
+ "about": "Kentucky special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "sources": [
+  {
+   "title": "Jon Keegan, us-license-plates (2023)",
+   "url": "https://github.com/jonkeegan/us-license-plates"
+  }
+ ],
+ "plates": [
+  {
+   "id": "aikcu",
+   "name": "AIKCU",
+   "cat": "other",
+   "img": "aikcu.webp"
+  },
+  {
+   "id": "air-force-mc",
+   "name": "Air Force (MC",
+   "cat": "military",
+   "img": "air-force-mc.webp"
+  },
+  {
+   "id": "air-force-academy",
+   "name": "Air Force Academy",
+   "cat": "military",
+   "img": "air-force-academy.webp"
+  },
+  {
+   "id": "air-force-academy-mc",
+   "name": "Air Force Academy (MC",
+   "cat": "military",
+   "img": "air-force-academy-mc.webp"
+  },
+  {
+   "id": "air-force-cross",
+   "name": "Air Force Cross",
+   "cat": "military",
+   "img": "air-force-cross.webp"
+  },
+  {
+   "id": "air-force-cross-mc",
+   "name": "Air Force Cross (MC",
+   "cat": "military",
+   "img": "air-force-cross-mc.webp"
+  },
+  {
+   "id": "air-force-veteran",
+   "name": "Air Force Veteran",
+   "cat": "veterans",
+   "img": "air-force-veteran.webp"
+  },
+  {
+   "id": "alice-lloyd",
+   "name": "Alice Lloyd",
+   "cat": "other",
+   "img": "alice-lloyd.webp"
+  },
+  {
+   "id": "alternate-speed-mc",
+   "name": "Alternate Speed (MC",
+   "cat": "other",
+   "img": "alternate-speed-mc.webp"
+  },
+  {
+   "id": "alzheimer-s",
+   "name": "Alzheimer's",
+   "cat": "charity",
+   "img": "alzheimer-s.webp"
+  },
+  {
+   "id": "amateur-radio",
+   "name": "Amateur Radio",
+   "cat": "hobby",
+   "img": "amateur-radio.webp"
+  },
+  {
+   "id": "army-cross",
+   "name": "Army Cross",
+   "cat": "military",
+   "img": "army-cross.webp"
+  },
+  {
+   "id": "army-cross-mc",
+   "name": "Army Cross (MC",
+   "cat": "military",
+   "img": "army-cross-mc.webp"
+  },
+  {
+   "id": "army-veteran",
+   "name": "Army Veteran",
+   "cat": "veterans",
+   "img": "army-veteran.webp"
+  },
+  {
+   "id": "army-veteran-mc",
+   "name": "Army Veteran (MC",
+   "cat": "veterans",
+   "img": "army-veteran-mc.webp"
+  },
+  {
+   "id": "asbury",
+   "name": "Asbury",
+   "cat": "other",
+   "img": "asbury.webp"
+  },
+  {
+   "id": "autism-awareness",
+   "name": "Autism Awareness",
+   "cat": "charity",
+   "img": "autism-awareness.webp"
+  },
+  {
+   "id": "bellarmine",
+   "name": "Bellarmine",
+   "cat": "other",
+   "img": "bellarmine.webp"
+  },
+  {
+   "id": "berea",
+   "name": "Berea",
+   "cat": "other",
+   "img": "berea.webp"
+  },
+  {
+   "id": "bobcat",
+   "name": "Bobcat",
+   "cat": "other",
+   "img": "bobcat.webp"
+  },
+  {
+   "id": "breast-cancer",
+   "name": "Breast Cancer",
+   "cat": "charity",
+   "img": "breast-cancer.webp"
+  },
+  {
+   "id": "brescia",
+   "name": "Brescia",
+   "cat": "other",
+   "img": "brescia.webp"
+  },
+  {
+   "id": "bronze-star",
+   "name": "Bronze Star",
+   "cat": "veterans",
+   "img": "bronze-star.webp"
+  },
+  {
+   "id": "bronze-star-mc",
+   "name": "Bronze Star (MC",
+   "cat": "veterans",
+   "img": "bronze-star-mc.webp"
+  },
+  {
+   "id": "butterfly",
+   "name": "Butterfly",
+   "cat": "nature",
+   "img": "butterfly.webp"
+  },
+  {
+   "id": "campbellsville",
+   "name": "Campbellsville",
+   "cat": "other",
+   "img": "campbellsville.webp"
+  },
+  {
+   "id": "cardinal",
+   "name": "Cardinal",
+   "cat": "other",
+   "img": "cardinal.webp"
+  },
+  {
+   "id": "centre",
+   "name": "Centre",
+   "cat": "other",
+   "img": "centre.webp"
+  },
+  {
+   "id": "child-victim",
+   "name": "Child Victim",
+   "cat": "charity",
+   "img": "child-victim.webp"
+  },
+  {
+   "id": "choose-life",
+   "name": "Choose Life",
+   "cat": "other",
+   "img": "choose-life.webp"
+  },
+  {
+   "id": "civil-air-patrol",
+   "name": "Civil Air Patrol",
+   "cat": "other",
+   "img": "civil-air-patrol.webp"
+  },
+  {
+   "id": "coast-guard-acad-mc",
+   "name": "Coast Guard Acad. (MC",
+   "cat": "military",
+   "img": "coast-guard-acad-mc.webp"
+  },
+  {
+   "id": "coast-guard-academy",
+   "name": "Coast Guard Academy",
+   "cat": "military",
+   "img": "coast-guard-academy.webp"
+  },
+  {
+   "id": "coast-guard-vet-mc",
+   "name": "Coast Guard Vet. (MC",
+   "cat": "military",
+   "img": "coast-guard-vet-mc.webp"
+  },
+  {
+   "id": "coast-guard-veteran",
+   "name": "Coast Guard Veteran",
+   "cat": "veterans",
+   "img": "coast-guard-veteran.webp"
+  },
+  {
+   "id": "congressional",
+   "name": "Congressional",
+   "cat": "other",
+   "img": "congressional.webp"
+  },
+  {
+   "id": "crusade-for-children",
+   "name": "Crusade for Children",
+   "cat": "charity",
+   "img": "crusade-for-children.webp"
+  },
+  {
+   "id": "cumberlands",
+   "name": "Cumberlands",
+   "cat": "other",
+   "img": "cumberlands.webp"
+  },
+  {
+   "id": "curing-childhood-cancer",
+   "name": "Curing Childhood Cancer",
+   "cat": "charity",
+   "img": "curing-childhood-cancer.webp"
+  },
+  {
+   "id": "delta-sigma-theta",
+   "name": "Delta Sigma Theta",
+   "cat": "other",
+   "img": "delta-sigma-theta.webp"
+  },
+  {
+   "id": "disabled-parking",
+   "name": "Disabled Parking",
+   "cat": "other",
+   "img": "disabled-parking.webp"
+  },
+  {
+   "id": "disabled-prisoner-of-war",
+   "name": "Disabled Prisoner of War",
+   "cat": "veterans",
+   "img": "disabled-prisoner-of-war.webp"
+  },
+  {
+   "id": "disabled-veteran-fee",
+   "name": "Disabled Veteran (Fee",
+   "cat": "veterans",
+   "img": "disabled-veteran-fee.webp"
+  },
+  {
+   "id": "disabled-veteran-no-fee",
+   "name": "Disabled Veteran (No Fee",
+   "cat": "veterans",
+   "img": "disabled-veteran-no-fee.webp"
+  },
+  {
+   "id": "ducks-unlimited",
+   "name": "Ducks Unlimited",
+   "cat": "nature",
+   "img": "ducks-unlimited.webp"
+  },
+  {
+   "id": "eastern-kentucky",
+   "name": "Eastern Kentucky",
+   "cat": "other",
+   "img": "eastern-kentucky.webp"
+  },
+  {
+   "id": "emergency-management",
+   "name": "Emergency Management",
+   "cat": "firstresponder",
+   "img": "emergency-management.webp"
+  },
+  {
+   "id": "farm",
+   "name": "Farm",
+   "cat": "vehicle",
+   "img": "farm.webp"
+  },
+  {
+   "id": "firefighter",
+   "name": "Firefighter",
+   "cat": "firstresponder",
+   "img": "firefighter.webp"
+  },
+  {
+   "id": "fraternal-order-of-police",
+   "name": "Fraternal Order of Police",
+   "cat": "firstresponder",
+   "img": "fraternal-order-of-police.webp"
+  },
+  {
+   "id": "friends-of-coal",
+   "name": "Friends of Coal",
+   "cat": "other",
+   "img": "friends-of-coal.webp"
+  },
+  {
+   "id": "friends-of-coal-mc",
+   "name": "Friends of Coal (MC",
+   "cat": "other",
+   "img": "friends-of-coal-mc.webp"
+  },
+  {
+   "id": "georgetown",
+   "name": "Georgetown",
+   "cat": "other",
+   "img": "georgetown.webp"
+  },
+  {
+   "id": "gold-star-daughter",
+   "name": "Gold Star Daughter",
+   "cat": "veterans",
+   "img": "gold-star-daughter.webp"
+  },
+  {
+   "id": "gold-star-daughter-mc",
+   "name": "Gold Star Daughter (MC",
+   "cat": "veterans",
+   "img": "gold-star-daughter-mc.webp"
+  },
+  {
+   "id": "gold-star-father",
+   "name": "Gold Star Father",
+   "cat": "veterans",
+   "img": "gold-star-father.webp"
+  },
+  {
+   "id": "gold-star-father-mc",
+   "name": "Gold Star Father (MC",
+   "cat": "veterans",
+   "img": "gold-star-father-mc.webp"
+  },
+  {
+   "id": "gold-star-mother",
+   "name": "Gold Star Mother",
+   "cat": "veterans",
+   "img": "gold-star-mother.webp"
+  },
+  {
+   "id": "gold-star-mother-mc",
+   "name": "Gold Star Mother (MC",
+   "cat": "veterans",
+   "img": "gold-star-mother-mc.webp"
+  },
+  {
+   "id": "gold-star-sibling",
+   "name": "Gold Star Sibling",
+   "cat": "veterans",
+   "img": "gold-star-sibling.webp"
+  },
+  {
+   "id": "gold-star-sibling-mc",
+   "name": "Gold Star Sibling (MC",
+   "cat": "veterans",
+   "img": "gold-star-sibling-mc.webp"
+  },
+  {
+   "id": "gold-star-son",
+   "name": "Gold Star Son",
+   "cat": "veterans",
+   "img": "gold-star-son.webp"
+  },
+  {
+   "id": "gold-star-son-mc",
+   "name": "Gold Star Son (MC",
+   "cat": "veterans",
+   "img": "gold-star-son-mc.webp"
+  },
+  {
+   "id": "gold-star-spouse",
+   "name": "Gold Star Spouse",
+   "cat": "veterans",
+   "img": "gold-star-spouse.webp"
+  },
+  {
+   "id": "gold-star-spouse-mc",
+   "name": "Gold Star Spouse (MC",
+   "cat": "veterans",
+   "img": "gold-star-spouse-mc.webp"
+  },
+  {
+   "id": "historic-mc",
+   "name": "Historic (MC",
+   "cat": "other",
+   "img": "historic-mc.webp"
+  },
+  {
+   "id": "historic",
+   "name": "Historic",
+   "cat": "vehicle",
+   "img": "historic.webp"
+  },
+  {
+   "id": "horse-council",
+   "name": "Horse Council",
+   "cat": "hobby",
+   "img": "horse-council.webp"
+  },
+  {
+   "id": "i-support-veterans",
+   "name": "I Support Veterans",
+   "cat": "veterans",
+   "img": "i-support-veterans.webp"
+  },
+  {
+   "id": "i-support-veterans-mc",
+   "name": "I Support Veterans (MC",
+   "cat": "veterans",
+   "img": "i-support-veterans-mc.webp"
+  },
+  {
+   "id": "i-support-veterans-military",
+   "name": "I Support Veterans (Military",
+   "cat": "veterans",
+   "img": "i-support-veterans-military.webp"
+  },
+  {
+   "id": "judiciary",
+   "name": "Judiciary",
+   "cat": "other",
+   "img": "judiciary.webp"
+  },
+  {
+   "id": "juvenile-diabetes",
+   "name": "Juvenile Diabetes",
+   "cat": "charity",
+   "img": "juvenile-diabetes.webp"
+  },
+  {
+   "id": "keeneland-association",
+   "name": "Keeneland Association",
+   "cat": "charity",
+   "img": "keeneland-association.webp"
+  },
+  {
+   "id": "keep-foundation",
+   "name": "KEEP Foundation",
+   "cat": "charity",
+   "img": "keep-foundation.webp"
+  },
+  {
+   "id": "kentucky",
+   "name": "Kentucky",
+   "cat": "other",
+   "img": "kentucky.webp"
+  },
+  {
+   "id": "kentucky-christian",
+   "name": "Kentucky Christian",
+   "cat": "other",
+   "img": "kentucky-christian.webp"
+  },
+  {
+   "id": "kentucky-state",
+   "name": "Kentucky State",
+   "cat": "other",
+   "img": "kentucky-state.webp"
+  },
+  {
+   "id": "ky-chiropractic-association",
+   "name": "KY Chiropractic Association",
+   "cat": "charity",
+   "img": "ky-chiropractic-association.webp"
+  },
+  {
+   "id": "ky-colonel",
+   "name": "KY Colonel",
+   "cat": "other",
+   "img": "ky-colonel.webp"
+  },
+  {
+   "id": "ky-dental-association",
+   "name": "KY Dental Association",
+   "cat": "charity",
+   "img": "ky-dental-association.webp"
+  },
+  {
+   "id": "ky-library-association",
+   "name": "KY Library Association",
+   "cat": "charity",
+   "img": "ky-library-association.webp"
+  },
+  {
+   "id": "ky-sportsmen",
+   "name": "KY Sportsmen",
+   "cat": "nature",
+   "img": "ky-sportsmen.webp"
+  },
+  {
+   "id": "law-enforcement-memorial",
+   "name": "Law Enforcement Memorial",
+   "cat": "firstresponder",
+   "img": "law-enforcement-memorial.webp"
+  },
+  {
+   "id": "law-enforcement-memorial-mc",
+   "name": "Law Enforcement Memorial (MC",
+   "cat": "firstresponder",
+   "img": "law-enforcement-memorial-mc.webp"
+  },
+  {
+   "id": "limited",
+   "name": "Limited",
+   "cat": "other",
+   "img": "limited.webp"
+  },
+  {
+   "id": "lindsey-wilson",
+   "name": "Lindsey Wilson",
+   "cat": "other",
+   "img": "lindsey-wilson.webp"
+  },
+  {
+   "id": "linemen",
+   "name": "Linemen",
+   "cat": "other",
+   "img": "linemen.webp"
+  },
+  {
+   "id": "louisville",
+   "name": "Louisville",
+   "cat": "other",
+   "img": "louisville.webp"
+  },
+  {
+   "id": "louisville-zoo",
+   "name": "Louisville Zoo",
+   "cat": "nature",
+   "img": "louisville-zoo.webp"
+  },
+  {
+   "id": "marine-veteran",
+   "name": "Marine Veteran",
+   "cat": "veterans",
+   "img": "marine-veteran.webp"
+  },
+  {
+   "id": "marine-veteran-mc",
+   "name": "Marine Veteran (MC",
+   "cat": "veterans",
+   "img": "marine-veteran-mc.webp"
+  },
+  {
+   "id": "masonic-order",
+   "name": "Masonic Order",
+   "cat": "hobby",
+   "img": "masonic-order.webp"
+  },
+  {
+   "id": "medal-of-honor",
+   "name": "Medal of Honor",
+   "cat": "veterans",
+   "img": "medal-of-honor.webp"
+  },
+  {
+   "id": "merchant-marine-academy",
+   "name": "Merchant Marine Academy",
+   "cat": "military",
+   "img": "merchant-marine-academy.webp"
+  },
+  {
+   "id": "merchant-marine-academy-mc",
+   "name": "Merchant Marine Academy (MC",
+   "cat": "military",
+   "img": "merchant-marine-academy-mc.webp"
+  },
+  {
+   "id": "midway",
+   "name": "Midway",
+   "cat": "other",
+   "img": "midway.webp"
+  },
+  {
+   "id": "military-academy",
+   "name": "Military Academy",
+   "cat": "military",
+   "img": "military-academy.webp"
+  },
+  {
+   "id": "military-academy-mc",
+   "name": "Military Academy (MC",
+   "cat": "military",
+   "img": "military-academy-mc.webp"
+  },
+  {
+   "id": "morehead-state",
+   "name": "Morehead State",
+   "cat": "other",
+   "img": "morehead-state.webp"
+  },
+  {
+   "id": "murray-state",
+   "name": "Murray State",
+   "cat": "other",
+   "img": "murray-state.webp"
+  },
+  {
+   "id": "national-guard",
+   "name": "National Guard",
+   "cat": "military",
+   "img": "national-guard.webp"
+  },
+  {
+   "id": "national-guard-mc",
+   "name": "National Guard (MC",
+   "cat": "military",
+   "img": "national-guard-mc.webp"
+  },
+  {
+   "id": "naval-academy",
+   "name": "Naval Academy",
+   "cat": "other",
+   "img": "naval-academy.webp"
+  },
+  {
+   "id": "naval-academy-mc",
+   "name": "Naval Academy (MC",
+   "cat": "other",
+   "img": "naval-academy-mc.webp"
+  },
+  {
+   "id": "navy-cross",
+   "name": "Navy Cross",
+   "cat": "veterans",
+   "img": "navy-cross.webp"
+  },
+  {
+   "id": "navy-cross-mc",
+   "name": "Navy Cross (MC",
+   "cat": "veterans",
+   "img": "navy-cross-mc.webp"
+  },
+  {
+   "id": "navy-veteran",
+   "name": "Navy Veteran",
+   "cat": "veterans",
+   "img": "navy-veteran.webp"
+  },
+  {
+   "id": "navy-veteran-mc",
+   "name": "Navy Veteran (MC",
+   "cat": "veterans",
+   "img": "navy-veteran-mc.webp"
+  },
+  {
+   "id": "northern-kentucky",
+   "name": "Northern Kentucky",
+   "cat": "other",
+   "img": "northern-kentucky.webp"
+  },
+  {
+   "id": "norton-children-s-hospital",
+   "name": "Norton Children's Hospital",
+   "cat": "charity",
+   "img": "norton-children-s-hospital.webp"
+  },
+  {
+   "id": "pearl-harbor",
+   "name": "Pearl Harbor",
+   "cat": "veterans",
+   "img": "pearl-harbor.webp"
+  },
+  {
+   "id": "pikeville",
+   "name": "Pikeville",
+   "cat": "other",
+   "img": "pikeville.webp"
+  },
+  {
+   "id": "prisoner-of-war",
+   "name": "Prisoner of War",
+   "cat": "veterans",
+   "img": "prisoner-of-war.webp"
+  },
+  {
+   "id": "purple-heart",
+   "name": "Purple Heart",
+   "cat": "veterans",
+   "img": "purple-heart.webp"
+  },
+  {
+   "id": "purple-heart-mc",
+   "name": "Purple Heart (MC",
+   "cat": "veterans",
+   "img": "purple-heart-mc.webp"
+  },
+  {
+   "id": "quail-unlimited",
+   "name": "Quail Unlimited",
+   "cat": "nature",
+   "img": "quail-unlimited.webp"
+  },
+  {
+   "id": "recreational",
+   "name": "Recreational",
+   "cat": "vehicle",
+   "img": "recreational.webp"
+  },
+  {
+   "id": "rock-cares",
+   "name": "Rock Cares",
+   "cat": "other",
+   "img": "rock-cares.webp"
+  },
+  {
+   "id": "ryder-cup",
+   "name": "Ryder Cup",
+   "cat": "other",
+   "img": "ryder-cup.webp"
+  },
+  {
+   "id": "share-the-road",
+   "name": "Share The Road",
+   "cat": "hobby",
+   "img": "share-the-road.webp"
+  },
+  {
+   "id": "silver-star-mc",
+   "name": "Silver Star (MC",
+   "cat": "veterans",
+   "img": "silver-star-mc.webp"
+  },
+  {
+   "id": "silver-star-medal",
+   "name": "Silver Star Medal",
+   "cat": "veterans",
+   "img": "silver-star-medal.webp"
+  },
+  {
+   "id": "small-mouth-bass",
+   "name": "Small Mouth Bass",
+   "cat": "nature",
+   "img": "small-mouth-bass.webp"
+  },
+  {
+   "id": "spalding",
+   "name": "Spalding",
+   "cat": "other",
+   "img": "spalding.webp"
+  },
+  {
+   "id": "spay-neuter",
+   "name": "Spay/Neuter",
+   "cat": "charity",
+   "img": "spay-neuter.webp"
+  },
+  {
+   "id": "street-rod",
+   "name": "Street Rod",
+   "cat": "vehicle",
+   "img": "street-rod.webp"
+  },
+  {
+   "id": "team-kentucky-standard",
+   "name": "Team Kentucky Standard",
+   "cat": "other",
+   "img": "team-kentucky-standard.webp"
+  },
+  {
+   "id": "team-kentucky-standard-in-god-we-trust",
+   "name": "Team Kentucky Standard- In God We Trust",
+   "cat": "charity",
+   "img": "team-kentucky-standard-in-god-we-trust.webp"
+  },
+  {
+   "id": "thomas-more",
+   "name": "Thomas More",
+   "cat": "other",
+   "img": "thomas-more.webp"
+  },
+  {
+   "id": "transylvania",
+   "name": "Transylvania",
+   "cat": "other",
+   "img": "transylvania.webp"
+  },
+  {
+   "id": "trust-for-life",
+   "name": "Trust for Life",
+   "cat": "other",
+   "img": "trust-for-life.webp"
+  },
+  {
+   "id": "union",
+   "name": "Union",
+   "cat": "other",
+   "img": "union.webp"
+  },
+  {
+   "id": "wesleyan",
+   "name": "Wesleyan",
+   "cat": "other",
+   "img": "wesleyan.webp"
+  },
+  {
+   "id": "western-kentucky",
+   "name": "Western Kentucky",
+   "cat": "other",
+   "img": "western-kentucky.webp"
+  },
+  {
+   "id": "wild-turkey-federation",
+   "name": "Wild Turkey Federation",
+   "cat": "sports",
+   "img": "wild-turkey-federation.webp"
+  }
+ ]
+}

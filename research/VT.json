@@ -1,0 +1,352 @@
+[
+ {
+  "title": "Agriculture",
+  "keegan_img": "VT-plates_image-044.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf"
+ },
+ {
+  "title": "Amateur Radio Operator",
+  "keegan_img": "VT-plates_image-072.jpg",
+  "cat": "hobby",
+  "status": "keegan-2023",
+  "source": "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf"
+ },
+ {
+  "title": "American Legion",
+  "keegan_img": "VT-plates_image-076.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf"
+ },
+ {
+  "title": "Antique",
+  "keegan_img": "VT-plates_image-031.jpg",
+  "cat": "vehicle",
+  "status": "keegan-2023",
+  "source": "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf"
+ },
+ {
+  "title": "Building Bright Futures",
+  "keegan_img": "VT-plates_image-008.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf"
+ },
+ {
+  "title": "Conservation (Deer",
+  "keegan_img": "VT-plates_image-011.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf"
+ },
+ {
+  "title": "Conservation (Loon",
+  "keegan_img": "VT-plates_image-015.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf"
+ },
+ {
+  "title": "Conservation (Trout",
+  "keegan_img": "VT-plates_image-013.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf"
+ },
+ {
+  "title": "Disabled",
+  "keegan_img": "VT-plates_image-005.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf"
+ },
+ {
+  "title": "DMV",
+  "keegan_img": "VT-plates_image-168.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf"
+ },
+ {
+  "title": "Driver Education",
+  "keegan_img": "VT-plates_image-170.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf"
+ },
+ {
+  "title": "Emergency Medical Service",
+  "keegan_img": "VT-plates_image-079.jpg",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf"
+ },
+ {
+  "title": "Ex-Prisoner of War",
+  "keegan_img": "VT-plates_image-113.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf"
+ },
+ {
+  "title": "Exhibition",
+  "keegan_img": "VT-plates_image-032.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf"
+ },
+ {
+  "title": "Federal Program",
+  "keegan_img": "VT-plates_image-177.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf"
+ },
+ {
+  "title": "Freemason’s",
+  "keegan_img": "VT-plates_image-082.jpg",
+  "cat": "hobby",
+  "status": "keegan-2023",
+  "source": "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf"
+ },
+ {
+  "title": "Gold Star Family",
+  "keegan_img": "VT-plates_image-117.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf"
+ },
+ {
+  "title": "Gold Star Next of Kin",
+  "keegan_img": "VT-plates_image-119.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf"
+ },
+ {
+  "title": "Lion’s Club",
+  "keegan_img": "VT-plates_image-086.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf"
+ },
+ {
+  "title": "Low Number (100-9999",
+  "keegan_img": "VT-plates_image-018.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf"
+ },
+ {
+  "title": "Low Vermont Numbers",
+  "keegan_img": "VT-plates_image-186.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf"
+ },
+ {
+  "title": "Motor-Driven Cycle",
+  "keegan_img": "VT-plates_image-153.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf"
+ },
+ {
+  "title": "National Ski Patrol",
+  "keegan_img": "VT-plates_image-088.jpg",
+  "cat": "sports",
+  "status": "keegan-2023",
+  "source": "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf"
+ },
+ {
+  "title": "Pearl Harbor Survivor",
+  "keegan_img": "VT-plates_image-145.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf"
+ },
+ {
+  "title": "Pleasure",
+  "keegan_img": "VT-plates_image-001.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf"
+ },
+ {
+  "title": "Professional Firefighters of Vermont",
+  "keegan_img": "VT-plates_image-090.jpg",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf"
+ },
+ {
+  "title": "Purple Heart",
+  "keegan_img": "VT-plates_image-121.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf"
+ },
+ {
+  "title": "Rotary",
+  "keegan_img": "VT-plates_image-091.jpg",
+  "cat": "hobby",
+  "status": "keegan-2023",
+  "source": "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf"
+ },
+ {
+  "title": "Sheriff Department",
+  "keegan_img": "VT-plates_image-165.jpg",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf"
+ },
+ {
+  "title": "Special",
+  "keegan_img": "VT-plates_image-007.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf"
+ },
+ {
+  "title": "Special Purpose",
+  "keegan_img": "VT-plates_image-026.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf"
+ },
+ {
+  "title": "State House of Representatives",
+  "keegan_img": "VT-plates_image-182.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf"
+ },
+ {
+  "title": "Street Rod",
+  "keegan_img": "VT-plates_image-034.jpg",
+  "cat": "vehicle",
+  "status": "keegan-2023",
+  "source": "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf"
+ },
+ {
+  "title": "U. S. Veteran Iraq Campaign",
+  "keegan_img": "VT-plates_image-136.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf"
+ },
+ {
+  "title": "U.S. House",
+  "keegan_img": "VT-plates_image-190.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf"
+ },
+ {
+  "title": "U.S. Veteran",
+  "keegan_img": "VT-plates_image-125.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf"
+ },
+ {
+  "title": "U.S. Veteran Afghanistan Campaign",
+  "keegan_img": "VT-plates_image-131.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf"
+ },
+ {
+  "title": "U.S. Veteran Gulf War",
+  "keegan_img": "VT-plates_image-134.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf"
+ },
+ {
+  "title": "U.S. Veteran Korean War",
+  "keegan_img": "VT-plates_image-138.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf"
+ },
+ {
+  "title": "U.S. Veteran Vietnam War",
+  "keegan_img": "VT-plates_image-140.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf"
+ },
+ {
+  "title": "U.S. Veteran World War II",
+  "keegan_img": "VT-plates_image-142.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf"
+ },
+ {
+  "title": "Vermont Firefighters Association",
+  "keegan_img": "VT-plates_image-095.jpg",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf"
+ },
+ {
+  "title": "Vermont Game Warden",
+  "keegan_img": "VT-plates_image-173.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf"
+ },
+ {
+  "title": "Vermont House Speaker",
+  "keegan_img": "VT-plates_image-180.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf"
+ },
+ {
+  "title": "Vermont National Guard",
+  "keegan_img": "VT-plates_image-108.jpg",
+  "cat": "military",
+  "status": "keegan-2023",
+  "source": "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf"
+ },
+ {
+  "title": "Vermont State Officers’",
+  "keegan_img": "VT-plates_image-188.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf"
+ },
+ {
+  "title": "Vermont State Police",
+  "keegan_img": "VT-plates_image-175.jpg",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf"
+ },
+ {
+  "title": "Veterans of Foreign Wars",
+  "keegan_img": "VT-plates_image-100.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf"
+ },
+ {
+  "title": "Vietnam Veterans of America",
+  "keegan_img": "VT-plates_image-104.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf"
+ },
+ {
+  "title": "Volunteer",
+  "keegan_img": "VT-plates_image-161.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf"
+ }
+]

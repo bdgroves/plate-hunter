@@ -1,0 +1,490 @@
+{
+ "code": "IA",
+ "name": "Iowa",
+ "rated": false,
+ "checked": false,
+ "updated": "2026-10-25",
+ "about": "Iowa special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "sources": [
+  {
+   "title": "Jon Keegan, us-license-plates (2023)",
+   "url": "https://github.com/jonkeegan/us-license-plates"
+  }
+ ],
+ "plates": [
+  {
+   "id": "air-force-cross-medal",
+   "name": "Air Force Cross Medal",
+   "cat": "veterans",
+   "img": "air-force-cross-medal.webp"
+  },
+  {
+   "id": "airmen-s-medal",
+   "name": "Airmen's Medal",
+   "cat": "veterans",
+   "img": "airmen-s-medal.webp"
+  },
+  {
+   "id": "allen-college",
+   "name": "Allen College",
+   "cat": "colleges",
+   "img": "allen-college.webp"
+  },
+  {
+   "id": "amateur-radio-call-letter",
+   "name": "Amateur Radio Call Letter",
+   "cat": "hobby",
+   "img": "amateur-radio-call-letter.webp"
+  },
+  {
+   "id": "black-out-design",
+   "name": "Black Out Design",
+   "cat": "other",
+   "img": "black-out-design.webp"
+  },
+  {
+   "id": "breast-cancer-awareness",
+   "name": "Breast Cancer Awareness",
+   "cat": "charity",
+   "img": "breast-cancer-awareness.webp"
+  },
+  {
+   "id": "briar-cliff-university",
+   "name": "Briar Cliff University",
+   "cat": "colleges",
+   "img": "briar-cliff-university.webp"
+  },
+  {
+   "id": "bronze-star",
+   "name": "Bronze Star",
+   "cat": "veterans",
+   "img": "bronze-star.webp"
+  },
+  {
+   "id": "buena-vista-university",
+   "name": "Buena Vista University",
+   "cat": "colleges",
+   "img": "buena-vista-university.webp"
+  },
+  {
+   "id": "cattlemen-care",
+   "name": "Cattlemen Care",
+   "cat": "other",
+   "img": "cattlemen-care.webp"
+  },
+  {
+   "id": "central-college",
+   "name": "Central College",
+   "cat": "colleges",
+   "img": "central-college.webp"
+  },
+  {
+   "id": "choose-life",
+   "name": "Choose Life",
+   "cat": "other",
+   "img": "choose-life.webp"
+  },
+  {
+   "id": "clarke-university",
+   "name": "Clarke University",
+   "cat": "colleges",
+   "img": "clarke-university.webp"
+  },
+  {
+   "id": "coe-college",
+   "name": "Coe College",
+   "cat": "colleges",
+   "img": "coe-college.webp"
+  },
+  {
+   "id": "cornell-college",
+   "name": "Cornell College",
+   "cat": "colleges",
+   "img": "cornell-college.webp"
+  },
+  {
+   "id": "decal",
+   "name": "Decal",
+   "cat": "other",
+   "img": "decal.webp"
+  },
+  {
+   "id": "des-moines-university",
+   "name": "Des Moines University",
+   "cat": "colleges",
+   "img": "des-moines-university.webp"
+  },
+  {
+   "id": "disabled-veteran",
+   "name": "Disabled Veteran",
+   "cat": "veterans",
+   "img": "disabled-veteran.webp"
+  },
+  {
+   "id": "distinguished-service-cross",
+   "name": "Distinguished Service Cross",
+   "cat": "veterans",
+   "img": "distinguished-service-cross.webp"
+  },
+  {
+   "id": "dordt-college",
+   "name": "Dordt College",
+   "cat": "colleges",
+   "img": "dordt-college.webp"
+  },
+  {
+   "id": "drake-university",
+   "name": "Drake University",
+   "cat": "colleges",
+   "img": "drake-university.webp"
+  },
+  {
+   "id": "ducks-unlimited",
+   "name": "Ducks Unlimited",
+   "cat": "nature",
+   "img": "ducks-unlimited.webp"
+  },
+  {
+   "id": "education",
+   "name": "Education",
+   "cat": "charity",
+   "img": "education.webp"
+  },
+  {
+   "id": "emergency-medical-services",
+   "name": "Emergency Medical Services",
+   "cat": "firstresponder",
+   "img": "emergency-medical-services.webp"
+  },
+  {
+   "id": "ex-prisoner-of-war",
+   "name": "Ex-Prisoner of War",
+   "cat": "veterans",
+   "img": "ex-prisoner-of-war.webp"
+  },
+  {
+   "id": "fallen-peace-officer",
+   "name": "Fallen Peace Officer",
+   "cat": "firstresponder",
+   "img": "fallen-peace-officer.webp"
+  },
+  {
+   "id": "firefighter",
+   "name": "Firefighter",
+   "cat": "firstresponder",
+   "img": "firefighter.webp"
+  },
+  {
+   "id": "flying-our-colors",
+   "name": "Flying Our Colors",
+   "cat": "hobby",
+   "img": "flying-our-colors.webp"
+  },
+  {
+   "id": "god-bless-america",
+   "name": "God Bless America",
+   "cat": "other",
+   "img": "god-bless-america.webp"
+  },
+  {
+   "id": "gold-star",
+   "name": "Gold Star",
+   "cat": "veterans",
+   "img": "gold-star.webp"
+  },
+  {
+   "id": "graceland-university",
+   "name": "Graceland University",
+   "cat": "colleges",
+   "img": "graceland-university.webp"
+  },
+  {
+   "id": "grand-view-university",
+   "name": "Grand View University",
+   "cat": "colleges",
+   "img": "grand-view-university.webp"
+  },
+  {
+   "id": "grinnell-college",
+   "name": "Grinnell College",
+   "cat": "colleges",
+   "img": "grinnell-college.webp"
+  },
+  {
+   "id": "iowa-ag-literacy-ffa-and-4-h",
+   "name": "Iowa Ag Literacy, FFA and 4-H",
+   "cat": "charity",
+   "img": "iowa-ag-literacy-ffa-and-4-h.webp"
+  },
+  {
+   "id": "iowa-heritage",
+   "name": "Iowa Heritage",
+   "cat": "charity",
+   "img": "iowa-heritage.webp"
+  },
+  {
+   "id": "iowa-national-guard",
+   "name": "Iowa National Guard",
+   "cat": "military",
+   "img": "iowa-national-guard.webp"
+  },
+  {
+   "id": "iowa-state-university",
+   "name": "Iowa State University",
+   "cat": "colleges",
+   "img": "iowa-state-university.webp"
+  },
+  {
+   "id": "iowa-wesleyan-university",
+   "name": "Iowa Wesleyan University",
+   "cat": "colleges",
+   "img": "iowa-wesleyan-university.webp"
+  },
+  {
+   "id": "legion-of-merit",
+   "name": "Legion of Merit",
+   "cat": "veterans",
+   "img": "legion-of-merit.webp"
+  },
+  {
+   "id": "loras-college",
+   "name": "Loras College",
+   "cat": "colleges",
+   "img": "loras-college.webp"
+  },
+  {
+   "id": "love-our-kids",
+   "name": "Love Our Kids",
+   "cat": "charity",
+   "img": "love-our-kids.webp"
+  },
+  {
+   "id": "luther-college",
+   "name": "Luther College",
+   "cat": "colleges",
+   "img": "luther-college.webp"
+  },
+  {
+   "id": "medal-of-honor-air-force",
+   "name": "Medal of Honor – Air Force",
+   "cat": "veterans",
+   "img": "medal-of-honor-air-force.webp"
+  },
+  {
+   "id": "medal-of-honor-army",
+   "name": "Medal of Honor – Army",
+   "cat": "veterans",
+   "img": "medal-of-honor-army.webp"
+  },
+  {
+   "id": "medal-of-honor-navy",
+   "name": "Medal of Honor – Navy",
+   "cat": "veterans",
+   "img": "medal-of-honor-navy.webp"
+  },
+  {
+   "id": "morningside-university",
+   "name": "Morningside University",
+   "cat": "colleges",
+   "img": "morningside-university.webp"
+  },
+  {
+   "id": "mount-mercy-university",
+   "name": "Mount Mercy University",
+   "cat": "colleges",
+   "img": "mount-mercy-university.webp"
+  },
+  {
+   "id": "natural-resources-deer",
+   "name": "Natural Resources - Deer",
+   "cat": "nature",
+   "img": "natural-resources-deer.webp"
+  },
+  {
+   "id": "natural-resources-eagle",
+   "name": "Natural Resources - Eagle",
+   "cat": "nature",
+   "img": "natural-resources-eagle.webp"
+  },
+  {
+   "id": "natural-resources-goldfinch",
+   "name": "Natural Resources - Goldfinch",
+   "cat": "other",
+   "img": "natural-resources-goldfinch.webp"
+  },
+  {
+   "id": "natural-resources-pheasant",
+   "name": "Natural Resources - Pheasant",
+   "cat": "nature",
+   "img": "natural-resources-pheasant.webp"
+  },
+  {
+   "id": "natural-resources-trout",
+   "name": "Natural Resources - Trout",
+   "cat": "nature",
+   "img": "natural-resources-trout.webp"
+  },
+  {
+   "id": "navy-cross-medal",
+   "name": "Navy Cross Medal",
+   "cat": "veterans",
+   "img": "navy-cross-medal.webp"
+  },
+  {
+   "id": "navy-marine-corps-medal",
+   "name": "Navy/Marine Corps Medal",
+   "cat": "veterans",
+   "img": "navy-marine-corps-medal.webp"
+  },
+  {
+   "id": "northwestern-college",
+   "name": "Northwestern College",
+   "cat": "colleges",
+   "img": "northwestern-college.webp"
+  },
+  {
+   "id": "organ-and-tissue-donor",
+   "name": "Organ and Tissue Donor",
+   "cat": "charity",
+   "img": "organ-and-tissue-donor.webp"
+  },
+  {
+   "id": "palmer-college",
+   "name": "Palmer College",
+   "cat": "colleges",
+   "img": "palmer-college.webp"
+  },
+  {
+   "id": "pearl-harbor",
+   "name": "Pearl Harbor",
+   "cat": "veterans",
+   "img": "pearl-harbor.webp"
+  },
+  {
+   "id": "persons-with-disabilitiesand-sticker",
+   "name": "Persons with Disabilitiesand sticker",
+   "cat": "charity",
+   "img": "persons-with-disabilitiesand-sticker.webp"
+  },
+  {
+   "id": "professional-firefighter",
+   "name": "Professional Firefighter",
+   "cat": "firstresponder",
+   "img": "professional-firefighter.webp"
+  },
+  {
+   "id": "purple-heart",
+   "name": "Purple Heart",
+   "cat": "veterans",
+   "img": "purple-heart.webp"
+  },
+  {
+   "id": "retired-air-force",
+   "name": "Retired Air Force",
+   "cat": "military",
+   "img": "retired-air-force.webp"
+  },
+  {
+   "id": "retired-army",
+   "name": "Retired Army",
+   "cat": "military",
+   "img": "retired-army.webp"
+  },
+  {
+   "id": "retired-coast-guard",
+   "name": "Retired Coast Guard",
+   "cat": "military",
+   "img": "retired-coast-guard.webp"
+  },
+  {
+   "id": "retired-marine",
+   "name": "Retired Marine",
+   "cat": "military",
+   "img": "retired-marine.webp"
+  },
+  {
+   "id": "retired-navy",
+   "name": "Retired Navy",
+   "cat": "military",
+   "img": "retired-navy.webp"
+  },
+  {
+   "id": "saint-ambrose-university",
+   "name": "Saint Ambrose University",
+   "cat": "colleges",
+   "img": "saint-ambrose-university.webp"
+  },
+  {
+   "id": "share-the-road",
+   "name": "Share the Road",
+   "cat": "hobby",
+   "img": "share-the-road.webp"
+  },
+  {
+   "id": "shriners",
+   "name": "Shriners",
+   "cat": "hobby",
+   "img": "shriners.webp"
+  },
+  {
+   "id": "silver-star",
+   "name": "Silver Star",
+   "cat": "veterans",
+   "img": "silver-star.webp"
+  },
+  {
+   "id": "simpson-college",
+   "name": "Simpson College",
+   "cat": "colleges",
+   "img": "simpson-college.webp"
+  },
+  {
+   "id": "soldier-s-medal",
+   "name": "Soldier's Medal",
+   "cat": "veterans",
+   "img": "soldier-s-medal.webp"
+  },
+  {
+   "id": "university-of-dubuque",
+   "name": "University of Dubuque",
+   "cat": "colleges",
+   "img": "university-of-dubuque.webp"
+  },
+  {
+   "id": "university-of-iowa",
+   "name": "University of Iowa",
+   "cat": "colleges",
+   "img": "university-of-iowa.webp"
+  },
+  {
+   "id": "university-of-northern-iowa",
+   "name": "University of Northern Iowa",
+   "cat": "colleges",
+   "img": "university-of-northern-iowa.webp"
+  },
+  {
+   "id": "upper-iowa-university",
+   "name": "Upper Iowa University",
+   "cat": "colleges",
+   "img": "upper-iowa-university.webp"
+  },
+  {
+   "id": "veteran-s",
+   "name": "Veteran's",
+   "cat": "veterans",
+   "img": "veteran-s.webp"
+  },
+  {
+   "id": "wartburg-college",
+   "name": "Wartburg College",
+   "cat": "colleges",
+   "img": "wartburg-college.webp"
+  },
+  {
+   "id": "william-penn",
+   "name": "William Penn",
+   "cat": "other",
+   "img": "william-penn.webp"
+  }
+ ]
+}

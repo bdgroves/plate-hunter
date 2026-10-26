@@ -1,0 +1,583 @@
+[
+ {
+  "title": "“Proud to be a Veteran”",
+  "keegan_img": "MN-plates_image-076.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Agricultural",
+  "keegan_img": "MN-plates_image-002.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "American Legion",
+  "keegan_img": "american-legion.png",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "ARO (Amateur Radio",
+  "keegan_img": "MN-plates_image-003.jpg",
+  "cat": "hobby",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Citizens Band Radio",
+  "keegan_img": "MN-plates_image-004.jpg",
+  "cat": "hobby",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Collector Class: Pioneer",
+  "keegan_img": "collector-pioneer.png",
+  "cat": "vehicle",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Collector Class: StreetRod",
+  "keegan_img": "MN-plates_image-010.jpg",
+  "cat": "vehicle",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Collector Class:Classic",
+  "keegan_img": "MN-plates_image-005.jpg",
+  "cat": "vehicle",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Collector Class:Collector",
+  "keegan_img": "collector-collector.png",
+  "cat": "vehicle",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Collegiate: Augsburg College",
+  "keegan_img": "MN-plates_image-011.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Collegiate: Bemidji",
+  "keegan_img": "MN-plates_image-012.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Collegiate: Bethel University",
+  "keegan_img": "MN-plates_image-013.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Collegiate: College of St. Benedict",
+  "keegan_img": "MN-plates_image-023.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Collegiate: Concordia College (Moorhead",
+  "keegan_img": "MN-plates_image-014.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Collegiate: Concordia University (St. Paul",
+  "keegan_img": "MN-plates_image-015.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Collegiate: Crown College",
+  "keegan_img": "MN-plates_image-008.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Collegiate: Gustavus Adolphus",
+  "keegan_img": "gustavus-adolphus.png",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Collegiate: Hamline University",
+  "keegan_img": "MN-plates_image-016.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Collegiate: Macalester University",
+  "keegan_img": "MN-plates_image-017.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Collegiate: Metropolitan State University",
+  "keegan_img": "MN-plates_image-019.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Collegiate: Minnesota State University Mankato",
+  "keegan_img": "MN-plates_image-018.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Collegiate: Minnesota State University Moorhead",
+  "keegan_img": "MN-plates_image-020.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Collegiate: Southwest Minnesota State University",
+  "keegan_img": "MN-plates_image-022.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Collegiate: St. Catherine’s University",
+  "keegan_img": "MN-plates_image-024.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Collegiate: St. Cloud State",
+  "keegan_img": "MN-plates_image-027.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Collegiate: St. John’s",
+  "keegan_img": "st-johns-univ.png",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Collegiate: St. Mary's",
+  "keegan_img": "MN-plates_image-025.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Collegiate: St. Olaf",
+  "keegan_img": "MN-plates_image-028.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Collegiate: St. Thomas",
+  "keegan_img": "MN-plates_image-030.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Collegiate: U of M Crookston",
+  "keegan_img": "MN-plates_image-031.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Collegiate: U of M Duluth",
+  "keegan_img": "MN-plates_image-032.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Collegiate: U of M Morris",
+  "keegan_img": "MN-plates_image-034.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Collegiate: U of M Twin Cities",
+  "keegan_img": "MN-plates_image-033.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Collegiate: University of Northwestern St. Paul",
+  "keegan_img": "MN-plates_image-021.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Collegiate: Winona State",
+  "keegan_img": "MN-plates_image-035.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "CommuterPool",
+  "keegan_img": "van-pool.png",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Critical Habitat (DNR Conservation) - Anglers",
+  "keegan_img": "MN-plates_image-039.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Critical Habitat (DNR Conservation) - Buck",
+  "keegan_img": "MN-plates_image-042.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Critical Habitat (DNR Conservation) - Chickadee",
+  "keegan_img": "MN-plates_image-040.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Critical Habitat (DNR Conservation) - Deer",
+  "keegan_img": "MN-plates_image-037.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Critical Habitat (DNR Conservation) - Kouba Moose",
+  "keegan_img": "MN-plates_image-044.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Critical Habitat (DNR Conservation) - Ladyslipper",
+  "keegan_img": "MN-plates_image-041.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Critical Habitat (DNR Conservation) - Loon",
+  "keegan_img": "MN-plates_image-038.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Critical Habitat (DNR Conservation) - Pheasant",
+  "keegan_img": "MN-plates_image-043.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Critical Habitat (DNR Conservation) - Pollinator",
+  "keegan_img": "MN-plates_image-046.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Critical Habitat (DNR Conservation) - Wild Turkey",
+  "keegan_img": "MN-plates_image-045.jpg",
+  "cat": "sports",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Disabled",
+  "keegan_img": "MN-plates_image-048.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Disabled American Veteran Organization",
+  "keegan_img": "MN-plates_image-115.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Firefighter",
+  "keegan_img": "MN-plates_image-051.jpg",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Firefighter (Retired",
+  "keegan_img": "MN-plates_image-053.jpg",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Gold Star Family",
+  "keegan_img": "MN-plates_image-055.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Law Enforcement Memorial",
+  "keegan_img": "MN-plates_image-059.jpg",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Minnesota 100",
+  "keegan_img": "MN-plates_image-062.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Minnesota Golf",
+  "keegan_img": "MN-plates_image-064.jpg",
+  "cat": "sports",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Minnesota State Parks & Trails",
+  "keegan_img": "MN-plates_image-067.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "National Guard (MN",
+  "keegan_img": "MN-plates_image-069.jpg",
+  "cat": "military",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Ready Reserve",
+  "keegan_img": "ready-reserve.png",
+  "cat": "military",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Remembering Victims of Impaired Drivers",
+  "keegan_img": "MN-plates_image-073.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Retired Law Enforcement",
+  "keegan_img": "MN-plates_image-078.jpg",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Support our Troops",
+  "keegan_img": "MN-plates_image-085.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Veteran: Afghanistan",
+  "keegan_img": "MN-plates_image-087.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Veteran: Armed Forces Expeditionary Service Medal",
+  "keegan_img": "MN-plates_image-094.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Veteran: Bronze Star",
+  "keegan_img": "MN-plates_image-091.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Veteran: Combat Wounded (Purple Heart",
+  "keegan_img": "purple-heart.png",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Veteran: Ex-POW",
+  "keegan_img": "MN-plates_image-089.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Veteran: Global War on Terrorism (Expeditionary",
+  "keegan_img": "MN-plates_image-096.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Veteran: Global War on Terrorism (Service",
+  "keegan_img": "MN-plates_image-097.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Veteran: Gulf War (Desert Storm",
+  "keegan_img": "MN-plates_image-099.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Veteran: Iraq War",
+  "keegan_img": "MN-plates_image-100.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Veteran: Korea",
+  "keegan_img": "korean-vet2.png",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Veteran: Korea - Ribbon",
+  "keegan_img": "korean-vet.png",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Veteran: Korean Defense Service Medal",
+  "keegan_img": "MN-plates_image-102.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Veteran: Laos War (Allied Vet",
+  "keegan_img": "MN-plates_image-093.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Veteran: Medal of Honor",
+  "keegan_img": "medal-of-honor.png",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Veteran: Pearl Harbor Survivor",
+  "keegan_img": "MN-plates_image-104.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Veteran: Silver Star",
+  "keegan_img": "MN-plates_image-110.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Veteran: Vietnam",
+  "keegan_img": "MN-plates_image-111.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Veteran: Vietnam - Ribbon",
+  "keegan_img": "vietnam-vet-soldier.png",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Veteran: Woman Vet",
+  "keegan_img": "MN-plates_image-108.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Veteran: World War II",
+  "keegan_img": "world-war-2-vet.png",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Veteran: World War II - Ribbon",
+  "keegan_img": "world-war-2-vet-medal.png",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "VFW",
+  "keegan_img": "vfw.png",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ },
+ {
+  "title": "Volunteer Ambulance Attendant",
+  "keegan_img": "MN-plates_image-116.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+ }
+]

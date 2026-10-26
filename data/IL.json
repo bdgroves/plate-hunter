@@ -1,0 +1,616 @@
+{
+ "code": "IL",
+ "name": "Illinois",
+ "rated": false,
+ "checked": false,
+ "updated": "2026-10-25",
+ "about": "Illinois special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "sources": [
+  {
+   "title": "Jon Keegan, us-license-plates (2023)",
+   "url": "https://github.com/jonkeegan/us-license-plates"
+  }
+ ],
+ "plates": [
+  {
+   "id": "alzheimer-s-awareness",
+   "name": "Alzheimer's Awareness",
+   "cat": "charity",
+   "img": "alzheimer-s-awareness.webp"
+  },
+  {
+   "id": "amateur-radio",
+   "name": "Amateur Radio",
+   "cat": "hobby",
+   "img": "amateur-radio.webp"
+  },
+  {
+   "id": "america-remembers",
+   "name": "America Remembers",
+   "cat": "other",
+   "img": "america-remembers.webp"
+  },
+  {
+   "id": "antique",
+   "name": "Antique",
+   "cat": "vehicle",
+   "img": "antique.webp"
+  },
+  {
+   "id": "antique-expanded-use",
+   "name": "Antique– Expanded-Use",
+   "cat": "vehicle",
+   "img": "antique-expanded-use.webp"
+  },
+  {
+   "id": "autism-awareness",
+   "name": "Autism Awareness",
+   "cat": "charity",
+   "img": "autism-awareness.webp"
+  },
+  {
+   "id": "b",
+   "name": "B",
+   "cat": "other",
+   "img": "b.webp"
+  },
+  {
+   "id": "c",
+   "name": "C",
+   "cat": "other",
+   "img": "c.webp"
+  },
+  {
+   "id": "charitable",
+   "name": "Charitable",
+   "cat": "other",
+   "img": "charitable.webp"
+  },
+  {
+   "id": "chicago-bears",
+   "name": "Chicago Bears",
+   "cat": "sports",
+   "img": "chicago-bears.webp"
+  },
+  {
+   "id": "chicago-blackhawks",
+   "name": "Chicago Blackhawks",
+   "cat": "sports",
+   "img": "chicago-blackhawks.webp"
+  },
+  {
+   "id": "chicago-bulls",
+   "name": "Chicago Bulls",
+   "cat": "sports",
+   "img": "chicago-bulls.webp"
+  },
+  {
+   "id": "chicago-cubs",
+   "name": "Chicago Cubs",
+   "cat": "sports",
+   "img": "chicago-cubs.webp"
+  },
+  {
+   "id": "chicago-white-sox",
+   "name": "Chicago White Sox",
+   "cat": "sports",
+   "img": "chicago-white-sox.webp"
+  },
+  {
+   "id": "collegiate-series",
+   "name": "Collegiate Series",
+   "cat": "colleges",
+   "img": "collegiate-series.webp"
+  },
+  {
+   "id": "ducks-unlimited",
+   "name": "Ducks Unlimited",
+   "cat": "nature",
+   "img": "ducks-unlimited.webp"
+  },
+  {
+   "id": "eagle-scout",
+   "name": "Eagle Scout",
+   "cat": "charity",
+   "img": "eagle-scout.webp"
+  },
+  {
+   "id": "education",
+   "name": "Education",
+   "cat": "charity",
+   "img": "education.webp"
+  },
+  {
+   "id": "electric",
+   "name": "Electric",
+   "cat": "vehicle",
+   "img": "electric.webp"
+  },
+  {
+   "id": "environmental",
+   "name": "Environmental",
+   "cat": "nature",
+   "img": "environmental.webp"
+  },
+  {
+   "id": "farm-16-000-lbs-or-less",
+   "name": "Farm- 16,000 lbs. or less",
+   "cat": "vehicle",
+   "img": "farm-16-000-lbs-or-less.webp"
+  },
+  {
+   "id": "farm-16-001-lbs-to-20-000-lbs",
+   "name": "Farm- 16,001 lbs. to 20,000 lbs.",
+   "cat": "vehicle",
+   "img": "farm-16-001-lbs-to-20-000-lbs.webp"
+  },
+  {
+   "id": "farm-20-001-lbs-to-24-000-lbs",
+   "name": "Farm- 20,001 lbs. to 24,000 lbs.",
+   "cat": "vehicle",
+   "img": "farm-20-001-lbs-to-24-000-lbs.webp"
+  },
+  {
+   "id": "farm-24-001-lbs-to-28-000-lbs",
+   "name": "Farm- 24,001 lbs. to 28,000 lbs.",
+   "cat": "vehicle",
+   "img": "farm-24-001-lbs-to-28-000-lbs.webp"
+  },
+  {
+   "id": "farm-28-001-lbs-to-32-000-lbs",
+   "name": "Farm- 28,001 lbs. to 32,000 lbs.",
+   "cat": "vehicle",
+   "img": "farm-28-001-lbs-to-32-000-lbs.webp"
+  },
+  {
+   "id": "farm-32-001-lbs-to-36-000-lbs",
+   "name": "Farm- 32,001 lbs. to 36,000 lbs.",
+   "cat": "vehicle",
+   "img": "farm-32-001-lbs-to-36-000-lbs.webp"
+  },
+  {
+   "id": "farm-36-001-lbs-to-45-000-lbs",
+   "name": "Farm- 36,001 lbs. to 45,000 lbs.",
+   "cat": "vehicle",
+   "img": "farm-36-001-lbs-to-45-000-lbs.webp"
+  },
+  {
+   "id": "farm-45-001-lbs-to-54-999-lbs",
+   "name": "Farm- 45,001 lbs. to 54,999 lbs.",
+   "cat": "vehicle",
+   "img": "farm-45-001-lbs-to-54-999-lbs.webp"
+  },
+  {
+   "id": "farm-55-000-lbs-to-64-000-lbs",
+   "name": "Farm- 55,000 lbs. to 64,000 lbs.",
+   "cat": "vehicle",
+   "img": "farm-55-000-lbs-to-64-000-lbs.webp"
+  },
+  {
+   "id": "farm-64-001-lbs-to-73-280-lbs",
+   "name": "Farm- 64,001 lbs. to 73,280 lbs.",
+   "cat": "vehicle",
+   "img": "farm-64-001-lbs-to-73-280-lbs.webp"
+  },
+  {
+   "id": "farm-73-281-lbs-to-77-000-lbs",
+   "name": "Farm- 73,281 lbs. to 77,000 lbs.",
+   "cat": "vehicle",
+   "img": "farm-73-281-lbs-to-77-000-lbs.webp"
+  },
+  {
+   "id": "farm-77-001-lbs-to-80-000-lbs",
+   "name": "Farm- 77,001 lbs. to 80,000 lbs.",
+   "cat": "vehicle",
+   "img": "farm-77-001-lbs-to-80-000-lbs.webp"
+  },
+  {
+   "id": "fire-chief",
+   "name": "Fire Chief",
+   "cat": "firstresponder",
+   "img": "fire-chief.webp"
+  },
+  {
+   "id": "firefighters-memorial",
+   "name": "Firefighters Memorial",
+   "cat": "firstresponder",
+   "img": "firefighters-memorial.webp"
+  },
+  {
+   "id": "flat-weightclass-d-10-001-12-000-lbs",
+   "name": "Flat WeightClass D - 10,001-12,000 lbs",
+   "cat": "other",
+   "img": "flat-weightclass-d-10-001-12-000-lbs.webp"
+  },
+  {
+   "id": "flat-weightclass-f-12-001-16-000-lbs",
+   "name": "Flat WeightClass F - 12,001-16,000 lbs.",
+   "cat": "other",
+   "img": "flat-weightclass-f-12-001-16-000-lbs.webp"
+  },
+  {
+   "id": "flat-weightclass-h-16-001-26-000-lbs",
+   "name": "Flat WeightClass H - 16,001-26,000 lbs.",
+   "cat": "other",
+   "img": "flat-weightclass-h-16-001-26-000-lbs.webp"
+  },
+  {
+   "id": "flat-weightclass-j-26-001-28-000-lbs",
+   "name": "Flat WeightClass J - 26,001-28,000 lbs.",
+   "cat": "other",
+   "img": "flat-weightclass-j-26-001-28-000-lbs.webp"
+  },
+  {
+   "id": "flat-weightclass-k-28-001-32-000-lbs",
+   "name": "Flat WeightClass K - 28,001-32,000 lbs.",
+   "cat": "other",
+   "img": "flat-weightclass-k-28-001-32-000-lbs.webp"
+  },
+  {
+   "id": "flat-weightclass-l-32-001-36-000-lbs",
+   "name": "Flat WeightClass L - 32,001-36,000 lbs.",
+   "cat": "other",
+   "img": "flat-weightclass-l-32-001-36-000-lbs.webp"
+  },
+  {
+   "id": "flat-weightclass-n-36-001-40-000-lbs",
+   "name": "Flat WeightClass N - 36,001-40,000 lbs.",
+   "cat": "other",
+   "img": "flat-weightclass-n-36-001-40-000-lbs.webp"
+  },
+  {
+   "id": "flat-weightclass-p-40-001-45-000-lbs",
+   "name": "Flat WeightClass P - 40,001-45,000 lbs.",
+   "cat": "other",
+   "img": "flat-weightclass-p-40-001-45-000-lbs.webp"
+  },
+  {
+   "id": "flat-weightclass-q-45-001-50-000-lbs",
+   "name": "Flat WeightClass Q - 45,001-50,000 lbs.",
+   "cat": "other",
+   "img": "flat-weightclass-q-45-001-50-000-lbs.webp"
+  },
+  {
+   "id": "flat-weightclass-r-50-001-54-999-lbs",
+   "name": "Flat WeightClass R - 50,001-54,999 lbs.",
+   "cat": "other",
+   "img": "flat-weightclass-r-50-001-54-999-lbs.webp"
+  },
+  {
+   "id": "flat-weightclass-s-55-000-59-500-lbs",
+   "name": "Flat WeightClass S - 55,000-59,500 lbs.",
+   "cat": "other",
+   "img": "flat-weightclass-s-55-000-59-500-lbs.webp"
+  },
+  {
+   "id": "flat-weightclass-t-59-501-64-000-lbs",
+   "name": "Flat WeightClass T - 59,501-64,000 lbs.",
+   "cat": "other",
+   "img": "flat-weightclass-t-59-501-64-000-lbs.webp"
+  },
+  {
+   "id": "flat-weightclass-v-64-001-73-280-lbs",
+   "name": "Flat WeightClass V - 64,001-73,280 lbs.",
+   "cat": "other",
+   "img": "flat-weightclass-v-64-001-73-280-lbs.webp"
+  },
+  {
+   "id": "flat-weightclass-x-73-281-77-000-lbs",
+   "name": "Flat WeightClass X - 73,281-77,000 lbs.",
+   "cat": "other",
+   "img": "flat-weightclass-x-73-281-77-000-lbs.webp"
+  },
+  {
+   "id": "flat-weightclass-z-77-001-80-000-lbs",
+   "name": "Flat WeightClass Z - 77,001-80,000 lbs.",
+   "cat": "other",
+   "img": "flat-weightclass-z-77-001-80-000-lbs.webp"
+  },
+  {
+   "id": "hearing-impaired",
+   "name": "Hearing Impaired",
+   "cat": "other",
+   "img": "hearing-impaired.webp"
+  },
+  {
+   "id": "illinois-chicago-police-memorial-foundat",
+   "name": "Illinois Chicago Police Memorial Foundation",
+   "cat": "firstresponder",
+   "img": "illinois-chicago-police-memorial-foundat.webp"
+  },
+  {
+   "id": "illinois-fraternal-order-of-police",
+   "name": "Illinois Fraternal Order of Police",
+   "cat": "firstresponder",
+   "img": "illinois-fraternal-order-of-police.webp"
+  },
+  {
+   "id": "illinois-hospice",
+   "name": "Illinois Hospice",
+   "cat": "other",
+   "img": "illinois-hospice.webp"
+  },
+  {
+   "id": "illinois-michigan-canal",
+   "name": "Illinois Michigan Canal",
+   "cat": "other",
+   "img": "illinois-michigan-canal.webp"
+  },
+  {
+   "id": "illinois-nurses",
+   "name": "Illinois Nurses",
+   "cat": "other",
+   "img": "illinois-nurses.webp"
+  },
+  {
+   "id": "illinois-pan-hellenic-series",
+   "name": "Illinois Pan Hellenic Series",
+   "cat": "other",
+   "img": "illinois-pan-hellenic-series.webp"
+  },
+  {
+   "id": "illinois-police-association",
+   "name": "Illinois Police Association",
+   "cat": "firstresponder",
+   "img": "illinois-police-association.webp"
+  },
+  {
+   "id": "illinois-retired-law-enforcement",
+   "name": "Illinois Retired Law Enforcement",
+   "cat": "firstresponder",
+   "img": "illinois-retired-law-enforcement.webp"
+  },
+  {
+   "id": "illinois-state-police-memorial-park",
+   "name": "Illinois State Police Memorial Park",
+   "cat": "firstresponder",
+   "img": "illinois-state-police-memorial-park.webp"
+  },
+  {
+   "id": "international-brotherhood-of-teamsters",
+   "name": "International Brotherhood of Teamsters",
+   "cat": "other",
+   "img": "international-brotherhood-of-teamsters.webp"
+  },
+  {
+   "id": "korean-war-veteran",
+   "name": "Korean War Veteran",
+   "cat": "veterans",
+   "img": "korean-war-veteran.webp"
+  },
+  {
+   "id": "law-enforcement-torch-run-for-special-ol",
+   "name": "Law Enforcement Torch Run for Special Olympics",
+   "cat": "firstresponder",
+   "img": "law-enforcement-torch-run-for-special-ol.webp"
+  },
+  {
+   "id": "mammogram",
+   "name": "Mammogram",
+   "cat": "other",
+   "img": "mammogram.webp"
+  },
+  {
+   "id": "master-mason",
+   "name": "Master Mason",
+   "cat": "hobby",
+   "img": "master-mason.webp"
+  },
+  {
+   "id": "mileage-12-000-lbs-or-less",
+   "name": "Mileage- 12,000 lbs. or less",
+   "cat": "other",
+   "img": "mileage-12-000-lbs-or-less.webp"
+  },
+  {
+   "id": "mileage-12-001-lbs-to-16-000-lbs",
+   "name": "Mileage- 12,001 lbs. to 16,000 lbs.",
+   "cat": "other",
+   "img": "mileage-12-001-lbs-to-16-000-lbs.webp"
+  },
+  {
+   "id": "mileage-16-001-lbs-to-20-000-lbs",
+   "name": "Mileage- 16,001 lbs. to 20,000 lbs.",
+   "cat": "other",
+   "img": "mileage-16-001-lbs-to-20-000-lbs.webp"
+  },
+  {
+   "id": "mileage-20-001-lbs-to-24-000-lbs",
+   "name": "Mileage- 20,001 lbs. to 24,000 lbs.",
+   "cat": "other",
+   "img": "mileage-20-001-lbs-to-24-000-lbs.webp"
+  },
+  {
+   "id": "mileage-24-001-lbs-to-28-000-lbs",
+   "name": "Mileage- 24,001 lbs. to 28,000 lbs.",
+   "cat": "other",
+   "img": "mileage-24-001-lbs-to-28-000-lbs.webp"
+  },
+  {
+   "id": "mileage-28-001-lbs-to-32-000-lbs",
+   "name": "Mileage- 28,001 lbs. to 32,000 lbs.",
+   "cat": "other",
+   "img": "mileage-28-001-lbs-to-32-000-lbs.webp"
+  },
+  {
+   "id": "mileage-32-001-lbs-to-36-000-lbs",
+   "name": "Mileage- 32,001 lbs. to 36,000 lbs.",
+   "cat": "other",
+   "img": "mileage-32-001-lbs-to-36-000-lbs.webp"
+  },
+  {
+   "id": "mileage-36-001-lbs-to-40-000-lbs",
+   "name": "Mileage- 36,001 lbs. to 40,000 lbs.",
+   "cat": "other",
+   "img": "mileage-36-001-lbs-to-40-000-lbs.webp"
+  },
+  {
+   "id": "mileage-40-001-lbs-to-45-000-lbs",
+   "name": "Mileage- 40,001 lbs. to 45,000 lbs.",
+   "cat": "other",
+   "img": "mileage-40-001-lbs-to-45-000-lbs.webp"
+  },
+  {
+   "id": "mileage-45-001-lbs-to-54-999-lbs",
+   "name": "Mileage- 45,001 lbs. to 54,999 lbs.",
+   "cat": "other",
+   "img": "mileage-45-001-lbs-to-54-999-lbs.webp"
+  },
+  {
+   "id": "mileage-55-000-lbs-to-59-500-lbs",
+   "name": "Mileage- 55,000 lbs. to 59,500 lbs.",
+   "cat": "other",
+   "img": "mileage-55-000-lbs-to-59-500-lbs.webp"
+  },
+  {
+   "id": "mileage-59-501-lbs-to-64-000-lbs",
+   "name": "Mileage- 59,501 lbs. to 64,000 lbs.",
+   "cat": "other",
+   "img": "mileage-59-501-lbs-to-64-000-lbs.webp"
+  },
+  {
+   "id": "mileage-64-001-lbs-to-73-280-lbs",
+   "name": "Mileage- 64,001 lbs. to 73,280 lbs.",
+   "cat": "other",
+   "img": "mileage-64-001-lbs-to-73-280-lbs.webp"
+  },
+  {
+   "id": "mileage-73-281-lbs-to-77-000-lbs",
+   "name": "Mileage- 73,281 lbs. to 77,000 lbs.",
+   "cat": "other",
+   "img": "mileage-73-281-lbs-to-77-000-lbs.webp"
+  },
+  {
+   "id": "mileage-77-001-lbs-to-80-000-lbs",
+   "name": "Mileage- 77,001 lbs. to 80,000 lbs.",
+   "cat": "other",
+   "img": "mileage-77-001-lbs-to-80-000-lbs.webp"
+  },
+  {
+   "id": "organ-donor",
+   "name": "Organ Donor",
+   "cat": "charity",
+   "img": "organ-donor.webp"
+  },
+  {
+   "id": "ovarian-cancer-awareness",
+   "name": "Ovarian Cancer Awareness",
+   "cat": "charity",
+   "img": "ovarian-cancer-awareness.webp"
+  },
+  {
+   "id": "park-district-youth",
+   "name": "Park District Youth",
+   "cat": "nature",
+   "img": "park-district-youth.webp"
+  },
+  {
+   "id": "person-s-with-disabilities",
+   "name": "Person's with Disabilities",
+   "cat": "charity",
+   "img": "person-s-with-disabilities.webp"
+  },
+  {
+   "id": "pet-friendly",
+   "name": "Pet Friendly",
+   "cat": "charity",
+   "img": "pet-friendly.webp"
+  },
+  {
+   "id": "police-memorial",
+   "name": "Police Memorial",
+   "cat": "firstresponder",
+   "img": "police-memorial.webp"
+  },
+  {
+   "id": "president-of-a-village-or-incorporated-t",
+   "name": "President of a Village or Incorporated Town or Mayor",
+   "cat": "other",
+   "img": "president-of-a-village-or-incorporated-t.webp"
+  },
+  {
+   "id": "prevent-violence",
+   "name": "Prevent Violence",
+   "cat": "charity",
+   "img": "prevent-violence.webp"
+  },
+  {
+   "id": "prince-hall-freemasonry",
+   "name": "Prince Hall Freemasonry",
+   "cat": "hobby",
+   "img": "prince-hall-freemasonry.webp"
+  },
+  {
+   "id": "recreational",
+   "name": "Recreational",
+   "cat": "vehicle",
+   "img": "recreational.webp"
+  },
+  {
+   "id": "rotary-international",
+   "name": "Rotary International",
+   "cat": "hobby",
+   "img": "rotary-international.webp"
+  },
+  {
+   "id": "route-66",
+   "name": "Route 66",
+   "cat": "other",
+   "img": "route-66.webp"
+  },
+  {
+   "id": "saluting-agriculture",
+   "name": "Saluting Agriculture",
+   "cat": "charity",
+   "img": "saluting-agriculture.webp"
+  },
+  {
+   "id": "share-the-road",
+   "name": "Share the Road",
+   "cat": "hobby",
+   "img": "share-the-road.webp"
+  },
+  {
+   "id": "sheet-metal-workers-international-associ",
+   "name": "Sheet Metal Workers International Association",
+   "cat": "charity",
+   "img": "sheet-metal-workers-international-associ.webp"
+  },
+  {
+   "id": "sporting-series",
+   "name": "Sporting Series",
+   "cat": "other",
+   "img": "sporting-series.webp"
+  },
+  {
+   "id": "st-louis-cardinals",
+   "name": "St. Louis Cardinals",
+   "cat": "sports",
+   "img": "st-louis-cardinals.webp"
+  },
+  {
+   "id": "support-our-troops",
+   "name": "Support Our Troops",
+   "cat": "charity",
+   "img": "support-our-troops.webp"
+  },
+  {
+   "id": "support-youth-golf",
+   "name": "Support Youth Golf",
+   "cat": "sports",
+   "img": "support-youth-golf.webp"
+  },
+  {
+   "id": "tinted-windows",
+   "name": "Tinted Windows",
+   "cat": "other",
+   "img": "tinted-windows.webp"
+  },
+  {
+   "id": "wildlife-prairie-park",
+   "name": "Wildlife Prairie Park",
+   "cat": "nature",
+   "img": "wildlife-prairie-park.webp"
+  }
+ ]
+}

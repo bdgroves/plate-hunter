@@ -1,0 +1,532 @@
+{
+ "code": "WI",
+ "name": "Wisconsin",
+ "rated": false,
+ "checked": false,
+ "updated": "2026-10-25",
+ "about": "Wisconsin special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "sources": [
+  {
+   "title": "Jon Keegan, us-license-plates (2023)",
+   "url": "https://github.com/jonkeegan/us-license-plates"
+  }
+ ],
+ "plates": [
+  {
+   "id": "amateur-radio",
+   "name": "Amateur radio",
+   "cat": "hobby",
+   "img": "amateur-radio.webp"
+  },
+  {
+   "id": "antique",
+   "name": "Antique",
+   "cat": "vehicle",
+   "img": "antique.webp"
+  },
+  {
+   "id": "bad-river-band-of-lake-superior-chippewa",
+   "name": "Bad River Band of Lake Superior Chippewa Indians",
+   "cat": "tribal",
+   "img": "bad-river-band-of-lake-superior-chippewa.webp"
+  },
+  {
+   "id": "celebrate-children-foundation-1999-2010",
+   "name": "Celebrate Children Foundation - 1999-2010",
+   "cat": "charity",
+   "img": "celebrate-children-foundation-1999-2010.webp"
+  },
+  {
+   "id": "celebrate-children-foundation-2010-2016",
+   "name": "Celebrate Children Foundation - 2010-2016",
+   "cat": "charity",
+   "img": "celebrate-children-foundation-2010-2016.webp"
+  },
+  {
+   "id": "celebrate-children-foundation-current",
+   "name": "Celebrate Children Foundation - Current",
+   "cat": "charity",
+   "img": "celebrate-children-foundation-current.webp"
+  },
+  {
+   "id": "choose-life-wisconsin-inc",
+   "name": "Choose Life Wisconsin, Inc.",
+   "cat": "other",
+   "img": "choose-life-wisconsin-inc.webp"
+  },
+  {
+   "id": "civil-air-patrol",
+   "name": "Civil Air Patrol",
+   "cat": "other",
+   "img": "civil-air-patrol.webp"
+  },
+  {
+   "id": "collector",
+   "name": "Collector",
+   "cat": "vehicle",
+   "img": "collector.webp"
+  },
+  {
+   "id": "collector-special",
+   "name": "Collector special",
+   "cat": "vehicle",
+   "img": "collector-special.webp"
+  },
+  {
+   "id": "cure-childhood-cancer",
+   "name": "Cure childhood cancer",
+   "cat": "charity",
+   "img": "cure-childhood-cancer.webp"
+  },
+  {
+   "id": "demonstrator",
+   "name": "Demonstrator",
+   "cat": "other",
+   "img": "demonstrator.webp"
+  },
+  {
+   "id": "disabled",
+   "name": "Disabled",
+   "cat": "other",
+   "img": "disabled.webp"
+  },
+  {
+   "id": "disabled-veteran",
+   "name": "Disabled veteran",
+   "cat": "veterans",
+   "img": "disabled-veteran.webp"
+  },
+  {
+   "id": "distributor",
+   "name": "Distributor",
+   "cat": "other",
+   "img": "distributor.webp"
+  },
+  {
+   "id": "donate-life-wisconsin",
+   "name": "Donate Life Wisconsin",
+   "cat": "charity",
+   "img": "donate-life-wisconsin.webp"
+  },
+  {
+   "id": "drivers-education",
+   "name": "Drivers education",
+   "cat": "nature",
+   "img": "drivers-education.webp"
+  },
+  {
+   "id": "ducks-unlimited",
+   "name": "Ducks Unlimited",
+   "cat": "nature",
+   "img": "ducks-unlimited.webp"
+  },
+  {
+   "id": "emergency-medical-services-red-white",
+   "name": "Emergency medical services - Red + white",
+   "cat": "firstresponder",
+   "img": "emergency-medical-services-red-white.webp"
+  },
+  {
+   "id": "emergency-medical-services-white",
+   "name": "Emergency medical services - White",
+   "cat": "firstresponder",
+   "img": "emergency-medical-services-white.webp"
+  },
+  {
+   "id": "endangered-resources-badger",
+   "name": "Endangered resources - Badger",
+   "cat": "other",
+   "img": "endangered-resources-badger.webp"
+  },
+  {
+   "id": "endangered-resources-eagle",
+   "name": "Endangered resources - Eagle",
+   "cat": "nature",
+   "img": "endangered-resources-eagle.webp"
+  },
+  {
+   "id": "endangered-resources-wolf",
+   "name": "Endangered resources - Wolf",
+   "cat": "nature",
+   "img": "endangered-resources-wolf.webp"
+  },
+  {
+   "id": "ex-prisoner-of-war",
+   "name": "Ex-prisoner of war",
+   "cat": "veterans",
+   "img": "ex-prisoner-of-war.webp"
+  },
+  {
+   "id": "farm",
+   "name": "Farm",
+   "cat": "vehicle",
+   "img": "farm.webp"
+  },
+  {
+   "id": "finance-company",
+   "name": "Finance company",
+   "cat": "other",
+   "img": "finance-company.webp"
+  },
+  {
+   "id": "firefighter-red",
+   "name": "Firefighter - Red",
+   "cat": "firstresponder",
+   "img": "firefighter-red.webp"
+  },
+  {
+   "id": "firefighter-white",
+   "name": "Firefighter - White",
+   "cat": "firstresponder",
+   "img": "firefighter-white.webp"
+  },
+  {
+   "id": "freemason",
+   "name": "Freemason",
+   "cat": "hobby",
+   "img": "freemason.webp"
+  },
+  {
+   "id": "gold-star-family",
+   "name": "Gold Star Family",
+   "cat": "veterans",
+   "img": "gold-star-family.webp"
+  },
+  {
+   "id": "golf-wisconsin",
+   "name": "Golf Wisconsin",
+   "cat": "sports",
+   "img": "golf-wisconsin.webp"
+  },
+  {
+   "id": "green-bay-packers",
+   "name": "Green Bay Packers",
+   "cat": "sports",
+   "img": "green-bay-packers.webp"
+  },
+  {
+   "id": "harley-davidson-share-the-road",
+   "name": "Harley-Davidson/Share the road",
+   "cat": "hobby",
+   "img": "harley-davidson-share-the-road.webp"
+  },
+  {
+   "id": "heavy-farm",
+   "name": "Heavy farm",
+   "cat": "vehicle",
+   "img": "heavy-farm.webp"
+  },
+  {
+   "id": "heavy",
+   "name": "Heavy",
+   "cat": "other",
+   "img": "heavy.webp"
+  },
+  {
+   "id": "historic-military",
+   "name": "Historic military",
+   "cat": "military",
+   "img": "historic-military.webp"
+  },
+  {
+   "id": "ho-chunk-nation",
+   "name": "Ho-Chunk Nation",
+   "cat": "tribal",
+   "img": "ho-chunk-nation.webp"
+  },
+  {
+   "id": "ho-chunk-nation-tribal-owned",
+   "name": "Ho-Chunk Nation - Tribal owned",
+   "cat": "tribal",
+   "img": "ho-chunk-nation-tribal-owned.webp"
+  },
+  {
+   "id": "hobbyist",
+   "name": "Hobbyist",
+   "cat": "other",
+   "img": "hobbyist.webp"
+  },
+  {
+   "id": "human-service",
+   "name": "Human Service",
+   "cat": "other",
+   "img": "human-service.webp"
+  },
+  {
+   "id": "in-god-we-trust",
+   "name": "In God We Trust",
+   "cat": "charity",
+   "img": "in-god-we-trust.webp"
+  },
+  {
+   "id": "keeping-the-lights-on",
+   "name": "Keeping the Lights On",
+   "cat": "other",
+   "img": "keeping-the-lights-on.webp"
+  },
+  {
+   "id": "lac-courte-oreilles-chippewa-band-of-lak",
+   "name": "Lac Courte Oreilles Chippewa Band of Lake Superior Indians of Wisconsin",
+   "cat": "tribal",
+   "img": "lac-courte-oreilles-chippewa-band-of-lak.webp"
+  },
+  {
+   "id": "lac-courte-oreilles-chippewa-band-of-lak-2",
+   "name": "Lac Courte Oreilles Chippewa Band of Lake Superior Indians of Wisconsin - Eagle",
+   "cat": "tribal",
+   "img": "lac-courte-oreilles-chippewa-band-of-lak-2.webp"
+  },
+  {
+   "id": "lac-courte-oreilles-chippewa-band-of-lak-2-2",
+   "name": "Lac Courte Oreilles Chippewa Band of Lake Superior Indians of Wisconsin - Veteran",
+   "cat": "tribal",
+   "img": "lac-courte-oreilles-chippewa-band-of-lak-2-2.webp"
+  },
+  {
+   "id": "lac-du-flambeau-band-of-lake-superior-ch",
+   "name": "Lac du Flambeau Band of Lake Superior Chippewa Indians",
+   "cat": "tribal",
+   "img": "lac-du-flambeau-band-of-lake-superior-ch.webp"
+  },
+  {
+   "id": "lao-veterans-of-america",
+   "name": "Lao Veterans of America",
+   "cat": "veterans",
+   "img": "lao-veterans-of-america.webp"
+  },
+  {
+   "id": "law-enforcement-memorial",
+   "name": "Law Enforcement Memorial",
+   "cat": "firstresponder",
+   "img": "law-enforcement-memorial.webp"
+  },
+  {
+   "id": "light",
+   "name": "Light",
+   "cat": "other",
+   "img": "light.webp"
+  },
+  {
+   "id": "lions-foundation",
+   "name": "Lions Foundation",
+   "cat": "sports",
+   "img": "lions-foundation.webp"
+  },
+  {
+   "id": "marquette-university",
+   "name": "Marquette University",
+   "cat": "colleges",
+   "img": "marquette-university.webp"
+  },
+  {
+   "id": "medal-of-honor",
+   "name": "Medal of Honor",
+   "cat": "veterans",
+   "img": "medal-of-honor.webp"
+  },
+  {
+   "id": "menominee-indian-tribe-of-wisconsin",
+   "name": "Menominee Indian Tribe of Wisconsin",
+   "cat": "tribal",
+   "img": "menominee-indian-tribe-of-wisconsin.webp"
+  },
+  {
+   "id": "menominee-indian-tribe-of-wisconsin-shie",
+   "name": "Menominee Indian Tribe of Wisconsin - Shield",
+   "cat": "tribal",
+   "img": "menominee-indian-tribe-of-wisconsin-shie.webp"
+  },
+  {
+   "id": "menominee-indian-tribe-of-wisconsin-thun",
+   "name": "Menominee Indian Tribe of Wisconsin - Thunderbird",
+   "cat": "tribal",
+   "img": "menominee-indian-tribe-of-wisconsin-thun.webp"
+  },
+  {
+   "id": "military-red-white-blue",
+   "name": "Military - Red, White + Blue",
+   "cat": "military",
+   "img": "military-red-white-blue.webp"
+  },
+  {
+   "id": "military-white",
+   "name": "Military - White",
+   "cat": "military",
+   "img": "military-white.webp"
+  },
+  {
+   "id": "milwaukee-brewers",
+   "name": "Milwaukee Brewers",
+   "cat": "sports",
+   "img": "milwaukee-brewers.webp"
+  },
+  {
+   "id": "milwaukee-brewers-brew-crew",
+   "name": "Milwaukee Brewers - Brew crew",
+   "cat": "sports",
+   "img": "milwaukee-brewers-brew-crew.webp"
+  },
+  {
+   "id": "milwaukee-bucks",
+   "name": "Milwaukee Bucks",
+   "cat": "sports",
+   "img": "milwaukee-bucks.webp"
+  },
+  {
+   "id": "motor-home",
+   "name": "Motor home",
+   "cat": "vehicle",
+   "img": "motor-home.webp"
+  },
+  {
+   "id": "nurses-change-lives",
+   "name": "Nurses change lives",
+   "cat": "other",
+   "img": "nurses-change-lives.webp"
+  },
+  {
+   "id": "oneida-indian-tribe-of-wisconsin",
+   "name": "Oneida Indian Tribe of Wisconsin",
+   "cat": "tribal",
+   "img": "oneida-indian-tribe-of-wisconsin.webp"
+  },
+  {
+   "id": "oneida-indian-tribe-of-wisconsin-bear",
+   "name": "Oneida Indian Tribe of Wisconsin - Bear",
+   "cat": "tribal",
+   "img": "oneida-indian-tribe-of-wisconsin-bear.webp"
+  },
+  {
+   "id": "oneida-indian-tribe-of-wisconsin-clan",
+   "name": "Oneida Indian Tribe of Wisconsin - Clan",
+   "cat": "tribal",
+   "img": "oneida-indian-tribe-of-wisconsin-clan.webp"
+  },
+  {
+   "id": "oneida-indian-tribe-of-wisconsin-eagle",
+   "name": "Oneida Indian Tribe of Wisconsin - Eagle",
+   "cat": "tribal",
+   "img": "oneida-indian-tribe-of-wisconsin-eagle.webp"
+  },
+  {
+   "id": "oneida-indian-tribe-of-wisconsin-turtle",
+   "name": "Oneida Indian Tribe of Wisconsin - Turtle",
+   "cat": "tribal",
+   "img": "oneida-indian-tribe-of-wisconsin-turtle.webp"
+  },
+  {
+   "id": "oneida-indian-tribe-of-wisconsin-vietnam",
+   "name": "Oneida Indian Tribe of Wisconsin - Vietnam Vet",
+   "cat": "tribal",
+   "img": "oneida-indian-tribe-of-wisconsin-vietnam.webp"
+  },
+  {
+   "id": "oneida-indian-tribe-of-wisconsin-wolf",
+   "name": "Oneida Indian Tribe of Wisconsin - Wolf",
+   "cat": "tribal",
+   "img": "oneida-indian-tribe-of-wisconsin-wolf.webp"
+  },
+  {
+   "id": "operating-engineers-local-139",
+   "name": "Operating Engineers Local 139",
+   "cat": "other",
+   "img": "operating-engineers-local-139.webp"
+  },
+  {
+   "id": "red-cliff-band-of-lake-superior-chippewa",
+   "name": "Red Cliff Band of Lake Superior Chippewa",
+   "cat": "tribal",
+   "img": "red-cliff-band-of-lake-superior-chippewa.webp"
+  },
+  {
+   "id": "rescue-squad-member",
+   "name": "Rescue squad member",
+   "cat": "firstresponder",
+   "img": "rescue-squad-member.webp"
+  },
+  {
+   "id": "rocky-mountain-elk-foundation",
+   "name": "Rocky Mountain Elk Foundation",
+   "cat": "nature",
+   "img": "rocky-mountain-elk-foundation.webp"
+  },
+  {
+   "id": "scouting-alumni",
+   "name": "Scouting alumni",
+   "cat": "colleges",
+   "img": "scouting-alumni.webp"
+  },
+  {
+   "id": "scouting-alumni-eagle-scout",
+   "name": "Scouting alumni - Eagle scout",
+   "cat": "colleges",
+   "img": "scouting-alumni-eagle-scout.webp"
+  },
+  {
+   "id": "special-x-specific-use-vehicles",
+   "name": "Special \"X\" (specific use vehicles",
+   "cat": "other",
+   "img": "special-x-specific-use-vehicles.webp"
+  },
+  {
+   "id": "special-designed",
+   "name": "Special designed",
+   "cat": "other",
+   "img": "special-designed.webp"
+  },
+  {
+   "id": "st-croix-chippewa",
+   "name": "St. Croix Chippewa",
+   "cat": "other",
+   "img": "st-croix-chippewa.webp"
+  },
+  {
+   "id": "trout-unlimited",
+   "name": "Trout Unlimited",
+   "cat": "nature",
+   "img": "trout-unlimited.webp"
+  },
+  {
+   "id": "university-of-wisconsin-higher-education",
+   "name": "University of Wisconsin higher education",
+   "cat": "colleges",
+   "img": "university-of-wisconsin-higher-education.webp"
+  },
+  {
+   "id": "whitetails-unlimited",
+   "name": "Whitetails Unlimited",
+   "cat": "other",
+   "img": "whitetails-unlimited.webp"
+  },
+  {
+   "id": "wholesaler",
+   "name": "Wholesaler",
+   "cat": "other",
+   "img": "wholesaler.webp"
+  },
+  {
+   "id": "wisconsin-national-guard",
+   "name": "Wisconsin National Guard",
+   "cat": "military",
+   "img": "wisconsin-national-guard.webp"
+  },
+  {
+   "id": "wisconsin-salutes-veterans",
+   "name": "Wisconsin salutes veterans",
+   "cat": "veterans",
+   "img": "wisconsin-salutes-veterans.webp"
+  },
+  {
+   "id": "wisconsin-state-patrol",
+   "name": "Wisconsin State Patrol",
+   "cat": "other",
+   "img": "wisconsin-state-patrol.webp"
+  },
+  {
+   "id": "wisconsin-women-s-health-foundation",
+   "name": "Wisconsin Women's Health Foundation",
+   "cat": "charity",
+   "img": "wisconsin-women-s-health-foundation.webp"
+  }
+ ]
+}

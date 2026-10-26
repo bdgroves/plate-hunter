@@ -1,0 +1,352 @@
+[
+ {
+  "title": "100% Disabled Veteran",
+  "keegan_img": "MotorcycleDV.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.mvd.newmexico.gov/vehicles/license-plates/"
+ },
+ {
+  "title": "Active Duty National Guard",
+  "keegan_img": "a80867b7b81c86a24145980c66d6492d.png",
+  "cat": "military",
+  "status": "keegan-2023",
+  "source": "https://www.mvd.newmexico.gov/vehicles/license-plates/"
+ },
+ {
+  "title": "Adopt a Child",
+  "keegan_img": "Adopt-a-Child-License-Plate.png",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.mvd.newmexico.gov/vehicles/license-plates/"
+ },
+ {
+  "title": "Air Force Veteran",
+  "keegan_img": "VetAF.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.mvd.newmexico.gov/vehicles/license-plates/"
+ },
+ {
+  "title": "Amateur Radio Operator",
+  "keegan_img": "Radio-Operator-License-Plate.png",
+  "cat": "hobby",
+  "status": "keegan-2023",
+  "source": "https://www.mvd.newmexico.gov/vehicles/license-plates/"
+ },
+ {
+  "title": "Army Veteran",
+  "keegan_img": "VetAR.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.mvd.newmexico.gov/vehicles/license-plates/"
+ },
+ {
+  "title": "Autism Awareness",
+  "keegan_img": "Autism-300-2pt1.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.mvd.newmexico.gov/vehicles/license-plates/"
+ },
+ {
+  "title": "Bass Fishing",
+  "keegan_img": "BassFishing.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.mvd.newmexico.gov/vehicles/license-plates/"
+ },
+ {
+  "title": "Boy Scouts Centennial",
+  "keegan_img": "BoyScouts.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.mvd.newmexico.gov/vehicles/license-plates/"
+ },
+ {
+  "title": "Breast Cancer Awareness",
+  "keegan_img": "BreastCancer.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.mvd.newmexico.gov/vehicles/license-plates/"
+ },
+ {
+  "title": "Centennial",
+  "keegan_img": "TurquoiseVANITY-1.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.mvd.newmexico.gov/vehicles/license-plates/"
+ },
+ {
+  "title": "Central New Mexico Community College",
+  "keegan_img": "3da590eb86738f1ba03200046733a592.png",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.mvd.newmexico.gov/vehicles/license-plates/"
+ },
+ {
+  "title": "Children’s Trust Fund",
+  "keegan_img": "KidsTrustFund.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.mvd.newmexico.gov/vehicles/license-plates/"
+ },
+ {
+  "title": "Chile",
+  "keegan_img": "Chile-Capital-Passenger-300-2pt1.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.mvd.newmexico.gov/vehicles/license-plates/"
+ },
+ {
+  "title": "Coast Guard Veteran",
+  "keegan_img": "81379eaba81a3470dabe1324d370a97f.png",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.mvd.newmexico.gov/vehicles/license-plates/"
+ },
+ {
+  "title": "Cumbres and Toltec Railway",
+  "keegan_img": "CumbresToltec.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.mvd.newmexico.gov/vehicles/license-plates/"
+ },
+ {
+  "title": "Disabled Person",
+  "keegan_img": "handicapped_license_plate.png",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.mvd.newmexico.gov/vehicles/license-plates/"
+ },
+ {
+  "title": "Disabled Veteran Wheelchair",
+  "keegan_img": "DisabledVet-Wheelchair.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.mvd.newmexico.gov/vehicles/license-plates/"
+ },
+ {
+  "title": "Eastern New Mexico University",
+  "keegan_img": "6fc32814e516c40c7b87701d2697e96e.png",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.mvd.newmexico.gov/vehicles/license-plates/"
+ },
+ {
+  "title": "Emergency Medical Technicians (EMT",
+  "keegan_img": "Emergency-Medical-Technicians-License-Plate.png",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://www.mvd.newmexico.gov/vehicles/license-plates/"
+ },
+ {
+  "title": "Farm And Ranch Heritage",
+  "keegan_img": "FarmRanch.jpg",
+  "cat": "vehicle",
+  "status": "keegan-2023",
+  "source": "https://www.mvd.newmexico.gov/vehicles/license-plates/"
+ },
+ {
+  "title": "Firefighters",
+  "keegan_img": "firefighter.jpg",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://www.mvd.newmexico.gov/vehicles/license-plates/"
+ },
+ {
+  "title": "Fraternal Order of Police",
+  "keegan_img": "Fraternal-Order-of-Police-Liscence-Plate.png",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://www.mvd.newmexico.gov/vehicles/license-plates/"
+ },
+ {
+  "title": "Gold Star Family",
+  "keegan_img": "GoldStar.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.mvd.newmexico.gov/vehicles/license-plates/"
+ },
+ {
+  "title": "Horseless Carriage",
+  "keegan_img": "Horseless-Carriage-Licence-Plate-for-Motorcycle.png",
+  "cat": "vehicle",
+  "status": "keegan-2023",
+  "source": "https://www.mvd.newmexico.gov/vehicles/license-plates/"
+ },
+ {
+  "title": "Las Cruces",
+  "keegan_img": "NM_Las_Cruces.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.mvd.newmexico.gov/vehicles/license-plates/"
+ },
+ {
+  "title": "Marine Veteran",
+  "keegan_img": "1d21ab21dc23273bea610288494ff274.png",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.mvd.newmexico.gov/vehicles/license-plates/"
+ },
+ {
+  "title": "Navy Veteran",
+  "keegan_img": "6983a995fed5f944dda55ad7a9be8ceb.png",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.mvd.newmexico.gov/vehicles/license-plates/"
+ },
+ {
+  "title": "New Mexico Highlands University",
+  "keegan_img": "064920c8ecccec6d48a2e8964973bd98.png",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.mvd.newmexico.gov/vehicles/license-plates/"
+ },
+ {
+  "title": "New Mexico Junior College",
+  "keegan_img": "d43d400a580739e9f0a79668392406da.png",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.mvd.newmexico.gov/vehicles/license-plates/"
+ },
+ {
+  "title": "New Mexico Military Institute",
+  "keegan_img": "7bd7f69cbeece0c2fe915d205c299838.png",
+  "cat": "military",
+  "status": "keegan-2023",
+  "source": "https://www.mvd.newmexico.gov/vehicles/license-plates/"
+ },
+ {
+  "title": "New Mexico State University",
+  "keegan_img": "356cef53a3d057ba0934dd561175e21a.png",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.mvd.newmexico.gov/vehicles/license-plates/"
+ },
+ {
+  "title": "New Mexico Tech",
+  "keegan_img": "8bdbbba758673a6e69c0d32e313d5974.png",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.mvd.newmexico.gov/vehicles/license-plates/"
+ },
+ {
+  "title": "Northern New Mexico College",
+  "keegan_img": "23e082341277b9207bd409871e4b833e.png",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.mvd.newmexico.gov/vehicles/license-plates/"
+ },
+ {
+  "title": "Organ Donor",
+  "keegan_img": "OrganDonor-1.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.mvd.newmexico.gov/vehicles/license-plates/"
+ },
+ {
+  "title": "Patriot",
+  "keegan_img": "patriot.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.mvd.newmexico.gov/vehicles/license-plates/"
+ },
+ {
+  "title": "Pearl Harbor Survivor",
+  "keegan_img": "PearlHarbor.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.mvd.newmexico.gov/vehicles/license-plates/"
+ },
+ {
+  "title": "Pet Care – Spay/Neuter",
+  "keegan_img": "SpayNeuter.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.mvd.newmexico.gov/vehicles/license-plates/"
+ },
+ {
+  "title": "Pollinator Protection",
+  "keegan_img": "Pollinator-Protection-License-Plate.png",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.mvd.newmexico.gov/vehicles/license-plates/"
+ },
+ {
+  "title": "Red & Yellow Prestige",
+  "keegan_img": "vanity_license_plate.png",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.mvd.newmexico.gov/vehicles/license-plates/"
+ },
+ {
+  "title": "Retired Firefighters",
+  "keegan_img": "Retired-Firefighter-License-Plate.png",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://www.mvd.newmexico.gov/vehicles/license-plates/"
+ },
+ {
+  "title": "Retired Law Enforcement",
+  "keegan_img": "Retired-NM-Law-Enforcement-License-Plate.png",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://www.mvd.newmexico.gov/vehicles/license-plates/"
+ },
+ {
+  "title": "Retired NM State Police",
+  "keegan_img": "RetSP-1.jpg",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://www.mvd.newmexico.gov/vehicles/license-plates/"
+ },
+ {
+  "title": "Route 66",
+  "keegan_img": "Route-66-License-Plate.png",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.mvd.newmexico.gov/vehicles/license-plates/"
+ },
+ {
+  "title": "Santa Fe 400th Anniversary",
+  "keegan_img": "Santa_fe_400th_anniversary.png",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.mvd.newmexico.gov/vehicles/license-plates/"
+ },
+ {
+  "title": "University of New Mexico",
+  "keegan_img": "af0720cf9e0964ca89030bf7ba05eaf6.png",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.mvd.newmexico.gov/vehicles/license-plates/"
+ },
+ {
+  "title": "Volunteer Firefighters",
+  "keegan_img": "volunteer-firefighter.jpg",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://www.mvd.newmexico.gov/vehicles/license-plates/"
+ },
+ {
+  "title": "Western New Mexico University",
+  "keegan_img": "c6ebc0743f5a27dc93381acca97041ae.png",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.mvd.newmexico.gov/vehicles/license-plates/"
+ },
+ {
+  "title": "Wildlife Artwork",
+  "keegan_img": "Wildlife-Artwork-license-plate.png",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.mvd.newmexico.gov/vehicles/license-plates/"
+ },
+ {
+  "title": "Woman Veteran",
+  "keegan_img": "2b81e564a6686089b5459d779e317152.png",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.mvd.newmexico.gov/vehicles/license-plates/"
+ }
+]

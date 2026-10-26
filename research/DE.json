@@ -1,0 +1,975 @@
+[
+ {
+  "title": "Air Force Commendation Medal",
+  "keegan_img": "valor-air_force_commendatio.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Air Medal",
+  "keegan_img": "valor-air_medal.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Alpha Kappa Alpha",
+  "keegan_img": "aka.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Alpha Phi Alpha",
+  "keegan_img": "apa.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "American Legion",
+  "keegan_img": "al.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Animal Welfare",
+  "keegan_img": "darkpaws.png",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Antique",
+  "keegan_img": "antique_car.jpg",
+  "cat": "vehicle",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Application for Delaware Sample",
+  "keegan_img": "Sample.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Army (Dept of",
+  "keegan_img": "retired_army.jpg",
+  "cat": "military",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Army Commendation Medal",
+  "keegan_img": "valor-army_commendation.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "atTAcK Addiction",
+  "keegan_img": "attack.png",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Autism Acceptance and Inclusion",
+  "keegan_img": "AutismAcceptance&Inclusion.png",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Breast Cancer Awareness",
+  "keegan_img": "bcawareness.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Bronze Star",
+  "keegan_img": "valor-bronze_star.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Bronze Star (w/o Valor",
+  "keegan_img": "BronzeStar.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Buffalo Soldiers",
+  "keegan_img": "buffalo.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Caesar Rodney Centennial",
+  "keegan_img": "cr.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Call(Sample 58A",
+  "keegan_img": "call_tags.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Cancer Support Community",
+  "keegan_img": "cancer_support.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Cape Henlopen High School",
+  "keegan_img": "CapeHenlopenHighSchoolSmall.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Caravel Academy",
+  "keegan_img": "ca.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Choose Life",
+  "keegan_img": "choose_life.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "CIB",
+  "keegan_img": "CIB.png",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Coast Guard",
+  "keegan_img": "ret_cg.jpg",
+  "cat": "military",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Conquer Childhood Cancer",
+  "keegan_img": "CCC.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Conrad HS Alumni",
+  "keegan_img": "ConradHSAlumni.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Correctional Officers Association of Delaware",
+  "keegan_img": "COAD.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Credit Union",
+  "keegan_img": "cu.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "DAV / Special Parking",
+  "keegan_img": "dav_parking.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Delaware Association of Realtors",
+  "keegan_img": "dar.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Delaware Civil Air Patrol",
+  "keegan_img": "civil.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Delaware East Carolina University",
+  "keegan_img": "DE_east_carolina.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Delaware Episcopal Diocese",
+  "keegan_img": "DE_episcopal_diocese.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Delaware Mobile Surf Fisherman",
+  "keegan_img": "dms.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Delaware Organ Donor",
+  "keegan_img": "de_organ_donor.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Delaware Senior Olympics",
+  "keegan_img": "dso.jpg",
+  "cat": "sports",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Delaware State Fair",
+  "keegan_img": "dsf.png",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Delaware State University",
+  "keegan_img": "dsu.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Delaware Technical University",
+  "keegan_img": "deltech.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Delaware Veterans",
+  "keegan_img": "dv.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Delaware William Henry High School Alumni",
+  "keegan_img": "DE_william_henry_high_school_alumni.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Delmar",
+  "keegan_img": "Delmar.png",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Delta Sigma Theta",
+  "keegan_img": "dst.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Delta Waterfowl",
+  "keegan_img": "dw.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Disabled American Veterans",
+  "keegan_img": "dav.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Distinguished Flying Cross",
+  "keegan_img": "valor-dist_fly_cross.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Distinguished Service Cross",
+  "keegan_img": "valor-dist_cross.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Dover High School",
+  "keegan_img": "DoverHS.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Ducks Unlimited",
+  "keegan_img": "du.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "East Carolina University",
+  "keegan_img": "ecu.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Eastern Star PHA",
+  "keegan_img": "eastern_star.jpg",
+  "cat": "hobby",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Elks Lodge",
+  "keegan_img": "elk.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Environmental Lighthouse",
+  "keegan_img": "lighthouse.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Farm Bureau",
+  "keegan_img": "fb.jpg",
+  "cat": "vehicle",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Farm Preservation",
+  "keegan_img": "farm_pres.jpg",
+  "cat": "tribal",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Felton High School",
+  "keegan_img": "fhs.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Flyers Charities",
+  "keegan_img": "flyers.png",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Fraternal Order of Police",
+  "keegan_img": "fop.jpg",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Gold Star Family",
+  "keegan_img": "gold_star_family.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Goldey Beacom College",
+  "keegan_img": "gbc.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Groove Phi Groove",
+  "keegan_img": "g.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Harrington High School",
+  "keegan_img": "hhs.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Honorably Discharged Military Veteran",
+  "keegan_img": "hdv.png",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Honoring Veterans",
+  "keegan_img": "honor_vets.png",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Horseshoe Crab",
+  "keegan_img": "horseshoe.png",
+  "cat": "hobby",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Indian River HS Alumni",
+  "keegan_img": "ir_alum.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Johns Hopkins University",
+  "keegan_img": "jhu.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Kappa Alpha Psi",
+  "keegan_img": "k.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Keep Delaware Beautiful",
+  "keegan_img": "KDB.png",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Kings Point - Merchant Marine",
+  "keegan_img": "kp.jpg",
+  "cat": "military",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Knights of Columbus",
+  "keegan_img": "kc.jpg",
+  "cat": "hobby",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Korean War Veteran",
+  "keegan_img": "kwv.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Ladies Auxiliary",
+  "keegan_img": "la.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Law Enforcement Memorial",
+  "keegan_img": "lem.jpg",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Lions Club",
+  "keegan_img": "lions_club.jpg",
+  "cat": "sports",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Loyal Order of Moose",
+  "keegan_img": "moose.jpg",
+  "cat": "hobby",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Marine Corp League",
+  "keegan_img": "mcl.jpg",
+  "cat": "military",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Marine Education Research / Rehabilitation",
+  "keegan_img": "MERR.jpg",
+  "cat": "military",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Marines",
+  "keegan_img": "retired_marine.jpg",
+  "cat": "military",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Masonic Mason",
+  "keegan_img": "masonic_mason.jpg",
+  "cat": "hobby",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Migratory Shorebirds",
+  "keegan_img": "MigratoryShorebirds.png",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Missing In Action",
+  "keegan_img": "ex_mia.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Nanticoke Indian Association",
+  "keegan_img": "nanti_indian.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "National Guard",
+  "keegan_img": "natl_guard.jpg",
+  "cat": "military",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "National Rifle Association",
+  "keegan_img": "nra.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Navy (Dept. of",
+  "keegan_img": "ret_navy.jpg",
+  "cat": "military",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Navy Commendation Medal",
+  "keegan_img": "valor-navy_commendation.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Navy Cross",
+  "keegan_img": "valor-navy_cross.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "NCC Retired Police",
+  "keegan_img": "cp.jpg",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Newark High School",
+  "keegan_img": "newark_high.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Notre Dame",
+  "keegan_img": "notre_dame.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Nur Shrine",
+  "keegan_img": "nur.jpg",
+  "cat": "hobby",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Ohio State University",
+  "keegan_img": "ohio_state.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Omega Psi Phi",
+  "keegan_img": "omega_psi_phi.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Operation Desert Storm",
+  "keegan_img": "Operation-Desert-Storm.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Operation Enduring Freedom",
+  "keegan_img": "oef.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Operation Iraqi Freedom",
+  "keegan_img": "oif.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Order of Eastern Star",
+  "keegan_img": "east_star.jpg",
+  "cat": "hobby",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Pearl Harbor Survivor",
+  "keegan_img": "pearl_harbor.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Penn State University",
+  "keegan_img": "penn_state.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Phi Beta Sigma Fraternity, Inc.",
+  "keegan_img": "pbsf_inc.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Pollinator",
+  "keegan_img": "pollinator.png",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Prince Hall Affiliated",
+  "keegan_img": "prince_hall_affil.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Prisoner of War",
+  "keegan_img": "ex_pow.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Professional Firefighter",
+  "keegan_img": "IAFF.jpg",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Purdue University Alumni",
+  "keegan_img": "purdue_u.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Purple Heart",
+  "keegan_img": "purple_heart.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Reserve Forces",
+  "keegan_img": "reserve_forces.jpg",
+  "cat": "military",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Retired New Castle Police Department",
+  "keegan_img": "retired_new castle_pd.jpg",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Retired State Police",
+  "keegan_img": "st_police.jpg",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Saint Josephs University",
+  "keegan_img": "st_joe_u.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Salesianum Alumni",
+  "keegan_img": "sallys.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Silver Star",
+  "keegan_img": "valor-silver_star.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "So. Delaware Street Rod Association",
+  "keegan_img": "custom.jpg",
+  "cat": "vehicle",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Standardbred Owners Association",
+  "keegan_img": "standardbred_owners_assn.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Stop Child Abuse",
+  "keegan_img": "stop_child_abuse.png",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Submarine Service",
+  "keegan_img": "submarine.jpg",
+  "cat": "military",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Telephone Pioneers",
+  "keegan_img": "telephone_pioneers.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Temple University",
+  "keegan_img": "temple_u.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "UnitedWorkers",
+  "keegan_img": "uaw.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "United States Air Force",
+  "keegan_img": "retired_af.jpg",
+  "cat": "military",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "University of Delaware",
+  "keegan_img": "ud.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "University of Michigan",
+  "keegan_img": "u_of_mich.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "University of Pennsylvania",
+  "keegan_img": "univ_penn.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "US Naval Academy",
+  "keegan_img": "USNAcademy.png",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Veterans Foreign War",
+  "keegan_img": "vfw.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Vietnam Veteran",
+  "keegan_img": "vietnam_vet.jpg",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Villanova University",
+  "keegan_img": "villanova.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Virginia Tech",
+  "keegan_img": "va_tech.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Volunteer Fireman",
+  "keegan_img": "vol_fire.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Wesley College",
+  "keegan_img": "wesley.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "West Point",
+  "keegan_img": "WestPoint.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "West Virginia University",
+  "keegan_img": "west_virgina_university.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Wilmington Fire Department",
+  "keegan_img": "wilm_fire.jpg",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Wilmington Police Department",
+  "keegan_img": "wilm_pd.jpg",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Wilmington University",
+  "keegan_img": "wilm_u.jpg",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Women's Military Monument",
+  "keegan_img": "womens-veterans.jpg",
+  "cat": "military",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "World War II",
+  "keegan_img": "WWII.png",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ },
+ {
+  "title": "Zeta Phi Beta",
+  "keegan_img": "zeta_phi_beta_sorority.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+ }
+]

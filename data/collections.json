@@ -4,34 +4,407 @@
   "name": "Washington",
   "file": "data/WA.json",
   "count": 72,
-  "rated": true
+  "rated": true,
+  "checked": true
+ },
+ {
+  "code": "AL",
+  "name": "Alabama",
+  "file": "data/AL.json",
+  "count": 175,
+  "rated": false,
+  "checked": false
+ },
+ {
+  "code": "AK",
+  "name": "Alaska",
+  "file": "data/AK.json",
+  "count": 43,
+  "rated": false,
+  "checked": false
+ },
+ {
+  "code": "AZ",
+  "name": "Arizona",
+  "file": "data/AZ.json",
+  "count": 97,
+  "rated": false,
+  "checked": false
+ },
+ {
+  "code": "AR",
+  "name": "Arkansas",
+  "file": "data/AR.json",
+  "count": 118,
+  "rated": false,
+  "checked": false
  },
  {
   "code": "CA",
   "name": "California",
   "file": "data/CA.json",
   "count": 29,
-  "rated": false
+  "rated": false,
+  "checked": true
+ },
+ {
+  "code": "CO",
+  "name": "Colorado",
+  "file": "data/CO.json",
+  "count": 121,
+  "rated": false,
+  "checked": false
+ },
+ {
+  "code": "CT",
+  "name": "Connecticut",
+  "file": "data/CT.json",
+  "count": 65,
+  "rated": false,
+  "checked": false
+ },
+ {
+  "code": "DE",
+  "name": "Delaware",
+  "file": "data/DE.json",
+  "count": 139,
+  "rated": false,
+  "checked": false
+ },
+ {
+  "code": "DC",
+  "name": "District of Columbia",
+  "file": "data/DC.json",
+  "count": 46,
+  "rated": false,
+  "checked": false
+ },
+ {
+  "code": "FL",
+  "name": "Florida",
+  "file": "data/FL.json",
+  "count": 219,
+  "rated": false,
+  "checked": false
+ },
+ {
+  "code": "GA",
+  "name": "Georgia",
+  "file": "data/GA.json",
+  "count": 288,
+  "rated": false,
+  "checked": false
+ },
+ {
+  "code": "HI",
+  "name": "Hawaii",
+  "file": "data/HI.json",
+  "count": 12,
+  "rated": false,
+  "checked": false
  },
  {
   "code": "ID",
   "name": "Idaho",
   "file": "data/ID.json",
   "count": 63,
-  "rated": false
+  "rated": false,
+  "checked": true
+ },
+ {
+  "code": "IL",
+  "name": "Illinois",
+  "file": "data/IL.json",
+  "count": 100,
+  "rated": false,
+  "checked": false
+ },
+ {
+  "code": "IN",
+  "name": "Indiana",
+  "file": "data/IN.json",
+  "count": 135,
+  "rated": false,
+  "checked": false
+ },
+ {
+  "code": "IA",
+  "name": "Iowa",
+  "file": "data/IA.json",
+  "count": 79,
+  "rated": false,
+  "checked": false
+ },
+ {
+  "code": "KS",
+  "name": "Kansas",
+  "file": "data/KS.json",
+  "count": 69,
+  "rated": false,
+  "checked": false
+ },
+ {
+  "code": "KY",
+  "name": "Kentucky",
+  "file": "data/KY.json",
+  "count": 136,
+  "rated": false,
+  "checked": false
+ },
+ {
+  "code": "LA",
+  "name": "Louisiana",
+  "file": "data/LA.json",
+  "count": 217,
+  "rated": false,
+  "checked": false
+ },
+ {
+  "code": "ME",
+  "name": "Maine",
+  "file": "data/ME.json",
+  "count": 34,
+  "rated": false,
+  "checked": false
+ },
+ {
+  "code": "MD",
+  "name": "Maryland",
+  "file": "data/MD.json",
+  "count": 874,
+  "rated": false,
+  "checked": false
+ },
+ {
+  "code": "MA",
+  "name": "Massachusetts",
+  "file": "data/MA.json",
+  "count": 57,
+  "rated": false,
+  "checked": false
+ },
+ {
+  "code": "MI",
+  "name": "Michigan",
+  "file": "data/MI.json",
+  "count": 72,
+  "rated": false,
+  "checked": false
+ },
+ {
+  "code": "MN",
+  "name": "Minnesota",
+  "file": "data/MN.json",
+  "count": 83,
+  "rated": false,
+  "checked": false
+ },
+ {
+  "code": "MS",
+  "name": "Mississippi",
+  "file": "data/MS.json",
+  "count": 228,
+  "rated": false,
+  "checked": false
+ },
+ {
+  "code": "MO",
+  "name": "Missouri",
+  "file": "data/MO.json",
+  "count": 158,
+  "rated": false,
+  "checked": false
+ },
+ {
+  "code": "MT",
+  "name": "Montana",
+  "file": "data/MT.json",
+  "count": 218,
+  "rated": false,
+  "checked": false
+ },
+ {
+  "code": "NE",
+  "name": "Nebraska",
+  "file": "data/NE.json",
+  "count": 39,
+  "rated": false,
+  "checked": false
  },
  {
   "code": "NV",
   "name": "Nevada",
   "file": "data/NV.json",
   "count": 67,
-  "rated": false
+  "rated": false,
+  "checked": true
+ },
+ {
+  "code": "NH",
+  "name": "New Hampshire",
+  "file": "data/NH.json",
+  "count": 15,
+  "rated": false,
+  "checked": false
+ },
+ {
+  "code": "NJ",
+  "name": "New Jersey",
+  "file": "data/NJ.json",
+  "count": 106,
+  "rated": false,
+  "checked": false
+ },
+ {
+  "code": "NM",
+  "name": "New Mexico",
+  "file": "data/NM.json",
+  "count": 50,
+  "rated": false,
+  "checked": false
+ },
+ {
+  "code": "NY",
+  "name": "New York",
+  "file": "data/NY.json",
+  "count": 167,
+  "rated": false,
+  "checked": false
+ },
+ {
+  "code": "NC",
+  "name": "North Carolina",
+  "file": "data/NC.json",
+  "count": 204,
+  "rated": false,
+  "checked": false
+ },
+ {
+  "code": "ND",
+  "name": "North Dakota",
+  "file": "data/ND.json",
+  "count": 41,
+  "rated": false,
+  "checked": false
+ },
+ {
+  "code": "OH",
+  "name": "Ohio",
+  "file": "data/OH.json",
+  "count": 262,
+  "rated": false,
+  "checked": false
+ },
+ {
+  "code": "OK",
+  "name": "Oklahoma",
+  "file": "data/OK.json",
+  "count": 266,
+  "rated": false,
+  "checked": false
  },
  {
   "code": "OR",
   "name": "Oregon",
   "file": "data/OR.json",
   "count": 35,
-  "rated": false
+  "rated": false,
+  "checked": true
+ },
+ {
+  "code": "PA",
+  "name": "Pennsylvania",
+  "file": "data/PA.json",
+  "count": 358,
+  "rated": false,
+  "checked": false
+ },
+ {
+  "code": "RI",
+  "name": "Rhode Island",
+  "file": "data/RI.json",
+  "count": 42,
+  "rated": false,
+  "checked": false
+ },
+ {
+  "code": "SC",
+  "name": "South Carolina",
+  "file": "data/SC.json",
+  "count": 217,
+  "rated": false,
+  "checked": false
+ },
+ {
+  "code": "SD",
+  "name": "South Dakota",
+  "file": "data/SD.json",
+  "count": 53,
+  "rated": false,
+  "checked": false
+ },
+ {
+  "code": "TN",
+  "name": "Tennessee",
+  "file": "data/TN.json",
+  "count": 185,
+  "rated": false,
+  "checked": false
+ },
+ {
+  "code": "TX",
+  "name": "Texas",
+  "file": "data/TX.json",
+  "count": 475,
+  "rated": false,
+  "checked": false
+ },
+ {
+  "code": "UT",
+  "name": "Utah",
+  "file": "data/UT.json",
+  "count": 78,
+  "rated": false,
+  "checked": false
+ },
+ {
+  "code": "VT",
+  "name": "Vermont",
+  "file": "data/VT.json",
+  "count": 50,
+  "rated": false,
+  "checked": false
+ },
+ {
+  "code": "VA",
+  "name": "Virginia",
+  "file": "data/VA.json",
+  "count": 274,
+  "rated": false,
+  "checked": false
+ },
+ {
+  "code": "WV",
+  "name": "West Virginia",
+  "file": "data/WV.json",
+  "count": 108,
+  "rated": false,
+  "checked": false
+ },
+ {
+  "code": "WI",
+  "name": "Wisconsin",
+  "file": "data/WI.json",
+  "count": 86,
+  "rated": false,
+  "checked": false
+ },
+ {
+  "code": "WY",
+  "name": "Wyoming",
+  "file": "data/WY.json",
+  "count": 33,
+  "rated": false,
+  "checked": false
  }
 ]

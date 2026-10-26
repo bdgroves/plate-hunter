@@ -1,0 +1,744 @@
+[
+ {
+  "title": "Agriculture",
+  "keegan_img": "agriculture.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/agriculture.htm"
+ },
+ {
+  "title": "Air/Army Guard",
+  "keegan_img": "National_Guard.gif",
+  "cat": "military",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/military.htm"
+ },
+ {
+  "title": "Airborne",
+  "keegan_img": "Airborne.gif",
+  "cat": "military",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/serviceorg.htm"
+ },
+ {
+  "title": "Alpha Kappa Alpha Sorority, Inc.",
+  "keegan_img": "NJ_Alpha_Kappa_Alpha.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/alumni.htm"
+ },
+ {
+  "title": "Amateur Radio",
+  "keegan_img": "Amateur_Radio.jpg",
+  "cat": "hobby",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/volunteer.htm"
+ },
+ {
+  "title": "American Legion",
+  "keegan_img": "American_Legion.gif",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/serviceorg.htm"
+ },
+ {
+  "title": "AMVETS",
+  "keegan_img": "Amvets.gif",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/serviceorg.htm"
+ },
+ {
+  "title": "Animal Friendly",
+  "keegan_img": "animalfriendly.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/animal.htm"
+ },
+ {
+  "title": "Army Reserve",
+  "keegan_img": "Army_Reserve.gif",
+  "cat": "military",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/military.htm"
+ },
+ {
+  "title": "Baymen's Heritage",
+  "keegan_img": "baymens%20heritage.gif",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/bayman.htm"
+ },
+ {
+  "title": "Chiropractor",
+  "keegan_img": "Chiropractor.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/professionals.htm"
+ },
+ {
+  "title": "Choose Life",
+  "keegan_img": "Childrens_First_Foundation.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/community.htm"
+ },
+ {
+  "title": "Civil Air Patrol",
+  "keegan_img": "Civil_Air_Patrol.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/serviceorg.htm"
+ },
+ {
+  "title": "Columbianism",
+  "keegan_img": "Knights_Of_Columbus.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/community.htm"
+ },
+ {
+  "title": "Combat Veteran",
+  "keegan_img": "Combat_Infantryman.gif",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/military.htm"
+ },
+ {
+  "title": "Combat Wounded",
+  "keegan_img": "Purple_Heart.gif",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/serviceorg.htm"
+ },
+ {
+  "title": "Congressional Medal Of Honor",
+  "keegan_img": "Congressional_Medal_Of_Honor.gif",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/military.htm"
+ },
+ {
+  "title": "Conquer Cancer",
+  "keegan_img": "cancer.gif",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/conquer.htm"
+ },
+ {
+  "title": "Conserve Wildlife",
+  "keegan_img": "wildlife1.gif",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/wildlife.htm"
+ },
+ {
+  "title": "Deborah Heart & Lung",
+  "keegan_img": "deborahheartandlung.gif",
+  "cat": "hobby",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/deborah.htm"
+ },
+ {
+  "title": "Dentist - DDS",
+  "keegan_img": "Dentist_DDS.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/professionals.htm"
+ },
+ {
+  "title": "Dentist - DMD",
+  "keegan_img": "Dentist_DMD.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/professionals.htm"
+ },
+ {
+  "title": "Disabled American Veterans",
+  "keegan_img": "Disabled_AmVets.gif",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/serviceorg.htm"
+ },
+ {
+  "title": "Disabled Vet",
+  "keegan_img": "Disabled_Vet.gif",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/military.htm"
+ },
+ {
+  "title": "Discover NJ History",
+  "keegan_img": "discoverNJheritage.gif",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/heritage.htm"
+ },
+ {
+  "title": "EMT-A",
+  "keegan_img": "EMT.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/volunteer.htm"
+ },
+ {
+  "title": "Engineer",
+  "keegan_img": "Professional_Engineer.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/community.htm"
+ },
+ {
+  "title": "Firefighter",
+  "keegan_img": "Firefighter.jpg",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/volunteer.htm"
+ },
+ {
+  "title": "Firefighter Int'l",
+  "keegan_img": "International_Firefighters.gif",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/community.htm"
+ },
+ {
+  "title": "First Aider",
+  "keegan_img": "First_Aider.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/volunteer.htm"
+ },
+ {
+  "title": "Freemason",
+  "keegan_img": "Freemason.gif",
+  "cat": "hobby",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/community.htm"
+ },
+ {
+  "title": "Garden State",
+  "keegan_img": "Veterans_of_Foreign_Wars_Old.gif",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/military.htm"
+ },
+ {
+  "title": "Gold Star Family",
+  "keegan_img": "Gold_Star.gif",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/military.htm"
+ },
+ {
+  "title": "Highlanders",
+  "keegan_img": "NJIT_Highlanders.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/alumni.htm"
+ },
+ {
+  "title": "Historic",
+  "keegan_img": "historic.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/historic.htm"
+ },
+ {
+  "title": "Honor Legion",
+  "keegan_img": "Police_Dept_Honor_Legion.gif",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/community.htm"
+ },
+ {
+  "title": "Kings Point",
+  "keegan_img": "Merchant_Marines_Academy.gif",
+  "cat": "sports",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/serviceorg.htm"
+ },
+ {
+  "title": "Kiwanis International",
+  "keegan_img": "Kiwanis_International.gif",
+  "cat": "hobby",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/community.htm"
+ },
+ {
+  "title": "Lakehurst Navy",
+  "keegan_img": "Lakehurst_Navy.gif",
+  "cat": "military",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/serviceorg.htm"
+ },
+ {
+  "title": "Law Enforcement Memorial",
+  "keegan_img": "law%20enforcement.jpg",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/lawenforcement.htm"
+ },
+ {
+  "title": "Leatherneck",
+  "keegan_img": "Marine_Corps_League.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/serviceorg.htm"
+ },
+ {
+  "title": "Liberty State Park",
+  "keegan_img": "libertystatepark.gif",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/liberty.htm"
+ },
+ {
+  "title": "Meadowlands",
+  "keegan_img": "meadowlands.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/meadowlands.htm"
+ },
+ {
+  "title": "Merchant Marine",
+  "keegan_img": "Merchant_Marines_Standard.gif",
+  "cat": "military",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/serviceorg.htm"
+ },
+ {
+  "title": "Mew Jersey Press",
+  "keegan_img": "New_Jersey_Press.jpg",
+  "cat": "hobby",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/professionals.htm"
+ },
+ {
+  "title": "NASCAR",
+  "keegan_img": "patrick_lg.jpg",
+  "cat": "sports",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/nascar.htm"
+ },
+ {
+  "title": "Navy Cross",
+  "keegan_img": "Navy_Cross.gif",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/military.htm"
+ },
+ {
+  "title": "Navy League",
+  "keegan_img": "Navy_League.gif",
+  "cat": "military",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/serviceorg.htm"
+ },
+ {
+  "title": "New Jersey Devils",
+  "keegan_img": "NJ Devils_R.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/nhl.htm"
+ },
+ {
+  "title": "New York Giants",
+  "keegan_img": "giants_lg.jpg",
+  "cat": "sports",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/nfl.htm"
+ },
+ {
+  "title": "New York Jets",
+  "keegan_img": "jets_lg.jpg",
+  "cat": "sports",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/nfl.htm"
+ },
+ {
+  "title": "New York Mets",
+  "keegan_img": "mets_lg.jpg",
+  "cat": "sports",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/mlb.htm"
+ },
+ {
+  "title": "New York Press",
+  "keegan_img": "New_York_Press.gif",
+  "cat": "hobby",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/professionals.htm"
+ },
+ {
+  "title": "New York Yankees",
+  "keegan_img": "yankees_lg.jpg",
+  "cat": "sports",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/mlb.htm"
+ },
+ {
+  "title": "Newark F/F",
+  "keegan_img": "Newark_Firefighters.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/community.htm"
+ },
+ {
+  "title": "Notre Dame",
+  "keegan_img": "Notre_Dame.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/alumni.htm"
+ },
+ {
+  "title": "NPDF Safe Cop",
+  "keegan_img": "National_Police_Foundation.gif",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/community.htm"
+ },
+ {
+  "title": "NY Knicks",
+  "keegan_img": "knicks_lg.jpg",
+  "cat": "sports",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/nba.htm"
+ },
+ {
+  "title": "Olympic Spirit",
+  "keegan_img": "olympics.gif",
+  "cat": "sports",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/olympics.htm"
+ },
+ {
+  "title": "Omega Psi Phi",
+  "keegan_img": "Omega_Psi_Phi_Fraternity.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/alumni.htm"
+ },
+ {
+  "title": "Operating Engineers",
+  "keegan_img": "Operating_Engineers.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/community.htm"
+ },
+ {
+  "title": "Organ Donor",
+  "keegan_img": "organ_donor.jpg",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/donorplate.htm"
+ },
+ {
+  "title": "P.O.W.",
+  "keegan_img": "POW.gif",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/military.htm"
+ },
+ {
+  "title": "Pearl Harbor 41",
+  "keegan_img": "Pearl_Harbor_Survivor.gif",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/serviceorg.htm"
+ },
+ {
+  "title": "Penn State Alum",
+  "keegan_img": "Penn_State_Alum.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/alumni.htm"
+ },
+ {
+  "title": "Philadelphia 76ers",
+  "keegan_img": "sixers_lg.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/nba.htm"
+ },
+ {
+  "title": "Philadelphia Eagles",
+  "keegan_img": "eagles_lg.jpg",
+  "cat": "sports",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/nfl.htm"
+ },
+ {
+  "title": "Philadelphia Flyers",
+  "keegan_img": "flyers_lg.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/nhl.htm"
+ },
+ {
+  "title": "Philadelphia Phillies",
+  "keegan_img": "phillies_lg.jpg",
+  "cat": "sports",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/mlb.htm"
+ },
+ {
+  "title": "Physician - MD",
+  "keegan_img": "Medical%20Doctor_MD.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/professionals.htm"
+ },
+ {
+  "title": "Physician - Osteopathic",
+  "keegan_img": "Osteopathic_Medicine.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/professionals.htm"
+ },
+ {
+  "title": "Pinelands",
+  "keegan_img": "pinelands.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/pinelands.htm"
+ },
+ {
+  "title": "Podiatrist",
+  "keegan_img": "Podiatrist.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/professionals.htm"
+ },
+ {
+  "title": "Rotarian",
+  "keegan_img": "Rotary_International.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/community.htm"
+ },
+ {
+  "title": "Rutgers",
+  "keegan_img": "Rutgers.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/alumni.htm"
+ },
+ {
+  "title": "Seton Hall",
+  "keegan_img": "Seton_Hall.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/alumni.htm"
+ },
+ {
+  "title": "Shore to Please",
+  "keegan_img": "shoreprotection.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/shore.htm"
+ },
+ {
+  "title": "Silent Service",
+  "keegan_img": "Submarine_Veterans.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/serviceorg.htm"
+ },
+ {
+  "title": "Silver Star",
+  "keegan_img": "Silver_Star.gif",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/military.htm"
+ },
+ {
+  "title": "Square Dancer",
+  "keegan_img": "Square_Dancer.gif",
+  "cat": "hobby",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/community.htm"
+ },
+ {
+  "title": "State F.M.B.A.",
+  "keegan_img": "Firemans_Mutual_Benevolent_Association.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/community.htm"
+ },
+ {
+  "title": "State F.O.P.",
+  "keegan_img": "Fraternal_Order_Of_Police.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/community.htm"
+ },
+ {
+  "title": "State P.B.A.",
+  "keegan_img": "Police_Benevolent_Association.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/community.htm"
+ },
+ {
+  "title": "Stevens Tech.",
+  "keegan_img": "Stevens_Technical_Institute.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/alumni.htm"
+ },
+ {
+  "title": "Street Rod",
+  "keegan_img": "streetrod.jpg",
+  "cat": "vehicle",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/historic.htm"
+ },
+ {
+  "title": "Teamsters",
+  "keegan_img": "Teamsters.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/community.htm"
+ },
+ {
+  "title": "Tele. Pioneer",
+  "keegan_img": "Telephone_Pioneers.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/community.htm"
+ },
+ {
+  "title": "Temple Alumni",
+  "keegan_img": "Temple_University.gif",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/alumni.htm"
+ },
+ {
+  "title": "Tin Can Sailors",
+  "keegan_img": "Tin_Can_Sailors.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/serviceorg.htm"
+ },
+ {
+  "title": "Treasure our trees",
+  "keegan_img": "treasureourtrees.jpg",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/treasure.htm"
+ },
+ {
+  "title": "U of Delaware",
+  "keegan_img": "University_Of_Delaware.gif",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/alumni.htm"
+ },
+ {
+  "title": "U of Michigan",
+  "keegan_img": "University_Of_Michigan.gif",
+  "cat": "colleges",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/alumni.htm"
+ },
+ {
+  "title": "U.S. Army Retired",
+  "keegan_img": "Retired_US_Army.gif",
+  "cat": "military",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/serviceorg.htm"
+ },
+ {
+  "title": "United Bowhunters",
+  "keegan_img": "United_Bowhunters.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/community.htm"
+ },
+ {
+  "title": "United We Stand",
+  "keegan_img": "unitedwestand.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/united.htm"
+ },
+ {
+  "title": "USAF Reserve",
+  "keegan_img": "Air_Force_Reserve.gif",
+  "cat": "military",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/military.htm"
+ },
+ {
+  "title": "USAF Retired",
+  "keegan_img": "Air_Force_Retired.gif",
+  "cat": "military",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/serviceorg.htm"
+ },
+ {
+  "title": "USCG Auxiliary",
+  "keegan_img": "Coast_Guard_Auxiliary.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/serviceorg.htm"
+ },
+ {
+  "title": "USCG Reserve",
+  "keegan_img": "Coast_Guard_Reserve.gif",
+  "cat": "military",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/military.htm"
+ },
+ {
+  "title": "USMC Reserve",
+  "keegan_img": "Marine_Reserve.gif",
+  "cat": "military",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/military.htm"
+ },
+ {
+  "title": "USN Reserve",
+  "keegan_img": "Navy_Reserve.gif",
+  "cat": "military",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/military.htm"
+ },
+ {
+  "title": "USS New Jersey Battleship",
+  "keegan_img": "battleship.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/battleship.htm"
+ },
+ {
+  "title": "VFW of the US",
+  "keegan_img": "Veterans_Of_Foreign_Wars_VFW.gif",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/serviceorg.htm"
+ },
+ {
+  "title": "Vietnam Vets",
+  "keegan_img": "NJ_Vietnam_Veterans.gif",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/serviceorg.htm"
+ },
+ {
+  "title": "West Point",
+  "keegan_img": "West_Point.gif",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/serviceorg.htm"
+ },
+ {
+  "title": "Wheelchair Symbol",
+  "keegan_img": "disability.jpg",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://www.state.nj.us/mvc/vehicles/disability.htm"
+ }
+]

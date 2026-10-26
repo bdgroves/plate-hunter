@@ -1,0 +1,303 @@
+[
+ {
+  "title": "Air Force",
+  "keegan_img": "Airforce.png",
+  "cat": "military",
+  "status": "keegan-2023",
+  "source": "https://doa.alaska.gov/dmv/plates/index.htm"
+ },
+ {
+  "title": "Alaska Children's Trust",
+  "keegan_img": "kid.png",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://doa.alaska.gov/dmv/plates/index.htm"
+ },
+ {
+  "title": "Alaska National Guard",
+  "keegan_img": "guard plate.png",
+  "cat": "military",
+  "status": "keegan-2023",
+  "source": "https://doa.alaska.gov/dmv/plates/index.htm"
+ },
+ {
+  "title": "Amateur Radio (Call Sign",
+  "keegan_img": "blue-n-gold.png",
+  "cat": "hobby",
+  "status": "keegan-2023",
+  "source": "https://doa.alaska.gov/dmv/plates/index.htm"
+ },
+ {
+  "title": "Army",
+  "keegan_img": "army.png",
+  "cat": "military",
+  "status": "keegan-2023",
+  "source": "https://doa.alaska.gov/dmv/plates/index.htm"
+ },
+ {
+  "title": "Blood Bank of Alaska",
+  "keegan_img": "Blood-Bank-plate-final.png",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://doa.alaska.gov/dmv/plates/index.htm"
+ },
+ {
+  "title": "Breast Cancer Awareness",
+  "keegan_img": "breast-cancer.png",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://doa.alaska.gov/dmv/plates/index.htm"
+ },
+ {
+  "title": "Caribou",
+  "keegan_img": "caribou.png",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://doa.alaska.gov/dmv/plates/index.htm"
+ },
+ {
+  "title": "Celebrating the Arts",
+  "keegan_img": "Artistic-plate.png",
+  "cat": "hobby",
+  "status": "keegan-2023",
+  "source": "https://doa.alaska.gov/dmv/plates/index.htm"
+ },
+ {
+  "title": "Choose Life",
+  "keegan_img": "choose life.png",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://doa.alaska.gov/dmv/plates/index.htm"
+ },
+ {
+  "title": "Coast Guard",
+  "keegan_img": "Coast guard.png",
+  "cat": "military",
+  "status": "keegan-2023",
+  "source": "https://doa.alaska.gov/dmv/plates/index.htm"
+ },
+ {
+  "title": "Custom Collector",
+  "keegan_img": "collector.png",
+  "cat": "vehicle",
+  "status": "keegan-2023",
+  "source": "https://doa.alaska.gov/dmv/plates/index.htm"
+ },
+ {
+  "title": "Disabled Veteran w/ Parking Privileges",
+  "keegan_img": "plate-disabled-veteran-parking.png",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://doa.alaska.gov/dmv/plates/index.htm"
+ },
+ {
+  "title": "Disabled Veteran w/o Parking Privileges",
+  "keegan_img": "plate-disabled-veteran-parking-no.png",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://doa.alaska.gov/dmv/plates/index.htm"
+ },
+ {
+  "title": "Disabled w/ Parking Privileges",
+  "keegan_img": "plate-disabled.png",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://doa.alaska.gov/dmv/plates/index.htm"
+ },
+ {
+  "title": "Farm",
+  "keegan_img": "farm.png",
+  "cat": "vehicle",
+  "status": "keegan-2023",
+  "source": "https://doa.alaska.gov/dmv/plates/index.htm"
+ },
+ {
+  "title": "Firefighter/EMS",
+  "keegan_img": "fire.png",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://doa.alaska.gov/dmv/plates/index.htm"
+ },
+ {
+  "title": "Former Prisoner of War",
+  "keegan_img": "pow.png",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://doa.alaska.gov/dmv/plates/index.htm"
+ },
+ {
+  "title": "Freemason",
+  "keegan_img": "Freemason.png",
+  "cat": "hobby",
+  "status": "keegan-2023",
+  "source": "https://doa.alaska.gov/dmv/plates/index.htm"
+ },
+ {
+  "title": "Gold Star Family",
+  "keegan_img": "GoldStar.png",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://doa.alaska.gov/dmv/plates/index.htm"
+ },
+ {
+  "title": "Grizzly Bear",
+  "keegan_img": "grizzly-bear.png",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://doa.alaska.gov/dmv/plates/index.htm"
+ },
+ {
+  "title": "Historic",
+  "keegan_img": "historic_vehicle.png",
+  "cat": "vehicle",
+  "status": "keegan-2023",
+  "source": "https://doa.alaska.gov/dmv/plates/index.htm"
+ },
+ {
+  "title": "Iditarod Finisher",
+  "keegan_img": "iditarod.png",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://doa.alaska.gov/dmv/plates/index.htm"
+ },
+ {
+  "title": "In God We Trust",
+  "keegan_img": "AK-In-God-We-Trust.png",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://doa.alaska.gov/dmv/plates/index.htm"
+ },
+ {
+  "title": "International Association of Fire Fighters (IAFF",
+  "keegan_img": "IAFF.png",
+  "cat": "firstresponder",
+  "status": "keegan-2023",
+  "source": "https://doa.alaska.gov/dmv/plates/index.htm"
+ },
+ {
+  "title": "Knights of Columbus",
+  "keegan_img": "knightsofcolumbus.png",
+  "cat": "hobby",
+  "status": "keegan-2023",
+  "source": "https://doa.alaska.gov/dmv/plates/index.htm"
+ },
+ {
+  "title": "Laos Vet",
+  "keegan_img": "LaosVet.png",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://doa.alaska.gov/dmv/plates/index.htm"
+ },
+ {
+  "title": "Lions Club",
+  "keegan_img": "Lions.png",
+  "cat": "sports",
+  "status": "keegan-2023",
+  "source": "https://doa.alaska.gov/dmv/plates/index.htm"
+ },
+ {
+  "title": "Marines",
+  "keegan_img": "marine.png",
+  "cat": "military",
+  "status": "keegan-2023",
+  "source": "https://doa.alaska.gov/dmv/plates/index.htm"
+ },
+ {
+  "title": "Mountain",
+  "keegan_img": "mountain.png",
+  "cat": "nature",
+  "status": "keegan-2023",
+  "source": "https://doa.alaska.gov/dmv/plates/index.htm"
+ },
+ {
+  "title": "National Rifle Association",
+  "keegan_img": "NRA-License-Plate-lg.png",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://doa.alaska.gov/dmv/plates/index.htm"
+ },
+ {
+  "title": "Navy",
+  "keegan_img": "navy.png",
+  "cat": "military",
+  "status": "keegan-2023",
+  "source": "https://doa.alaska.gov/dmv/plates/index.htm"
+ },
+ {
+  "title": "Pearl Harbor Survivor",
+  "keegan_img": "Pearl Harbor Survivor.png",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://doa.alaska.gov/dmv/plates/index.htm"
+ },
+ {
+  "title": "Pioneers of Alaska",
+  "keegan_img": "Pioneers-of-Alaska-plate.png",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://doa.alaska.gov/dmv/plates/index.htm"
+ },
+ {
+  "title": "Pro-Family, Pro-Choice",
+  "keegan_img": "Pro-Family-Pro-Choice-Plate.png",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://doa.alaska.gov/dmv/plates/index.htm"
+ },
+ {
+  "title": "Purple Heart",
+  "keegan_img": "Purple_Heart.png",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://doa.alaska.gov/dmv/plates/index.htm"
+ },
+ {
+  "title": "PWS",
+  "keegan_img": "PWS.png",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://doa.alaska.gov/dmv/plates/index.htm"
+ },
+ {
+  "title": "Support Our Troops",
+  "keegan_img": "support.png",
+  "cat": "charity",
+  "status": "keegan-2023",
+  "source": "https://doa.alaska.gov/dmv/plates/index.htm"
+ },
+ {
+  "title": "Supporting the Arts",
+  "keegan_img": "art.jpg",
+  "cat": "hobby",
+  "status": "keegan-2023",
+  "source": "https://doa.alaska.gov/dmv/plates/index.htm"
+ },
+ {
+  "title": "UAA",
+  "keegan_img": "UAA.png",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://doa.alaska.gov/dmv/plates/index.htm"
+ },
+ {
+  "title": "UAF",
+  "keegan_img": "UAF.png",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://doa.alaska.gov/dmv/plates/index.htm"
+ },
+ {
+  "title": "UAS",
+  "keegan_img": "UAS.png",
+  "cat": "other",
+  "status": "keegan-2023",
+  "source": "https://doa.alaska.gov/dmv/plates/index.htm"
+ },
+ {
+  "title": "Veterans Commemorative",
+  "keegan_img": "Comm_Vet.png",
+  "cat": "veterans",
+  "status": "keegan-2023",
+  "source": "https://doa.alaska.gov/dmv/plates/index.htm"
+ }
+]

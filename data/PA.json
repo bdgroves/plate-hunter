@@ -1,0 +1,2164 @@
+{
+ "code": "PA",
+ "name": "Pennsylvania",
+ "rated": false,
+ "checked": false,
+ "updated": "2026-10-25",
+ "about": "Pennsylvania special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "sources": [
+  {
+   "title": "Jon Keegan, us-license-plates (2023)",
+   "url": "https://github.com/jonkeegan/us-license-plates"
+  }
+ ],
+ "plates": [
+  {
+   "id": "32nd-degree-masonic-learning-center-for",
+   "name": "32nd Degree Masonic Learning Center for...",
+   "cat": "hobby",
+   "img": "32nd-degree-masonic-learning-center-for.webp"
+  },
+  {
+   "id": "4-h-youth-program",
+   "name": "4-H Youth Program",
+   "cat": "charity",
+   "img": "4-h-youth-program.webp"
+  },
+  {
+   "id": "82nd-airborne-division-assn",
+   "name": "82nd Airborne Division Assn.",
+   "cat": "military",
+   "img": "82nd-airborne-division-assn.webp"
+  },
+  {
+   "id": "abington-fire-company",
+   "name": "Abington Fire Company",
+   "cat": "firstresponder",
+   "img": "abington-fire-company.webp"
+  },
+  {
+   "id": "actions-for-animals-humane-society",
+   "name": "Actions for Animals Humane Society",
+   "cat": "charity",
+   "img": "actions-for-animals-humane-society.webp"
+  },
+  {
+   "id": "afghanistan-and-iraq-veteran-registratio",
+   "name": "Afghanistan and Iraq Veteran Registration",
+   "cat": "veterans",
+   "img": "afghanistan-and-iraq-veteran-registratio.webp"
+  },
+  {
+   "id": "afscme-council-13",
+   "name": "AFSCME Council 13",
+   "cat": "other",
+   "img": "afscme-council-13.webp"
+  },
+  {
+   "id": "aids-resource-alliance",
+   "name": "AIDS Resource Alliance",
+   "cat": "other",
+   "img": "aids-resource-alliance.webp"
+  },
+  {
+   "id": "air-force-cross",
+   "name": "Air Force Cross",
+   "cat": "military",
+   "img": "air-force-cross.webp"
+  },
+  {
+   "id": "air-force-reserve",
+   "name": "Air Force Reserve",
+   "cat": "military",
+   "img": "air-force-reserve.webp"
+  },
+  {
+   "id": "air-medal-registration",
+   "name": "Air Medal Registration",
+   "cat": "veterans",
+   "img": "air-medal-registration.webp"
+  },
+  {
+   "id": "airborne-units",
+   "name": "Airborne Units",
+   "cat": "military",
+   "img": "airborne-units.webp"
+  },
+  {
+   "id": "albright-college",
+   "name": "Albright College",
+   "cat": "colleges",
+   "img": "albright-college.webp"
+  },
+  {
+   "id": "alpha-kappa-alpha-sorority-inc",
+   "name": "Alpha Kappa Alpha Sorority Inc.",
+   "cat": "other",
+   "img": "alpha-kappa-alpha-sorority-inc.webp"
+  },
+  {
+   "id": "alpha-phi-alpha-fraternity-inc",
+   "name": "Alpha Phi Alpha Fraternity Inc.",
+   "cat": "other",
+   "img": "alpha-phi-alpha-fraternity-inc.webp"
+  },
+  {
+   "id": "alvernia-university",
+   "name": "Alvernia University",
+   "cat": "colleges",
+   "img": "alvernia-university.webp"
+  },
+  {
+   "id": "american-cancer-society",
+   "name": "American Cancer Society",
+   "cat": "charity",
+   "img": "american-cancer-society.webp"
+  },
+  {
+   "id": "american-hose-company-no-1",
+   "name": "American Hose Company No. 1",
+   "cat": "other",
+   "img": "american-hose-company-no-1.webp"
+  },
+  {
+   "id": "ancient-order-of-hibernians",
+   "name": "Ancient Order of Hibernians",
+   "cat": "other",
+   "img": "ancient-order-of-hibernians.webp"
+  },
+  {
+   "id": "animal-friends",
+   "name": "Animal Friends",
+   "cat": "charity",
+   "img": "animal-friends.webp"
+  },
+  {
+   "id": "arizona-state-university",
+   "name": "Arizona State University",
+   "cat": "colleges",
+   "img": "arizona-state-university.webp"
+  },
+  {
+   "id": "association-of-pennsylvania-state",
+   "name": "Association of Pennsylvania State...",
+   "cat": "charity",
+   "img": "association-of-pennsylvania-state.webp"
+  },
+  {
+   "id": "autism-awareness",
+   "name": "Autism Awareness",
+   "cat": "charity",
+   "img": "autism-awareness.webp"
+  },
+  {
+   "id": "avondale-fire-company",
+   "name": "Avondale Fire Company",
+   "cat": "firstresponder",
+   "img": "avondale-fire-company.webp"
+  },
+  {
+   "id": "barren-hill-volunteer-fire-company",
+   "name": "Barren Hill Volunteer Fire Company",
+   "cat": "firstresponder",
+   "img": "barren-hill-volunteer-fire-company.webp"
+  },
+  {
+   "id": "benevolent-and-protective-order-of-elks",
+   "name": "Benevolent and Protective Order of ELKS...",
+   "cat": "nature",
+   "img": "benevolent-and-protective-order-of-elks.webp"
+  },
+  {
+   "id": "berwyn-fire-company",
+   "name": "Berwyn Fire Company",
+   "cat": "firstresponder",
+   "img": "berwyn-fire-company.webp"
+  },
+  {
+   "id": "bethlehem-township-volunteer-fire",
+   "name": "Bethlehem Township Volunteer Fire...",
+   "cat": "firstresponder",
+   "img": "bethlehem-township-volunteer-fire.webp"
+  },
+  {
+   "id": "big-brothers-big-sisters",
+   "name": "Big Brothers Big Sisters",
+   "cat": "other",
+   "img": "big-brothers-big-sisters.webp"
+  },
+  {
+   "id": "big-run-area-vol-fire-company",
+   "name": "Big Run Area Vol Fire Company",
+   "cat": "firstresponder",
+   "img": "big-run-area-vol-fire-company.webp"
+  },
+  {
+   "id": "birdsboro-union-fire-department",
+   "name": "Birdsboro Union Fire Department",
+   "cat": "firstresponder",
+   "img": "birdsboro-union-fire-department.webp"
+  },
+  {
+   "id": "blackthorn-rugby-football-club",
+   "name": "Blackthorn Rugby Football Club",
+   "cat": "sports",
+   "img": "blackthorn-rugby-football-club.webp"
+  },
+  {
+   "id": "bloomsburg-university",
+   "name": "Bloomsburg University",
+   "cat": "colleges",
+   "img": "bloomsburg-university.webp"
+  },
+  {
+   "id": "blue-knights-int-l-law-enforcement",
+   "name": "Blue Knights Int'l Law Enforcement...",
+   "cat": "firstresponder",
+   "img": "blue-knights-int-l-law-enforcement.webp"
+  },
+  {
+   "id": "blue-moon-cruisers-rod-custom",
+   "name": "Blue Moon Cruisers Rod & Custom...",
+   "cat": "other",
+   "img": "blue-moon-cruisers-rod-custom.webp"
+  },
+  {
+   "id": "blue-mountain-jeep-alliance",
+   "name": "Blue Mountain Jeep Alliance",
+   "cat": "nature",
+   "img": "blue-mountain-jeep-alliance.webp"
+  },
+  {
+   "id": "blue-star-family-registration",
+   "name": "Blue Star Family Registration",
+   "cat": "other",
+   "img": "blue-star-family-registration.webp"
+  },
+  {
+   "id": "boy-scouts-of-america",
+   "name": "Boy Scouts of America",
+   "cat": "charity",
+   "img": "boy-scouts-of-america.webp"
+  },
+  {
+   "id": "bronze-star",
+   "name": "Bronze Star",
+   "cat": "veterans",
+   "img": "bronze-star.webp"
+  },
+  {
+   "id": "bronze-star-for-valor",
+   "name": "Bronze Star for Valor",
+   "cat": "veterans",
+   "img": "bronze-star-for-valor.webp"
+  },
+  {
+   "id": "brookhaven-fire-co-no-1",
+   "name": "Brookhaven Fire Co. No. 1",
+   "cat": "firstresponder",
+   "img": "brookhaven-fire-co-no-1.webp"
+  },
+  {
+   "id": "brookline-fire-company",
+   "name": "Brookline Fire Company",
+   "cat": "firstresponder",
+   "img": "brookline-fire-company.webp"
+  },
+  {
+   "id": "bucknell-university",
+   "name": "Bucknell University",
+   "cat": "colleges",
+   "img": "bucknell-university.webp"
+  },
+  {
+   "id": "california-university",
+   "name": "California University",
+   "cat": "colleges",
+   "img": "california-university.webp"
+  },
+  {
+   "id": "cathedral-preparatory-school",
+   "name": "Cathedral Preparatory School",
+   "cat": "charity",
+   "img": "cathedral-preparatory-school.webp"
+  },
+  {
+   "id": "cedar-crest-college",
+   "name": "Cedar Crest College",
+   "cat": "colleges",
+   "img": "cedar-crest-college.webp"
+  },
+  {
+   "id": "central-high-school-alumni",
+   "name": "Central High School Alumni",
+   "cat": "colleges",
+   "img": "central-high-school-alumni.webp"
+  },
+  {
+   "id": "cetronia-ambulance-corps",
+   "name": "Cetronia Ambulance Corps",
+   "cat": "other",
+   "img": "cetronia-ambulance-corps.webp"
+  },
+  {
+   "id": "childfirst-pennsylvania",
+   "name": "ChildFirst Pennsylvania",
+   "cat": "charity",
+   "img": "childfirst-pennsylvania.webp"
+  },
+  {
+   "id": "children-s-hospital-of-philadelphia",
+   "name": "Children's Hospital of Philadelphia",
+   "cat": "charity",
+   "img": "children-s-hospital-of-philadelphia.webp"
+  },
+  {
+   "id": "christian-home-school-association-of-pa",
+   "name": "Christian Home School Association of PA",
+   "cat": "charity",
+   "img": "christian-home-school-association-of-pa.webp"
+  },
+  {
+   "id": "civil-air-patrol",
+   "name": "Civil Air Patrol",
+   "cat": "other",
+   "img": "civil-air-patrol.webp"
+  },
+  {
+   "id": "clarion-university",
+   "name": "Clarion University",
+   "cat": "colleges",
+   "img": "clarion-university.webp"
+  },
+  {
+   "id": "colonial-park-fire-company-1",
+   "name": "Colonial Park Fire Company #1",
+   "cat": "firstresponder",
+   "img": "colonial-park-fire-company-1.webp"
+  },
+  {
+   "id": "combat-action-badge",
+   "name": "Combat Action Badge",
+   "cat": "veterans",
+   "img": "combat-action-badge.webp"
+  },
+  {
+   "id": "combat-action-medal",
+   "name": "Combat Action Medal",
+   "cat": "veterans",
+   "img": "combat-action-medal.webp"
+  },
+  {
+   "id": "combat-action-ribbon",
+   "name": "Combat Action Ribbon",
+   "cat": "veterans",
+   "img": "combat-action-ribbon.webp"
+  },
+  {
+   "id": "combat-infantrymand-badge",
+   "name": "Combat infantrymand badge",
+   "cat": "veterans",
+   "img": "combat-infantrymand-badge.webp"
+  },
+  {
+   "id": "combat-medical-badge",
+   "name": "Combat Medical Badge",
+   "cat": "veterans",
+   "img": "combat-medical-badge.webp"
+  },
+  {
+   "id": "commonwealth-constables-association",
+   "name": "Commonwealth Constables Association",
+   "cat": "charity",
+   "img": "commonwealth-constables-association.webp"
+  },
+  {
+   "id": "community-academy-of-philadelphia",
+   "name": "Community Academy of Philadelphia",
+   "cat": "other",
+   "img": "community-academy-of-philadelphia.webp"
+  },
+  {
+   "id": "community-for-pittsburgh-ultimate",
+   "name": "Community for Pittsburgh Ultimate",
+   "cat": "other",
+   "img": "community-for-pittsburgh-ultimate.webp"
+  },
+  {
+   "id": "community-in-schools-pennsylvania",
+   "name": "Community in Schools Pennsylvania",
+   "cat": "charity",
+   "img": "community-in-schools-pennsylvania.webp"
+  },
+  {
+   "id": "community-life-team-ems",
+   "name": "Community Life Team EMS",
+   "cat": "firstresponder",
+   "img": "community-life-team-ems.webp"
+  },
+  {
+   "id": "concordville-fire-protective-assn",
+   "name": "Concordville Fire & Protective Assn",
+   "cat": "firstresponder",
+   "img": "concordville-fire-protective-assn.webp"
+  },
+  {
+   "id": "conserve-wild-resources-hellbender",
+   "name": "Conserve Wild Resources - Hellbender",
+   "cat": "sports",
+   "img": "conserve-wild-resources-hellbender.webp"
+  },
+  {
+   "id": "conshohocken-fire-company-no-2",
+   "name": "Conshohocken Fire Company No. 2",
+   "cat": "firstresponder",
+   "img": "conshohocken-fire-company-no-2.webp"
+  },
+  {
+   "id": "corvette-club-of-delaware",
+   "name": "Corvette Club of Delaware",
+   "cat": "hobby",
+   "img": "corvette-club-of-delaware.webp"
+  },
+  {
+   "id": "crystal-fire-department",
+   "name": "Crystal Fire Department",
+   "cat": "firstresponder",
+   "img": "crystal-fire-department.webp"
+  },
+  {
+   "id": "cumberland-valley-corvette-club",
+   "name": "Cumberland Valley Corvette Club",
+   "cat": "hobby",
+   "img": "cumberland-valley-corvette-club.webp"
+  },
+  {
+   "id": "deborah-grand-oes-pha",
+   "name": "Deborah Grand OES-PHA",
+   "cat": "other",
+   "img": "deborah-grand-oes-pha.webp"
+  },
+  {
+   "id": "delaware-co-fallen-firefighter-ems",
+   "name": "Delaware Co. Fallen Firefighter & EMS...",
+   "cat": "firstresponder",
+   "img": "delaware-co-fallen-firefighter-ems.webp"
+  },
+  {
+   "id": "delaware-valley-chapter-of-the-bmw",
+   "name": "Delaware Valley Chapter of the BMW...",
+   "cat": "other",
+   "img": "delaware-valley-chapter-of-the-bmw.webp"
+  },
+  {
+   "id": "delaware-valley-golden-retriever-rescue",
+   "name": "Delaware Valley Golden Retriever Rescue",
+   "cat": "firstresponder",
+   "img": "delaware-valley-golden-retriever-rescue.webp"
+  },
+  {
+   "id": "delaware-valley-triumphs-ltd",
+   "name": "Delaware Valley Triumphs Ltd.",
+   "cat": "other",
+   "img": "delaware-valley-triumphs-ltd.webp"
+  },
+  {
+   "id": "delta-sigma-theta-sorority-inc",
+   "name": "Delta Sigma Theta Sorority, Inc.",
+   "cat": "other",
+   "img": "delta-sigma-theta-sorority-inc.webp"
+  },
+  {
+   "id": "delta-waterfowl",
+   "name": "Delta Waterfowl",
+   "cat": "nature",
+   "img": "delta-waterfowl.webp"
+  },
+  {
+   "id": "desales-university",
+   "name": "Desales University",
+   "cat": "colleges",
+   "img": "desales-university.webp"
+  },
+  {
+   "id": "dickinson-college",
+   "name": "Dickinson College",
+   "cat": "colleges",
+   "img": "dickinson-college.webp"
+  },
+  {
+   "id": "distinguished-flying-cross",
+   "name": "Distinguished Flying Cross",
+   "cat": "veterans",
+   "img": "distinguished-flying-cross.webp"
+  },
+  {
+   "id": "distinguished-service-cross",
+   "name": "Distinguished Service Cross",
+   "cat": "veterans",
+   "img": "distinguished-service-cross.webp"
+  },
+  {
+   "id": "distracted-driving",
+   "name": "Distracted Driving",
+   "cat": "other",
+   "img": "distracted-driving.webp"
+  },
+  {
+   "id": "ducks-unlimited",
+   "name": "Ducks Unlimited",
+   "cat": "nature",
+   "img": "ducks-unlimited.webp"
+  },
+  {
+   "id": "duquesne-university",
+   "name": "Duquesne University",
+   "cat": "colleges",
+   "img": "duquesne-university.webp"
+  },
+  {
+   "id": "east-allen-twp-vol-fire-dept",
+   "name": "East Allen Twp. Vol. Fire Dept.",
+   "cat": "firstresponder",
+   "img": "east-allen-twp-vol-fire-dept.webp"
+  },
+  {
+   "id": "east-brandywine-fire-company",
+   "name": "East Brandywine Fire Company",
+   "cat": "firstresponder",
+   "img": "east-brandywine-fire-company.webp"
+  },
+  {
+   "id": "eastern-berks-fire-department",
+   "name": "Eastern Berks Fire Department",
+   "cat": "firstresponder",
+   "img": "eastern-berks-fire-department.webp"
+  },
+  {
+   "id": "eastern-university",
+   "name": "Eastern University",
+   "cat": "colleges",
+   "img": "eastern-university.webp"
+  },
+  {
+   "id": "eddington-fire-co",
+   "name": "Eddington Fire Co.",
+   "cat": "firstresponder",
+   "img": "eddington-fire-co.webp"
+  },
+  {
+   "id": "elizabeth-city-state-university-alumni",
+   "name": "Elizabeth City State University Alumni",
+   "cat": "colleges",
+   "img": "elizabeth-city-state-university-alumni.webp"
+  },
+  {
+   "id": "enterprise-fire-company",
+   "name": "Enterprise Fire Company",
+   "cat": "firstresponder",
+   "img": "enterprise-fire-company.webp"
+  },
+  {
+   "id": "erie-yacht-club",
+   "name": "Erie Yacht Club",
+   "cat": "charity",
+   "img": "erie-yacht-club.webp"
+  },
+  {
+   "id": "eureka-fire-co",
+   "name": "Eureka Fire Co.",
+   "cat": "firstresponder",
+   "img": "eureka-fire-co.webp"
+  },
+  {
+   "id": "ex-prisoner-of-war",
+   "name": "Ex-Prisoner of War",
+   "cat": "veterans",
+   "img": "ex-prisoner-of-war.webp"
+  },
+  {
+   "id": "exeter-twp-fire-department",
+   "name": "Exeter Twp. Fire Department",
+   "cat": "firstresponder",
+   "img": "exeter-twp-fire-department.webp"
+  },
+  {
+   "id": "fairview-township-fire-department",
+   "name": "Fairview Township Fire Department",
+   "cat": "firstresponder",
+   "img": "fairview-township-fire-department.webp"
+  },
+  {
+   "id": "fearnots-volunteer-fire-company",
+   "name": "Fearnots Volunteer Fire Company",
+   "cat": "firstresponder",
+   "img": "fearnots-volunteer-fire-company.webp"
+  },
+  {
+   "id": "ffa-association",
+   "name": "FFA Association",
+   "cat": "charity",
+   "img": "ffa-association.webp"
+  },
+  {
+   "id": "fire-fighter",
+   "name": "Fire Fighter",
+   "cat": "firstresponder",
+   "img": "fire-fighter.webp"
+  },
+  {
+   "id": "flourtown-fire-company",
+   "name": "Flourtown Fire Company",
+   "cat": "firstresponder",
+   "img": "flourtown-fire-company.webp"
+  },
+  {
+   "id": "flyers-wives-charities",
+   "name": "Flyers Wives Charities",
+   "cat": "other",
+   "img": "flyers-wives-charities.webp"
+  },
+  {
+   "id": "fort-mifflin-on-the-delaware",
+   "name": "Fort Mifflin on the Delaware",
+   "cat": "other",
+   "img": "fort-mifflin-on-the-delaware.webp"
+  },
+  {
+   "id": "franklin-marshall-college",
+   "name": "Franklin & Marshall College",
+   "cat": "colleges",
+   "img": "franklin-marshall-college.webp"
+  },
+  {
+   "id": "fraternal-order-of-police",
+   "name": "Fraternal Order of Police",
+   "cat": "firstresponder",
+   "img": "fraternal-order-of-police.webp"
+  },
+  {
+   "id": "fraternal-order-of-police-fop",
+   "name": "Fraternal Order of Police - FOP...",
+   "cat": "firstresponder",
+   "img": "fraternal-order-of-police-fop.webp"
+  },
+  {
+   "id": "fraternal-order-of-professional",
+   "name": "Fraternal Order of Professional...",
+   "cat": "hobby",
+   "img": "fraternal-order-of-professional.webp"
+  },
+  {
+   "id": "friends-of-drake-well-inc",
+   "name": "Friends of Drake Well Inc.",
+   "cat": "other",
+   "img": "friends-of-drake-well-inc.webp"
+  },
+  {
+   "id": "friends-of-valley-forge-park",
+   "name": "Friends of Valley Forge Park",
+   "cat": "nature",
+   "img": "friends-of-valley-forge-park.webp"
+  },
+  {
+   "id": "friendship-fire-company-of-bressler",
+   "name": "Friendship Fire Company of Bressler",
+   "cat": "firstresponder",
+   "img": "friendship-fire-company-of-bressler.webp"
+  },
+  {
+   "id": "friendship-hook-ladder-hose",
+   "name": "Friendship Hook, Ladder, Hose &...",
+   "cat": "other",
+   "img": "friendship-hook-ladder-hose.webp"
+  },
+  {
+   "id": "geneva-college",
+   "name": "Geneva College",
+   "cat": "colleges",
+   "img": "geneva-college.webp"
+  },
+  {
+   "id": "gettysburg-college",
+   "name": "Gettysburg College",
+   "cat": "colleges",
+   "img": "gettysburg-college.webp"
+  },
+  {
+   "id": "gettysburg-college-orange-blue-club",
+   "name": "Gettysburg College Orange & Blue Club",
+   "cat": "colleges",
+   "img": "gettysburg-college-orange-blue-club.webp"
+  },
+  {
+   "id": "gettysburg-fire-department",
+   "name": "Gettysburg Fire Department",
+   "cat": "firstresponder",
+   "img": "gettysburg-fire-department.webp"
+  },
+  {
+   "id": "gilbertsville-fire-rescue-company",
+   "name": "Gilbertsville Fire & Rescue Company",
+   "cat": "firstresponder",
+   "img": "gilbertsville-fire-rescue-company.webp"
+  },
+  {
+   "id": "girl-scouts-of-america",
+   "name": "Girl Scouts of America",
+   "cat": "charity",
+   "img": "girl-scouts-of-america.webp"
+  },
+  {
+   "id": "gladwyne-fire-company",
+   "name": "Gladwyne Fire Company",
+   "cat": "firstresponder",
+   "img": "gladwyne-fire-company.webp"
+  },
+  {
+   "id": "going-home-greyhounds",
+   "name": "Going Home Greyhounds",
+   "cat": "other",
+   "img": "going-home-greyhounds.webp"
+  },
+  {
+   "id": "gold-star-family",
+   "name": "Gold Star Family",
+   "cat": "veterans",
+   "img": "gold-star-family.webp"
+  },
+  {
+   "id": "good-intent-fire-company-1",
+   "name": "Good Intent Fire Company #1",
+   "cat": "firstresponder",
+   "img": "good-intent-fire-company-1.webp"
+  },
+  {
+   "id": "goshen-fire-company",
+   "name": "Goshen Fire Company",
+   "cat": "firstresponder",
+   "img": "goshen-fire-company.webp"
+  },
+  {
+   "id": "grand-commandery-of-knights-of-templar",
+   "name": "Grand Commandery of Knights of Templar...",
+   "cat": "hobby",
+   "img": "grand-commandery-of-knights-of-templar.webp"
+  },
+  {
+   "id": "gwynedd-mercy-college",
+   "name": "Gwynedd-Mercy College",
+   "cat": "colleges",
+   "img": "gwynedd-mercy-college.webp"
+  },
+  {
+   "id": "hampden-township-volunteer-fire-company",
+   "name": "Hampden Township Volunteer Fire Company",
+   "cat": "firstresponder",
+   "img": "hampden-township-volunteer-fire-company.webp"
+  },
+  {
+   "id": "harcum-college",
+   "name": "Harcum College",
+   "cat": "colleges",
+   "img": "harcum-college.webp"
+  },
+  {
+   "id": "harleysville-community-fire-co",
+   "name": "Harleysville Community Fire Co.",
+   "cat": "firstresponder",
+   "img": "harleysville-community-fire-co.webp"
+  },
+  {
+   "id": "harmonville-fire-company-no-1",
+   "name": "Harmonville Fire Company No. 1",
+   "cat": "firstresponder",
+   "img": "harmonville-fire-company-no-1.webp"
+  },
+  {
+   "id": "harrisburg-university-of-science-and",
+   "name": "Harrisburg University of Science and...",
+   "cat": "colleges",
+   "img": "harrisburg-university-of-science-and.webp"
+  },
+  {
+   "id": "hartsville-fire-company",
+   "name": "Hartsville Fire Company",
+   "cat": "firstresponder",
+   "img": "hartsville-fire-company.webp"
+  },
+  {
+   "id": "heritage-region-jeep-alliance",
+   "name": "Heritage Region Jeep Alliance",
+   "cat": "hobby",
+   "img": "heritage-region-jeep-alliance.webp"
+  },
+  {
+   "id": "holy-family-university",
+   "name": "Holy Family University",
+   "cat": "colleges",
+   "img": "holy-family-university.webp"
+  },
+  {
+   "id": "honor-women-vets",
+   "name": "Honor Women Vets",
+   "cat": "other",
+   "img": "honor-women-vets.webp"
+  },
+  {
+   "id": "honoring-our-vets-eagle",
+   "name": "Honoring our Vets Eagle",
+   "cat": "nature",
+   "img": "honoring-our-vets-eagle.webp"
+  },
+  {
+   "id": "honoring-vets",
+   "name": "Honoring Vets",
+   "cat": "other",
+   "img": "honoring-vets.webp"
+  },
+  {
+   "id": "horsham-fire-company-no-1",
+   "name": "Horsham Fire Company No. 1",
+   "cat": "firstresponder",
+   "img": "horsham-fire-company-no-1.webp"
+  },
+  {
+   "id": "in-god-we-trust",
+   "name": "In God We Trust",
+   "cat": "charity",
+   "img": "in-god-we-trust.webp"
+  },
+  {
+   "id": "ingomar-vol-fire-co-no-2",
+   "name": "Ingomar Vol. Fire Co. No. 2",
+   "cat": "firstresponder",
+   "img": "ingomar-vol-fire-co-no-2.webp"
+  },
+  {
+   "id": "intl-assn-fire-fighters",
+   "name": "Intl Assn Fire Fighters",
+   "cat": "firstresponder",
+   "img": "intl-assn-fire-fighters.webp"
+  },
+  {
+   "id": "intl-brotherhood-of-boilermakers",
+   "name": "Intl Brotherhood of Boilermakers",
+   "cat": "other",
+   "img": "intl-brotherhood-of-boilermakers.webp"
+  },
+  {
+   "id": "intl-union-of-operating-engineers",
+   "name": "Intl Union of Operating Engineers",
+   "cat": "other",
+   "img": "intl-union-of-operating-engineers.webp"
+  },
+  {
+   "id": "iup-alumni-association",
+   "name": "IUP Alumni Association",
+   "cat": "colleges",
+   "img": "iup-alumni-association.webp"
+  },
+  {
+   "id": "jefferson-fire-company",
+   "name": "Jefferson Fire Company",
+   "cat": "firstresponder",
+   "img": "jefferson-fire-company.webp"
+  },
+  {
+   "id": "keystone-state-corvette-club",
+   "name": "Keystone State Corvette Club",
+   "cat": "hobby",
+   "img": "keystone-state-corvette-club.webp"
+  },
+  {
+   "id": "knights-of-columbus",
+   "name": "Knights of Columbus",
+   "cat": "hobby",
+   "img": "knights-of-columbus.webp"
+  },
+  {
+   "id": "korean-defense-service",
+   "name": "Korean Defense Service",
+   "cat": "veterans",
+   "img": "korean-defense-service.webp"
+  },
+  {
+   "id": "korean-war-veteran",
+   "name": "Korean War Veteran",
+   "cat": "veterans",
+   "img": "korean-war-veteran.webp"
+  },
+  {
+   "id": "kuhl-hose-company-inc",
+   "name": "Kuhl Hose Company Inc.",
+   "cat": "other",
+   "img": "kuhl-hose-company-inc.webp"
+  },
+  {
+   "id": "kutztown-university",
+   "name": "Kutztown University",
+   "cat": "colleges",
+   "img": "kutztown-university.webp"
+  },
+  {
+   "id": "la-roche-college",
+   "name": "La Roche College",
+   "cat": "colleges",
+   "img": "la-roche-college.webp"
+  },
+  {
+   "id": "la-salle-university",
+   "name": "La Salle University",
+   "cat": "colleges",
+   "img": "la-salle-university.webp"
+  },
+  {
+   "id": "lake-erie-college-of-osteopathic",
+   "name": "Lake Erie College of Osteopathic...",
+   "cat": "colleges",
+   "img": "lake-erie-college-of-osteopathic.webp"
+  },
+  {
+   "id": "lancaster-bible-college",
+   "name": "Lancaster Bible College",
+   "cat": "colleges",
+   "img": "lancaster-bible-college.webp"
+  },
+  {
+   "id": "lancaster-twp-fire-dept",
+   "name": "Lancaster Twp Fire Dept.",
+   "cat": "firstresponder",
+   "img": "lancaster-twp-fire-dept.webp"
+  },
+  {
+   "id": "lansdowne-fire-company",
+   "name": "Lansdowne Fire Company",
+   "cat": "firstresponder",
+   "img": "lansdowne-fire-company.webp"
+  },
+  {
+   "id": "lebanon-valley-college",
+   "name": "Lebanon Valley College",
+   "cat": "colleges",
+   "img": "lebanon-valley-college.webp"
+  },
+  {
+   "id": "legion-of-merit",
+   "name": "Legion of Merit",
+   "cat": "veterans",
+   "img": "legion-of-merit.webp"
+  },
+  {
+   "id": "lehigh-township-volunteer-fire-company",
+   "name": "Lehigh Township Volunteer Fire Company...",
+   "cat": "firstresponder",
+   "img": "lehigh-township-volunteer-fire-company.webp"
+  },
+  {
+   "id": "lehigh-university-alumni",
+   "name": "Lehigh University Alumni",
+   "cat": "colleges",
+   "img": "lehigh-university-alumni.webp"
+  },
+  {
+   "id": "let-freedom-ring",
+   "name": "Let Freedom Ring",
+   "cat": "other",
+   "img": "let-freedom-ring.webp"
+  },
+  {
+   "id": "limerick-fire-company",
+   "name": "Limerick Fire Company",
+   "cat": "firstresponder",
+   "img": "limerick-fire-company.webp"
+  },
+  {
+   "id": "lincoln-university",
+   "name": "Lincoln University",
+   "cat": "colleges",
+   "img": "lincoln-university.webp"
+  },
+  {
+   "id": "linglestown-fire-co-1",
+   "name": "Linglestown Fire Co. #1",
+   "cat": "firstresponder",
+   "img": "linglestown-fire-co-1.webp"
+  },
+  {
+   "id": "lock-haven-university",
+   "name": "Lock Haven University",
+   "cat": "colleges",
+   "img": "lock-haven-university.webp"
+  },
+  {
+   "id": "lower-frederick-fire-company",
+   "name": "Lower Frederick Fire Company",
+   "cat": "firstresponder",
+   "img": "lower-frederick-fire-company.webp"
+  },
+  {
+   "id": "lower-macungie-fire-department",
+   "name": "Lower Macungie Fire Department",
+   "cat": "firstresponder",
+   "img": "lower-macungie-fire-department.webp"
+  },
+  {
+   "id": "lycoming-college",
+   "name": "Lycoming College",
+   "cat": "colleges",
+   "img": "lycoming-college.webp"
+  },
+  {
+   "id": "m-club-foundation-univ-of-maryland",
+   "name": "M Club Foundation, Univ of Maryland",
+   "cat": "charity",
+   "img": "m-club-foundation-univ-of-maryland.webp"
+  },
+  {
+   "id": "malvern-fire-company",
+   "name": "Malvern Fire Company",
+   "cat": "firstresponder",
+   "img": "malvern-fire-company.webp"
+  },
+  {
+   "id": "malvern-retreat-house",
+   "name": "Malvern Retreat House",
+   "cat": "other",
+   "img": "malvern-retreat-house.webp"
+  },
+  {
+   "id": "mansfield-university",
+   "name": "Mansfield University",
+   "cat": "colleges",
+   "img": "mansfield-university.webp"
+  },
+  {
+   "id": "marine-corps-league",
+   "name": "Marine Corps League",
+   "cat": "military",
+   "img": "marine-corps-league.webp"
+  },
+  {
+   "id": "marshall-university-alumni",
+   "name": "Marshall University Alumni",
+   "cat": "colleges",
+   "img": "marshall-university-alumni.webp"
+  },
+  {
+   "id": "marshalls-creek-fire-co",
+   "name": "Marshalls Creek Fire Co",
+   "cat": "firstresponder",
+   "img": "marshalls-creek-fire-co.webp"
+  },
+  {
+   "id": "marywood-university",
+   "name": "Marywood University",
+   "cat": "colleges",
+   "img": "marywood-university.webp"
+  },
+  {
+   "id": "masonic-blue-lodge",
+   "name": "Masonic Blue Lodge",
+   "cat": "hobby",
+   "img": "masonic-blue-lodge.webp"
+  },
+  {
+   "id": "mcdonald-volunteer-fire-company",
+   "name": "McDonald Volunteer Fire Company",
+   "cat": "firstresponder",
+   "img": "mcdonald-volunteer-fire-company.webp"
+  },
+  {
+   "id": "medal-of-honor",
+   "name": "Medal of Honor",
+   "cat": "veterans",
+   "img": "medal-of-honor.webp"
+  },
+  {
+   "id": "mercedes-benz-club-of-america",
+   "name": "Mercedes Benz Club of America",
+   "cat": "charity",
+   "img": "mercedes-benz-club-of-america.webp"
+  },
+  {
+   "id": "merchant-marines",
+   "name": "Merchant Marines",
+   "cat": "military",
+   "img": "merchant-marines.webp"
+  },
+  {
+   "id": "michigan-state-alumni",
+   "name": "Michigan State Alumni",
+   "cat": "colleges",
+   "img": "michigan-state-alumni.webp"
+  },
+  {
+   "id": "mid-atlantic-consortium-of-education",
+   "name": "Mid-Atlantic Consortium of Education...",
+   "cat": "charity",
+   "img": "mid-atlantic-consortium-of-education.webp"
+  },
+  {
+   "id": "millersburg-fire-company",
+   "name": "Millersburg Fire Company",
+   "cat": "firstresponder",
+   "img": "millersburg-fire-company.webp"
+  },
+  {
+   "id": "millersville-university-of-pennsylvania",
+   "name": "Millersville University of Pennsylvania",
+   "cat": "colleges",
+   "img": "millersville-university-of-pennsylvania.webp"
+  },
+  {
+   "id": "misericordia-university",
+   "name": "Misericordia University",
+   "cat": "colleges",
+   "img": "misericordia-university.webp"
+  },
+  {
+   "id": "monroeville-vol-fire-dept",
+   "name": "Monroeville Vol. Fire Dept.",
+   "cat": "firstresponder",
+   "img": "monroeville-vol-fire-dept.webp"
+  },
+  {
+   "id": "moravian-college",
+   "name": "Moravian College",
+   "cat": "colleges",
+   "img": "moravian-college.webp"
+  },
+  {
+   "id": "mount-aloysius-college",
+   "name": "Mount Aloysius College",
+   "cat": "colleges",
+   "img": "mount-aloysius-college.webp"
+  },
+  {
+   "id": "mount-st-mary-s-university",
+   "name": "Mount St. Mary's University",
+   "cat": "colleges",
+   "img": "mount-st-mary-s-university.webp"
+  },
+  {
+   "id": "mt-penn-fire-company",
+   "name": "Mt. Penn Fire Company",
+   "cat": "firstresponder",
+   "img": "mt-penn-fire-company.webp"
+  },
+  {
+   "id": "national-constitution-center",
+   "name": "National Constitution Center",
+   "cat": "other",
+   "img": "national-constitution-center.webp"
+  },
+  {
+   "id": "national-ovarian-cancer-coalition",
+   "name": "National Ovarian Cancer Coalition",
+   "cat": "charity",
+   "img": "national-ovarian-cancer-coalition.webp"
+  },
+  {
+   "id": "national-police-defense-foundation",
+   "name": "National Police Defense Foundation",
+   "cat": "firstresponder",
+   "img": "national-police-defense-foundation.webp"
+  },
+  {
+   "id": "national-ski-patrol",
+   "name": "National Ski Patrol",
+   "cat": "sports",
+   "img": "national-ski-patrol.webp"
+  },
+  {
+   "id": "navy-cross",
+   "name": "Navy Cross",
+   "cat": "veterans",
+   "img": "navy-cross.webp"
+  },
+  {
+   "id": "nazareth-area-chamber-of-commerce",
+   "name": "Nazareth Area Chamber of Commerce",
+   "cat": "charity",
+   "img": "nazareth-area-chamber-of-commerce.webp"
+  },
+  {
+   "id": "neumann-university",
+   "name": "Neumann University",
+   "cat": "colleges",
+   "img": "neumann-university.webp"
+  },
+  {
+   "id": "newtown-fire-association",
+   "name": "Newtown Fire Association",
+   "cat": "firstresponder",
+   "img": "newtown-fire-association.webp"
+  },
+  {
+   "id": "north-penn-vol-fire-company",
+   "name": "North Penn Vol. Fire Company",
+   "cat": "firstresponder",
+   "img": "north-penn-vol-fire-company.webp"
+  },
+  {
+   "id": "north-strabane-fire-department",
+   "name": "North Strabane Fire Department",
+   "cat": "firstresponder",
+   "img": "north-strabane-fire-department.webp"
+  },
+  {
+   "id": "northampton-fire-department",
+   "name": "Northampton Fire Department",
+   "cat": "firstresponder",
+   "img": "northampton-fire-department.webp"
+  },
+  {
+   "id": "northampton-township-volunteer-fire",
+   "name": "Northampton Township Volunteer Fire...",
+   "cat": "firstresponder",
+   "img": "northampton-township-volunteer-fire.webp"
+  },
+  {
+   "id": "norwin-band-aides",
+   "name": "Norwin Band Aides",
+   "cat": "other",
+   "img": "norwin-band-aides.webp"
+  },
+  {
+   "id": "norwood-fire-company",
+   "name": "Norwood Fire Company",
+   "cat": "firstresponder",
+   "img": "norwood-fire-company.webp"
+  },
+  {
+   "id": "nra-foundation",
+   "name": "NRA Foundation",
+   "cat": "charity",
+   "img": "nra-foundation.webp"
+  },
+  {
+   "id": "oakmont-fire-company",
+   "name": "Oakmont Fire Company",
+   "cat": "firstresponder",
+   "img": "oakmont-fire-company.webp"
+  },
+  {
+   "id": "ohio-river-trail-council",
+   "name": "Ohio River Trail Council",
+   "cat": "nature",
+   "img": "ohio-river-trail-council.webp"
+  },
+  {
+   "id": "omega-psi-phi-fraternity-inc",
+   "name": "Omega Psi Phi Fraternity, Inc.",
+   "cat": "other",
+   "img": "omega-psi-phi-fraternity-inc.webp"
+  },
+  {
+   "id": "operation-enduring-freedom",
+   "name": "Operation Enduring Freedom",
+   "cat": "other",
+   "img": "operation-enduring-freedom.webp"
+  },
+  {
+   "id": "operation-iraqi-freedom",
+   "name": "Operation Iraqi Freedom",
+   "cat": "veterans",
+   "img": "operation-iraqi-freedom.webp"
+  },
+  {
+   "id": "oreland-volunteer-fire-company",
+   "name": "Oreland Volunteer Fire Company",
+   "cat": "firstresponder",
+   "img": "oreland-volunteer-fire-company.webp"
+  },
+  {
+   "id": "organ-donors-save-lives",
+   "name": "Organ Donors Save Lives",
+   "cat": "charity",
+   "img": "organ-donors-save-lives.webp"
+  },
+  {
+   "id": "pa-monument",
+   "name": "PA Monument",
+   "cat": "other",
+   "img": "pa-monument.webp"
+  },
+  {
+   "id": "pearl-harbor-survivor",
+   "name": "Pearl Harbor Survivor",
+   "cat": "veterans",
+   "img": "pearl-harbor-survivor.webp"
+  },
+  {
+   "id": "penn-alumni",
+   "name": "Penn Alumni",
+   "cat": "colleges",
+   "img": "penn-alumni.webp"
+  },
+  {
+   "id": "penn-state-alumni-association",
+   "name": "Penn State Alumni Association",
+   "cat": "colleges",
+   "img": "penn-state-alumni-association.webp"
+  },
+  {
+   "id": "penn-state-university",
+   "name": "Penn State University",
+   "cat": "colleges",
+   "img": "penn-state-university.webp"
+  },
+  {
+   "id": "penn-wynne-overbrook-hills-fire-company",
+   "name": "Penn Wynne Overbrook Hills Fire Company",
+   "cat": "firstresponder",
+   "img": "penn-wynne-overbrook-hills-fire-company.webp"
+  },
+  {
+   "id": "pennslyvania-recycling-markets-center",
+   "name": "Pennslyvania Recycling Markets Center",
+   "cat": "nature",
+   "img": "pennslyvania-recycling-markets-center.webp"
+  },
+  {
+   "id": "pennsylvania-auctioneers-association",
+   "name": "Pennsylvania Auctioneers Association",
+   "cat": "charity",
+   "img": "pennsylvania-auctioneers-association.webp"
+  },
+  {
+   "id": "pennsylvania-breast-cancer-coalition",
+   "name": "Pennsylvania Breast Cancer Coalition",
+   "cat": "charity",
+   "img": "pennsylvania-breast-cancer-coalition.webp"
+  },
+  {
+   "id": "pennsylvania-chiropractic-association",
+   "name": "Pennsylvania Chiropractic Association",
+   "cat": "charity",
+   "img": "pennsylvania-chiropractic-association.webp"
+  },
+  {
+   "id": "pennsylvania-choose-life",
+   "name": "Pennsylvania Choose Life",
+   "cat": "other",
+   "img": "pennsylvania-choose-life.webp"
+  },
+  {
+   "id": "pennsylvania-coal-alliance-inc",
+   "name": "Pennsylvania Coal Alliance, Inc.",
+   "cat": "other",
+   "img": "pennsylvania-coal-alliance-inc.webp"
+  },
+  {
+   "id": "pennsylvania-council-on-independent",
+   "name": "Pennsylvania Council on Independent...",
+   "cat": "other",
+   "img": "pennsylvania-council-on-independent.webp"
+  },
+  {
+   "id": "pennsylvania-district-kiwanis",
+   "name": "Pennsylvania District Kiwanis...",
+   "cat": "hobby",
+   "img": "pennsylvania-district-kiwanis.webp"
+  },
+  {
+   "id": "pennsylvania-dui-association",
+   "name": "Pennsylvania DUI Association",
+   "cat": "charity",
+   "img": "pennsylvania-dui-association.webp"
+  },
+  {
+   "id": "pennsylvania-equine-council",
+   "name": "Pennsylvania Equine Council",
+   "cat": "hobby",
+   "img": "pennsylvania-equine-council.webp"
+  },
+  {
+   "id": "pennsylvania-fraternal-order-of",
+   "name": "Pennsylvania Fraternal Order of...",
+   "cat": "hobby",
+   "img": "pennsylvania-fraternal-order-of.webp"
+  },
+  {
+   "id": "pennsylvania-hunting-heritage",
+   "name": "Pennsylvania Hunting Heritage",
+   "cat": "nature",
+   "img": "pennsylvania-hunting-heritage.webp"
+  },
+  {
+   "id": "pennsylvania-national-guard",
+   "name": "Pennsylvania National Guard",
+   "cat": "military",
+   "img": "pennsylvania-national-guard.webp"
+  },
+  {
+   "id": "pennsylvania-resources-council",
+   "name": "Pennsylvania Resources Council",
+   "cat": "other",
+   "img": "pennsylvania-resources-council.webp"
+  },
+  {
+   "id": "pennsylvania-society-of-physician",
+   "name": "Pennsylvania Society of Physician...",
+   "cat": "charity",
+   "img": "pennsylvania-society-of-physician.webp"
+  },
+  {
+   "id": "pennsylvania-society-of-professional",
+   "name": "Pennsylvania Society of Professional...",
+   "cat": "charity",
+   "img": "pennsylvania-society-of-professional.webp"
+  },
+  {
+   "id": "pennsylvania-society-of-the-sons-of-the",
+   "name": "Pennsylvania Society of the Sons of the...",
+   "cat": "charity",
+   "img": "pennsylvania-society-of-the-sons-of-the.webp"
+  },
+  {
+   "id": "pennsylvania-spca-society-for-the",
+   "name": "Pennsylvania SPCA - Society for the...",
+   "cat": "charity",
+   "img": "pennsylvania-spca-society-for-the.webp"
+  },
+  {
+   "id": "pennsylvania-state-corrections-officers",
+   "name": "Pennsylvania State Corrections Officers...",
+   "cat": "firstresponder",
+   "img": "pennsylvania-state-corrections-officers.webp"
+  },
+  {
+   "id": "pennsylvania-state-nurses-assn",
+   "name": "Pennsylvania State Nurses Assn",
+   "cat": "other",
+   "img": "pennsylvania-state-nurses-assn.webp"
+  },
+  {
+   "id": "pennsylvania-state-society-daughters-of",
+   "name": "Pennsylvania State Society Daughters of...",
+   "cat": "charity",
+   "img": "pennsylvania-state-society-daughters-of.webp"
+  },
+  {
+   "id": "pennsylvanians-for-nebraska-alumni",
+   "name": "Pennsylvanians for Nebraska Alumni...",
+   "cat": "colleges",
+   "img": "pennsylvanians-for-nebraska-alumni.webp"
+  },
+  {
+   "id": "perseverance-volunteer-fire-company-no",
+   "name": "Perseverance Volunteer Fire Company No....",
+   "cat": "firstresponder",
+   "img": "perseverance-volunteer-fire-company-no.webp"
+  },
+  {
+   "id": "persian-gulf-war-veteran",
+   "name": "Persian Gulf War Veteran",
+   "cat": "veterans",
+   "img": "persian-gulf-war-veteran.webp"
+  },
+  {
+   "id": "philadelphia-animal-welfare-society",
+   "name": "Philadelphia Animal Welfare Society",
+   "cat": "charity",
+   "img": "philadelphia-animal-welfare-society.webp"
+  },
+  {
+   "id": "philadelphia-fire-fighters-union",
+   "name": "Philadelphia Fire Fighters Union",
+   "cat": "firstresponder",
+   "img": "philadelphia-fire-fighters-union.webp"
+  },
+  {
+   "id": "philadelphia-folksong-society",
+   "name": "Philadelphia Folksong Society",
+   "cat": "charity",
+   "img": "philadelphia-folksong-society.webp"
+  },
+  {
+   "id": "philadelphia-museum-of-art",
+   "name": "Philadelphia Museum of Art",
+   "cat": "hobby",
+   "img": "philadelphia-museum-of-art.webp"
+  },
+  {
+   "id": "philadelphia-university",
+   "name": "Philadelphia University",
+   "cat": "colleges",
+   "img": "philadelphia-university.webp"
+  },
+  {
+   "id": "pinnacle-health-system",
+   "name": "Pinnacle Health System",
+   "cat": "other",
+   "img": "pinnacle-health-system.webp"
+  },
+  {
+   "id": "pittsburgh-central-catholic",
+   "name": "Pittsburgh Central Catholic",
+   "cat": "other",
+   "img": "pittsburgh-central-catholic.webp"
+  },
+  {
+   "id": "pittsburgh-harlequins-rugby-football",
+   "name": "Pittsburgh Harlequins Rugby Football...",
+   "cat": "sports",
+   "img": "pittsburgh-harlequins-rugby-football.webp"
+  },
+  {
+   "id": "pittsburgh-vintage-grand-prix",
+   "name": "Pittsburgh Vintage Grand Prix",
+   "cat": "vehicle",
+   "img": "pittsburgh-vintage-grand-prix.webp"
+  },
+  {
+   "id": "planned-parenthood-of-pa",
+   "name": "Planned Parenthood of PA",
+   "cat": "other",
+   "img": "planned-parenthood-of-pa.webp"
+  },
+  {
+   "id": "pleasant-hall-volunteer-fire-ems",
+   "name": "Pleasant Hall Volunteer Fire / EMS",
+   "cat": "firstresponder",
+   "img": "pleasant-hall-volunteer-fire-ems.webp"
+  },
+  {
+   "id": "plymouth-fire-company-1",
+   "name": "Plymouth Fire Company #1",
+   "cat": "firstresponder",
+   "img": "plymouth-fire-company-1.webp"
+  },
+  {
+   "id": "pocono-mountain-volunteer-fire-company",
+   "name": "Pocono Mountain Volunteer Fire Company",
+   "cat": "firstresponder",
+   "img": "pocono-mountain-volunteer-fire-company.webp"
+  },
+  {
+   "id": "point-park-university",
+   "name": "Point Park University",
+   "cat": "colleges",
+   "img": "point-park-university.webp"
+  },
+  {
+   "id": "police-athletic-league-of-philadelphia",
+   "name": "Police Athletic League of Philadelphia",
+   "cat": "firstresponder",
+   "img": "police-athletic-league-of-philadelphia.webp"
+  },
+  {
+   "id": "pollinator-habitat-registration",
+   "name": "Pollinator Habitat Registration",
+   "cat": "nature",
+   "img": "pollinator-habitat-registration.webp"
+  },
+  {
+   "id": "pottsville-area-ems",
+   "name": "Pottsville Area EMS",
+   "cat": "firstresponder",
+   "img": "pottsville-area-ems.webp"
+  },
+  {
+   "id": "preserve-our-heritage",
+   "name": "Preserve Our Heritage",
+   "cat": "military",
+   "img": "preserve-our-heritage.webp"
+  },
+  {
+   "id": "presidential-service-badge",
+   "name": "Presidential Service Badge",
+   "cat": "other",
+   "img": "presidential-service-badge.webp"
+  },
+  {
+   "id": "presque-isle-partnership",
+   "name": "Presque Isle Partnership",
+   "cat": "other",
+   "img": "presque-isle-partnership.webp"
+  },
+  {
+   "id": "prince-hall-masonic-lodge",
+   "name": "Prince Hall Masonic Lodge",
+   "cat": "hobby",
+   "img": "prince-hall-masonic-lodge.webp"
+  },
+  {
+   "id": "purdue-university",
+   "name": "Purdue University",
+   "cat": "colleges",
+   "img": "purdue-university.webp"
+  },
+  {
+   "id": "purple-heart",
+   "name": "Purple Heart",
+   "cat": "veterans",
+   "img": "purple-heart.webp"
+  },
+  {
+   "id": "quality-deer-management-association",
+   "name": "Quality Deer Management Association",
+   "cat": "nature",
+   "img": "quality-deer-management-association.webp"
+  },
+  {
+   "id": "radnor-fire-company-of-wayne",
+   "name": "Radnor Fire Company of Wayne",
+   "cat": "firstresponder",
+   "img": "radnor-fire-company-of-wayne.webp"
+  },
+  {
+   "id": "reading-buccaneers-inc",
+   "name": "Reading Buccaneers, Inc.",
+   "cat": "sports",
+   "img": "reading-buccaneers-inc.webp"
+  },
+  {
+   "id": "reliance-hook-and-ladder-co-1",
+   "name": "Reliance Hook and Ladder Co. 1",
+   "cat": "other",
+   "img": "reliance-hook-and-ladder-co-1.webp"
+  },
+  {
+   "id": "rescue-hose-company-no-1",
+   "name": "Rescue Hose Company No. 1",
+   "cat": "firstresponder",
+   "img": "rescue-hose-company-no-1.webp"
+  },
+  {
+   "id": "ringing-hill-fire-company",
+   "name": "Ringing Hill Fire Company",
+   "cat": "firstresponder",
+   "img": "ringing-hill-fire-company.webp"
+  },
+  {
+   "id": "rocky-mtn-elk-foundation",
+   "name": "Rocky Mtn. Elk Foundation",
+   "cat": "nature",
+   "img": "rocky-mtn-elk-foundation.webp"
+  },
+  {
+   "id": "roman-catholic-high-school",
+   "name": "Roman Catholic High School",
+   "cat": "charity",
+   "img": "roman-catholic-high-school.webp"
+  },
+  {
+   "id": "rose-tree-fire-company-no-1",
+   "name": "Rose Tree Fire Company No. 1",
+   "cat": "firstresponder",
+   "img": "rose-tree-fire-company-no-1.webp"
+  },
+  {
+   "id": "rosedale-technical-institute",
+   "name": "Rosedale Technical Institute",
+   "cat": "other",
+   "img": "rosedale-technical-institute.webp"
+  },
+  {
+   "id": "rothsville-volunteer-fire-company",
+   "name": "Rothsville Volunteer Fire Company",
+   "cat": "firstresponder",
+   "img": "rothsville-volunteer-fire-company.webp"
+  },
+  {
+   "id": "ruffed-grouse-society",
+   "name": "Ruffed Grouse Society",
+   "cat": "nature",
+   "img": "ruffed-grouse-society.webp"
+  },
+  {
+   "id": "rutgers-university",
+   "name": "Rutgers University",
+   "cat": "colleges",
+   "img": "rutgers-university.webp"
+  },
+  {
+   "id": "saint-francis-university",
+   "name": "Saint Francis University",
+   "cat": "colleges",
+   "img": "saint-francis-university.webp"
+  },
+  {
+   "id": "sanatoga-fire-company",
+   "name": "Sanatoga Fire Company",
+   "cat": "firstresponder",
+   "img": "sanatoga-fire-company.webp"
+  },
+  {
+   "id": "saxonburg-volunteer-fire-company",
+   "name": "Saxonburg Volunteer Fire Company",
+   "cat": "firstresponder",
+   "img": "saxonburg-volunteer-fire-company.webp"
+  },
+  {
+   "id": "second-alarmers-rescue-squad",
+   "name": "Second Alarmers Rescue Squad",
+   "cat": "firstresponder",
+   "img": "second-alarmers-rescue-squad.webp"
+  },
+  {
+   "id": "seton-hill-university",
+   "name": "Seton Hill University",
+   "cat": "colleges",
+   "img": "seton-hill-university.webp"
+  },
+  {
+   "id": "shady-side-academy",
+   "name": "Shady Side Academy",
+   "cat": "other",
+   "img": "shady-side-academy.webp"
+  },
+  {
+   "id": "share-the-road",
+   "name": "Share the Road",
+   "cat": "hobby",
+   "img": "share-the-road.webp"
+  },
+  {
+   "id": "shippensburg-university-alumni",
+   "name": "Shippensburg University Alumni",
+   "cat": "colleges",
+   "img": "shippensburg-university-alumni.webp"
+  },
+  {
+   "id": "silver-star",
+   "name": "Silver Star",
+   "cat": "veterans",
+   "img": "silver-star.webp"
+  },
+  {
+   "id": "sixers-charities",
+   "name": "Sixers Charities",
+   "cat": "other",
+   "img": "sixers-charities.webp"
+  },
+  {
+   "id": "soldiers-medal",
+   "name": "Soldiers Medal",
+   "cat": "veterans",
+   "img": "soldiers-medal.webp"
+  },
+  {
+   "id": "sons-of-the-american-legion",
+   "name": "Sons of the American Legion",
+   "cat": "veterans",
+   "img": "sons-of-the-american-legion.webp"
+  },
+  {
+   "id": "south-newtown-twp-vol-fire-co",
+   "name": "South Newtown Twp Vol Fire Co.",
+   "cat": "firstresponder",
+   "img": "south-newtown-twp-vol-fire-co.webp"
+  },
+  {
+   "id": "sportsclub-of-america",
+   "name": "SportsClub of America",
+   "cat": "hobby",
+   "img": "sportsclub-of-america.webp"
+  },
+  {
+   "id": "spring-mill-fire-company-no-1",
+   "name": "Spring Mill Fire Company No. 1",
+   "cat": "firstresponder",
+   "img": "spring-mill-fire-company-no-1.webp"
+  },
+  {
+   "id": "springfield-fire-company",
+   "name": "Springfield Fire Company",
+   "cat": "firstresponder",
+   "img": "springfield-fire-company.webp"
+  },
+  {
+   "id": "st-charles-borromeo-seminary",
+   "name": "St. Charles Borromeo Seminary",
+   "cat": "colleges",
+   "img": "st-charles-borromeo-seminary.webp"
+  },
+  {
+   "id": "st-joseph-s-university",
+   "name": "St. Joseph's University",
+   "cat": "colleges",
+   "img": "st-joseph-s-university.webp"
+  },
+  {
+   "id": "support-our-troops",
+   "name": "Support Our Troops",
+   "cat": "charity",
+   "img": "support-our-troops.webp"
+  },
+  {
+   "id": "susquehanna-university",
+   "name": "Susquehanna University",
+   "cat": "colleges",
+   "img": "susquehanna-university.webp"
+  },
+  {
+   "id": "swedeland-volunteer-fire-co-no-1",
+   "name": "Swedeland Volunteer Fire Co. No. 1",
+   "cat": "firstresponder",
+   "img": "swedeland-volunteer-fire-co-no-1.webp"
+  },
+  {
+   "id": "syracuse-university-alumni-assn",
+   "name": "Syracuse University Alumni Assn",
+   "cat": "colleges",
+   "img": "syracuse-university-alumni-assn.webp"
+  },
+  {
+   "id": "tall-cedars-of-lebanon",
+   "name": "Tall Cedars of Lebanon",
+   "cat": "other",
+   "img": "tall-cedars-of-lebanon.webp"
+  },
+  {
+   "id": "teen-driver",
+   "name": "Teen Driver",
+   "cat": "nature",
+   "img": "teen-driver.webp"
+  },
+  {
+   "id": "temple-university-alumni",
+   "name": "Temple University Alumni",
+   "cat": "colleges",
+   "img": "temple-university-alumni.webp"
+  },
+  {
+   "id": "the-mario-lemieux-foundation",
+   "name": "The Mario Lemieux Foundation",
+   "cat": "charity",
+   "img": "the-mario-lemieux-foundation.webp"
+  },
+  {
+   "id": "therapy-dogs-united",
+   "name": "Therapy Dogs United",
+   "cat": "other",
+   "img": "therapy-dogs-united.webp"
+  },
+  {
+   "id": "thiel-college",
+   "name": "Thiel College",
+   "cat": "colleges",
+   "img": "thiel-college.webp"
+  },
+  {
+   "id": "thomas-jefferson-university",
+   "name": "Thomas Jefferson University",
+   "cat": "colleges",
+   "img": "thomas-jefferson-university.webp"
+  },
+  {
+   "id": "tinicum-township-fire-company",
+   "name": "Tinicum Township Fire Company",
+   "cat": "firstresponder",
+   "img": "tinicum-township-fire-company.webp"
+  },
+  {
+   "id": "trevose-fire-company",
+   "name": "Trevose Fire Company",
+   "cat": "firstresponder",
+   "img": "trevose-fire-company.webp"
+  },
+  {
+   "id": "twin-valley-fire-department",
+   "name": "Twin Valley Fire Department",
+   "cat": "firstresponder",
+   "img": "twin-valley-fire-department.webp"
+  },
+  {
+   "id": "u-s-navy-veteran",
+   "name": "U.S. Navy Veteran",
+   "cat": "veterans",
+   "img": "u-s-navy-veteran.webp"
+  },
+  {
+   "id": "u-s-air-force-veteran-revised",
+   "name": "U.S. Air Force Veteran Revised",
+   "cat": "veterans",
+   "img": "u-s-air-force-veteran-revised.webp"
+  },
+  {
+   "id": "u-s-army-veteran",
+   "name": "U.S. Army Veteran",
+   "cat": "veterans",
+   "img": "u-s-army-veteran.webp"
+  },
+  {
+   "id": "u-s-coast-guard-auxiliary",
+   "name": "U.S. Coast Guard Auxiliary",
+   "cat": "military",
+   "img": "u-s-coast-guard-auxiliary.webp"
+  },
+  {
+   "id": "u-s-coast-guard-veteran",
+   "name": "U.S. Coast Guard Veteran",
+   "cat": "veterans",
+   "img": "u-s-coast-guard-veteran.webp"
+  },
+  {
+   "id": "u-s-marine-corps-veteran",
+   "name": "U.S. Marine Corps Veteran",
+   "cat": "veterans",
+   "img": "u-s-marine-corps-veteran.webp"
+  },
+  {
+   "id": "u-s-submarine-veteran-inc",
+   "name": "U.S. Submarine Veteran, Inc.",
+   "cat": "veterans",
+   "img": "u-s-submarine-veteran-inc.webp"
+  },
+  {
+   "id": "umoja-african-arts-company",
+   "name": "Umoja African Arts Company",
+   "cat": "hobby",
+   "img": "umoja-african-arts-company.webp"
+  },
+  {
+   "id": "union-fire-company-no-1",
+   "name": "Union Fire Company No. 1",
+   "cat": "firstresponder",
+   "img": "union-fire-company-no-1.webp"
+  },
+  {
+   "id": "union-hose-company-of-annville-inc",
+   "name": "Union Hose Company of Annville Inc.",
+   "cat": "other",
+   "img": "union-hose-company-of-annville-inc.webp"
+  },
+  {
+   "id": "university-of-pittsburgh-alumni",
+   "name": "University of Pittsburgh Alumni...",
+   "cat": "colleges",
+   "img": "university-of-pittsburgh-alumni.webp"
+  },
+  {
+   "id": "university-of-scranton",
+   "name": "University of Scranton",
+   "cat": "colleges",
+   "img": "university-of-scranton.webp"
+  },
+  {
+   "id": "university-of-wisconsin-alumni",
+   "name": "University of Wisconsin Alumni",
+   "cat": "colleges",
+   "img": "university-of-wisconsin-alumni.webp"
+  },
+  {
+   "id": "upper-gwynedd-township-fire-department",
+   "name": "Upper Gwynedd Township Fire Department",
+   "cat": "firstresponder",
+   "img": "upper-gwynedd-township-fire-department.webp"
+  },
+  {
+   "id": "us-air-force",
+   "name": "US Air Force",
+   "cat": "military",
+   "img": "us-air-force.webp"
+  },
+  {
+   "id": "us-army",
+   "name": "US Army",
+   "cat": "military",
+   "img": "us-army.webp"
+  },
+  {
+   "id": "us-coast-guard",
+   "name": "US Coast Guard",
+   "cat": "military",
+   "img": "us-coast-guard.webp"
+  },
+  {
+   "id": "us-expeditionary-forces",
+   "name": "US Expeditionary Forces",
+   "cat": "other",
+   "img": "us-expeditionary-forces.webp"
+  },
+  {
+   "id": "us-marine-corps",
+   "name": "US Marine Corps",
+   "cat": "military",
+   "img": "us-marine-corps.webp"
+  },
+  {
+   "id": "us-navy",
+   "name": "US Navy",
+   "cat": "military",
+   "img": "us-navy.webp"
+  },
+  {
+   "id": "veteran",
+   "name": "Veteran",
+   "cat": "veterans",
+   "img": "veteran.webp"
+  },
+  {
+   "id": "veteran-mc",
+   "name": "Veteran MC",
+   "cat": "veterans",
+   "img": "veteran-mc.webp"
+  },
+  {
+   "id": "veterans-allied-foreign",
+   "name": "Veterans Allied Foreign",
+   "cat": "veterans",
+   "img": "veterans-allied-foreign.webp"
+  },
+  {
+   "id": "vietnam-vets-of-america",
+   "name": "Vietnam Vets of America",
+   "cat": "veterans",
+   "img": "vietnam-vets-of-america.webp"
+  },
+  {
+   "id": "vietnam-war-veteran",
+   "name": "Vietnam War Veteran",
+   "cat": "veterans",
+   "img": "vietnam-war-veteran.webp"
+  },
+  {
+   "id": "virginia-tech",
+   "name": "Virginia Tech",
+   "cat": "other",
+   "img": "virginia-tech.webp"
+  },
+  {
+   "id": "vmsc-of-lower-merion-narberth",
+   "name": "VMSC of Lower Merion & Narberth",
+   "cat": "other",
+   "img": "vmsc-of-lower-merion-narberth.webp"
+  },
+  {
+   "id": "warminster-volunteer-ambulance-corps",
+   "name": "Warminster Volunteer Ambulance Corps",
+   "cat": "other",
+   "img": "warminster-volunteer-ambulance-corps.webp"
+  },
+  {
+   "id": "warwick-twp-vol-fire-co-no-1",
+   "name": "Warwick Twp. Vol. Fire Co. No. 1",
+   "cat": "firstresponder",
+   "img": "warwick-twp-vol-fire-co-no-1.webp"
+  },
+  {
+   "id": "washington-jefferson-college",
+   "name": "Washington & Jefferson College",
+   "cat": "colleges",
+   "img": "washington-jefferson-college.webp"
+  },
+  {
+   "id": "waynesburg-university",
+   "name": "Waynesburg University",
+   "cat": "colleges",
+   "img": "waynesburg-university.webp"
+  },
+  {
+   "id": "west-chester-university",
+   "name": "West Chester University",
+   "cat": "colleges",
+   "img": "west-chester-university.webp"
+  },
+  {
+   "id": "west-grove-fire-company",
+   "name": "West Grove Fire Company",
+   "cat": "firstresponder",
+   "img": "west-grove-fire-company.webp"
+  },
+  {
+   "id": "west-lake-fire-department",
+   "name": "West Lake Fire Department",
+   "cat": "firstresponder",
+   "img": "west-lake-fire-department.webp"
+  },
+  {
+   "id": "west-lake-fire-dept",
+   "name": "West Lake Fire Dept.",
+   "cat": "firstresponder",
+   "img": "west-lake-fire-dept.webp"
+  },
+  {
+   "id": "west-manchester-twp-fire-dept",
+   "name": "West Manchester Twp. Fire Dept.",
+   "cat": "firstresponder",
+   "img": "west-manchester-twp-fire-dept.webp"
+  },
+  {
+   "id": "west-shore-ems",
+   "name": "West Shore EMS",
+   "cat": "firstresponder",
+   "img": "west-shore-ems.webp"
+  },
+  {
+   "id": "west-virginia-alumni",
+   "name": "West Virginia Alumni",
+   "cat": "colleges",
+   "img": "west-virginia-alumni.webp"
+  },
+  {
+   "id": "westminster-college",
+   "name": "Westminster College",
+   "cat": "colleges",
+   "img": "westminster-college.webp"
+  },
+  {
+   "id": "whyy",
+   "name": "WHYY",
+   "cat": "other",
+   "img": "whyy.webp"
+  },
+  {
+   "id": "wild-life-resource-river-otter",
+   "name": "Wild Life Resource - River otter",
+   "cat": "sports",
+   "img": "wild-life-resource-river-otter.webp"
+  },
+  {
+   "id": "william-penn-charter-school",
+   "name": "William Penn Charter School",
+   "cat": "charity",
+   "img": "william-penn-charter-school.webp"
+  },
+  {
+   "id": "willow-grove-volunteer-fire-company-1",
+   "name": "Willow Grove Volunteer Fire Company #1",
+   "cat": "firstresponder",
+   "img": "willow-grove-volunteer-fire-company-1.webp"
+  },
+  {
+   "id": "wissahickon-fire-company",
+   "name": "Wissahickon Fire Company",
+   "cat": "firstresponder",
+   "img": "wissahickon-fire-company.webp"
+  },
+  {
+   "id": "women-in-transition-inc",
+   "name": "Women in Transition Inc.",
+   "cat": "other",
+   "img": "women-in-transition-inc.webp"
+  },
+  {
+   "id": "world-meeting-of-families-philadelphia",
+   "name": "World Meeting of Families - Philadelphia",
+   "cat": "other",
+   "img": "world-meeting-of-families-philadelphia.webp"
+  },
+  {
+   "id": "world-war-ii",
+   "name": "World War II",
+   "cat": "veterans",
+   "img": "world-war-ii.webp"
+  },
+  {
+   "id": "zeta-phi-beta-sorority",
+   "name": "Zeta Phi Beta Sorority",
+   "cat": "other",
+   "img": "zeta-phi-beta-sorority.webp"
+  },
+  {
+   "id": "zoological-society",
+   "name": "Zoological Society",
+   "cat": "nature",
+   "img": "zoological-society.webp"
+  }
+ ]
+}

@@ -1,0 +1,268 @@
+{
+ "code": "RI",
+ "name": "Rhode Island",
+ "rated": false,
+ "checked": false,
+ "updated": "2026-10-25",
+ "about": "Rhode Island special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "sources": [
+  {
+   "title": "Jon Keegan, us-license-plates (2023)",
+   "url": "https://github.com/jonkeegan/us-license-plates"
+  }
+ ],
+ "plates": [
+  {
+   "id": "antique",
+   "name": "Antique",
+   "cat": "vehicle",
+   "img": "antique.webp"
+  },
+  {
+   "id": "atlantic-shark-institute",
+   "name": "Atlantic Shark Institute",
+   "cat": "other",
+   "img": "atlantic-shark-institute.webp"
+  },
+  {
+   "id": "autism-awareness",
+   "name": "Autism Awareness",
+   "cat": "charity",
+   "img": "autism-awareness.webp"
+  },
+  {
+   "id": "beavertail-lighthouse",
+   "name": "Beavertail Lighthouse",
+   "cat": "nature",
+   "img": "beavertail-lighthouse.webp"
+  },
+  {
+   "id": "boston-bruins-foundation",
+   "name": "Boston Bruins Foundation",
+   "cat": "sports",
+   "img": "boston-bruins-foundation.webp"
+  },
+  {
+   "id": "boy-scouts-of-america",
+   "name": "Boy Scouts of America",
+   "cat": "charity",
+   "img": "boy-scouts-of-america.webp"
+  },
+  {
+   "id": "bristol-fourth-of-july",
+   "name": "Bristol Fourth of July",
+   "cat": "other",
+   "img": "bristol-fourth-of-july.webp"
+  },
+  {
+   "id": "bronze-star-medal",
+   "name": "Bronze Star Medal",
+   "cat": "veterans",
+   "img": "bronze-star-medal.webp"
+  },
+  {
+   "id": "camper",
+   "name": "Camper",
+   "cat": "vehicle",
+   "img": "camper.webp"
+  },
+  {
+   "id": "combination",
+   "name": "Combination",
+   "cat": "other",
+   "img": "combination.webp"
+  },
+  {
+   "id": "conservation-through-education",
+   "name": "Conservation Through Education",
+   "cat": "nature",
+   "img": "conservation-through-education.webp"
+  },
+  {
+   "id": "custom",
+   "name": "Custom",
+   "cat": "vehicle",
+   "img": "custom.webp"
+  },
+  {
+   "id": "disabled-veteran",
+   "name": "Disabled Veteran",
+   "cat": "veterans",
+   "img": "disabled-veteran.webp"
+  },
+  {
+   "id": "dstrong",
+   "name": "DSTRONG",
+   "cat": "other",
+   "img": "dstrong.webp"
+  },
+  {
+   "id": "electric-hybrid",
+   "name": "Electric/Hybrid",
+   "cat": "vehicle",
+   "img": "electric-hybrid.webp"
+  },
+  {
+   "id": "ex-pow",
+   "name": "Ex-POW",
+   "cat": "veterans",
+   "img": "ex-pow.webp"
+  },
+  {
+   "id": "farm",
+   "name": "Farm",
+   "cat": "vehicle",
+   "img": "farm.webp"
+  },
+  {
+   "id": "firefighter",
+   "name": "Firefighter",
+   "cat": "firstresponder",
+   "img": "firefighter.webp"
+  },
+  {
+   "id": "firefighter-combination",
+   "name": "Firefighter - Combination",
+   "cat": "firstresponder",
+   "img": "firefighter-combination.webp"
+  },
+  {
+   "id": "firefighter-commerical",
+   "name": "Firefighter - Commerical",
+   "cat": "firstresponder",
+   "img": "firefighter-commerical.webp"
+  },
+  {
+   "id": "firefighter-old-design",
+   "name": "Firefighter - Old Design",
+   "cat": "firstresponder",
+   "img": "firefighter-old-design.webp"
+  },
+  {
+   "id": "gaspee-days-committee",
+   "name": "Gaspee Days Committee",
+   "cat": "other",
+   "img": "gaspee-days-committee.webp"
+  },
+  {
+   "id": "gloria-gemma-breast-cancer-resource-foun",
+   "name": "Gloria Gemma Breast Cancer Resource Foundation",
+   "cat": "charity",
+   "img": "gloria-gemma-breast-cancer-resource-foun.webp"
+  },
+  {
+   "id": "gold-star-family",
+   "name": "Gold Star Family",
+   "cat": "veterans",
+   "img": "gold-star-family.webp"
+  },
+  {
+   "id": "national-guard",
+   "name": "National Guard",
+   "cat": "military",
+   "img": "national-guard.webp"
+  },
+  {
+   "id": "new-england-patriots",
+   "name": "New England Patriots",
+   "cat": "sports",
+   "img": "new-england-patriots.webp"
+  },
+  {
+   "id": "ocean",
+   "name": "Ocean",
+   "cat": "nature",
+   "img": "ocean.webp"
+  },
+  {
+   "id": "plum-beach-lighthouse",
+   "name": "Plum Beach Lighthouse",
+   "cat": "nature",
+   "img": "plum-beach-lighthouse.webp"
+  },
+  {
+   "id": "providence-college",
+   "name": "Providence College",
+   "cat": "colleges",
+   "img": "providence-college.webp"
+  },
+  {
+   "id": "public",
+   "name": "Public",
+   "cat": "other",
+   "img": "public.webp"
+  },
+  {
+   "id": "purple-heart",
+   "name": "Purple Heart",
+   "cat": "veterans",
+   "img": "purple-heart.webp"
+  },
+  {
+   "id": "radio-operator",
+   "name": "Radio Operator",
+   "cat": "hobby",
+   "img": "radio-operator.webp"
+  },
+  {
+   "id": "red-sox-foundation",
+   "name": "Red Sox Foundation",
+   "cat": "sports",
+   "img": "red-sox-foundation.webp"
+  },
+  {
+   "id": "ri-community-food-bank-mr-potato-head",
+   "name": "RI Community Food Bank - Mr. Potato Head",
+   "cat": "charity",
+   "img": "ri-community-food-bank-mr-potato-head.webp"
+  },
+  {
+   "id": "ri-day-of-portugal",
+   "name": "RI Day of Portugal",
+   "cat": "other",
+   "img": "ri-day-of-portugal.webp"
+  },
+  {
+   "id": "rocky-point-foundation",
+   "name": "Rocky Point Foundation",
+   "cat": "charity",
+   "img": "rocky-point-foundation.webp"
+  },
+  {
+   "id": "sailboat",
+   "name": "Sailboat",
+   "cat": "other",
+   "img": "sailboat.webp"
+  },
+  {
+   "id": "street-rod",
+   "name": "Street Rod",
+   "cat": "vehicle",
+   "img": "street-rod.webp"
+  },
+  {
+   "id": "suburban",
+   "name": "Suburban",
+   "cat": "other",
+   "img": "suburban.webp"
+  },
+  {
+   "id": "veteran",
+   "name": "Veteran",
+   "cat": "veterans",
+   "img": "veteran.webp"
+  },
+  {
+   "id": "wave",
+   "name": "Wave",
+   "cat": "other",
+   "img": "wave.webp"
+  },
+  {
+   "id": "wildlife-rehabilitators",
+   "name": "Wildlife Rehabilitators",
+   "cat": "nature",
+   "img": "wildlife-rehabilitators.webp"
+  }
+ ]
+}

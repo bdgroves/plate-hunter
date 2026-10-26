@@ -1,0 +1,262 @@
+{
+ "code": "ND",
+ "name": "North Dakota",
+ "rated": false,
+ "checked": false,
+ "updated": "2026-10-25",
+ "about": "North Dakota special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "sources": [
+  {
+   "title": "Jon Keegan, us-license-plates (2023)",
+   "url": "https://github.com/jonkeegan/us-license-plates"
+  }
+ ],
+ "plates": [
+  {
+   "id": "antique",
+   "name": "Antique",
+   "cat": "vehicle",
+   "img": "antique.webp"
+  },
+  {
+   "id": "bald-eagle",
+   "name": "Bald Eagle",
+   "cat": "nature",
+   "img": "bald-eagle.webp"
+  },
+  {
+   "id": "boonie-stomper",
+   "name": "Boonie Stomper",
+   "cat": "other",
+   "img": "boonie-stomper.webp"
+  },
+  {
+   "id": "choose-life",
+   "name": "Choose Life",
+   "cat": "other",
+   "img": "choose-life.webp"
+  },
+  {
+   "id": "collector",
+   "name": "Collector",
+   "cat": "vehicle",
+   "img": "collector.webp"
+  },
+  {
+   "id": "dsu",
+   "name": "DSU",
+   "cat": "other",
+   "img": "dsu.webp"
+  },
+  {
+   "id": "ducks-unlimited",
+   "name": "Ducks Unlimited",
+   "cat": "nature",
+   "img": "ducks-unlimited.webp"
+  },
+  {
+   "id": "firefighters",
+   "name": "Firefighters",
+   "cat": "firstresponder",
+   "img": "firefighters.webp"
+  },
+  {
+   "id": "flag",
+   "name": "Flag",
+   "cat": "other",
+   "img": "flag.webp"
+  },
+  {
+   "id": "future-farmers-of-america",
+   "name": "Future Farmers of America",
+   "cat": "vehicle",
+   "img": "future-farmers-of-america.webp"
+  },
+  {
+   "id": "gold-star-family",
+   "name": "Gold Star Family",
+   "cat": "veterans",
+   "img": "gold-star-family.webp"
+  },
+  {
+   "id": "hit-inc",
+   "name": "HIT Inc.",
+   "cat": "other",
+   "img": "hit-inc.webp"
+  },
+  {
+   "id": "lignite-coal",
+   "name": "Lignite Coal",
+   "cat": "other",
+   "img": "lignite-coal.webp"
+  },
+  {
+   "id": "mobility-impaired",
+   "name": "Mobility Impaired",
+   "cat": "other",
+   "img": "mobility-impaired.webp"
+  },
+  {
+   "id": "msu",
+   "name": "MSU",
+   "cat": "other",
+   "img": "msu.webp"
+  },
+  {
+   "id": "national-guard",
+   "name": "National Guard",
+   "cat": "military",
+   "img": "national-guard.webp"
+  },
+  {
+   "id": "nd-bowhunters-association",
+   "name": "ND Bowhunters Association",
+   "cat": "charity",
+   "img": "nd-bowhunters-association.webp"
+  },
+  {
+   "id": "nd-cowboy-hall-of-fame",
+   "name": "ND Cowboy Hall of Fame",
+   "cat": "other",
+   "img": "nd-cowboy-hall-of-fame.webp"
+  },
+  {
+   "id": "ndsu",
+   "name": "NDSU",
+   "cat": "other",
+   "img": "ndsu.webp"
+  },
+  {
+   "id": "north-dakota-center-for-nursing",
+   "name": "North Dakota Center for Nursing",
+   "cat": "other",
+   "img": "north-dakota-center-for-nursing.webp"
+  },
+  {
+   "id": "north-dakota-farmers-union-foundation",
+   "name": "North Dakota Farmers Union Foundation",
+   "cat": "vehicle",
+   "img": "north-dakota-farmers-union-foundation.webp"
+  },
+  {
+   "id": "northwood-hockey-boosters",
+   "name": "Northwood Hockey Boosters",
+   "cat": "sports",
+   "img": "northwood-hockey-boosters.webp"
+  },
+  {
+   "id": "pheasants-for-the-future",
+   "name": "Pheasants for the Future",
+   "cat": "nature",
+   "img": "pheasants-for-the-future.webp"
+  },
+  {
+   "id": "pheasants-forever",
+   "name": "Pheasants Forever",
+   "cat": "nature",
+   "img": "pheasants-forever.webp"
+  },
+  {
+   "id": "prisoner-of-war",
+   "name": "Prisoner of War",
+   "cat": "veterans",
+   "img": "prisoner-of-war.webp"
+  },
+  {
+   "id": "rocky-mountain-elk-foundation",
+   "name": "Rocky Mountain Elk Foundation",
+   "cat": "nature",
+   "img": "rocky-mountain-elk-foundation.webp"
+  },
+  {
+   "id": "sanford-medical-center",
+   "name": "Sanford Medical Center",
+   "cat": "other",
+   "img": "sanford-medical-center.webp"
+  },
+  {
+   "id": "support-our-veterans",
+   "name": "Support our Veterans",
+   "cat": "veterans",
+   "img": "support-our-veterans.webp"
+  },
+  {
+   "id": "unconventional",
+   "name": "Unconventional",
+   "cat": "other",
+   "img": "unconventional.webp"
+  },
+  {
+   "id": "university-of-jamestown",
+   "name": "University of Jamestown",
+   "cat": "colleges",
+   "img": "university-of-jamestown.webp"
+  },
+  {
+   "id": "university-of-mary",
+   "name": "University of Mary",
+   "cat": "colleges",
+   "img": "university-of-mary.webp"
+  },
+  {
+   "id": "university-of-north-dakota",
+   "name": "University of North Dakota",
+   "cat": "colleges",
+   "img": "university-of-north-dakota.webp"
+  },
+  {
+   "id": "vcsu",
+   "name": "VCSU",
+   "cat": "other",
+   "img": "vcsu.webp"
+  },
+  {
+   "id": "veteran-air-force",
+   "name": "Veteran Air Force",
+   "cat": "veterans",
+   "img": "veteran-air-force.webp"
+  },
+  {
+   "id": "veteran-army",
+   "name": "Veteran Army",
+   "cat": "veterans",
+   "img": "veteran-army.webp"
+  },
+  {
+   "id": "veteran-coast-guard",
+   "name": "Veteran Coast Guard",
+   "cat": "veterans",
+   "img": "veteran-coast-guard.webp"
+  },
+  {
+   "id": "veteran-marine",
+   "name": "Veteran Marine",
+   "cat": "veterans",
+   "img": "veteran-marine.webp"
+  },
+  {
+   "id": "veteran-navy",
+   "name": "Veteran Navy",
+   "cat": "veterans",
+   "img": "veteran-navy.webp"
+  },
+  {
+   "id": "veteran-non-branch",
+   "name": "Veteran Non-Branch",
+   "cat": "veterans",
+   "img": "veteran-non-branch.webp"
+  },
+  {
+   "id": "veteran-purple-heart",
+   "name": "Veteran Purple Heart",
+   "cat": "veterans",
+   "img": "veteran-purple-heart.webp"
+  },
+  {
+   "id": "veteran-space-force",
+   "name": "Veteran Space Force",
+   "cat": "veterans",
+   "img": "veteran-space-force.webp"
+  }
+ ]
+}
