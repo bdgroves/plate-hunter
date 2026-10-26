@@ -1,0 +1,47 @@
+{
+ "code": "NV-main",
+ "url": "https://dmv.nv.gov/platesmain.htm",
+ "checked": "2026-10-26",
+ "pictures": {
+  "/images/platesmain/agriculture.jpg": {
+   "src": "https://dmv.nv.gov/images/platesmain/agriculture.jpg",
+   "alt": ""
+  },
+  "/images/platesmain/bighorns.png": {
+   "src": "https://dmv.nv.gov/images/platesmain/bighorns.png",
+   "alt": ""
+  },
+  "/images/platesmain/desert_conservation.png": {
+   "src": "https://dmv.nv.gov/images/platesmain/desert_conservation.png",
+   "alt": ""
+  },
+  "/images/platesmain/ducksunlimited.jpg": {
+   "src": "https://dmv.nv.gov/images/platesmain/ducksunlimited.jpg",
+   "alt": ""
+  },
+  "/images/platesmain/missing_children.jpg": {
+   "src": "https://dmv.nv.gov/images/platesmain/missing_children.jpg",
+   "alt": ""
+  },
+  "/images/platesmain/mobmuseum.jpg": {
+   "src": "https://dmv.nv.gov/images/platesmain/mobmuseum.jpg",
+   "alt": ""
+  },
+  "/images/platesmain/mt_charleston.jpg": {
+   "src": "https://dmv.nv.gov/images/platesmain/mt_charleston.jpg",
+   "alt": ""
+  },
+  "/images/platesmain/nvcasa.jpg": {
+   "src": "https://dmv.nv.gov/images/platesmain/nvcasa.jpg",
+   "alt": ""
+  },
+  "/images/platesmain/support_wildlife.jpg": {
+   "src": "https://dmv.nv.gov/images/platesmain/support_wildlife.jpg",
+   "alt": ""
+  },
+  "/images/platesmain/veteranwhoisdisabled.jpg": {
+   "src": "https://dmv.nv.gov/images/platesmain/veteranwhoisdisabled.jpg",
+   "alt": ""
+  }
+ }
+}
