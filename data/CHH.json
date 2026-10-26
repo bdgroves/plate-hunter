@@ -7,17 +7,10 @@
    "id": "current-design-2022",
    "name": "Current design (2022)",
    "cat": "other",
-   "img": null,
+   "img": "current-design-2022.webp",
    "year": "2022",
    "fact": "Chihuahua's plate from the 2022 statewide swap is a plain white plate with 'CHIHUAHUA' across the top and the Mexican and Chihuahua coats of arms near the bottom, built with a reflective security film and a barcode.",
-   "source": "https://chihuahua.gob.mx/contenidos/programa-de-revalidacion-y-canje-de-placas-para-reforzar-la-seguridad-publica-en",
-   "img_url": "https://chihuahua.gob.mx/sites/default/atach2/noticias/_mg_9252.jpg",
-   "img_crop": [
-    70,
-    130,
-    1080,
-    680
-   ]
+   "source": "https://chihuahua.gob.mx/contenidos/programa-de-revalidacion-y-canje-de-placas-para-reforzar-la-seguridad-publica-en"
   },
   {
    "id": "drivers-with-disabilities",
