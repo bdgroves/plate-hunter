@@ -168,8 +168,7 @@
    "id": "university-of-wyoming",
    "name": "University of Wyoming",
    "cat": "colleges",
-   "img": "university-of-wyoming.webp",
-   "img_url": "https://dot.state.wy.us/files/live/sites/wydot/files/shared/Motor%20Vehicle%20Services/2025%20Plate%20images/2025-ALUMNI.jpg",
+   "img": "university-of-wyoming-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -218,30 +217,27 @@
    "id": "donate-life-plate",
    "name": "Donate Life Plate",
    "cat": "charity",
-   "img": null,
+   "img": "donate-life-plate.webp",
    "added": "2026-10-26",
    "source": "https://dot.state.wy.us/home/titles_plates_registration/specialty_plates/donate-life-plate.html",
-   "img_url": "https://dot.state.wy.us/files/live/sites/wydot/files/shared/Motor%20Vehicle%20Services/2025%20Plate%20images/2025-DL.jpg",
    "year": "2024"
   },
   {
    "id": "rodeo",
    "name": "Rodeo",
    "cat": "sports",
-   "img": null,
+   "img": "rodeo.webp",
    "added": "2026-10-26",
    "source": "https://dot.state.wy.us/news/wydot-unveils-new-rodeo-search-and-rescue-specialty-license-plates",
-   "img_url": "https://dot.state.wy.us/files/live/sites/wydot/files/shared/Motor%20Vehicle%20Services/2025%20Plate%20images/2026%20Rodeo.jpg",
    "year": "2026"
   },
   {
    "id": "search-and-rescue",
    "name": "Search and Rescue",
    "cat": "firstresponder",
-   "img": null,
+   "img": "search-and-rescue.webp",
    "added": "2026-10-26",
    "source": "https://dot.state.wy.us/news/wydot-unveils-new-rodeo-search-and-rescue-specialty-license-plates",
-   "img_url": "https://dot.state.wy.us/files/live/sites/wydot/files/shared/Motor%20Vehicle%20Services/2025%20Plate%20images/SAR%20BLUE%20B_rs.jpg",
    "year": "2026"
   }
  ],

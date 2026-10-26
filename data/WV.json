@@ -370,8 +370,7 @@
    "id": "marshall-university",
    "name": "Marshall University",
    "cat": "colleges",
-   "img": "marshall-university.webp",
-   "img_url": "https://dmv.wv.gov/sites/default/files/2026-03/Marshall_new_plate.jpg",
+   "img": "marshall-university-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -666,28 +665,25 @@
    "id": "hoops-children-s-family-hospital",
    "name": "Hoops Children's Family Hospital",
    "cat": "charity",
-   "img": null,
+   "img": "hoops-children-s-family-hospital.webp",
    "added": "2026-10-26",
-   "source": "https://dmv.wv.gov/node/455",
-   "img_url": "https://dmv.wv.gov/sites/default/files/2026-03/hh-thumbnail.jpg"
+   "source": "https://dmv.wv.gov/node/455"
   },
   {
    "id": "west-virginia-realtor-s-association-plat",
    "name": "West Virginia Realtor's Association Plate",
    "cat": "other",
-   "img": null,
+   "img": "west-virginia-realtor-s-association-plat.webp",
    "added": "2026-10-26",
-   "source": "https://transportation.wv.gov/DMV/Vehicle-Services/License-Plates/Special-Plates/Pages/Special-Plate.aspx?p=112",
-   "img_url": "https://dmv.wv.gov/sites/default/files/2026-03/rethumbnail.jpg"
+   "source": "https://transportation.wv.gov/DMV/Vehicle-Services/License-Plates/Special-Plates/Pages/Special-Plate.aspx?p=112"
   },
   {
    "id": "distinguished-medal-of-valor",
    "name": "Distinguished Medal of Valor",
    "cat": "firstresponder",
-   "img": null,
+   "img": "distinguished-medal-of-valor.webp",
    "added": "2026-10-26",
    "source": "https://dmv.wv.gov/node/463",
-   "img_url": "https://dmv.wv.gov/sites/default/files/2026-06/Distinguished-Medal-of-Valor%20%281%29.jpeg",
    "year": "2025"
   },
   {

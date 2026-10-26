@@ -274,19 +274,17 @@
    "id": "honoring-fallen-police-officers",
    "name": "Honoring Fallen Police Officers",
    "cat": "firstresponder",
-   "img": null,
+   "img": "honoring-fallen-police-officers.webp",
    "added": "2026-10-26",
-   "source": "https://dmv.alaska.gov/vehicle-services/license-plates/",
-   "img_url": "https://dmv.alaska.gov/media/nk2myuer/fallen-officer-large-plate.png"
+   "source": "https://dmv.alaska.gov/vehicle-services/license-plates/"
   },
   {
    "id": "space-force",
    "name": "Space Force",
    "cat": "military",
-   "img": null,
+   "img": "space-force.webp",
    "added": "2026-10-26",
-   "source": "https://dmv.alaska.gov/vehicle-services/license-plates/",
-   "img_url": "https://dmv.alaska.gov/media/xvymq3sx/space-force-veteran.png"
+   "source": "https://dmv.alaska.gov/vehicle-services/license-plates/"
   }
  ],
  "checked_on": "2026-10-26"

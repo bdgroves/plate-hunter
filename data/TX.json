@@ -3184,28 +3184,25 @@
    "id": "national-cowgirl-museum-hall-of-fame-pre",
    "name": "National Cowgirl Museum & Hall of Fame (Pre-order)",
    "cat": "other",
-   "img": null,
+   "img": "national-cowgirl-museum-hall-of-fame-pre.webp",
    "added": "2026-10-26",
-   "source": "https://www.myplates.com/comingsoon",
-   "img_url": "https://cdn.myplates.com/content/NCMHoF.jpg"
+   "source": "https://www.myplates.com/comingsoon"
   },
   {
    "id": "ufc-pre-order",
    "name": "UFC (Pre-order)",
    "cat": "sports",
-   "img": null,
+   "img": "ufc-pre-order.webp",
    "added": "2026-10-26",
-   "source": "https://www.myplates.com/comingsoon",
-   "img_url": "https://cdn.myplates.com/content/ps.6ch.UFC.jpg"
+   "source": "https://www.myplates.com/comingsoon"
   },
   {
    "id": "university-of-missouri-pre-order",
    "name": "University of Missouri (Pre-order)",
    "cat": "colleges",
-   "img": null,
+   "img": "university-of-missouri-pre-order.webp",
    "added": "2026-10-26",
-   "source": "https://www.myplates.com/comingsoon",
-   "img_url": "https://cdn.myplates.com/content/Mizzou_PreOrder.png"
+   "source": "https://www.myplates.com/comingsoon"
   }
  ],
  "checked_on": "2026-10-26"
