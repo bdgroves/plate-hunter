@@ -2,9 +2,9 @@
  "code": "ND",
  "name": "North Dakota",
  "rated": false,
- "checked": false,
+ "checked": true,
  "updated": "2026-10-26",
- "about": "North Dakota special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "about": "North Dakota special-design plates. Not rated yet: every plate is worth the same. Checked against the state's plate gallery by the plate robot, Oct 2026.",
  "sources": [
   {
    "title": "Jon Keegan, us-license-plates (2023)",

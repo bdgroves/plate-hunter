@@ -308,5 +308,20 @@
   "code": "WV",
   "name": "West Virginia",
   "url": "https://dmv.wv.gov/node/155"
+ },
+ {
+  "code": "TX-2",
+  "name": "Texas",
+  "url": "https://www.myplates.com/discontinued-plates"
+ },
+ {
+  "code": "PA-2",
+  "name": "Pennsylvania",
+  "url": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+ },
+ {
+  "code": "TN",
+  "name": "Tennessee",
+  "url": "https://www.tn.gov/content/tn/revenue/title-and-registration/license-plates/available-license-plates.html"
  }
 ]

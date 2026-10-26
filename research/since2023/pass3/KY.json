@@ -1,0 +1,60 @@
+{
+ "state": "KY",
+ "checked": [
+  "https://drive.ky.gov/vehicles/Pages/License-Plates.aspx",
+  "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
+  "https://transportation.ky.gov/Documents/New%20Special%20License%20Plates.pdf",
+  "https://boonecountyclerk.ky.gov/personalized-specialty-plates/",
+  "https://webstercountyclerk.ky.gov/mv/Pages/lp.aspx",
+  "https://www.gobourbon.com/new-bourbon-customized-license-plate-available-for-all-kentuckians/",
+  "https://www.rjcorman.com/node/4536",
+  "https://www.railwayage.com/safety/attention-kentucky-drivers-support-rail-safety-with-oli-license-plate/",
+  "https://www.klc.org/News/13003/klc-announces-new-cities-license-plate",
+  "https://linknky.com/press-releases/2026/03/05/press-release-cities-drive-kentucky-license-plate-hits-production-supporting-disaster-relief-for-cities-statewide",
+  "https://www.wkyt.com/2026/03/02/new-kentucky-specialty-license-plate-aims-help-support-disaster-relief",
+  "https://wkym.com/friends-of-agriculture-license-plate-now-available/",
+  "https://hoptownchronicle.org/friends-of-agriculture-license-plate-now-available-for-purchase/",
+  "https://kyffa.org/?p=2557"
+ ],
+ "robot_url": null,
+ "new": [
+  {
+   "title": "Friends of Hemp",
+   "cat": "other",
+   "source_img": null,
+   "source": "https://transportation.ky.gov/Documents/New%20Special%20License%20Plates.pdf",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Cities Drive Kentucky",
+   "cat": "charity",
+   "source_img": null,
+   "source": "https://linknky.com/press-releases/2026/03/05/press-release-cities-drive-kentucky-license-plate-hits-production-supporting-disaster-relief-for-cities-statewide",
+   "year": "2026",
+   "matches_existing": null
+  },
+  {
+   "title": "Friends of Agriculture",
+   "cat": "other",
+   "source_img": null,
+   "source": "https://hoptownchronicle.org/friends-of-agriculture-license-plate-now-available-for-purchase/",
+   "year": "2026",
+   "matches_existing": null
+  }
+ ],
+ "redesigned": [],
+ "retired": [],
+ "pictures": [
+  {
+   "name_in_game": "Bardstown Community",
+   "source_img": "https://www.gobourbon.com/wp-content/uploads/2024/01/416194861_767049155452117_272997141261425536_n.jpg"
+  },
+  {
+   "name_in_game": "Operation Lifesaver, Inc.",
+   "source_img": "https://www.rjcorman.com/sites/default/files/OLI%20KY%20License%20Plate%20Design.png"
+  }
+ ],
+ "complete": false,
+ "notes": "The KYTC plate gallery (secure2.kentucky.gov/kytc/plates/web/, images at .../LicensePlate/GenerateImage?imageId=<guid>&licensePlateId=<guid>) is blocked to WebFetch and its image ids are GUIDs, so agency pictures can't be guessed; only 2 of 23 pictures found. Bardstown image is from the Bardstown/Nelson County tourism site (gobourbon.com), not the Bourbon Capital Alliance itself. The OLI image is on R.J. Corman's site (plate co-designer), captioned 'courtesy of KYTC'. A newer copy of the KYTC 'New Special License Plates' flyer moves Friends of Hemp from 'coming soon' to available. EMS Memorial, Appalachian Valley Autism, Never Alone Nick, Shaker Village and KY Down Syndrome Association are still 'coming soon'. Friends of Agriculture (HB 157, 2025; on sale Mar 2026) is separate from the Farm plate. kyffa.org has a portrait screenshot that may show it (https://kyffa.org/wp-content/uploads/2026/03/Screenshot-2026-03-02-at-12.21.34-PM-680x1024.png), but it's unverified, so it's left null. Retirements still unchecked."
+}

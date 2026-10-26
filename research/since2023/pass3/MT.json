@@ -1,0 +1,320 @@
+{
+ "state": "MT",
+ "checked": [
+  "https://mvdmt.gov/license-plate-lookup/",
+  "https://mvdmt.gov/license-plate-lookup/page/2/",
+  "https://mvdmt.gov/license-plate-lookup/page/3/",
+  "https://mvdmt.gov/license-plate-lookup/page/4/",
+  "https://mvdmt.gov/license-plate-lookup/page/5/",
+  "https://mvdmt.gov/license-plate-lookup/page/6/",
+  "https://mvdmt.gov/license-plate-lookup/page/7/",
+  "https://mvdmt.gov/license-plate-lookup/page/8/",
+  "https://mvdmt.gov/license-plate-lookup/page/9/",
+  "https://mvdmt.gov/license-plate-lookup/page/11/",
+  "https://mvdmt.gov/license-plate-lookup/type-plate-sponsored/",
+  "https://mvdmt.gov/plate-type/sponsored/",
+  "https://mvdmt.gov/plate-type/sponsored/page/19/",
+  "https://mvdmt.gov/sponsor-type/agriculture/",
+  "https://mvdmt.gov/sponsor-type/youth/page/2/",
+  "https://mvdmt.gov/sponsor-type/sports/",
+  "https://mvdmt.gov/sponsor-type/philanthropic/",
+  "https://mvdmt.gov/sponsor-type/mental-health/",
+  "https://mvdmt.gov/sponsor-type/livestock/",
+  "https://mvdmt.gov/sponsor-type/local-community/",
+  "https://mvdmt.gov/sponsor-type/equine/",
+  "https://mvdmt.gov/color/brown/",
+  "https://mvdmt.gov/color/too-colorful/page/3/",
+  "https://mvdmt.gov/by-the-numbers/",
+  "https://mvdmt.gov/wp-content/uploads/2026/07/CY26-Snapshot-1st-Qtr.pdf",
+  "https://www.msgagolf.org/blog/2026/3/msga-has-new-license-plate",
+  "https://nbcmontana.com/news/local/montanas-specialty-license-plates-help-drivers-support-local-causes"
+ ],
+ "robot_url": "https://mvdmt.gov/license-plate-lookup/",
+ "new": [
+  {
+   "title": "Algeria Shriners",
+   "cat": "charity",
+   "source_img": null,
+   "source": "https://mvdmt.gov/wp-content/uploads/2026/07/CY26-Snapshot-1st-Qtr.pdf",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Butte Silver Bow Government",
+   "cat": "other",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2023/10/Butte-Silver-Bow-Gov-2023.jpg",
+   "source": "https://mvdmt.gov/license-plate-lookup/page/9/",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Cascade County Sheriffs Foundation",
+   "cat": "firstresponder",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2025/08/Cascade-County-Sheriffs-Foundation-2025.jpg",
+   "source": "https://mvdmt.gov/license-plate-lookup/page/9/",
+   "year": "2025",
+   "matches_existing": null
+  },
+  {
+   "title": "Citizens for a Better Flathead",
+   "cat": "nature",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2026/02/Citizens-for-Better-Flathead-2023.jpg",
+   "source": "https://mvdmt.gov/license-plate-lookup/page/8/",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "City of Laurel",
+   "cat": "other",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2024/02/City-of-Laurel-2024.jpg",
+   "source": "https://mvdmt.gov/license-plate-lookup/page/8/",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "Community Food and Agriculture Coalition",
+   "cat": "charity",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2023/10/Community-Food-Ag-Coalition-2023.jpg",
+   "source": "https://mvdmt.gov/license-plate-lookup/page/8/",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "DeliverFund",
+   "cat": "charity",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2025/01/DeliverFUND-2025.jpg",
+   "source": "https://mvdmt.gov/license-plate-lookup/page/8/",
+   "year": "2025",
+   "matches_existing": null
+  },
+  {
+   "title": "Don't Tread on MT",
+   "cat": "other",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2024/08/Dont-Tread-on-MT-2024.jpg",
+   "source": "https://mvdmt.gov/license-plate-lookup/page/8/",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "Flathead County Search and Rescue",
+   "cat": "firstresponder",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2025/08/Flathead-County-Search-and-Rescue-2025-1.jpg",
+   "source": "https://mvdmt.gov/license-plate-lookup/page/7/",
+   "year": "2025",
+   "matches_existing": null
+  },
+  {
+   "title": "Flathead County Sheriff's Posse",
+   "cat": "firstresponder",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2023/10/Flathead-County-Sheriffs-Posse-2023.jpg",
+   "source": "https://mvdmt.gov/license-plate-lookup/page/7/",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Gallatin County Open Lands Board",
+   "cat": "nature",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2023/10/Gallatin-Open-Lands-2023.jpg",
+   "source": "https://mvdmt.gov/license-plate-lookup/page/8/",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Gratitude in Action Foundation",
+   "cat": "charity",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2025/12/Gratitude-in-Action-2026.jpg",
+   "source": "https://mvdmt.gov/license-plate-lookup/page/6/",
+   "year": "2026",
+   "matches_existing": null
+  },
+  {
+   "title": "Kalispell Pee Wee Baseball",
+   "cat": "sports",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2025/08/Kalispell-Pee-Wee-Baseball-2025.jpg",
+   "source": "https://mvdmt.gov/license-plate-lookup/page/7/",
+   "year": "2025",
+   "matches_existing": null
+  },
+  {
+   "title": "Last Best Place Charities",
+   "cat": "charity",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2025/08/Last-Best-Place-2025.jpg",
+   "source": "https://mvdmt.gov/license-plate-lookup/page/7/",
+   "year": "2025",
+   "matches_existing": null
+  },
+  {
+   "title": "Laurel Public Library Foundation",
+   "cat": "charity",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2024/02/Laurel-Public-Library-Foundation-2024.jpg",
+   "source": "https://mvdmt.gov/license-plate-lookup/page/7/",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "Main Street Montana Foundation",
+   "cat": "other",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2026/01/Main-Street-Montana-Foundation-2025.jpg",
+   "source": "https://mvdmt.gov/license-plate-lookup/page/6/",
+   "year": "2025",
+   "matches_existing": null
+  },
+  {
+   "title": "Missoula Family Housing Center: YWCA Missoula & MIC",
+   "cat": "charity",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2024/02/YWCA-Missoula-2024.jpg",
+   "source": "https://mvdmt.gov/license-plate-lookup/page/6/",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "Montana Mobile Museum",
+   "cat": "other",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2024/02/Montana-Mobile-Museum-2024.jpg",
+   "source": "https://mvdmt.gov/license-plate-lookup/page/4/",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "Montana Motorcycle Safety Foundation",
+   "cat": "vehicle",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2025/01/Montana-Motorcycle-Safety-Foundation-2025-1.jpg",
+   "source": "https://mvdmt.gov/license-plate-lookup/page/4/",
+   "year": "2025",
+   "matches_existing": null
+  },
+  {
+   "title": "Montana Neighborhood Development Corporation",
+   "cat": "charity",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2025/08/Neighborhood-Development-Corp-2025.jpg",
+   "source": "https://mvdmt.gov/license-plate-lookup/page/4/",
+   "year": "2025",
+   "matches_existing": null
+  },
+  {
+   "title": "Montana Public Policy Center",
+   "cat": "other",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2023/10/Montana-Public-Policy-Center-2023.jpg",
+   "source": "https://mvdmt.gov/license-plate-lookup/page/4/",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Montana Sheriffs and Peace Officers Association",
+   "cat": "firstresponder",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2025/08/Montana-Sheriffs-and-Peace-Officers-Assoc-2025.jpg",
+   "source": "https://mvdmt.gov/license-plate-lookup/page/4/",
+   "year": "2025",
+   "matches_existing": null
+  },
+  {
+   "title": "Montana Snowmobile Association",
+   "cat": "hobby",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2023/10/Montana-Snowmobile-Association-2023.jpg",
+   "source": "https://mvdmt.gov/license-plate-lookup/page/4/",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Foundation for Wildlife Management",
+   "cat": "nature",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2026/06/Foundation-for-Wildlife-Management-2026.jpg",
+   "source": "https://mvdmt.gov/license-plate-lookup/page/8/",
+   "year": "2026",
+   "matches_existing": null
+  },
+  {
+   "title": "Glendive Police Association",
+   "cat": "firstresponder",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2026/06/Glendive-Police-Association-2026.jpg",
+   "source": "https://mvdmt.gov/license-plate-lookup/page/7/",
+   "year": "2026",
+   "matches_existing": null
+  },
+  {
+   "title": "Laurel Youth Soccer Club",
+   "cat": "sports",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2026/06/Laurel-Youth-Soccer-Club-2026.jpg",
+   "source": "https://mvdmt.gov/license-plate-lookup/page/7/",
+   "year": "2026",
+   "matches_existing": null
+  },
+  {
+   "title": "Montana Trucking Association Foundation",
+   "cat": "other",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2026/06/Montana-Trucking-Association-Foundation-2026.jpg",
+   "source": "https://mvdmt.gov/license-plate-lookup/page/4/",
+   "year": "2026",
+   "matches_existing": null
+  }
+ ],
+ "redesigned": [
+  {
+   "name_in_game": "Montana State Golf Association",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2025/12/Montana-State-Golf-Association-2026.jpg",
+   "note": "new design 2026, confirmed by sponsor (msgagolf.org/blog/2026/3/msga-has-new-license-plate)"
+  },
+  {
+   "name_in_game": "University of Montana – Grizzly Scholarship Association",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2025/12/Grizzly-Scholarship-Association-2026.jpg",
+   "note": "MVD now lists it as 'Grizzly Scholarship Association'; image dated 2026, likely new design"
+  },
+  {
+   "name_in_game": "The Frontier Institute",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2026/06/Frontier-Institute-2026.jpg",
+   "note": "image dated 2026; likely new design"
+  },
+  {
+   "name_in_game": "Compassion Montana",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2025/08/Compassion-Montana-2025.jpg",
+   "note": "image dated 2025; likely new design"
+  },
+  {
+   "name_in_game": "Montana Natural History Center",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2024/02/Montana-Natural-History-2024.jpg",
+   "note": "image dated 2024; likely new design"
+  },
+  {
+   "name_in_game": "Youth Overcoming Life’s Obstacles",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2024/08/Youth-Overcoming-Lifes-Obstacles-2024.jpg",
+   "note": "image dated 2024; likely new design"
+  }
+ ],
+ "retired": [
+  {
+   "name_in_game": "Chippewa Cree Business Committee",
+   "source": "https://mvdmt.gov/wp-content/uploads/2026/07/CY26-Snapshot-1st-Qtr.pdf and https://mvdmt.gov/license-plate-lookup/ (absent from both)"
+  },
+  {
+   "name_in_game": "Flathead Lake Protection Association",
+   "source": "https://mvdmt.gov/wp-content/uploads/2026/07/CY26-Snapshot-1st-Qtr.pdf and https://mvdmt.gov/license-plate-lookup/ (absent from both)"
+  },
+  {
+   "name_in_game": "Gallatin Ice Foundation",
+   "source": "https://mvdmt.gov/wp-content/uploads/2026/07/CY26-Snapshot-1st-Qtr.pdf and https://mvdmt.gov/license-plate-lookup/ (absent from both)"
+  },
+  {
+   "name_in_game": "Montana Agricultural Heritage Foundation",
+   "source": "https://mvdmt.gov/wp-content/uploads/2026/07/CY26-Snapshot-1st-Qtr.pdf and https://mvdmt.gov/license-plate-lookup/ (absent from both)"
+  },
+  {
+   "name_in_game": "Montana Waterfowl Foundation",
+   "source": "https://mvdmt.gov/wp-content/uploads/2026/07/CY26-Snapshot-1st-Qtr.pdf and https://mvdmt.gov/license-plate-lookup/ (absent from both)"
+  },
+  {
+   "name_in_game": "Options Clinic",
+   "source": "https://mvdmt.gov/wp-content/uploads/2026/07/CY26-Snapshot-1st-Qtr.pdf and https://mvdmt.gov/license-plate-lookup/ (absent from both)"
+  },
+  {
+   "name_in_game": "The Nature Conservancy",
+   "source": "https://mvdmt.gov/wp-content/uploads/2026/07/CY26-Snapshot-1st-Qtr.pdf and https://mvdmt.gov/license-plate-lookup/ (absent from both)"
+  },
+  {
+   "name_in_game": "Violence Free Crisis Line",
+   "source": "https://mvdmt.gov/wp-content/uploads/2026/07/CY26-Snapshot-1st-Qtr.pdf (now listed as 'Abbie Shelter (Violence Free Crisis)'; the game has both, so this is a duplicate/rename, not a lost plate)"
+  }
+ ],
+ "pictures": [],
+ "complete": false,
+ "notes": "Sponsored list checked in full against MVD's CY26 Q1 Specialty Plate Snapshot (all active sponsored plates by name) plus lookup pages 1-9 and 11 (holds the June 2026 additions). Lookup pages 10 and 12 could not be reached (probably B-names, military and standard plates). Butte, Cascade County Sheriffs and both Flathead County plates were in the last pass's 'new' list but are not in the game, so they are listed again. Algeria Shriners appears in the snapshot but on no lookup page I could read, so it has no image. 'Retired' plates are missing from both the snapshot and the alphabetical lookup pages where they would sort. MT's nopic list was empty."
+}

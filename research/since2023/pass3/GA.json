@@ -1,0 +1,19 @@
+{
+ "state": "GA",
+ "checked": [
+  "https://dor.georgia.gov/motor-vehicles/vehicle-registration-license-plates/specialty-prestige-license-plates",
+  "https://dor.georgia.gov/press-releases/2025-12-29/georgia-launch-commemorative-license-plate-honoring-nations-250th",
+  "https://dor.georgia.gov/military-veteran-license-plates",
+  "https://veterans.georgia.gov/node/1546",
+  "https://www.wtoc.com/2026/01/02/georgia-releases-new-specialty-license-plates-2026/",
+  "https://www.wrdw.com/2026/03/17/new-license-plates-support-georgia-state-parks-historic-sites/",
+  "https://www.wtoc.com/2026/08/03/girl-scouts-historic-georgia-celebrate-new-specialty-license-plate/"
+ ],
+ "robot_url": null,
+ "new": [],
+ "redesigned": [],
+ "retired": [],
+ "pictures": [],
+ "complete": false,
+ "notes": "No official pictures were found for America First or Selfless Service. GA DOR's gallery (mvd.dor.ga.gov/motor/plates/PlateSelection.aspx; images follow mvd.dor.ga.gov/motor/plates/images/<year>/<pcode>_Large.jpg) is blocked to WebFetch, and the new plates' pcodes are unknown; the DOR and GDVS pages carry no images of them. The Girl Scouts plate (Girl Scouts of Historic Georgia and Greater Atlanta) is pre-order only, with plates due in 2027, so it's left out. Retirements are still unchecked."
+}

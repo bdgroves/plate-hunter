@@ -4,7 +4,7 @@
  "rated": false,
  "checked": false,
  "updated": "2026-10-25",
- "about": "Illinois special-design plates. Not rated yet: every plate is worth the same. Partly checked for plates added since 2023.",
+ "about": "Illinois special-design plates. Not rated yet: every plate is worth the same. Partly checked for plates added since 2023. Checked for plates added since 2023 on 2026-10-26.",
  "sources": [
   {
    "title": "Jon Keegan, us-license-plates (2023)",
@@ -619,7 +619,17 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://www.chicagofirefc.com/news/giannoulias-debuts-chicago-fire-fc-license-plates",
-   "year": "2025"
+   "year": "2025",
+   "img_url": "https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls-chi/u3rhd5cdaiulnoibmtaq.jpg"
+  },
+  {
+   "id": "monarch-butterfly-universal-specialty-pl",
+   "name": "Monarch Butterfly (universal specialty plate)",
+   "cat": "nature",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://news.wttw.com/2023/11/16/honk-if-you-love-monarchs-illinois-finally-set-issue-license-plate-benefit-endangered",
+   "year": "2023"
   }
  ],
  "checked_on": "2026-10-26"

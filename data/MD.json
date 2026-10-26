@@ -4,7 +4,7 @@
  "rated": false,
  "checked": false,
  "updated": "2026-10-25",
- "about": "Maryland special-design plates. Not rated yet: every plate is worth the same. Partly checked for plates added since 2023.",
+ "about": "Maryland special-design plates. Not rated yet: every plate is worth the same. Partly checked for plates added since 2023. Checked for plates added since 2023 on 2026-10-26.",
  "sources": [
   {
    "title": "Jon Keegan, us-license-plates (2023)",
@@ -5293,6 +5293,33 @@
    "added": "2026-10-26",
    "source": "https://mva.maryland.gov/news/updated-bays-license-plate-maryland-drivers",
    "year": "2024"
+  },
+  {
+   "id": "agricultural-our-farms-our-future",
+   "name": "Agricultural (Our Farms, Our Future)",
+   "cat": "nature",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.prod.maryland.gov/title-registration/license-plates/specialty-license-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/medium/public/images/2026-04/MD%20Agricultural%20plate.gif.webp"
+  },
+  {
+   "id": "1910-vintage-reproduction",
+   "name": "1910 Vintage Reproduction",
+   "cat": "vehicle",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.prod.maryland.gov/title-registration/license-plates/specialty-license-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/small/public/images/2026-04/Historic-1910-Vintage-400px.png.webp"
+  },
+  {
+   "id": "amateur-radio-operator",
+   "name": "Amateur Radio Operator",
+   "cat": "hobby",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.prod.maryland.gov/title-registration/license-plates/specialty-license-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/small/public/images/2026-04/amradio.gif.webp"
   }
  ],
  "checked_on": "2026-10-26"

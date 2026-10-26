@@ -1,0 +1,57 @@
+{
+ "state": "TX",
+ "checked": [
+  "https://www.myplates.com/",
+  "https://www.myplates.com/comingsoon",
+  "https://www.myplates.com/discontinued-plates",
+  "https://www.myplates.com/design/personalized/passenger/black-white-premium-embossed",
+  "https://www.myplates.com/design/personalized/passenger/black-gold-premium-embossed",
+  "https://www.myplates.com/design/personalized/passenger/university-of-missouri/",
+  "https://prod-origin.txdmv.gov/motorists/license-plates/eview",
+  "https://prod-origin.txdmv.gov/welcome-eview",
+  "https://prod-origin.txdmv.gov/motorists/for-our-troops",
+  "https://www.txdmv.gov/node/4879",
+  "https://txdmv.blogs.govdelivery.com/?p=8423",
+  "https://content.govdelivery.com/accounts/TXDMV/bulletins/3c8ec48",
+  "https://burnpits360.org/blogs/news/burn-pits-360-veterans-organization-specialty-plates-available-now-in-texas",
+  "https://bigtex.com/state-fair-of-texas-specialty-license-plate-now-on-sale-through-texas-dmv/",
+  "https://epcf.org/news/support-guadalupe-mountains-national-park",
+  "https://www.fox4news.com/news/texas-unveils-new-specialty-license-plates-honoring-veterans-first-responders"
+ ],
+ "robot_url": "https://www.myplates.com/discontinued-plates",
+ "new": [],
+ "redesigned": [],
+ "retired": [],
+ "pictures": [
+  {
+   "name_in_game": "Embossed Black & White",
+   "source_img": "https://cdn.myplates.com/plates/auto.Embossed_WhiteBlack.png"
+  },
+  {
+   "name_in_game": "Premium Embossed Black & Gold",
+   "source_img": "https://cdn.myplates.com/plates/auto.Embossed_GoldBlack.png"
+  },
+  {
+   "name_in_game": "Phi Beta Sigma",
+   "source_img": "https://cdn.myplates.com/discontinued/auto.PhiBetaSigma.png"
+  },
+  {
+   "name_in_game": "Sigma Gamma Rho",
+   "source_img": "https://cdn.myplates.com/discontinued/auto.SigmaGammaRho.png"
+  },
+  {
+   "name_in_game": "Burn Pits 360 Veterans Organization",
+   "source_img": "https://cdn.shopify.com/s/files/1/0677/1789/0335/files/LicensePlate_Header_copy_600x600.jpg?v=1694397627"
+  },
+  {
+   "name_in_game": "State Fair of Texas",
+   "source_img": "https://bigtex.com/wp-content/uploads/2024/12/9d0f99528eb39f621bf21111.jpg"
+  },
+  {
+   "name_in_game": "Guadalupe Mountains National Park",
+   "source_img": "https://ep-community-foundation-production.s3.amazonaws.com/news_articles/images/000/000/453/large/EPCF-Projects-Plate_copy.png?1744148605"
+  }
+ ],
+ "complete": false,
+ "notes": "My Plates sells every Texas plate (state, military and vendor) and its design pages carry static cdn.myplates.com/plates/auto.<Name>.png images, but the catalog is script-loaded and WebFetch refuses design-page URLs it has not seen; links with '+' in the query string (e.g. ?search=burn+pits, ?attribute=56+44) are always refused, so most per-plate pages could not be opened. TxDMV itself hosts no plate images. Burn Pits 360 (sponsor's Shopify store), State Fair of Texas (bigtex.com, unlabeled upload) and Guadalupe Mountains (El Paso Community Foundation, 'EPCF-Projects-Plate') are sponsor images that probably show the plate but were not visually confirmed; Burn Pits may be a header graphic around the plate. Phi Beta Sigma and Sigma Gamma Rho images come from My Plates' discontinued page, so both are listed there as discontinued; University of Missouri is on both the discontinued list (auto.Mizzou21.png) and the coming-soon pre-order list. No new plates beyond pass 1 found."
+}

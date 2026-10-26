@@ -1,0 +1,398 @@
+{
+ "state": "PA",
+ "checked": [
+  "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
+  "https://www.pa.gov/agencies/dmv/resources/business-partners/driver-and-vehicle-services-bulletin.html",
+  "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin-26-12.pdf",
+  "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin-26-14.pdf",
+  "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/content-fragments/license-plates/special-organziations/fairmount-rowing-association/jcr:content/data/master.json"
+ ],
+ "robot_url": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
+ "new": [
+  {
+   "title": "Swing Phi Swing Social Fellowship Inc.",
+   "cat": "other",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/swing-phi-swing-social-fellowship-inc.jpg",
+   "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin-26-12.pdf",
+   "year": "2026",
+   "matches_existing": null
+  },
+  {
+   "title": "USA Semiquincentennial",
+   "cat": "other",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/special-fund/usa%20semiquincentennial%20registration%20plate.jpg",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
+   "year": null,
+   "matches_existing": null
+  }
+ ],
+ "redesigned": [
+  {
+   "name_in_game": "Moravian College",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/moravian%20university.png",
+   "note": "Now Moravian University (Bulletin 24-13, 2024); pa.gov catalog image",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "name_in_game": "Geneva College",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/geneva%20college.png",
+   "note": "New logo, Bulletin 24-20",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "name_in_game": "Pittsburgh Vintage Grand Prix",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/pvgp.png",
+   "note": "New logo, Bulletin 24-20",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "name_in_game": "Lancaster Bible College",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/lancaster_bible_college.png",
+   "note": "Redesigned, Bulletin 25-20; image updated Dec 2025",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "name_in_game": "Presque Isle Partnership",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/presque%20isle%20partnership.jpg",
+   "note": "Revamped logo, Bulletin 26-02; image updated Jan 2026",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "name_in_game": "Pennsylvania Society of Physician...",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/pa%20society%20of%20physician%20associates.jpg",
+   "note": "Redesigned (Physician Associates), Bulletin 26-05; image updated Jul 2026",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "name_in_game": "Masonic Blue Lodge",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/pennsylvania_masons.png",
+   "note": "'Pennsylvania Masons' redesign, Bulletin 26-05; match to this game entry is a guess",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "name_in_game": "Philadelphia Museum of Art",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/philadelphia%20museum%20of%20art%20plate.png",
+   "note": "New logo 2024",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "name_in_game": "Preserve Our Heritage",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/special-fund/preserve-our-heritage-bank-barn.png",
+   "note": "Bank-barn graphic replaces railroad, 2026",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "name_in_game": "Pennsylvania State Nurses Assn",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/pa%20state%20nurses%20assn.jpg",
+   "note": "Redesigned logo, Bulletin 26-12 (July 2026); the bulletin's own sample image wrongly shows the Masons plate",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "name_in_game": "Pennsylvania SPCA - Society for the...",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/pennsylvania_spca.jpg",
+   "note": "Redesigned logo, Bulletin 26-14 (Sept 2026)",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "name_in_game": "Conserve Wild Resources - Hellbender",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/special-fund/conservewildresources.png",
+   "note": "pa.gov image updated Apr 2026 (Let Freedom Ring base)",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "name_in_game": "PA Monument",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/special-fund/pennsylvania_monuments.png",
+   "note": "pa.gov lists it as 'Pennsylvania Monuments'; image updated Sept 2026",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "name_in_game": "Pollinator Habitat Registration",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/special-fund/pollinator_habitat.png",
+   "note": "image updated Sept 2026",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "name_in_game": "Honoring Vets",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/special-fund/honoring_our_veterans.png",
+   "note": "image updated Sept 2026",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "name_in_game": "Honor Women Vets",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/special-fund/honoring_our_women_veterans.png",
+   "note": "image updated Sept 2026",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "name_in_game": "Berwyn Fire Company",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/berwyn-fire-company-plate.jpg",
+   "note": "image updated Jul 2026",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "name_in_game": "US Expeditionary Forces",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/military/expeditionary-forces-veteran.png",
+   "note": "image updated Jan 2026",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "name_in_game": "Operation Iraqi Freedom",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/military/operation-iraqi-freedom.png",
+   "note": "image updated Jan 2026",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "name_in_game": "Korean Defense Service",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/military/koreandefenseservice.jpg",
+   "note": "image updated Feb 2026",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "name_in_game": "US Coast Guard",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/military/us-coast-guard.png",
+   "note": "image updated Apr 2026",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "name_in_game": "Air Medal Registration",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/military/airmedal.png",
+   "note": "image updated Apr 2026",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "name_in_game": "Airborne Units",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/military/usmilitaryairborneunits.png",
+   "note": "image updated Apr 2026",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "name_in_game": "Bronze Star for Valor",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/military/bronzestarforvalor.png",
+   "note": "image updated Apr 2026",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "name_in_game": "Bronze Star",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/military/bronze%20star%20blue%20and%20yellow.jpg",
+   "note": "image updated Apr 2026",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "name_in_game": "Operation Enduring Freedom",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/military/operationenduringfreedom.png",
+   "note": "image updated Apr 2026",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "name_in_game": "Purple Heart",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/military/combatwoundedveteran.png",
+   "note": "image updated Apr 2026 (file named combat wounded veteran)",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "name_in_game": "U.S. Air Force Veteran Revised",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/military/usairforceveteran.png",
+   "note": "image updated Apr 2026",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "name_in_game": "Veteran",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/military/veteran.png",
+   "note": "image updated Apr 2026",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "name_in_game": "Fire Fighter",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/firefighter.png",
+   "note": "image updated Apr 2026",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "name_in_game": "Shippensburg University Alumni",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/shippensburg-university-alumni.png",
+   "note": "image updated May 2026",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "name_in_game": "La Salle University",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/la-salle-university.png",
+   "note": "image updated May 2026",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "name_in_game": "Pennsylvania State Society Daughters of...",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/pa-daughters-of-the-american-revolution.png",
+   "note": "image updated May 2026",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  }
+ ],
+ "retired": [],
+ "pictures": [
+  {
+   "name_in_game": "Alpha Fire Company No. 1 Inc.",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/alpha%20fire%20company%20no%201%20inc.jpg"
+  },
+  {
+   "name_in_game": "New Kingstown Fire Company",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/new%20kingstown%20fire%20company.jpg"
+  },
+  {
+   "name_in_game": "Southampton Fire Company No. 1",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/southampton%20fire%20company%20no.%201.jpg"
+  },
+  {
+   "name_in_game": "The Colebrookdale Railroad",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/colebrookdale%20railroad.jpg"
+  },
+  {
+   "name_in_game": "The Edward Francis Cancer Foundation",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/edward%20francis%20cancer%20foundation.jpg"
+  },
+  {
+   "name_in_game": "The Video Game Clubs of America",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/the%20video%20game%20clubs%20of%20america.jpg"
+  },
+  {
+   "name_in_game": "Spay and Neuter Assistance Program, Inc. (Spay/Neuter Saves Lives)",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/spay%20and%20neuter%20assistance%20program.jpg"
+  },
+  {
+   "name_in_game": "Alliance Fire and Rescue",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/alliance%20fire%20and%20rescue.jpg"
+  },
+  {
+   "name_in_game": "Fairfield Hose Company",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/fairfield%20hose%20company.jpg"
+  },
+  {
+   "name_in_game": "Stat MedEvac",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/stat%20medevac.jpg"
+  },
+  {
+   "name_in_game": "Phi Beta Sigma Fraternity, Inc.",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/phi%20beta%20sigma%20fraternity,%20inc.jpg"
+  },
+  {
+   "name_in_game": "Down Syndrome Association of Pittsburgh",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/down%20syndrome%20association%20of%20pittsburgh.png"
+  },
+  {
+   "name_in_game": "LVHN MedEvac",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/lvhn%20medevac.jpg"
+  },
+  {
+   "name_in_game": "Elle's Angels Foundation",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/elle's%20angels%20foundation.png"
+  },
+  {
+   "name_in_game": "Angel Flight East",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/angel%20flight%20east.png"
+  },
+  {
+   "name_in_game": "NicNac Charities",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/nicnac%20charities.png"
+  },
+  {
+   "name_in_game": "American Fire Company #1",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/american%20fire%20company%201.png"
+  },
+  {
+   "name_in_game": "NAWCC, Inc.",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/nawcc.png"
+  },
+  {
+   "name_in_game": "Western Berks Fire Department",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/western%20berks%20fire%20department.png"
+  },
+  {
+   "name_in_game": "A Haven",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/a-haven.png"
+  },
+  {
+   "name_in_game": "Swarthmore Fire & Rescue",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/swarthmore-fire.png"
+  },
+  {
+   "name_in_game": "Edinboro Volunteer Fire Department",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/edinboro-fire.png"
+  },
+  {
+   "name_in_game": "Lily's Hope",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/lilys-hope-foundation.png"
+  },
+  {
+   "name_in_game": "Thaddeus Stevens",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/thaddeus%20stevens.png"
+  },
+  {
+   "name_in_game": "Po-Mar-Lin Fire Company",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/po-mar-lin.png"
+  },
+  {
+   "name_in_game": "PA Sportsman",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/special-fund/pasportsman.png"
+  },
+  {
+   "name_in_game": "Global War on Terrorism Expeditionary Medal",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/military/gwot.jpg"
+  },
+  {
+   "name_in_game": "Woman Veteran",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/military/womanveteran.png"
+  },
+  {
+   "name_in_game": "Operation Inherent Resolve",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/military/operation%20inherent%20resolve.png"
+  },
+  {
+   "name_in_game": "National Law Enforcement Officers Memorial Fund",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/nleomf.png"
+  },
+  {
+   "name_in_game": "Milton Hershey School Alumni Association",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/milton_hershey_alumni_association.jpg"
+  },
+  {
+   "name_in_game": "TIM Heroes, Inc.",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/tim-heroes-inc.png"
+  },
+  {
+   "name_in_game": "Eagles Autism Foundation",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/eagles_autism_foundation.png"
+  },
+  {
+   "name_in_game": "Fairmount Rowing Association",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/fairmount_rowing_association.png"
+  },
+  {
+   "name_in_game": "dlivrd Difference",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/dlivrd-difference.png"
+  },
+  {
+   "name_in_game": "Middletown Vol. Fire Dept.",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/middletown-volunteer-fire-department.png"
+  },
+  {
+   "name_in_game": "Friends of Washington Crossing Park",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/friends-of-washington-park.png"
+  },
+  {
+   "name_in_game": "Communications Workers of America",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/communications-workers-of-america.png"
+  },
+  {
+   "name_in_game": "American Legion Auxiliary",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/american-legion-auxiliary.png"
+  },
+  {
+   "name_in_game": "Acorn Acres Wildlife Rehab",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/acorn-acres-wildlife-rehab.png"
+  },
+  {
+   "name_in_game": "Narberth Ambulance",
+   "source_img": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/narberth_ambulance.png"
+  }
+ ],
+ "complete": false,
+ "notes": "All 41 pictures come from PennDOT's own catalog folder (pa.gov .../dmv/images/vehicle-services/license-plates/); every URL returned HTTP 200. The catalog page is a Coveo widget that only renders in a real browser (462 entries after 'load more'); Fairmount Rowing's image was read from its content-fragment JSON. Bulletins 26-12 (Jul 2026) and 26-14 (Sep 2026) were read this pass: they add Swing Phi Swing and redesign Nurses and PA SPCA (plus Slippery Rock, Porsche Club, Etown, AMA, St. James Alumni, Trout Unlimited, York College, PA Hazmat, and Eagles Autism, none of which except Eagles Autism are in the game). Things to check: 'Narberth Ambulance' uses the same pa.gov entry and image as the existing 'VMSC of Lower Merion & Narberth', so it is probably a duplicate. The GWOT image is pa.gov's 'global-war-on-terrorism' entry and the NLEOMF image is filed as 'national-law-enforcement-officers-medal'. About 90 older catalog plates (e.g. Villanova, AMVETS, Lafayette, Trout Unlimited) are missing from the game but predate 2023, so they are not listed as new. Image dates are last-modified headers, which hint at redesigns but don't prove them."
+}

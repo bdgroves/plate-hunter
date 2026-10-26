@@ -1,0 +1,44 @@
+{
+ "state": "MD",
+ "checked": [
+  "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+  "https://mva.prod.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+  "https://mva.maryland.gov/media/524",
+  "https://mva.prod.maryland.gov/title-registration/license-plates/specialty-license-plates",
+  "https://ricksplates.com/maryland/mdcurr-org.htm",
+  "https://mgaleg.maryland.gov/cmte_testimony/2026/jpr/1L5O7M8HsGPZg3vJhffQl4xBIEfgxP96X.pdf",
+  "https://mva.maryland.gov/media/1428"
+ ],
+ "robot_url": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+ "new": [
+  {
+   "title": "Agricultural (Our Farms, Our Future)",
+   "cat": "nature",
+   "source_img": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/medium/public/images/2026-04/MD%20Agricultural%20plate.gif.webp",
+   "source": "https://mva.prod.maryland.gov/title-registration/license-plates/specialty-license-plates",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "1910 Vintage Reproduction",
+   "cat": "vehicle",
+   "source_img": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/small/public/images/2026-04/Historic-1910-Vintage-400px.png.webp",
+   "source": "https://mva.prod.maryland.gov/title-registration/license-plates/specialty-license-plates",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Amateur Radio Operator",
+   "cat": "hobby",
+   "source_img": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/small/public/images/2026-04/amradio.gif.webp",
+   "source": "https://mva.prod.maryland.gov/title-registration/license-plates/specialty-license-plates",
+   "year": null,
+   "matches_existing": null
+  }
+ ],
+ "redesigned": [],
+ "retired": [],
+ "pictures": [],
+ "notes": "No plates in the game lack a picture. The three 'new' entries are not post-2023 additions: they are long-standing MVA specialty plates (Agricultural, 1910 Vintage Reproduction, Amateur Radio) that the game simply lacks; year left null. I could not date any of the ten candidate org plates (MAGFest XP, Bigfoot Endurance XB, Annapolis Dragon Boat Club VV, Warrior Canine Connection KN, Velo City Riders VI, TECRO TPE, WeFishSalt WFS, Charles County IAFF L4658 CCLU, Charles County Dive Rescue CCDR, Harford County Deputy Sheriffs Union DSU). The code list is alphabetical and undated, Rick's Plates (updated Dec 2024) lists none of them, and searches found no sponsor announcements. Warrior Canine Connection's own site talks about an MVA plate as early as Nov 2019, so at least that one is not new. Also missing from the game: Gadsen Pew Club (code ZA). WebFetch of the MVA org list is unusable: it returns a truncated, seemingly random 18-entry page whatever query is sent, on both mva. and mva.prod. hosts. Guessed cdn.maryland.gov image URLs can't be fetched. SB 352 (2026, 'Old Line Plate' auctioned 1911-style number plates) was pending in Feb 2026; I did not confirm passage or issue.",
+ "complete": false
+}

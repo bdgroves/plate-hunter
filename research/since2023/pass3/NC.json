@@ -1,0 +1,40 @@
+{
+ "state": "NC",
+ "checked": [
+  "https://www.ncdot.gov/dmv/title-registration/license-plates/",
+  "https://ncdot.gov/dmv/title-registration/license-plates/Pages/specialty-plates.aspx",
+  "https://www.ncdot.gov/dmv/title-registration/license-plates/Pages/specialty-plate-forms.aspx",
+  "https://www.ncdot.gov/dmv/title-registration/license-plates/Pages/legislative-process-special-plate.aspx",
+  "https://www.ncdot.gov/dmv/offices-services/online/Pages/my-ncdmv-custom-plates.aspx",
+  "https://www.ncdot.gov/dmv/downloads/Documents/MVR-27.pdf",
+  "https://dr-www.ncdot.gov/dmv/title-registration/license-plates/Documents/inactive-specialty-plates.pdf",
+  "https://ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_20/GS_20-79.4.html",
+  "https://www.ncleg.gov/Sessions/2023/Bills/House/PDF/H199v7.pdf",
+  "https://www.ncleg.gov/Sessions/2023/Bills/Senate/PDF/S303v7.pdf",
+  "https://ncleg.gov/Legislation/SummariesPublication/Summary/2025/21/S449-SMCM-57(sl)-v-5",
+  "https://ncleg.gov/EnactedLegislation/SessionLaws/HTML/2025-2026/SL2026-43.html",
+  "https://ncleg.gov/EnactedLegislation/SessionLaws/HTML/2025-2026/SL2026-58.html",
+  "https://ncbg.unc.edu/?p=5665",
+  "https://coastalreview.org/2024/07/home-of-the-venus-flytrap-specialty-plates-soon-available/",
+  "https://go.surfrider.org/ncplates",
+  "https://www.wect.com/2026/03/24/battleship-north-carolina-launches-specialty-license-plate-campaign/?outputType=amp",
+  "https://www.ncdot.gov/dmv/title-registration/license-plates/Pages/default.aspx",
+  "https://www.ncdot.gov/dmv/offices-services/online/Pages/my-ncdmv-custom-plates.aspx"
+ ],
+ "robot_url": null,
+ "new": [
+  {
+   "title": "Home of the Venus Flytrap",
+   "cat": "nature",
+   "source_img": "https://ncbg.unc.edu/wp-content/uploads/sites/963/2024/09/VenusFlytrap_LicensePlatergb-1024x515.jpg",
+   "source": "https://ncbg.unc.edu/?p=5665",
+   "year": "2024",
+   "matches_existing": null
+  }
+ ],
+ "redesigned": [],
+ "retired": [],
+ "notes": "PARTIAL: NCDMV's catalog is a JS ordering app and NCDMV posted no plate news releases I could find, so this comes from the statute (G.S. 20-79.4) and session laws since 2023. Venus Flytrap and NCSSM were both authorized by S.L. 2024-30 (effective July 1, 2024); Venus Flytrap is confirmed on sale, while NCSSM is unconfirmed (a 2025 fix to its letter format suggests it is being issued). Not yet issued: 'Lifetime Conservationist' (S.L. 2026-43, effective Oct 1, 2026) and an 'America's Semiquincentennial' standard-plate background (S.L. 2026-58). Surfrider and Battleship North Carolina are still collecting pre-orders and are not authorized. NCDMV's inactive-plates PDF lists 135 authorized plates that never reached production, which explains most of the statute plates missing from the game. No retirements of game plates confirmed; the NASCAR driver 'Limited Inventory' plates could not be checked. Pass 3: the nopic list was empty. NCDMV's only specialty-plate catalog is the myNCDMV/PayIt ordering workflow (payments.ncdot.gov), and it redirects to a login, so it was not used. Two searches found nothing new.",
+ "pictures": [],
+ "complete": false
+}

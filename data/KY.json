@@ -4,7 +4,7 @@
  "rated": false,
  "checked": false,
  "updated": "2026-10-25",
- "about": "Kentucky special-design plates. Not rated yet: every plate is worth the same. Partly checked for plates added since 2023.",
+ "about": "Kentucky special-design plates. Not rated yet: every plate is worth the same. Partly checked for plates added since 2023. Checked for plates added since 2023 on 2026-10-26.",
  "sources": [
   {
    "title": "Jon Keegan, us-license-plates (2023)",
@@ -853,7 +853,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
-   "year": "2024"
+   "year": "2024",
+   "img_url": "https://www.rjcorman.com/sites/default/files/OLI%20KY%20License%20Plate%20Design.png"
   },
   {
    "id": "omega-psi-fraternity",
@@ -916,7 +917,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
-   "year": "2024"
+   "year": "2024",
+   "img_url": "https://www.gobourbon.com/wp-content/uploads/2024/01/416194861_767049155452117_272997141261425536_n.jpg"
   },
   {
    "id": "ohv4ky",
@@ -1033,6 +1035,32 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://www.wbko.com/2026/05/16/beautify-bluegrass-license-plate-now-available/",
+   "year": "2026"
+  },
+  {
+   "id": "friends-of-hemp",
+   "name": "Friends of Hemp",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://transportation.ky.gov/Documents/New%20Special%20License%20Plates.pdf"
+  },
+  {
+   "id": "cities-drive-kentucky",
+   "name": "Cities Drive Kentucky",
+   "cat": "charity",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://linknky.com/press-releases/2026/03/05/press-release-cities-drive-kentucky-license-plate-hits-production-supporting-disaster-relief-for-cities-statewide",
+   "year": "2026"
+  },
+  {
+   "id": "friends-of-agriculture",
+   "name": "Friends of Agriculture",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://hoptownchronicle.org/friends-of-agriculture-license-plate-now-available-for-purchase/",
    "year": "2026"
   }
  ],

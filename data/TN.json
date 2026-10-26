@@ -2,9 +2,9 @@
  "code": "TN",
  "name": "Tennessee",
  "rated": false,
- "checked": false,
+ "checked": true,
  "updated": "2026-10-25",
- "about": "Tennessee special-design plates. Not rated yet: every plate is worth the same. Partly checked for plates added since 2023.",
+ "about": "Tennessee special-design plates. Not rated yet: every plate is worth the same. Partly checked for plates added since 2023. Checked for plates added since 2023 on 2026-10-26.",
  "sources": [
   {
    "title": "Jon Keegan, us-license-plates (2023)",
@@ -160,7 +160,8 @@
    "id": "chattanooga-football-club-clubs-organiza",
    "name": "Chattanooga Football Club Clubs & Organizations",
    "cat": "sports",
-   "img": "chattanooga-football-club-clubs-organiza.webp"
+   "img": "chattanooga-football-club-clubs-organiza.webp",
+   "retired": true
   },
   {
    "id": "children-first-for-children",
@@ -454,7 +455,8 @@
    "id": "jackson-state-university-collegiate",
    "name": "Jackson State University Collegiate",
    "cat": "colleges",
-   "img": "jackson-state-university-collegiate.webp"
+   "img": "jackson-state-university-collegiate.webp",
+   "retired": true
   },
   {
    "id": "kappa-alpha-psi-fraternity-sorority",
@@ -1030,7 +1032,8 @@
    "id": "ut-health-science-center-collegiate",
    "name": "UT Health Science Center Collegiate",
    "cat": "colleges",
-   "img": "ut-health-science-center-collegiate.webp"
+   "img": "ut-health-science-center-collegiate.webp",
+   "retired": true
   },
   {
    "id": "ut-knoxville-alumni-program-collegiate",
@@ -1131,6 +1134,116 @@
    "source": "https://www.tn.gov/content/tn/revenue/title-and-registration/license-plates/available-license-plates/collegiate-plates/georgia.html",
    "img_url": "https://www.tn.gov/content/tn/revenue/title-and-registration/license-plates/available-license-plates/collegiate-plates/georgia/jcr%3acontent/contentFullWidth/tn_panel/content/tn_columnctrl/column_parsys0/tn_image.img.jpg/1692371835681.jpg",
    "year": "2023"
+  },
+  {
+   "id": "atlanta-braves",
+   "name": "Atlanta Braves",
+   "cat": "sports",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.tn.gov/content/tn/revenue/title-and-registration/license-plates/available-license-plates/sports-plates/atlanta-braves.html",
+   "img_url": "https://www.tn.gov/content/dam/tn/revenue/images/licenseplates/plates-gallery-photos/Atlanta%20Braves.jpg",
+   "year": "2024"
+  },
+  {
+   "id": "coast-guard-commendation-medal",
+   "name": "Coast Guard Commendation Medal",
+   "cat": "military",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.tn.gov/content/tn/revenue/title-and-registration/license-plates/available-license-plates/military-and-memorial/coast-guard-commendation-medal.html",
+   "img_url": "https://www.tn.gov/content/dam/tn/revenue/images/licenseplates/plates-gallery-photos/Coast%20Guard%20Commendation%20Medal.jpg",
+   "year": "2024"
+  },
+  {
+   "id": "crusade-against-darkness",
+   "name": "Crusade Against Darkness",
+   "cat": "charity",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.tn.gov/content/tn/revenue/title-and-registration/license-plates/available-license-plates/clubs-and-organizations/crusade-against-darkness-.html",
+   "img_url": "https://www.tn.gov/content/dam/tn/revenue/images/licenseplates/plates-gallery-photos/Crusade%20Against%20Darkness.jpg",
+   "year": "2024"
+  },
+  {
+   "id": "fisk-university",
+   "name": "Fisk University",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.tn.gov/content/tn/revenue/title-and-registration/license-plates/available-license-plates/collegiate-plates/fisk-university.html",
+   "img_url": "https://www.tn.gov/content/dam/tn/revenue/images/licenseplates/plates-gallery-photos/Fisk%20University.jpg",
+   "year": "2024"
+  },
+  {
+   "id": "friends-of-bays-mountain",
+   "name": "Friends of Bays Mountain",
+   "cat": "nature",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.tn.gov/content/tn/revenue/title-and-registration/license-plates/available-license-plates/environment-and-conservation/friends-of-bays-mountain.html",
+   "img_url": "https://www.tn.gov/content/dam/tn/revenue/images/licenseplates/plates-gallery-photos/Friends%20of%20Bays%20Mountain.jpg",
+   "year": "2026"
+  },
+  {
+   "id": "honoring-law-enforcement",
+   "name": "Honoring Law Enforcement",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.tn.gov/content/tn/revenue/title-and-registration/license-plates/available-license-plates/clubs-and-organizations/honoring-law-enforcement.html",
+   "img_url": "https://www.tn.gov/content/dam/tn/revenue/images/licenseplates/plates-gallery-photos/Honoring%20Law%20Enforcement.jpg",
+   "year": "2024"
+  },
+  {
+   "id": "nashville-humane-association",
+   "name": "Nashville Humane Association",
+   "cat": "charity",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.tn.gov/content/tn/revenue/title-and-registration/license-plates/available-license-plates/clubs-and-organizations/nashville-humane-association.html",
+   "img_url": "https://www.tn.gov/content/dam/tn/revenue/images/licenseplates/plates-gallery-photos/Nashville%20Humane%20Association.jpg",
+   "year": "2026"
+  },
+  {
+   "id": "nashville-sc",
+   "name": "Nashville SC",
+   "cat": "sports",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.tn.gov/content/tn/revenue/title-and-registration/license-plates/available-license-plates/sports-plates/nashville-sc.html",
+   "img_url": "https://www.tn.gov/content/dam/tn/revenue/images/licenseplates/plates-gallery-photos/Nashville%20SC.jpg",
+   "year": "2024"
+  },
+  {
+   "id": "old-friends-senior-dog-sanctuary",
+   "name": "Old Friends Senior Dog Sanctuary",
+   "cat": "charity",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.tn.gov/content/tn/revenue/title-and-registration/license-plates/available-license-plates/clubs-and-organizations/old-friends-dog-sanctuary.html",
+   "img_url": "https://www.tn.gov/content/dam/tn/revenue/images/licenseplates/plates-gallery-photos/Old%20Friends%20Senior%20Dog%20Sanctuary.jpg",
+   "year": "2023"
+  },
+  {
+   "id": "promote-peace",
+   "name": "Promote Peace",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.tn.gov/content/tn/revenue/title-and-registration/license-plates/available-license-plates/clubs-and-organizations/promote-peace.html",
+   "img_url": "https://www.tn.gov/content/dam/tn/revenue/images/licenseplates/plates-gallery-photos/Promote%20Peace.jpg",
+   "year": "2025"
+  },
+  {
+   "id": "tennessee-tiger-haven",
+   "name": "Tennessee Tiger Haven",
+   "cat": "nature",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.tn.gov/content/tn/revenue/title-and-registration/license-plates/available-license-plates/wildlife-and-animal/tiger-haven.html",
+   "img_url": "https://www.tn.gov/content/dam/tn/revenue/images/licenseplates/plates-gallery-photos/Tennessee%20Tiger%20Haven.jpg",
+   "year": "2024"
   }
  ],
  "checked_on": "2026-10-26"

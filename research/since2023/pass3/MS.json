@@ -1,0 +1,25 @@
+{
+ "state": "MS",
+ "checked": [
+  "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+  "https://www.dor.ms.gov/motor-vehicle/available-license-plates",
+  "https://www.dor.ms.gov/TagsTitles/Pages/License-Plates.aspx",
+  "https://www.dor.ms.gov/node/631",
+  "https://olemisssports.com/news/2023/6/15/ole-miss-baseball-national-championship-license-plate-now-available",
+  "https://supertalk.fm/mississippi-aquariums-speciality-license-plate-to-benefit-conservation-efforts",
+  "https://mississippi-auto-dealer.thenewslinkgroup.org/mada-encourages-support-of-car-tag-program-for-childrens-hospital/",
+  "https://umc.edu/news/News_Articles/2019/08/MIND-Center-Car-Tag.html"
+ ],
+ "robot_url": null,
+ "new": [],
+ "redesigned": [],
+ "retired": [],
+ "pictures": [
+  {
+   "name_in_game": "2022 National Championship Ole Miss Baseball",
+   "source_img": "https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/olemisssports.com/images/2023/6/15/_16x9.png"
+  }
+ ],
+ "complete": false,
+ "notes": "MS DOR's current plate pages have no plate images at all (only the 2024 standard and blackout plates), so there's no agency source for pictures; only 1 of 10 found, from Ole Miss Athletics (the page shows it via a sidearm resize proxy; this is the original it points to). Dates: the Ole Miss baseball plate went on sale June 15, 2023, the Mississippi Aquarium plate dates from Sept 2020, and Alzheimer's Awareness is probably UMMC's 2019 'Ride with MIND' plate, so several 'new' MS plates were missed in the 2023 snapshot rather than added later. The msaquarium.org/apply page (likely plate image) was blocked to WebFetch. No further gaps or retirements checked (search budget)."
+}

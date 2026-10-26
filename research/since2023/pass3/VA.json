@@ -1,0 +1,53 @@
+{
+ "state": "VA",
+ "checked": [
+  "https://dmv.virginia.gov/vehicles/license-plates/search/250th-american-revolution-anniversary",
+  "https://va250.org/?p=16746",
+  "https://www.dmv.virginia.gov/vehicles/license-plates/search",
+  "https://www.dmv.virginia.gov/vehicles/license-plates/search/blue-ridge-parkway-foundation",
+  "https://brpfoundation.org/node/1035",
+  "https://brpfoundation.org/taxonomy/term/314",
+  "https://law.lis.virginia.gov/uncodifiedactssub/2023/session1/chapter320/",
+  "https://law.lis.virginia.gov/uncodifiedactssub/2024/session1/chapter155/",
+  "https://law.lis.virginia.gov/uncodifiedactssub/2025/session1/chapter72/",
+  "https://law.lis.virginia.gov/uncodifiedactssub/2026/session1/chapter222/",
+  "https://www.legiscan.com/VA/text/HB380/2024",
+  "https://law.lis.virginia.gov/vacode/title46.2/chapter6/section46.2-743",
+  "https://www.vpap.org/bills/84985",
+  "https://dmv.virginia.gov/vehicles/license-plates/search/virginians-arts",
+  "https://vca.virginia.gov/?p=5736",
+  "https://richmondmagazine.com/news/news/diversity-richmond-license-plate/",
+  "https://www.dmv.virginia.gov/vehicles/license-plates/search/longwood-university-redesign",
+  "https://www.dmv.virginia.gov/vehicles/license-plates/search/george-mason-univ-patriots-redesign",
+  "https://www.dmv.virginia.gov/vehicles/license-plates/search/george-mason-university-redesign",
+  "https://www.dmv.virginia.gov/vehicles/license-plates/search/william-mary-athletic-redesign",
+  "https://www.dmv.virginia.gov/news/dmv-proud-offer-new-us-navy-license-plate"
+ ],
+ "robot_url": null,
+ "new": [
+  {
+   "title": "Blue Ridge Parkway Foundation",
+   "cat": "nature",
+   "source_img": "https://www.dmv.virginia.gov/sites/default/files/styles/small/public/images/BRPF.jpg?itok=ckeqSf2U",
+   "source": "https://www.dmv.virginia.gov/vehicles/license-plates/search/blue-ridge-parkway-foundation",
+   "year": "2024",
+   "matches_existing": null
+  }
+ ],
+ "redesigned": [
+  {
+   "name_in_game": "Virginia For The Arts",
+   "source_img": "https://www.dmv.virginia.gov/sites/default/files/styles/small/public/images/art2.jpg?itok=kjzvZP66",
+   "note": "Replaced by the 'Virginians for the Arts' design (plate type ART2; old ART is renewal/transfer only), launched Feb 2024. DMV now names it 'Virginians for the Arts'."
+  }
+ ],
+ "retired": [],
+ "pictures": [
+  {
+   "name_in_game": "250th American Revolution Anniversary",
+   "source_img": "https://www.va250.org/wp-content/uploads/2024/10/LicensePlate_2-825x342-1.jpg"
+  }
+ ],
+ "notes": "250th picture is from the sponsor (VA250 Commission, a state body); the DMV detail page carries no image. Blue Ridge Parkway Foundation was authorized in 2023 (Acts ch. 319/320) and first mailed Feb-Mar 2024; distinct from 'Friends of the Blue Ridge', which the game has. Authorized but not confirmed issued: Lupus Awareness / Social Butterflies Foundation (2025 ch. 72), Richmond SPCA 'Saving Lives Together' (2026 ch. 222), US Air Force emblem plate (2024 HB380, Code 46.2-743 F); no DMV listing found for any. Celebrate Diversity had not reached its 450 prepaid orders as of Mar 2025. Shenandoah Apple Blossom Festival (SB858, 2025) died. DMV also lists redesigns of Longwood (LW2), George Mason (GMU2), George Mason Patriots (GMP2) and William & Mary Athletic (WMA4), images at /sites/default/files/styles/small/public/images/<code>.jpg, but I could not date them, so they may predate 2023 and are not listed as redesigned. The DMV list (343 entries) supports ?page=N (0-based, 10 per page), but WebFetch only reaches pages already seen in search results and sometimes serves a stale page, so the full list was not diffed. List pages carry no <img> tags (no robot_url); detail pages do.",
+ "complete": false
+}

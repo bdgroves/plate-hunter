@@ -2,9 +2,9 @@
  "code": "MO",
  "name": "Missouri",
  "rated": false,
- "checked": false,
+ "checked": true,
  "updated": "2026-10-25",
- "about": "Missouri special-design plates. Not rated yet: every plate is worth the same. Partly checked for plates added since 2023.",
+ "about": "Missouri special-design plates. Not rated yet: every plate is worth the same. Partly checked for plates added since 2023. Checked for plates added since 2023 on 2026-10-26.",
  "sources": [
   {
    "title": "Jon Keegan, us-license-plates (2023)",
@@ -46,7 +46,8 @@
    "id": "american-heart-association-winning-women",
    "name": "American Heart Association (Winning Women",
    "cat": "hobby",
-   "img": "american-heart-association-winning-women.webp"
+   "img": "american-heart-association-winning-women.webp",
+   "retired": true
   },
   {
    "id": "american-legion",
@@ -760,7 +761,8 @@
    "id": "search-and-rescue-sarcom",
    "name": "Search and Rescue (SARCOM",
    "cat": "firstresponder",
-   "img": "search-and-rescue-sarcom.webp"
+   "img": "search-and-rescue-sarcom.webp",
+   "retired": true
   },
   {
    "id": "shriners",
@@ -967,7 +969,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://dor.mo.gov/motor-vehicle/plates/documents/SpecialtyPlateChart-FEB-8.pdf",
-   "year": "2023"
+   "year": "2023",
+   "img_url": "https://mochf.org/wp-content/uploads/2023/09/licenseplate2.png"
   },
   {
    "id": "army-of-occupation-medal",
@@ -994,7 +997,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://dor.mo.gov/motor-vehicle/plates/documents/SpecialtyPlateChart-FEB-8.pdf",
-   "year": "2025"
+   "year": "2025",
+   "img_url": "https://www.mobees.org/wp-content/uploads/2024/05/MO-State-License-Plates-Options-03.png"
   },
   {
    "id": "cars-and-coffee-foundation",

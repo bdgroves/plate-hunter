@@ -13,7 +13,7 @@
   "file": "data/AL.json",
   "count": 175,
   "rated": false,
-  "checked": false
+  "checked": true
  },
  {
   "code": "AK",
@@ -61,7 +61,7 @@
   "file": "data/CT.json",
   "count": 71,
   "rated": false,
-  "checked": false
+  "checked": true
  },
  {
   "code": "DE",
@@ -69,7 +69,7 @@
   "file": "data/DE.json",
   "count": 145,
   "rated": false,
-  "checked": false
+  "checked": true
  },
  {
   "code": "DC",
@@ -77,7 +77,7 @@
   "file": "data/DC.json",
   "count": 50,
   "rated": false,
-  "checked": false
+  "checked": true
  },
  {
   "code": "FL",
@@ -115,7 +115,7 @@
   "code": "IL",
   "name": "Illinois",
   "file": "data/IL.json",
-  "count": 101,
+  "count": 102,
   "rated": false,
   "checked": false
  },
@@ -147,7 +147,7 @@
   "code": "KY",
   "name": "Kentucky",
   "file": "data/KY.json",
-  "count": 159,
+  "count": 162,
   "rated": false,
   "checked": false
  },
@@ -171,7 +171,7 @@
   "code": "MD",
   "name": "Maryland",
   "file": "data/MD.json",
-  "count": 878,
+  "count": 881,
   "rated": false,
   "checked": false
  },
@@ -197,7 +197,7 @@
   "file": "data/MN.json",
   "count": 93,
   "rated": false,
-  "checked": false
+  "checked": true
  },
  {
   "code": "MS",
@@ -213,13 +213,13 @@
   "file": "data/MO.json",
   "count": 164,
   "rated": false,
-  "checked": false
+  "checked": true
  },
  {
   "code": "MT",
   "name": "Montana",
   "file": "data/MT.json",
-  "count": 248,
+  "count": 268,
   "rated": false,
   "checked": false
  },
@@ -253,7 +253,7 @@
   "file": "data/NJ.json",
   "count": 106,
   "rated": false,
-  "checked": false
+  "checked": true
  },
  {
   "code": "NM",
@@ -261,7 +261,7 @@
   "file": "data/NM.json",
   "count": 50,
   "rated": false,
-  "checked": false
+  "checked": true
  },
  {
   "code": "NY",
@@ -285,7 +285,7 @@
   "file": "data/ND.json",
   "count": 42,
   "rated": false,
-  "checked": false
+  "checked": true
  },
  {
   "code": "OH",
@@ -293,7 +293,7 @@
   "file": "data/OH.json",
   "count": 285,
   "rated": false,
-  "checked": false
+  "checked": true
  },
  {
   "code": "OK",
@@ -315,7 +315,7 @@
   "code": "PA",
   "name": "Pennsylvania",
   "file": "data/PA.json",
-  "count": 399,
+  "count": 401,
   "rated": false,
   "checked": false
  },
@@ -325,7 +325,7 @@
   "file": "data/RI.json",
   "count": 42,
   "rated": false,
-  "checked": false
+  "checked": true
  },
  {
   "code": "SC",
@@ -333,7 +333,7 @@
   "file": "data/SC.json",
   "count": 233,
   "rated": false,
-  "checked": false
+  "checked": true
  },
  {
   "code": "SD",
@@ -341,15 +341,15 @@
   "file": "data/SD.json",
   "count": 57,
   "rated": false,
-  "checked": false
+  "checked": true
  },
  {
   "code": "TN",
   "name": "Tennessee",
   "file": "data/TN.json",
-  "count": 186,
+  "count": 197,
   "rated": false,
-  "checked": false
+  "checked": true
  },
  {
   "code": "TX",
@@ -379,7 +379,7 @@
   "code": "VA",
   "name": "Virginia",
   "file": "data/VA.json",
-  "count": 270,
+  "count": 271,
   "rated": false,
   "checked": false
  },

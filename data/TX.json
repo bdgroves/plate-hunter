@@ -4,7 +4,7 @@
  "rated": false,
  "checked": false,
  "updated": "2026-10-25",
- "about": "Texas special-design plates. Not rated yet: every plate is worth the same. Partly checked for plates added since 2023.",
+ "about": "Texas special-design plates. Not rated yet: every plate is worth the same. Partly checked for plates added since 2023. Checked for plates added since 2023 on 2026-10-26.",
  "sources": [
   {
    "title": "Jon Keegan, us-license-plates (2023)",
@@ -2926,7 +2926,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://txdmv.blogs.govdelivery.com/county-rts-release-notes-23-4-08-26-2023-930-am/",
-   "year": "2023"
+   "year": "2023",
+   "img_url": "https://cdn.shopify.com/s/files/1/0677/1789/0335/files/LicensePlate_Header_copy_600x600.jpg?v=1694397627"
   },
   {
    "id": "texas-homeland-defense-service-medal",
@@ -3025,7 +3026,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://txdmv.blogs.govdelivery.com/?p=8639",
-   "year": "2024"
+   "year": "2024",
+   "img_url": "https://cdn.myplates.com/plates/auto.Embossed_GoldBlack.png"
   },
   {
    "id": "premium-embossed-black-yellow",
@@ -3052,7 +3054,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://txdmv.blogs.govdelivery.com/?p=8639",
-   "year": "2024"
+   "year": "2024",
+   "img_url": "https://cdn.myplates.com/discontinued/auto.PhiBetaSigma.png"
   },
   {
    "id": "texas-a-m-university-texarkana",
@@ -3070,7 +3073,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://content.govdelivery.com/accounts/TXDMV/bulletins/3c8ec48",
-   "year": "2025"
+   "year": "2025",
+   "img_url": "https://ep-community-foundation-production.s3.amazonaws.com/news_articles/images/000/000/453/large/EPCF-Projects-Plate_copy.png?1744148605"
   },
   {
    "id": "embossed-black-white",
@@ -3079,7 +3083,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://content.govdelivery.com/accounts/TXDMV/bulletins/3c8ec48",
-   "year": "2025"
+   "year": "2025",
+   "img_url": "https://cdn.myplates.com/plates/auto.Embossed_WhiteBlack.png"
   },
   {
    "id": "lone-star-flag",
@@ -3097,7 +3102,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://content.govdelivery.com/accounts/TXDMV/bulletins/3e79716",
-   "year": "2025"
+   "year": "2025",
+   "img_url": "https://bigtex.com/wp-content/uploads/2024/12/9d0f99528eb39f621bf21111.jpg"
   },
   {
    "id": "ducks-unlimited-crossover",
@@ -3124,7 +3130,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://content.govdelivery.com/accounts/TXDMV/bulletins/3ef1907",
-   "year": "2025"
+   "year": "2025",
+   "img_url": "https://cdn.myplates.com/discontinued/auto.SigmaGammaRho.png"
   },
   {
    "id": "retired-firefighter",

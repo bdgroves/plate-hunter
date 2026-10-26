@@ -4,7 +4,7 @@
  "rated": false,
  "checked": false,
  "updated": "2026-10-25",
- "about": "Mississippi special-design plates. Not rated yet: every plate is worth the same. Partly checked for plates added since 2023.",
+ "about": "Mississippi special-design plates. Not rated yet: every plate is worth the same. Partly checked for plates added since 2023. Checked for plates added since 2023 on 2026-10-26.",
  "sources": [
   {
    "title": "Jon Keegan, us-license-plates (2023)",
@@ -1386,7 +1386,8 @@
    "cat": "sports",
    "img": null,
    "added": "2026-10-26",
-   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates"
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+   "img_url": "https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/olemisssports.com/images/2023/6/15/_16x9.png"
   },
   {
    "id": "alzheimer-s-awareness",

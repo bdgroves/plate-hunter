@@ -1,0 +1,44 @@
+{
+ "state": "AZ",
+ "checked": [
+  "https://www.azdot.gov/plates",
+  "https://azdot.gov/license-plates/hualapai-tribe",
+  "https://azdot.gov/license-plates/phoenix-mercury",
+  "https://azdot.gov/loving-memory",
+  "https://azdot.gov/tags/license-plates",
+  "https://azdot.gov/news/adot-unveils-three-new-specialty-license-plates",
+  "https://azdot.gov/news/adot-unveils-three-more-new-specialty-license-plates",
+  "https://azdot.gov/news/adot-unveils-autism-support-specialty-license-plate",
+  "https://azdot.gov/news/adot-unveils-three-new-specialty-license-plates-total-109",
+  "https://azdot.gov/news/adot-unveils-five-new-specialty-license-plates-1",
+  "https://azdot.gov/news/adot-unveils-new-specialty-license-plate",
+  "https://azdot.gov/news/adot-unveils-three-new-specialty-license-plates-0",
+  "https://azdot.gov/adot-blog/arizonas-route-66-specialty-license-plate",
+  "https://azdot.gov/adot-blog/february-recap-specialty-plate-spotlight",
+  "https://autismcenter.org/sarrc-and-first-place-az-announce-new-specialty-license-plate-driving-support-for-autism",
+  "https://www.givsum.com/opportunities/license-plate-project-for-arizona-rotarians-9601abf6c",
+  "https://gricnews.org/index.php/grin-articles/2026-articles/gila-river-indian-community-releases-specialty-license-plate-through-adot",
+  "https://nba.com/suns/foundation/licenseplate",
+  "https://www.einpresswire.com/article/923346587/adot-unveils-new-specialty-license-plate"
+ ],
+ "robot_url": null,
+ "new": [],
+ "redesigned": [],
+ "retired": [],
+ "pictures": [
+  {
+   "name_in_game": "Phoenix Rising FC",
+   "source_img": "https://www.phxrisingfc.com/wp-content/uploads/sites/29/2024/08/YbHVBcxU.jpg?w=1024"
+  },
+  {
+   "name_in_game": "Rotary International",
+   "source_img": "https://res.cloudinary.com/givsum/image/upload/v1714062383/uploads/opportunities/auction-phone-d96532a5d/final-plate.jpg"
+  },
+  {
+   "name_in_game": "Autism Support",
+   "source_img": "https://autismcenter.org/wp-content/uploads/2025/04/Driving-Support-for-Autism-768x384.jpg"
+  }
+ ],
+ "complete": false,
+ "notes": "The gallery (azmvdnow.gov/plates, which azdot.gov/plates redirects to) is refused by WebFetch every way it was tried (https, http, from the redirect and from ADOT news links). The per-plate pages at azdot.gov/license-plates/<slug> do have plate images (alt text shows) but their image addresses never come through the fetch, so ADOT images could not be read. ADOT news releases carry only a highway banner and link no sponsors except azkidney.org and saguaros.com (4AZKids; refused). Rotary's image is the Rotary District 5495 project page on Givsum; Autism Support's is SARRC's announcement graphic (not visually confirmed to be the bare plate). Counts: ADOT said 115 plates after Maverick (30 Jun 2026) and 3 more were added 20 Aug 2026, while KTAR said 107; nothing new was found beyond pass 1. Route 66 (2016) is not new or redesigned; ADOT has its image at https://azdot.gov/sites/default/files/2026-04/Route66LicensePlate.png."
+}

@@ -1,0 +1,31 @@
+{
+ "state": "IL",
+ "checked": [
+  "https://www.chicagofirefc.com/news/giannoulias-debuts-chicago-fire-fc-license-plates",
+  "https://news.wttw.com/2023/11/16/honk-if-you-love-monarchs-illinois-finally-set-issue-license-plate-benefit-endangered",
+  "https://www.ilsos.gov/news/2026/february-27-2026-giannoulias-debuts-chicago-fire-fc-license-plate.html (robots-disallowed)",
+  "https://www.ilsos.gov/content/dam/publications/pdf_publications/vsd946.pdf (robots-disallowed)",
+  "https://www.ilsos.gov/news.html (robots-disallowed)"
+ ],
+ "robot_url": null,
+ "new": [
+  {
+   "title": "Monarch Butterfly (universal specialty plate)",
+   "cat": "nature",
+   "source_img": null,
+   "source": "https://news.wttw.com/2023/11/16/honk-if-you-love-monarchs-illinois-finally-set-issue-license-plate-benefit-endangered",
+   "year": "2023",
+   "matches_existing": null
+  }
+ ],
+ "redesigned": [],
+ "retired": [],
+ "pictures": [
+  {
+   "name_in_game": "Chicago Fire FC",
+   "source_img": "https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls-chi/u3rhd5cdaiulnoibmtaq.jpg"
+  }
+ ],
+ "complete": false,
+ "notes": "ilsos.gov still blocks automated reading, so I could not check the official catalog. The Chicago Fire FC picture is the club's own 'license plate... they're live!' graphic (1920x1080, judged by its alt text, not seen). The SOS release URL is dated Feb 27, 2026, so the plate's year may be 2026, not 2025. The Monarch plate (Nov 16, 2023, IDNR Roadside Monarch Habitat Fund; first plate on the universal design with a decal) is new to the game, but I found no official image. A Yahoo story 'IL launches 3 new specialty license plates, only available to some drivers' could not be fetched."
+}

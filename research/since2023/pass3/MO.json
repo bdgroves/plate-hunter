@@ -1,0 +1,36 @@
+{
+ "state": "MO",
+ "checked": [
+  "https://dor.mo.gov/motor-vehicle/plates/documents/SpecialtyPlateChart.pdf",
+  "https://dor.mo.gov/motor-vehicle/plates/personalized-specialty.html",
+  "https://www.mobees.org/beefriendly/",
+  "https://mochf.org/?p=1222",
+  "https://mochf.org/purchase-your-plates/",
+  "https://dor.mo.gov/motor-vehicle/specialty-plate-process/documents/Cars-and-Coffee-Foundation.pdf"
+ ],
+ "robot_url": null,
+ "new": [],
+ "redesigned": [],
+ "retired": [
+  {
+   "name_in_game": "American Heart Association (Winning Women",
+   "source": "https://dor.mo.gov/motor-vehicle/plates/documents/SpecialtyPlateChart.pdf ('Organization is no longer issuing an EUAS')"
+  },
+  {
+   "name_in_game": "Search and Rescue (SARCOM",
+   "source": "https://dor.mo.gov/motor-vehicle/plates/documents/SpecialtyPlateChart.pdf ('organization is disbanded')"
+  }
+ ],
+ "pictures": [
+  {
+   "name_in_game": "Bee Friendly",
+   "source_img": "https://www.mobees.org/wp-content/uploads/2024/05/MO-State-License-Plates-Options-03.png"
+  },
+  {
+   "name_in_game": "Conservation Heritage Foundation – Bass/Fish",
+   "source_img": "https://mochf.org/wp-content/uploads/2023/09/licenseplate2.png"
+  }
+ ],
+ "complete": true,
+ "notes": "The DOR chart dated 10/09/2026 lists no plates added since 2023 beyond the six already in the game, so the list is complete. Neither picture is certain. The Bee Friendly image is the only plate-like image on the sponsor's (Missouri State Beekeepers) page, but it has no caption. The Bass image is the Conservation Heritage Foundation's combined picture of its bluebird, deer and bass plates, not the bass plate alone. DOR's plate previews are a JavaScript drop-down, so DOR has no image addresses I could read. I found no official or sponsor image for Army of Occupation Medal, Respiratory Therapist, Cars and Coffee (DOR's application describes it as an all-black plate with white 'CARS AND COFFEE FOUNDATION'), or Missouri Sheriffs Association."
+}
