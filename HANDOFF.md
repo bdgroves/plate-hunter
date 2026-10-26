@@ -13,7 +13,7 @@ brooksgroves.com/games.html; the story is `blog/plate-hunter-post.html` in `bdgr
 |---|---|
 | Classic game | US 50 + DC, Canada 13, Mexico 32, behind a USA / Canada / Mexico switch; one trip spans all three |
 | Specialty plates | **8,145** in 96 collections (51 US, 13 Canada, 32 Mexico) |
-| Official pictures | 7,956 (98%); the rest show a drawn stand-in with the plate's name |
+| Official pictures | 7,970 (98%); the rest show a drawn stand-in with the plate's name |
 | Checked | every US state against its agency's current catalog (five passes, Oct 2026: `research/since2023/`); Canada and Mexico researched from scratch (`research/canada/`, `research/mexico/`) |
 | Retired plates | stay in the game, marked "No longer sold, still on the road" |
 | Rarity | real tiers only in Washington (DOL counts); everywhere else every plate is 20 pts |
@@ -41,15 +41,26 @@ brooksgroves.com/games.html; the story is `blog/plate-hunter-post.html` in `bdgr
 ## Open items
 
 ### Small, any time
-- [ ] **Mexico pictures:** 53 of 63 Mexican designs have no picture. Most state sites block scripts or only
-  post crowd photos; Google showed a CAPTCHA in Brooks's Chrome after heavy searching (Oct 26). Oaxaca's
-  `img_url` (`canjedeplacas.oaxaca.gob.mx/images/placas.png`) needs the browser hand-in and a look (it also
-  shows a cropped transit plate; may need `img_crop`). Several Mexican start years are inferred from
-  re-plating news (notes in `research/mexico/<CODE>.json`).
-- [ ] **Canada everyday plates** still drawn: MB, NB, NL, NT, YT. Plus a few veteran/firefighter plates in the
-  small provinces and PEI's Retired Volunteer Firefighter.
-- [ ] **US leftovers:** 4 Colorado plates (agency shows only 4-up sheets), Maryland's 2 Gold Star plates (one
-  combined image), ~20 Maryland plates where MVA shows "Tag Coming Soon", a handful of Texas pre-orders.
+- [ ] **Mexico pictures:** 50 of 63 Mexican designs and 26 of 32 everyday plates still have no picture.
+  Oct 26 (second pass, three agents + Claude checking each photo): added Coahuila and Yucatán (everyday +
+  current), Jalisco 'Collage', Nuevo León World Cup. Looked at and **rejected** (don't re-propose):
+  Puebla (the only clean picture is a fake-plate warning poster), Veracruz (square-ish banner art),
+  Chiapas (tilted, cut off), BCS (ends cut off, string across), Zacatecas (paper covers the plate),
+  Michoacán (the small "car" plate in `unnamed-1-3.jpg` is the windshield sticker; the big ones are trucks).
+  Puebla's current everyday plate is the newer guinda "Gobierno de Puebla" design, not 2022 "Hacer historia";
+  the `current-design-2022` entry may need a new sibling entry. Oaxaca's `canjedeplacas.oaxaca.gob.mx` no
+  longer resolves (DNS gone), so its `img_url` will never download. Sites that refused (browser or GitHub):
+  Sonora, Tlaxcala, Tabasco, Edomex, Guerrero, Hidalgo, Nayarit, CDMX SEMOVI, Campeche. Several Mexican start
+  years are inferred from re-plating news (notes in `research/mexico/<CODE>.json`).
+- [ ] **Canada everyday plates** still drawn: MB, NB, NL, NT, YT; 14 Canadian specialty plates too (veteran,
+  firefighter, amateur radio, bilingual MB, NS search and rescue, PEI Retired Volunteer Firefighter). Oct 26:
+  MB, NB, NL, NWT, Yukon and AB/NWT Legion pages publish no plate pictures; Nova Scotia only shows the
+  retired versions. Likely needs a direct ask to the agencies.
+- [ ] **US leftovers:** Maryland's 21 "Tag Coming Soon" plates (MVA's list re-read in full Oct 26; DC United's
+  only image is Photobucket-watermarked, Bruce HS Alumni's shows the Brandywine plate) and Texas's Legion of
+  Valor Medal (My Plates shows a blank template; not in TxDMV's guides under that name). Colorado's 4, Maryland's
+  Gold Star pair and Texas's 3 Medal of Honor plates were done Oct 26 (TxDMV `Military-Plate-Guide.pdf` pages
+  14-15 have clean plate images: `pdfimages -j`).
 - [ ] Brooks's judgment (Oct 26): plates missing from a catalog but not proven retired **stay unretired**
   (TX Choose Life/Grambling/Panoramic/Lone Star, NC NASCAR drivers, KY Friends of Hemp/Cardinal, MS
   military qualification plates, PA possible duplicates). Listed under `retired_unsure` in the research files.
@@ -72,6 +83,10 @@ brooksgroves.com/games.html; the story is `blog/plate-hunter-post.html` in `bdgr
 - A robot run's first visit to a page sends every unrecognized picture to the waiting list (by design), so
   adding many pages at once floods issue #1. Expect that after adding pages; sort it for Brooks.
 - Counts in commit messages were wrong twice; compute them, don't estimate.
+- Claude's workspace can't reach agency sites. To look at originals before cropping (Oct 26), Claude used a
+  temporary branch `pic-staging` whose workflow downloads `staging/urls.json` and commits the files; then it
+  cropped locally and committed finished WebPs to main. The branch is still on GitHub (the proxy won't let
+  Claude delete it): delete it, or reuse it the same way.
 - `fetch_pictures.py` once hung for 30+ min; it now has a 25-min budget, 30 s timeouts and skips a host
   after 3 failures (so a blocked host's later pictures are simply tried next run).
 
