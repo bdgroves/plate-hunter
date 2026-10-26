@@ -1403,6 +1403,33 @@
    "added": "2026-10-26",
    "auto": true,
    "source": "https://www.scdmvonline.com/Vehicle-Owners/Registration/Plate-Gallery"
+  },
+  {
+   "id": "respiratory-therapy",
+   "name": "Respiratory Therapy",
+   "cat": "other",
+   "img": "respiratory-therapy.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.scdmvonline.com/Vehicle-Owners/Registration/Plate-Gallery"
+  },
+  {
+   "id": "spartanburg-community-college",
+   "name": "Spartanburg Community College",
+   "cat": "colleges",
+   "img": "spartanburg-community-college.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.scdmvonline.com/Vehicle-Owners/Registration/Plate-Gallery"
+  },
+  {
+   "id": "st-jude-children-s-research-hospital",
+   "name": "St. Jude Children's Research Hospital",
+   "cat": "charity",
+   "img": "st-jude-children-s-research-hospital.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.scdmvonline.com/Vehicle-Owners/Registration/Plate-Gallery"
   }
  ]
 }
