@@ -111,7 +111,7 @@
    "id": "oregon-zoo",
    "name": "Oregon Zoo",
    "cat": "nature",
-   "img": "oregon-zoo.webp",
+   "img": null,
    "year": "2025",
    "supports": "Oregon Zoo Foundation"
   },
