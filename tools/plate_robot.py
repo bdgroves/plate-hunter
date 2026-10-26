@@ -159,6 +159,15 @@ def dhash(im: Image.Image, n: int = 16) -> np.ndarray:
     return (a[:, 1:] > a[:, :-1]).flatten()
 
 
+STOP = {"plate", "plates", "license", "licence", "tag", "tags", "the", "of", "and", "a", "dmv", "special",
+        "specialty", "sample", "state", "vehicle", "new", "design", "for", "in", "&"}
+
+
+def words(name: str, state_name: str = "") -> set[str]:
+    drop = STOP | set(state_name.lower().split())
+    return {w for w in re.findall(r"[a-z0-9]+", name.lower()) if w not in drop and len(w) > 1}
+
+
 def plate_shaped(im: Image.Image) -> bool:
     w, h = im.size
     return w >= 110 and 1.45 <= w / max(h, 1) <= 2.9
@@ -185,6 +194,33 @@ class State:
 
     def known_elsewhere(self, h: np.ndarray) -> bool:
         return any(int((h != k).sum()) <= SAME for k in self.skipped)
+
+    def by_name(self, name: str) -> str | None:
+        """The plate already in the game that this name means, if any ('Endangered Wildlife Orca' -> orca)."""
+        want = words(name, self.doc["name"])
+        if not want:
+            return None
+        best, score = None, 0.0
+        for p in self.doc["plates"]:
+            have = words(p["name"], self.doc["name"])
+            if not have:
+                continue
+            j = len(want & have) / len(want | have)
+            if want == have or j > score:
+                best, score = p["id"], (1.0 if want == have else j)
+        return best if score >= 0.67 else None
+
+    def replace_picture(self, pid: str, im: Image.Image) -> None:
+        """A redesign: same plate (same id, so players keep their finds), current picture."""
+        p = next(x for x in self.doc["plates"] if x["id"] == pid)
+        im = im.convert("RGBA") if im.mode in ("P", "LA", "RGBA") else im.convert("RGB")
+        if im.width > 480:
+            im = im.resize((480, round(im.height * 480 / im.width)), Image.LANCZOS)
+        name = f"{pid}-{TODAY}.webp"            # a new file name, so phones don't keep the old picture
+        im.save(ROOT / "plates" / self.code / name, "WEBP", quality=82, method=6)
+        p["img"], p["redesigned"] = name, TODAY
+        self.hashes[pid] = dhash(im)
+        self.added.append({**p, "redesign": True})
 
     def match(self, h: np.ndarray) -> tuple[str | None, int]:
         best, dist = None, 999
@@ -246,7 +282,11 @@ def decide(text: str) -> list[str]:
             img = ROOT / "plates" / "_pending" / item["img"]
             snap_file = SNAP / f"{item['page']}.json"
             snap = json.loads(snap_file.read_text()) if snap_file.exists() else {"pictures": {}}
-            if verb == "add":
+            if verb == "add" and item.get("kind") == "redesign":
+                st = states.setdefault(item["state"], State(item["state"]))
+                st.replace_picture(item["target"], Image.open(img))
+                verdict, msg = f"plate:{item['target']}", f"🎨 new picture for `{item['target']}` in {item['state']}"
+            elif verb == "add":
                 st = states.setdefault(item["state"], State(item["state"]))
                 pid = st.add(Image.open(img), rename or item["name"], item["source"])
                 verdict, msg = f"new:{pid}", f"✅ added **{rename or item['name']}** to {item['state']}"
@@ -301,6 +341,9 @@ def visit(page: dict, state: State, max_new: int, status: dict, report: list[str
         else:
             todo.append((path, pic))
 
+    # On the first look at a page, everything unmatched goes to a person: that's when old
+    # picture differences pile up. After that, a picture that appears is almost always a new plate.
+    first_scan = not any("verdict" in v for v in old.values())
     candidates = []
     for path, pic in todo:
         try:
@@ -334,11 +377,18 @@ def visit(page: dict, state: State, max_new: int, status: dict, report: list[str
         candidates = candidates[:40]
     for path, pic, im in candidates:
         name, near = plate_name(pic), platelike(dhash(im))
-        if not flood and near <= PLATELIKE and not name.startswith("New plate"):
+        same = state.by_name(name)
+        if same and im.width < 240:
+            # the plate we have, shown small or in a slightly different picture: nothing to do
+            pics[path] = {**pic, "verdict": f"plate:{same}"}
+            continue
+        sure = (not flood and not first_scan and not same and near <= PLATELIKE
+                and im.width >= 200 and not name.startswith("New plate"))
+        if sure:
             pid = state.add(im, name, url)
             pics[path] = {**pic, "verdict": f"new:{pid}"}
             added_here.append(pid)
-        else:                              # not sure it's a plate: ask a person
+        else:                              # a first look at this page, a redesign, or not sure: ask a person
             key = f"{state.code}-{slug(name)}"
             while key in pending:
                 key += "-x"
@@ -348,6 +398,7 @@ def visit(page: dict, state: State, max_new: int, status: dict, report: list[str
             small.thumbnail((480, 480))
             small.save(img, "WEBP", quality=80)
             pending[key] = {"state": state.code, "name": name, "cat": category(name), "img": img.name,
+                            "kind": "redesign" if same else "new", "target": same,
                             "source": url, "page": page["code"], "picture": path, "likeness": near, "found": TODAY}
             pics[path] = {**pic, "verdict": f"pending:{key}"}
             NEW_PENDING.append(key)
@@ -420,15 +471,20 @@ def main() -> int:
                       "The robot found these on the agencies' pages and added them with a NEW badge. "
                       "Names and categories are its best guess: fix anything off in `data/<STATE>.json` "
                       "(or delete a plate that isn't one).", ""]
-            lines += [f"- **{st}** · {p['name']} · {p['cat']}  \n  <img src=\"{repo}/plates/{st}/{p['img']}\" width=\"240\">  \n  [page]({p['source']})"
+            lines += [f"- **{st}** · {p['name']} · {p['cat']}" + (" (new picture)" if p.get("redesign") else "")
+                      + f"  \n  <img src=\"{repo}/plates/{st}/{p['img']}\" width=\"180\"> [page]({p.get('source', '')})"
                       for st, p in added]
         waiting = load_pending()
         if waiting:
             lines += ["", f"## 🤔 {len(waiting)} picture(s) the robot isn't sure about", "",
                       "Reply to this issue with one line per decision: `/add KEY`, `/add KEY as Better Name`, "
                       "`/skip KEY`, or `/add all` / `/skip all`.", ""]
-            lines += [f"- `{k}` · {v['name']}  \n  <img src=\"{repo}/plates/_pending/{v['img']}\" width=\"240\">  \n  [page]({v['source']})"
-                      for k, v in waiting.items()]
+            shown = list(waiting.items())[:80]
+            lines += [f"- `{k}` · " + (f"🎨 redesign of `{v['target']}`?" if v.get("kind") == "redesign" else f"🆕 {v['name']}")
+                      + f"  \n  <img src=\"{repo}/plates/_pending/{v['img']}\" width=\"180\"> [page]({v['source']})"
+                      for k, v in shown]
+            if len(waiting) > len(shown):
+                lines.append(f"\n…and {len(waiting) - len(shown)} more in `data/pending.json`.")
         if report:
             lines += ["", "## Notes", "", *report]
         broken = [f"- {k}: {v.get('error')}" for k, v in status.items() if not v.get("ok") and k in {p['code'] for p in pages}]
