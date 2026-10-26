@@ -1,0 +1,76 @@
+{
+ "code": "AB",
+ "name": "Alberta",
+ "rated": false,
+ "plates": [
+  {
+   "id": "alberta-conservation-plate",
+   "name": "Alberta Conservation Plate",
+   "cat": "nature",
+   "img": null,
+   "img_url": "https://eservices.alberta.ca/media/catalog/product/c/o/conservation_plate_new_image_1_1.png",
+   "supports": "Alberta Conservation Association",
+   "fact": "The design shows Mount Lougheed and Rocky Mountain bighorn sheep, Alberta's official provincial mammal.",
+   "source": "https://eservices.alberta.ca/conservation-plate.html"
+  },
+  {
+   "id": "edmonton-oilers-licence-plate",
+   "name": "Edmonton Oilers Licence Plate",
+   "cat": "sports",
+   "img": null,
+   "img_url": "https://eservices.alberta.ca/media/catalog/product/e/d/edmonton_oilers_small.jpg",
+   "year": "2018",
+   "supports": "Edmonton Oilers Community Foundation",
+   "fact": "Proceeds help fund health, wellness, education and minor hockey programs for youth in northern Alberta.",
+   "source": "https://eservices.alberta.ca/edm-oilers-plate.html"
+  },
+  {
+   "id": "calgary-flames-licence-plate",
+   "name": "Calgary Flames Licence Plate",
+   "cat": "sports",
+   "img": null,
+   "img_url": "https://eservices.alberta.ca/media/catalog/product/c/a/calgary_flames_small.jpg",
+   "year": "2018",
+   "supports": "Calgary Flames Foundation",
+   "fact": "The plate features the Flames' colours, logo and slogan.",
+   "source": "https://eservices.alberta.ca/calgary-flames-plate.html"
+  },
+  {
+   "id": "support-our-troops-licence-plate",
+   "name": "Support our Troops Licence Plate",
+   "cat": "military",
+   "img": null,
+   "img_url": "https://eservices.alberta.ca/media/catalog/product/s/o/sot_plate_small.jpg",
+   "supports": "Support our Troops program (Canadian Forces Morale and Welfare Services)",
+   "fact": "Its artwork honours the first four Alberta-based Canadian soldiers killed in Afghanistan in April 2002, and anyone can order it.",
+   "source": "https://eservices.alberta.ca/support-our-troops-plate.html"
+  },
+  {
+   "id": "veterans-licence-plate",
+   "name": "Veterans licence plate",
+   "cat": "veterans",
+   "img": null,
+   "year": "2005",
+   "fact": "Applicants must be approved by the Royal Canadian Legion, Alberta/NWT Command.",
+   "source": "https://www.alberta.ca/licence-plates"
+  },
+  {
+   "id": "amateur-radio-operator-ham-licence-plate",
+   "name": "Amateur Radio Operator (HAM) licence plate",
+   "cat": "hobby",
+   "img": null,
+   "fact": "Available to Albertans who hold an Amateur Radio Operator Certificate.",
+   "source": "https://www.alberta.ca/licence-plates"
+  }
+ ],
+ "updated": "2026-10-26",
+ "checked": true,
+ "checked_on": "2026-10-26",
+ "about": "Alberta special-design plates, from the province's own list on 2026-10-26. Not rated yet: every plate is worth the same.",
+ "sources": [
+  {
+   "title": "Provincial and territorial licensing agencies, and the plates' sponsors",
+   "url": "https://eservices.alberta.ca/specialty-plates"
+  }
+ ]
+}

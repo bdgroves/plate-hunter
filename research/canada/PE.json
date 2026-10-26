@@ -1,0 +1,112 @@
+{
+ "code": "PE",
+ "name": "Prince Edward Island",
+ "standard": {
+  "source_img": null,
+  "note": "PEI refreshed its plate in late 2022 with a simple, high-visibility design as it moved to 6-digit numbers, and added a distinct plate for electric vehicles."
+ },
+ "robot_url": "https://www.princeedwardisland.ca/en/news/province-unveils-new-license-plates",
+ "complete": false,
+ "plates": [
+  {
+   "title": "Canada's Food Island",
+   "cat": "charity",
+   "source_img": null,
+   "year": "2022",
+   "supports": "Island Food Banks (all proceeds, $10 surcharge)",
+   "fact": "Every dollar of the extra fee goes to Island food banks.",
+   "source": "https://www.princeedwardisland.ca/en/news/province-unveils-new-license-plates"
+  },
+  {
+   "title": "Wildlife Conservation - Red Fox",
+   "cat": "nature",
+   "source_img": null,
+   "year": "2013",
+   "supports": "Wildlife Conservation Fund ($10)",
+   "fact": "The red fox was the most popular conservation plate in 2015, with over 5,500 registered.",
+   "source": "https://archivenews.princeedwardisland.ca/thousands-support-wildlife-through-conservation-plates"
+  },
+  {
+   "title": "Wildlife Conservation - Blue Jay",
+   "cat": "nature",
+   "source_img": null,
+   "year": "2013",
+   "supports": "Wildlife Conservation Fund ($10)",
+   "fact": "The blue jay is PEI's provincial bird.",
+   "source": "https://archivenews.princeedwardisland.ca/thousands-support-wildlife-through-conservation-plates"
+  },
+  {
+   "title": "Wildlife Conservation - Canada Goose",
+   "cat": "nature",
+   "source_img": null,
+   "year": "2013",
+   "supports": "Wildlife Conservation Fund ($10)",
+   "fact": null,
+   "source": "https://archivenews.princeedwardisland.ca/thousands-support-wildlife-through-conservation-plates"
+  },
+  {
+   "title": "Wildlife Conservation - Speckled Trout",
+   "cat": "nature",
+   "source_img": null,
+   "year": "2013",
+   "supports": "Wildlife Conservation Fund ($10)",
+   "fact": null,
+   "source": "https://archivenews.princeedwardisland.ca/thousands-support-wildlife-through-conservation-plates"
+  },
+  {
+   "title": "Wildlife Conservation - Lady's Slipper",
+   "cat": "nature",
+   "source_img": null,
+   "year": "2013",
+   "supports": "Wildlife Conservation Fund ($10)",
+   "fact": "The lady's slipper is PEI's provincial flower.",
+   "source": "https://archivenews.princeedwardisland.ca/thousands-support-wildlife-through-conservation-plates"
+  },
+  {
+   "title": "Electric Vehicle",
+   "cat": "vehicle",
+   "source_img": null,
+   "year": "2022",
+   "supports": null,
+   "fact": "PEI's first plate just for electric vehicles arrived with the 2022 redesign.",
+   "source": "https://www.princeedwardisland.ca/en/news/province-unveils-new-license-plates"
+  },
+  {
+   "title": "Veteran License Plate",
+   "cat": "veterans",
+   "source_img": null,
+   "year": null,
+   "supports": null,
+   "fact": null,
+   "source": "https://www.princeedwardisland.ca/en/information/transportation-and-infrastructure/veteran-license-plate-registration"
+  },
+  {
+   "title": "Volunteer Firefighter",
+   "cat": "firstresponder",
+   "source_img": null,
+   "year": null,
+   "supports": null,
+   "fact": "Active volunteer firefighters register their vehicle free.",
+   "source": "https://www.princeedwardisland.ca/en/information/transportation-and-infrastructure/volunteer-firefighter-vehicle-registration"
+  },
+  {
+   "title": "Retired Volunteer Firefighter",
+   "cat": "firstresponder",
+   "source_img": null,
+   "year": null,
+   "supports": null,
+   "fact": "For retired volunteers with at least 15 years of active service.",
+   "source": "https://www.princeedwardisland.ca/en/information/transportation-and-infrastructure/retired-volunteer-firefighter-drivers-license-and"
+  },
+  {
+   "title": "Paramedic License Plate",
+   "cat": "firstresponder",
+   "source_img": null,
+   "year": "2024",
+   "supports": "Developed with the Paramedic Association of PEI",
+   "fact": "Available in English and French, it shows a red maple leaf and the Star of Life.",
+   "source": "https://www.princeedwardisland.ca/en/information/transportation-and-infrastructure/paramedic-license-plate"
+  }
+ ],
+ "notes": "princeedwardisland.ca threw a Radware bot CAPTCHA in the browser (not attempted); pages were read with WebFetch only, and none has a plate picture. The only official image is a 3-plate composite in the Nov 2022 release (sites/default/files/images/news/1035x488_3_plates.jpg), not usable as a single plate. No single PEI page lists all specialty plates, so robot_url is the 2022 plate release; complete=false. The five conservation designs are from 2013-2016 sources. The 2022 release says conservation plates 'remain available in the new design' but does not say whether all five continue. The retired-firefighter page URL was seen in WebFetch link output only. EV plate included as 'vehicle'; drop it if EV plates count as a vehicle class rather than a specialty."
+}

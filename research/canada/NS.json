@@ -1,0 +1,112 @@
+{
+ "code": "NS",
+ "name": "Nova Scotia",
+ "standard": {
+  "source_img": "https://novascotia.ca/sns/img/ans-driver-new-plate.png",
+  "note": "Nova Scotia's everyday plate was recently redesigned for visibility: the painted border and left sticker well are gone and every plate type now uses a single font."
+ },
+ "robot_url": "https://data.novascotia.ca/resource/78vj-k5bf.json",
+ "complete": true,
+ "plates": [
+  {
+   "title": "Acadian Flag Plate",
+   "cat": "other",
+   "source_img": "https://novascotia.ca/sns/img/ans-drivers-acadian-flag-licence-plate-bg.png",
+   "year": null,
+   "supports": "Vive l'Acadie Community Fund ($50 donation)",
+   "fact": "It shows the Acadian flag with 'Nova Scotia, Nouvelle-Écosse' across the top, and over 2,000 are on the road.",
+   "source": "https://novascotia.ca/sns/access/drivers/acadian-flag-licence-plate.asp"
+  },
+  {
+   "title": "Gaelic Plate",
+   "cat": "other",
+   "source_img": "https://novascotia.ca/sns/img/ans-drivers-gaelic-symbol-plate-lg.png",
+   "year": null,
+   "supports": "Gàidheil Air Adhart (Gaels Forward) Special Purpose Fund ($50 donation)",
+   "fact": "It carries the symbol of the Gaels in Nova Scotia and the words ALBA NUADH, Gaelic for Nova Scotia.",
+   "source": "https://novascotia.ca/sns/access/drivers/gaelic-symbol-licence-plate.asp"
+  },
+  {
+   "title": "Mi'kmaq Plate",
+   "cat": "tribal",
+   "source_img": "https://novascotia.ca/sns/img/mikmaw-drivers-gaelic-symbol-plate-lg.png",
+   "year": null,
+   "supports": "Mi'kmaw Youth Special Purpose Fund ($24 donation)",
+   "fact": "It features a Mi'kmaw petroglyph and the words 'MI'KMA'KI Land of the Mi'kmaq'.",
+   "source": "https://novascotia.ca/sns/access/drivers/mikmaw-symbol-licence-plate.asp"
+  },
+  {
+   "title": "Buy Local Plate",
+   "cat": "charity",
+   "source_img": "https://novascotia.ca/sns/img/ans-drivers-buy-local-licence-plate-bg.png",
+   "year": null,
+   "supports": "Community-based groups promoting Nova Scotia agriculture and seafood (Dept. of Agriculture partnership)",
+   "fact": "It cheers on Nova Scotia's own farm and seafood products.",
+   "source": "https://novascotia.ca/sns/access/drivers/buy-local-licence-plate.asp"
+  },
+  {
+   "title": "Conservation",
+   "cat": "nature",
+   "source_img": "https://novascotia.ca/sns/images/rmv/conservationplate.gif",
+   "year": null,
+   "supports": "Species at Risk Conservation Fund ($60.50 donation)",
+   "fact": "It's the province's most popular charity plate, with more than 6,000 on the road.",
+   "source": "https://novascotia.ca/sns/rmv/registration/conservationplate.asp"
+  },
+  {
+   "title": "Veteran",
+   "cat": "veterans",
+   "source_img": "https://novascotia.ca/sns/images/rmv/vet-plate.gif",
+   "year": "2002",
+   "supports": null,
+   "fact": "Nova Scotia was the first province to issue a government veterans' plate, in 2002.",
+   "source": "https://novascotia.ca/sns/rmv/registration/vet-plate.asp"
+  },
+  {
+   "title": "Volunteer FireFighter",
+   "cat": "firstresponder",
+   "source_img": null,
+   "year": null,
+   "supports": null,
+   "fact": null,
+   "source": "https://data.novascotia.ca/resource/78vj-k5bf.json"
+  },
+  {
+   "title": "FireFighter",
+   "cat": "firstresponder",
+   "source_img": null,
+   "year": null,
+   "supports": null,
+   "fact": null,
+   "source": "https://data.novascotia.ca/resource/78vj-k5bf.json"
+  },
+  {
+   "title": "Retired Volunteer Firefighter",
+   "cat": "firstresponder",
+   "source_img": "https://novascotia.ca/sns/img/Retired-Volunteer-Firefighter-plate.png",
+   "year": "2021",
+   "supports": null,
+   "fact": "Retired volunteer firefighters get this plate with no renewal cost.",
+   "source": "https://novascotia.ca/sns/access/drivers/retired-volunteer-firefighter-licence-plate.asp"
+  },
+  {
+   "title": "Search and Rescue",
+   "cat": "firstresponder",
+   "source_img": null,
+   "year": null,
+   "supports": null,
+   "fact": null,
+   "source": "https://data.novascotia.ca/resource/78vj-k5bf.json"
+  },
+  {
+   "title": "Retired Ground Search and Rescue",
+   "cat": "firstresponder",
+   "source_img": "https://novascotia.ca/sns/img/retired-volunteer-ground-search-rescue-licence-plate.png",
+   "year": "2021",
+   "supports": null,
+   "fact": null,
+   "source": "https://novascotia.ca/sns/access/drivers/retired-volunteer-ground-search-rescue-licence-plate.asp"
+  }
+ ],
+ "notes": "Full list comes from Nova Scotia's open-data 'Specialty Plates' dataset (data.novascotia.ca 78vj-k5bf, latest snapshot 2026-07-14, counts of active plates per type), which is also the best robot_url: it is JSON and lists every type, but has no pictures. There is no single RMV page that lists all specialty plates with pictures; individual pages are under novascotia.ca/sns/access/drivers/ and /sns/rmv/registration/. 'Veterans Motorcycle Plate' omitted (motorcycle). No official pictures found for the active Volunteer FireFighter, FireFighter and Search and Rescue plates. Veteran/conservation GIFs are small (200 and 300px wide). Retired-volunteer plates' 2021 year is from a Feb 2021 news release title ('New licence plate honours retired volunteers'), not read in full."
+}

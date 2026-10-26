@@ -1,0 +1,22 @@
+{
+ "code": "NT",
+ "name": "Northwest Territories",
+ "standard": {
+  "source_img": null,
+  "note": "The NWT's famous polar-bear-shaped plate dates to 1970, when Commissioner Stuart Hodgson designed it for the territory's centennial, and it still fits the standard 6-by-12-inch plate size."
+ },
+ "robot_url": "https://www.idmv.inf.gov.nt.ca/Vehicles/Licence-Plate",
+ "complete": true,
+ "plates": [
+  {
+   "title": "Veteran licence plate",
+   "cat": "veterans",
+   "source_img": null,
+   "year": null,
+   "supports": "Certified by the Royal Canadian Legion (Alberta-NWT Command)",
+   "fact": null,
+   "source": "https://www.idmv.inf.gov.nt.ca/Vehicles/Licence-Plate/Order-a-veteran-licence-plate"
+  }
+ ],
+ "notes": "The GNWT DMV licence-plate section lists only: replace, veteran, personalized and construction. So the veteran plate is the only specialty passenger plate ($36, available in person only). No plate pictures on idmv.inf.gov.nt.ca. Polar bear facts are from NWT Tourism's spectacularnwt.com story. The candidate standard image there (specnwt.s3.ca-central-1.amazonaws.com/.../NWT-License-Plate-NWTT_0.png, 845x614, ratio 1.38) is the tourism agency's image of a souvenir plate, not the registry's, so it was left null. Other facts from that story: a 1973 RCMP centennial version; 1984 mini bear plates for motorcycles; 1986 'Explore Canada's Arctic' blue-on-white."
+}

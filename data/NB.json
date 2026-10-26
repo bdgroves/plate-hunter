@@ -1,0 +1,35 @@
+{
+ "code": "NB",
+ "name": "New Brunswick",
+ "rated": false,
+ "plates": [
+  {
+   "id": "veteran-licence-plate",
+   "name": "Veteran licence plate",
+   "cat": "veterans",
+   "img": null,
+   "year": "2003",
+   "supports": "Issued with the New Brunswick Command of the Royal Canadian Legion",
+   "fact": "First introduced in November 2003, it carries the Legion's poppy, used with the National Command's permission. In July 2026 the province said it will modernize the design for the Legion's 100th anniversary.",
+   "source": "https://nb.legion.ca/veterans/veterans-license-plate/"
+  },
+  {
+   "id": "firefighter-licence-plate",
+   "name": "Firefighter licence plate",
+   "cat": "firstresponder",
+   "img": null,
+   "fact": "It's free for volunteer firefighters named on the NB Association of Fire Chiefs list.",
+   "source": "https://www.gnb.ca/en/topic/driving-transportation/registration-inspection/firefighter-plate.html"
+  }
+ ],
+ "updated": "2026-10-26",
+ "checked": false,
+ "checked_on": "2026-10-26",
+ "about": "New Brunswick special-design plates, from the province's own list on 2026-10-26. Not rated yet: every plate is worth the same.",
+ "sources": [
+  {
+   "title": "Provincial and territorial licensing agencies, and the plates' sponsors",
+   "url": "https://www.gnb.ca/en/topic/driving-transportation/registration-inspection.html"
+  }
+ ]
+}

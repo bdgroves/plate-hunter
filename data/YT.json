@@ -1,0 +1,25 @@
+{
+ "code": "YT",
+ "name": "Yukon",
+ "rated": false,
+ "plates": [
+  {
+   "id": "veteran-plate",
+   "name": "Veteran plate",
+   "cat": "veterans",
+   "img": null,
+   "supports": "Eligibility confirmed by the local Royal Canadian Legion branch",
+   "source": "https://yukon.ca/en/veteran-plate-eligibility-application"
+  }
+ ],
+ "updated": "2026-10-26",
+ "checked": true,
+ "checked_on": "2026-10-26",
+ "about": "Yukon special-design plates, from the territory's own list on 2026-10-26. Not rated yet: every plate is worth the same.",
+ "sources": [
+  {
+   "title": "Provincial and territorial licensing agencies, and the plates' sponsors",
+   "url": "https://yukon.ca/en/driving-and-transportation/vehicle-registration"
+  }
+ ]
+}

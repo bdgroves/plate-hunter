@@ -406,5 +406,113 @@
   "count": 36,
   "rated": false,
   "checked": true
+ },
+ {
+  "code": "AB",
+  "name": "Alberta",
+  "file": "data/AB.json",
+  "count": 6,
+  "rated": false,
+  "checked": true,
+  "country": "CA"
+ },
+ {
+  "code": "BC",
+  "name": "British Columbia",
+  "file": "data/BC.json",
+  "count": 6,
+  "rated": false,
+  "checked": true,
+  "country": "CA"
+ },
+ {
+  "code": "MB",
+  "name": "Manitoba",
+  "file": "data/MB.json",
+  "count": 20,
+  "rated": false,
+  "checked": true,
+  "country": "CA"
+ },
+ {
+  "code": "NB",
+  "name": "New Brunswick",
+  "file": "data/NB.json",
+  "count": 2,
+  "rated": false,
+  "checked": false,
+  "country": "CA"
+ },
+ {
+  "code": "NL",
+  "name": "Newfoundland and Labrador",
+  "file": "data/NL.json",
+  "count": 2,
+  "rated": false,
+  "checked": true,
+  "country": "CA"
+ },
+ {
+  "code": "NT",
+  "name": "Northwest Territories",
+  "file": "data/NT.json",
+  "count": 1,
+  "rated": false,
+  "checked": true,
+  "country": "CA"
+ },
+ {
+  "code": "NS",
+  "name": "Nova Scotia",
+  "file": "data/NS.json",
+  "count": 11,
+  "rated": false,
+  "checked": true,
+  "country": "CA"
+ },
+ {
+  "code": "ON",
+  "name": "Ontario",
+  "file": "data/ON.json",
+  "count": 69,
+  "rated": false,
+  "checked": true,
+  "country": "CA"
+ },
+ {
+  "code": "PE",
+  "name": "Prince Edward Island",
+  "file": "data/PE.json",
+  "count": 11,
+  "rated": false,
+  "checked": false,
+  "country": "CA"
+ },
+ {
+  "code": "QC",
+  "name": "Quebec",
+  "file": "data/QC.json",
+  "count": 2,
+  "rated": false,
+  "checked": true,
+  "country": "CA"
+ },
+ {
+  "code": "SK",
+  "name": "Saskatchewan",
+  "file": "data/SK.json",
+  "count": 7,
+  "rated": false,
+  "checked": true,
+  "country": "CA"
+ },
+ {
+  "code": "YT",
+  "name": "Yukon",
+  "file": "data/YT.json",
+  "count": 1,
+  "rated": false,
+  "checked": true,
+  "country": "CA"
  }
 ]

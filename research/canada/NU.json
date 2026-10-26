@@ -1,0 +1,12 @@
+{
+ "code": "NU",
+ "name": "Nunavut",
+ "standard": {
+  "source_img": null,
+  "note": "In 2025 Nunavut brought back a polar-bear-shaped plate, inspired by the territory's 25th anniversary, and began issuing it in September 2025."
+ },
+ "robot_url": "https://www.gov.nu.ca/en/service-nunavut/private-vehicle-registration-nunavut",
+ "complete": false,
+ "plates": [],
+ "notes": "No specialty passenger plates found on gov.nu.ca: the private vehicle registration page and both 2025 plate releases (May 26 unveiling; Sept 11 'now available') mention none, and give a Motor Vehicle Services contact instead. gov.nu.ca shows a Cloudflare bot check in the browser, so I read it with WebFetch only. The May 2025 release has an image, gov.nu.ca/sites/default/files/images/2025-05/Picture1.jpg, which is probably the new plate. I couldn't confirm its size or that it loads without Cloudflare, so it is left null; check it by hand. complete=false because no plate-type list exists to confirm against."
+}

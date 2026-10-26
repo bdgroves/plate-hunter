@@ -1,0 +1,117 @@
+{
+ "code": "PE",
+ "name": "Prince Edward Island",
+ "rated": false,
+ "plates": [
+  {
+   "id": "canada-s-food-island",
+   "name": "Canada's Food Island",
+   "cat": "charity",
+   "img": null,
+   "year": "2022",
+   "supports": "Island Food Banks (all proceeds, $10 surcharge)",
+   "fact": "Every dollar of the extra fee goes to Island food banks.",
+   "source": "https://www.princeedwardisland.ca/en/news/province-unveils-new-license-plates"
+  },
+  {
+   "id": "wildlife-conservation-red-fox",
+   "name": "Wildlife Conservation - Red Fox",
+   "cat": "nature",
+   "img": null,
+   "year": "2013",
+   "supports": "Wildlife Conservation Fund ($10)",
+   "fact": "The red fox was the most popular conservation plate in 2015, with over 5,500 registered.",
+   "source": "https://archivenews.princeedwardisland.ca/thousands-support-wildlife-through-conservation-plates"
+  },
+  {
+   "id": "wildlife-conservation-blue-jay",
+   "name": "Wildlife Conservation - Blue Jay",
+   "cat": "nature",
+   "img": null,
+   "year": "2013",
+   "supports": "Wildlife Conservation Fund ($10)",
+   "fact": "The blue jay is PEI's provincial bird.",
+   "source": "https://archivenews.princeedwardisland.ca/thousands-support-wildlife-through-conservation-plates"
+  },
+  {
+   "id": "wildlife-conservation-canada-goose",
+   "name": "Wildlife Conservation - Canada Goose",
+   "cat": "nature",
+   "img": null,
+   "year": "2013",
+   "supports": "Wildlife Conservation Fund ($10)",
+   "source": "https://archivenews.princeedwardisland.ca/thousands-support-wildlife-through-conservation-plates"
+  },
+  {
+   "id": "wildlife-conservation-speckled-trout",
+   "name": "Wildlife Conservation - Speckled Trout",
+   "cat": "nature",
+   "img": null,
+   "year": "2013",
+   "supports": "Wildlife Conservation Fund ($10)",
+   "source": "https://archivenews.princeedwardisland.ca/thousands-support-wildlife-through-conservation-plates"
+  },
+  {
+   "id": "wildlife-conservation-lady-s-slipper",
+   "name": "Wildlife Conservation - Lady's Slipper",
+   "cat": "nature",
+   "img": null,
+   "year": "2013",
+   "supports": "Wildlife Conservation Fund ($10)",
+   "fact": "The lady's slipper is PEI's provincial flower.",
+   "source": "https://archivenews.princeedwardisland.ca/thousands-support-wildlife-through-conservation-plates"
+  },
+  {
+   "id": "electric-vehicle",
+   "name": "Electric Vehicle",
+   "cat": "vehicle",
+   "img": null,
+   "year": "2022",
+   "fact": "PEI's first plate just for electric vehicles arrived with the 2022 redesign.",
+   "source": "https://www.princeedwardisland.ca/en/news/province-unveils-new-license-plates"
+  },
+  {
+   "id": "veteran-license-plate",
+   "name": "Veteran License Plate",
+   "cat": "veterans",
+   "img": null,
+   "source": "https://www.princeedwardisland.ca/en/information/transportation-and-infrastructure/veteran-license-plate-registration"
+  },
+  {
+   "id": "volunteer-firefighter",
+   "name": "Volunteer Firefighter",
+   "cat": "firstresponder",
+   "img": null,
+   "fact": "Active volunteer firefighters register their vehicle free.",
+   "source": "https://www.princeedwardisland.ca/en/information/transportation-and-infrastructure/volunteer-firefighter-vehicle-registration"
+  },
+  {
+   "id": "retired-volunteer-firefighter",
+   "name": "Retired Volunteer Firefighter",
+   "cat": "firstresponder",
+   "img": null,
+   "fact": "For retired volunteers with at least 15 years of active service.",
+   "source": "https://www.princeedwardisland.ca/en/information/transportation-and-infrastructure/retired-volunteer-firefighter-drivers-license-and"
+  },
+  {
+   "id": "paramedic-license-plate",
+   "name": "Paramedic License Plate",
+   "cat": "firstresponder",
+   "img": null,
+   "year": "2024",
+   "supports": "Developed with the Paramedic Association of PEI",
+   "fact": "Available in English and French, it shows a red maple leaf and the Star of Life.",
+   "source": "https://www.princeedwardisland.ca/en/information/transportation-and-infrastructure/paramedic-license-plate"
+  }
+ ],
+ "updated": "2026-10-26",
+ "checked": false,
+ "checked_on": "2026-10-26",
+ "about": "Prince Edward Island special-design plates, from the province's own list on 2026-10-26. Not rated yet: every plate is worth the same.",
+ "sources": [
+  {
+   "title": "Provincial and territorial licensing agencies, and the plates' sponsors",
+   "url": "https://www.princeedwardisland.ca/en/news/province-unveils-new-license-plates"
+  }
+ ]
+}

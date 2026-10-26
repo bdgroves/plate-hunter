@@ -1,0 +1,634 @@
+{
+ "code": "ON",
+ "name": "Ontario",
+ "standard": {
+  "source_img": null,
+  "note": "Ontario's everyday plate is white with blue lettering, a crown, and the slogan \"Yours to Discover\"; a short-lived blue \"A Place to Grow\" design was dropped in 2020."
+ },
+ "robot_url": "https://www.ontario.ca/page/choose-licence-plate-graphic",
+ "complete": true,
+ "plates": [
+  {
+   "title": "Ontario Square and Round Dance Federation",
+   "cat": "hobby",
+   "source_img": "https://ontario.ca/files/2026-03/ontario_square_and_round_dance_english_web_ready_300dpi.png",
+   "year": null,
+   "supports": "Ontario Square and Round Dance Federation",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Breast Cancer Society of Canada",
+   "cat": "charity",
+   "source_img": "https://ontario.ca/files/2026-03/breast_cancer_society_english_web_ready_300dpi.png",
+   "year": null,
+   "supports": "Breast Cancer Society of Canada",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Canadian Tire Jumpstart Charities",
+   "cat": "charity",
+   "source_img": "https://ontario.ca/files/2026-03/canadian_tire_jumpstart_english_web_ready_300dpi.png",
+   "year": null,
+   "supports": "Canadian Tire Jumpstart Charities",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Farley Foundation",
+   "cat": "charity",
+   "source_img": "https://ontario.ca/files/2026-03/farley_foundation_english_web_ready_300dpi.png",
+   "year": null,
+   "supports": "Farley Foundation",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Kinsmen Club of Goderich",
+   "cat": "charity",
+   "source_img": "https://ontario.ca/files/2026-03/kinsmen_club_english_web_ready_300dpi.png",
+   "year": null,
+   "supports": "Kinsmen Club of Goderich",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "MADD Canada (Mothers Against Drunk Driving)",
+   "cat": "charity",
+   "source_img": "https://ontario.ca/files/2026-03/madd_english_web_ready_300dpi.png",
+   "year": null,
+   "supports": "MADD Canada (Mothers Against Drunk Driving)",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "St. John Ambulance",
+   "cat": "charity",
+   "source_img": "https://ontario.ca/files/2026-03/st_john_ambulance_english_web_ready_300dpi.png",
+   "year": null,
+   "supports": "St. John Ambulance",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "48th Highlanders",
+   "cat": "military",
+   "source_img": "https://ontario.ca/files/2026-03/48th_highlanders_english_web_ready_300dpi.png",
+   "year": null,
+   "supports": "48th Highlanders",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Army Cadet League of Canada (Ontario)",
+   "cat": "military",
+   "source_img": "https://ontario.ca/files/2026-03/army_cadet_english_web_ready_300dpi.png",
+   "year": null,
+   "supports": "Army Cadet League of Canada (Ontario)",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Association of Canadian Distillers",
+   "cat": "other",
+   "source_img": "https://ontario.ca/files/2026-03/canadian_distillers_english_web_ready_300dpi.png",
+   "year": null,
+   "supports": "Association of Canadian Distillers",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Canadian Blood Services",
+   "cat": "charity",
+   "source_img": "https://ontario.ca/files/2026-03/cdn_bloodservices_english.png",
+   "year": null,
+   "supports": "Canadian Blood Services",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Elmer the Safety Elephant",
+   "cat": "charity",
+   "source_img": "https://ontario.ca/files/2026-03/elmer_english_002.png",
+   "year": null,
+   "supports": "Elmer the Safety Elephant",
+   "fact": "Elmer has been teaching Canadian kids traffic safety since 1947.",
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Girl Guides of Canada",
+   "cat": "other",
+   "source_img": "https://ontario.ca/files/2026-03/girls_guides_of_canada_english_web_ready_300dpi.png",
+   "year": null,
+   "supports": "Girl Guides of Canada",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Governor General’s Horse Guards Association",
+   "cat": "military",
+   "source_img": "https://ontario.ca/files/2026-03/governor_generals_horse_english_web_ready_300dpi.png",
+   "year": null,
+   "supports": "Governor General’s Horse Guards Association",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Grand Lodge A.F. & A.M. of Canada",
+   "cat": "other",
+   "source_img": "https://ontario.ca/files/2026-03/grand_lodge_english_web_ready_300dpi.png",
+   "year": null,
+   "supports": "Grand Lodge A.F. & A.M. of Canada",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Grand Lodge of Ontario, Independent Order of Odd Fellows",
+   "cat": "other",
+   "source_img": "https://ontario.ca/files/2026-03/grand_lodge_independent_order_english_web_ready_300dpi.png",
+   "year": null,
+   "supports": "Grand Lodge of Ontario, Independent Order of Odd Fellows",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Knights of Columbus",
+   "cat": "other",
+   "source_img": "https://ontario.ca/files/2026-03/knights_of_columbus_english_web_ready_300dpi.png",
+   "year": null,
+   "supports": "Knights of Columbus",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Lincoln and Welland Regiment Foundation",
+   "cat": "military",
+   "source_img": "https://ontario.ca/files/2026-03/lincoln_and_welland_regiment_english_web_ready_300dpi.png",
+   "year": null,
+   "supports": "Lincoln and Welland Regiment Foundation",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Ottawa Valley Adventure Playground",
+   "cat": "charity",
+   "source_img": "https://ontario.ca/files/2026-03/ottawa_valley_english_web_ready_300dpi.png",
+   "year": null,
+   "supports": "Ottawa Valley Adventure Playground",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Queens Own Rifles of Canada",
+   "cat": "military",
+   "source_img": "https://ontario.ca/files/2026-03/queens_own_rifles_english_web_ready_300dpi.png",
+   "year": null,
+   "supports": "Queens Own Rifles of Canada",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Queen’s York Rangers",
+   "cat": "military",
+   "source_img": "https://ontario.ca/files/2026-03/queens_york_rangers_english_web_ready_300dpi.png",
+   "year": null,
+   "supports": "Queen’s York Rangers",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Radio Amateurs of Canada",
+   "cat": "hobby",
+   "source_img": "https://ontario.ca/files/2026-03/radio_amateurs_of_canada_english_web_ready_300dpi.png",
+   "year": null,
+   "supports": "Radio Amateurs of Canada",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Rotary International",
+   "cat": "other",
+   "source_img": "https://ontario.ca/files/2026-03/rotary_international_english_web_ready_300dpi.png",
+   "year": null,
+   "supports": "Rotary International",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Royal Canadian Legion (Ontario Provincial Command)",
+   "cat": "veterans",
+   "source_img": "https://ontario.ca/files/2026-03/royal_canadian_legion_english_web_ready_300dpi.png",
+   "year": null,
+   "supports": "Royal Canadian Legion (Ontario Provincial Command)",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Trillium Gift of Life Network",
+   "cat": "charity",
+   "source_img": "https://ontario.ca/files/2026-03/trillium_gift_of_life_english_web_ready_300dpi.png",
+   "year": null,
+   "supports": "Trillium Gift of Life Network",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Royal Hamilton Light Infantry",
+   "cat": "military",
+   "source_img": "https://ontario.ca/files/2026-03/royal_hamilton_light_infantry_english_web_ready_300dpi.png",
+   "year": null,
+   "supports": "Royal Hamilton Light Infantry",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Royal Regiment of Canada",
+   "cat": "military",
+   "source_img": "https://ontario.ca/files/2026-03/royal_regiment_of_canada_english_web_ready_300dpi.png",
+   "year": null,
+   "supports": "Royal Regiment of Canada",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Royal Regiment of Canadian Artillery",
+   "cat": "military",
+   "source_img": "https://ontario.ca/files/2026-03/royal_regiment_of_canadian_artillery_english_web_ready_300dpi.png",
+   "year": null,
+   "supports": "Royal Regiment of Canadian Artillery",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Scouts Canada",
+   "cat": "other",
+   "source_img": "https://ontario.ca/files/2026-05/Scouts%20of%20Canada_ENGLISH_web%20ready_300dpi.png",
+   "year": null,
+   "supports": "Scouts Canada",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Shriners International",
+   "cat": "other",
+   "source_img": "https://ontario.ca/files/2026-05/Shriners_International_english_web%20ready_300dpi.png",
+   "year": null,
+   "supports": "Shriners International",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Support Our Troops",
+   "cat": "military",
+   "source_img": "https://ontario.ca/files/2026-05/Support_our_troops_english_web%20ready_300dpi.png",
+   "year": null,
+   "supports": "Support Our Troops",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Toronto Scottish Regiment",
+   "cat": "military",
+   "source_img": "https://ontario.ca/files/2026-05/Toronto_Scottish_Regiment_english_web_ready_300dpi.png",
+   "year": null,
+   "supports": "Toronto Scottish Regiment",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Ducks Unlimited",
+   "cat": "nature",
+   "source_img": "https://ontario.ca/files/2026-05/Unlimited_ducks_english_web_ready_300dpi.png",
+   "year": null,
+   "supports": "Ducks Unlimited",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Ontario Federation of Anglers and Hunters",
+   "cat": "nature",
+   "source_img": "https://ontario.ca/files/2026-05/Ontario_Federation_of_Aglers_and_Hunters_english_web_ready_300dpi.png",
+   "year": null,
+   "supports": "Ontario Federation of Anglers and Hunters",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Don't Drink and Drive",
+   "cat": "other",
+   "source_img": "https://ontario.ca/files/2026-05/Don%27t_Drink_and_Drive_english_web_ready_300dpi.png",
+   "year": null,
+   "supports": null,
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Ontario Flag",
+   "cat": "other",
+   "source_img": "https://ontario.ca/files/2026-05/Ontario_Flag_english_web_ready_300dpi.png",
+   "year": null,
+   "supports": null,
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Road Safety",
+   "cat": "other",
+   "source_img": "https://ontario.ca/files/2026-05/Road_Safety_english_web_ready_300dpi.png",
+   "year": null,
+   "supports": null,
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Anishinabek Nation",
+   "cat": "tribal",
+   "source_img": "https://ontario.ca/files/2026-05/Nation_Anishinabek_english_web_ready_300dpi.png",
+   "year": null,
+   "supports": "Anishinabek Nation",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Canadian Flag",
+   "cat": "other",
+   "source_img": "https://ontario.ca/files/2026-05/Canadian_Flag_english_web_ready_300dpi.png",
+   "year": null,
+   "supports": null,
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Franco-Ontarian Flag (English)",
+   "cat": "other",
+   "source_img": "https://ontario.ca/files/2026-05/Franco-Ontarian_english_web_ready_300dpi.png",
+   "year": null,
+   "supports": null,
+   "fact": "The green-and-white Franco-Ontarian flag was first raised in Sudbury in 1975.",
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Garden River First Nation Ketegaunseebee GRFN",
+   "cat": "tribal",
+   "source_img": "https://ontario.ca/files/2026-05/Garden_River_english_web_ready_300dpi.png",
+   "year": null,
+   "supports": "Garden River First Nation Ketegaunseebee GRFN",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Loon",
+   "cat": "nature",
+   "source_img": "https://ontario.ca/files/2026-05/Loon_english_web_ready_300dpi.png",
+   "year": null,
+   "supports": null,
+   "fact": "The common loon is Ontario's provincial bird.",
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Nishnawbe Aski Nation",
+   "cat": "tribal",
+   "source_img": "https://ontario.ca/files/2026-05/Nation_Nishnawbe_english_web_ready_300dpi.png",
+   "year": null,
+   "supports": "Nishnawbe Aski Nation",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Trillium",
+   "cat": "nature",
+   "source_img": "https://ontario.ca/files/2026-05/Trill_english_web_ready_300dpi.png",
+   "year": null,
+   "supports": null,
+   "fact": "The white trillium is Ontario's official flower.",
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Veteran - Passenger",
+   "cat": "veterans",
+   "source_img": "https://ontario.ca/files/2026-05/Veteran_english_web_ready_300dpi_1.png",
+   "year": null,
+   "supports": null,
+   "fact": "Free for eligible veterans; the application is certified by the Royal Canadian Legion, Ontario Provincial Command.",
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "United Empire Loyalists' Association of Canada",
+   "cat": "other",
+   "source_img": "https://ontario.ca/files/2026-05/United_Empire_Loyalist_english_web_ready_300dpi.png",
+   "year": null,
+   "supports": "United Empire Loyalists' Association of Canada",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Heart",
+   "cat": "other",
+   "source_img": "https://ontario.ca/files/2026-05/Heart_english_web_ready_300dpi.png",
+   "year": null,
+   "supports": null,
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "I Heart",
+   "cat": "other",
+   "source_img": "https://ontario.ca/files/2026-05/IHeart_english_web_ready_300dpi.png",
+   "year": null,
+   "supports": null,
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Ontario Association of Fire Chiefs",
+   "cat": "firstresponder",
+   "source_img": "https://ontario.ca/files/2026-05/Canadian_Association_of_Fire_Chiefs%20_english_web_ready_300dpi.png",
+   "year": null,
+   "supports": "Ontario Association of Fire Chiefs",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Ontario Paramedic Association",
+   "cat": "firstresponder",
+   "source_img": "https://ontario.ca/files/2026-05/Ontario_Paramedic_Association%20_english_web_ready_300dpi.png",
+   "year": null,
+   "supports": "Ontario Paramedic Association",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Ontario Professional Fire Fighter Association (OPFFA)",
+   "cat": "firstresponder",
+   "source_img": "https://ontario.ca/files/2026-05/Ontario_Professional_Fire_Fighter_english_web_ready_300dpi.png",
+   "year": null,
+   "supports": "Ontario Professional Fire Fighter Association (OPFFA)",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Professional Engineers Ontario",
+   "cat": "other",
+   "source_img": "https://ontario.ca/files/2026-05/Professional_Engineers_of_Ontario%20_english_web_ready_300dpi.png",
+   "year": null,
+   "supports": "Professional Engineers Ontario",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Equine Canada",
+   "cat": "hobby",
+   "source_img": "https://ontario.ca/files/2026-05/Equine_Canada_ENGLISH_web_ready_300dpi.png",
+   "year": null,
+   "supports": "Equine Canada",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Hamilton Tiger-Cats",
+   "cat": "sports",
+   "source_img": "https://ontario.ca/files/2026-05/Tiger-Cats_GOTEAM_english_300dpi.png",
+   "year": null,
+   "supports": "Hamilton Tiger-Cats",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "International Ch’ang-Hon Taekwon-Do Federation",
+   "cat": "hobby",
+   "source_img": "https://ontario.ca/files/2026-05/international_Taekwon-Do_english_web_ready_300dpi.png",
+   "year": null,
+   "supports": "International Ch’ang-Hon Taekwon-Do Federation",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Ontario Federation of Snowmobile Clubs",
+   "cat": "hobby",
+   "source_img": "https://ontario.ca/files/2026-05/Ontario_Snowmobile_Club_english_web_ready_300dpi.png",
+   "year": null,
+   "supports": "Ontario Federation of Snowmobile Clubs",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Ontario Lacrosse Association",
+   "cat": "sports",
+   "source_img": "https://ontario.ca/files/2026-05/Association_Lacrosse_de_l%27Ontario_ENGLISH_web%20ready_300dpi.png",
+   "year": null,
+   "supports": "Ontario Lacrosse Association",
+   "fact": "Lacrosse is Canada's national summer sport.",
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Ottawa REDBLACKS",
+   "cat": "sports",
+   "source_img": "https://ontario.ca/files/2026-05/Ottawa_Redblacks_GOTEAM_english_300dpi.png",
+   "year": null,
+   "supports": "Ottawa REDBLACKS",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Ottawa Senators",
+   "cat": "sports",
+   "source_img": "https://ontario.ca/files/2026-05/Ottawa_Senators_GOTEAM_english_300dpi.png",
+   "year": null,
+   "supports": "Ottawa Senators",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Toronto Argonauts",
+   "cat": "sports",
+   "source_img": "https://ontario.ca/files/2026-05/Argonauts_de_Toronto_GOTEAM_english_300dpi.png",
+   "year": null,
+   "supports": "Toronto Argonauts",
+   "fact": "Founded in 1873, the Argonauts are the oldest pro football team in North America still using their original name.",
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Toronto Blue Jays",
+   "cat": "sports",
+   "source_img": "https://ontario.ca/files/2026-05/Blue_Jays_de_Toronto_GOTEAM_english_300dpi.png",
+   "year": null,
+   "supports": "Toronto Blue Jays",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Toronto Maple Leafs",
+   "cat": "sports",
+   "source_img": "https://ontario.ca/files/2026-05/Maple_Leafs_de_Toronto_GOTEAM_english_300dpi.png",
+   "year": null,
+   "supports": "Toronto Maple Leafs",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Toronto Raptors",
+   "cat": "sports",
+   "source_img": "https://ontario.ca/files/2026-05/Raptors_de_Toronto_GOTEAM_english_300dpi.png",
+   "year": null,
+   "supports": "Toronto Raptors",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Lakehead University",
+   "cat": "colleges",
+   "source_img": "https://ontario.ca/files/2026-05/Lakehead_University_english_web_ready_300dpi.png",
+   "year": null,
+   "supports": "Lakehead University",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "George Brown College",
+   "cat": "colleges",
+   "source_img": "https://ontario.ca/files/2026-05/George_Brown_College_english_web_ready_300dpi.png",
+   "year": null,
+   "supports": "George Brown College",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Queen’s University",
+   "cat": "colleges",
+   "source_img": "https://ontario.ca/files/2026-05/Queen%27s_University_english_web_ready_300dpi.png",
+   "year": null,
+   "supports": "Queen’s University",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "University of Toronto",
+   "cat": "colleges",
+   "source_img": "https://ontario.ca/files/2026-05/University_of_Toronto_english_web_ready_300dpi.png",
+   "year": null,
+   "supports": "University of Toronto",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "University of Waterloo",
+   "cat": "colleges",
+   "source_img": "https://ontario.ca/files/2026-05/University_of_Waterloo_english_web_ready_300dpi.png",
+   "year": null,
+   "supports": "University of Waterloo",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  },
+  {
+   "title": "Wilfrid Laurier University",
+   "cat": "colleges",
+   "source_img": "https://ontario.ca/files/2026-05/Wilfrid%20Laurier%20University_ENGLISH_web%20ready_300dpi%201.png",
+   "year": null,
+   "supports": "Wilfrid Laurier University",
+   "fact": null,
+   "source": "https://www.ontario.ca/page/choose-licence-plate-graphic"
+  }
+ ],
+ "notes": "All 69 passenger graphics from ontario.ca's 'All graphic plates' list (page updated May 26, 2026); 'Veteran - Motorcycle' omitted as motorcycle-only. Every image is ontario.ca's own plate artwork, PNG, aspect 1.94 (Veteran 1.99), checked loading in a browser. Ontario graphic plates are the standard white plate with a small logo at the left. ontario.ca is blocked by this sandbox's proxy for curl, so loading from a GitHub runner is untested. 'supports' is the sponsoring organization (ServiceOntario doesn't publish where fees go); null for government/novelty graphics. Garden River FN plates are ordered only through GRFN, OPFFA plates only through OPFFA, Veteran plates only at ServiceOntario centres. No official standard-plate image found on ontario.ca (only photos of damaged plates), so standard source_img is null."
+}

@@ -1,0 +1,31 @@
+{
+ "code": "NL",
+ "name": "Newfoundland and Labrador",
+ "standard": {
+  "source_img": null,
+  "note": "Newfoundland and Labrador's everyday plates start with A, H, J, C or M, and since 2023 the province has stopped using renewal stickers."
+ },
+ "robot_url": "https://www.gov.nl.ca/motorregistration/vehicle-ownership/plates/",
+ "complete": true,
+ "plates": [
+  {
+   "title": "Veteran Licence Plate",
+   "cat": "veterans",
+   "source_img": null,
+   "year": null,
+   "supports": "Run with the Provincial Command of the Royal Canadian Legion",
+   "fact": "There's no initial fee, and the Legion handles the applications.",
+   "source": "https://www.gov.nl.ca/motorregistration/vehicle-ownership/plates/veterans/"
+  },
+  {
+   "title": "Fire Fighter Licence Plate",
+   "cat": "firstresponder",
+   "source_img": null,
+   "year": null,
+   "supports": "Run with Fire and Emergency Services",
+   "fact": "There's no initial fee for the plate.",
+   "source": "https://www.gov.nl.ca/motorregistration/vehicle-ownership/plates/fire-fighters/"
+  }
+ ],
+ "notes": "The Motor Registration 'Plates' page lists only Veterans and Fire Fighters (plus replacement pages), so the list is complete but has no pictures anywhere. A 'Confederation 75' logo plate went to vehicles first registered in 2024 and could be bought for current vehicles (gov.nl.ca/releases/2023/exec/1211n02/). It is still common on the road but the registry no longer lists it, so it was left out. Add it as cat 'other', year 2024, if wanted."
+}

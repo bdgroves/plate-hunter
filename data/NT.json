@@ -1,0 +1,25 @@
+{
+ "code": "NT",
+ "name": "Northwest Territories",
+ "rated": false,
+ "plates": [
+  {
+   "id": "veteran-licence-plate",
+   "name": "Veteran licence plate",
+   "cat": "veterans",
+   "img": null,
+   "supports": "Certified by the Royal Canadian Legion (Alberta-NWT Command)",
+   "source": "https://www.idmv.inf.gov.nt.ca/Vehicles/Licence-Plate/Order-a-veteran-licence-plate"
+  }
+ ],
+ "updated": "2026-10-26",
+ "checked": true,
+ "checked_on": "2026-10-26",
+ "about": "Northwest Territories special-design plates, from the territory's own list on 2026-10-26. Not rated yet: every plate is worth the same.",
+ "sources": [
+  {
+   "title": "Provincial and territorial licensing agencies, and the plates' sponsors",
+   "url": "https://www.idmv.inf.gov.nt.ca/Vehicles/Licence-Plate"
+  }
+ ]
+}

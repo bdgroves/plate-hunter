@@ -1,0 +1,206 @@
+{
+ "code": "MB",
+ "name": "Manitoba",
+ "rated": false,
+ "plates": [
+  {
+   "id": "veterans",
+   "name": "Veterans",
+   "cat": "veterans",
+   "img": null,
+   "img_url": "https://www.mpi.mb.ca/wp-content/uploads/2022/10/plate-veteran.png",
+   "supports": "Poppy Fund (optional donation)",
+   "fact": "The veteran plate is free, and replacements never cost a thing.",
+   "source": "https://www.mpi.mb.ca/specialty-plates-member/"
+  },
+  {
+   "id": "firefighters",
+   "name": "Firefighters",
+   "cat": "firstresponder",
+   "img": null,
+   "img_url": "https://www.mpi.mb.ca/wp-content/uploads/Firefighter-plate.png",
+   "supports": "Manitoba Firefighters Burn Fund and Manitoba Fallen Firefighters Fund",
+   "fact": "Winnipeg firefighters can have their badge number on the plate.",
+   "source": "https://www.mpi.mb.ca/specialty-plates-member/"
+  },
+  {
+   "id": "paramedics",
+   "name": "Paramedics",
+   "cat": "firstresponder",
+   "img": null,
+   "img_url": "https://www.mpi.mb.ca/wp-content/uploads/2022/10/plate-paramedic.png",
+   "supports": "Canadian Mental Health Association (Manitoba and Winnipeg region)",
+   "fact": "Active and retired paramedics, including volunteers, and their immediate families qualify.",
+   "source": "https://www.mpi.mb.ca/specialty-plates-member/"
+  },
+  {
+   "id": "amateur-radio-operators",
+   "name": "Amateur radio operators",
+   "cat": "hobby",
+   "img": null,
+   "fact": "Manitoba ham plates carry the operator's call sign, which starts with VE4 or VA4.",
+   "source": "https://www.mpi.mb.ca/specialty-plates-member/"
+  },
+  {
+   "id": "basketball-manitoba",
+   "name": "Basketball Manitoba",
+   "cat": "sports",
+   "img": null,
+   "img_url": "https://www.mpi.mb.ca/wp-content/uploads/2022/10/plate-basketball-manitoba.png",
+   "supports": "Basketball Manitoba's Basketball for Life Fund",
+   "source": "https://www.mpi.mb.ca/specialty-plates-non-member/"
+  },
+  {
+   "id": "brandon-wheat-kings",
+   "name": "Brandon Wheat Kings",
+   "cat": "sports",
+   "img": null,
+   "img_url": "https://www.mpi.mb.ca/wp-content/uploads/2022/10/plate-brandon-wheat-kings.png",
+   "supports": "Brandon Humane Society",
+   "fact": "Proceeds from this hockey plate go to the Brandon Humane Society.",
+   "source": "https://www.mpi.mb.ca/specialty-plates-non-member/"
+  },
+  {
+   "id": "curl-manitoba",
+   "name": "Curl Manitoba",
+   "cat": "sports",
+   "img": null,
+   "img_url": "https://www.mpi.mb.ca/wp-content/uploads/2022/10/plate-curl-manitoba.png",
+   "supports": "Curl Manitoba Curling For Life Endowment Fund",
+   "source": "https://www.mpi.mb.ca/specialty-plates-non-member/"
+  },
+  {
+   "id": "madox-s-warriors",
+   "name": "Madox's Warriors",
+   "cat": "charity",
+   "img": null,
+   "img_url": "https://www.mpi.mb.ca/wp-content/uploads/2022/12/20-070-1938-Madoxs_Warriors_v5-1024x512.jpg",
+   "supports": "Madox's Warriors Inc.",
+   "fact": "It raises awareness and funds for childhood cancer research.",
+   "source": "https://www.mpi.mb.ca/specialty-plates-non-member/"
+  },
+  {
+   "id": "mmiwg2s",
+   "name": "MMIWG2S",
+   "cat": "charity",
+   "img": null,
+   "supports": "Ka Ni Kanichihk",
+   "fact": "Two designs are offered: one with a red dress and one with a red handprint.",
+   "source": "https://www.mpi.mb.ca/specialty-plates-non-member/"
+  },
+  {
+   "id": "ride-for-dad",
+   "name": "Ride For Dad",
+   "cat": "charity",
+   "img": null,
+   "img_url": "https://www.mpi.mb.ca/wp-content/uploads/RideforDadPlateWEB-1024x534.png",
+   "supports": "Manitoba Prostate Cancer Support Group",
+   "fact": "It helps fund prostate cancer awareness, education and support.",
+   "source": "https://www.mpi.mb.ca/specialty-plates-non-member/"
+  },
+  {
+   "id": "snoman",
+   "name": "Snoman",
+   "cat": "charity",
+   "img": null,
+   "img_url": "https://www.mpi.mb.ca/wp-content/uploads/2022/10/plate-snoman.png",
+   "supports": "Variety, the Children's Charity",
+   "source": "https://www.mpi.mb.ca/specialty-plates-non-member/"
+  },
+  {
+   "id": "support-our-troops",
+   "name": "Support our Troops",
+   "cat": "military",
+   "img": null,
+   "img_url": "https://www.mpi.mb.ca/wp-content/uploads/2022/10/plate-support-our-troops.png",
+   "supports": "Scholarships for reserve members and Canadian Armed Forces families posted to Manitoba",
+   "source": "https://www.mpi.mb.ca/specialty-plates-non-member/"
+  },
+  {
+   "id": "university-of-winnipeg",
+   "name": "University of Winnipeg",
+   "cat": "colleges",
+   "img": null,
+   "img_url": "https://www.mpi.mb.ca/wp-content/uploads/2022/10/plate-uw.png",
+   "supports": "Scholarships for Wesmen athletes and inner-city youth sports programming",
+   "fact": "Proceeds fund scholarships for Wesmen athletes and inner-city youth sports.",
+   "source": "https://www.mpi.mb.ca/specialty-plates-non-member/"
+  },
+  {
+   "id": "winnipeg-blue-bombers",
+   "name": "Winnipeg Blue Bombers",
+   "cat": "sports",
+   "img": null,
+   "img_url": "https://www.mpi.mb.ca/wp-content/uploads/2022/12/Winnipeg-Blue-Bombers-Grey-Cup-plate-1024x516.jpg",
+   "year": "2020",
+   "supports": "Winnipeg Football Club",
+   "fact": "This special edition celebrates the Bombers' 107th Grey Cup championship.",
+   "source": "https://www.mpi.mb.ca/specialty-plates-non-member/"
+  },
+  {
+   "id": "winnipeg-blue-bombers-original-gold-desi",
+   "name": "Winnipeg Blue Bombers (original gold design)",
+   "cat": "sports",
+   "img": null,
+   "supports": "Winnipeg Football Club",
+   "fact": "The original gold Bombers plate stopped selling for cars and trucks on June 1, 2020, but plenty are still on the road.",
+   "source": "https://www.mpi.mb.ca/specialty-plates-non-member/"
+  },
+  {
+   "id": "winnipeg-goldeyes",
+   "name": "Winnipeg Goldeyes",
+   "cat": "sports",
+   "img": null,
+   "img_url": "https://www.mpi.mb.ca/wp-content/uploads/2022/10/plate-goldeyes.png",
+   "supports": "Winnipeg Goldeyes' Field of Dreams Foundation",
+   "source": "https://www.mpi.mb.ca/specialty-plates-non-member/"
+  },
+  {
+   "id": "winnipeg-humane-society",
+   "name": "Winnipeg Humane Society",
+   "cat": "charity",
+   "img": null,
+   "img_url": "https://www.mpi.mb.ca/wp-content/uploads/2022/10/licence-plate-humanesociety.png",
+   "supports": "Winnipeg Humane Society",
+   "source": "https://www.mpi.mb.ca/specialty-plates-non-member/"
+  },
+  {
+   "id": "winnipeg-jets",
+   "name": "Winnipeg Jets",
+   "cat": "sports",
+   "img": null,
+   "img_url": "https://www.mpi.mb.ca/wp-content/uploads/2022/12/plate-winnipeg-jets.png",
+   "supports": "Winnipeg Jets True North Foundation",
+   "source": "https://www.mpi.mb.ca/specialty-plates-non-member/"
+  },
+  {
+   "id": "winnipeg-jets-heritage",
+   "name": "Winnipeg Jets Heritage",
+   "cat": "sports",
+   "img": null,
+   "img_url": "https://www.mpi.mb.ca/wp-content/uploads/2022/10/jets-heritage-plates.jpg",
+   "year": "2021",
+   "supports": "True North Youth Foundation",
+   "fact": "It celebrates the history of the Winnipeg Jets and went on sale September 13, 2021.",
+   "source": "https://www.mpi.mb.ca/specialty-plates-non-member/"
+  },
+  {
+   "id": "bilingual-licence-plate-bienvenue",
+   "name": "Bilingual licence plate (Bienvenue)",
+   "cat": "other",
+   "img": null,
+   "fact": "It honours Manitoba's francophone heritage with the word \"Bienvenue\" (welcome).",
+   "source": "https://www.mpi.mb.ca/licence-plates/"
+  }
+ ],
+ "updated": "2026-10-26",
+ "checked": true,
+ "checked_on": "2026-10-26",
+ "about": "Manitoba special-design plates, from the province's own list on 2026-10-26. Not rated yet: every plate is worth the same.",
+ "sources": [
+  {
+   "title": "Provincial and territorial licensing agencies, and the plates' sponsors",
+   "url": "https://www.mpi.mb.ca/specialty-plates-non-member/"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "code": "QC",
+ "name": "Quebec",
+ "rated": false,
+ "plates": [
+  {
+   "id": "veteran-s-licence-plate",
+   "name": "Veteran’s Licence Plate",
+   "cat": "veterans",
+   "img": null,
+   "img_url": "https://saaq.gouv.qc.ca/blob/saaq/documents/images/immatriculation/123-abc-veterans-presentation.png",
+   "fact": "Its design shows a poppy, a poppy field and two soldiers in profile, one man and one woman, with the word “vétérans”.",
+   "source": "https://saaq.gouv.qc.ca/en/vehicle-registration/registering-vehicle/veterans-licence-plate"
+  },
+  {
+   "id": "green-personalized-licence-plate-electri",
+   "name": "Green personalized licence plate (electric passenger vehicle)",
+   "cat": "vehicle",
+   "img": null,
+   "img_url": "https://saaq.gouv.qc.ca/blob/saaq/documents/images/immatriculation/plaque-perso-verte.png",
+   "fact": "Only electric vehicles can get the green version of Quebec's personalized plate.",
+   "source": "https://saaq.gouv.qc.ca/en/vehicle-registration/temporary-licence-plate-categories"
+  }
+ ],
+ "updated": "2026-10-26",
+ "checked": true,
+ "checked_on": "2026-10-26",
+ "about": "Quebec special-design plates, from the province's own list on 2026-10-26. Not rated yet: every plate is worth the same.",
+ "sources": [
+  {
+   "title": "Provincial and territorial licensing agencies, and the plates' sponsors",
+   "url": "https://saaq.gouv.qc.ca/en/vehicle-registration/temporary-licence-plate-categories"
+  }
+ ]
+}

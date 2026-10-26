@@ -1,0 +1,22 @@
+{
+ "code": "YT",
+ "name": "Yukon",
+ "standard": {
+  "source_img": null,
+  "note": "Yukon's everyday plate is famous for its Klondike gold-rush prospector."
+ },
+ "robot_url": "https://yukon.ca/en/driving-and-transportation/vehicle-registration",
+ "complete": true,
+ "plates": [
+  {
+   "title": "Veteran plate",
+   "cat": "veterans",
+   "source_img": null,
+   "year": null,
+   "supports": "Eligibility confirmed by the local Royal Canadian Legion branch",
+   "fact": null,
+   "source": "https://yukon.ca/en/veteran-plate-eligibility-application"
+  }
+ ],
+ "notes": "yukon.ca lists only three plate forms: personalized, veteran plate eligibility, and antique declaration (I scanned all 60 pages of yukon.ca/en/forms). So the veteran plate is the only specialty plate. No official plate pictures on yukon.ca. The standard-plate note (prospector) is from general knowledge, not a page seen this session."
+}

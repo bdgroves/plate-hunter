@@ -3,78 +3,95 @@
   "code": "AB",
   "name": "Alberta",
   "country": "CA",
-  "img": null
+  "img": null,
+  "note": "Alberta's long-running everyday plate is white with red characters and the slogan \"Wild Rose Country\"; a new \"Strong and Free\" plate with a Moraine Lake panorama, picked by public vote in November 2025, was due to start issuing in mid-2026."
  },
  {
   "code": "BC",
   "name": "British Columbia",
   "country": "CA",
-  "img": null
+  "img": null,
+  "img_url": "https://images.ctfassets.net/nnc41duedoho/5OYmQNwfFfHAAbjcfWYMKX/fac794c3f9ca5fadbe87f9767d94f765/personalized-licence-plate.jpeg",
+  "note": "B.C.'s everyday plate is white with blue characters, a setting-sun flag emblem in the middle and the slogan \"Beautiful British Columbia\" along the bottom."
  },
  {
   "code": "MB",
   "name": "Manitoba",
   "country": "CA",
-  "img": null
+  "img": null,
+  "note": "Manitoba's everyday plate reads \"Friendly Manitoba\", and drivers can also choose a bilingual version that says \"Bienvenue\"."
  },
  {
   "code": "NB",
   "name": "New Brunswick",
   "country": "CA",
-  "img": null
+  "img": null,
+  "note": "New Brunswick's everyday plate is white with dark lettering and the provincial emblem; no official picture was found on gnb.ca."
  },
  {
   "code": "NL",
   "name": "Newfoundland and Labrador",
   "country": "CA",
-  "img": null
+  "img": null,
+  "note": "Newfoundland and Labrador's everyday plates start with A, H, J, C or M, and since 2023 the province has stopped using renewal stickers."
  },
  {
   "code": "NS",
   "name": "Nova Scotia",
   "country": "CA",
-  "img": null
+  "img": null,
+  "img_url": "https://novascotia.ca/sns/img/ans-driver-new-plate.png",
+  "note": "Nova Scotia's everyday plate was recently redesigned for visibility: the painted border and left sticker well are gone and every plate type now uses a single font."
  },
  {
   "code": "ON",
   "name": "Ontario",
   "country": "CA",
-  "img": null
+  "img": null,
+  "note": "Ontario's everyday plate is white with blue lettering, a crown, and the slogan \"Yours to Discover\"; a short-lived blue \"A Place to Grow\" design was dropped in 2020."
  },
  {
   "code": "PE",
   "name": "Prince Edward Island",
   "country": "CA",
-  "img": null
+  "img": null,
+  "note": "PEI refreshed its plate in late 2022 with a simple, high-visibility design as it moved to 6-digit numbers, and added a distinct plate for electric vehicles."
  },
  {
   "code": "QC",
   "name": "Quebec",
   "country": "CA",
-  "img": null
+  "img": null,
+  "img_url": "https://saaq.gouv.qc.ca/blob/saaq/documents/images/immatriculation/000-abc.png",
+  "note": "Quebec's plate is white with blue characters and the provincial motto \"Je me souviens\" (\"I remember\"), which has been on its plates since 1978."
  },
  {
   "code": "SK",
   "name": "Saskatchewan",
   "country": "CA",
-  "img": null
+  "img": null,
+  "img_url": "https://sgi.sk.ca/documents/37148/138178/MYPL8.png/eee1f624-c5dd-4a71-a1fe-865cf6fe59c5",
+  "note": "Saskatchewan's everyday plate carries the slogan \"Land of Living Skies\" in green on white."
  },
  {
   "code": "NT",
   "name": "Northwest Territories",
   "country": "CA",
-  "img": null
+  "img": null,
+  "note": "The NWT's famous polar-bear-shaped plate dates to 1970, when Commissioner Stuart Hodgson designed it for the territory's centennial, and it still fits the standard 6-by-12-inch plate size."
  },
  {
   "code": "NU",
   "name": "Nunavut",
   "country": "CA",
-  "img": null
+  "img": null,
+  "note": "In 2025 Nunavut brought back a polar-bear-shaped plate, inspired by the territory's 25th anniversary, and began issuing it in September 2025."
  },
  {
   "code": "YT",
   "name": "Yukon",
   "country": "CA",
-  "img": null
+  "img": null,
+  "note": "Yukon's everyday plate is famous for its Klondike gold-rush prospector."
  }
 ]

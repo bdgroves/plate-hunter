@@ -1,0 +1,31 @@
+{
+ "code": "QC",
+ "name": "Quebec",
+ "standard": {
+  "source_img": "https://saaq.gouv.qc.ca/blob/saaq/documents/images/immatriculation/000-abc.png",
+  "note": "Quebec's plate is white with blue characters and the provincial motto \"Je me souviens\" (\"I remember\"), which has been on its plates since 1978."
+ },
+ "robot_url": "https://saaq.gouv.qc.ca/en/vehicle-registration/temporary-licence-plate-categories",
+ "complete": true,
+ "plates": [
+  {
+   "title": "Veteran’s Licence Plate",
+   "cat": "veterans",
+   "source_img": "https://saaq.gouv.qc.ca/blob/saaq/documents/images/immatriculation/123-abc-veterans-presentation.png",
+   "year": null,
+   "supports": null,
+   "fact": "Its design shows a poppy, a poppy field and two soldiers in profile, one man and one woman, with the word “vétérans”.",
+   "source": "https://saaq.gouv.qc.ca/en/vehicle-registration/registering-vehicle/veterans-licence-plate"
+  },
+  {
+   "title": "Green personalized licence plate (electric passenger vehicle)",
+   "cat": "vehicle",
+   "source_img": "https://saaq.gouv.qc.ca/blob/saaq/documents/images/immatriculation/plaque-perso-verte.png",
+   "year": null,
+   "supports": null,
+   "fact": "Only electric vehicles can get the green version of Quebec's personalized plate.",
+   "source": "https://saaq.gouv.qc.ca/en/vehicle-registration/temporary-licence-plate-categories"
+  }
+ ],
+ "notes": "Quebec has no charity, sports or university plates. SAAQ issues only two passenger designs beyond the standard: the commemorative Veteran's plate (veterans only, requested via the Royal Canadian Legion - Quebec Command; not transferable, not personalizable) and the green personalized plate for electric vehicles. The green one is a personalized-only plate; include or drop it depending on how strictly 'no personalized' is read. SAAQ images are small (standard 84x46, green 85x43, veteran 250x125; a bigger 'presentation' version of the standard plate wasn't found). The 'Licence Plates' SAAQ page (robot_url, despite its 'temporary' URL slug) shows all plate categories with pictures but not the veteran plate, which has its own page. Veteran plate launch year not confirmed (news coverage suggests about 2018), so year is null. Images checked loading in a browser; SAAQ wasn't tested with curl."
+}
