@@ -1,1 +1,67 @@
-{}
+{
+ "CA-prorate": {
+  "state": "CA",
+  "name": "Prorate",
+  "cat": "other",
+  "img": "CA-prorate.webp",
+  "kind": "new",
+  "target": null,
+  "source": "https://www.dmv.ca.gov/portal/vehicle-registration/license-plates-decals-and-placards/license-plates/special-interest-special-license-plates/",
+  "page": "CA",
+  "picture": "/portal/uploads/2020/03/IRPbaseplt.gif",
+  "likeness": 15,
+  "found": "2026-10-26"
+ },
+ "MN-of-a-citizens-band-radio": {
+  "state": "MN",
+  "name": "of a Citizens Band Radio",
+  "cat": "hobby",
+  "img": "MN-of-a-citizens-band-radio.webp",
+  "kind": "redesign",
+  "target": "citizens-band-radio",
+  "source": "https://dps.mn.gov/divisions/dvs/vehicle/license-plates/specialized-license-plates",
+  "page": "MN",
+  "picture": "/files/dvs/Citizen-Band-Text-1500x751.jpg",
+  "likeness": 29,
+  "found": "2026-10-26"
+ },
+ "MN-of-a-lion-s-club": {
+  "state": "MN",
+  "name": "of a Lion's Club",
+  "cat": "charity",
+  "img": "MN-of-a-lion-s-club.webp",
+  "kind": "new",
+  "target": null,
+  "source": "https://dps.mn.gov/divisions/dvs/vehicle/license-plates/specialized-license-plates",
+  "page": "MN",
+  "picture": "/files/dvs/Lions-Club-Text-1500x751.png",
+  "likeness": 58,
+  "found": "2026-10-26"
+ },
+ "MN-of-a-minnesota-100-club": {
+  "state": "MN",
+  "name": "of a Minnesota 100 Club",
+  "cat": "charity",
+  "img": "MN-of-a-minnesota-100-club.webp",
+  "kind": "new",
+  "target": null,
+  "source": "https://dps.mn.gov/divisions/dvs/vehicle/license-plates/specialized-license-plates",
+  "page": "MN",
+  "picture": "/files/dvs/Minnesota-100-Club-Text-1500x751.jpg",
+  "likeness": 91,
+  "found": "2026-10-26"
+ },
+ "MN-of-a-rotary-international": {
+  "state": "MN",
+  "name": "of a Rotary International",
+  "cat": "hobby",
+  "img": "MN-of-a-rotary-international.webp",
+  "kind": "new",
+  "target": null,
+  "source": "https://dps.mn.gov/divisions/dvs/vehicle/license-plates/specialized-license-plates",
+  "page": "MN",
+  "picture": "/files/dvs/Rotary-International-Text-1500x763.jpg",
+  "likeness": 40,
+  "found": "2026-10-26"
+ }
+}

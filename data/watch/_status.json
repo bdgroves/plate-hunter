@@ -17,7 +17,7 @@
   "url": "https://www.dmv.ca.gov/portal/vehicle-registration/license-plates-decals-and-placards/license-plates/special-interest-special-license-plates/",
   "ok": true,
   "pictures": 121,
-  "plates": 39,
+  "plates": 41,
   "added": [],
   "checked": "2026-10-26"
  },
@@ -43,8 +43,10 @@
  },
  "DC": {
   "url": "https://dmv.dc.gov/service/organizations-offering-dc-dmv-vehicle-tags",
-  "ok": false,
-  "error": "The read operation timed out",
+  "ok": true,
+  "pictures": 35,
+  "plates": 29,
+  "added": [],
   "checked": "2026-10-26"
  },
  "DC-2": {
@@ -157,7 +159,7 @@
   "url": "https://dps.mn.gov/divisions/dvs/vehicle/license-plates/specialized-license-plates",
   "ok": true,
   "pictures": 96,
-  "plates": 47,
+  "plates": 67,
   "added": [],
   "checked": "2026-10-26"
  },
@@ -297,10 +299,8 @@
  },
  "SC": {
   "url": "https://www.scdmvonline.com/Vehicle-Owners/Registration/Plate-Gallery",
-  "ok": true,
-  "pictures": 236,
-  "plates": 182,
-  "added": [],
+  "ok": false,
+  "error": "<urlopen error timed out>",
   "checked": "2026-10-26"
  },
  "SD": {

@@ -1,7 +1,7 @@
 {
  "code": "MN",
  "url": "https://dps.mn.gov/divisions/dvs/vehicle/license-plates/specialized-license-plates",
- "complete": false,
+ "complete": true,
  "pictures": {
   "/_next/image": {
    "src": "https://dps.mn.gov/_next/image?url=%2Fstatic%2Fmdps-logo.png&w=1920&q=75",
@@ -32,6 +32,11 @@
    "src": "https://assets.dps.mn.gov/files/dvs/Blackout-Blank-1500x763.jpg?v=1765415260",
    "alt": "Sample of a Blackout license plate",
    "verdict": "new:blackout"
+  },
+  "/files/dvs/Citizen-Band-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Citizen-Band-Text-1500x751.jpg?v=1765415280",
+   "alt": "Sample of a Citizens Band Radio license plate",
+   "verdict": "pending:MN-of-a-citizens-band-radio"
   },
   "/files/dvs/Collegiate-Augsburg-Text-1500x751.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Collegiate-Augsburg-Text-1500x751.jpg?v=1778093315",
@@ -233,6 +238,11 @@
    "alt": "Sample of a Law Enforcement Memorial license plate",
    "verdict": "plate:law-enforcement-memorial"
   },
+  "/files/dvs/Lions-Club-Text-1500x751.png": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Lions-Club-Text-1500x751.png?v=1765415472",
+   "alt": "Sample of a Lion's Club license plate",
+   "verdict": "pending:MN-of-a-lion-s-club"
+  },
   "/files/dvs/MMIR-Text-1500x751.png": {
    "src": "https://assets.dps.mn.gov/files/dvs/MMIR-Text-1500x751.png?v=1765415493",
    "alt": "Sample of a Missing and Murdered Indigenous Relatives (MMIR) license plate",
@@ -268,6 +278,11 @@
    "alt": "Sample of a Wild sports team license plate",
    "verdict": "new:minnesota-wild"
   },
+  "/files/dvs/Minnesota-100-Club-Text-1500x751.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Minnesota-100-Club-Text-1500x751.jpg?v=1787600499",
+   "alt": "Sample of a Minnesota 100 Club license plate",
+   "verdict": "pending:MN-of-a-minnesota-100-club"
+  },
   "/files/dvs/Minnesota-Golf-Text-1500x751.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Minnesota-Golf-Text-1500x751.jpg?v=1765415489",
    "alt": "Sample of a Minnesota Golf license plate",
@@ -302,6 +317,11 @@
    "src": "https://assets.dps.mn.gov/files/dvs/Retired-Law-Enforcement-Text-1500x751.jpg?v=1765415594",
    "alt": "Sample of a Retired Law Enforcement license plate",
    "verdict": "plate:retired-law-enforcement"
+  },
+  "/files/dvs/Rotary-International-Text-1500x763.jpg": {
+   "src": "https://assets.dps.mn.gov/files/dvs/Rotary-International-Text-1500x763.jpg?v=1765415596",
+   "alt": "Sample of a Rotary International license plate",
+   "verdict": "pending:MN-of-a-rotary-international"
   },
   "/files/dvs/Standard-Collector-Text-1500x751.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Standard-Collector-Text-1500x751.jpg?v=1765415600",

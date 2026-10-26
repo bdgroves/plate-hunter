@@ -1,7 +1,7 @@
 {
  "code": "CA",
  "url": "https://www.dmv.ca.gov/portal/vehicle-registration/license-plates-decals-and-placards/license-plates/special-interest-special-license-plates/",
- "complete": false,
+ "complete": true,
  "pictures": {
   "/portal/uploads/2020/02/calag.jpg": {
    "src": "https://www.dmv.ca.gov/portal/uploads/2020/02/calag.jpg",
@@ -212,6 +212,11 @@
    "src": "https://www.dmv.ca.gov/portal/uploads/2020/03/DlrSun.gif",
    "alt": "Dealer license plate (sun).",
    "verdict": "not-for-cars"
+  },
+  "/portal/uploads/2020/03/IRPbaseplt.gif": {
+   "src": "https://www.dmv.ca.gov/portal/uploads/2020/03/IRPbaseplt.gif",
+   "alt": "Prorate license plate.",
+   "verdict": "pending:CA-prorate"
   },
   "/portal/uploads/2020/03/MfgBlock.gif": {
    "src": "https://www.dmv.ca.gov/portal/uploads/2020/03/MfgBlock.gif",
