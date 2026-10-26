@@ -11,16 +11,26 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - run: pip install aia
       - run: |
           python3 - <<'PY'
-          import json, urllib.request, pathlib, mimetypes
+          import json, urllib.request, urllib.error, pathlib, mimetypes
           out = pathlib.Path("staging/orig"); out.mkdir(parents=True, exist_ok=True)
           res = {}
           for key, url in json.load(open("staging/urls.json")).items():
               try:
                   req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130 Safari/537.36"})
-                  with urllib.request.urlopen(req, timeout=40) as r:
-                      raw = r.read(15_000_000); ct = r.headers.get("Content-Type", "")
+                  try:
+                      with urllib.request.urlopen(req, timeout=40) as r:
+                          raw = r.read(15_000_000); ct = r.headers.get("Content-Type", "")
+                  except urllib.error.URLError as e:
+                      if "CERTIFICATE_VERIFY_FAILED" not in str(e): raise
+                      # the site leaves out an intermediate certificate; fetch it from the
+                      # certificate's AIA link (as browsers do) and verify the full chain
+                      from aia import AIASession
+                      ctx = AIASession().ssl_context_from_url(url)
+                      with urllib.request.urlopen(req, timeout=40, context=ctx) as r:
+                          raw = r.read(15_000_000); ct = r.headers.get("Content-Type", "")
                   ext = (mimetypes.guess_extension(ct.split(";")[0].strip()) or ".bin").replace(".jpe", ".jpg")
                   (out / f"{key}{ext}").write_bytes(raw); res[key] = f"ok {ct} {len(raw)}"
               except Exception as e:
