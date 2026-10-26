@@ -7,8 +7,7 @@
    "id": "veteran-s-licence-plate",
    "name": "Veteran’s Licence Plate",
    "cat": "veterans",
-   "img": null,
-   "img_url": "https://saaq.gouv.qc.ca/blob/saaq/documents/images/immatriculation/123-abc-veterans-presentation.png",
+   "img": "veteran-s-licence-plate.webp",
    "fact": "Its design shows a poppy, a poppy field and two soldiers in profile, one man and one woman, with the word “vétérans”.",
    "source": "https://saaq.gouv.qc.ca/en/vehicle-registration/registering-vehicle/veterans-licence-plate"
   },
@@ -16,8 +15,7 @@
    "id": "green-personalized-licence-plate-electri",
    "name": "Green personalized licence plate (electric passenger vehicle)",
    "cat": "vehicle",
-   "img": null,
-   "img_url": "https://saaq.gouv.qc.ca/blob/saaq/documents/images/immatriculation/plaque-perso-verte.png",
+   "img": "green-personalized-licence-plate-electri.webp",
    "fact": "Only electric vehicles can get the green version of Quebec's personalized plate.",
    "source": "https://saaq.gouv.qc.ca/en/vehicle-registration/temporary-licence-plate-categories"
   }

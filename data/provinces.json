@@ -10,8 +10,7 @@
   "code": "BC",
   "name": "British Columbia",
   "country": "CA",
-  "img": null,
-  "img_url": "https://images.ctfassets.net/nnc41duedoho/5OYmQNwfFfHAAbjcfWYMKX/fac794c3f9ca5fadbe87f9767d94f765/personalized-licence-plate.jpeg",
+  "img": "plates/standard/BC.webp",
   "note": "B.C.'s everyday plate is white with blue characters, a setting-sun flag emblem in the middle and the slogan \"Beautiful British Columbia\" along the bottom."
  },
  {
@@ -39,8 +38,7 @@
   "code": "NS",
   "name": "Nova Scotia",
   "country": "CA",
-  "img": null,
-  "img_url": "https://novascotia.ca/sns/img/ans-driver-new-plate.png",
+  "img": "plates/standard/NS.webp",
   "note": "Nova Scotia's everyday plate was recently redesigned for visibility: the painted border and left sticker well are gone and every plate type now uses a single font."
  },
  {
@@ -61,16 +59,14 @@
   "code": "QC",
   "name": "Quebec",
   "country": "CA",
-  "img": null,
-  "img_url": "https://saaq.gouv.qc.ca/blob/saaq/documents/images/immatriculation/000-abc.png",
+  "img": "plates/standard/QC.webp",
   "note": "Quebec's plate is white with blue characters and the provincial motto \"Je me souviens\" (\"I remember\"), which has been on its plates since 1978."
  },
  {
   "code": "SK",
   "name": "Saskatchewan",
   "country": "CA",
-  "img": null,
-  "img_url": "https://sgi.sk.ca/documents/37148/138178/MYPL8.png/eee1f624-c5dd-4a71-a1fe-865cf6fe59c5",
+  "img": "plates/standard/SK.webp",
   "note": "Saskatchewan's everyday plate carries the slogan \"Land of Living Skies\" in green on white."
  },
  {

@@ -7,8 +7,7 @@
    "id": "acadian-flag-plate",
    "name": "Acadian Flag Plate",
    "cat": "other",
-   "img": null,
-   "img_url": "https://novascotia.ca/sns/img/ans-drivers-acadian-flag-licence-plate-bg.png",
+   "img": "acadian-flag-plate.webp",
    "supports": "Vive l'Acadie Community Fund ($50 donation)",
    "fact": "It shows the Acadian flag with 'Nova Scotia, Nouvelle-Écosse' across the top, and over 2,000 are on the road.",
    "source": "https://novascotia.ca/sns/access/drivers/acadian-flag-licence-plate.asp"
@@ -17,8 +16,7 @@
    "id": "gaelic-plate",
    "name": "Gaelic Plate",
    "cat": "other",
-   "img": null,
-   "img_url": "https://novascotia.ca/sns/img/ans-drivers-gaelic-symbol-plate-lg.png",
+   "img": "gaelic-plate.webp",
    "supports": "Gàidheil Air Adhart (Gaels Forward) Special Purpose Fund ($50 donation)",
    "fact": "It carries the symbol of the Gaels in Nova Scotia and the words ALBA NUADH, Gaelic for Nova Scotia.",
    "source": "https://novascotia.ca/sns/access/drivers/gaelic-symbol-licence-plate.asp"
@@ -27,8 +25,7 @@
    "id": "mi-kmaq-plate",
    "name": "Mi'kmaq Plate",
    "cat": "tribal",
-   "img": null,
-   "img_url": "https://novascotia.ca/sns/img/mikmaw-drivers-gaelic-symbol-plate-lg.png",
+   "img": "mi-kmaq-plate.webp",
    "supports": "Mi'kmaw Youth Special Purpose Fund ($24 donation)",
    "fact": "It features a Mi'kmaw petroglyph and the words 'MI'KMA'KI Land of the Mi'kmaq'.",
    "source": "https://novascotia.ca/sns/access/drivers/mikmaw-symbol-licence-plate.asp"
@@ -37,8 +34,7 @@
    "id": "buy-local-plate",
    "name": "Buy Local Plate",
    "cat": "charity",
-   "img": null,
-   "img_url": "https://novascotia.ca/sns/img/ans-drivers-buy-local-licence-plate-bg.png",
+   "img": "buy-local-plate.webp",
    "supports": "Community-based groups promoting Nova Scotia agriculture and seafood (Dept. of Agriculture partnership)",
    "fact": "It cheers on Nova Scotia's own farm and seafood products.",
    "source": "https://novascotia.ca/sns/access/drivers/buy-local-licence-plate.asp"
@@ -47,8 +43,7 @@
    "id": "conservation",
    "name": "Conservation",
    "cat": "nature",
-   "img": null,
-   "img_url": "https://novascotia.ca/sns/images/rmv/conservationplate.gif",
+   "img": "conservation.webp",
    "supports": "Species at Risk Conservation Fund ($60.50 donation)",
    "fact": "It's the province's most popular charity plate, with more than 6,000 on the road.",
    "source": "https://novascotia.ca/sns/rmv/registration/conservationplate.asp"
@@ -57,8 +52,7 @@
    "id": "veteran",
    "name": "Veteran",
    "cat": "veterans",
-   "img": null,
-   "img_url": "https://novascotia.ca/sns/images/rmv/vet-plate.gif",
+   "img": "veteran.webp",
    "year": "2002",
    "fact": "Nova Scotia was the first province to issue a government veterans' plate, in 2002.",
    "source": "https://novascotia.ca/sns/rmv/registration/vet-plate.asp"
@@ -81,8 +75,7 @@
    "id": "retired-volunteer-firefighter",
    "name": "Retired Volunteer Firefighter",
    "cat": "firstresponder",
-   "img": null,
-   "img_url": "https://novascotia.ca/sns/img/Retired-Volunteer-Firefighter-plate.png",
+   "img": "retired-volunteer-firefighter.webp",
    "year": "2021",
    "fact": "Retired volunteer firefighters get this plate with no renewal cost.",
    "source": "https://novascotia.ca/sns/access/drivers/retired-volunteer-firefighter-licence-plate.asp"
@@ -98,8 +91,7 @@
    "id": "retired-ground-search-and-rescue",
    "name": "Retired Ground Search and Rescue",
    "cat": "firstresponder",
-   "img": null,
-   "img_url": "https://novascotia.ca/sns/img/retired-volunteer-ground-search-rescue-licence-plate.png",
+   "img": "retired-ground-search-and-rescue.webp",
    "year": "2021",
    "source": "https://novascotia.ca/sns/access/drivers/retired-volunteer-ground-search-rescue-licence-plate.asp"
   }
