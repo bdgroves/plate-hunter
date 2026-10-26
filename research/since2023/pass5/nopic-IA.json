@@ -1,0 +1,27 @@
+{
+ "state": "IA",
+ "complete": true,
+ "pictures": [
+  {
+   "name_in_game": "DNR - Pollinator",
+   "source_img": "https://iowadot.gov/sites/default/files/images/2026-10/DNR-Pollinator-sm_0.png",
+   "note": "Iowa DOT personalized-specialty-plates page, original file (no styles/ derivative), 223x112"
+  },
+  {
+   "name_in_game": "DNR - Recreation",
+   "source_img": "https://iowadot.gov/sites/default/files/images/2026-10/DNR-Recreation-sm.png",
+   "note": "Iowa DOT personalized-specialty-plates page, original file (no styles/ derivative), 223x112"
+  },
+  {
+   "name_in_game": "Emmaus Bible College",
+   "source_img": "https://iowadot.gov/sites/default/files/images/2025-05/Emmaus-Bible-College_0.jpg",
+   "note": "Iowa DOT personalized-specialty-plates page, original file (no styles/ derivative), 230x115; plate now reads 'Emmaus University'"
+  },
+  {
+   "name_in_game": "Mercy College of Health Sciences",
+   "source_img": "https://iowadot.gov/sites/default/files/images/2025-04/Mercy-College-of-Health-Sciences_0.png",
+   "note": "Iowa DOT personalized-specialty-plates page, original file (no styles/ derivative), 230x115"
+  }
+ ],
+ "notes": "Images are small. Source page: https://iowadot.gov/registration-plates/license-plates/personalized-specialty-plates. DNR images uploaded 2026-10. Emmaus plate text says 'Emmaus University' (college renamed); consider renaming the game entry."
+}

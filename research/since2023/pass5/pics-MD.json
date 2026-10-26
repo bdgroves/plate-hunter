@@ -1,0 +1,16 @@
+{
+ "state": "MD",
+ "complete": false,
+ "pictures": [
+  {
+   "name_in_game": "Gold Star Lapel Button",
+   "source_img": null,
+   "note": "Not fetchable as a single plate: the only official image (cdn.maryland.gov .../2026-01/Gold-Star-Plates.png, 601x155) shows both Gold Star plates side by side, so it fails the shape check (the runner saw 500x129 for the webp style). Left = Lapel Button (gold star on purple), right = Next of Kin (gold button). The MVA bulletin and Military & Veteran plates pages carry no separate images, and the old stg-mva gold-star page is gone. Needs a person to crop, or leave the stand-in."
+  },
+  {
+   "name_in_game": "Gold Star Next of Kin",
+   "source_img": null,
+   "note": "Not fetchable as a single plate: the only official image (cdn.maryland.gov .../2026-01/Gold-Star-Plates.png, 601x155) shows both Gold Star plates side by side, so it fails the shape check (the runner saw 500x129 for the webp style). Left = Lapel Button (gold star on purple), right = Next of Kin (gold button). The MVA bulletin and Military & Veteran plates pages carry no separate images, and the old stg-mva gold-star page is gone. Needs a person to crop, or leave the stand-in."
+  }
+ ]
+}

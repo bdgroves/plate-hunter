@@ -847,7 +847,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://secure.in.gov/bmv/files/pr-new-sgrs-2026.pdf",
-   "year": "2026"
+   "year": "2026",
+   "img_url": "https://www.in.gov/bmv/registration-plates/images/plates/indiana-fever-plate.png"
   },
   {
    "id": "indiana-state-teachers-association-ista-",
@@ -856,7 +857,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://secure.in.gov/bmv/files/pr-new-sgrs-2026.pdf",
-   "year": "2026"
+   "year": "2026",
+   "img_url": "https://www.in.gov/bmv/registration-plates/images/plates/ista-plate.png"
   },
   {
    "id": "pollinator-partnership",
@@ -865,7 +867,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://secure.in.gov/bmv/files/pr-new-sgrs-2026.pdf",
-   "year": "2026"
+   "year": "2026",
+   "img_url": "https://www.in.gov/bmv/registration-plates/images/plates/pollinator-partnership-plate.png"
   },
   {
    "id": "purdue-university-northwest",
@@ -874,7 +877,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://secure.in.gov/bmv/files/pr-new-sgrs-2026.pdf",
-   "year": "2026"
+   "year": "2026",
+   "img_url": "https://www.in.gov/bmv/registration-plates/images/plates/purdue-northwest-plate.png"
   }
  ],
  "checked_on": "2026-10-26"

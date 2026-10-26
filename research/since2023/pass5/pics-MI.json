@@ -1,0 +1,66 @@
+{
+ "state": "MI",
+ "complete": false,
+ "pictures": [
+  {
+   "name_in_game": "Michigan 4-H",
+   "source_img": "https://www.canr.msu.edu/contentAsset/image/d41b63a9d5cab50b78490cc3f4c4fb3b/fileAsset/filter/Resize,Jpeg/resize_w/750/jpeg_q/80",
+   "note": "Sponsor copy: MSU Extension (runs Michigan 4-H) article 'Michigan 4-H license plate now available to drivers', 750x402 JPEG of the SAMPLE plate (seen). URL has no file extension but serves image/jpeg. michigan.gov returned 403 to the runner."
+  },
+  {
+   "name_in_game": "Woman veteran",
+   "source_img": "https://content.govdelivery.com/attachments/fancy_images/MISOS/2025/11/12653669/6549156/women-veterans-plate-sample_original.png",
+   "note": "Michigan SOS's own GovDelivery news release (content.govdelivery.com/accounts/MISOS/bulletins/3fae23f), 2000x1077 sample plate artwork (seen). content.govdelivery.com already serves TX pictures. A _crop.png 590x318 also exists."
+  },
+  {
+   "name_in_game": "Semiquincentennial legacy plate (red, white and blue)",
+   "source_img": "https://content.govdelivery.com/attachments/fancy_images/MISOS/2025/12/12831720/6599567/legacy-semi-sample-small_original.png",
+   "note": "Michigan SOS GovDelivery release (bulletins/3fee75f), 1500x808 sample artwork (seen)."
+  },
+  {
+   "name_in_game": "Great Lakes (blue legacy plate)",
+   "source_img": null,
+   "note": "www.michigan.gov refuses the runner (HTTP 403) and I found no other official copy: the SOS GovDelivery release (bulletins/3cfd809) has only one image with both legacy plates side by side (511x129, fails the shape check)."
+  },
+  {
+   "name_in_game": "Great Lake State (black legacy plate)",
+   "source_img": null,
+   "note": "www.michigan.gov refuses the runner (HTTP 403) and I found no other official copy: same combined two-plate image as the blue one."
+  },
+  {
+   "name_in_game": "Sickle Cell Awareness",
+   "source_img": null,
+   "note": "www.michigan.gov refuses the runner (HTTP 403) and I found no other official copy (no GovDelivery release with this plate turned up in search; the June 2026 fraternity/sorority release was not findable on GovDelivery)."
+  },
+  {
+   "name_in_game": "Merchant Marine member",
+   "source_img": null,
+   "note": "www.michigan.gov refuses the runner (HTTP 403) and I found no other official copy (no GovDelivery release with this plate turned up in search; the June 2026 fraternity/sorority release was not findable on GovDelivery)."
+  },
+  {
+   "name_in_game": "Alpha Phi Alpha Fraternity, Inc.",
+   "source_img": null,
+   "note": "www.michigan.gov refuses the runner (HTTP 403) and I found no other official copy (no GovDelivery release with this plate turned up in search; the June 2026 fraternity/sorority release was not findable on GovDelivery)."
+  },
+  {
+   "name_in_game": "Kappa Alpha Psi Fraternity, Inc.",
+   "source_img": null,
+   "note": "www.michigan.gov refuses the runner (HTTP 403) and I found no other official copy (no GovDelivery release with this plate turned up in search; the June 2026 fraternity/sorority release was not findable on GovDelivery)."
+  },
+  {
+   "name_in_game": "Delta Sigma Theta Sorority, Inc.",
+   "source_img": null,
+   "note": "www.michigan.gov refuses the runner (HTTP 403) and I found no other official copy (no GovDelivery release with this plate turned up in search; the June 2026 fraternity/sorority release was not findable on GovDelivery)."
+  },
+  {
+   "name_in_game": "Phi Beta Sigma Fraternity, Inc.",
+   "source_img": null,
+   "note": "www.michigan.gov refuses the runner (HTTP 403) and I found no other official copy (no GovDelivery release with this plate turned up in search; the June 2026 fraternity/sorority release was not findable on GovDelivery)."
+  },
+  {
+   "name_in_game": "Zeta Phi Beta Sorority, Inc.",
+   "source_img": null,
+   "note": "www.michigan.gov refuses the runner (HTTP 403) and I found no other official copy (no GovDelivery release with this plate turned up in search; the June 2026 fraternity/sorority release was not findable on GovDelivery)."
+  }
+ ]
+}

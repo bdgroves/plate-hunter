@@ -492,7 +492,8 @@
    "cat": "nature",
    "img": null,
    "added": "2026-10-26",
-   "source": "https://ia.iowadot.gov/mvd/personalizedplates/step2.aspx"
+   "source": "https://ia.iowadot.gov/mvd/personalizedplates/step2.aspx",
+   "img_url": "https://iowadot.gov/sites/default/files/images/2026-10/DNR-Pollinator-sm_0.png"
   },
   {
    "id": "dnr-recreation",
@@ -500,7 +501,8 @@
    "cat": "nature",
    "img": null,
    "added": "2026-10-26",
-   "source": "https://ia.iowadot.gov/mvd/personalizedplates/step2.aspx"
+   "source": "https://ia.iowadot.gov/mvd/personalizedplates/step2.aspx",
+   "img_url": "https://iowadot.gov/sites/default/files/images/2026-10/DNR-Recreation-sm.png"
   },
   {
    "id": "emmaus-bible-college",
@@ -508,7 +510,8 @@
    "cat": "colleges",
    "img": null,
    "added": "2026-10-26",
-   "source": "https://ia.iowadot.gov/mvd/personalizedplates/step2.aspx"
+   "source": "https://ia.iowadot.gov/mvd/personalizedplates/step2.aspx",
+   "img_url": "https://iowadot.gov/sites/default/files/images/2025-05/Emmaus-Bible-College_0.jpg"
   },
   {
    "id": "mercy-college-of-health-sciences",
@@ -516,7 +519,8 @@
    "cat": "colleges",
    "img": null,
    "added": "2026-10-26",
-   "source": "https://iowadot.gov/mvd/vehicleregistration/vehicleregistration/plates/Mercy"
+   "source": "https://iowadot.gov/mvd/vehicleregistration/vehicleregistration/plates/Mercy",
+   "img_url": "https://iowadot.gov/sites/default/files/images/2025-04/Mercy-College-of-Health-Sciences_0.png"
   }
  ],
  "checked_on": "2026-10-26"

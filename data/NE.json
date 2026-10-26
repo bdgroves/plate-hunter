@@ -261,7 +261,8 @@
    "cat": "other",
    "img": null,
    "added": "2026-10-26",
-   "source": "https://update.legislature.ne.gov/?p=35400"
+   "source": "https://update.legislature.ne.gov/?p=35400",
+   "img_url": "https://dmv.nebraska.gov/sites/default/files/ZD23_Czech%20Heritage%20PA.png"
   },
   {
    "id": "arbor-day",
@@ -270,7 +271,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://www.nebraskalegislature.gov/FloorDocs/109/PDF/CS/LB568.pdf",
-   "year": "2026"
+   "year": "2026",
+   "img_url": "https://dmv.nebraska.gov/sites/default/files/KQ23_Arbor%20Day%20PA.png"
   },
   {
    "id": "u-s-space-force",

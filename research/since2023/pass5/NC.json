@@ -1,0 +1,52 @@
+{
+ "state": "NC",
+ "checked": [
+  "https://www.ncdot.gov/dmv/title-registration/license-plates/Pages/default.aspx",
+  "https://www.ncdot.gov/dmv/title-registration/license-plates/Pages/specialty-plate-forms.aspx",
+  "https://www.ncdot.gov/dmv/downloads/Documents/MVR-27.pdf",
+  "https://www.ncdot.gov/dmv/downloads/Documents/MVR-27C.pdf",
+  "https://www.ncdot.gov/dmv/downloads/Documents/MVR-27CC.pdf",
+  "https://www.ncdot.gov/dmv/downloads/Documents/MVR-27FS.pdf",
+  "https://www.ncdot.gov/dmv/downloads/Documents/MVR-27SC.pdf",
+  "https://www.ncdot.gov/dmv/downloads/Documents/MVR-27PS.pdf",
+  "https://www.ncdot.gov/dmv/downloads/Documents/MVR-27MR.pdf",
+  "https://www.ncdot.gov/dmv/downloads/Documents/MVR-33A.pdf",
+  "https://www.ncdot.gov/dmv/downloads/Documents/MVR-49.pdf",
+  "https://dr-www.ncdot.gov/dmv/title-registration/license-plates/Documents/inactive-specialty-plates.pdf",
+  "https://www.ncdot.gov/dmv/offices-services/online/Pages/my-ncdmv-custom-plates.aspx",
+  "https://thewashingtondailynews.com/?p=540883",
+  "https://aurorafossilmuseum.org/post/48/meg-plate.html",
+  "https://www.naturalsciences.org/calendar/dino-license-plate/",
+  "https://www.naturalsciences.org/calendar/?p=114036",
+  "https://www.wsoctv.com/news/local/new-specialty-license-plate-features-one-ncs-oldest-predators/DL6AWJZ7O5CTBD6NQFIYBJJH4I/"
+ ],
+ "robot_url": null,
+ "new": [
+  {"title": "Aurora Fossil Museum", "cat": "nature", "source_img": "https://aurorafossilmuseum.org/uploads/licenseplate/AFM_MegPlate_2024.jpg", "source": "https://www.ncdot.gov/dmv/downloads/Documents/MVR-27.pdf", "year": "2024", "matches_existing": null},
+  {"title": "N.C. Museum of Natural Sciences", "cat": "nature", "source_img": "https://www.naturalsciences.org/calendar/wp-content/uploads/2025/03/NCMNS_LicencePlateComp_DMV.jpg", "source": "https://www.ncdot.gov/dmv/downloads/Documents/MVR-27.pdf", "year": "2025", "matches_existing": null},
+  {"title": "N.C. School of Math and Science", "cat": "colleges", "source_img": null, "source": "https://www.ncdot.gov/dmv/downloads/Documents/MVR-27.pdf", "year": "2024", "matches_existing": null},
+  {"title": "Ross Chastain #1", "cat": "sports", "source_img": null, "source": "https://www.ncdot.gov/dmv/downloads/Documents/MVR-27SC.pdf", "year": null, "matches_existing": null},
+  {"title": "Nascar Racing Stripe", "cat": "sports", "source_img": null, "source": "https://www.ncdot.gov/dmv/downloads/Documents/MVR-27SC.pdf", "year": null, "matches_existing": null},
+  {"title": "Nascar Track Action", "cat": "sports", "source_img": null, "source": "https://www.ncdot.gov/dmv/downloads/Documents/MVR-27SC.pdf", "year": null, "matches_existing": null},
+  {"title": "Fraternal Order of Police", "cat": "firstresponder", "source_img": null, "source": "https://www.ncdot.gov/dmv/downloads/Documents/MVR-27.pdf", "year": null, "matches_existing": null},
+  {"title": "International Association of Firefighters", "cat": "firstresponder", "source_img": null, "source": "https://www.ncdot.gov/dmv/downloads/Documents/MVR-27.pdf", "year": null, "matches_existing": null},
+  {"title": "Retired Highway Patrol", "cat": "firstresponder", "source_img": null, "source": "https://www.ncdot.gov/dmv/downloads/Documents/MVR-27.pdf", "year": null, "matches_existing": null},
+  {"title": "Retired Law Enforcement Officer", "cat": "firstresponder", "source_img": null, "source": "https://www.ncdot.gov/dmv/downloads/Documents/MVR-27.pdf", "year": null, "matches_existing": null},
+  {"title": "Horseless Carriage", "cat": "vehicle", "source_img": null, "source": "https://www.ncdot.gov/dmv/downloads/Documents/MVR-27.pdf", "year": null, "matches_existing": null},
+  {"title": "US Army Special Forces", "cat": "military", "source_img": null, "source": "https://www.ncdot.gov/dmv/downloads/Documents/MVR-27MR.pdf", "year": null, "matches_existing": null},
+  {"title": "Coast Guard Auxiliary", "cat": "military", "source_img": null, "source": "https://www.ncdot.gov/dmv/downloads/Documents/MVR-27MR.pdf", "year": null, "matches_existing": null},
+  {"title": "Amateur Radio Operators", "cat": "hobby", "source_img": null, "source": "https://www.ncdot.gov/dmv/title-registration/license-plates/Pages/specialty-plate-forms.aspx", "year": null, "matches_existing": null},
+  {"title": "Olympic Spirit", "cat": "sports", "source_img": null, "source": "https://www.ncdot.gov/dmv/downloads/Documents/MVR-27.pdf", "year": null, "matches_existing": "Olympic Games"},
+  {"title": "Prisoner of War", "cat": "veterans", "source_img": null, "source": "https://www.ncdot.gov/dmv/downloads/Documents/MVR-27.pdf", "year": null, "matches_existing": "Ex-Prisoner of War"}
+ ],
+ "redesigned": [],
+ "retired": [],
+ "retired_unsure": [
+  {"name_in_game": "Clint Bowyer (Limited Inventory", "source": "https://www.ncdot.gov/dmv/downloads/Documents/MVR-27SC.pdf"},
+  {"name_in_game": "Dale Earnhardt Jr (Limited Inventory", "source": "https://www.ncdot.gov/dmv/downloads/Documents/MVR-27SC.pdf"},
+  {"name_in_game": "Ricky Stenhouse Jr (Limited Inventory", "source": "https://www.ncdot.gov/dmv/downloads/Documents/MVR-27SC.pdf"}
+ ],
+ "pictures": [],
+ "complete": true,
+ "notes": "Public catalog = NCDMV's specialty-plate forms page and its fillable PDFs (all rev. 6-7/2026 except MVR-33A 5/2025 and MVR-49 8/2018); MVR-27's 90-option plate dropdown was read from the PDF's form data (no form filled). Every game plate was matched to a form entry except the three limited-inventory NASCAR drivers (dropped from MVR-27SC, probably sold out; not certain) and 'Private' (unclear what it is). Aurora Fossil Museum (applications opened Feb 2024) and NC Museum of Natural Sciences 'Acrocanthosaurus' (first mailed Sept 2025) are confirmed issued; NCSSM (S.L. 2024-30) is on the MVR-27 dropdown, but no image was found. FOP, IAFF, Retired Highway Patrol/LEO, Horseless Carriage, Army Special Forces, Coast Guard Auxiliary and Amateur Radio are older plates the 2023 snapshot missed, and none has a public image. Left out because they are not on any form: Lifetime Conservationist (S.L. 2026-43), the Semiquincentennial background, and the Surfrider and Battleship pre-order campaigns. Motorcycle-only entries (Blue Ridge Parkway Motorcycle, Antique Motorcycle, POW and DV motorcycle) were skipped. Both sponsor images are plate-shaped (2.0 and 1.88); the Aurora one is a photo of a sample plate on a black background, not a car."
+}

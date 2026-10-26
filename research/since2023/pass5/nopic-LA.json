@@ -1,0 +1,72 @@
+{
+ "state": "LA",
+ "complete": true,
+ "pictures": [
+  {
+   "name_in_game": "Team Gleason",
+   "source_img": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/loadPlateImageAdmin.ashx?PlateName=SG-GLEASON.jpg",
+   "note": "OMV Special Plates Viewer image handler; 280x150 jpeg, loads without cookies (checked with credentials omitted)"
+  },
+  {
+   "name_in_game": "New Orleans Pelicans",
+   "source_img": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/loadPlateImageAdmin.ashx?PlateName=NewOrleansPelicansPE.jpg",
+   "note": "OMV Special Plates Viewer image handler; 280x150 jpeg, loads without cookies (checked with credentials omitted)"
+  },
+  {
+   "name_in_game": "Southern Miss Alumni",
+   "source_img": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/loadPlateImageAdmin.ashx?PlateName=SouthernMissPlateUAA.JPG",
+   "note": "OMV Special Plates Viewer image handler; 280x150 jpeg, loads without cookies (checked with credentials omitted)"
+  },
+  {
+   "name_in_game": "LSU Women's Basketball",
+   "source_img": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/loadPlateImageAdmin.ashx?PlateName=LSUWomensBasketballUWC.jpg",
+   "note": "OMV Special Plates Viewer image handler; 280x150 jpeg, loads without cookies (checked with credentials omitted)"
+  },
+  {
+   "name_in_game": "Laissez Les Art Rouler",
+   "source_img": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/loadPlateImageAdmin.ashx?PlateName=LaissezLesArtLR.jpg",
+   "note": "OMV Special Plates Viewer image handler; 280x150 jpeg, loads without cookies (checked with credentials omitted)"
+  },
+  {
+   "name_in_game": "Jefferson Parish Bicentennial",
+   "source_img": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/loadPlateImageAdmin.ashx?PlateName=JeffersonBicentennial.jpg",
+   "note": "OMV Special Plates Viewer image handler; 280x150 jpeg, loads without cookies (checked with credentials omitted)"
+  },
+  {
+   "name_in_game": "Mississippi State University",
+   "source_img": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/loadPlateImageAdmin.ashx?PlateName=MississippiStatePlateUNV.jpg",
+   "note": "OMV Special Plates Viewer image handler; 280x150 jpeg, loads without cookies (checked with credentials omitted)"
+  },
+  {
+   "name_in_game": "Univ. of Mississippi Alumni",
+   "source_img": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/loadPlateImageAdmin.ashx?PlateName=OleMiss.jpg",
+   "note": "OMV Special Plates Viewer image handler; 280x150 jpeg, loads without cookies (checked with credentials omitted)"
+  },
+  {
+   "name_in_game": "LSU Baseball National Champs",
+   "source_img": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/loadPlateImageAdmin.ashx?PlateName=LSUBaseball.jpg",
+   "note": "OMV Special Plates Viewer image handler; 280x150 jpeg, loads without cookies (checked with credentials omitted)"
+  },
+  {
+   "name_in_game": "Juneteenth",
+   "source_img": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/loadPlateImageAdmin.ashx?PlateName=Juneteenth.jpg",
+   "note": "OMV Special Plates Viewer image handler; 280x150 jpeg, loads without cookies (checked with credentials omitted)"
+  },
+  {
+   "name_in_game": "Association of Firefighters",
+   "source_img": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/loadPlateImageAdmin.ashx?PlateName=UnionFireFighterFF.jpg",
+   "note": "OMV Special Plates Viewer image handler; 280x150 jpeg, loads without cookies (checked with credentials omitted)"
+  },
+  {
+   "name_in_game": "Distinguished Flying Cross",
+   "source_img": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/loadPlateImageAdmin.ashx?PlateName=DistinguishedFlyingCrossFC.jpg",
+   "note": "OMV Special Plates Viewer image handler; 280x150 jpeg, loads without cookies (checked with credentials omitted)"
+  },
+  {
+   "name_in_game": "Archbishop Chapelle High",
+   "source_img": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/loadPlateImageAdmin.ashx?PlateName=ChapelleHighSchoolUCP.jpg",
+   "note": "OMV Special Plates Viewer image handler; 280x150 jpeg, loads without cookies (checked with credentials omitted)"
+  }
+ ],
+ "notes": "All 13 found in the OMV viewer (option values give the file names; images are served by loadPlateImageAdmin.ashx?PlateName=<file>). Every image checked visually: real plate artwork, none placeholders. Small (280x150)."
+}

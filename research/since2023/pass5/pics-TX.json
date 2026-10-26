@@ -1,0 +1,11 @@
+{
+ "state": "TX",
+ "complete": true,
+ "pictures": [
+  {
+   "name_in_game": "State Fair of Texas",
+   "source_img": "https://cdn.myplates.com/plates/auto.stfair.png",
+   "note": "Official My Plates artwork (passenger plate, 1000x500, Big Tex 'Howdy Folks!'), found via myplates.com/api/plates (plateCode STFAIR...). The bigtex.com image failed the shape check (1280x1706 portrait)."
+  }
+ ]
+}

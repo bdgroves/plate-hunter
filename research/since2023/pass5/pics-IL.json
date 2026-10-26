@@ -1,0 +1,246 @@
+{
+ "state": "IL",
+ "complete": false,
+ "pictures": [
+  {
+   "name_in_game": "Chicago Fire FC",
+   "source_img": null,
+   "note": "Club's own artwork: a Cloudinary crop of the plate out of the Chicago Fire FC 'It's official! We're ready to ride.' graphic (from the club's article), 480x275, seen. It shows the real plate design (sample 'CF97', slightly tilted on a red background). Use it only if a crop of a promo graphic is acceptable; otherwise leave the stand-in. Not used: a crop of the club's promo graphic, not the SOS plate artwork."
+  },
+  {
+   "name_in_game": "Monarch Butterfly (universal specialty plate)",
+   "source_img": null,
+   "note": "No alternative found. ilsos.gov images are served only from www.ilsos.gov (Fastly); cyberdriveillinois.com just redirects there. The runner got 'read operation timed out' on the first 3 IL URLs, and the other 45 were never tried (3-failures-per-host rule). The URL itself loads fine in a browser: https://www.ilsos.gov/content/dam/images/licenseplates/monarch.gif"
+  },
+  {
+   "name_in_game": "Afghanistan Campaign Medal",
+   "source_img": null,
+   "note": "No alternative found. ilsos.gov images are served only from www.ilsos.gov (Fastly); cyberdriveillinois.com just redirects there. The runner got 'read operation timed out' on the first 3 IL URLs, and the other 45 were never tried (3-failures-per-host rule). The URL itself loads fine in a browser: https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--72f15b13-0c16-457c-a4f9-6d0eef8d3bb0/m-afghanistan.gif"
+  },
+  {
+   "name_in_game": "Air Force Combat Action Medal",
+   "source_img": null,
+   "note": "No alternative found. ilsos.gov images are served only from www.ilsos.gov (Fastly); cyberdriveillinois.com just redirects there. The runner got 'read operation timed out' on the first 3 IL URLs, and the other 45 were never tried (3-failures-per-host rule). The URL itself loads fine in a browser: https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--7a1e3a9b-cd91-4438-8036-998ca8e32c89/m-airforcecombat.gif"
+  },
+  {
+   "name_in_game": "Air Force Service Cross",
+   "source_img": null,
+   "note": "No alternative found. ilsos.gov images are served only from www.ilsos.gov (Fastly); cyberdriveillinois.com just redirects there. The runner got 'read operation timed out' on the first 3 IL URLs, and the other 45 were never tried (3-failures-per-host rule). The URL itself loads fine in a browser: https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--bb5adefc-574a-4b8b-9de1-f0dd8c70084e/m-airforcecross.gif"
+  },
+  {
+   "name_in_game": "Air Medal",
+   "source_img": null,
+   "note": "No alternative found. ilsos.gov images are served only from www.ilsos.gov (Fastly); cyberdriveillinois.com just redirects there. The runner got 'read operation timed out' on the first 3 IL URLs, and the other 45 were never tried (3-failures-per-host rule). The URL itself loads fine in a browser: https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--078838f1-13f9-4306-ab53-482675b54908/m-airmedal.gif"
+  },
+  {
+   "name_in_game": "Armed Forces Expeditionary",
+   "source_img": null,
+   "note": "No alternative found. ilsos.gov images are served only from www.ilsos.gov (Fastly); cyberdriveillinois.com just redirects there. The runner got 'read operation timed out' on the first 3 IL URLs, and the other 45 were never tried (3-failures-per-host rule). The URL itself loads fine in a browser: https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--5dbf5da7-a8ca-4c77-b0b9-b407b8dd0f35/m-armedforcesexpeditionary.gif"
+  },
+  {
+   "name_in_game": "Armed Forces Reserves",
+   "source_img": null,
+   "note": "No alternative found. ilsos.gov images are served only from www.ilsos.gov (Fastly); cyberdriveillinois.com just redirects there. The runner got 'read operation timed out' on the first 3 IL URLs, and the other 45 were never tried (3-failures-per-host rule). The URL itself loads fine in a browser: https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--ec067318-2adf-46cf-9337-4d1340661545/m-armedforcereserves.gif"
+  },
+  {
+   "name_in_game": "Bronze Star",
+   "source_img": null,
+   "note": "No alternative found. ilsos.gov images are served only from www.ilsos.gov (Fastly); cyberdriveillinois.com just redirects there. The runner got 'read operation timed out' on the first 3 IL URLs, and the other 45 were never tried (3-failures-per-host rule). The URL itself loads fine in a browser: https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--4caba802-e0b1-4858-a006-abf70d0ebd3a/m-bronzestar.gif"
+  },
+  {
+   "name_in_game": "Coast Guard",
+   "source_img": null,
+   "note": "No alternative found. ilsos.gov images are served only from www.ilsos.gov (Fastly); cyberdriveillinois.com just redirects there. The runner got 'read operation timed out' on the first 3 IL URLs, and the other 45 were never tried (3-failures-per-host rule). The URL itself loads fine in a browser: https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--9bff3d3a-b1d6-4b24-9237-2ad405e8a051/m-coastguard.gif"
+  },
+  {
+   "name_in_game": "Cold War",
+   "source_img": null,
+   "note": "No alternative found. ilsos.gov images are served only from www.ilsos.gov (Fastly); cyberdriveillinois.com just redirects there. The runner got 'read operation timed out' on the first 3 IL URLs, and the other 45 were never tried (3-failures-per-host rule). The URL itself loads fine in a browser: https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--ba6b1ea3-b3f9-4883-a9d6-0624a8edf5d3/m-coldwar.gif"
+  },
+  {
+   "name_in_game": "Combat Action Badge",
+   "source_img": null,
+   "note": "No alternative found. ilsos.gov images are served only from www.ilsos.gov (Fastly); cyberdriveillinois.com just redirects there. The runner got 'read operation timed out' on the first 3 IL URLs, and the other 45 were never tried (3-failures-per-host rule). The URL itself loads fine in a browser: https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--f174d71b-e7b7-4df9-96a4-bc5da07e0695/m-combatactionbadge.gif"
+  },
+  {
+   "name_in_game": "Combat Action Ribbon",
+   "source_img": null,
+   "note": "No alternative found. ilsos.gov images are served only from www.ilsos.gov (Fastly); cyberdriveillinois.com just redirects there. The runner got 'read operation timed out' on the first 3 IL URLs, and the other 45 were never tried (3-failures-per-host rule). The URL itself loads fine in a browser: https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--c084304f-0f84-4b8b-a994-695be6287c8e/m-combatactionribbon.gif"
+  },
+  {
+   "name_in_game": "Combat Infantryman",
+   "source_img": null,
+   "note": "No alternative found. ilsos.gov images are served only from www.ilsos.gov (Fastly); cyberdriveillinois.com just redirects there. The runner got 'read operation timed out' on the first 3 IL URLs, and the other 45 were never tried (3-failures-per-host rule). The URL itself loads fine in a browser: https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--a29e102a-8154-4814-8696-e9bfaaad8aba/m-combatinfantryman.gif"
+  },
+  {
+   "name_in_game": "Congressional Medal of Honor",
+   "source_img": null,
+   "note": "No alternative found. ilsos.gov images are served only from www.ilsos.gov (Fastly); cyberdriveillinois.com just redirects there. The runner got 'read operation timed out' on the first 3 IL URLs, and the other 45 were never tried (3-failures-per-host rule). The URL itself loads fine in a browser: https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--797a560e-d984-42e7-a601-cd34ec91972b/m-congressional.gif"
+  },
+  {
+   "name_in_game": "Defense Distinguished Service",
+   "source_img": null,
+   "note": "No alternative found. ilsos.gov images are served only from www.ilsos.gov (Fastly); cyberdriveillinois.com just redirects there. The runner got 'read operation timed out' on the first 3 IL URLs, and the other 45 were never tried (3-failures-per-host rule). The URL itself loads fine in a browser: https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--1336406d-fe10-4020-bc83-896a660fe8e6/m-defensedist.gif"
+  },
+  {
+   "name_in_game": "Defense Superior Service",
+   "source_img": null,
+   "note": "No alternative found. ilsos.gov images are served only from www.ilsos.gov (Fastly); cyberdriveillinois.com just redirects there. The runner got 'read operation timed out' on the first 3 IL URLs, and the other 45 were never tried (3-failures-per-host rule). The URL itself loads fine in a browser: https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--9941b2b7-286f-4393-b299-acfdc2dff5d7/m-defensesuper.gif"
+  },
+  {
+   "name_in_game": "Disabled Veteran",
+   "source_img": null,
+   "note": "No alternative found. ilsos.gov images are served only from www.ilsos.gov (Fastly); cyberdriveillinois.com just redirects there. The runner got 'read operation timed out' on the first 3 IL URLs, and the other 45 were never tried (3-failures-per-host rule). The URL itself loads fine in a browser: https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--6c480ad1-d319-47ee-8f28-a81bf5f8b00e/m-disabledveteran.gif"
+  },
+  {
+   "name_in_game": "Disabled Veteran \u2013 Service-Connected (ISERVE)",
+   "source_img": null,
+   "note": "No alternative found. ilsos.gov images are served only from www.ilsos.gov (Fastly); cyberdriveillinois.com just redirects there. The runner got 'read operation timed out' on the first 3 IL URLs, and the other 45 were never tried (3-failures-per-host rule). The URL itself loads fine in a browser: https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--dfbb74aa-35dc-4000-a64a-6f19c71ec7fc/m-disabledveteraniserve.gif"
+  },
+  {
+   "name_in_game": "Distinguished Flying Cross",
+   "source_img": null,
+   "note": "No alternative found. ilsos.gov images are served only from www.ilsos.gov (Fastly); cyberdriveillinois.com just redirects there. The runner got 'read operation timed out' on the first 3 IL URLs, and the other 45 were never tried (3-failures-per-host rule). The URL itself loads fine in a browser: https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--3d444c61-fe2a-4101-bdb2-f68f629789b0/m-distflyingcross.gif"
+  },
+  {
+   "name_in_game": "Distinguished Service Cross",
+   "source_img": null,
+   "note": "No alternative found. ilsos.gov images are served only from www.ilsos.gov (Fastly); cyberdriveillinois.com just redirects there. The runner got 'read operation timed out' on the first 3 IL URLs, and the other 45 were never tried (3-failures-per-host rule). The URL itself loads fine in a browser: https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--e5851478-3769-4dff-8a63-dd7ce03b8ecd/m-distservicecross.gif"
+  },
+  {
+   "name_in_game": "Ex-Prisoner of War",
+   "source_img": null,
+   "note": "No alternative found. ilsos.gov images are served only from www.ilsos.gov (Fastly); cyberdriveillinois.com just redirects there. The runner got 'read operation timed out' on the first 3 IL URLs, and the other 45 were never tried (3-failures-per-host rule). The URL itself loads fine in a browser: https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--0b6e8c58-9b7d-4e10-8638-1a356979cd7a/m-expow.gif"
+  },
+  {
+   "name_in_game": "Gold Star",
+   "source_img": null,
+   "note": "No alternative found. ilsos.gov images are served only from www.ilsos.gov (Fastly); cyberdriveillinois.com just redirects there. The runner got 'read operation timed out' on the first 3 IL URLs, and the other 45 were never tried (3-failures-per-host rule). The URL itself loads fine in a browser: https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--d4849642-5b93-46ac-9231-6c55040e37be/m-goldstar.gif"
+  },
+  {
+   "name_in_game": "Global War on Terrorism",
+   "source_img": null,
+   "note": "No alternative found. ilsos.gov images are served only from www.ilsos.gov (Fastly); cyberdriveillinois.com just redirects there. The runner got 'read operation timed out' on the first 3 IL URLs, and the other 45 were never tried (3-failures-per-host rule). The URL itself loads fine in a browser: https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--3761d836-251a-4a52-b1b0-c153c2973667/m-globalwar.gif"
+  },
+  {
+   "name_in_game": "Illinois National Guard",
+   "source_img": null,
+   "note": "No alternative found. ilsos.gov images are served only from www.ilsos.gov (Fastly); cyberdriveillinois.com just redirects there. The runner got 'read operation timed out' on the first 3 IL URLs, and the other 45 were never tried (3-failures-per-host rule). The URL itself loads fine in a browser: https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--e6df26e7-91ec-4cb4-8a17-6c24b823b41e/m-ilnationalguard.gif"
+  },
+  {
+   "name_in_game": "Iraq Campaign Medal",
+   "source_img": null,
+   "note": "No alternative found. ilsos.gov images are served only from www.ilsos.gov (Fastly); cyberdriveillinois.com just redirects there. The runner got 'read operation timed out' on the first 3 IL URLs, and the other 45 were never tried (3-failures-per-host rule). The URL itself loads fine in a browser: https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--06bff092-78eb-44cc-8b1b-5aafae1fd43b/m-iraq.gif"
+  },
+  {
+   "name_in_game": "Korean Service",
+   "source_img": null,
+   "note": "No alternative found. ilsos.gov images are served only from www.ilsos.gov (Fastly); cyberdriveillinois.com just redirects there. The runner got 'read operation timed out' on the first 3 IL URLs, and the other 45 were never tried (3-failures-per-host rule). The URL itself loads fine in a browser: https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--5b6a1519-0096-4e53-8e26-ea2bd3406f9d/m-koreanservice.gif"
+  },
+  {
+   "name_in_game": "Marine Corps",
+   "source_img": null,
+   "note": "No alternative found. ilsos.gov images are served only from www.ilsos.gov (Fastly); cyberdriveillinois.com just redirects there. The runner got 'read operation timed out' on the first 3 IL URLs, and the other 45 were never tried (3-failures-per-host rule). The URL itself loads fine in a browser: https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--03cfcb4a-105e-4dff-a5fe-48ca0b172714/m-marinecorp.gif"
+  },
+  {
+   "name_in_game": "Legion of Merit",
+   "source_img": null,
+   "note": "No alternative found. ilsos.gov images are served only from www.ilsos.gov (Fastly); cyberdriveillinois.com just redirects there. The runner got 'read operation timed out' on the first 3 IL URLs, and the other 45 were never tried (3-failures-per-host rule). The URL itself loads fine in a browser: https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--5a9e89d0-5300-444d-a438-37972ecfe81d/m-legionofmerit.gif"
+  },
+  {
+   "name_in_game": "Navy Service Cross",
+   "source_img": null,
+   "note": "No alternative found. ilsos.gov images are served only from www.ilsos.gov (Fastly); cyberdriveillinois.com just redirects there. The runner got 'read operation timed out' on the first 3 IL URLs, and the other 45 were never tried (3-failures-per-host rule). The URL itself loads fine in a browser: https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--7507ca2f-1f16-4b09-b116-dbd00c99bc08/m-navyservicecross.gif"
+  },
+  {
+   "name_in_game": "Operation Desert Shield/Storm",
+   "source_img": null,
+   "note": "No alternative found. ilsos.gov images are served only from www.ilsos.gov (Fastly); cyberdriveillinois.com just redirects there. The runner got 'read operation timed out' on the first 3 IL URLs, and the other 45 were never tried (3-failures-per-host rule). The URL itself loads fine in a browser: https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--bd373960-9c47-4b53-8d55-179c1496f472/m-desert.gif"
+  },
+  {
+   "name_in_game": "Paratrooper",
+   "source_img": null,
+   "note": "No alternative found. ilsos.gov images are served only from www.ilsos.gov (Fastly); cyberdriveillinois.com just redirects there. The runner got 'read operation timed out' on the first 3 IL URLs, and the other 45 were never tried (3-failures-per-host rule). The URL itself loads fine in a browser: https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--524675d0-723f-403c-b351-d9d644e4a929/m-paratrooper.gif"
+  },
+  {
+   "name_in_game": "Pearl Harbor Survivor",
+   "source_img": null,
+   "note": "No alternative found. ilsos.gov images are served only from www.ilsos.gov (Fastly); cyberdriveillinois.com just redirects there. The runner got 'read operation timed out' on the first 3 IL URLs, and the other 45 were never tried (3-failures-per-host rule). The URL itself loads fine in a browser: https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--29807c84-c418-400b-b842-15684d33fc1e/m-pearlharbor.gif"
+  },
+  {
+   "name_in_game": "POW/MIA Illinois Remembers",
+   "source_img": null,
+   "note": "No alternative found. ilsos.gov images are served only from www.ilsos.gov (Fastly); cyberdriveillinois.com just redirects there. The runner got 'read operation timed out' on the first 3 IL URLs, and the other 45 were never tried (3-failures-per-host rule). The URL itself loads fine in a browser: https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--1d486ea1-7e18-4a5b-936b-00779bc2e0e8/m-powmia.gif"
+  },
+  {
+   "name_in_game": "Purple Heart",
+   "source_img": null,
+   "note": "No alternative found. ilsos.gov images are served only from www.ilsos.gov (Fastly); cyberdriveillinois.com just redirects there. The runner got 'read operation timed out' on the first 3 IL URLs, and the other 45 were never tried (3-failures-per-host rule). The URL itself loads fine in a browser: https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--85634572-af99-4f5b-9d8f-488219a1cfcc/m-purpleheart.gif"
+  },
+  {
+   "name_in_game": "Retired Armed Forces",
+   "source_img": null,
+   "note": "No alternative found. ilsos.gov images are served only from www.ilsos.gov (Fastly); cyberdriveillinois.com just redirects there. The runner got 'read operation timed out' on the first 3 IL URLs, and the other 45 were never tried (3-failures-per-host rule). The URL itself loads fine in a browser: https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--d68fc038-7dda-4829-9a39-363e9838cdf6/m-retiredarmedforces.gif"
+  },
+  {
+   "name_in_game": "Silver Star",
+   "source_img": null,
+   "note": "No alternative found. ilsos.gov images are served only from www.ilsos.gov (Fastly); cyberdriveillinois.com just redirects there. The runner got 'read operation timed out' on the first 3 IL URLs, and the other 45 were never tried (3-failures-per-host rule). The URL itself loads fine in a browser: https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--c0c47e2e-8059-4f4b-8799-3498da35466f/m-silverstar.gif"
+  },
+  {
+   "name_in_game": "Submarine Veteran",
+   "source_img": null,
+   "note": "No alternative found. ilsos.gov images are served only from www.ilsos.gov (Fastly); cyberdriveillinois.com just redirects there. The runner got 'read operation timed out' on the first 3 IL URLs, and the other 45 were never tried (3-failures-per-host rule). The URL itself loads fine in a browser: https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--f8980ce1-a397-4ab4-a3af-dac24ea84c91/m-submarinevet.gif"
+  },
+  {
+   "name_in_game": "United Nations Protection Force",
+   "source_img": null,
+   "note": "No alternative found. ilsos.gov images are served only from www.ilsos.gov (Fastly); cyberdriveillinois.com just redirects there. The runner got 'read operation timed out' on the first 3 IL URLs, and the other 45 were never tried (3-failures-per-host rule). The URL itself loads fine in a browser: https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--4e1a2fae-492f-42cd-bb73-cd9ffe2b9a86/m-unpf.gif"
+  },
+  {
+   "name_in_game": "Universal Veteran",
+   "source_img": null,
+   "note": "No alternative found. ilsos.gov images are served only from www.ilsos.gov (Fastly); cyberdriveillinois.com just redirects there. The runner got 'read operation timed out' on the first 3 IL URLs, and the other 45 were never tried (3-failures-per-host rule). The URL itself loads fine in a browser: https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--c8e8c106-5586-4223-a3b3-bd42e5aa5847/m-universalveteran.gif"
+  },
+  {
+   "name_in_game": "U.S. Air Force",
+   "source_img": null,
+   "note": "No alternative found. ilsos.gov images are served only from www.ilsos.gov (Fastly); cyberdriveillinois.com just redirects there. The runner got 'read operation timed out' on the first 3 IL URLs, and the other 45 were never tried (3-failures-per-host rule). The URL itself loads fine in a browser: https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--5221006d-dbdc-4d7c-8c6b-d8e0bd773d7b/m-usairforce.gif"
+  },
+  {
+   "name_in_game": "U.S. Army Veteran",
+   "source_img": null,
+   "note": "No alternative found. ilsos.gov images are served only from www.ilsos.gov (Fastly); cyberdriveillinois.com just redirects there. The runner got 'read operation timed out' on the first 3 IL URLs, and the other 45 were never tried (3-failures-per-host rule). The URL itself loads fine in a browser: https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--0278095a-b997-4303-bb4b-259e5db2e667/m-usarmyveteran.gif"
+  },
+  {
+   "name_in_game": "U.S. Navy Veteran",
+   "source_img": null,
+   "note": "No alternative found. ilsos.gov images are served only from www.ilsos.gov (Fastly); cyberdriveillinois.com just redirects there. The runner got 'read operation timed out' on the first 3 IL URLs, and the other 45 were never tried (3-failures-per-host rule). The URL itself loads fine in a browser: https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--fcd280ca-201b-4d49-af9a-0c35d098dedc/m-usnavyveteran.gif"
+  },
+  {
+   "name_in_game": "Vietnam Veteran",
+   "source_img": null,
+   "note": "No alternative found. ilsos.gov images are served only from www.ilsos.gov (Fastly); cyberdriveillinois.com just redirects there. The runner got 'read operation timed out' on the first 3 IL URLs, and the other 45 were never tried (3-failures-per-host rule). The URL itself loads fine in a browser: https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--d47cbff3-c9f4-4f7b-b3db-f6f9ec38d8b3/m-vietnamveteran.gif"
+  },
+  {
+   "name_in_game": "West Point Bicentennial",
+   "source_img": null,
+   "note": "No alternative found. ilsos.gov images are served only from www.ilsos.gov (Fastly); cyberdriveillinois.com just redirects there. The runner got 'read operation timed out' on the first 3 IL URLs, and the other 45 were never tried (3-failures-per-host rule). The URL itself loads fine in a browser: https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--b110bb1b-49a6-4e57-b156-fa92afac540b/m-westpoint.gif"
+  },
+  {
+   "name_in_game": "Women Veterans",
+   "source_img": null,
+   "note": "No alternative found. ilsos.gov images are served only from www.ilsos.gov (Fastly); cyberdriveillinois.com just redirects there. The runner got 'read operation timed out' on the first 3 IL URLs, and the other 45 were never tried (3-failures-per-host rule). The URL itself loads fine in a browser: https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--de9bcc46-6364-4794-8a07-ab3d15231028/m-womenveteran.gif"
+  },
+  {
+   "name_in_game": "World War II Veteran",
+   "source_img": null,
+   "note": "No alternative found. ilsos.gov images are served only from www.ilsos.gov (Fastly); cyberdriveillinois.com just redirects there. The runner got 'read operation timed out' on the first 3 IL URLs, and the other 45 were never tried (3-failures-per-host rule). The URL itself loads fine in a browser: https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--2dee9137-b806-4444-8df9-466a6ac74df1/m-ww2veteran.gif"
+  },
+  {
+   "name_in_game": "EMS Chief",
+   "source_img": null,
+   "note": "No alternative found. ilsos.gov images are served only from www.ilsos.gov (Fastly); cyberdriveillinois.com just redirects there. The runner got 'read operation timed out' on the first 3 IL URLs, and the other 45 were never tried (3-failures-per-host rule). The URL itself loads fine in a browser: https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--4cd06675-430f-4d9b-84eb-dc0148c032c1/emschief.gif"
+  }
+ ]
+}

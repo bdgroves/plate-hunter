@@ -1,0 +1,17 @@
+{
+ "state": "NE",
+ "complete": false,
+ "pictures": [
+  {
+   "name_in_game": "Czech Heritage",
+   "source_img": "https://dmv.nebraska.gov/sites/default/files/ZD23_Czech%20Heritage%20PA.png",
+   "note": "NE DMV license-plates page, 500x250 ('My Czech Home - Domov Muj')"
+  },
+  {
+   "name_in_game": "Arbor Day",
+   "source_img": "https://dmv.nebraska.gov/sites/default/files/KQ23_Arbor%20Day%20PA.png",
+   "note": "NE DMV license-plates page, 500x250 ('Home of Arbor Day')"
+  }
+ ],
+ "notes": "U.S. Space Force and Inherent Resolve Campaign Medal appear on neither the DMV license-plates page nor /dvr/military-license-plates, so no picture yet."
+}

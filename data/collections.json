@@ -275,9 +275,9 @@
   "code": "NC",
   "name": "North Carolina",
   "file": "data/NC.json",
-  "count": 205,
+  "count": 219,
   "rated": false,
-  "checked": false
+  "checked": true
  },
  {
   "code": "ND",
@@ -315,9 +315,9 @@
   "code": "PA",
   "name": "Pennsylvania",
   "file": "data/PA.json",
-  "count": 401,
+  "count": 474,
   "rated": false,
-  "checked": false
+  "checked": true
  },
  {
   "code": "RI",

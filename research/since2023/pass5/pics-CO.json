@@ -1,0 +1,36 @@
+{
+ "state": "CO",
+ "complete": false,
+ "pictures": [
+  {
+   "name_in_game": "Born To Be Wild",
+   "source_img": "https://cpw.state.co.us/sites/default/files/dam/lj6efpjmjs/born-wil-plate.jpg",
+   "note": "Colorado Parks and Wildlife's own plate artwork (the plate funds CPW wolf-conflict work), 624x351 JPEG, seen. Caveat: cpw.state.co.us is also behind Cloudflare, like dmv.colorado.gov, so it may get the same 403; worth one try."
+  },
+  {
+   "name_in_game": "Stegosaurus",
+   "source_img": "https://dinoridge.org/wp-content/uploads/2023/04/stegosaurus_license_plate.jpg",
+   "note": "Dinosaur Ridge (plate advocate) artwork, 1920x1080, seen: 'COLORADO 000 XXX PROTECT OUR FOSSILS' with stegosaurus. Posted April 2023, before issue; looks the same as the DMV's 2024 image but I did not compare side by side."
+  },
+  {
+   "name_in_game": "In God We Trust",
+   "source_img": null,
+   "note": "dmv.colorado.gov sits behind Cloudflare and answered the runner with HTTP 403 (log of run 40378685188); only 3 CO URLs were tried, the rest were skipped by fetch_pictures.py's 3-failures-per-host rule. No non-Cloudflare official copy found."
+  },
+  {
+   "name_in_game": "U.S. Navy Seabees",
+   "source_img": null,
+   "note": "dmv.colorado.gov sits behind Cloudflare and answered the runner with HTTP 403 (log of run 40378685188); only 3 CO URLs were tried, the rest were skipped by fetch_pictures.py's 3-failures-per-host rule. No non-Cloudflare official copy found."
+  },
+  {
+   "name_in_game": "Chicana/o Pride",
+   "source_img": null,
+   "note": "dmv.colorado.gov sits behind Cloudflare and answered the runner with HTTP 403 (log of run 40378685188); only 3 CO URLs were tried, the rest were skipped by fetch_pictures.py's 3-failures-per-host rule. No non-Cloudflare official copy found (Jefferson County clerk's post has only a square 1080x1080 graphic)."
+  },
+  {
+   "name_in_game": "Agriculture",
+   "source_img": null,
+   "note": "dmv.colorado.gov sits behind Cloudflare and answered the runner with HTTP 403 (log of run 40378685188); only 3 CO URLs were tried, the rest were skipped by fetch_pictures.py's 3-failures-per-host rule. No non-Cloudflare official copy found."
+  }
+ ]
+}

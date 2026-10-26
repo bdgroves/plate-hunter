@@ -1,0 +1,11 @@
+{
+ "state": "VT",
+ "complete": false,
+ "pictures": [
+  {
+   "name_in_game": "Bronze Star with Valor",
+   "source_img": null,
+   "note": "Not fetchable: the old URL now returns 404 (the runner got 'HTTP Error 404'), and the bulletin page it came from is gone ('Page not found'). The DMV's Military License Plates page (dmv.vermont.gov/military/military-license-plates) lists 'Bronze Star with Valor' but shows only the plain Bronze Star truck plate photo (inline-images/Bronze%20Star%203.jpeg), so there is no official Valor artwork online that I could find. Leave the stand-in."
+  }
+ ]
+}

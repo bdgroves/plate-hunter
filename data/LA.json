@@ -1321,7 +1321,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://public.powerdms.com/LADPSC/documents/1210898",
-   "year": "2023"
+   "year": "2023",
+   "img_url": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/loadPlateImageAdmin.ashx?PlateName=SG-GLEASON.jpg"
   },
   {
    "id": "new-orleans-pelicans",
@@ -1330,7 +1331,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://www.wafb.com/2024/01/29/pelicans-license-plates-now-available",
-   "year": "2024"
+   "year": "2024",
+   "img_url": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/loadPlateImageAdmin.ashx?PlateName=NewOrleansPelicansPE.jpg"
   },
   {
    "id": "southern-miss-alumni",
@@ -1339,7 +1341,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://public.powerdms.com/LADPSC/documents/1298516",
-   "year": "2024"
+   "year": "2024",
+   "img_url": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/loadPlateImageAdmin.ashx?PlateName=SouthernMissPlateUAA.JPG"
   },
   {
    "id": "lsu-women-s-basketball",
@@ -1348,7 +1351,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://lsusports.net/news/2024/03/14/womens-basketball-national-championship-license-plates-now-available",
-   "year": "2024"
+   "year": "2024",
+   "img_url": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/loadPlateImageAdmin.ashx?PlateName=LSUWomensBasketballUWC.jpg"
   },
   {
    "id": "laissez-les-art-rouler",
@@ -1357,7 +1361,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://public.powerdms.com/LADPSC/documents/1520701",
-   "year": "2025"
+   "year": "2025",
+   "img_url": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/loadPlateImageAdmin.ashx?PlateName=LaissezLesArtLR.jpg"
   },
   {
    "id": "jefferson-parish-bicentennial",
@@ -1366,7 +1371,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://www.fox8live.com/2025/08/20/jefferson-parish-unveils-bicentennial-license-plate/",
-   "year": "2025"
+   "year": "2025",
+   "img_url": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/loadPlateImageAdmin.ashx?PlateName=JeffersonBicentennial.jpg"
   },
   {
    "id": "mississippi-state-university",
@@ -1374,7 +1380,8 @@
    "cat": "colleges",
    "img": null,
    "added": "2026-10-26",
-   "source": "https://www.legis.la.gov/legis/Law.aspx?d=1297328"
+   "source": "https://www.legis.la.gov/legis/Law.aspx?d=1297328",
+   "img_url": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/loadPlateImageAdmin.ashx?PlateName=MississippiStatePlateUNV.jpg"
   },
   {
    "id": "univ-of-mississippi-alumni",
@@ -1382,7 +1389,8 @@
    "cat": "colleges",
    "img": null,
    "added": "2026-10-26",
-   "source": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/SpecialPlatesViewer.aspx"
+   "source": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/SpecialPlatesViewer.aspx",
+   "img_url": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/loadPlateImageAdmin.ashx?PlateName=OleMiss.jpg"
   },
   {
    "id": "lsu-baseball-national-champs",
@@ -1390,7 +1398,8 @@
    "cat": "colleges",
    "img": null,
    "added": "2026-10-26",
-   "source": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/SpecialPlatesViewer.aspx"
+   "source": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/SpecialPlatesViewer.aspx",
+   "img_url": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/loadPlateImageAdmin.ashx?PlateName=LSUBaseball.jpg"
   },
   {
    "id": "juneteenth",
@@ -1398,7 +1407,8 @@
    "cat": "other",
    "img": null,
    "added": "2026-10-26",
-   "source": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/SpecialPlatesViewer.aspx"
+   "source": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/SpecialPlatesViewer.aspx",
+   "img_url": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/loadPlateImageAdmin.ashx?PlateName=Juneteenth.jpg"
   },
   {
    "id": "association-of-firefighters",
@@ -1406,7 +1416,8 @@
    "cat": "firstresponder",
    "img": null,
    "added": "2026-10-26",
-   "source": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/SpecialPlatesViewer.aspx"
+   "source": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/SpecialPlatesViewer.aspx",
+   "img_url": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/loadPlateImageAdmin.ashx?PlateName=UnionFireFighterFF.jpg"
   },
   {
    "id": "distinguished-flying-cross",
@@ -1414,7 +1425,8 @@
    "cat": "military",
    "img": null,
    "added": "2026-10-26",
-   "source": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/SpecialPlatesViewer.aspx"
+   "source": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/SpecialPlatesViewer.aspx",
+   "img_url": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/loadPlateImageAdmin.ashx?PlateName=DistinguishedFlyingCrossFC.jpg"
   },
   {
    "id": "archbishop-chapelle-high",
@@ -1422,7 +1434,8 @@
    "cat": "colleges",
    "img": null,
    "added": "2026-10-26",
-   "source": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/SpecialPlatesViewer.aspx"
+   "source": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/SpecialPlatesViewer.aspx",
+   "img_url": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/loadPlateImageAdmin.ashx?PlateName=ChapelleHighSchoolUCP.jpg"
   }
  ],
  "checked_on": "2026-10-26"

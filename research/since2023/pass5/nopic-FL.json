@@ -1,0 +1,42 @@
+{
+ "state": "FL",
+ "complete": false,
+ "pictures": [
+  {
+   "name_in_game": "Bonefish & Tarpon Trust",
+   "source_img": "https://www.bonefishtarpontrust.org/wp-content/uploads/2023/10/small-lic-plate2.png",
+   "note": "Sponsor page bonefishtarpontrust.org/license-plate; 736x380 artwork ('BTT')"
+  },
+  {
+   "name_in_game": "Inter Miami CF",
+   "source_img": "https://images.mlssoccer.com/image/private/t_keep-aspect-ratio-e-desktop_3x/f_auto/mls-mia-prd/laxfxsgten0cxdi21zvj.jpg",
+   "note": "Sponsor page intermiamicf.com/community/licenseplate; 1280x640 flat artwork ('SAMPL'); f_auto may serve webp/avif by Accept header"
+  },
+  {
+   "name_in_game": "Protect the Gopher Tortoise",
+   "source_img": "https://gophertortoisecouncil.org/images/FL_Protect_the_Gopher_Tortoise_Final_Approved_small.jpg",
+   "note": "Gopher Tortoise Council announcement ('final approved' artwork), 1531x781; Council supports the plate, check it is the named sponsor"
+  },
+  {
+   "name_in_game": "Protect Biscayne Bay",
+   "source_img": "https://miamifoundation.org/wp-content/uploads/2025/07/Untitled-design-8.png",
+   "note": "The Miami Foundation (Biscayne Bay Recovery fund, plate proceeds) page; 573x280, plate image tightly cropped"
+  },
+  {
+   "name_in_game": "Margaritaville",
+   "source_img": "https://images.bubbleup.com/auto0.5/quality80/mville2017/pages/mvslp_plate-sm.png",
+   "note": "margaritaville.com/license-plate; Florida plate, 800x400 ('SAMPL'); same page also has FNSUP variant 241030-MV-LicensePlate-BeachScene-FNSUP.png"
+  },
+  {
+   "name_in_game": "Swim For Life",
+   "source_img": "https://fspa.com/wp-content/uploads/2024/05/Swim-For-Life-license-plate-with-FL-SWM.png",
+   "note": "Florida Swims Foundation (FSPA) page; 1536x769 artwork ('FL SWM')"
+  },
+  {
+   "name_in_game": "Florida Bay Forever",
+   "source_img": "https://floridabayforever.org/wp-content/uploads/FBFLicencePlate.webp",
+   "note": "Sponsor home page floridabayforever.org; 800x443 webp, plate rendered slightly tilted ('GET-1')"
+  }
+ ],
+ "notes": "FLHSMV's specialty-plate page is a Tableau embed, no image URLs. Escambia tax collector's store (county-taxes.net/dmv/fl-escambia/plates) lists every FL plate with images but they load through a payments-vendor API, not used. Not found: Support Scenic Walton (30A) (scenic.org pages show no plate), Auburn University (alumni page has no image), University of Alabama, K9s United (only a photo header), Florida Stands With Israel (no sponsor site found), Florida State Beekeepers Association ('Save the Bees'; news only)."
+}

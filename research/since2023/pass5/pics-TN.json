@@ -1,0 +1,66 @@
+{
+ "state": "TN",
+ "complete": true,
+ "pictures": [
+  {
+   "name_in_game": "University of Georgia",
+   "source_img": "https://www.tn.gov/content/tn/revenue/title-and-registration/license-plates/available-license-plates/collegiate-plates/georgia/_jcr_content/contentFullWidth/tn_panel/content/tn_columnctrl/column_parsys0/tn_image.img.jpg/1692371835681.jpg",
+   "note": "Plate artwork from the plate's tn.gov page (1000x499). The earlier failure was 'connection reset by peer' on the first two tn.gov requests of the run while ten other tn.gov images downloaded fine, so it looks transient; same host, just retry."
+  },
+  {
+   "name_in_game": "Atlanta Braves",
+   "source_img": "https://www.tn.gov/content/tn/revenue/title-and-registration/license-plates/available-license-plates/sports-plates/atlanta-braves/_jcr_content/contentFullWidth/tn_panel_copy_copy_c/content/tn_columnctrl/column_parsys0/tn_image.img.jpg/1709332756083.jpg",
+   "note": "Plate artwork from the plate's tn.gov page (1280x639). The earlier failure was 'connection reset by peer' on the first two tn.gov requests of the run while ten other tn.gov images downloaded fine, so it looks transient; same host, just retry."
+  },
+  {
+   "name_in_game": "Coast Guard Commendation Medal",
+   "source_img": "https://www.tn.gov/content/tn/revenue/title-and-registration/license-plates/available-license-plates/military-and-memorial/coast-guard-commendation-medal/_jcr_content/contentFullWidth/tn_panel/content/tn_columnctrl/column_parsys0/tn_image_copy_copy.img.jpg/1710949062627.jpg",
+   "note": "Full-size plate artwork from the plate's own tn.gov page (1280x640, ~2:1). The gallery thumbnail failed the shape check (315x360 portrait card)."
+  },
+  {
+   "name_in_game": "Crusade Against Darkness",
+   "source_img": "https://www.tn.gov/content/tn/revenue/title-and-registration/license-plates/available-license-plates/clubs-and-organizations/crusade-against-darkness-/_jcr_content/contentFullWidth/tn_panel_copy/content/tn_columnctrl/column_parsys0/tn_image.img.jpg/1731943840567.jpg",
+   "note": "Full-size plate artwork from the plate's own tn.gov page (1280x639, ~2:1). The gallery thumbnail failed the shape check (315x360 portrait card)."
+  },
+  {
+   "name_in_game": "Fisk University",
+   "source_img": "https://www.tn.gov/content/tn/revenue/title-and-registration/license-plates/available-license-plates/collegiate-plates/fisk-university/_jcr_content/contentFullWidth/tn_columnctrl/column_parsys0/tn_image_copy.img.jpg/1706735887583.jpg",
+   "note": "Full-size plate artwork from the plate's own tn.gov page (1280x638, ~2:1). The gallery thumbnail failed the shape check (315x360 portrait card)."
+  },
+  {
+   "name_in_game": "Friends of Bays Mountain",
+   "source_img": "https://www.tn.gov/content/tn/revenue/title-and-registration/license-plates/available-license-plates/environment-and-conservation/friends-of-bays-mountain/_jcr_content/contentFullWidth/tn_panel_copy_copy/content/tn_columnctrl/column_parsys0/tn_image.img.jpg/1780339907180.jpg",
+   "note": "Full-size plate artwork from the plate's own tn.gov page (1280x639, ~2:1). The gallery thumbnail failed the shape check (315x360 portrait card)."
+  },
+  {
+   "name_in_game": "Honoring Law Enforcement",
+   "source_img": "https://www.tn.gov/content/tn/revenue/title-and-registration/license-plates/available-license-plates/clubs-and-organizations/honoring-law-enforcement/_jcr_content/contentFullWidth/tn_panel_copy/content/tn_columnctrl/column_parsys0/tn_image.img.jpg/1711639525297.jpg",
+   "note": "Full-size plate artwork from the plate's own tn.gov page (1280x639, ~2:1). The gallery thumbnail failed the shape check (315x360 portrait card)."
+  },
+  {
+   "name_in_game": "Nashville Humane Association",
+   "source_img": "https://www.tn.gov/content/tn/revenue/title-and-registration/license-plates/available-license-plates/clubs-and-organizations/nashville-humane-association/_jcr_content/contentFullWidth/tn_panel_copy/content/tn_columnctrl/column_parsys0/tn_image.img.jpg/1790860410229.jpg",
+   "note": "Full-size plate artwork from the plate's own tn.gov page (1280x639, ~2:1). The gallery thumbnail failed the shape check (315x360 portrait card)."
+  },
+  {
+   "name_in_game": "Nashville SC",
+   "source_img": "https://www.tn.gov/content/tn/revenue/title-and-registration/license-plates/available-license-plates/sports-plates/nashville-sc/_jcr_content/contentFullWidth/tn_panel_copy_copy_c/content/tn_columnctrl/column_parsys0/tn_image.img.jpg/1714598338342.jpg",
+   "note": "Full-size plate artwork from the plate's own tn.gov page (1190x594, ~2:1). The gallery thumbnail failed the shape check (315x360 portrait card)."
+  },
+  {
+   "name_in_game": "Old Friends Senior Dog Sanctuary",
+   "source_img": "https://www.tn.gov/content/tn/revenue/title-and-registration/license-plates/available-license-plates/clubs-and-organizations/old-friends-dog-sanctuary/_jcr_content/contentFullWidth/tn_panel_copy_copy_c/content/tn_columnctrl/column_parsys0/tn_image.img.jpg/1689345242981.jpg",
+   "note": "Full-size plate artwork from the plate's own tn.gov page (1280x640, ~2:1). The gallery thumbnail failed the shape check (315x360 portrait card)."
+  },
+  {
+   "name_in_game": "Promote Peace",
+   "source_img": "https://www.tn.gov/content/tn/revenue/title-and-registration/license-plates/available-license-plates/clubs-and-organizations/promote-peace/_jcr_content/contentFullWidth/tn_panel_copy_copy_c/content/tn_columnctrl/column_parsys0/tn_image.img.jpg/1737473569343.jpg",
+   "note": "Full-size plate artwork from the plate's own tn.gov page (1280x639, ~2:1). The gallery thumbnail failed the shape check (315x360 portrait card)."
+  },
+  {
+   "name_in_game": "Tennessee Tiger Haven",
+   "source_img": "https://www.tn.gov/content/tn/revenue/title-and-registration/license-plates/available-license-plates/wildlife-and-animal/tiger-haven/_jcr_content/contentFullWidth/tn_panel_copy/content/tn_columnctrl/column_parsys0/tn_image.img.jpg/1714669345895.jpg",
+   "note": "Full-size plate artwork from the plate's own tn.gov page (1280x639, ~2:1). The gallery thumbnail failed the shape check (315x360 portrait card)."
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "state": "IN",
+ "complete": true,
+ "pictures": [
+  {
+   "name_in_game": "Indiana Fever Fund of the Pacers Foundation",
+   "source_img": "https://www.in.gov/bmv/registration-plates/images/plates/indiana-fever-plate.png",
+   "note": "BMV gallery image (file named in _plates-data.csv), 860x430, loads without cookies"
+  },
+  {
+   "name_in_game": "Indiana State Teachers Association (ISTA) Foundation",
+   "source_img": "https://www.in.gov/bmv/registration-plates/images/plates/ista-plate.png",
+   "note": "BMV gallery image (file named in _plates-data.csv), 860x430, loads without cookies"
+  },
+  {
+   "name_in_game": "Pollinator Partnership",
+   "source_img": "https://www.in.gov/bmv/registration-plates/images/plates/pollinator-partnership-plate.png",
+   "note": "BMV gallery image (file named in _plates-data.csv), 860x430, loads without cookies"
+  },
+  {
+   "name_in_game": "Purdue University Northwest",
+   "source_img": "https://www.in.gov/bmv/registration-plates/images/plates/purdue-northwest-plate.png",
+   "note": "BMV gallery image (file named in _plates-data.csv), 860x430, loads without cookies"
+  }
+ ],
+ "notes": "The BMV gallery data file is /bmv/registration-plates/license-plates-overview/_plates-data.csv (not includes/plates-data.csv); images live at /bmv/registration-plates/images/plates/<plate_image_file>. A harvester can read all 154 rows from it."
+}

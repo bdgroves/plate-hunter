@@ -1,0 +1,27 @@
+{
+ "state": "MO",
+ "complete": false,
+ "pictures": [
+  {
+   "name_in_game": "Conservation Heritage Foundation \u2013 Bass/Fish",
+   "source_img": "https://dor.mo.gov/motor-vehicle/plates/images/chf-bass.gif",
+   "note": "'Conservation (Bass)' in DOR list; 302x151. DOR plate-preview image from platescript.js (showImage uses /motor-vehicle/plates/images/<file>.gif); blank plate with no number. dor.mo.gov sits behind Incapsula, so a plain-HTTP runner may be refused"
+  },
+  {
+   "name_in_game": "Army of Occupation Medal",
+   "source_img": "https://dor.mo.gov/motor-vehicle/plates/images/occupation.gif",
+   "note": "302x159. DOR plate-preview image from platescript.js (showImage uses /motor-vehicle/plates/images/<file>.gif); blank plate with no number. dor.mo.gov sits behind Incapsula, so a plain-HTTP runner may be refused"
+  },
+  {
+   "name_in_game": "Respiratory Therapist",
+   "source_img": "https://dor.mo.gov/motor-vehicle/plates/images/respiratory.gif",
+   "note": "302x157. DOR plate-preview image from platescript.js (showImage uses /motor-vehicle/plates/images/<file>.gif); blank plate with no number. dor.mo.gov sits behind Incapsula, so a plain-HTTP runner may be refused"
+  },
+  {
+   "name_in_game": "Cars and Coffee Foundation",
+   "source_img": "https://dor.mo.gov/motor-vehicle/plates/images/cars-and-coffee.gif",
+   "note": "300x152. DOR plate-preview image from platescript.js (showImage uses /motor-vehicle/plates/images/<file>.gif); blank plate with no number. dor.mo.gov sits behind Incapsula, so a plain-HTTP runner may be refused"
+  }
+ ],
+ "notes": "Missouri Sheriffs Association is not in DOR's plate-preview script (platescript.js, 163 designs), so no picture."
+}

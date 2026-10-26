@@ -1,0 +1,11 @@
+{
+ "state": "MA",
+ "complete": false,
+ "pictures": [
+  {
+   "name_in_game": "Zoo New England",
+   "source_img": null,
+   "note": "The download worked; the shape check failed: licenseplate-header.jpg is a 1200x319 banner of the plate on a car beside a zoo logo, not plate artwork. Zoo New England's plate pages (ways-to-give/zne-license-plate, order-a-zne-license-plate) carry only that banner, and I found no mass.gov image of this plate. Leave the stand-in."
+  }
+ ]
+}

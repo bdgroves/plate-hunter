@@ -2,7 +2,7 @@
  "code": "PA",
  "name": "Pennsylvania",
  "rated": false,
- "checked": false,
+ "checked": true,
  "updated": "2026-10-25",
  "about": "Pennsylvania special-design plates. Not rated yet: every plate is worth the same. Partly checked for plates added since 2023. Checked for plates added since 2023 on 2026-10-26.",
  "sources": [
@@ -58,7 +58,8 @@
    "id": "aids-resource-alliance",
    "name": "AIDS Resource Alliance",
    "cat": "other",
-   "img": "aids-resource-alliance.webp"
+   "img": "aids-resource-alliance.webp",
+   "retired": true
   },
   {
    "id": "air-force-cross",
@@ -391,9 +392,12 @@
   },
   {
    "id": "community-in-schools-pennsylvania",
-   "name": "Community in Schools Pennsylvania",
+   "name": "Communities in Schools Pennsylvania",
    "cat": "charity",
-   "img": "community-in-schools-pennsylvania.webp"
+   "img": "community-in-schools-pennsylvania.webp",
+   "fact": "Formerly Community in Schools Pennsylvania.",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/communities%20in%20schools%20pennsylvania.jpg",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "community-life-team-ems",
@@ -621,9 +625,12 @@
   },
   {
    "id": "flyers-wives-charities",
-   "name": "Flyers Wives Charities",
+   "name": "Flyers Charities",
    "cat": "other",
-   "img": "flyers-wives-charities.webp"
+   "img": "flyers-wives-charities.webp",
+   "fact": "Formerly Flyers Wives Charities.",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/flyers%20charities.jpg",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "fort-mifflin-on-the-delaware",
@@ -651,9 +658,12 @@
   },
   {
    "id": "fraternal-order-of-professional",
-   "name": "Fraternal Order of Professional...",
+   "name": "Fraternal Association of Professional Paramedics",
    "cat": "hobby",
-   "img": "fraternal-order-of-professional.webp"
+   "img": "fraternal-order-of-professional.webp",
+   "fact": "Formerly Fraternal Order of Professional....",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/fraternal%20association%20of%20professional%20paramedics.jpg",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "friends-of-drake-well-inc",
@@ -671,13 +681,15 @@
    "id": "friendship-fire-company-of-bressler",
    "name": "Friendship Fire Company of Bressler",
    "cat": "firstresponder",
-   "img": "friendship-fire-company-of-bressler.webp"
+   "img": "friendship-fire-company-of-bressler.webp",
+   "retired": true
   },
   {
    "id": "friendship-hook-ladder-hose",
    "name": "Friendship Hook, Ladder, Hose &...",
    "cat": "other",
-   "img": "friendship-hook-ladder-hose.webp"
+   "img": "friendship-hook-ladder-hose.webp",
+   "retired": true
   },
   {
    "id": "geneva-college",
@@ -712,9 +724,12 @@
   },
   {
    "id": "girl-scouts-of-america",
-   "name": "Girl Scouts of America",
+   "name": "Girl Scouts of the USA",
    "cat": "charity",
-   "img": "girl-scouts-of-america.webp"
+   "img": "girl-scouts-of-america.webp",
+   "fact": "Formerly Girl Scouts of America.",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/girl_scouts_of_the_usa.jpg",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "gladwyne-fire-company",
@@ -754,9 +769,12 @@
   },
   {
    "id": "gwynedd-mercy-college",
-   "name": "Gwynedd-Mercy College",
+   "name": "Gwynedd Mercy University",
    "cat": "colleges",
-   "img": "gwynedd-mercy-college.webp"
+   "img": "gwynedd-mercy-college.webp",
+   "fact": "Formerly Gwynedd-Mercy College.",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/gwynedd-mercy-university.jpg",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "hampden-township-volunteer-fire-company",
@@ -913,9 +931,12 @@
   },
   {
    "id": "la-roche-college",
-   "name": "La Roche College",
+   "name": "La Roche University",
    "cat": "colleges",
-   "img": "la-roche-college.webp"
+   "img": "la-roche-college.webp",
+   "fact": "Formerly La Roche College.",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/la%20roche%20college.jpg",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "la-salle-university",
@@ -977,7 +998,8 @@
    "id": "let-freedom-ring",
    "name": "Let Freedom Ring",
    "cat": "other",
-   "img": "let-freedom-ring.webp"
+   "img": "let-freedom-ring.webp",
+   "retired": true
   },
   {
    "id": "limerick-fire-company",
@@ -1071,10 +1093,12 @@
   },
   {
    "id": "masonic-blue-lodge",
-   "name": "Masonic Blue Lodge",
+   "name": "Pennsylvania Masons",
    "cat": "hobby",
    "img": "masonic-blue-lodge-2026-10-26.webp",
-   "redesigned": "2026-10-26"
+   "redesigned": "2026-10-26",
+   "fact": "Formerly Masonic Blue Lodge.",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/pennsylvania_masons.png"
   },
   {
    "id": "mcdonald-volunteer-fire-company",
@@ -1138,10 +1162,12 @@
   },
   {
    "id": "moravian-college",
-   "name": "Moravian College",
+   "name": "Moravian University",
    "cat": "colleges",
    "img": "moravian-college-2026-10-26.webp",
-   "redesigned": "2026-10-26"
+   "redesigned": "2026-10-26",
+   "fact": "Formerly Moravian College.",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/moravian%20university.png"
   },
   {
    "id": "mount-aloysius-college",
@@ -1195,7 +1221,8 @@
    "id": "nazareth-area-chamber-of-commerce",
    "name": "Nazareth Area Chamber of Commerce",
    "cat": "charity",
-   "img": "nazareth-area-chamber-of-commerce.webp"
+   "img": "nazareth-area-chamber-of-commerce.webp",
+   "retired": true
   },
   {
    "id": "neumann-university",
@@ -1342,7 +1369,8 @@
    "id": "pennsylvania-auctioneers-association",
    "name": "Pennsylvania Auctioneers Association",
    "cat": "charity",
-   "img": "pennsylvania-auctioneers-association.webp"
+   "img": "pennsylvania-auctioneers-association.webp",
+   "retired": true
   },
   {
    "id": "pennsylvania-breast-cancer-coalition",
@@ -1484,7 +1512,8 @@
    "id": "philadelphia-animal-welfare-society",
    "name": "Philadelphia Animal Welfare Society",
    "cat": "charity",
-   "img": "philadelphia-animal-welfare-society.webp"
+   "img": "philadelphia-animal-welfare-society.webp",
+   "retired": true
   },
   {
    "id": "philadelphia-fire-fighters-union",
@@ -1516,7 +1545,8 @@
    "id": "pinnacle-health-system",
    "name": "Pinnacle Health System",
    "cat": "other",
-   "img": "pinnacle-health-system.webp"
+   "img": "pinnacle-health-system.webp",
+   "retired": true
   },
   {
    "id": "pittsburgh-central-catholic",
@@ -1541,7 +1571,8 @@
    "id": "planned-parenthood-of-pa",
    "name": "Planned Parenthood of PA",
    "cat": "other",
-   "img": "planned-parenthood-of-pa.webp"
+   "img": "planned-parenthood-of-pa.webp",
+   "retired": true
   },
   {
    "id": "pleasant-hall-volunteer-fire-ems",
@@ -1681,9 +1712,12 @@
   },
   {
    "id": "rosedale-technical-institute",
-   "name": "Rosedale Technical Institute",
+   "name": "Rosedale Technical College",
    "cat": "other",
-   "img": "rosedale-technical-institute.webp"
+   "img": "rosedale-technical-institute.webp",
+   "fact": "Formerly Rosedale Technical Institute.",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/rosedale%20technical%20college.jpg",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "rothsville-volunteer-fire-company",
@@ -1737,7 +1771,8 @@
    "id": "shady-side-academy",
    "name": "Shady Side Academy",
    "cat": "other",
-   "img": "shady-side-academy.webp"
+   "img": "shady-side-academy.webp",
+   "retired": true
   },
   {
    "id": "share-the-road",
@@ -1762,7 +1797,8 @@
    "id": "sixers-charities",
    "name": "Sixers Charities",
    "cat": "other",
-   "img": "sixers-charities.webp"
+   "img": "sixers-charities.webp",
+   "retired": true
   },
   {
    "id": "soldiers-medal",
@@ -1834,7 +1870,8 @@
    "id": "syracuse-university-alumni-assn",
    "name": "Syracuse University Alumni Assn",
    "cat": "colleges",
-   "img": "syracuse-university-alumni-assn.webp"
+   "img": "syracuse-university-alumni-assn.webp",
+   "retired": true
   },
   {
    "id": "tall-cedars-of-lebanon",
@@ -1943,7 +1980,8 @@
    "id": "umoja-african-arts-company",
    "name": "Umoja African Arts Company",
    "cat": "hobby",
-   "img": "umoja-african-arts-company.webp"
+   "img": "umoja-african-arts-company.webp",
+   "retired": true
   },
   {
    "id": "union-fire-company-no-1",
@@ -2066,7 +2104,8 @@
    "id": "warminster-volunteer-ambulance-corps",
    "name": "Warminster Volunteer Ambulance Corps",
    "cat": "other",
-   "img": "warminster-volunteer-ambulance-corps.webp"
+   "img": "warminster-volunteer-ambulance-corps.webp",
+   "retired": true
   },
   {
    "id": "warwick-twp-vol-fire-co-no-1",
@@ -2157,7 +2196,8 @@
    "id": "willow-grove-volunteer-fire-company-1",
    "name": "Willow Grove Volunteer Fire Company #1",
    "cat": "firstresponder",
-   "img": "willow-grove-volunteer-fire-company-1.webp"
+   "img": "willow-grove-volunteer-fire-company-1.webp",
+   "retired": true
   },
   {
    "id": "wissahickon-fire-company",
@@ -2175,7 +2215,8 @@
    "id": "world-meeting-of-families-philadelphia",
    "name": "World Meeting of Families - Philadelphia",
    "cat": "other",
-   "img": "world-meeting-of-families-philadelphia.webp"
+   "img": "world-meeting-of-families-philadelphia.webp",
+   "retired": true
   },
   {
    "id": "world-war-ii",
@@ -2191,9 +2232,12 @@
   },
   {
    "id": "zoological-society",
-   "name": "Zoological Society",
+   "name": "Pennsylvania Zoological Council",
    "cat": "nature",
-   "img": "zoological-society.webp"
+   "img": "zoological-society.webp",
+   "fact": "Formerly Zoological Society.",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/special-fund/zoological_council.png",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "alpha-fire-company-no-1-inc",
@@ -2377,12 +2421,15 @@
   },
   {
    "id": "swarthmore-fire-rescue",
-   "name": "Swarthmore Fire & Rescue",
+   "name": "Swarthmore Fire & Protective Assn.",
    "cat": "firstresponder",
    "img": "swarthmore-fire-rescue.webp",
    "added": "2026-10-26",
    "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin-24-28-new-special-organization-registration-plates.pdf",
-   "year": "2025"
+   "year": "2025",
+   "fact": "Formerly Swarthmore Fire & Rescue.",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/swarthmore-fire.png",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "edinboro-volunteer-fire-department",
@@ -2575,6 +2622,637 @@
    "name": "USA Semiquincentennial",
    "cat": "other",
    "img": "usa-semiquincentennial.webp",
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "id": "allegheny-college",
+   "name": "Allegheny College",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "id": "american-legion",
+   "name": "American Legion",
+   "cat": "veterans",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/american-legion.png"
+  },
+  {
+   "id": "american-motorcyclist-association",
+   "name": "American Motorcyclist Association",
+   "cat": "hobby",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/american-motorcyclist-association.jpg"
+  },
+  {
+   "id": "amvets",
+   "name": "AMVETS",
+   "cat": "veterans",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "id": "appalachian-trail-conservancy",
+   "name": "Appalachian Trail Conservancy",
+   "cat": "nature",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/appalachiantrailconservancy.jpg"
+  },
+  {
+   "id": "arcadia-university",
+   "name": "Arcadia University",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "id": "barbershopper",
+   "name": "Barbershopper",
+   "cat": "hobby",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "id": "borinqueneers-congressional-gold-medal",
+   "name": "Borinqueneers Congressional Gold Medal",
+   "cat": "military",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/military/borinqueneers.png"
+  },
+  {
+   "id": "bucks-county-community-college-fdn",
+   "name": "Bucks County Community College Fdn.",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/bucks%20county%20community%20college%20foundation.jpg"
+  },
+  {
+   "id": "camp-papillon-animal-shelter",
+   "name": "Camp Papillon Animal Shelter",
+   "cat": "charity",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/camp-papillon.png"
+  },
+  {
+   "id": "citizens-hose-company-no-5",
+   "name": "Citizens Hose Company No. 5",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/citizen%20hose%20company.jpg"
+  },
+  {
+   "id": "eagle-scout",
+   "name": "Eagle Scout",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/eagle-scout.png"
+  },
+  {
+   "id": "east-stroudsburg-university",
+   "name": "East Stroudsburg University",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/east-stroudsburg-university.jpg"
+  },
+  {
+   "id": "edge-hill-fire-co",
+   "name": "Edge Hill Fire Co.",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/edge%20hill%20fire%20co.jpg"
+  },
+  {
+   "id": "edinboro-university",
+   "name": "Edinboro University",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "id": "elizabethtown-college",
+   "name": "Elizabethtown College",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/elizabethtown-college.jpg"
+  },
+  {
+   "id": "emergency-medical-services",
+   "name": "Emergency Medical Services",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/emergency%20medical%20services1.jpg"
+  },
+  {
+   "id": "gannon-university",
+   "name": "Gannon University",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "id": "greenfield-twp-vfc-of-lackawanna-county",
+   "name": "Greenfield Twp VFC of Lackawanna County",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/greenfield_twp_vfc_of_lackawanna_county.jpg"
+  },
+  {
+   "id": "grove-city-college",
+   "name": "Grove City College",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "id": "hummelstown-chemical-fire-company-no-1",
+   "name": "Hummelstown Chemical Fire Company No. 1",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/hummelstown.png"
+  },
+  {
+   "id": "indiana-county-humane-society",
+   "name": "Indiana County Humane Society",
+   "cat": "charity",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/indiana%20humane%20society.png.jpg"
+  },
+  {
+   "id": "juniata-college",
+   "name": "Juniata College",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "id": "keystone-elk-country-alliance",
+   "name": "Keystone Elk Country Alliance",
+   "cat": "nature",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/keystone%20elk%20country%20alliance.jpg"
+  },
+  {
+   "id": "king-s-college",
+   "name": "King's College",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/kings-college.png"
+  },
+  {
+   "id": "la-salle-college-high-school-alumni",
+   "name": "La Salle College High School Alumni",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/la-salle-college-high-school.jpg"
+  },
+  {
+   "id": "lafayette-college",
+   "name": "Lafayette College",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/lafayette-college.png"
+  },
+  {
+   "id": "lions-club",
+   "name": "Lions Club",
+   "cat": "charity",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "id": "mayflower-descendant",
+   "name": "Mayflower Descendant",
+   "cat": "hobby",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/mayflower-descendant.png"
+  },
+  {
+   "id": "mercyhurst-university",
+   "name": "Mercyhurst University",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/mercyhurst%20university.jpg"
+  },
+  {
+   "id": "national-greyhound-adopt-program",
+   "name": "National Greyhound Adopt. Program",
+   "cat": "charity",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "id": "national-wild-turkey-federation",
+   "name": "National Wild Turkey Federation",
+   "cat": "nature",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/national-wild-turkey-federation.png"
+  },
+  {
+   "id": "notary-public",
+   "name": "Notary Public",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "id": "ohio-state-alumni",
+   "name": "Ohio State Alumni",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/ohio-state-alumni.jpg"
+  },
+  {
+   "id": "pa-hazmat-association",
+   "name": "PA Hazmat Association",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/pa-hazmat.jpg"
+  },
+  {
+   "id": "passavant-memorial-homes-family-of-servi",
+   "name": "Passavant Memorial Homes Family of Services",
+   "cat": "charity",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/passavant.png"
+  },
+  {
+   "id": "peace-love-worldwide",
+   "name": "Peace Love Worldwide",
+   "cat": "charity",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/peace%20love.png"
+  },
+  {
+   "id": "pennsylvania-association-of-realtors",
+   "name": "Pennsylvania Association of REALTORS",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/pa%20assoc%20realtors.png"
+  },
+  {
+   "id": "pennsylvania-career-fire-chiefs-associat",
+   "name": "Pennsylvania Career Fire Chiefs Association",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/pennsylvania%20career%20fire%20chiefs%20association.jpg"
+  },
+  {
+   "id": "pennsylvania-square-and-round-dancers",
+   "name": "Pennsylvania Square and Round Dancers",
+   "cat": "hobby",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "id": "philadelphia-centurions-motorcycle-club",
+   "name": "Philadelphia Centurions Motorcycle Club",
+   "cat": "hobby",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/phila.%20centurions%20mc%20club.jpg"
+  },
+  {
+   "id": "porsche-club-of-america",
+   "name": "Porsche Club of America",
+   "cat": "vehicle",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/porsche%20club%20of%20america.jpg"
+  },
+  {
+   "id": "ridley-school-district",
+   "name": "Ridley School District",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/ridley%20school.png"
+  },
+  {
+   "id": "robert-morris-university",
+   "name": "Robert Morris University",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/robert-morris-university.png"
+  },
+  {
+   "id": "rotary-international",
+   "name": "Rotary International",
+   "cat": "charity",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "id": "royersford-fire-department",
+   "name": "Royersford Fire Department",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/royersford%20fire%20department.jpg"
+  },
+  {
+   "id": "saint-james-alumni-association",
+   "name": "Saint James Alumni Association",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/st-james-catholic-alumni-association.jpg"
+  },
+  {
+   "id": "saint-thomas-more-high-school-alum",
+   "name": "Saint Thomas More High School Alum.",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "id": "saint-vincent-alumni-association",
+   "name": "Saint Vincent Alumni Association",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "id": "shriners",
+   "name": "Shriners",
+   "cat": "hobby",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "id": "sigma-gamma-rho-sorority",
+   "name": "Sigma Gamma Rho Sorority",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/sigma%20gamma%20rho%20sorority.jpg"
+  },
+  {
+   "id": "slippery-rock-university",
+   "name": "Slippery Rock University",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/slippery-rock-university.jpg"
+  },
+  {
+   "id": "steel-worker",
+   "name": "Steel Worker",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/steel-worker-plate.png"
+  },
+  {
+   "id": "syria-temple",
+   "name": "Syria Temple",
+   "cat": "hobby",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "id": "telephone-pioneers-of-america",
+   "name": "Telephone Pioneers of America",
+   "cat": "hobby",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "id": "trout-unlimited",
+   "name": "Trout Unlimited",
+   "cat": "nature",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/trout-unlimited.jpg"
+  },
+  {
+   "id": "u-s-naval-academy",
+   "name": "U.S. Naval Academy",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "id": "united-bowhunters-of-pennsylvania",
+   "name": "United Bowhunters of Pennsylvania",
+   "cat": "nature",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/united-bowhunters-of-pa.png"
+  },
+  {
+   "id": "united-brotherhood-of-carpenters",
+   "name": "United Brotherhood of Carpenters",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/united-brotherhood-of-carpenters.png"
+  },
+  {
+   "id": "university-of-delaware",
+   "name": "University of Delaware",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "id": "university-of-michigan",
+   "name": "University of Michigan",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "id": "university-of-notre-dame",
+   "name": "University of Notre Dame",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/notre-dame.png"
+  },
+  {
+   "id": "ursinus-college",
+   "name": "Ursinus College",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/ursinus-college.png"
+  },
+  {
+   "id": "valley-forge-military-academy-college-al",
+   "name": "Valley Forge Military Academy & College Alumnus",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/valley%20forge.png"
+  },
+  {
+   "id": "veterans-of-foreign-wars",
+   "name": "Veterans of Foreign Wars",
+   "cat": "veterans",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "id": "villanova-university",
+   "name": "Villanova University",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/villanova-university.png"
+  },
+  {
+   "id": "west-catholic-high-school",
+   "name": "West Catholic High School",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "id": "west-point-alumni",
+   "name": "West Point Alumni",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "id": "widener-university",
+   "name": "Widener University",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
+  },
+  {
+   "id": "wilkes-university",
+   "name": "Wilkes University",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/wilkes-university.png"
+  },
+  {
+   "id": "williamson-college-of-the-trades",
+   "name": "Williamson College of the Trades",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/williamson.png"
+  },
+  {
+   "id": "york-college",
+   "name": "York College",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
+   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/york-college.jpg"
+  },
+  {
+   "id": "zem-zem-temple",
+   "name": "Zem Zem Temple",
+   "cat": "hobby",
+   "img": null,
    "added": "2026-10-26",
    "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
   }

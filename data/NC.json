@@ -2,7 +2,7 @@
  "code": "NC",
  "name": "North Carolina",
  "rated": false,
- "checked": false,
+ "checked": true,
  "updated": "2026-10-25",
  "about": "North Carolina special-design plates. Not rated yet: every plate is worth the same. Partly checked for plates added since 2023. Checked for plates added since 2023 on 2026-10-26.",
  "sources": [
@@ -1244,6 +1244,123 @@
    "added": "2026-10-26",
    "source": "https://ncbg.unc.edu/?p=5665",
    "year": "2024"
+  },
+  {
+   "id": "aurora-fossil-museum",
+   "name": "Aurora Fossil Museum",
+   "cat": "nature",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.ncdot.gov/dmv/downloads/Documents/MVR-27.pdf",
+   "img_url": "https://aurorafossilmuseum.org/uploads/licenseplate/AFM_MegPlate_2024.jpg",
+   "year": "2024"
+  },
+  {
+   "id": "n-c-museum-of-natural-sciences",
+   "name": "N.C. Museum of Natural Sciences",
+   "cat": "nature",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.ncdot.gov/dmv/downloads/Documents/MVR-27.pdf",
+   "img_url": "https://www.naturalsciences.org/calendar/wp-content/uploads/2025/03/NCMNS_LicencePlateComp_DMV.jpg",
+   "year": "2025"
+  },
+  {
+   "id": "n-c-school-of-math-and-science",
+   "name": "N.C. School of Math and Science",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.ncdot.gov/dmv/downloads/Documents/MVR-27.pdf",
+   "year": "2024"
+  },
+  {
+   "id": "ross-chastain-1",
+   "name": "Ross Chastain #1",
+   "cat": "sports",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.ncdot.gov/dmv/downloads/Documents/MVR-27SC.pdf"
+  },
+  {
+   "id": "nascar-racing-stripe",
+   "name": "Nascar Racing Stripe",
+   "cat": "sports",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.ncdot.gov/dmv/downloads/Documents/MVR-27SC.pdf"
+  },
+  {
+   "id": "nascar-track-action",
+   "name": "Nascar Track Action",
+   "cat": "sports",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.ncdot.gov/dmv/downloads/Documents/MVR-27SC.pdf"
+  },
+  {
+   "id": "fraternal-order-of-police",
+   "name": "Fraternal Order of Police",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.ncdot.gov/dmv/downloads/Documents/MVR-27.pdf"
+  },
+  {
+   "id": "international-association-of-firefighter",
+   "name": "International Association of Firefighters",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.ncdot.gov/dmv/downloads/Documents/MVR-27.pdf"
+  },
+  {
+   "id": "retired-highway-patrol",
+   "name": "Retired Highway Patrol",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.ncdot.gov/dmv/downloads/Documents/MVR-27.pdf"
+  },
+  {
+   "id": "retired-law-enforcement-officer",
+   "name": "Retired Law Enforcement Officer",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.ncdot.gov/dmv/downloads/Documents/MVR-27.pdf"
+  },
+  {
+   "id": "horseless-carriage",
+   "name": "Horseless Carriage",
+   "cat": "vehicle",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.ncdot.gov/dmv/downloads/Documents/MVR-27.pdf"
+  },
+  {
+   "id": "us-army-special-forces",
+   "name": "US Army Special Forces",
+   "cat": "military",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.ncdot.gov/dmv/downloads/Documents/MVR-27MR.pdf"
+  },
+  {
+   "id": "coast-guard-auxiliary",
+   "name": "Coast Guard Auxiliary",
+   "cat": "military",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.ncdot.gov/dmv/downloads/Documents/MVR-27MR.pdf"
+  },
+  {
+   "id": "amateur-radio-operators",
+   "name": "Amateur Radio Operators",
+   "cat": "hobby",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.ncdot.gov/dmv/title-registration/license-plates/Pages/specialty-plate-forms.aspx"
   }
  ],
  "checked_on": "2026-10-26"

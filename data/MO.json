@@ -970,7 +970,8 @@
    "added": "2026-10-26",
    "source": "https://dor.mo.gov/motor-vehicle/plates/documents/SpecialtyPlateChart-FEB-8.pdf",
    "year": "2023",
-   "no_official_picture": true
+   "no_official_picture": true,
+   "img_url": "https://dor.mo.gov/motor-vehicle/plates/images/chf-bass.gif"
   },
   {
    "id": "army-of-occupation-medal",
@@ -979,7 +980,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://dor.mo.gov/motor-vehicle/plates/documents/SpecialtyPlateChart-FEB-8.pdf",
-   "year": "2024"
+   "year": "2024",
+   "img_url": "https://dor.mo.gov/motor-vehicle/plates/images/occupation.gif"
   },
   {
    "id": "respiratory-therapist",
@@ -988,7 +990,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://dor.mo.gov/motor-vehicle/plates/documents/SpecialtyPlateChart-FEB-8.pdf",
-   "year": "2024"
+   "year": "2024",
+   "img_url": "https://dor.mo.gov/motor-vehicle/plates/images/respiratory.gif"
   },
   {
    "id": "bee-friendly",
@@ -1006,7 +1009,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://dor.mo.gov/motor-vehicle/plates/documents/SpecialtyPlateChart-FEB-8.pdf",
-   "year": "2025"
+   "year": "2025",
+   "img_url": "https://dor.mo.gov/motor-vehicle/plates/images/cars-and-coffee.gif"
   },
   {
    "id": "missouri-sheriffs-association",
