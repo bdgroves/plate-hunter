@@ -616,10 +616,11 @@
    "id": "chicago-fire-fc",
    "name": "Chicago Fire FC",
    "cat": "sports",
-   "img": "chicago-fire-fc.webp",
+   "img": null,
    "added": "2026-10-26",
    "source": "https://www.chicagofirefc.com/news/giannoulias-debuts-chicago-fire-fc-license-plates",
-   "year": "2025"
+   "year": "2025",
+   "no_official_picture": true
   },
   {
    "id": "monarch-butterfly-universal-specialty-pl",

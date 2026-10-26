@@ -3067,10 +3067,11 @@
    "id": "guadalupe-mountains-national-park",
    "name": "Guadalupe Mountains National Park",
    "cat": "nature",
-   "img": "guadalupe-mountains-national-park.webp",
+   "img": null,
    "added": "2026-10-26",
    "source": "https://content.govdelivery.com/accounts/TXDMV/bulletins/3c8ec48",
-   "year": "2025"
+   "year": "2025",
+   "no_official_picture": true
   },
   {
    "id": "embossed-black-white",

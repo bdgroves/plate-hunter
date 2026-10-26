@@ -1384,9 +1384,10 @@
    "id": "2022-national-championship-ole-miss-base",
    "name": "2022 National Championship Ole Miss Baseball",
    "cat": "sports",
-   "img": "2022-national-championship-ole-miss-base.webp",
+   "img": null,
    "added": "2026-10-26",
-   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates"
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+   "no_official_picture": true
   },
   {
    "id": "alzheimer-s-awareness",
