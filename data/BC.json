@@ -53,6 +53,24 @@
    "img": "ham-radio-licence-plates.webp",
    "fact": "Ham plates carry the owner's radio call sign so certified operators can be identified when helping with emergency communications.",
    "source": "https://www.icbc.com/vehicle-registration/licence-plates"
+  },
+  {
+   "id": "vintage",
+   "name": "Vintage",
+   "cat": "vehicle",
+   "img": "vintage.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.icbc.com/vehicle-registration/licence-plates"
+  },
+  {
+   "id": "collector",
+   "name": "Collector",
+   "cat": "vehicle",
+   "img": "collector.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.icbc.com/vehicle-registration/licence-plates"
   }
  ],
  "updated": "2026-10-26",

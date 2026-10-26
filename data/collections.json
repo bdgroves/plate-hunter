@@ -19,7 +19,7 @@
   "code": "AK",
   "name": "Alaska",
   "file": "data/AK.json",
-  "count": 45,
+  "count": 47,
   "rated": false,
   "checked": true
  },
@@ -203,7 +203,7 @@
   "code": "MS",
   "name": "Mississippi",
   "file": "data/MS.json",
-  "count": 251,
+  "count": 252,
   "rated": false,
   "checked": true
  },
@@ -355,7 +355,7 @@
   "code": "TX",
   "name": "Texas",
   "file": "data/TX.json",
-  "count": 527,
+  "count": 563,
   "rated": false,
   "checked": true
  },
@@ -363,7 +363,7 @@
   "code": "UT",
   "name": "Utah",
   "file": "data/UT.json",
-  "count": 88,
+  "count": 90,
   "rated": false,
   "checked": true
  },
@@ -371,7 +371,7 @@
   "code": "VT",
   "name": "Vermont",
   "file": "data/VT.json",
-  "count": 55,
+  "count": 57,
   "rated": false,
   "checked": true
  },
@@ -395,7 +395,7 @@
   "code": "WI",
   "name": "Wisconsin",
   "file": "data/WI.json",
-  "count": 91,
+  "count": 92,
   "rated": false,
   "checked": true
  },
@@ -420,7 +420,7 @@
   "code": "BC",
   "name": "British Columbia",
   "file": "data/BC.json",
-  "count": 6,
+  "count": 8,
   "rated": false,
   "checked": true,
   "country": "CA"

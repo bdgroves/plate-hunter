@@ -3,7 +3,7 @@
  "name": "Utah",
  "rated": false,
  "checked": true,
- "updated": "2026-10-25",
+ "updated": "2026-10-26",
  "about": "Utah special-design plates. Not rated yet: every plate is worth the same. Checked for plates added since 2023 on 2026-10-26.",
  "sources": [
   {
@@ -16,43 +16,50 @@
    "id": "amateur-radio",
    "name": "Amateur Radio",
    "cat": "hobby",
-   "img": "amateur-radio.webp"
+   "img": "amateur-radio-2026-10-26.webp",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "autism-awareness",
    "name": "Autism Awareness",
    "cat": "charity",
-   "img": "autism-awareness.webp"
+   "img": "autism-awareness-2026-10-26.webp",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "boy-scouts-of-america",
    "name": "Boy Scouts of America",
    "cat": "charity",
-   "img": "boy-scouts-of-america.webp"
+   "img": "boy-scouts-of-america-2026-10-26.webp",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "boys-and-girls-clubs",
    "name": "Boys and Girls Clubs",
    "cat": "charity",
-   "img": "boys-and-girls-clubs.webp"
+   "img": "boys-and-girls-clubs-2026-10-26.webp",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "cancer-research",
    "name": "Cancer Research",
    "cat": "charity",
-   "img": "cancer-research.webp"
+   "img": "cancer-research-2026-10-26.webp",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "children-s-issues",
    "name": "Children’s Issues",
    "cat": "charity",
-   "img": "children-s-issues.webp"
+   "img": "children-s-issues-2026-10-26.webp",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "civil-air-patrol",
    "name": "Civil Air Patrol",
    "cat": "other",
-   "img": "civil-air-patrol.webp"
+   "img": "civil-air-patrol-2026-10-26.webp",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "clean-fuel-clean-air",
@@ -79,13 +86,15 @@
    "id": "collegiate-ensign-college",
    "name": "Collegiate – Ensign College",
    "cat": "colleges",
-   "img": "collegiate-ensign-college.webp"
+   "img": "collegiate-ensign-college-2026-10-26.webp",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "collegiate-salt-lake-community-college",
    "name": "Collegiate – Salt Lake Community College",
    "cat": "colleges",
-   "img": "collegiate-salt-lake-community-college.webp"
+   "img": "collegiate-salt-lake-community-college-2026-10-26.webp",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "collegiate-snow-college",
@@ -98,7 +107,8 @@
    "id": "collegiate-southern-utah-university",
    "name": "Collegiate – Southern Utah University",
    "cat": "colleges",
-   "img": "collegiate-southern-utah-university.webp"
+   "img": "collegiate-southern-utah-university-2026-10-26.webp",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "collegiate-university-of-utah-2-options-",
@@ -111,19 +121,22 @@
    "id": "collegiate-utah-state-university",
    "name": "Collegiate – Utah State University",
    "cat": "colleges",
-   "img": "collegiate-utah-state-university.webp"
+   "img": "collegiate-utah-state-university-2026-10-26.webp",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "collegiate-utah-tech-university",
    "name": "Collegiate – Utah Tech University",
    "cat": "colleges",
-   "img": "collegiate-utah-tech-university.webp"
+   "img": "collegiate-utah-tech-university-2026-10-26.webp",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "collegiate-utah-valley-university",
    "name": "Collegiate – Utah Valley University",
    "cat": "colleges",
-   "img": "collegiate-utah-valley-university.webp"
+   "img": "collegiate-utah-valley-university-2026-10-26.webp",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "collegiate-weber-state-university",
@@ -136,19 +149,22 @@
    "id": "collegiate-western-governors-university",
    "name": "Collegiate – Western Governors University",
    "cat": "colleges",
-   "img": "collegiate-western-governors-university.webp"
+   "img": "collegiate-western-governors-university-2026-10-26.webp",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "collegiate-westminster-college",
    "name": "Collegiate – Westminster College",
    "cat": "colleges",
-   "img": "collegiate-westminster-college.webp"
+   "img": "collegiate-westminster-college-2026-10-26.webp",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "disabled",
    "name": "Disabled",
    "cat": "other",
-   "img": "disabled.webp"
+   "img": "disabled-2026-10-26.webp",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "disabled-arches",
@@ -166,37 +182,43 @@
    "id": "disabled-veteran",
    "name": "Disabled Veteran",
    "cat": "veterans",
-   "img": "disabled-veteran.webp"
+   "img": "disabled-veteran-2026-10-26.webp",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "donate-life",
    "name": "Donate Life",
    "cat": "charity",
-   "img": "donate-life.webp"
+   "img": "donate-life-2026-10-26.webp",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "emergency-medical-technician-emt",
    "name": "Emergency Medical Technician (EMT",
    "cat": "firstresponder",
-   "img": "emergency-medical-technician-emt.webp"
+   "img": "emergency-medical-technician-emt-2026-10-26.webp",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "farm",
    "name": "Farm",
    "cat": "vehicle",
-   "img": "farm.webp"
+   "img": "farm-2026-10-26.webp",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "firefighter",
    "name": "Firefighter",
    "cat": "firstresponder",
-   "img": "firefighter.webp"
+   "img": "firefighter-2026-10-26.webp",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "former-prisoner-of-war-pow",
    "name": "Former Prisoner of War (POW",
    "cat": "veterans",
-   "img": "former-prisoner-of-war-pow.webp"
+   "img": "former-prisoner-of-war-pow-2026-10-26.webp",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "fraternal-initiatic-order",
@@ -208,19 +230,22 @@
    "id": "gold-star",
    "name": "Gold Star",
    "cat": "veterans",
-   "img": "gold-star.webp"
+   "img": "gold-star-2026-10-26.webp",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "historic-black-white",
    "name": "Historic Black & White",
    "cat": "other",
-   "img": "historic-black-white.webp"
+   "img": "historic-black-white-2026-10-26.webp",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "honoring-heroes",
    "name": "Honoring Heroes",
    "cat": "other",
-   "img": "honoring-heroes.webp"
+   "img": "honoring-heroes-2026-10-26.webp",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "humanitarian-service",
@@ -250,7 +275,8 @@
    "id": "martin-luther-king",
    "name": "Martin Luther King",
    "cat": "other",
-   "img": "martin-luther-king.webp"
+   "img": "martin-luther-king-2026-10-26.webp",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "national-basketball-association-nba-utah",
@@ -263,19 +289,22 @@
    "id": "national-guard",
    "name": "National Guard",
    "cat": "military",
-   "img": "national-guard.webp"
+   "img": "national-guard-2026-10-26.webp",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "national-men-s-soccer-real-salt-lake",
    "name": "National Men’s Soccer – Real Salt Lake",
    "cat": "sports",
-   "img": "national-men-s-soccer-real-salt-lake.webp"
+   "img": "national-men-s-soccer-real-salt-lake-2026-10-26.webp",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "no-more-homeless-pets",
    "name": "No More Homeless Pets",
    "cat": "charity",
-   "img": "no-more-homeless-pets.webp"
+   "img": "no-more-homeless-pets-2026-10-26.webp",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "olympic",
@@ -288,7 +317,8 @@
    "id": "pearl-harbor-survivor",
    "name": "Pearl Harbor Survivor",
    "cat": "veterans",
-   "img": "pearl-harbor-survivor.webp"
+   "img": "pearl-harbor-survivor-2026-10-26.webp",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "prostate-cancer-awareness",
@@ -301,7 +331,8 @@
    "id": "public-education-support",
    "name": "Public Education Support",
    "cat": "charity",
-   "img": "public-education-support.webp"
+   "img": "public-education-support-2026-10-26.webp",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "publicly-owned-vehicles",
@@ -313,13 +344,15 @@
    "id": "purple-heart-combat-wounded",
    "name": "Purple Heart/Combat Wounded",
    "cat": "veterans",
-   "img": "purple-heart-combat-wounded.webp"
+   "img": "purple-heart-combat-wounded-2026-10-26.webp",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "search-and-rescue-teams",
    "name": "Search and Rescue Teams",
    "cat": "firstresponder",
-   "img": "search-and-rescue-teams.webp"
+   "img": "search-and-rescue-teams-2026-10-26.webp",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "share-the-road",
@@ -346,7 +379,8 @@
    "id": "soil-conservation",
    "name": "Soil Conservation",
    "cat": "nature",
-   "img": "soil-conservation.webp"
+   "img": "soil-conservation-2026-10-26.webp",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "special-interest",
@@ -378,13 +412,15 @@
    "id": "utah-housing-opportunity-realtor",
    "name": "Utah Housing Opportunity (Realtor",
    "cat": "other",
-   "img": "utah-housing-opportunity-realtor.webp"
+   "img": "utah-housing-opportunity-realtor-2026-10-26.webp",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "utah-law-enforcement-memorial",
    "name": "Utah Law Enforcement Memorial",
    "cat": "firstresponder",
-   "img": "utah-law-enforcement-memorial.webp"
+   "img": "utah-law-enforcement-memorial-2026-10-26.webp",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "veteran-combat-theater-air-force-combat-",
@@ -414,7 +450,8 @@
    "id": "veterans-air-force",
    "name": "Veterans – Air Force",
    "cat": "veterans",
-   "img": "veterans-air-force.webp"
+   "img": "veterans-air-force-2026-10-26.webp",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "veterans-american-legion",
@@ -583,6 +620,24 @@
    "cat": "colleges",
    "img": "weber-state-university-athletic.webp",
    "added": "2026-10-26",
+   "source": "https://dmv.utah.gov/plates/license-plates/"
+  },
+  {
+   "id": "utah-grand-lodge",
+   "name": "Utah Grand Lodge",
+   "cat": "other",
+   "img": "utah-grand-lodge.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://dmv.utah.gov/plates/license-plates/"
+  },
+  {
+   "id": "utah-rotary",
+   "name": "Utah Rotary",
+   "cat": "hobby",
+   "img": "utah-rotary.webp",
+   "added": "2026-10-26",
+   "auto": true,
    "source": "https://dmv.utah.gov/plates/license-plates/"
   }
  ],

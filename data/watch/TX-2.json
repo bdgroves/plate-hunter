@@ -6,7 +6,7 @@
   "/discontinued/100Year.png": {
    "src": "https://cdn.myplates.com/discontinued/100Year.png",
    "alt": "100 Year - Discontinued",
-   "verdict": "pending:TX-100-year-discontinued"
+   "verdict": "rejected"
   },
   "/discontinued/auto.AllenISD.png": {
    "src": "https://cdn.myplates.com/discontinued/auto.AllenISD.png",
@@ -16,12 +16,12 @@
   "/discontinued/auto.Arizona.png": {
    "src": "https://cdn.myplates.com/discontinued/auto.Arizona.png",
    "alt": "University of Arizona - Discontinued",
-   "verdict": "pending:TX-university-of-arizona-discontinued"
+   "verdict": "new:university-of-arizona"
   },
   "/discontinued/auto.BishopLynch.png": {
    "src": "https://cdn.myplates.com/discontinued/auto.BishopLynch.png",
    "alt": "Bishop Lynch High School - Discontinued",
-   "verdict": "pending:TX-bishop-lynch-high-school-discontinued"
+   "verdict": "new:bishop-lynch-high-school"
   },
   "/discontinued/auto.Boise.png": {
    "src": "https://cdn.myplates.com/discontinued/auto.Boise.png",
@@ -31,32 +31,32 @@
   "/discontinued/auto.CamoGreen.png": {
    "src": "https://cdn.myplates.com/discontinued/auto.CamoGreen.png",
    "alt": "Green Camo - Discontinued",
-   "verdict": "pending:TX-green-camo-discontinued"
+   "verdict": "new:green-camo"
   },
   "/discontinued/auto.CamoPink.png": {
    "src": "https://cdn.myplates.com/discontinued/auto.CamoPink.png",
    "alt": "Pink Camo - Discontinued",
-   "verdict": "pending:TX-pink-camo-discontinued"
+   "verdict": "new:pink-camo"
   },
   "/discontinued/auto.Coppell.png": {
    "src": "https://cdn.myplates.com/discontinued/auto.Coppell.png",
    "alt": "Coppell Cowboys - Discontinued",
-   "verdict": "pending:TX-coppell-cowboys-discontinued"
+   "verdict": "new:coppell-cowboys"
   },
   "/discontinued/auto.DrPepper.png": {
    "src": "https://cdn.myplates.com/discontinued/auto.DrPepper.png",
    "alt": "Dr Pepper - Discontinued",
-   "verdict": "pending:TX-dr-pepper-discontinued"
+   "verdict": "new:dr-pepper"
   },
   "/discontinued/auto.FordOval.png": {
    "src": "https://cdn.myplates.com/discontinued/auto.FordOval.png",
    "alt": "Ford Motor Company - Oval - Discontinued",
-   "verdict": "pending:TX-ford-motor-company-oval-discontinued"
+   "verdict": "new:ford-motor-company-oval"
   },
   "/discontinued/auto.FordTough.png": {
    "src": "https://cdn.myplates.com/discontinued/auto.FordTough.png",
    "alt": "Ford Motor Company - Tough - Discontinued",
-   "verdict": "pending:TX-ford-motor-company-tough-discontinued"
+   "verdict": "new:ford-motor-company-built-ford-tough"
   },
   "/discontinued/auto.Freebirds.png": {
    "src": "https://cdn.myplates.com/discontinued/auto.Freebirds.png",
@@ -66,12 +66,12 @@
   "/discontinued/auto.FtWorthCats.png": {
    "src": "https://cdn.myplates.com/discontinued/auto.FtWorthCats.png",
    "alt": "Ft. Worth Cats Baseball Club - Discontinued",
-   "verdict": "pending:TX-ft-worth-cats-baseball-club-discontinued"
+   "verdict": "new:fort-worth-cats-baseball-club"
   },
   "/discontinued/auto.FtWorthZoo.png": {
    "src": "https://cdn.myplates.com/discontinued/auto.FtWorthZoo.png",
    "alt": "Fort Worth Zoo - Discontinued",
-   "verdict": "pending:TX-fort-worth-zoo-discontinued"
+   "verdict": "new:fort-worth-zoo"
   },
   "/discontinued/auto.GeorgiaTech.png": {
    "src": "https://cdn.myplates.com/discontinued/auto.GeorgiaTech.png",
@@ -81,32 +81,32 @@
   "/discontinued/auto.Grtu.png": {
    "src": "https://cdn.myplates.com/discontinued/auto.Grtu.png",
    "alt": "Guadalupe River Trout Unlimited - Discontinued",
-   "verdict": "pending:TX-guadalupe-river-trout-unlimited-disconti"
+   "verdict": "new:guadalupe-river-trout-unlimited"
   },
   "/discontinued/auto.HighlandPark.png": {
    "src": "https://cdn.myplates.com/discontinued/auto.HighlandPark.png",
    "alt": "Highland Park ISD - Discontinued",
-   "verdict": "pending:TX-highland-park-isd-discontinued"
+   "verdict": "new:highland-park-isd"
   },
   "/discontinued/auto.HoustonDynamo.png": {
    "src": "https://cdn.myplates.com/discontinued/auto.HoustonDynamo.png",
    "alt": "Houston Dynamo - Discontinued",
-   "verdict": "pending:TX-houston-dynamo-discontinued"
+   "verdict": "new:houston-dynamo"
   },
   "/discontinued/auto.IndianaUniversity.png": {
    "src": "https://cdn.myplates.com/discontinued/auto.IndianaUniversity.png",
    "alt": "Indiana University - Discontinued",
-   "verdict": "pending:TX-indiana-university-discontinued"
+   "verdict": "new:indiana-university"
   },
   "/discontinued/auto.JesuitDallas.png": {
    "src": "https://cdn.myplates.com/discontinued/auto.JesuitDallas.png",
    "alt": "Jesuit Dallas - Discontinued",
-   "verdict": "pending:TX-jesuit-dallas-discontinued"
+   "verdict": "new:jesuit-dallas"
   },
   "/discontinued/auto.Keller.png": {
    "src": "https://cdn.myplates.com/discontinued/auto.Keller.png",
    "alt": "Keller High School - Discontinued",
-   "verdict": "pending:TX-keller-high-school-discontinued"
+   "verdict": "new:keller-high-school"
   },
   "/discontinued/auto.KellerWilliams.png": {
    "src": "https://cdn.myplates.com/discontinued/auto.KellerWilliams.png",
@@ -121,12 +121,12 @@
   "/discontinued/auto.LakeDallas.png": {
    "src": "https://cdn.myplates.com/discontinued/auto.LakeDallas.png",
    "alt": "Lake Dallas ISD - Discontinued",
-   "verdict": "pending:TX-lake-dallas-isd-discontinued"
+   "verdict": "new:lake-dallas-isd"
   },
   "/discontinued/auto.LibertyChristian.png": {
    "src": "https://cdn.myplates.com/discontinued/auto.LibertyChristian.png",
    "alt": "Liberty Christian School - Discontinued",
-   "verdict": "pending:TX-liberty-christian-school-discontinued"
+   "verdict": "new:liberty-christian-school"
   },
   "/discontinued/auto.Longview.png": {
    "src": "https://cdn.myplates.com/discontinued/auto.Longview.png",
@@ -136,52 +136,52 @@
   "/discontinued/auto.MidlandHighSchool.png": {
    "src": "https://cdn.myplates.com/discontinued/auto.MidlandHighSchool.png",
    "alt": "Midland High School - Discontinued",
-   "verdict": "pending:TX-midland-high-school-discontinued"
+   "verdict": "new:midland-high-school"
   },
   "/discontinued/auto.MidlandLeeHS.png": {
    "src": "https://cdn.myplates.com/discontinued/auto.MidlandLeeHS.png",
    "alt": "Lee High School Midland - Discontinued",
-   "verdict": "pending:TX-lee-high-school-midland-discontinued"
+   "verdict": "new:lee-high-school-midland"
   },
   "/discontinued/auto.NWTF.png": {
    "src": "https://cdn.myplates.com/discontinued/auto.NWTF.png",
    "alt": "National Wild Turkey Federation - Discontinued",
-   "verdict": "pending:TX-national-wild-turkey-federation-disconti"
+   "verdict": "new:national-wild-turkey-federation"
   },
   "/discontinued/auto.Nascar2.png": {
    "src": "https://cdn.myplates.com/discontinued/auto.Nascar2.png",
    "alt": "NASCAR - Discontinued",
-   "verdict": "pending:TX-nascar-discontinued"
+   "verdict": "new:nascar"
   },
   "/discontinued/auto.NascarDaleJr2.png": {
    "src": "https://cdn.myplates.com/discontinued/auto.NascarDaleJr2.png",
    "alt": "NASCAR 88 Dale Jr - Discontinued",
-   "verdict": "pending:TX-nascar-88-dale-jr-discontinued"
+   "verdict": "new:nascar-88-dale-earnhardt-jr"
   },
   "/discontinued/auto.NascarHOF2.png": {
    "src": "https://cdn.myplates.com/discontinued/auto.NascarHOF2.png",
    "alt": "NASCAR Hall Of Fame - Dale Earnhardt - Discontinued",
-   "verdict": "pending:TX-customer-service"
+   "verdict": "new:nascar-3-dale-earnhardt"
   },
   "/discontinued/auto.NascarJeffGordon2.png": {
    "src": "https://cdn.myplates.com/discontinued/auto.NascarJeffGordon2.png",
    "alt": "NASCAR 24 Jeff Gordon - Discontinued",
-   "verdict": "pending:TX-nascar-24-jeff-gordon-discontinued"
+   "verdict": "new:nascar-24-jeff-gordon"
   },
   "/discontinued/auto.OdessaHS.png": {
    "src": "https://cdn.myplates.com/discontinued/auto.OdessaHS.png",
    "alt": "Odessa High School - Discontinued",
-   "verdict": "pending:TX-odessa-high-school-discontinued"
+   "verdict": "new:odessa-high-school"
   },
   "/discontinued/auto.Olympic.png": {
    "src": "https://cdn.myplates.com/discontinued/auto.Olympic.png",
    "alt": "Olympic - Team USA - Discontinued",
-   "verdict": "pending:TX-olympic-team-usa-discontinued"
+   "verdict": "new:olympic-team-usa"
   },
   "/discontinued/auto.PermianHS.png": {
    "src": "https://cdn.myplates.com/discontinued/auto.PermianHS.png",
    "alt": "Permian High School - Discontinued",
-   "verdict": "pending:TX-permian-high-school-discontinued"
+   "verdict": "new:permian-high-school"
   },
   "/discontinued/auto.PhiBetaSigma.png": {
    "src": "https://cdn.myplates.com/discontinued/auto.PhiBetaSigma.png",
@@ -196,17 +196,17 @@
   "/discontinued/auto.RecycleTexas.png": {
    "src": "https://cdn.myplates.com/discontinued/auto.RecycleTexas.png",
    "alt": "State of Texas Alliance for Recycling - Discontinued",
-   "verdict": "pending:TX-customer-service-x"
+   "verdict": "new:recycle-texas"
   },
   "/discontinued/auto.SMU2.png": {
    "src": "https://cdn.myplates.com/discontinued/auto.SMU2.png",
    "alt": "SMU - White - Discontinued",
-   "verdict": "pending:TX-smu-white-discontinued"
+   "verdict": "rejected"
   },
   "/discontinued/auto.SamHoustonState.png": {
    "src": "https://cdn.myplates.com/discontinued/auto.SamHoustonState.png",
    "alt": "Sam Houston State University - Discontinued",
-   "verdict": "pending:TX-sam-houston-state-university-discontinue"
+   "verdict": "rejected"
   },
   "/discontinued/auto.SigmaGammaRho.png": {
    "src": "https://cdn.myplates.com/discontinued/auto.SigmaGammaRho.png",
@@ -216,17 +216,17 @@
   "/discontinued/auto.StreamEnergy.png": {
    "src": "https://cdn.myplates.com/discontinued/auto.StreamEnergy.png",
    "alt": "Ignite - Stream Energy - Discontinued",
-   "verdict": "pending:TX-ignite-stream-energy-discontinued"
+   "verdict": "new:ignite-stream-energy"
   },
   "/discontinued/auto.TAMUCC.png": {
    "src": "https://cdn.myplates.com/discontinued/auto.TAMUCC.png",
    "alt": "Texas A&M Corpus Christi - Discontinued",
-   "verdict": "pending:TX-texas-a-m-corpus-christi-discontinued"
+   "verdict": "new:texas-a-m-corpus-christi"
   },
   "/discontinued/auto.TMS.png": {
    "src": "https://cdn.myplates.com/discontinued/auto.TMS.png",
    "alt": "Texas Motor Speedway - Discontinued",
-   "verdict": "pending:TX-texas-motor-speedway-discontinued"
+   "verdict": "new:texas-motor-speedway"
   },
   "/discontinued/auto.TXNavyAdmiral2.png": {
    "src": "https://cdn.myplates.com/discontinued/auto.TXNavyAdmiral2.png",
@@ -236,7 +236,7 @@
   "/discontinued/auto.TXNursePractitioner.png": {
    "src": "https://cdn.myplates.com/discontinued/auto.TXNursePractitioner.png",
    "alt": "Texas Nurse Practitioners - Discontinued",
-   "verdict": "pending:TX-texas-nurse-practitioners-discontinued"
+   "verdict": "new:texas-nurse-practitioners"
   },
   "/discontinued/auto.Texas811.png": {
    "src": "https://cdn.myplates.com/discontinued/auto.Texas811.png",
@@ -246,7 +246,7 @@
   "/discontinued/auto.TexasRoadHouse.png": {
    "src": "https://cdn.myplates.com/discontinued/auto.TexasRoadHouse.png",
    "alt": "Texas Roadhouse - Discontinued",
-   "verdict": "pending:TX-texas-roadhouse-discontinued"
+   "verdict": "new:texas-roadhouse"
   },
   "/discontinued/auto.TexasStars.png": {
    "src": "https://cdn.myplates.com/discontinued/auto.TexasStars.png",
@@ -256,17 +256,17 @@
   "/discontinued/auto.TrinityU.png": {
    "src": "https://cdn.myplates.com/discontinued/auto.TrinityU.png",
    "alt": "Trinity University - Discontinued",
-   "verdict": "pending:TX-trinity-university-discontinued"
+   "verdict": "new:trinity-university"
   },
   "/discontinued/auto.TylerJuniorCollege.png": {
    "src": "https://cdn.myplates.com/discontinued/auto.TylerJuniorCollege.png",
    "alt": "Tyler Junior College Apache Belles - Discontinued",
-   "verdict": "pending:TX-customer-service-x-x"
+   "verdict": "new:tyler-junior-college"
   },
   "/discontinued/rockets.png": {
    "src": "https://cdn.myplates.com/discontinued/rockets.png",
    "alt": "Houston Rockets - Discontinued",
-   "verdict": "pending:TX-houston-rockets-discontinued"
+   "verdict": "rejected"
   }
  },
  "checked": "2026-10-26"

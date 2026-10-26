@@ -3,7 +3,7 @@
  "name": "Texas",
  "rated": false,
  "checked": true,
- "updated": "2026-10-25",
+ "updated": "2026-10-26",
  "about": "Texas special-design plates. Not rated yet: every plate is worth the same. Partly checked for plates added since 2023. Checked for plates added since 2023 on 2026-10-26. Checked for plates added since 2023 on 2026-10-26.",
  "sources": [
   {
@@ -3311,6 +3311,366 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://www.myplates.com/api/plates"
+  },
+  {
+   "id": "bishop-lynch-high-school",
+   "name": "Bishop Lynch High School",
+   "cat": "charity",
+   "img": "bishop-lynch-high-school.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.myplates.com/discontinued-plates",
+   "retired": true
+  },
+  {
+   "id": "coppell-cowboys",
+   "name": "Coppell Cowboys",
+   "cat": "sports",
+   "img": "coppell-cowboys.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.myplates.com/discontinued-plates",
+   "retired": true
+  },
+  {
+   "id": "nascar-3-dale-earnhardt",
+   "name": "NASCAR 3 Dale Earnhardt",
+   "cat": "sports",
+   "img": "nascar-3-dale-earnhardt.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.myplates.com/discontinued-plates",
+   "retired": true
+  },
+  {
+   "id": "recycle-texas",
+   "name": "Recycle Texas",
+   "cat": "nature",
+   "img": "recycle-texas.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.myplates.com/discontinued-plates",
+   "retired": true
+  },
+  {
+   "id": "tyler-junior-college",
+   "name": "Tyler Junior College",
+   "cat": "colleges",
+   "img": "tyler-junior-college.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.myplates.com/discontinued-plates",
+   "retired": true
+  },
+  {
+   "id": "dr-pepper",
+   "name": "Dr Pepper",
+   "cat": "other",
+   "img": "dr-pepper.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.myplates.com/discontinued-plates",
+   "retired": true
+  },
+  {
+   "id": "ford-motor-company-oval",
+   "name": "Ford Motor Company - Oval",
+   "cat": "other",
+   "img": "ford-motor-company-oval.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.myplates.com/discontinued-plates",
+   "retired": true
+  },
+  {
+   "id": "ford-motor-company-built-ford-tough",
+   "name": "Ford Motor Company - Built Ford Tough",
+   "cat": "other",
+   "img": "ford-motor-company-built-ford-tough.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.myplates.com/discontinued-plates",
+   "retired": true
+  },
+  {
+   "id": "fort-worth-zoo",
+   "name": "Fort Worth Zoo",
+   "cat": "nature",
+   "img": "fort-worth-zoo.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.myplates.com/discontinued-plates",
+   "retired": true
+  },
+  {
+   "id": "fort-worth-cats-baseball-club",
+   "name": "Fort Worth Cats Baseball Club",
+   "cat": "sports",
+   "img": "fort-worth-cats-baseball-club.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.myplates.com/discontinued-plates",
+   "retired": true
+  },
+  {
+   "id": "green-camo",
+   "name": "Green Camo",
+   "cat": "other",
+   "img": "green-camo.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.myplates.com/discontinued-plates",
+   "retired": true
+  },
+  {
+   "id": "guadalupe-river-trout-unlimited",
+   "name": "Guadalupe River Trout Unlimited",
+   "cat": "nature",
+   "img": "guadalupe-river-trout-unlimited.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.myplates.com/discontinued-plates",
+   "retired": true
+  },
+  {
+   "id": "highland-park-isd",
+   "name": "Highland Park ISD",
+   "cat": "nature",
+   "img": "highland-park-isd.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.myplates.com/discontinued-plates",
+   "retired": true
+  },
+  {
+   "id": "houston-dynamo",
+   "name": "Houston Dynamo",
+   "cat": "other",
+   "img": "houston-dynamo.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.myplates.com/discontinued-plates",
+   "retired": true
+  },
+  {
+   "id": "ignite-stream-energy",
+   "name": "Ignite - Stream Energy",
+   "cat": "other",
+   "img": "ignite-stream-energy.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.myplates.com/discontinued-plates",
+   "retired": true
+  },
+  {
+   "id": "indiana-university",
+   "name": "Indiana University",
+   "cat": "colleges",
+   "img": "indiana-university.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.myplates.com/discontinued-plates",
+   "retired": true
+  },
+  {
+   "id": "jesuit-dallas",
+   "name": "Jesuit Dallas",
+   "cat": "other",
+   "img": "jesuit-dallas.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.myplates.com/discontinued-plates",
+   "retired": true
+  },
+  {
+   "id": "keller-high-school",
+   "name": "Keller High School",
+   "cat": "charity",
+   "img": "keller-high-school.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.myplates.com/discontinued-plates",
+   "retired": true
+  },
+  {
+   "id": "lake-dallas-isd",
+   "name": "Lake Dallas ISD",
+   "cat": "nature",
+   "img": "lake-dallas-isd.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.myplates.com/discontinued-plates",
+   "retired": true
+  },
+  {
+   "id": "lee-high-school-midland",
+   "name": "Lee High School Midland",
+   "cat": "charity",
+   "img": "lee-high-school-midland.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.myplates.com/discontinued-plates",
+   "retired": true
+  },
+  {
+   "id": "liberty-christian-school",
+   "name": "Liberty Christian School",
+   "cat": "charity",
+   "img": "liberty-christian-school.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.myplates.com/discontinued-plates",
+   "retired": true
+  },
+  {
+   "id": "midland-high-school",
+   "name": "Midland High School",
+   "cat": "charity",
+   "img": "midland-high-school.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.myplates.com/discontinued-plates",
+   "retired": true
+  },
+  {
+   "id": "nascar-24-jeff-gordon",
+   "name": "NASCAR 24 Jeff Gordon",
+   "cat": "sports",
+   "img": "nascar-24-jeff-gordon.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.myplates.com/discontinued-plates",
+   "retired": true
+  },
+  {
+   "id": "nascar-88-dale-earnhardt-jr",
+   "name": "NASCAR 88 Dale Earnhardt Jr",
+   "cat": "sports",
+   "img": "nascar-88-dale-earnhardt-jr.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.myplates.com/discontinued-plates",
+   "retired": true
+  },
+  {
+   "id": "nascar",
+   "name": "NASCAR",
+   "cat": "sports",
+   "img": "nascar.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.myplates.com/discontinued-plates",
+   "retired": true
+  },
+  {
+   "id": "national-wild-turkey-federation",
+   "name": "National Wild Turkey Federation",
+   "cat": "sports",
+   "img": "national-wild-turkey-federation.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.myplates.com/discontinued-plates",
+   "retired": true
+  },
+  {
+   "id": "odessa-high-school",
+   "name": "Odessa High School",
+   "cat": "charity",
+   "img": "odessa-high-school.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.myplates.com/discontinued-plates",
+   "retired": true
+  },
+  {
+   "id": "olympic-team-usa",
+   "name": "Olympic - Team USA",
+   "cat": "sports",
+   "img": "olympic-team-usa.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.myplates.com/discontinued-plates",
+   "retired": true
+  },
+  {
+   "id": "permian-high-school",
+   "name": "Permian High School",
+   "cat": "charity",
+   "img": "permian-high-school.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.myplates.com/discontinued-plates",
+   "retired": true
+  },
+  {
+   "id": "pink-camo",
+   "name": "Pink Camo",
+   "cat": "other",
+   "img": "pink-camo.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.myplates.com/discontinued-plates",
+   "retired": true
+  },
+  {
+   "id": "texas-a-m-corpus-christi",
+   "name": "Texas A&M Corpus Christi",
+   "cat": "other",
+   "img": "texas-a-m-corpus-christi.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.myplates.com/discontinued-plates",
+   "retired": true
+  },
+  {
+   "id": "texas-motor-speedway",
+   "name": "Texas Motor Speedway",
+   "cat": "sports",
+   "img": "texas-motor-speedway.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.myplates.com/discontinued-plates",
+   "retired": true
+  },
+  {
+   "id": "texas-nurse-practitioners",
+   "name": "Texas Nurse Practitioners",
+   "cat": "other",
+   "img": "texas-nurse-practitioners.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.myplates.com/discontinued-plates",
+   "retired": true
+  },
+  {
+   "id": "texas-roadhouse",
+   "name": "Texas Roadhouse",
+   "cat": "other",
+   "img": "texas-roadhouse.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.myplates.com/discontinued-plates",
+   "retired": true
+  },
+  {
+   "id": "trinity-university",
+   "name": "Trinity University",
+   "cat": "colleges",
+   "img": "trinity-university.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.myplates.com/discontinued-plates",
+   "retired": true
+  },
+  {
+   "id": "university-of-arizona",
+   "name": "University of Arizona",
+   "cat": "colleges",
+   "img": "university-of-arizona.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.myplates.com/discontinued-plates",
+   "retired": true
   }
  ],
  "checked_on": "2026-10-26"

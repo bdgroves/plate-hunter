@@ -56,7 +56,7 @@
   "/PublishingImages/dmv/shared/plates/TRE.png": {
    "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/TRE.png",
    "alt": "Wisconsin National Guard license plate.",
-   "verdict": "pending:WI-wisconsin-national-guard"
+   "verdict": "new:support-county-forests"
   },
   "/PublishingImages/dmv/shared/plates/UTLPlate2020.png": {
    "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/UTLPlate2020.png",
@@ -131,12 +131,12 @@
   "/PublishingImages/dmv/shared/plates/cyc-vet-current.jpg": {
    "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/cyc-vet-current.jpg",
    "alt": "U.S. veteran motorcycle - Current design issued in 2003.",
-   "verdict": "pending:WI-current-design-issued-in-2003"
+   "verdict": "rejected"
   },
   "/PublishingImages/dmv/shared/plates/cycvet-org.gif": {
    "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/cycvet-org.gif",
    "alt": "U.S. veteran motorcycle - Issued in 2002 through 2003.",
-   "verdict": "pending:WI-issued-in-2002-through-2003"
+   "verdict": "rejected"
   },
   "/PublishingImages/dmv/shared/plates/dis-vet-09.gif": {
    "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/dis-vet-09.gif",
@@ -161,7 +161,7 @@
   "/PublishingImages/dmv/shared/plates/eagle-200.png": {
    "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/eagle-200.png",
    "alt": "Eagle plate",
-   "verdict": "pending:WI-eagle"
+   "verdict": "rejected"
   },
   "/PublishingImages/dmv/shared/plates/elk-plate-200px.png": {
    "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/elk-plate-200px.png",
@@ -321,7 +321,7 @@
   "/PublishingImages/dmv/shared/plates/spec-design.gif": {
    "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/spec-design.gif",
    "alt": "Special designed vehicle - Designed issued 1992 through 2003.",
-   "verdict": "pending:WI-designed-issued-1992-through-2003"
+   "verdict": "rejected"
   },
   "/PublishingImages/dmv/shared/plates/trout.jpg": {
    "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/trout.jpg",

@@ -11,12 +11,12 @@
   "/wp-content/uploads/airforce-1.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/airforce-1.png",
    "alt": "air force",
-   "verdict": "pending:UT-air-force"
+   "verdict": "plate:veterans-air-force"
   },
   "/wp-content/uploads/amateurradio-1.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/amateurradio-1.png",
    "alt": "Amateur Radio",
-   "verdict": "pending:UT-amateur-radio"
+   "verdict": "plate:amateur-radio"
   },
   "/wp-content/uploads/arches.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/arches.png",
@@ -26,17 +26,17 @@
   "/wp-content/uploads/autism-1.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/autism-1.png",
    "alt": "autism",
-   "verdict": "pending:UT-autism"
+   "verdict": "plate:autism-awareness"
   },
   "/wp-content/uploads/boysgirls-1.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/boysgirls-1.png",
    "alt": "boys and girls clubs",
-   "verdict": "pending:UT-boys-and-girls-clubs"
+   "verdict": "plate:boys-and-girls-clubs"
   },
   "/wp-content/uploads/bsa-1.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/bsa-1.png",
    "alt": "boy scouts of america",
-   "verdict": "pending:UT-boy-scouts-of-america"
+   "verdict": "plate:boy-scouts-of-america"
   },
   "/wp-content/uploads/byu-1.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/byu-1.png",
@@ -51,7 +51,7 @@
   "/wp-content/uploads/cancerresearch-1.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/cancerresearch-1.png",
    "alt": "cancer research",
-   "verdict": "pending:UT-cancer-research"
+   "verdict": "plate:cancer-research"
   },
   "/wp-content/uploads/centennial.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/centennial.png",
@@ -66,12 +66,12 @@
   "/wp-content/uploads/childern.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/childern.png",
    "alt": "invest in children",
-   "verdict": "pending:UT-invest-in-children"
+   "verdict": "plate:children-s-issues"
   },
   "/wp-content/uploads/civil-air-patrol.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/civil-air-patrol.png",
    "alt": "civil air patrol",
-   "verdict": "pending:UT-civil-air-patrol"
+   "verdict": "plate:civil-air-patrol"
   },
   "/wp-content/uploads/cleanfuel.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/cleanfuel.png",
@@ -81,32 +81,32 @@
   "/wp-content/uploads/disabled-1.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/disabled-1.png",
    "alt": "disabled person",
-   "verdict": "pending:UT-disabled-person"
+   "verdict": "plate:disabled"
   },
   "/wp-content/uploads/disabledveteran-1.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/disabledveteran-1.png",
    "alt": "disabled veteran",
-   "verdict": "pending:UT-disabled-veteran"
+   "verdict": "plate:disabled-veteran"
   },
   "/wp-content/uploads/donatelife-1.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/donatelife-1.png",
    "alt": "donate life",
-   "verdict": "pending:UT-donate-life"
+   "verdict": "plate:donate-life"
   },
   "/wp-content/uploads/education-1.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/education-1.png",
    "alt": "education",
-   "verdict": "pending:UT-education"
+   "verdict": "plate:public-education-support"
   },
   "/wp-content/uploads/emt-1.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/emt-1.png",
    "alt": "emergency medical technician",
-   "verdict": "pending:UT-emergency-medical-technician"
+   "verdict": "plate:emergency-medical-technician-emt"
   },
   "/wp-content/uploads/ensigncollege-1.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/ensigncollege-1.png",
    "alt": "ensign college",
-   "verdict": "pending:UT-ensign-college"
+   "verdict": "plate:collegiate-ensign-college"
   },
   "/wp-content/uploads/everyone-outdoors-1.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/everyone-outdoors-1.png",
@@ -121,22 +121,22 @@
   "/wp-content/uploads/farmvehicle-1.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/farmvehicle-1.png",
    "alt": "farm vehicle",
-   "verdict": "pending:UT-farm-vehicle"
+   "verdict": "plate:farm"
   },
   "/wp-content/uploads/firefighter-1.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/firefighter-1.png",
    "alt": "fire fighter",
-   "verdict": "pending:UT-fire-fighter"
+   "verdict": "plate:firefighter"
   },
   "/wp-content/uploads/fraternalorder-1.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/fraternalorder-1.png",
    "alt": "fraternal order",
-   "verdict": "pending:UT-fire-fighter-former-prisoner-of-war-pow"
+   "verdict": "new:utah-grand-lodge"
   },
   "/wp-content/uploads/goldstar-1.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/goldstar-1.png",
    "alt": "gold star",
-   "verdict": "pending:UT-gold-star"
+   "verdict": "plate:gold-star"
   },
   "/wp-content/uploads/gsl-1.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/gsl-1.png",
@@ -146,12 +146,12 @@
   "/wp-content/uploads/heroes-1.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/heroes-1.png",
    "alt": "honoring heroes foundation",
-   "verdict": "pending:UT-honoring-heroes-foundation"
+   "verdict": "plate:honoring-heroes"
   },
   "/wp-content/uploads/historicbw.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/historicbw.png",
    "alt": "historic black and white",
-   "verdict": "pending:UT-historic-black-and-white"
+   "verdict": "plate:historic-black-white"
   },
   "/wp-content/uploads/hitoric-white.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/hitoric-white.png",
@@ -161,12 +161,12 @@
   "/wp-content/uploads/humanitarian-1.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/humanitarian-1.png",
    "alt": "utah rotary humanitarian",
-   "verdict": "pending:UT-utah-rotary-humanitarian"
+   "verdict": "new:utah-rotary"
   },
   "/wp-content/uploads/lawenforcementmemorial-1.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/lawenforcementmemorial-1.png",
    "alt": "law enforcement memorial",
-   "verdict": "pending:UT-law-enforcement-memorial"
+   "verdict": "plate:utah-law-enforcement-memorial"
   },
   "/wp-content/uploads/liveon-1.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/liveon-1.png",
@@ -186,12 +186,12 @@
   "/wp-content/uploads/mlk-1.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/mlk-1.png",
    "alt": "martin luther king jr",
-   "verdict": "pending:UT-martin-luther-king-jr"
+   "verdict": "plate:martin-luther-king"
   },
   "/wp-content/uploads/national-guard.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/national-guard.png",
    "alt": "utah national guard",
-   "verdict": "pending:UT-utah-national-guard"
+   "verdict": "plate:national-guard"
   },
   "/wp-content/uploads/nba-1.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/nba-1.png",
@@ -211,17 +211,17 @@
   "/wp-content/uploads/pearlharbor-1.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/pearlharbor-1.png",
    "alt": "pearl harbor survivor",
-   "verdict": "pending:UT-pearl-harbor-survivor"
+   "verdict": "plate:pearl-harbor-survivor"
   },
   "/wp-content/uploads/pets-1.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/pets-1.png",
    "alt": "No more homeless pets",
-   "verdict": "pending:UT-no-more-homeless-pets"
+   "verdict": "plate:no-more-homeless-pets"
   },
   "/wp-content/uploads/pow-1.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/pow-1.png",
    "alt": "Prisoner of war",
-   "verdict": "pending:UT-prisoner-of-war"
+   "verdict": "plate:former-prisoner-of-war-pow"
   },
   "/wp-content/uploads/prostatecancer.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/prostatecancer.png",
@@ -231,17 +231,17 @@
   "/wp-content/uploads/purpleheart-1.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/purpleheart-1.png",
    "alt": "purple heart",
-   "verdict": "pending:UT-purple-heart"
+   "verdict": "plate:purple-heart-combat-wounded"
   },
   "/wp-content/uploads/rsl-1.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/rsl-1.png",
    "alt": "Real Salt Lake soccer",
-   "verdict": "pending:UT-real-salt-lake-soccer"
+   "verdict": "plate:national-men-s-soccer-real-salt-lake"
   },
   "/wp-content/uploads/searchrescue-1.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/searchrescue-1.png",
    "alt": "search and rescue team",
-   "verdict": "pending:UT-search-and-rescue-team"
+   "verdict": "plate:search-and-rescue-teams"
   },
   "/wp-content/uploads/sharetheroad-1.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/sharetheroad-1.png",
@@ -261,7 +261,7 @@
   "/wp-content/uploads/slcc-1.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/slcc-1.png",
    "alt": "slcc",
-   "verdict": "pending:UT-slcc"
+   "verdict": "plate:collegiate-salt-lake-community-college"
   },
   "/wp-content/uploads/snow-1.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/snow-1.png",
@@ -276,7 +276,7 @@
   "/wp-content/uploads/soilconservation-1.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/soilconservation-1.png",
    "alt": "soil conservation",
-   "verdict": "pending:UT-soil-conservation"
+   "verdict": "plate:soil-conservation"
   },
   "/wp-content/uploads/specialinterestvehicle-1.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/specialinterestvehicle-1.png",
@@ -286,7 +286,7 @@
   "/wp-content/uploads/suu-2.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/suu-2.png",
    "alt": "suu",
-   "verdict": "pending:UT-suu"
+   "verdict": "plate:collegiate-southern-utah-university"
   },
   "/wp-content/uploads/uhp.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/uhp.png",
@@ -301,7 +301,7 @@
   "/wp-content/uploads/uofuacademic.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/uofuacademic.png",
    "alt": "university of utah academic",
-   "verdict": "pending:UT-university-of-utah-academic"
+   "verdict": "plate:collegiate-university-of-utah-2-options-"
   },
   "/wp-content/uploads/uofuathletic.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/uofuathletic.png",
@@ -311,7 +311,7 @@
   "/wp-content/uploads/usuacademic.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/usuacademic.png",
    "alt": "usu academic",
-   "verdict": "pending:UT-usu-academic"
+   "verdict": "plate:collegiate-utah-state-university"
   },
   "/wp-content/uploads/usuathletic.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/usuathletic.png",
@@ -326,17 +326,17 @@
   "/wp-content/uploads/utahhousing-1.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/utahhousing-1.png",
    "alt": "utah housing",
-   "verdict": "pending:UT-utah-housing"
+   "verdict": "plate:utah-housing-opportunity-realtor"
   },
   "/wp-content/uploads/utahtech-1.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/utahtech-1.png",
    "alt": "utah tech university",
-   "verdict": "pending:UT-utah-tech-university"
+   "verdict": "plate:collegiate-utah-tech-university"
   },
   "/wp-content/uploads/uvu-1.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/uvu-1.png",
    "alt": "Utah Valley university",
-   "verdict": "pending:UT-utah-valley-university"
+   "verdict": "plate:collegiate-utah-valley-university"
   },
   "/wp-content/uploads/vintagevehicle.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/vintagevehicle.png",
@@ -346,12 +346,12 @@
   "/wp-content/uploads/westminster-1.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/westminster-1.png",
    "alt": "westminster university",
-   "verdict": "pending:UT-westminster-university"
+   "verdict": "plate:collegiate-westminster-college"
   },
   "/wp-content/uploads/wgu-1.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/wgu-1.png",
    "alt": "western governors university",
-   "verdict": "pending:UT-western-governors-university"
+   "verdict": "plate:collegiate-western-governors-university"
   },
   "/wp-content/uploads/wildlifedeer-1.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/wildlifedeer-1.png",

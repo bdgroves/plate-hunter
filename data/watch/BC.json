@@ -21,7 +21,7 @@
   "/nnc41duedoho/3aZSDAzLKfkIsYlrOmGdKM/3b23c88ededdcccda8770b44561656cb/vintage-vehicles.jpeg": {
    "src": "https://images.ctfassets.net/nnc41duedoho/3aZSDAzLKfkIsYlrOmGdKM/3b23c88ededdcccda8770b44561656cb/vintage-vehicles.jpeg?w=384&q=100",
    "alt": "",
-   "verdict": "pending:BC-farm-vehicles"
+   "verdict": "new:vintage"
   },
   "/nnc41duedoho/41QN9jNJeYMesqRm7Xu7f1/3814547a421db1dcae624761a62d0ac4/prorate_plates.jpeg": {
    "src": "https://images.ctfassets.net/nnc41duedoho/41QN9jNJeYMesqRm7Xu7f1/3814547a421db1dcae624761a62d0ac4/prorate_plates.jpeg?w=384&q=100",
@@ -31,12 +31,12 @@
   "/nnc41duedoho/43LZ3MKjd4XDy8oRNirIMx/8b567d86ed6ffefa6abc9cc55ee9fc53/farm_trucks.jpeg": {
    "src": "https://images.ctfassets.net/nnc41duedoho/43LZ3MKjd4XDy8oRNirIMx/8b567d86ed6ffefa6abc9cc55ee9fc53/farm_trucks.jpeg?w=384&q=100",
    "alt": "",
-   "verdict": "pending:BC-vintage-vehicles-farm-vehicles"
+   "verdict": "rejected"
   },
   "/nnc41duedoho/5OYmQNwfFfHAAbjcfWYMKX/fac794c3f9ca5fadbe87f9767d94f765/personalized-licence-plate.jpeg": {
    "src": "https://images.ctfassets.net/nnc41duedoho/5OYmQNwfFfHAAbjcfWYMKX/fac794c3f9ca5fadbe87f9767d94f765/personalized-licence-plate.jpeg?w=384&q=100",
    "alt": "",
-   "verdict": "pending:BC-bc-parks"
+   "verdict": "rejected"
   },
   "/nnc41duedoho/68cS3EEKXAVwUkfTUtQFJm/75f56266d28e02ef2ce75831fd0a1b6c/memorial-cross-plate.png": {
    "src": "https://images.ctfassets.net/nnc41duedoho/68cS3EEKXAVwUkfTUtQFJm/75f56266d28e02ef2ce75831fd0a1b6c/memorial-cross-plate.png?w=384&q=100",
@@ -46,7 +46,7 @@
   "/nnc41duedoho/7bn4OrygNLdRvuxwGbha3j/443fb88b2a8b516849fefbb529576cf9/collector-vehicles.gif": {
    "src": "https://images.ctfassets.net/nnc41duedoho/7bn4OrygNLdRvuxwGbha3j/443fb88b2a8b516849fefbb529576cf9/collector-vehicles.gif?w=384&q=100",
    "alt": "",
-   "verdict": "pending:BC-vintage-vehicles"
+   "verdict": "new:collector"
   }
  },
  "checked": "2026-10-26"

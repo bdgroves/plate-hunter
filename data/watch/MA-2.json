@@ -6,17 +6,17 @@
   "/files/styles/565x/public/2025-02/StandardID-0921-VETERAN_0.png": {
    "src": "https://www.mass.gov/files/styles/565x/public/2025-02/StandardID-0921-VETERAN_0.png?itok=g7T9-4Vz",
    "alt": "MA Veteran Drivers License Example",
-   "verdict": "pending:MA-ma-veteran-drivers-example"
+   "verdict": "rejected"
   },
   "/files/styles/embedded_full_width/public/bronze_star1.jpg": {
    "src": "https://www.mass.gov/files/styles/embedded_full_width/public/bronze_star1.jpg?itok=oSHXNf36",
    "alt": "bronze star plate",
-   "verdict": "pending:MA-bronze-star"
+   "verdict": "rejected"
   },
   "/files/styles/embedded_full_width/public/silver_star_1.jpg": {
    "src": "https://www.mass.gov/files/styles/embedded_full_width/public/silver_star_1.jpg?itok=s6c_4HAE",
    "alt": "silver star plate",
-   "verdict": "pending:MA-silver-star"
+   "verdict": "rejected"
   },
   "/files/styles/embedded_half_width/public/bronze_star.jpg": {
    "src": "https://www.mass.gov/files/styles/embedded_half_width/public/bronze_star.jpg?itok=kchf9OYc",
@@ -26,7 +26,7 @@
   "/files/styles/embedded_half_width/public/disabledvet-1.jpg": {
    "src": "https://www.mass.gov/files/styles/embedded_half_width/public/disabledvet-1.jpg?itok=C-OxO6hr",
    "alt": "disabled veteran plate",
-   "verdict": "pending:MA-disabled-veteran"
+   "verdict": "rejected"
   },
   "/files/styles/embedded_half_width/public/ex_pow_0.jpg": {
    "src": "https://www.mass.gov/files/styles/embedded_half_width/public/ex_pow_0.jpg?itok=tUWEAD9k",

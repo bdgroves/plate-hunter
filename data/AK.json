@@ -3,7 +3,7 @@
  "name": "Alaska",
  "rated": false,
  "checked": true,
- "updated": "2026-10-25",
+ "updated": "2026-10-26",
  "about": "Alaska special-design plates. Not rated yet: every plate is worth the same. Checked for plates added since 2023 on 2026-10-26.",
  "sources": [
   {
@@ -284,6 +284,24 @@
    "cat": "military",
    "img": "space-force.webp",
    "added": "2026-10-26",
+   "source": "https://dmv.alaska.gov/vehicle-services/license-plates/"
+  },
+  {
+   "id": "university-of-alaska-southeast",
+   "name": "University of Alaska Southeast",
+   "cat": "colleges",
+   "img": "university-of-alaska-southeast.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://dmv.alaska.gov/vehicle-services/license-plates/"
+  },
+  {
+   "id": "11th-airborne-division-veteran",
+   "name": "11th Airborne Division Veteran",
+   "cat": "veterans",
+   "img": "11th-airborne-division-veteran.webp",
+   "added": "2026-10-26",
+   "auto": true,
    "source": "https://dmv.alaska.gov/vehicle-services/license-plates/"
   }
  ],

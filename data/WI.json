@@ -3,7 +3,7 @@
  "name": "Wisconsin",
  "rated": false,
  "checked": true,
- "updated": "2026-10-25",
+ "updated": "2026-10-26",
  "about": "Wisconsin special-design plates. Not rated yet: every plate is worth the same. Checked for plates added since 2023 on 2026-10-26.",
  "sources": [
   {
@@ -579,6 +579,15 @@
    "added": "2026-10-26",
    "source": "https://wisconsindot.gov/Pages/about-wisdot/newsroom/news-rel/073126rotary.aspx",
    "year": "2026"
+  },
+  {
+   "id": "support-county-forests",
+   "name": "Support County Forests",
+   "cat": "nature",
+   "img": "support-county-forests.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/special.aspx"
   }
  ],
  "checked_on": "2026-10-26"

@@ -6,7 +6,7 @@
   "/sites/dmv/files/images/Afghanistan_web.jpg": {
    "src": "https://dmv.vermont.gov/sites/dmv/files/images/Afghanistan_web.jpg",
    "alt": "",
-   "verdict": "pending:VT-required-forms-x"
+   "verdict": "rejected"
   },
   "/sites/dmv/files/images/Gold.png": {
    "src": "https://dmv.vermont.gov/sites/dmv/files/images/Gold.png",
@@ -16,12 +16,12 @@
   "/sites/dmv/files/images/Gulf%20War_web.jpg": {
    "src": "https://dmv.vermont.gov/sites/dmv/files/images/Gulf%20War_web.jpg",
    "alt": "",
-   "verdict": "pending:VT-required-forms-x-x"
+   "verdict": "rejected"
   },
   "/sites/dmv/files/images/Iraq_web.jpg": {
    "src": "https://dmv.vermont.gov/sites/dmv/files/images/Iraq_web.jpg",
    "alt": "",
-   "verdict": "pending:VT-required-forms-x-x-x"
+   "verdict": "rejected"
   },
   "/sites/dmv/files/images/Kin.jpg": {
    "src": "https://dmv.vermont.gov/sites/dmv/files/images/Kin.jpg",
@@ -31,7 +31,7 @@
   "/sites/dmv/files/images/Korean%20War_web.jpg": {
    "src": "https://dmv.vermont.gov/sites/dmv/files/images/Korean%20War_web.jpg",
    "alt": "",
-   "verdict": "pending:VT-required-forms-x-x-x-x"
+   "verdict": "rejected"
   },
   "/sites/dmv/files/images/National%20Guard_web.jpg": {
    "src": "https://dmv.vermont.gov/sites/dmv/files/images/National%20Guard_web.jpg",
@@ -46,7 +46,7 @@
   "/sites/dmv/files/images/Purple%20Heart_web.jpg": {
    "src": "https://dmv.vermont.gov/sites/dmv/files/images/Purple%20Heart_web.jpg",
    "alt": "",
-   "verdict": "pending:VT-required-forms"
+   "verdict": "rejected"
   },
   "/sites/dmv/files/images/US%20Veteran_web.jpg": {
    "src": "https://dmv.vermont.gov/sites/dmv/files/images/US%20Veteran_web.jpg",
@@ -56,7 +56,7 @@
   "/sites/dmv/files/images/VFW_web.jpg": {
    "src": "https://dmv.vermont.gov/sites/dmv/files/images/VFW_web.jpg",
    "alt": "",
-   "verdict": "pending:VT-vfw"
+   "verdict": "new:vfw"
   },
   "/sites/dmv/files/images/Vietnam%20Veterans%20of%20America_web.jpg": {
    "src": "https://dmv.vermont.gov/sites/dmv/files/images/Vietnam%20Veterans%20of%20America_web.jpg",
@@ -66,17 +66,17 @@
   "/sites/dmv/files/images/Vietnam_web.jpg": {
    "src": "https://dmv.vermont.gov/sites/dmv/files/images/Vietnam_web.jpg",
    "alt": "",
-   "verdict": "pending:VT-required-forms-x-x-x-x-x"
+   "verdict": "rejected"
   },
   "/sites/dmv/files/images/WWII_web.jpg": {
    "src": "https://dmv.vermont.gov/sites/dmv/files/images/WWII_web.jpg",
    "alt": "",
-   "verdict": "pending:VT-required-forms-x-x-x-x-x-x"
+   "verdict": "rejected"
   },
   "/sites/dmv/files/images/dav.jpg": {
    "src": "https://dmv.vermont.gov/sites/dmv/files/images/dav.jpg",
    "alt": "Vermont Disabled Veteran License Plate",
-   "verdict": "pending:VT-vermont-disabled-veteran"
+   "verdict": "new:disabled-veteran"
   },
   "/sites/dmv/files/inline-images/ALERT%20(4).png": {
    "src": "https://dmv.vermont.gov/sites/dmv/files/inline-images/ALERT%20(4).png",

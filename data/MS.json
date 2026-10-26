@@ -3,7 +3,7 @@
  "name": "Mississippi",
  "rated": false,
  "checked": true,
- "updated": "2026-10-25",
+ "updated": "2026-10-26",
  "about": "Mississippi special-design plates. Not rated yet: every plate is worth the same. Partly checked for plates added since 2023. Checked for plates added since 2023 on 2026-10-26. Checked for plates added since 2023 on 2026-10-26.",
  "sources": [
   {
@@ -630,7 +630,8 @@
    "id": "juvenile-diabetes-research-foundation",
    "name": "Juvenile Diabetes Research Foundation",
    "cat": "charity",
-   "img": "juvenile-diabetes-research-foundation.webp"
+   "img": "juvenile-diabetes-research-foundation-2026-10-26.webp",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "kappa-alpha-psi",
@@ -1567,6 +1568,15 @@
    "cat": "veterans",
    "img": "100-disabled-veteran-navy.webp",
    "added": "2026-10-26",
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates"
+  },
+  {
+   "id": "merchant-marine",
+   "name": "Merchant Marine",
+   "cat": "military",
+   "img": "merchant-marine.webp",
+   "added": "2026-10-26",
+   "auto": true,
    "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates"
   }
  ],

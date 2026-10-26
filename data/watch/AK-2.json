@@ -41,7 +41,7 @@
   "/media/a0gl1y4f/fireweed.png": {
    "src": "https://dmv.alaska.gov/media/a0gl1y4f/fireweed.png",
    "alt": "Artistic Plate",
-   "verdict": "pending:AK-artistic"
+   "verdict": "rejected"
   },
   "/media/av3ccmcf/goldstar.png": {
    "src": "https://dmv.alaska.gov/media/av3ccmcf/goldstar.png",
@@ -51,7 +51,7 @@
   "/media/av3ov1rq/pioneers-of-alaska-plate.png": {
    "src": "https://dmv.alaska.gov/media/av3ov1rq/pioneers-of-alaska-plate.png",
    "alt": "Artistic Plate",
-   "verdict": "pending:AK-artistic-x-x-x-x-x"
+   "verdict": "rejected"
   },
   "/media/bl2g0jvk/uaf.png": {
    "src": "https://dmv.alaska.gov/media/bl2g0jvk/uaf.png",
@@ -141,7 +141,7 @@
   "/media/qmblf5oz/uaa-se2025.jpg": {
    "src": "https://dmv.alaska.gov/media/qmblf5oz/uaa-se2025.jpg",
    "alt": "Artistic Plate",
-   "verdict": "pending:AK-artistic-x-x"
+   "verdict": "new:university-of-alaska-southeast"
   },
   "/media/qrwlvo22/fire.png": {
    "src": "https://dmv.alaska.gov/media/qrwlvo22/fire.png",
@@ -151,7 +151,7 @@
   "/media/qxppp5mp/11th-airborne-license-plate.jpg": {
    "src": "https://dmv.alaska.gov/media/qxppp5mp/11th-airborne-license-plate.jpg",
    "alt": "Artistic Plate",
-   "verdict": "pending:AK-artistic-x-x-x"
+   "verdict": "new:11th-airborne-division-veteran"
   },
   "/media/rj0bnnha/iaff.png": {
    "src": "https://dmv.alaska.gov/media/rj0bnnha/iaff.png",
@@ -191,7 +191,7 @@
   "/media/w1xavru1/veteran-commemorative.png": {
    "src": "https://dmv.alaska.gov/media/w1xavru1/veteran-commemorative.png",
    "alt": "Artistic Plate",
-   "verdict": "pending:AK-artistic-x-x-x-x"
+   "verdict": "rejected"
   },
   "/media/wpgjz5nz/plate-disabled-veteran-parking-no.png": {
    "src": "https://dmv.alaska.gov/media/wpgjz5nz/plate-disabled-veteran-parking-no.png",
@@ -221,7 +221,7 @@
   "/media/ysxlrhpf/breast-cancer.png": {
    "src": "https://dmv.alaska.gov/media/ysxlrhpf/breast-cancer.png",
    "alt": "Artistic Plate",
-   "verdict": "pending:AK-artistic-x"
+   "verdict": "rejected"
   },
   "/media/ytebjcqg/kid.png": {
    "src": "https://dmv.alaska.gov/media/ytebjcqg/kid.png",
