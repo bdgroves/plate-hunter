@@ -3284,7 +3284,7 @@
    "id": "medal-of-honor-army",
    "name": "Medal of Honor - Army",
    "cat": "military",
-   "img": null,
+   "img": "medal-of-honor-army.webp",
    "added": "2026-10-26",
    "source": "https://www.myplates.com/api/plates"
   },
@@ -3292,7 +3292,7 @@
    "id": "medal-of-honor-navy",
    "name": "Medal of Honor - Navy",
    "cat": "military",
-   "img": null,
+   "img": "medal-of-honor-navy.webp",
    "added": "2026-10-26",
    "source": "https://www.myplates.com/api/plates"
   },
@@ -3300,7 +3300,7 @@
    "id": "medal-of-honor-air-force",
    "name": "Medal of Honor - Air Force",
    "cat": "military",
-   "img": null,
+   "img": "medal-of-honor-air-force.webp",
    "added": "2026-10-26",
    "source": "https://www.myplates.com/api/plates"
   },

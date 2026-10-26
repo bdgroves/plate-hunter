@@ -5386,20 +5386,18 @@
    "id": "gold-star-lapel-button",
    "name": "Gold Star Lapel Button",
    "cat": "military",
-   "img": null,
+   "img": "gold-star-lapel-button.webp",
    "added": "2026-10-26",
    "source": "https://mva.maryland.gov/your-mva-guide/businesses/bulletins-businesses/legislative-changes-plates-disabled-veterans-and-gold-star-families",
-   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/medium/public/2026-01/Gold-Star-Plates.png.webp",
    "year": "2024"
   },
   {
    "id": "gold-star-next-of-kin",
    "name": "Gold Star Next of Kin",
    "cat": "military",
-   "img": null,
+   "img": "gold-star-next-of-kin.webp",
    "added": "2026-10-26",
    "source": "https://mva.maryland.gov/your-mva-guide/businesses/bulletins-businesses/legislative-changes-plates-disabled-veterans-and-gold-star-families",
-   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/medium/public/2026-01/Gold-Star-Plates.png.webp",
    "year": "2024"
   },
   {
