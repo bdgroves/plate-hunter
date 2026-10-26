@@ -1,0 +1,58 @@
+{
+ "code": "MEX",
+ "url": "https://pagosytramites.edomex.gob.mx/recaudacion/CtrlVeh/MicRemplaca/index.jsp",
+ "complete": true,
+ "pictures": {
+  "/recaudacion/CtrlVeh/MicRemplaca/images/bottonCorcheteLeft.png": {
+   "src": "https://pagosytramites.edomex.gob.mx/recaudacion/CtrlVeh/MicRemplaca/images/bottonCorcheteLeft.png",
+   "alt": "",
+   "verdict": "not-a-plate"
+  },
+  "/recaudacion/CtrlVeh/MicRemplaca/images/bottonCorcheteRight.png": {
+   "src": "https://pagosytramites.edomex.gob.mx/recaudacion/CtrlVeh/MicRemplaca/images/bottonCorcheteRight.png",
+   "alt": "",
+   "verdict": "not-a-plate"
+  },
+  "/recaudacion/CtrlVeh/MicRemplaca/images/midCorcheteLeft.png": {
+   "src": "https://pagosytramites.edomex.gob.mx/recaudacion/CtrlVeh/MicRemplaca/images/midCorcheteLeft.png",
+   "alt": "",
+   "verdict": "not-a-plate"
+  },
+  "/recaudacion/CtrlVeh/MicRemplaca/images/middleCorcheteRight.png": {
+   "src": "https://pagosytramites.edomex.gob.mx/recaudacion/CtrlVeh/MicRemplaca/images/middleCorcheteRight.png",
+   "alt": "",
+   "verdict": "not-a-plate"
+  },
+  "/recaudacion/CtrlVeh/MicRemplaca/images/topCorcheteLeft.png": {
+   "src": "https://pagosytramites.edomex.gob.mx/recaudacion/CtrlVeh/MicRemplaca/images/topCorcheteLeft.png",
+   "alt": "",
+   "verdict": "not-a-plate"
+  },
+  "/recaudacion/CtrlVeh/MicRemplaca/images/topCorcheteRight.png": {
+   "src": "https://pagosytramites.edomex.gob.mx/recaudacion/CtrlVeh/MicRemplaca/images/topCorcheteRight.png",
+   "alt": "",
+   "verdict": "not-a-plate"
+  },
+  "/recaudacion/ImagenSlidesServlet": {
+   "src": "https://pagosytramites.edomex.gob.mx/recaudacion/ImagenSlidesServlet?claveSlide=02m",
+   "alt": "",
+   "verdict": "not-a-plate"
+  },
+  "/recaudacion/faces/asistencia/Modulos/images/map_gris.png": {
+   "src": "https://pagosytramites.edomex.gob.mx/recaudacion/faces/asistencia/Modulos/images/map_gris.png",
+   "alt": "",
+   "verdict": "not-a-plate"
+  },
+  "/recaudacion/imagenes/Plataforma02/NuevoDB/gem_blanco_Vert_8.png": {
+   "src": "https://pagosytramites.edomex.gob.mx/recaudacion/imagenes/Plataforma02/NuevoDB/gem_blanco_Vert_8.png",
+   "alt": "prueba",
+   "verdict": "not-a-plate"
+  },
+  "/recaudacion/imagenes/map_gris.png": {
+   "src": "https://pagosytramites.edomex.gob.mx/recaudacion/imagenes/map_gris.png",
+   "alt": "",
+   "verdict": "not-a-plate"
+  }
+ },
+ "checked": "2026-10-26"
+}

@@ -45,6 +45,14 @@
   "added": [],
   "checked": "2026-10-26"
  },
+ "BCN": {
+  "url": "https://www.bajacalifornia.gob.mx/Prensa/Noticia/26394",
+  "ok": true,
+  "pictures": 4,
+  "plates": 0,
+  "added": [],
+  "checked": "2026-10-26"
+ },
  "CA": {
   "url": "https://www.dmv.ca.gov/portal/vehicle-registration/license-plates-decals-and-placards/license-plates/special-interest-special-license-plates/",
   "ok": true,
@@ -161,6 +169,12 @@
   "added": [],
   "checked": "2026-10-26"
  },
+ "JAL": {
+  "url": "https://www.jalisco.gob.mx/prensa/noticias/tiene-jalisco-nuevas-placas-vehiculares",
+  "ok": false,
+  "error": "HTTP Error 403: Forbidden",
+  "checked": "2026-10-26"
+ },
  "KS": {
   "url": "https://files.leavenworthcounty.gov/Department/Treasurer/Forms/Kansas%20License%20Plate%20Guide%2012022021.pdf",
   "ok": false,
@@ -239,6 +253,14 @@
   "url": "https://www.maine.gov/sos/bmv/vehicles/veteran-plate-or-decal/vehicles/available-veteran-plates",
   "ok": false,
   "error": "HTTP Error 403: Forbidden",
+  "checked": "2026-10-26"
+ },
+ "MEX": {
+  "url": "https://pagosytramites.edomex.gob.mx/recaudacion/CtrlVeh/MicRemplaca/index.jsp",
+  "ok": true,
+  "pictures": 10,
+  "plates": 0,
+  "added": [],
   "checked": "2026-10-26"
  },
  "MI": {

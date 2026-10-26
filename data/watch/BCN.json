@@ -1,0 +1,28 @@
+{
+ "code": "BCN",
+ "url": "https://www.bajacalifornia.gob.mx/Prensa/Noticia/26394",
+ "complete": true,
+ "pictures": {
+  "/Content/img/tramites/10.png": {
+   "src": "https://www.bajacalifornia.gob.mx/Content/img/tramites/10.png",
+   "alt": "Icono",
+   "verdict": "unreadable"
+  },
+  "/Content/img/tramites/ico_car.png": {
+   "src": "https://www.bajacalifornia.gob.mx/Content/img/tramites/ico_car.png",
+   "alt": "Icono de Vehiculo",
+   "verdict": "unreadable"
+  },
+  "/Content/img/tramites/ico_money.png": {
+   "src": "https://www.bajacalifornia.gob.mx/Content/img/tramites/ico_money.png",
+   "alt": "Icono de dinero",
+   "verdict": "unreadable"
+  },
+  "/Recursos/Imagenes/marina-pilar-perfil.jpg": {
+   "src": "https://www.bajacalifornia.gob.mx/Recursos/Imagenes/marina-pilar-perfil.jpg",
+   "alt": "Gobernadora de Baja California Marina del Pilar Ávila",
+   "verdict": "not-a-plate"
+  }
+ },
+ "checked": "2026-10-26"
+}
