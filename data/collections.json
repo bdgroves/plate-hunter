@@ -67,7 +67,7 @@
   "code": "DE",
   "name": "Delaware",
   "file": "data/DE.json",
-  "count": 146,
+  "count": 145,
   "rated": false,
   "checked": false
  },
@@ -83,7 +83,7 @@
   "code": "FL",
   "name": "Florida",
   "file": "data/FL.json",
-  "count": 219,
+  "count": 218,
   "rated": false,
   "checked": false
  },
@@ -139,7 +139,7 @@
   "code": "KS",
   "name": "Kansas",
   "file": "data/KS.json",
-  "count": 69,
+  "count": 67,
   "rated": false,
   "checked": false
  },
@@ -179,7 +179,7 @@
   "code": "MA",
   "name": "Massachusetts",
   "file": "data/MA.json",
-  "count": 57,
+  "count": 56,
   "rated": false,
   "checked": false
  },
@@ -195,7 +195,7 @@
   "code": "MN",
   "name": "Minnesota",
   "file": "data/MN.json",
-  "count": 83,
+  "count": 91,
   "rated": false,
   "checked": false
  },
@@ -371,7 +371,7 @@
   "code": "VT",
   "name": "Vermont",
   "file": "data/VT.json",
-  "count": 50,
+  "count": 49,
   "rated": false,
   "checked": false
  },
@@ -379,7 +379,7 @@
   "code": "VA",
   "name": "Virginia",
   "file": "data/VA.json",
-  "count": 274,
+  "count": 269,
   "rated": false,
   "checked": false
  },
@@ -395,7 +395,7 @@
   "code": "WI",
   "name": "Wisconsin",
   "file": "data/WI.json",
-  "count": 86,
+  "count": 84,
   "rated": false,
   "checked": false
  },

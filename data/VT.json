@@ -199,12 +199,6 @@
    "img": "special-purpose.webp"
   },
   {
-   "id": "state-house-of-representatives",
-   "name": "State House of Representatives",
-   "cat": "other",
-   "img": "state-house-of-representatives.webp"
-  },
-  {
    "id": "street-rod",
    "name": "Street Rod",
    "cat": "vehicle",

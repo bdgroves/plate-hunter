@@ -151,12 +151,6 @@
    "img": "fish-and-wildlife.webp"
   },
   {
-   "id": "foreign-organization",
-   "name": "FOREIGN ORGANIZATION",
-   "cat": "other",
-   "img": "foreign-organization.webp"
-  },
-  {
    "id": "freemasonry",
    "name": "FREEMASONRY",
    "cat": "hobby",

@@ -3,7 +3,7 @@
  "name": "Minnesota",
  "rated": false,
  "checked": false,
- "updated": "2026-10-25",
+ "updated": "2026-10-26",
  "about": "Minnesota special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
  "sources": [
   {
@@ -509,6 +509,78 @@
    "name": "Volunteer Ambulance Attendant",
    "cat": "other",
    "img": "volunteer-ambulance-attendant.webp"
+  },
+  {
+   "id": "blackout",
+   "name": "Blackout",
+   "cat": "other",
+   "img": "blackout.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://dps.mn.gov/divisions/dvs/vehicle/license-plates/specialized-license-plates"
+  },
+  {
+   "id": "minnesota-lynx",
+   "name": "Minnesota Lynx",
+   "cat": "other",
+   "img": "minnesota-lynx.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://dps.mn.gov/divisions/dvs/vehicle/license-plates/specialized-license-plates"
+  },
+  {
+   "id": "minnesota-united-fc",
+   "name": "Minnesota United FC",
+   "cat": "other",
+   "img": "minnesota-united-fc.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://dps.mn.gov/divisions/dvs/vehicle/license-plates/specialized-license-plates"
+  },
+  {
+   "id": "minnesota-twins",
+   "name": "Minnesota Twins",
+   "cat": "sports",
+   "img": "minnesota-twins.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://dps.mn.gov/divisions/dvs/vehicle/license-plates/specialized-license-plates"
+  },
+  {
+   "id": "minnesota-vikings",
+   "name": "Minnesota Vikings",
+   "cat": "sports",
+   "img": "minnesota-vikings.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://dps.mn.gov/divisions/dvs/vehicle/license-plates/specialized-license-plates"
+  },
+  {
+   "id": "minnesota-wild",
+   "name": "Minnesota Wild",
+   "cat": "sports",
+   "img": "minnesota-wild.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://dps.mn.gov/divisions/dvs/vehicle/license-plates/specialized-license-plates"
+  },
+  {
+   "id": "minnesota-timberwolves",
+   "name": "Minnesota Timberwolves",
+   "cat": "sports",
+   "img": "minnesota-timberwolves.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://dps.mn.gov/divisions/dvs/vehicle/license-plates/specialized-license-plates"
+  },
+  {
+   "id": "supporting-agriculture-for-all",
+   "name": "Supporting Agriculture for All",
+   "cat": "charity",
+   "img": "supporting-agriculture-for-all.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://dps.mn.gov/divisions/dvs/vehicle/license-plates/specialized-license-plates"
   }
  ]
 }

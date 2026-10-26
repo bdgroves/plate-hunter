@@ -505,12 +505,6 @@
    "img": "florida-state-university.webp"
   },
   {
-   "id": "foreign-organization",
-   "name": "Foreign Organization",
-   "cat": "other",
-   "img": "foreign-organization.webp"
-  },
-  {
    "id": "former-military",
    "name": "Former Military",
    "cat": "military",

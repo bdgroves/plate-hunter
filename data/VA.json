@@ -235,12 +235,6 @@
    "img": "clean-special-fuel.webp"
   },
   {
-   "id": "clean-special-fuel-for-hire",
-   "name": "Clean Special Fuel (For Hire",
-   "cat": "other",
-   "img": "clean-special-fuel-for-hire.webp"
-  },
-  {
    "id": "clemson-university",
    "name": "Clemson University",
    "cat": "colleges",
@@ -383,12 +377,6 @@
    "name": "Enduring Freedom Veteran",
    "cat": "veterans",
    "img": "enduring-freedom-veteran.webp"
-  },
-  {
-   "id": "equipment",
-   "name": "Equipment",
-   "cat": "other",
-   "img": "equipment.webp"
   },
   {
    "id": "eyes-on-the-road",
@@ -557,12 +545,6 @@
    "name": "Great Seal",
    "cat": "other",
    "img": "great-seal.webp"
-  },
-  {
-   "id": "great-seal-for-hire",
-   "name": "Great Seal For Hire",
-   "cat": "other",
-   "img": "great-seal-for-hire.webp"
   },
   {
    "id": "greyhound-adopt",
@@ -895,12 +877,6 @@
    "img": "next-of-kin.webp"
   },
   {
-   "id": "nonemergency-medical-transport-for-hire",
-   "name": "Nonemergency Medical Transport For Hire",
-   "cat": "firstresponder",
-   "img": "nonemergency-medical-transport-for-hire.webp"
-  },
-  {
    "id": "norfolk-state-university",
    "name": "Norfolk State University",
    "cat": "colleges",
@@ -1133,12 +1109,6 @@
    "name": "Scenic Autumn",
    "cat": "nature",
    "img": "scenic-autumn.webp"
-  },
-  {
-   "id": "scenic-for-hire",
-   "name": "Scenic For Hire",
-   "cat": "nature",
-   "img": "scenic-for-hire.webp"
   },
   {
    "id": "scenic-patriot",

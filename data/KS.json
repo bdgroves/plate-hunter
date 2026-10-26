@@ -187,12 +187,6 @@
    "img": "firefighter.webp"
   },
   {
-   "id": "foreign-organization",
-   "name": "Foreign Organization",
-   "cat": "other",
-   "img": "foreign-organization.webp"
-  },
-  {
    "id": "fort-hays-state-university",
    "name": "Fort Hays State University",
    "cat": "colleges",
@@ -263,12 +257,6 @@
    "name": "Kansas State University - NEW",
    "cat": "colleges",
    "img": "kansas-state-university-new.webp"
-  },
-  {
-   "id": "kcc-equipment",
-   "name": "KCC Equipment",
-   "cat": "other",
-   "img": "kcc-equipment.webp"
   },
   {
    "id": "korean-war-veteran",

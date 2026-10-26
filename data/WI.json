@@ -97,12 +97,6 @@
    "img": "disabled-veteran.webp"
   },
   {
-   "id": "distributor",
-   "name": "Distributor",
-   "cat": "other",
-   "img": "distributor.webp"
-  },
-  {
    "id": "donate-life-wisconsin",
    "name": "Donate Life Wisconsin",
    "cat": "charity",
@@ -497,12 +491,6 @@
    "name": "Whitetails Unlimited",
    "cat": "other",
    "img": "whitetails-unlimited.webp"
-  },
-  {
-   "id": "wholesaler",
-   "name": "Wholesaler",
-   "cat": "other",
-   "img": "wholesaler.webp"
   },
   {
    "id": "wisconsin-national-guard",

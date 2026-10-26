@@ -11,7 +11,7 @@
   "/files/dvs/Agriculture-Text-1500x751.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Agriculture-Text-1500x751.jpg?v=1765415252",
    "alt": "Sample of an Agriculture license plate",
-   "verdict": "pending:MN-of-an-agriculture"
+   "verdict": "new:supporting-agriculture-for-all"
   },
   "/files/dvs/Amateur-Radio-Text-1500x751.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Amateur-Radio-Text-1500x751.jpg?v=1765415253",
@@ -26,12 +26,12 @@
   "/files/dvs/BENNIESREADY.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/BENNIESREADY.jpg?v=1782244791",
    "alt": "College of St. Benedict license plate with the letters CSB in red on the left side and the word Bennies underneath.",
-   "verdict": "pending:MN-concordia-university-st-paul"
+   "verdict": "plate:collegiate-concordia-university-st-paul"
   },
   "/files/dvs/Blackout-Blank-1500x763.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Blackout-Blank-1500x763.jpg?v=1765415260",
    "alt": "Sample of a Blackout license plate",
-   "verdict": "pending:MN-of-a-blackout"
+   "verdict": "new:blackout"
   },
   "/files/dvs/Collegiate-Augsburg-Text-1500x751.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Collegiate-Augsburg-Text-1500x751.jpg?v=1778093315",
@@ -46,7 +46,7 @@
   "/files/dvs/Collegiate-Bethel-Text-1500x751.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Collegiate-Bethel-Text-1500x751.jpg?v=1765415285",
    "alt": "Sample of a Bethel University license plate",
-   "verdict": "pending:MN-of-a-bethel-university"
+   "verdict": "rejected"
   },
   "/files/dvs/Collegiate-Concordia-Moorhead-Text-1500x751.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Collegiate-Concordia-Moorhead-Text-1500x751.jpg?v=1765415286",
@@ -111,7 +111,7 @@
   "/files/dvs/Collegiate-St-Johns-Text-1500x751.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Collegiate-St-Johns-Text-1500x751.jpg?v=1782244683",
    "alt": "Sample of a Saint John's University license plate",
-   "verdict": "pending:MN-of-a-saint-john-s-university"
+   "verdict": "rejected"
   },
   "/files/dvs/Collegiate-St-Olaf-Text-1500x751.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Collegiate-St-Olaf-Text-1500x751.jpg?v=1765415307",
@@ -161,32 +161,32 @@
   "/files/dvs/Critical-Habitat-Angler-Text-1500x751.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Critical-Habitat-Angler-Text-1500x751.jpg?v=1765415319",
    "alt": "Sample of a Critical Habitat Angler license plate",
-   "verdict": "pending:MN-of-a-critical-habitat-angler"
+   "verdict": "rejected"
   },
   "/files/dvs/Critical-Habitat-Buck-Text-1500x751.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Critical-Habitat-Buck-Text-1500x751.jpg?v=1765415321",
    "alt": "Sample of a Critical Habitat Buck license plate",
-   "verdict": "pending:MN-of-a-critical-habitat-buck"
+   "verdict": "rejected"
   },
   "/files/dvs/Critical-Habitat-Chickadee-Text-1500x751.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Critical-Habitat-Chickadee-Text-1500x751.jpg?v=1765415322",
    "alt": "Sample of a Critical Habitat Chickadee license plate",
-   "verdict": "pending:MN-of-a-critical-habitat-chickadee"
+   "verdict": "rejected"
   },
   "/files/dvs/Critical-Habitat-Deer-Text-1500x751.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Critical-Habitat-Deer-Text-1500x751.jpg?v=1765415323",
    "alt": "Sample of a Critical Habitat Deer license plate",
-   "verdict": "pending:MN-of-a-critical-habitat-deer"
+   "verdict": "rejected"
   },
   "/files/dvs/Critical-Habitat-Lady-Slipper-Text-1500x751.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Critical-Habitat-Lady-Slipper-Text-1500x751.jpg?v=1765415325",
    "alt": "Sample of a Critical Habitat Lady Slipper license plate",
-   "verdict": "pending:MN-of-a-critical-habitat-lady-slipper"
+   "verdict": "rejected"
   },
   "/files/dvs/Critical-Habitat-Loon-Text-1500x751.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Critical-Habitat-Loon-Text-1500x751.jpg?v=1765415326",
    "alt": "Sample of a Critical Habitat Loon license plate",
-   "verdict": "pending:MN-of-a-critical-habitat-loon"
+   "verdict": "rejected"
   },
   "/files/dvs/Critical-Habitat-Moose-Text-1500x751.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Critical-Habitat-Moose-Text-1500x751.jpg?v=1765415327",
@@ -211,12 +211,12 @@
   "/files/dvs/Firefighter-Text-1500x751_0.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Firefighter-Text-1500x751_0.jpg?v=1765415451",
    "alt": "Sample of a Volunteer Firefighter license plate",
-   "verdict": "pending:MN-of-a-volunteer-firefighter"
+   "verdict": "rejected"
   },
   "/files/dvs/Gold-Star-Family-Text-1500x751.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Gold-Star-Family-Text-1500x751.jpg?v=1765415454",
    "alt": "Sample of a Gold Star Family license plate",
-   "verdict": "pending:MN-of-a-gold-star-family"
+   "verdict": "plate:gold-star-family"
   },
   "/files/dvs/Honorary-Consul-Text-1500x751.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Honorary-Consul-Text-1500x751.jpg?v=1765415460",
@@ -236,47 +236,47 @@
   "/files/dvs/MMIR-Text-1500x751.png": {
    "src": "https://assets.dps.mn.gov/files/dvs/MMIR-Text-1500x751.png?v=1765415493",
    "alt": "Sample of a Missing and Murdered Indigenous Relatives (MMIR) license plate",
-   "verdict": "pending:MN-support-our-troops"
+   "verdict": "plate:support-our-troops"
   },
   "/files/dvs/MN-Sports-Lynx-Blank-1500x744.png": {
    "src": "https://assets.dps.mn.gov/files/dvs/MN-Sports-Lynx-Blank-1500x744.png?v=1787671190",
    "alt": "Sample of a Lynx sports team license plate",
-   "verdict": "pending:MN-of-a-lynx-sports-team"
+   "verdict": "new:minnesota-lynx"
   },
   "/files/dvs/MN-Sports-Timberwolves-Blank-1500x752.png": {
    "src": "https://assets.dps.mn.gov/files/dvs/MN-Sports-Timberwolves-Blank-1500x752.png?v=1792417245",
    "alt": "License plate with black background and green text on top and bottom that read Minnesota Timberwolves. Team logo on the left side.",
-   "verdict": "pending:MN-vikings"
+   "verdict": "new:minnesota-timberwolves"
   },
   "/files/dvs/MN-Sports-Twins-Text-1500x750.png": {
    "src": "https://assets.dps.mn.gov/files/dvs/MN-Sports-Twins-Text-1500x750.png?v=1765415504",
    "alt": "Sample of a Twins sports team license plate",
-   "verdict": "pending:MN-of-a-twins-sports-team"
+   "verdict": "new:minnesota-twins"
   },
   "/files/dvs/MN-Sports-United-Text-1500x763.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/MN-Sports-United-Text-1500x763.jpg?v=1765415508",
    "alt": "Sample of a Minnesota United sports team license plate",
-   "verdict": "pending:MN-of-a-minnesota-united-sports-team"
+   "verdict": "new:minnesota-united-fc"
   },
   "/files/dvs/MN-Sports-Vikings-Text-1500x758.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/MN-Sports-Vikings-Text-1500x758.jpg?v=1765415511",
    "alt": "Sample of a Vikings sports team license plate",
-   "verdict": "pending:MN-of-a-vikings-sports-team"
+   "verdict": "new:minnesota-vikings"
   },
   "/files/dvs/MN-Sports-Wild-Text-1500x766.png": {
    "src": "https://assets.dps.mn.gov/files/dvs/MN-Sports-Wild-Text-1500x766.png?v=1765415514",
    "alt": "Sample of a Wild sports team license plate",
-   "verdict": "pending:MN-of-a-wild-sports-team"
+   "verdict": "new:minnesota-wild"
   },
   "/files/dvs/Minnesota-Golf-Text-1500x751.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Minnesota-Golf-Text-1500x751.jpg?v=1765415489",
    "alt": "Sample of a Minnesota Golf license plate",
-   "verdict": "pending:MN-of-a-minnesota-golf"
+   "verdict": "plate:minnesota-golf"
   },
   "/files/dvs/National-Guard-Text-1500x751.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/National-Guard-Text-1500x751.jpg?v=1765415551",
    "alt": "Sample of a National Guard license plate",
-   "verdict": "pending:MN-of-a-national-guard"
+   "verdict": "rejected"
   },
   "/files/dvs/Proud-to-be-a-Veteran-Text-1500x751.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Proud-to-be-a-Veteran-Text-1500x751.jpg?v=1765415563",
@@ -286,7 +286,7 @@
   "/files/dvs/Ready-Reserve-Text-1500x751.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Ready-Reserve-Text-1500x751.jpg?v=1765415566",
    "alt": "Sample of a Ready Reserve license plate",
-   "verdict": "pending:MN-of-a-ready-reserve"
+   "verdict": "plate:ready-reserve"
   },
   "/files/dvs/Remembering-Victims-of-Impaired-Drivers-Text-1500x751.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Remembering-Victims-of-Impaired-Drivers-Text-1500x751.jpg?v=1765415588",
@@ -296,7 +296,7 @@
   "/files/dvs/Retired-Firefighter-Text-1500x751.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Retired-Firefighter-Text-1500x751.jpg?v=1765415591",
    "alt": "Sample of a Retried Firefighter license plate",
-   "verdict": "pending:MN-of-a-retried-firefighter"
+   "verdict": "rejected"
   },
   "/files/dvs/Retired-Law-Enforcement-Text-1500x751.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Retired-Law-Enforcement-Text-1500x751.jpg?v=1765415594",
@@ -311,7 +311,7 @@
   "/files/dvs/Standard-Pioneer-Text-1500x751.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Standard-Pioneer-Text-1500x751.jpg?v=1765415629",
    "alt": "Sample of a Pioneer license plate",
-   "verdict": "pending:MN-of-a-pioneer"
+   "verdict": "rejected"
   },
   "/files/dvs/Standard-Street-Rod-Text-1500x751.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Standard-Street-Rod-Text-1500x751.jpg?v=1765415630",
@@ -331,12 +331,12 @@
   "/files/dvs/Support-Our-Troops-Text-1500x751.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Support-Our-Troops-Text-1500x751.jpg?v=1765415652",
    "alt": "Sample of a Support our Troops license plate",
-   "verdict": "pending:MN-of-a-support-our-troops"
+   "verdict": "plate:support-our-troops"
   },
   "/files/dvs/Vet-Afghan-War-Campaign-Medal-Text-1500x751.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Vet-Afghan-War-Campaign-Medal-Text-1500x751.jpg?v=1765415655",
    "alt": "Sample of an Afghanistan War Veteran license plate",
-   "verdict": "pending:MN-of-an-afghanistan-war-veteran"
+   "verdict": "rejected"
   },
   "/files/dvs/Vet-Armed-Forces-Expeditionary-Medal-Text-1500x751.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Vet-Armed-Forces-Expeditionary-Medal-Text-1500x751.jpg?v=1765415658",
@@ -351,12 +351,12 @@
   "/files/dvs/Vet-Combat-Wounded-Purple-Heart-Text-1500x751.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Vet-Combat-Wounded-Purple-Heart-Text-1500x751.jpg?v=1765415662",
    "alt": "Sample of a Combat Wounded (Purple Heart) Veteran license plate",
-   "verdict": "pending:MN-of-a-combat-wounded-purple-heart-veteran"
+   "verdict": "plate:veteran-combat-wounded-purple-heart"
   },
   "/files/dvs/Vet-Ex-POW-Text-1500x751.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Vet-Ex-POW-Text-1500x751.jpg?v=1765415665",
    "alt": "Sample of an Ex-POW Veteran license plate",
-   "verdict": "pending:MN-of-an-ex-pow-veteran"
+   "verdict": "plate:veteran-ex-pow"
   },
   "/files/dvs/Vet-GWOT-Expeditionary-Medal-Text-1500x751.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Vet-GWOT-Expeditionary-Medal-Text-1500x751.jpg?v=1765415670",
@@ -386,17 +386,17 @@
   "/files/dvs/Vet-Korean-Defense-Service-Medal-Text-1500x751.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Vet-Korean-Defense-Service-Medal-Text-1500x751.jpg?v=1765415679",
    "alt": "Sample of a Korean Defense Service Veteran license plate",
-   "verdict": "pending:MN-of-a-korean-defense-service-veteran"
+   "verdict": "plate:veteran-korean-defense-service-medal"
   },
   "/files/dvs/Vet-Korean-Service-Medal-Text-1500x751.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Vet-Korean-Service-Medal-Text-1500x751.jpg?v=1765415680",
    "alt": "Sample of a Korean War Veteran license plate",
-   "verdict": "pending:MN-of-a-korean-war-veteran"
+   "verdict": "rejected"
   },
   "/files/dvs/Vet-Korean-Soldier-At-Arms-Text-1500x751.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Vet-Korean-Soldier-At-Arms-Text-1500x751.jpg?v=1765415682",
    "alt": "Sample of a Korean War Veteran Soldier at Arms license plate",
-   "verdict": "pending:MN-minnesota-national-guard"
+   "verdict": "rejected"
   },
   "/files/dvs/Vet-Laos-War-Text-1500x751.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Vet-Laos-War-Text-1500x751.jpg?v=1765415683",
@@ -406,7 +406,7 @@
   "/files/dvs/Vet-Medal-of-Honor-Text-1500x751.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Vet-Medal-of-Honor-Text-1500x751.jpg?v=1765415684",
    "alt": "Sample of a Congressional Medal of Honor Veteran license plate",
-   "verdict": "pending:MN-of-a-congressional-medal-of-honor-vetera"
+   "verdict": "plate:veteran-medal-of-honor"
   },
   "/files/dvs/Vet-Pearl-Harbor-Survivor-Text-1500x751.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Vet-Pearl-Harbor-Survivor-Text-1500x751.jpg?v=1765415686",
@@ -421,27 +421,27 @@
   "/files/dvs/Vet-Vietnam-Service-Medal-Text-1500x751.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Vet-Vietnam-Service-Medal-Text-1500x751.jpg?v=1765415690",
    "alt": "Sample of a Vietnam Veteran license plate",
-   "verdict": "pending:MN-of-a-vietnam-veteran"
+   "verdict": "plate:veteran-vietnam"
   },
   "/files/dvs/Vet-Vietnam-Soldier-At-Arms-Text-1500x751.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Vet-Vietnam-Soldier-At-Arms-Text-1500x751.jpg?v=1765415691",
    "alt": "Sample of a Vietnam Veteran Soldier at Arms license plate",
-   "verdict": "pending:MN-of-a-vietnam-veteran-soldier-at-arms"
+   "verdict": "rejected"
   },
   "/files/dvs/Vet-Woman-Veteran-Text-1500x751.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Vet-Woman-Veteran-Text-1500x751.jpg?v=1765415694",
    "alt": "Sample of a Woman Veteran license plate",
-   "verdict": "pending:MN-of-a-woman-veteran"
+   "verdict": "rejected"
   },
   "/files/dvs/Vet-World-War-II-Service-Medal-Text-1500x751.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Vet-World-War-II-Service-Medal-Text-1500x751.jpg?v=1765415695",
    "alt": "Sample of a World War II Veteran license plate",
-   "verdict": "pending:MN-of-a-world-war-ii-veteran"
+   "verdict": "plate:veteran-world-war-ii"
   },
   "/files/dvs/Vet-World-War-II-Soldier-At-Arms-Text-1500x751.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Vet-World-War-II-Soldier-At-Arms-Text-1500x751.jpg?v=1765415697",
    "alt": "Sample of a World War II Veteran Soldier at Arms license plate",
-   "verdict": "pending:MN-bronze-star"
+   "verdict": "rejected"
   },
   "/files/dvs/Veteran-of-Foreign-Wars-VFW-Text-1500x751.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Veteran-of-Foreign-Wars-VFW-Text-1500x751.jpg?v=1765415698",
@@ -451,12 +451,12 @@
   "/files/dvs/Volunteer-Ambulance-Text-1500x751.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Volunteer-Ambulance-Text-1500x751.jpg?v=1765415701",
    "alt": "Sample of a Volunteer Ambulance license plate",
-   "verdict": "pending:MN-of-a-volunteer-ambulance"
+   "verdict": "rejected"
   },
   "/files/sfm/Standard-Classic-Text-1500x751.jpg": {
    "src": "https://assets.dps.mn.gov/files/sfm/Standard-Classic-Text-1500x751.jpg?v=1765418169",
    "alt": "Sample of a Classic car license plate",
-   "verdict": "pending:MN-of-a-classic-car"
+   "verdict": "rejected"
   },
   "/static/mdps-state.png": {
    "src": "https://dps.mn.gov/static/mdps-state.png",

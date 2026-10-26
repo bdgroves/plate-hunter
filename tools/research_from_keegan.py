@@ -26,11 +26,11 @@ ROOT = Path(__file__).resolve().parent.parent
 
 SKIP = re.compile(r"""\b(motorcycles?|moped|autocycle|trailers?|semi|dealers?|manufacturers?|transporters?|
     exempt|government|official|state[- ]owned|county|municipal|city[- ]owned|legislat\w*|senate|senator|
-    representative|house of delegates|congress(?!ional medal)|judge|judicial|consul\w*|diplomat\w*|governor|
-    temporary|temp\b|in[- ]transit|non[- ]?resident|\d+[- ]day|permit|taxi|for hire|limo\w*|hearse|livery|
-    bus\b|school bus|fleet|apportioned|commercial|tractor|wrecker|tow\b|repossess\w*|rental|lease|
+    representatives?|house\sof\s(delegates|representatives)|assembly|dismantlers?|remanufactur\w*|distributors?|wholesal\w*|foreign\sorganization|equipment|congress(?!ional medal)|judge|judicial|consul\w*|diplomat\w*|governor|
+    temporary|temp\b|in[- ]transit|non[- ]?resident|\d+[- ]day|permit|taxi|for\shire|limo\w*|hearse|livery|
+    bus\b|school\sbus|fleet|apportioned|commercial|tractor|wrecker|tow\b|repossess\w*|rental|lease|
     low[- ]speed|off[- ]?highway|atv|utv|snowmobile|boat|vessel|moped|sample\s*$|placeholder|
-    special equipment|construction|implement|mobile home|logging|for sale|test\b|demo)\b""", re.I | re.X)
+    special\sequipment|construction|implement|mobile\shome|logging|for\ssale|test\b|demo)\b""", re.I | re.X)
 STANDARD = re.compile(r"^(standard|regular|passenger|general issue|base)\b|\b(standard|regular) (issue|plate|passenger)\b", re.I)
 VARIANT = re.compile(r"""\s*[-–(,:]*\s*\b(personali[sz]ed|vanity|sequential|vehicle|passenger|auto(mobile)?|truck|pickup|
     van|car|pwd|handicap\w*|new\s*\d{4}|\d{4}\s*design|version\s*\d|v\d|design\s*\d|plates?|tags?|

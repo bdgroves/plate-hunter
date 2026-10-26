@@ -26,7 +26,7 @@
   "/portal/uploads/2020/02/firefighter_mc.gif": {
    "src": "https://www.dmv.ca.gov/portal/uploads/2020/02/firefighter_mc.gif",
    "alt": "Firefighters motorcycle special interest license plate.",
-   "verdict": "pending:CA-sequential-50-personalized-103"
+   "verdict": "rejected"
   },
   "/portal/uploads/2020/02/kids_heart_mc.gif": {
    "src": "https://www.dmv.ca.gov/portal/uploads/2020/02/kids_heart_mc.gif",
@@ -56,7 +56,7 @@
   "/portal/uploads/2020/02/pinkplate.png": {
    "src": "https://www.dmv.ca.gov/portal/uploads/2020/02/pinkplate.png",
    "alt": "Breast Cancer Awareness motorcycle special interest license plate.",
-   "verdict": "pending:CA-california-1960s-legacy"
+   "verdict": "plate:california-1960s-legacy"
   },
   "/portal/uploads/2020/02/pinkribbon.jpg": {
    "src": "https://www.dmv.ca.gov/portal/uploads/2020/02/pinkribbon.jpg",
@@ -71,7 +71,7 @@
   "/portal/uploads/2020/02/plate_1960_2.png": {
    "src": "https://www.dmv.ca.gov/portal/uploads/2020/02/plate_1960_2.png",
    "alt": "1960s Legacy motorcycle special interest license plate.",
-   "verdict": "pending:CA-california-agriculture-calag"
+   "verdict": "plate:california-agriculture-calag"
   },
   "/portal/uploads/2020/02/snoopy.jpg": {
    "src": "https://www.dmv.ca.gov/portal/uploads/2020/02/snoopy.jpg",
@@ -81,17 +81,17 @@
   "/portal/uploads/2020/02/snoopymotorcycleplate1.jpg": {
    "src": "https://www.dmv.ca.gov/portal/uploads/2020/02/snoopymotorcycleplate1.jpg",
    "alt": "California Museums (Snoopy) motorcycle special interest license plate.",
-   "verdict": "pending:CA-collegiate"
+   "verdict": "rejected"
   },
   "/portal/uploads/2020/02/tahoe_mc.gif": {
    "src": "https://www.dmv.ca.gov/portal/uploads/2020/02/tahoe_mc.gif",
    "alt": "Lake Tahoe Conservancy motorcycle special interest license plate.",
-   "verdict": "pending:CA-memorial"
+   "verdict": "rejected"
   },
   "/portal/uploads/2020/02/veteran_mc.gif": {
    "src": "https://www.dmv.ca.gov/portal/uploads/2020/02/veteran_mc.gif",
    "alt": "Veterans' Organizations motorcycle special interest license plate.",
-   "verdict": "pending:CA-whale-tail"
+   "verdict": "rejected"
   },
   "/portal/uploads/2020/02/veterant_150.jpg": {
    "src": "https://www.dmv.ca.gov/portal/uploads/2020/02/veterant_150.jpg",
@@ -111,7 +111,7 @@
   "/portal/uploads/2020/02/yosemite_mc.gif": {
    "src": "https://www.dmv.ca.gov/portal/uploads/2020/02/yosemite_mc.gif",
    "alt": "California Yosemite Conservancy motorcycle lisence plates",
-   "verdict": "pending:CA-sequential-50-personalized-103-x"
+   "verdict": "rejected"
   },
   "/portal/uploads/2020/03/APPORTIONED.gif": {
    "src": "https://www.dmv.ca.gov/portal/uploads/2020/03/APPORTIONED.gif",
@@ -141,7 +141,7 @@
   "/portal/uploads/2020/03/CBblkgld.gif": {
    "src": "https://www.dmv.ca.gov/portal/uploads/2020/03/CBblkgld.gif",
    "alt": "",
-   "verdict": "pending:CA-disabled-person-veteran-x"
+   "verdict": "rejected"
   },
   "/portal/uploads/2020/03/CBblockplt.gif": {
    "src": "https://www.dmv.ca.gov/portal/uploads/2020/03/CBblockplt.gif",
@@ -156,7 +156,7 @@
   "/portal/uploads/2020/03/CBsun.gif": {
    "src": "https://www.dmv.ca.gov/portal/uploads/2020/03/CBsun.gif",
    "alt": "",
-   "verdict": "pending:CA-disabled-person-veteran"
+   "verdict": "rejected"
   },
   "/portal/uploads/2020/03/CMOHsun.gif": {
    "src": "https://www.dmv.ca.gov/portal/uploads/2020/03/CMOHsun.gif",
@@ -176,12 +176,12 @@
   "/portal/uploads/2020/03/DismBlock.gif": {
    "src": "https://www.dmv.ca.gov/portal/uploads/2020/03/DismBlock.gif",
    "alt": "Dismantler license plate (block).",
-   "verdict": "pending:CA-dismantler-block"
+   "verdict": "rejected"
   },
   "/portal/uploads/2020/03/DismScript.gif": {
    "src": "https://www.dmv.ca.gov/portal/uploads/2020/03/DismScript.gif",
    "alt": "Dismantler license plate (script).",
-   "verdict": "pending:CA-dismantler-script"
+   "verdict": "rejected"
   },
   "/portal/uploads/2020/03/DismSun.gif": {
    "src": "https://www.dmv.ca.gov/portal/uploads/2020/03/DismSun.gif",
@@ -191,12 +191,12 @@
   "/portal/uploads/2020/03/DistBlock.gif": {
    "src": "https://www.dmv.ca.gov/portal/uploads/2020/03/DistBlock.gif",
    "alt": "New vehicle distributor license plate (block).",
-   "verdict": "pending:CA-vehicle-distributor-block"
+   "verdict": "rejected"
   },
   "/portal/uploads/2020/03/DistScript.gif": {
    "src": "https://www.dmv.ca.gov/portal/uploads/2020/03/DistScript.gif",
    "alt": "New vehicle distributor license plate (script).",
-   "verdict": "pending:CA-vehicle-distributor-script"
+   "verdict": "rejected"
   },
   "/portal/uploads/2020/03/DistSun.gif": {
    "src": "https://www.dmv.ca.gov/portal/uploads/2020/03/DistSun.gif",
@@ -251,27 +251,27 @@
   "/portal/uploads/2020/03/PressPhotogMC.gif": {
    "src": "https://www.dmv.ca.gov/portal/uploads/2020/03/PressPhotogMC.gif",
    "alt": "",
-   "verdict": "pending:CA-equipment-x"
+   "verdict": "rejected"
   },
   "/portal/uploads/2020/03/RmfBlock.gif": {
    "src": "https://www.dmv.ca.gov/portal/uploads/2020/03/RmfBlock.gif",
    "alt": "Remanufacturer license plate (block).",
-   "verdict": "pending:CA-remanufacturer-block"
+   "verdict": "rejected"
   },
   "/portal/uploads/2020/03/RmfBlue.gif": {
    "src": "https://www.dmv.ca.gov/portal/uploads/2020/03/RmfBlue.gif",
    "alt": "Remanufacturer license plate (blue).",
-   "verdict": "pending:CA-remanufacturer-blue"
+   "verdict": "rejected"
   },
   "/portal/uploads/2020/03/RmfScript.gif": {
    "src": "https://www.dmv.ca.gov/portal/uploads/2020/03/RmfScript.gif",
    "alt": "Remanufacturer license plate (script).",
-   "verdict": "pending:CA-remanufacturer-script"
+   "verdict": "rejected"
   },
   "/portal/uploads/2020/03/RmfSun.gif": {
    "src": "https://www.dmv.ca.gov/portal/uploads/2020/03/RmfSun.gif",
    "alt": "Remanufacturer license plate (sun).",
-   "verdict": "pending:CA-remanufacturer-sun"
+   "verdict": "rejected"
   },
   "/portal/uploads/2020/03/TrnBlock.gif": {
    "src": "https://www.dmv.ca.gov/portal/uploads/2020/03/TrnBlock.gif",
@@ -301,22 +301,22 @@
   "/portal/uploads/2020/03/UScongressblok.gif": {
    "src": "https://www.dmv.ca.gov/portal/uploads/2020/03/UScongressblok.gif",
    "alt": "United States House of Representatives license plate (block).",
-   "verdict": "pending:CA-united-states-house-of-representatives-b"
+   "verdict": "rejected"
   },
   "/portal/uploads/2020/03/UScongressscript.gif": {
    "src": "https://www.dmv.ca.gov/portal/uploads/2020/03/UScongressscript.gif",
    "alt": "United States House of Representatives license plate (script).",
-   "verdict": "pending:CA-united-states-house-of-representatives-s"
+   "verdict": "rejected"
   },
   "/portal/uploads/2020/03/UScongresssun.gif": {
    "src": "https://www.dmv.ca.gov/portal/uploads/2020/03/UScongresssun.gif",
    "alt": "United States House of Representatives license plate (sun).",
-   "verdict": "pending:CA-united-states-house-of-representatives-s-x"
+   "verdict": "rejected"
   },
   "/portal/uploads/2020/03/UScongrsblugld.gif": {
    "src": "https://www.dmv.ca.gov/portal/uploads/2020/03/UScongrsblugld.gif",
    "alt": "United States House of Representatives license plate (blue).",
-   "verdict": "pending:CA-united-states-house-of-representatives-b-x"
+   "verdict": "rejected"
   },
   "/portal/uploads/2020/03/USsenate2ndvehblugld..gif": {
    "src": "https://www.dmv.ca.gov/portal/uploads/2020/03/USsenate2ndvehblugld..gif",
@@ -346,7 +346,7 @@
   "/portal/uploads/2020/03/billofrights.gif": {
    "src": "https://www.dmv.ca.gov/portal/uploads/2020/03/billofrights.gif",
    "alt": "Bicentennial Bill of Rights license plate.",
-   "verdict": "pending:CA-bicentennial-bill-of-rights"
+   "verdict": "rejected"
   },
   "/portal/uploads/2020/03/blue-block.gif": {
    "src": "https://www.dmv.ca.gov/portal/uploads/2020/03/blue-block.gif",
@@ -361,12 +361,12 @@
   "/portal/uploads/2020/03/dismblugld.gif": {
    "src": "https://www.dmv.ca.gov/portal/uploads/2020/03/dismblugld.gif",
    "alt": "Dismantler license plate (blue).",
-   "verdict": "pending:CA-dismantler-blue"
+   "verdict": "rejected"
   },
   "/portal/uploads/2020/03/distrblugld.gif": {
    "src": "https://www.dmv.ca.gov/portal/uploads/2020/03/distrblugld.gif",
    "alt": "New vehicle distributor license plate (blue).",
-   "verdict": "pending:CA-vehicle-distributor-blue"
+   "verdict": "rejected"
   },
   "/portal/uploads/2020/03/distrmcblugld.gif": {
    "src": "https://www.dmv.ca.gov/portal/uploads/2020/03/distrmcblugld.gif",
@@ -406,12 +406,12 @@
   "/portal/uploads/2020/03/exemptscript.gif": {
    "src": "https://www.dmv.ca.gov/portal/uploads/2020/03/exemptscript.gif",
    "alt": "",
-   "verdict": "pending:CA-foreign-organization"
+   "verdict": "rejected"
   },
   "/portal/uploads/2020/03/foreignorg.gif": {
    "src": "https://www.dmv.ca.gov/portal/uploads/2020/03/foreignorg.gif",
    "alt": "Foreign organization license plates.",
-   "verdict": "pending:CA-foreign-organization-x"
+   "verdict": "rejected"
   },
   "/portal/uploads/2020/03/goldstar.jpg": {
    "src": "https://www.dmv.ca.gov/portal/uploads/2020/03/goldstar.jpg",
@@ -506,7 +506,7 @@
   "/portal/uploads/2020/03/pressphotogblugld.gif": {
    "src": "https://www.dmv.ca.gov/portal/uploads/2020/03/pressphotogblugld.gif",
    "alt": "",
-   "verdict": "pending:CA-equipment"
+   "verdict": "rejected"
   },
   "/portal/uploads/2020/03/prplheartautocomltrlr.gif": {
    "src": "https://www.dmv.ca.gov/portal/uploads/2020/03/prplheartautocomltrlr.gif",
@@ -526,7 +526,7 @@
   "/portal/uploads/2020/03/stassemblyblok.gif": {
    "src": "https://www.dmv.ca.gov/portal/uploads/2020/03/stassemblyblok.gif",
    "alt": "California State Assembly license plate (block).",
-   "verdict": "pending:CA-california-state-assembly-block"
+   "verdict": "rejected"
   },
   "/portal/uploads/2020/03/stassemblyscript.gif": {
    "src": "https://www.dmv.ca.gov/portal/uploads/2020/03/stassemblyscript.gif",
@@ -541,7 +541,7 @@
   "/portal/uploads/2020/03/stassmblyblugld.gif": {
    "src": "https://www.dmv.ca.gov/portal/uploads/2020/03/stassmblyblugld.gif",
    "alt": "California State Assembly license plate (blue).",
-   "verdict": "pending:CA-california-state-assembly-blue"
+   "verdict": "rejected"
   },
   "/portal/uploads/2020/03/stsenateblok.gif": {
    "src": "https://www.dmv.ca.gov/portal/uploads/2020/03/stsenateblok.gif",
