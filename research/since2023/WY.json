@@ -1,0 +1,44 @@
+{
+ "state": "WY",
+ "checked": [
+  "https://dot.state.wy.us/home/titles_plates_registration/specialty_plates.html",
+  "https://dot.state.wy.us/home/titles_plates_registration/specialty_plates/donate-life-plate.html",
+  "https://dot.state.wy.us/home/titles_plates_registration/specialty_plates/rodeo.html",
+  "https://dot.state.wy.us/home/titles_plates_registration/specialty_plates/search-and-rescue.html",
+  "https://dot.state.wy.us/home/titles_plates_registration/specialty_plates/tribal-plate.html",
+  "https://dot.state.wy.us/home/titles_plates_registration/specialty_plates/University_of_Wyoming.html",
+  "https://dot.state.wy.us/home/titles_plates_registration/specialty_plates/veteran_plates.html",
+  "https://dot.state.wy.us/wildlife_plate",
+  "https://dot.state.wy.us/news/wydot-unveils-new-rodeo-search-and-rescue-specialty-license-plates",
+  "https://www.donoralliance.org/newsroom/donation-essentials/receiving-the-gift-of-life-and-beyond-the-story-behind-the-donate-life-wyoming-specialty-license-plate/",
+  "https://www.uwyo.edu/news/2024/05/popular-uw-license-plates-get-a-new-look.html",
+  "https://cowboystatedaily.com/2025/04/01/wyomings-specialty-license-plates-are-few-similar-and-on-probation/",
+  "https://www.kotatv.com/2026/02/02/limited-supply-wyoming-tribal-specialty-license-plates-available/",
+  "https://wyoleg.gov/2026/Introduced/SF0112.pdf"
+ ],
+ "robot_url": null,
+ "new": [
+  {"title": "Donate Life Plate", "cat": "charity",
+   "source_img": "https://dot.state.wy.us/files/live/sites/wydot/files/shared/Motor%20Vehicle%20Services/2025%20Plate%20images/2025-DL.jpg",
+   "source": "https://dot.state.wy.us/home/titles_plates_registration/specialty_plates/donate-life-plate.html",
+   "year": "2024", "matches_existing": null},
+  {"title": "Rodeo", "cat": "sports",
+   "source_img": "https://dot.state.wy.us/files/live/sites/wydot/files/shared/Motor%20Vehicle%20Services/2025%20Plate%20images/2026%20Rodeo.jpg",
+   "source": "https://dot.state.wy.us/news/wydot-unveils-new-rodeo-search-and-rescue-specialty-license-plates",
+   "year": "2026", "matches_existing": null},
+  {"title": "Search and Rescue", "cat": "firstresponder",
+   "source_img": "https://dot.state.wy.us/files/live/sites/wydot/files/shared/Motor%20Vehicle%20Services/2025%20Plate%20images/SAR%20BLUE%20B_rs.jpg",
+   "source": "https://dot.state.wy.us/news/wydot-unveils-new-rodeo-search-and-rescue-specialty-license-plates",
+   "year": "2026", "matches_existing": null}
+ ],
+ "redesigned": [
+  {"name_in_game": "University of Wyoming",
+   "source_img": "https://dot.state.wy.us/files/live/sites/wydot/files/shared/Motor%20Vehicle%20Services/2025%20Plate%20images/2025-ALUMNI.jpg",
+   "note": "New brown-and-gold mountain design ('GO POKES') chosen in 2024 for the program's third 8-year cycle; old gold plate sales ended May 31, 2024; new plate issued with/after the 2025 base-plate change (uwyo.edu 2024-05, Cowboy State Daily 2025-03-09)."}
+ ],
+ "retired": [
+  {"name_in_game": "Tribal- Eastern Shoshone", "source": "https://dot.state.wy.us/home/titles_plates_registration/specialty_plates/tribal-plate.html"},
+  {"name_in_game": "Tribal- Northern Arapaho", "source": "https://dot.state.wy.us/home/titles_plates_registration/specialty_plates/tribal-plate.html"}
+ ],
+ "notes": "Tribal plates: production ceased end of 2025 (under 500 sets sold); ~200 remaining sets still sold first-come and valid through 2033, so they will stay on the road for years — treat as 'no longer issued' rather than gone. No WYDOT gallery page exists (each plate has its own page with one <img>; the index shows only a photo of a plate wall), so robot_url is null. All plate images were reshot in 2025 for the new Squaretop base plate; only UW is a confirmed design change."
+}

@@ -298,5 +298,15 @@
   "code": "MT-2",
   "name": "Montana",
   "url": "https://mvdmt.gov/license-plate-lookup/"
+ },
+ {
+  "code": "AK-2",
+  "name": "Alaska",
+  "url": "https://dmv.alaska.gov/vehicle-services/license-plates/"
+ },
+ {
+  "code": "WV",
+  "name": "West Virginia",
+  "url": "https://dmv.wv.gov/node/155"
  }
 ]

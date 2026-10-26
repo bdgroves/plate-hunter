@@ -4,7 +4,7 @@
  "rated": false,
  "checked": false,
  "updated": "2026-10-25",
- "about": "Kentucky special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "about": "Kentucky special-design plates. Not rated yet: every plate is worth the same. Partly checked for plates added since 2023.",
  "sources": [
   {
    "title": "Jon Keegan, us-license-plates (2023)",
@@ -827,6 +827,214 @@
    "name": "Wild Turkey Federation",
    "cat": "sports",
    "img": "wild-turkey-federation.webp"
+  },
+  {
+   "id": "pow-mia",
+   "name": "POW-MIA",
+   "cat": "veterans",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
+   "year": "2024"
+  },
+  {
+   "id": "zeta-phi-beta-sorority-inc",
+   "name": "Zeta Phi Beta Sorority, Inc.",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
+   "year": "2024"
+  },
+  {
+   "id": "operation-lifesaver-inc",
+   "name": "Operation Lifesaver, Inc.",
+   "cat": "charity",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
+   "year": "2024"
+  },
+  {
+   "id": "omega-psi-fraternity",
+   "name": "Omega Psi Fraternity",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
+   "year": "2024"
+  },
+  {
+   "id": "kentucky-casa-network",
+   "name": "Kentucky CASA Network",
+   "cat": "charity",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
+   "year": "2024"
+  },
+  {
+   "id": "kentuckians-for-the-arts",
+   "name": "Kentuckians for the Arts",
+   "cat": "charity",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
+   "year": "2024"
+  },
+  {
+   "id": "kappa-alpha-psi",
+   "name": "Kappa Alpha Psi",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
+   "year": "2024"
+  },
+  {
+   "id": "alpha-kappa-alpha-sorority",
+   "name": "Alpha Kappa Alpha Sorority",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
+   "year": "2024"
+  },
+  {
+   "id": "be-kind",
+   "name": "Be Kind",
+   "cat": "charity",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
+   "year": "2024"
+  },
+  {
+   "id": "bardstown-community",
+   "name": "Bardstown Community",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
+   "year": "2024"
+  },
+  {
+   "id": "ohv4ky",
+   "name": "OHV4KY",
+   "cat": "hobby",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
+   "year": "2024"
+  },
+  {
+   "id": "kentucky-nurses-foundation",
+   "name": "Kentucky Nurses Foundation",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
+   "year": "2024"
+  },
+  {
+   "id": "congenital-heart-disease",
+   "name": "Congenital Heart Disease",
+   "cat": "charity",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
+   "year": "2024"
+  },
+  {
+   "id": "c-o-p-s",
+   "name": "C.O.P.S.",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
+   "year": "2024"
+  },
+  {
+   "id": "colon-cancer-prevention",
+   "name": "Colon Cancer Prevention",
+   "cat": "charity",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
+   "year": "2024"
+  },
+  {
+   "id": "101st-airborne-division-air-assault",
+   "name": "101st Airborne Division (Air Assault)",
+   "cat": "military",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
+   "year": "2024"
+  },
+  {
+   "id": "160th-special-operations-aviation-regime",
+   "name": "160th Special Operations Aviation Regiment",
+   "cat": "military",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
+   "year": "2024"
+  },
+  {
+   "id": "5th-special-forces-group-airborne",
+   "name": "5th Special Forces Group (Airborne)",
+   "cat": "military",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
+   "year": "2024"
+  },
+  {
+   "id": "u-s-army-human-resources-command",
+   "name": "U.S. Army Human Resources Command",
+   "cat": "military",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
+   "year": "2024"
+  },
+  {
+   "id": "u-s-army-recruiting-command",
+   "name": "U.S. Army Recruiting Command",
+   "cat": "military",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
+   "year": "2024"
+  },
+  {
+   "id": "u-s-army-cadet-command",
+   "name": "U.S. Army Cadet Command",
+   "cat": "military",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
+   "year": "2024"
+  },
+  {
+   "id": "u-s-army-v-corps",
+   "name": "U.S. Army V Corps",
+   "cat": "military",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
+   "year": "2024"
+  },
+  {
+   "id": "beautify-the-bluegrass",
+   "name": "Beautify the Bluegrass",
+   "cat": "nature",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.wbko.com/2026/05/16/beautify-bluegrass-license-plate-now-available/",
+   "year": "2026"
   }
- ]
+ ],
+ "checked_on": "2026-10-26"
 }

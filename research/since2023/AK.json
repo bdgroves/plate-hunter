@@ -1,0 +1,23 @@
+{
+ "state": "AK",
+ "checked": [
+  "https://dmv.alaska.gov/vehicle-services/license-plates/",
+  "https://dmv.alaska.gov/vehicle-services/veteran-license-plates/",
+  "https://dmv.alaska.gov/vehicle-services/sample-license-plates/",
+  "https://www.ktoo.org/2024/08/22/how-the-license-plate-bill-to-end-license-plate-bills-finally-passed/"
+ ],
+ "robot_url": "https://dmv.alaska.gov/vehicle-services/license-plates/",
+ "new": [
+  {"title": "Honoring Fallen Police Officers", "cat": "firstresponder",
+   "source_img": "https://dmv.alaska.gov/media/nk2myuer/fallen-officer-large-plate.png",
+   "source": "https://dmv.alaska.gov/vehicle-services/license-plates/",
+   "year": null, "matches_existing": null},
+  {"title": "Space Force", "cat": "military",
+   "source_img": "https://dmv.alaska.gov/media/xvymq3sx/space-force-veteran.png",
+   "source": "https://dmv.alaska.gov/vehicle-services/license-plates/",
+   "year": null, "matches_existing": null}
+ ],
+ "redesigned": [],
+ "retired": [],
+ "notes": "Both new plates were authorized by the 2024 'license plate bill to end license plate bills' (SB 95, passed Aug 2024; also moves future specialty plates to a DMV application process); exact first-issue date not found, likely 2025. The same law authorized women-veteran and retired-women-veteran plates, but they are not on the DMV page yet. 'Supporting the Arts' (in game) no longer appears on the DMV list, only 'Celebrating the Arts' (fireweed) — unconfirmed whether retired or a duplicate name. The UAS image is named uaa-se2025.jpg, a possible 2025 redesign, unconfirmed. The DMV also lists 'Unit Designator' plates (60+ unit insignia) not in the game; the program predates 2023 so it is not listed as new."
+}

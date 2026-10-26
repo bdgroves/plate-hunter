@@ -4,7 +4,7 @@
  "rated": false,
  "checked": false,
  "updated": "2026-10-25",
- "about": "Texas special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "about": "Texas special-design plates. Not rated yet: every plate is worth the same. Partly checked for plates added since 2023.",
  "sources": [
   {
    "title": "Jon Keegan, us-license-plates (2023)",
@@ -1378,7 +1378,8 @@
    "id": "houston-texans",
    "name": "Houston Texans",
    "cat": "sports",
-   "img": "houston-texans.webp"
+   "img": "houston-texans.webp",
+   "retired": true
   },
   {
    "id": "houston-texans-state",
@@ -1918,7 +1919,8 @@
    "id": "sam-houston-state-university-pre-order",
    "name": "Sam Houston State University (Pre-order",
    "cat": "colleges",
-   "img": "sam-houston-state-university-pre-order.webp"
+   "img": "sam-houston-state-university-pre-order.webp",
+   "retired": true
   },
   {
    "id": "san-antonio-spurs",
@@ -2734,7 +2736,8 @@
    "id": "university-of-texas-at-san-antonio",
    "name": "University of Texas at San Antonio",
    "cat": "colleges",
-   "img": "university-of-texas-at-san-antonio.webp"
+   "img": "university-of-texas-at-san-antonio.webp",
+   "retired": true
   },
   {
    "id": "university-of-texas-md-anderson-cancer-c",
@@ -2861,6 +2864,349 @@
    "name": "Zeta Phi Beta",
    "cat": "other",
    "img": "zeta-phi-beta.webp"
+  },
+  {
+   "id": "operation-freedom-s-sentinel",
+   "name": "Operation Freedom's Sentinel",
+   "cat": "military",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://txdmv.blogs.govdelivery.com/county-rts-release-notes-23-4-08-26-2023-930-am/",
+   "year": "2023"
+  },
+  {
+   "id": "antarctica-service-medal",
+   "name": "Antarctica Service Medal",
+   "cat": "military",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://txdmv.blogs.govdelivery.com/county-rts-release-notes-23-4-08-26-2023-930-am/",
+   "year": "2023"
+  },
+  {
+   "id": "humanitarian-service-medal",
+   "name": "Humanitarian Service Medal",
+   "cat": "military",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://txdmv.blogs.govdelivery.com/county-rts-release-notes-23-4-08-26-2023-930-am/",
+   "year": "2023"
+  },
+  {
+   "id": "industrial-firefighter",
+   "name": "Industrial Firefighter",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://txdmv.blogs.govdelivery.com/county-rts-release-notes-23-4-08-26-2023-930-am/",
+   "year": "2023"
+  },
+  {
+   "id": "retired-peace-officer",
+   "name": "Retired Peace Officer",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://txdmv.blogs.govdelivery.com/county-rts-release-notes-23-4-08-26-2023-930-am/",
+   "year": "2023"
+  },
+  {
+   "id": "fallen-law-enforcement-officer",
+   "name": "Fallen Law Enforcement Officer",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://txdmv.blogs.govdelivery.com/county-rts-release-notes-23-4-08-26-2023-930-am/",
+   "year": "2023"
+  },
+  {
+   "id": "burn-pits-360-veterans-organization",
+   "name": "Burn Pits 360 Veterans Organization",
+   "cat": "veterans",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://txdmv.blogs.govdelivery.com/county-rts-release-notes-23-4-08-26-2023-930-am/",
+   "year": "2023"
+  },
+  {
+   "id": "texas-homeland-defense-service-medal",
+   "name": "Texas Homeland Defense Service Medal",
+   "cat": "military",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://capitol.texas.gov/tlodocs/88R/analysis/html/HB04861H.htm"
+  },
+  {
+   "id": "lone-star-distinguished-service-medal",
+   "name": "Lone Star Distinguished Service Medal",
+   "cat": "military",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://capitol.texas.gov/tlodocs/88R/analysis/html/HB04861H.htm"
+  },
+  {
+   "id": "texas-outstanding-service-medal",
+   "name": "Texas Outstanding Service Medal",
+   "cat": "military",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://capitol.texas.gov/tlodocs/88R/analysis/html/HB04861H.htm"
+  },
+  {
+   "id": "texas-medal-of-merit",
+   "name": "Texas Medal of Merit",
+   "cat": "military",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://capitol.texas.gov/tlodocs/88R/analysis/html/HB04861H.htm"
+  },
+  {
+   "id": "sheriffs-association-of-texas",
+   "name": "Sheriffs' Association of Texas",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://prod-origin.txdmv.gov:443/sites/default/files/body-files/Special-Plate-Guide.pdf"
+  },
+  {
+   "id": "k9s4kids",
+   "name": "K9S4KIDS",
+   "cat": "charity",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://prod-origin.txdmv.gov:443/sites/default/files/body-files/Special-Plate-Guide.pdf"
+  },
+  {
+   "id": "classroom-teacher",
+   "name": "Classroom Teacher",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://prod-origin.txdmv.gov:443/sites/default/files/body-files/Special-Plate-Guide.pdf"
+  },
+  {
+   "id": "retired-classroom-teacher",
+   "name": "Retired Classroom Teacher",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://prod-origin.txdmv.gov:443/sites/default/files/body-files/Special-Plate-Guide.pdf"
+  },
+  {
+   "id": "texas-our-texas",
+   "name": "Texas, Our Texas",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://prod-origin.txdmv.gov:443/sites/default/files/body-files/Special-Plate-Guide.pdf"
+  },
+  {
+   "id": "brushed-metal-grill",
+   "name": "Brushed Metal Grill",
+   "cat": "vehicle",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://txdmv.blogs.govdelivery.com/?p=8423",
+   "year": "2024"
+  },
+  {
+   "id": "dps-troopers-foundation",
+   "name": "DPS Troopers Foundation",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://txdmv.blogs.govdelivery.com/?p=8423",
+   "year": "2024"
+  },
+  {
+   "id": "premium-embossed-black-gold",
+   "name": "Premium Embossed Black & Gold",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://txdmv.blogs.govdelivery.com/?p=8639",
+   "year": "2024"
+  },
+  {
+   "id": "premium-embossed-black-yellow",
+   "name": "Premium Embossed Black & Yellow",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://txdmv.blogs.govdelivery.com/?p=8639",
+   "year": "2024"
+  },
+  {
+   "id": "blue-gold-premium-embossed",
+   "name": "Blue & Gold Premium Embossed",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://txdmv.blogs.govdelivery.com/?p=8639",
+   "year": "2024"
+  },
+  {
+   "id": "phi-beta-sigma",
+   "name": "Phi Beta Sigma",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://txdmv.blogs.govdelivery.com/?p=8639",
+   "year": "2024"
+  },
+  {
+   "id": "texas-a-m-university-texarkana",
+   "name": "Texas A&M University-Texarkana",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://content.govdelivery.com/accounts/TXDMV/bulletins/3c8ec48",
+   "year": "2025"
+  },
+  {
+   "id": "guadalupe-mountains-national-park",
+   "name": "Guadalupe Mountains National Park",
+   "cat": "nature",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://content.govdelivery.com/accounts/TXDMV/bulletins/3c8ec48",
+   "year": "2025"
+  },
+  {
+   "id": "embossed-black-white",
+   "name": "Embossed Black & White",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://content.govdelivery.com/accounts/TXDMV/bulletins/3c8ec48",
+   "year": "2025"
+  },
+  {
+   "id": "lone-star-flag",
+   "name": "Lone Star Flag",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://txdmv.blogs.govdelivery.com/?p=8834",
+   "year": "2025"
+  },
+  {
+   "id": "state-fair-of-texas",
+   "name": "State Fair of Texas",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://content.govdelivery.com/accounts/TXDMV/bulletins/3e79716",
+   "year": "2025"
+  },
+  {
+   "id": "ducks-unlimited-crossover",
+   "name": "Ducks Unlimited Crossover",
+   "cat": "nature",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://content.govdelivery.com/accounts/TXDMV/bulletins/3ef1907",
+   "year": "2025"
+  },
+  {
+   "id": "sand-dollar",
+   "name": "Sand Dollar",
+   "cat": "nature",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://content.govdelivery.com/accounts/TXDMV/bulletins/3ef1907",
+   "year": "2025"
+  },
+  {
+   "id": "sigma-gamma-rho",
+   "name": "Sigma Gamma Rho",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://content.govdelivery.com/accounts/TXDMV/bulletins/3ef1907",
+   "year": "2025"
+  },
+  {
+   "id": "retired-firefighter",
+   "name": "Retired Firefighter",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://prod-origin.txdmv.gov/sites/default/files/body-files/2026-03-10_TxDMV_New_License_Plates.pdf",
+   "year": "2026"
+  },
+  {
+   "id": "u-s-army-ranger",
+   "name": "U.S. Army Ranger",
+   "cat": "military",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://prod-origin.txdmv.gov/sites/default/files/body-files/2026-03-10_TxDMV_New_License_Plates.pdf",
+   "year": "2026"
+  },
+  {
+   "id": "75th-army-ranger-regiment",
+   "name": "75th Army Ranger Regiment",
+   "cat": "military",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://prod-origin.txdmv.gov/sites/default/files/body-files/2026-03-10_TxDMV_New_License_Plates.pdf",
+   "year": "2026"
+  },
+  {
+   "id": "animal-friendly-spay-neuter-adopt",
+   "name": "Animal Friendly - Spay. Neuter. Adopt.",
+   "cat": "charity",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://prod-origin.txdmv.gov/sites/default/files/body-files/2026-03-10_TxDMV_New_License_Plates.pdf",
+   "year": "2026"
+  },
+  {
+   "id": "central-catholic-high-school",
+   "name": "Central Catholic High School",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://prod-origin.txdmv.gov/sites/default/files/body-files/2026-03-10_TxDMV_New_License_Plates.pdf",
+   "year": "2026"
+  },
+  {
+   "id": "disabled-peace-officer",
+   "name": "Disabled Peace Officer",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://content.govdelivery.com/accounts/TXDMV/bulletins/3ff42ab",
+   "year": "2026"
+  },
+  {
+   "id": "national-cowgirl-museum-hall-of-fame-pre",
+   "name": "National Cowgirl Museum & Hall of Fame (Pre-order)",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.myplates.com/comingsoon",
+   "img_url": "https://cdn.myplates.com/content/NCMHoF.jpg"
+  },
+  {
+   "id": "ufc-pre-order",
+   "name": "UFC (Pre-order)",
+   "cat": "sports",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.myplates.com/comingsoon",
+   "img_url": "https://cdn.myplates.com/content/ps.6ch.UFC.jpg"
+  },
+  {
+   "id": "university-of-missouri-pre-order",
+   "name": "University of Missouri (Pre-order)",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.myplates.com/comingsoon",
+   "img_url": "https://cdn.myplates.com/content/Mizzou_PreOrder.png"
   }
- ]
+ ],
+ "checked_on": "2026-10-26"
 }

@@ -1,0 +1,134 @@
+{
+ "state": "LA",
+ "checked": [
+  "https://expresslane.la.gov/omv/vehicles/plates/special-personalized-plates",
+  "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/SpecialPlatesViewer.aspx",
+  "https://public.powerdms.com/LADPSC/documents/1210898",
+  "https://public.powerdms.com/LADPSC/documents/1298516",
+  "https://public.powerdms.com/LADPSC/documents/1520701",
+  "https://public.powerdms.com/LADPSC/documents/1289496",
+  "https://www.wafb.com/2024/01/29/pelicans-license-plates-now-available",
+  "https://lsusports.net/news/2024/03/14/womens-basketball-national-championship-license-plates-now-available",
+  "https://www.fox8live.com/2025/08/20/jefferson-parish-unveils-bicentennial-license-plate/",
+  "https://www.legis.la.gov/legis/Law.aspx?d=1297328",
+  "https://legis.la.gov/Legis/ViewDocument.aspx?d=1449445"
+ ],
+ "robot_url": null,
+ "new": [
+  {
+   "title": "Team Gleason",
+   "cat": "charity",
+   "source_img": null,
+   "source": "https://public.powerdms.com/LADPSC/documents/1210898",
+   "year": "2023",
+   "matches_existing": null
+  },
+  {
+   "title": "New Orleans Pelicans",
+   "cat": "sports",
+   "source_img": null,
+   "source": "https://www.wafb.com/2024/01/29/pelicans-license-plates-now-available",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "Southern Miss Alumni",
+   "cat": "colleges",
+   "source_img": null,
+   "source": "https://public.powerdms.com/LADPSC/documents/1298516",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "LSU Women's Basketball",
+   "cat": "colleges",
+   "source_img": null,
+   "source": "https://lsusports.net/news/2024/03/14/womens-basketball-national-championship-license-plates-now-available",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "Laissez Les Art Rouler",
+   "cat": "hobby",
+   "source_img": null,
+   "source": "https://public.powerdms.com/LADPSC/documents/1520701",
+   "year": "2025",
+   "matches_existing": null
+  },
+  {
+   "title": "Jefferson Parish Bicentennial",
+   "cat": "other",
+   "source_img": null,
+   "source": "https://www.fox8live.com/2025/08/20/jefferson-parish-unveils-bicentennial-license-plate/",
+   "year": "2025",
+   "matches_existing": null
+  },
+  {
+   "title": "Mississippi State University",
+   "cat": "colleges",
+   "source_img": null,
+   "source": "https://www.legis.la.gov/legis/Law.aspx?d=1297328",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Univ. of Mississippi Alumni",
+   "cat": "colleges",
+   "source_img": null,
+   "source": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/SpecialPlatesViewer.aspx",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "LSU Baseball National Champs",
+   "cat": "colleges",
+   "source_img": null,
+   "source": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/SpecialPlatesViewer.aspx",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Juneteenth",
+   "cat": "other",
+   "source_img": null,
+   "source": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/SpecialPlatesViewer.aspx",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Association of Firefighters",
+   "cat": "firstresponder",
+   "source_img": null,
+   "source": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/SpecialPlatesViewer.aspx",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Motorcycle Awareness",
+   "cat": "other",
+   "source_img": null,
+   "source": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/SpecialPlatesViewer.aspx",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Distinguished Flying Cross",
+   "cat": "military",
+   "source_img": null,
+   "source": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/SpecialPlatesViewer.aspx",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Archbishop Chapelle High",
+   "cat": "colleges",
+   "source_img": null,
+   "source": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/SpecialPlatesViewer.aspx",
+   "year": null,
+   "matches_existing": null
+  }
+ ],
+ "redesigned": [],
+ "retired": [],
+ "notes": "New list = plates in the OMV Specialty Plates Viewer (read Oct 2026) that are absent from the game; every game plate is still in the viewer, so no retirements found. Year-null entries are confirmed in the viewer but their first-issue date was not confirmed (Mississippi State's law dates to 2022, needing 1,000 applicants; 'LSU Baseball National Champs' is probably the 2023 title plate, and a 2023+2025 CWS plate is pending as 2026 HB 428). The viewer exposes no plate image URLs, so all source_img are null."
+}

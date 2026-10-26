@@ -2,9 +2,9 @@
  "code": "WY",
  "name": "Wyoming",
  "rated": false,
- "checked": false,
+ "checked": true,
  "updated": "2026-10-25",
- "about": "Wyoming special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "about": "Wyoming special-design plates. Not rated yet: every plate is worth the same. Checked for plates added since 2023 on 2026-10-26.",
  "sources": [
   {
    "title": "Jon Keegan, us-license-plates (2023)",
@@ -154,19 +154,23 @@
    "id": "tribal-eastern-shoshone",
    "name": "Tribal- Eastern Shoshone",
    "cat": "tribal",
-   "img": "tribal-eastern-shoshone.webp"
+   "img": "tribal-eastern-shoshone.webp",
+   "retired": true
   },
   {
    "id": "tribal-northern-arapaho",
    "name": "Tribal- Northern Arapaho",
    "cat": "tribal",
-   "img": "tribal-northern-arapaho.webp"
+   "img": "tribal-northern-arapaho.webp",
+   "retired": true
   },
   {
    "id": "university-of-wyoming",
    "name": "University of Wyoming",
    "cat": "colleges",
-   "img": "university-of-wyoming.webp"
+   "img": "university-of-wyoming.webp",
+   "img_url": "https://dot.state.wy.us/files/live/sites/wydot/files/shared/Motor%20Vehicle%20Services/2025%20Plate%20images/2025-ALUMNI.jpg",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "veteran-air-force",
@@ -209,6 +213,37 @@
    "name": "Wildlife Conservation",
    "cat": "nature",
    "img": "wildlife-conservation.webp"
+  },
+  {
+   "id": "donate-life-plate",
+   "name": "Donate Life Plate",
+   "cat": "charity",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://dot.state.wy.us/home/titles_plates_registration/specialty_plates/donate-life-plate.html",
+   "img_url": "https://dot.state.wy.us/files/live/sites/wydot/files/shared/Motor%20Vehicle%20Services/2025%20Plate%20images/2025-DL.jpg",
+   "year": "2024"
+  },
+  {
+   "id": "rodeo",
+   "name": "Rodeo",
+   "cat": "sports",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://dot.state.wy.us/news/wydot-unveils-new-rodeo-search-and-rescue-specialty-license-plates",
+   "img_url": "https://dot.state.wy.us/files/live/sites/wydot/files/shared/Motor%20Vehicle%20Services/2025%20Plate%20images/2026%20Rodeo.jpg",
+   "year": "2026"
+  },
+  {
+   "id": "search-and-rescue",
+   "name": "Search and Rescue",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://dot.state.wy.us/news/wydot-unveils-new-rodeo-search-and-rescue-specialty-license-plates",
+   "img_url": "https://dot.state.wy.us/files/live/sites/wydot/files/shared/Motor%20Vehicle%20Services/2025%20Plate%20images/SAR%20BLUE%20B_rs.jpg",
+   "year": "2026"
   }
- ]
+ ],
+ "checked_on": "2026-10-26"
 }

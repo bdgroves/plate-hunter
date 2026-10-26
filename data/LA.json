@@ -2,9 +2,9 @@
  "code": "LA",
  "name": "Louisiana",
  "rated": false,
- "checked": false,
+ "checked": true,
  "updated": "2026-10-25",
- "about": "Louisiana special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "about": "Louisiana special-design plates. Not rated yet: every plate is worth the same. Checked for plates added since 2023 on 2026-10-26.",
  "sources": [
   {
    "title": "Jon Keegan, us-license-plates (2023)",
@@ -1313,6 +1313,117 @@
    "name": "Zulu Social Aid and Club",
    "cat": "charity",
    "img": "zulu-social-aid-and-club.webp"
+  },
+  {
+   "id": "team-gleason",
+   "name": "Team Gleason",
+   "cat": "charity",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://public.powerdms.com/LADPSC/documents/1210898",
+   "year": "2023"
+  },
+  {
+   "id": "new-orleans-pelicans",
+   "name": "New Orleans Pelicans",
+   "cat": "sports",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.wafb.com/2024/01/29/pelicans-license-plates-now-available",
+   "year": "2024"
+  },
+  {
+   "id": "southern-miss-alumni",
+   "name": "Southern Miss Alumni",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://public.powerdms.com/LADPSC/documents/1298516",
+   "year": "2024"
+  },
+  {
+   "id": "lsu-women-s-basketball",
+   "name": "LSU Women's Basketball",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://lsusports.net/news/2024/03/14/womens-basketball-national-championship-license-plates-now-available",
+   "year": "2024"
+  },
+  {
+   "id": "laissez-les-art-rouler",
+   "name": "Laissez Les Art Rouler",
+   "cat": "hobby",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://public.powerdms.com/LADPSC/documents/1520701",
+   "year": "2025"
+  },
+  {
+   "id": "jefferson-parish-bicentennial",
+   "name": "Jefferson Parish Bicentennial",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.fox8live.com/2025/08/20/jefferson-parish-unveils-bicentennial-license-plate/",
+   "year": "2025"
+  },
+  {
+   "id": "mississippi-state-university",
+   "name": "Mississippi State University",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.legis.la.gov/legis/Law.aspx?d=1297328"
+  },
+  {
+   "id": "univ-of-mississippi-alumni",
+   "name": "Univ. of Mississippi Alumni",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/SpecialPlatesViewer.aspx"
+  },
+  {
+   "id": "lsu-baseball-national-champs",
+   "name": "LSU Baseball National Champs",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/SpecialPlatesViewer.aspx"
+  },
+  {
+   "id": "juneteenth",
+   "name": "Juneteenth",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/SpecialPlatesViewer.aspx"
+  },
+  {
+   "id": "association-of-firefighters",
+   "name": "Association of Firefighters",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/SpecialPlatesViewer.aspx"
+  },
+  {
+   "id": "distinguished-flying-cross",
+   "name": "Distinguished Flying Cross",
+   "cat": "military",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/SpecialPlatesViewer.aspx"
+  },
+  {
+   "id": "archbishop-chapelle-high",
+   "name": "Archbishop Chapelle High",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/SpecialPlatesViewer.aspx"
   }
- ]
+ ],
+ "checked_on": "2026-10-26"
 }

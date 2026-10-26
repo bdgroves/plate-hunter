@@ -1,0 +1,39 @@
+{
+ "state": "TN",
+ "checked": [
+  "https://revenue.support.tn.gov/hc/en-us/articles/360060500191-PSP-3-Specialty-Plates-Currently-Available-and-Proposed",
+  "https://www.tn.gov/revenue/title-and-registration/license-plates/additional-license-plate-information/proposed-specialty-plates-plates-under-construction.html",
+  "https://www.tn.gov/content/tn/revenue/title-and-registration/license-plates/available-license-plates.html",
+  "https://www.tn.gov/content/tn/revenue/title-and-registration/license-plates/available-license-plates/collegiate-plates/georgia.html",
+  "https://www.tn.gov/revenue/title-and-registration/license-plates/available-license-plates/wildlife-and-animal/watchable-wildlife.html",
+  "https://www.tn.gov/content/tn/twra/wildlife/wildlife-license-plate.html",
+  "https://www.tn.gov/veteran/veteran-benefits/tn-state-benefits/motor-services/veteran-specialty-plates.html",
+  "https://www.wkrn.com/news/tennessee-politics/new-specialty-license-plates-on-their-way-to-approval-in-tennessee/amp/",
+  "https://digital-release.wate.com/news/tennessee/the-6-best-selling-tennessee-specialty-license-plates-of-2025/amp/",
+  "https://www.wate.com/news/vote-tn-ag-tag-design/amp/",
+  "https://mtcbsa.org/licenseplate",
+  "https://newschannel9.com/news/local/conservation-group-reaches-milestone-for-a-new-wildlife-specialty-license-plate"
+ ],
+ "robot_url": null,
+ "new": [
+  {
+   "title": "University of Georgia",
+   "cat": "colleges",
+   "source_img": "https://www.tn.gov/content/tn/revenue/title-and-registration/license-plates/available-license-plates/collegiate-plates/georgia/jcr%3acontent/contentFullWidth/tn_panel/content/tn_columnctrl/column_parsys0/tn_image.img.jpg/1692371835681.jpg",
+   "source": "https://www.tn.gov/content/tn/revenue/title-and-registration/license-plates/available-license-plates/collegiate-plates/georgia.html",
+   "year": "2023",
+   "matches_existing": null
+  },
+  {
+   "title": "Eastern Bluebird (TWRA wildlife plate)",
+   "cat": "nature",
+   "source_img": "https://www.tn.gov/twra/wildlife/wildlife-license-plate/_jcr_content/contentFullWidth/tn_columnctrl/column_parsys2/tn_image.img.jpg/1774531656737.jpg",
+   "source": "https://www.tn.gov/content/tn/twra/wildlife/wildlife-license-plate.html",
+   "year": null,
+   "matches_existing": "Watchable Wildlife Wildlife & Animal, Environment & Conservation"
+  }
+ ],
+ "redesigned": [],
+ "retired": [],
+ "notes": "PARTIAL. The Revenue specialty-plate gallery (available-license-plates.html) renders client-side and returned no plate list, so there was no full official list to diff against. Only individual plate pages were checked. University of Georgia is a collegiate page whose image is timestamped Aug 2023 (epoch 1692371835681) and the plate is not in the game. TWRA lists an Eastern Bluebird plate that isn't in the game by name; it may simply be the existing Watchable Wildlife (nongame) plate, so treat it as unconfirmed. The other 2024-2026 plates in the news (the 40 on the proposed list, including Elephant Sanctuary, Donate Life, Grand Ole Opry and Nashville Sounds; Tennessee Scouts; Quail Forever; Childhood Cancer) are still pre-order or proposed, not issued. An Ag Tag redesign public vote closed June 2026, with no new design issued yet."
+}

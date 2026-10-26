@@ -1,0 +1,437 @@
+{
+ "state": "TX",
+ "checked": [
+  "https://prod-origin.txdmv.gov:443/sites/default/files/body-files/Special-Plate-Guide.pdf",
+  "https://www.txdmv.gov/sites/default/files/body-files/Military-Plate-Guide.pdf",
+  "https://txdmv.blogs.govdelivery.com/county-rts-release-notes-23-4-08-26-2023-930-am/",
+  "https://txdmv.blogs.govdelivery.com/?p=8423",
+  "https://txdmv.blogs.govdelivery.com/?p=8535",
+  "https://txdmv.blogs.govdelivery.com/?p=8639",
+  "https://content.govdelivery.com/accounts/TXDMV/bulletins/3c8ec48",
+  "https://txdmv.blogs.govdelivery.com/?p=8834",
+  "https://content.govdelivery.com/accounts/TXDMV/bulletins/3e79716",
+  "https://content.govdelivery.com/accounts/TXDMV/bulletins/3ef1907",
+  "https://content.govdelivery.com/accounts/TXDMV/bulletins/3ff42ab",
+  "https://txdmv.blogs.govdelivery.com/?p=9324",
+  "https://content.govdelivery.com/attachments/TXDMV/2026/08/28/file_attachments/3762249/RTS%20POS%20County%2026.3%20Release%20Notes%20-%20FINAL.pdf",
+  "https://prod-origin.txdmv.gov/sites/default/files/body-files/2026-03-10_TxDMV_New_License_Plates.pdf",
+  "https://content.govdelivery.com/accounts/TXDMV/bulletins/40d694f",
+  "https://capitol.texas.gov/tlodocs/88R/analysis/html/HB04861H.htm",
+  "https://capitol.texas.gov/tlodocs/88R/analysis/html/SB02221S.htm",
+  "https://capitol.texas.gov/tlodocs/88R/fiscalnotes/html/HB05135F.htm",
+  "https://capitol.texas.gov/tlodocs/88R/fiscalnotes/html/HB00108S.htm",
+  "https://prod-origin.txdmv.gov/motorists/license-plates/eview",
+  "https://www.myplates.com/comingsoon",
+  "https://www.myplates.com/discontinued-plates",
+  "https://www.txdmv.gov/node/4879"
+ ],
+ "robot_url": null,
+ "new": [
+  {
+   "title": "Operation Freedom's Sentinel",
+   "cat": "military",
+   "source_img": null,
+   "source": "https://txdmv.blogs.govdelivery.com/county-rts-release-notes-23-4-08-26-2023-930-am/",
+   "year": "2023",
+   "matches_existing": null
+  },
+  {
+   "title": "Antarctica Service Medal",
+   "cat": "military",
+   "source_img": null,
+   "source": "https://txdmv.blogs.govdelivery.com/county-rts-release-notes-23-4-08-26-2023-930-am/",
+   "year": "2023",
+   "matches_existing": null
+  },
+  {
+   "title": "Humanitarian Service Medal",
+   "cat": "military",
+   "source_img": null,
+   "source": "https://txdmv.blogs.govdelivery.com/county-rts-release-notes-23-4-08-26-2023-930-am/",
+   "year": "2023",
+   "matches_existing": null
+  },
+  {
+   "title": "Industrial Firefighter",
+   "cat": "firstresponder",
+   "source_img": null,
+   "source": "https://txdmv.blogs.govdelivery.com/county-rts-release-notes-23-4-08-26-2023-930-am/",
+   "year": "2023",
+   "matches_existing": null
+  },
+  {
+   "title": "Retired Peace Officer",
+   "cat": "firstresponder",
+   "source_img": null,
+   "source": "https://txdmv.blogs.govdelivery.com/county-rts-release-notes-23-4-08-26-2023-930-am/",
+   "year": "2023",
+   "matches_existing": null
+  },
+  {
+   "title": "Fallen Law Enforcement Officer",
+   "cat": "firstresponder",
+   "source_img": null,
+   "source": "https://txdmv.blogs.govdelivery.com/county-rts-release-notes-23-4-08-26-2023-930-am/",
+   "year": "2023",
+   "matches_existing": null
+  },
+  {
+   "title": "Burn Pits 360 Veterans Organization",
+   "cat": "veterans",
+   "source_img": null,
+   "source": "https://txdmv.blogs.govdelivery.com/county-rts-release-notes-23-4-08-26-2023-930-am/",
+   "year": "2023",
+   "matches_existing": null
+  },
+  {
+   "title": "Texas Homeland Defense Service Medal",
+   "cat": "military",
+   "source_img": null,
+   "source": "https://capitol.texas.gov/tlodocs/88R/analysis/html/HB04861H.htm",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Texas Superior Service Medal",
+   "cat": "military",
+   "source_img": null,
+   "source": "https://capitol.texas.gov/tlodocs/88R/analysis/html/HB04861H.htm",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Lone Star Distinguished Service Medal",
+   "cat": "military",
+   "source_img": null,
+   "source": "https://capitol.texas.gov/tlodocs/88R/analysis/html/HB04861H.htm",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Texas Outstanding Service Medal",
+   "cat": "military",
+   "source_img": null,
+   "source": "https://capitol.texas.gov/tlodocs/88R/analysis/html/HB04861H.htm",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Texas Medal of Merit",
+   "cat": "military",
+   "source_img": null,
+   "source": "https://capitol.texas.gov/tlodocs/88R/analysis/html/HB04861H.htm",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Texas Humanitarian Service Medal",
+   "cat": "military",
+   "source_img": null,
+   "source": "https://www.txdmv.gov/sites/default/files/body-files/Military-Plate-Guide.pdf",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Sheriffs' Association of Texas",
+   "cat": "firstresponder",
+   "source_img": null,
+   "source": "https://prod-origin.txdmv.gov:443/sites/default/files/body-files/Special-Plate-Guide.pdf",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "K9S4KIDS",
+   "cat": "charity",
+   "source_img": null,
+   "source": "https://prod-origin.txdmv.gov:443/sites/default/files/body-files/Special-Plate-Guide.pdf",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Classroom Teacher",
+   "cat": "other",
+   "source_img": null,
+   "source": "https://prod-origin.txdmv.gov:443/sites/default/files/body-files/Special-Plate-Guide.pdf",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Retired Classroom Teacher",
+   "cat": "other",
+   "source_img": null,
+   "source": "https://prod-origin.txdmv.gov:443/sites/default/files/body-files/Special-Plate-Guide.pdf",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Texas, Our Texas",
+   "cat": "other",
+   "source_img": null,
+   "source": "https://prod-origin.txdmv.gov:443/sites/default/files/body-files/Special-Plate-Guide.pdf",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Brushed Metal Grill",
+   "cat": "vehicle",
+   "source_img": null,
+   "source": "https://txdmv.blogs.govdelivery.com/?p=8423",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "Texas Rangers Crossover",
+   "cat": "sports",
+   "source_img": null,
+   "source": "https://txdmv.blogs.govdelivery.com/?p=8423",
+   "year": "2024",
+   "matches_existing": "Texas Rangers"
+  },
+  {
+   "title": "DPS Troopers Foundation",
+   "cat": "firstresponder",
+   "source_img": null,
+   "source": "https://txdmv.blogs.govdelivery.com/?p=8423",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "Premium Embossed Black & Gold",
+   "cat": "other",
+   "source_img": null,
+   "source": "https://txdmv.blogs.govdelivery.com/?p=8639",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "Premium Embossed Black & Yellow",
+   "cat": "other",
+   "source_img": null,
+   "source": "https://txdmv.blogs.govdelivery.com/?p=8639",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "Blue & Gold Premium Embossed",
+   "cat": "other",
+   "source_img": null,
+   "source": "https://txdmv.blogs.govdelivery.com/?p=8639",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "Florida A&M University",
+   "cat": "colleges",
+   "source_img": null,
+   "source": "https://txdmv.blogs.govdelivery.com/?p=8639",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "Phi Beta Sigma",
+   "cat": "other",
+   "source_img": null,
+   "source": "https://txdmv.blogs.govdelivery.com/?p=8639",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "Texas A&M University-Texarkana",
+   "cat": "colleges",
+   "source_img": null,
+   "source": "https://content.govdelivery.com/accounts/TXDMV/bulletins/3c8ec48",
+   "year": "2025",
+   "matches_existing": null
+  },
+  {
+   "title": "Guadalupe Mountains National Park",
+   "cat": "nature",
+   "source_img": null,
+   "source": "https://content.govdelivery.com/accounts/TXDMV/bulletins/3c8ec48",
+   "year": "2025",
+   "matches_existing": null
+  },
+  {
+   "title": "Premium Embossed Carbon Fiber",
+   "cat": "other",
+   "source_img": null,
+   "source": "https://content.govdelivery.com/accounts/TXDMV/bulletins/3c8ec48",
+   "year": "2025",
+   "matches_existing": "Carbon Fiber"
+  },
+  {
+   "title": "Embossed Black & White",
+   "cat": "other",
+   "source_img": null,
+   "source": "https://content.govdelivery.com/accounts/TXDMV/bulletins/3c8ec48",
+   "year": "2025",
+   "matches_existing": null
+  },
+  {
+   "title": "Lone Star Flag",
+   "cat": "other",
+   "source_img": null,
+   "source": "https://txdmv.blogs.govdelivery.com/?p=8834",
+   "year": "2025",
+   "matches_existing": null
+  },
+  {
+   "title": "Lone Star Badge Black",
+   "cat": "other",
+   "source_img": null,
+   "source": "https://txdmv.blogs.govdelivery.com/?p=8834",
+   "year": "2025",
+   "matches_existing": "Lone Star Badge"
+  },
+  {
+   "title": "State Fair of Texas",
+   "cat": "other",
+   "source_img": null,
+   "source": "https://content.govdelivery.com/accounts/TXDMV/bulletins/3e79716",
+   "year": "2025",
+   "matches_existing": null
+  },
+  {
+   "title": "Ducks Unlimited Crossover",
+   "cat": "nature",
+   "source_img": null,
+   "source": "https://content.govdelivery.com/accounts/TXDMV/bulletins/3ef1907",
+   "year": "2025",
+   "matches_existing": null
+  },
+  {
+   "title": "Sand Dollar",
+   "cat": "nature",
+   "source_img": null,
+   "source": "https://content.govdelivery.com/accounts/TXDMV/bulletins/3ef1907",
+   "year": "2025",
+   "matches_existing": null
+  },
+  {
+   "title": "Sigma Gamma Rho",
+   "cat": "other",
+   "source_img": null,
+   "source": "https://content.govdelivery.com/accounts/TXDMV/bulletins/3ef1907",
+   "year": "2025",
+   "matches_existing": null
+  },
+  {
+   "title": "Retired Firefighter",
+   "cat": "firstresponder",
+   "source_img": null,
+   "source": "https://prod-origin.txdmv.gov/sites/default/files/body-files/2026-03-10_TxDMV_New_License_Plates.pdf",
+   "year": "2026",
+   "matches_existing": null
+  },
+  {
+   "title": "U.S. Army Ranger",
+   "cat": "military",
+   "source_img": null,
+   "source": "https://prod-origin.txdmv.gov/sites/default/files/body-files/2026-03-10_TxDMV_New_License_Plates.pdf",
+   "year": "2026",
+   "matches_existing": null
+  },
+  {
+   "title": "75th Army Ranger Regiment",
+   "cat": "military",
+   "source_img": null,
+   "source": "https://prod-origin.txdmv.gov/sites/default/files/body-files/2026-03-10_TxDMV_New_License_Plates.pdf",
+   "year": "2026",
+   "matches_existing": null
+  },
+  {
+   "title": "Navy and Marine Corps Achievement Medal",
+   "cat": "military",
+   "source_img": null,
+   "source": "https://prod-origin.txdmv.gov/sites/default/files/body-files/2026-03-10_TxDMV_New_License_Plates.pdf",
+   "year": "2026",
+   "matches_existing": null
+  },
+  {
+   "title": "Animal Friendly - Spay. Neuter. Adopt.",
+   "cat": "charity",
+   "source_img": null,
+   "source": "https://prod-origin.txdmv.gov/sites/default/files/body-files/2026-03-10_TxDMV_New_License_Plates.pdf",
+   "year": "2026",
+   "matches_existing": null
+  },
+  {
+   "title": "Central Catholic High School",
+   "cat": "colleges",
+   "source_img": null,
+   "source": "https://prod-origin.txdmv.gov/sites/default/files/body-files/2026-03-10_TxDMV_New_License_Plates.pdf",
+   "year": "2026",
+   "matches_existing": null
+  },
+  {
+   "title": "Disabled Peace Officer",
+   "cat": "firstresponder",
+   "source_img": null,
+   "source": "https://content.govdelivery.com/accounts/TXDMV/bulletins/3ff42ab",
+   "year": "2026",
+   "matches_existing": null
+  },
+  {
+   "title": "Houston Texans Crossover",
+   "cat": "sports",
+   "source_img": null,
+   "source": "https://content.govdelivery.com/attachments/TXDMV/2026/08/28/file_attachments/3762249/RTS%20POS%20County%2026.3%20Release%20Notes%20-%20FINAL.pdf",
+   "year": "2026",
+   "matches_existing": "Houston Texans"
+  },
+  {
+   "title": "National Cowgirl Museum & Hall of Fame (Pre-order)",
+   "cat": "other",
+   "source_img": "https://cdn.myplates.com/content/NCMHoF.jpg",
+   "source": "https://www.myplates.com/comingsoon",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Texas Exes Black (Pre-order)",
+   "cat": "colleges",
+   "source_img": "https://cdn.myplates.com/content/ps.6ch.TexasEx.jpg",
+   "source": "https://www.myplates.com/comingsoon",
+   "year": null,
+   "matches_existing": "Texas Exes"
+  },
+  {
+   "title": "UFC (Pre-order)",
+   "cat": "sports",
+   "source_img": "https://cdn.myplates.com/content/ps.6ch.UFC.jpg",
+   "source": "https://www.myplates.com/comingsoon",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "University of Missouri (Pre-order)",
+   "cat": "colleges",
+   "source_img": "https://cdn.myplates.com/content/Mizzou_PreOrder.png",
+   "source": "https://www.myplates.com/comingsoon",
+   "year": null,
+   "matches_existing": null
+  }
+ ],
+ "redesigned": [
+  {
+   "name_in_game": "Oklahoma State University",
+   "source_img": null,
+   "note": "New My Plates vendor design previewed on TxDMV eVIEW, preview closed July 16, 2026; no image captured"
+  }
+ ],
+ "retired": [
+  {
+   "name_in_game": "Houston Texans - State",
+   "source": "https://content.govdelivery.com/attachments/TXDMV/2026/08/28/file_attachments/3762249/RTS%20POS%20County%2026.3%20Release%20Notes%20-%20FINAL.pdf"
+  },
+  {
+   "name_in_game": "University of Texas at San Antonio",
+   "source": "https://www.myplates.com/discontinued-plates"
+  },
+  {
+   "name_in_game": "Sam Houston State University (Pre-order",
+   "source": "https://www.myplates.com/discontinued-plates"
+  }
+ ],
+ "notes": "PARTIAL: release notes for RTS 23.5/24.4 and the My Plates catalog (JS-rendered) could not be read, so some 2023-2026 My Plates vendor designs are probably missing, and TxDMV publishes no plate image gallery, so state-plate images are null. Year-null items (Texas medal plates from HB 4861, Sheriffs' Assn, K9S4KIDS, classroom teacher plates from 88R, Texas Our Texas, Texas Humanitarian Service Medal) are in the Rev 12/2025 guides but not in the game; Texas Our Texas and Texas Humanitarian Service Medal dates unconfirmed. Phi Beta Sigma and Sigma Gamma Rho were added in RTS (2024/2025) yet also appear on My Plates' discontinued list (likely failed pre-orders or an older version). Houston Texans state plate is closed to new orders only; Houston Rockets is on My Plates' discontinued list but the state version remains, so not retired."
+}

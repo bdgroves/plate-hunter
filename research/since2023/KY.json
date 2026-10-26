@@ -1,0 +1,204 @@
+{
+ "state": "KY",
+ "checked": [
+  "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
+  "https://drive.ky.gov/vehicles/Pages/License-Plates.aspx",
+  "https://kysenaterepublicans.com/press-releases/2024/1/4/pow-mia-specialty-license-plates-now-available-for-kentucky-drivers",
+  "https://www.aol.com/special-license-plate-support-kentucky-215235166.html",
+  "https://spectrumnews1.com/ky/louisville/news/2024/01/17/kentucky-transportation-fentanyl-license-plates-",
+  "https://www.wbko.com/2026/05/16/beautify-bluegrass-license-plate-now-available/",
+  "https://www.klc.org/News/13003/klc-announces-new-cities-license-plate",
+  "https://transportation.ky.gov/NewsRoom/New Standard License Plate Options.pdf",
+  "https://boonecountyclerk.ky.gov/personalized-specialty-plates/"
+ ],
+ "robot_url": null,
+ "new": [
+  {
+   "title": "POW-MIA",
+   "cat": "veterans",
+   "source_img": null,
+   "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "Zeta Phi Beta Sorority, Inc.",
+   "cat": "other",
+   "source_img": null,
+   "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "Operation Lifesaver, Inc.",
+   "cat": "charity",
+   "source_img": null,
+   "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "Omega Psi Fraternity",
+   "cat": "other",
+   "source_img": null,
+   "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "Kentucky CASA Network",
+   "cat": "charity",
+   "source_img": null,
+   "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "Kentuckians for the Arts",
+   "cat": "charity",
+   "source_img": null,
+   "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "Kappa Alpha Psi",
+   "cat": "other",
+   "source_img": null,
+   "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "Alpha Kappa Alpha Sorority",
+   "cat": "other",
+   "source_img": null,
+   "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "Be Kind",
+   "cat": "charity",
+   "source_img": null,
+   "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "Bardstown Community",
+   "cat": "other",
+   "source_img": null,
+   "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "OHV4KY",
+   "cat": "hobby",
+   "source_img": null,
+   "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "Kentucky Nurses Foundation",
+   "cat": "other",
+   "source_img": null,
+   "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "Congenital Heart Disease",
+   "cat": "charity",
+   "source_img": null,
+   "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "C.O.P.S.",
+   "cat": "firstresponder",
+   "source_img": null,
+   "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "Colon Cancer Prevention",
+   "cat": "charity",
+   "source_img": null,
+   "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "101st Airborne Division (Air Assault)",
+   "cat": "military",
+   "source_img": null,
+   "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "160th Special Operations Aviation Regiment",
+   "cat": "military",
+   "source_img": null,
+   "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "5th Special Forces Group (Airborne)",
+   "cat": "military",
+   "source_img": null,
+   "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "U.S. Army Human Resources Command",
+   "cat": "military",
+   "source_img": null,
+   "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "U.S. Army Recruiting Command",
+   "cat": "military",
+   "source_img": null,
+   "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "U.S. Army Cadet Command",
+   "cat": "military",
+   "source_img": null,
+   "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "U.S. Army V Corps",
+   "cat": "military",
+   "source_img": null,
+   "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "Beautify the Bluegrass",
+   "cat": "nature",
+   "source_img": null,
+   "source": "https://www.wbko.com/2026/05/16/beautify-bluegrass-license-plate-now-available/",
+   "year": "2026",
+   "matches_existing": null
+  }
+ ],
+ "redesigned": [],
+ "retired": [],
+ "notes": "PARTIAL. The official plate gallery (secure2.kentucky.gov/kytc/plates/web/) is a JS app that WebFetch was blocked from opening, so there are no agency image URLs (all source_img are null) and no retirements were checked. 'New' comes mainly from the KYTC 'New Special License Plates' flyer (undated, c. Jan 2024; the 2024 years are inferred), and only Kentuckians for the Arts is independently confirmed on sale. The flyer's 'Coming soon' group (EMS Memorial, Appalachian Valley Autism, Never Alone Nick fentanyl awareness, Shaker Village, KY Down Syndrome Association, Friends of Hemp) plus 'Cities Drive Kentucky' (KLC, due 2026) and a 2026 disaster-relief plate are left out as unconfirmed. Motorcycle versions are skipped."
+}

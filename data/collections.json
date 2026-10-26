@@ -19,9 +19,9 @@
   "code": "AK",
   "name": "Alaska",
   "file": "data/AK.json",
-  "count": 43,
+  "count": 45,
   "rated": false,
-  "checked": false
+  "checked": true
  },
  {
   "code": "AZ",
@@ -101,7 +101,7 @@
   "file": "data/HI.json",
   "count": 12,
   "rated": false,
-  "checked": false
+  "checked": true
  },
  {
   "code": "ID",
@@ -147,7 +147,7 @@
   "code": "KY",
   "name": "Kentucky",
   "file": "data/KY.json",
-  "count": 136,
+  "count": 159,
   "rated": false,
   "checked": false
  },
@@ -155,9 +155,9 @@
   "code": "LA",
   "name": "Louisiana",
   "file": "data/LA.json",
-  "count": 217,
+  "count": 230,
   "rated": false,
-  "checked": false
+  "checked": true
  },
  {
   "code": "ME",
@@ -347,7 +347,7 @@
   "code": "TN",
   "name": "Tennessee",
   "file": "data/TN.json",
-  "count": 185,
+  "count": 186,
   "rated": false,
   "checked": false
  },
@@ -355,7 +355,7 @@
   "code": "TX",
   "name": "Texas",
   "file": "data/TX.json",
-  "count": 475,
+  "count": 514,
   "rated": false,
   "checked": false
  },
@@ -387,9 +387,9 @@
   "code": "WV",
   "name": "West Virginia",
   "file": "data/WV.json",
-  "count": 108,
+  "count": 112,
   "rated": false,
-  "checked": false
+  "checked": true
  },
  {
   "code": "WI",
@@ -403,8 +403,8 @@
   "code": "WY",
   "name": "Wyoming",
   "file": "data/WY.json",
-  "count": 33,
+  "count": 36,
   "rated": false,
-  "checked": false
+  "checked": true
  }
 ]

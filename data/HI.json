@@ -2,9 +2,9 @@
  "code": "HI",
  "name": "Hawaii",
  "rated": false,
- "checked": false,
+ "checked": true,
  "updated": "2026-10-25",
- "about": "Hawaii special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "about": "Hawaii special-design plates. Not rated yet: every plate is worth the same. Checked for plates added since 2023 on 2026-10-26.",
  "sources": [
   {
    "title": "Jon Keegan, us-license-plates (2023)",
@@ -22,7 +22,9 @@
    "id": "combat-wounded-purple-heart",
    "name": "Combat Wounded (Purple Heart",
    "cat": "veterans",
-   "img": "combat-wounded-purple-heart.webp"
+   "img": "combat-wounded-purple-heart.webp",
+   "img_url": "https://www.honolulu.gov/mayor/wp-content/uploads/sites/12/2026/08/license-plate-purple-heart.jpg",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "gold-star-family",
@@ -84,5 +86,6 @@
    "cat": "veterans",
    "img": "world-war-ii-veteran.webp"
   }
- ]
+ ],
+ "checked_on": "2026-10-26"
 }

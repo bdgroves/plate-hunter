@@ -1,0 +1,65 @@
+{
+ "state": "WV",
+ "checked": [
+  "https://dmv.wv.gov/vehicle-services/vehicles/license-plates",
+  "https://dmv.wv.gov/node/402",
+  "https://dmv.wv.gov/node/388",
+  "https://dmv.wv.gov/special-plates-associations-and-organizations",
+  "https://dmv.wv.gov/node/438",
+  "https://dmv.wv.gov/node/155",
+  "https://dmv.wv.gov/node/455",
+  "https://dmv.wv.gov/node/463",
+  "https://dmv.wv.gov/node/435",
+  "https://dmv.wv.gov/military-license-plate-applications",
+  "https://transportation.wv.gov/DMV/Vehicle-Services/License-Plates/Special-Plates/Pages/Special-Plate.aspx?p=111",
+  "https://transportation.wv.gov/DMV/Vehicle-Services/License-Plates/Special-Plates/Pages/Special-Plate.aspx?p=112",
+  "https://transportation.wv.gov/DMV/News/Pages/United-States-250th-Anniversary-Limited-Edition-License-Plate.aspx",
+  "https://transportation.wv.gov/DMV/News/Pages/Brook-Trout-and-Bluebird-License-Plates-Now-Available.aspx",
+  "https://code.wvlegislature.gov/signed_bills/2025\\2025-RS-SB464-SUB2 ENR_signed.pdf",
+  "https://www.mybuckhannon.com/?p=188102"
+ ],
+ "robot_url": "https://dmv.wv.gov/node/155",
+ "new": [
+  {
+   "title": "Hoops Children's Family Hospital",
+   "cat": "charity",
+   "source_img": "https://dmv.wv.gov/sites/default/files/2026-03/hh-thumbnail.jpg",
+   "source": "https://dmv.wv.gov/node/455",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "West Virginia Realtor's Association Plate",
+   "cat": "other",
+   "source_img": "https://dmv.wv.gov/sites/default/files/2026-03/rethumbnail.jpg",
+   "source": "https://transportation.wv.gov/DMV/Vehicle-Services/License-Plates/Special-Plates/Pages/Special-Plate.aspx?p=112",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Distinguished Medal of Valor",
+   "cat": "firstresponder",
+   "source_img": "https://dmv.wv.gov/sites/default/files/2026-06/Distinguished-Medal-of-Valor%20%281%29.jpeg",
+   "source": "https://dmv.wv.gov/node/463",
+   "year": "2025",
+   "matches_existing": null
+  },
+  {
+   "title": "United States 250th Anniversary Limited Edition License Plate",
+   "cat": "other",
+   "source_img": null,
+   "source": "https://transportation.wv.gov/DMV/News/Pages/United-States-250th-Anniversary-Limited-Edition-License-Plate.aspx",
+   "year": "2026",
+   "matches_existing": null
+  }
+ ],
+ "redesigned": [
+  {
+   "name_in_game": "Marshall University",
+   "source_img": "https://dmv.wv.gov/sites/default/files/2026-03/Marshall_new_plate.jpg",
+   "note": "DMV image is filed as 'Marshall_new_plate' (bison mascot, green M); date of the new design unknown"
+  }
+ ],
+ "retired": [],
+ "notes": "The new dmv.wv.gov site has four category lists (General Interest node/388, Associations & Organizations, Colleges node/438, Military node/155), all with plain <img> tags; node/155 (military, 40 plates) has the most. These game plates appear on none of the current lists: 150th Anniversary and all ten NASCAR plates. They are probably retired, but no source says so, so they are not listed as retired. The America 250 plate is limited-edition (5,000 made, about 500 left in Aug 2026) and has no DMV plate image. Years for Hoops and Realtors are unknown (they are high IDs, p=111 and p=112, on the old site)."
+}

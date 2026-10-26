@@ -47,7 +47,8 @@ def apply(path: Path) -> str:
 
     for n in r.get("new", []):
         title = (n.get("title") or "").strip()
-        if not title or SKIP.search(title) or any(same_name(title, p["name"], state_name) for p in plates):
+        if (not title or n.get("matches_existing") or SKIP.search(title)
+                or any(same_name(title, p["name"], state_name) for p in plates)):
             continue
         pid = slug(title)
         while pid in ids:

@@ -2,9 +2,9 @@
  "code": "WV",
  "name": "West Virginia",
  "rated": false,
- "checked": false,
+ "checked": true,
  "updated": "2026-10-25",
- "about": "West Virginia special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "about": "West Virginia special-design plates. Not rated yet: every plate is worth the same. Checked for plates added since 2023 on 2026-10-26.",
  "sources": [
   {
    "title": "Jon Keegan, us-license-plates (2023)",
@@ -370,7 +370,9 @@
    "id": "marshall-university",
    "name": "Marshall University",
    "cat": "colleges",
-   "img": "marshall-university.webp"
+   "img": "marshall-university.webp",
+   "img_url": "https://dmv.wv.gov/sites/default/files/2026-03/Marshall_new_plate.jpg",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "medal-of-honor",
@@ -659,6 +661,44 @@
    "name": "WV Tech",
    "cat": "other",
    "img": "wv-tech.webp"
+  },
+  {
+   "id": "hoops-children-s-family-hospital",
+   "name": "Hoops Children's Family Hospital",
+   "cat": "charity",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://dmv.wv.gov/node/455",
+   "img_url": "https://dmv.wv.gov/sites/default/files/2026-03/hh-thumbnail.jpg"
+  },
+  {
+   "id": "west-virginia-realtor-s-association-plat",
+   "name": "West Virginia Realtor's Association Plate",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://transportation.wv.gov/DMV/Vehicle-Services/License-Plates/Special-Plates/Pages/Special-Plate.aspx?p=112",
+   "img_url": "https://dmv.wv.gov/sites/default/files/2026-03/rethumbnail.jpg"
+  },
+  {
+   "id": "distinguished-medal-of-valor",
+   "name": "Distinguished Medal of Valor",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://dmv.wv.gov/node/463",
+   "img_url": "https://dmv.wv.gov/sites/default/files/2026-06/Distinguished-Medal-of-Valor%20%281%29.jpeg",
+   "year": "2025"
+  },
+  {
+   "id": "united-states-250th-anniversary-limited-",
+   "name": "United States 250th Anniversary Limited Edition License Plate",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://transportation.wv.gov/DMV/News/Pages/United-States-250th-Anniversary-Limited-Edition-License-Plate.aspx",
+   "year": "2026"
   }
- ]
+ ],
+ "checked_on": "2026-10-26"
 }

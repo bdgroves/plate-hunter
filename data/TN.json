@@ -4,7 +4,7 @@
  "rated": false,
  "checked": false,
  "updated": "2026-10-25",
- "about": "Tennessee special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "about": "Tennessee special-design plates. Not rated yet: every plate is worth the same. Partly checked for plates added since 2023.",
  "sources": [
   {
    "title": "Jon Keegan, us-license-plates (2023)",
@@ -1121,6 +1121,17 @@
    "name": "Zeta Phi Beta Fraternity & Sorority",
    "cat": "other",
    "img": "zeta-phi-beta-fraternity-sorority.webp"
+  },
+  {
+   "id": "university-of-georgia",
+   "name": "University of Georgia",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.tn.gov/content/tn/revenue/title-and-registration/license-plates/available-license-plates/collegiate-plates/georgia.html",
+   "img_url": "https://www.tn.gov/content/tn/revenue/title-and-registration/license-plates/available-license-plates/collegiate-plates/georgia/jcr%3acontent/contentFullWidth/tn_panel/content/tn_columnctrl/column_parsys0/tn_image.img.jpg/1692371835681.jpg",
+   "year": "2023"
   }
- ]
+ ],
+ "checked_on": "2026-10-26"
 }

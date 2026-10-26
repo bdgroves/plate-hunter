@@ -1,0 +1,23 @@
+{
+ "state": "HI",
+ "checked": [
+  "https://www.honolulu.gov/csd/wp-content/uploads/sites/6/2025/12/Organization-License-Plate-Decal-Program-2025.12.02.pdf",
+  "https://www.honolulu.gov/csd/veterans/",
+  "https://www.honolulu.gov/mayor/city-honors-combat-wounded-veterans-with-a-new-purple-heart-license-plate-design-and-new-purple-heart-city-signs/",
+  "https://www.honolulu.gov/csd/electric-vehicles",
+  "https://www.kitv.com/news/local/honolulu-unveils-new-look-for-electric-car-license-plates/article_0b0cba9f-b7ab-4e5a-9597-317a99a91d68.html",
+  "https://www.mauicounty.gov/1515/Special-License-Plates",
+  "https://data.capitol.hawaii.gov/sessions/sessionlaws/Years/SLH2024/SLH2024_Act64.pdf",
+  "https://data.capitol.hawaii.gov/sessions/session2024/bills/HB1861_SD2_.pdf",
+  "https://data.capitol.hawaii.gov/sessions/session2025/bills/SB1095_SD1_.pdf"
+ ],
+ "robot_url": null,
+ "new": [],
+ "redesigned": [
+  {"name_in_game": "Combat Wounded (Purple Heart",
+   "source_img": "https://www.honolulu.gov/mayor/wp-content/uploads/sites/12/2026/08/license-plate-purple-heart.jpg",
+   "note": "First redesign since 1991, announced by City & County of Honolulu Aug 20, 2026: larger full-color medal, 'Combat Wounded' vertical at left."}
+ ],
+ "retired": [],
+ "notes": "No new specialty plate found: the only full special-design plates remain Haleakala, Hawaii Volcanoes and Polynesian Voyaging Society; other groups use small decals on special-number plates (SB1095 2025 would enlarge decals to 4x4 in). The 2024 law (Act 64) re-spelled the base plate 'Hawai'i' from Jan 2025 and limited the never-issued environmental-conservation plate to EVs; the EV plate seen on roads is a required designation (5-character format from 2025), not a specialty plate. Honolulu's Veteran plate image is dated 2025 but no redesign is confirmed. Hawaii County's specialty-plate page failed to load and the Honolulu special-plate order site blocks robots, so no gallery (robot_url) was found."
+}
