@@ -1,147 +1,182 @@
 {
  "code": "DC",
  "url": "https://dmv.dc.gov/service/organizations-offering-dc-dmv-vehicle-tags",
- "checked": "2026-10-26",
  "pictures": {
-  "/sites/default/files/dc/shared_assets/bow13_final.jpg": {
+  "/sites/default/files/dc/shared_assets/BOW13_final.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/shared_assets/BOW13_final.jpg",
-   "alt": "Best of the Web logo 2013"
+   "alt": "Best of the Web logo 2013",
+   "verdict": "pending:DC-best-of-the-logo-2013"
   },
-  "/sites/default/files/dc/shared_assets/bow14_winner.png": {
+  "/sites/default/files/dc/shared_assets/BOW14_Winner.png": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/shared_assets/BOW14_Winner.png",
-   "alt": "Best of the Web logo 2014"
+   "alt": "Best of the Web logo 2014",
+   "verdict": "pending:DC-best-of-the-logo-2014"
   },
   "/sites/default/files/dc/shared_assets/search2.png": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/shared_assets/search2.png",
-   "alt": "Search DC.gov"
+   "alt": "Search DC.gov",
+   "verdict": "not-a-plate"
   },
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20aka.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20aka.jpg",
-   "alt": "DC DMV Tag Alpha Kappa Alpha"
+   "alt": "DC DMV Tag Alpha Kappa Alpha",
+   "verdict": "new:dc-dmv-tag-alpha-kappa-alpha"
   },
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20apa.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20apa.jpg",
-   "alt": "DC DMV Tag Alpha Phi Alpha"
+   "alt": "DC DMV Tag Alpha Phi Alpha",
+   "verdict": "plate:alpha-phi-alpha"
   },
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20badboys.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20badboys.jpg",
-   "alt": "DC DMV Tag Bad Boys Club"
+   "alt": "DC DMV Tag Bad Boys Club",
+   "verdict": "new:dc-dmv-tag-bad-boys-club"
   },
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20blueknights.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20blueknights.jpg",
-   "alt": "DC DMV Tag Blue Knights"
+   "alt": "DC DMV Tag Blue Knights",
+   "verdict": "new:dc-dmv-tag-blue-knights"
   },
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20children.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20children.jpg",
-   "alt": "DC DMV Tag Children First Foundation"
+   "alt": "DC DMV Tag Children First Foundation",
+   "verdict": "new:dc-dmv-tag-children-first-foundation"
   },
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20dav.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20dav.jpg",
-   "alt": "DC DMV Tag Disabled Veterans"
+   "alt": "DC DMV Tag Disabled Veterans",
+   "verdict": "new:dc-dmv-tag-disabled-veterans"
   },
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20dcfop.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20dcfop.jpg",
-   "alt": "DC DMV Tag District of Columbia Lodge/FOP"
+   "alt": "DC DMV Tag District of Columbia Lodge/FOP",
+   "verdict": "plate:district-of-columbia-lodge-fop"
   },
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20donatelife.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20donatelife.jpg",
-   "alt": "DC DMV Tag Donate Life"
+   "alt": "DC DMV Tag Donate Life",
+   "verdict": "new:dc-dmv-tag-donate-life"
   },
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20dst.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20dst.jpg",
-   "alt": "DC DMV Tag Delta Sigma Theta Sorority"
+   "alt": "DC DMV Tag Delta Sigma Theta Sorority",
+   "verdict": "new:dc-dmv-tag-delta-sigma-theta-sorority"
   },
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20dv.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20dv.jpg",
-   "alt": "DC DMV Tag Disabled Veterans"
+   "alt": "DC DMV Tag Disabled Veterans",
+   "verdict": "new:dc-dmv-tag-disabled-veterans-2"
   },
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20easternstar.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20easternstar.jpg",
-   "alt": "DC DMV Tag Prince Hall Order of the Eastern Star"
+   "alt": "DC DMV Tag Prince Hall Order of the Eastern Star",
+   "verdict": "new:dc-dmv-tag-prince-hall-order-of-the-east"
   },
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20famu.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20famu.jpg",
-   "alt": "DC DMV Tag Florida A&M University"
+   "alt": "DC DMV Tag Florida A&M University",
+   "verdict": "new:dc-dmv-tag-florida-a-m-university"
   },
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20firefighters.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20firefighters.jpg",
-   "alt": "DC DMV Tag DC Fire Fighters Local 36"
+   "alt": "DC DMV Tag DC Fire Fighters Local 36",
+   "verdict": "plate:dc-fire-fighters-local-36"
   },
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20gwu.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20gwu.jpg",
-   "alt": "DC DMV Tag The George Washington University"
+   "alt": "DC DMV Tag The George Washington University",
+   "verdict": "new:dc-dmv-tag-the-george-washington-univers"
   },
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20hu.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20hu.jpg",
-   "alt": "DC DMV Tag Howard University"
+   "alt": "DC DMV Tag Howard University",
+   "verdict": "skipped-2023"
   },
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20kap.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20kap.jpg",
-   "alt": "DC DMV Tag Kappa Alpha Psi Fraternity"
+   "alt": "DC DMV Tag Kappa Alpha Psi Fraternity",
+   "verdict": "plate:kappa-alpha-psi-fraternity"
   },
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20morehouse.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20morehouse.jpg",
-   "alt": "DC DMV Tag Morehouse College Alumni"
+   "alt": "DC DMV Tag Morehouse College Alumni",
+   "verdict": "new:dc-dmv-tag-morehouse-college-alumni"
   },
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20msu2.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20msu2.jpg",
-   "alt": "DC DMV Tag Mississippi State University"
+   "alt": "DC DMV Tag Mississippi State University",
+   "verdict": "new:dc-dmv-tag-mississippi-state-university"
   },
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20nabs.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20nabs.jpg",
-   "alt": "DC DMV Tag National Association of Black Scuba Divers"
+   "alt": "DC DMV Tag National Association of Black Scuba Divers",
+   "verdict": "new:dc-dmv-tag-national-association-of-black"
   },
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20nationals.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20nationals.jpg",
-   "alt": "DC DMV Tag Washington Nationals"
+   "alt": "DC DMV Tag Washington Nationals",
+   "verdict": "plate:washington-nationals-note-it-is-not-nece"
   },
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20ncat.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20ncat.jpg",
-   "alt": "DC DMV Tag NC A&T SU Alumni"
+   "alt": "DC DMV Tag NC A&T SU Alumni",
+   "verdict": "new:dc-dmv-tag-nc-a-t-su-alumni"
   },
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20olemiss.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20olemiss.jpg",
-   "alt": "DC DMV Tag University of Mississippi (Ole Miss)"
+   "alt": "DC DMV Tag University of Mississippi (Ole Miss)",
+   "verdict": "new:dc-dmv-tag-university-of-mississippi-ole"
   },
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20opp.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20opp.jpg",
-   "alt": "DC DMV Tag Omega Psi Phi Fraternity"
+   "alt": "DC DMV Tag Omega Psi Phi Fraternity",
+   "verdict": "plate:omega-psi-phi-fraternity"
   },
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20porsche.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20porsche.jpg",
-   "alt": "DC DMV Tag Porsche Club of America"
+   "alt": "DC DMV Tag Porsche Club of America",
+   "verdict": "plate:porsche-club-of-america"
   },
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20princehall.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20princehall.jpg",
-   "alt": "DC DMV Tag Prince Hall Masonic Family"
+   "alt": "DC DMV Tag Prince Hall Masonic Family",
+   "verdict": "plate:prince-hall-masonic-family"
   },
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20sjc.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20sjc.jpg",
-   "alt": "DC DMV Tag St John’s College"
+   "alt": "DC DMV Tag St John’s College",
+   "verdict": "new:dc-dmv-tag-st-john-s-college"
   },
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20smu.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20smu.jpg",
-   "alt": "DC DMV Tag Southern Methodist University"
+   "alt": "DC DMV Tag Southern Methodist University",
+   "verdict": "skipped-2023"
   },
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20spirit.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20spirit.jpg",
-   "alt": "DC DMV Tag Spirit of Faith Christian Center"
+   "alt": "DC DMV Tag Spirit of Faith Christian Center",
+   "verdict": "new:dc-dmv-tag-spirit-of-faith-christian-cen"
   },
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20umich.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20umich.jpg",
-   "alt": "DC DMV Tag University of Michigan"
+   "alt": "DC DMV Tag University of Michigan",
+   "verdict": "new:dc-dmv-tag-university-of-michigan"
   },
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20vfw.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20vfw.jpg",
-   "alt": "DC DMV Tag Veterans of Foreign Wars of US"
+   "alt": "DC DMV Tag Veterans of Foreign Wars of US",
+   "verdict": "new:dc-dmv-tag-veterans-of-foreign-wars-of-u"
   },
-  "/sites/default/files/dc/sites/dmv/page_content/images/norfolkstateudcdmvtag.jpg": {
+  "/sites/default/files/dc/sites/dmv/page_content/images/NorfolkStateUDCDMVTag.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/page_content/images/NorfolkStateUDCDMVTag.jpg",
-   "alt": "DC DMV Tag Norfolk State University"
+   "alt": "DC DMV Tag Norfolk State University",
+   "verdict": "new:dc-dmv-tag-norfolk-state-university"
   },
-  "/sites/default/files/styles/thumbnail/public/dc/sites/dmv/biography_content/images/gabriel%20robinson%20206x155.png": {
+  "/sites/default/files/styles/thumbnail/public/dc/sites/dmv/biography_content/images/Gabriel%20Robinson%20206x155.png": {
    "src": "https://dmv.dc.gov/sites/default/files/styles/thumbnail/public/dc/sites/dmv/biography_content/images/Gabriel%20Robinson%20206x155.png?itok=VHJfLeIh",
-   "alt": "DC DMV Director Gabriel Robinson"
+   "alt": "DC DMV Director Gabriel Robinson",
+   "verdict": "not-a-plate"
   }
- }
+ },
+ "checked": "2026-10-26"
 }

@@ -75,7 +75,7 @@
   "code": "DC",
   "name": "District of Columbia",
   "file": "data/DC.json",
-  "count": 46,
+  "count": 70,
   "rated": false,
   "checked": false
  },
@@ -235,7 +235,7 @@
   "code": "NV",
   "name": "Nevada",
   "file": "data/NV.json",
-  "count": 67,
+  "count": 73,
   "rated": false,
   "checked": true
  },
@@ -251,7 +251,7 @@
   "code": "NJ",
   "name": "New Jersey",
   "file": "data/NJ.json",
-  "count": 106,
+  "count": 133,
   "rated": false,
   "checked": false
  },
@@ -283,7 +283,7 @@
   "code": "ND",
   "name": "North Dakota",
   "file": "data/ND.json",
-  "count": 41,
+  "count": 56,
   "rated": false,
   "checked": false
  },
@@ -323,7 +323,7 @@
   "code": "RI",
   "name": "Rhode Island",
   "file": "data/RI.json",
-  "count": 42,
+  "count": 52,
   "rated": false,
   "checked": false
  },
@@ -339,7 +339,7 @@
   "code": "SD",
   "name": "South Dakota",
   "file": "data/SD.json",
-  "count": 53,
+  "count": 80,
   "rated": false,
   "checked": false
  },
@@ -355,7 +355,7 @@
   "code": "TX",
   "name": "Texas",
   "file": "data/TX.json",
-  "count": 475,
+  "count": 479,
   "rated": false,
   "checked": false
  },

@@ -2,7 +2,7 @@
  "code": "NV",
  "name": "Nevada",
  "rated": false,
- "updated": "2026-10-25",
+ "updated": "2026-10-26",
  "about": "Nevada special-design plates. Not rated yet: every plate is worth the same.",
  "sources": [
   {
@@ -475,6 +475,60 @@
    "name": "Antique Truck/Truck-Tractor",
    "cat": "vehicle",
    "img": "antique-truck-truck-tractor.webp"
+  },
+  {
+   "id": "desert-conservation-2",
+   "name": "Desert Conservation",
+   "cat": "nature",
+   "img": "desert-conservation-2.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://dmv.nv.gov/platesmain.htm"
+  },
+  {
+   "id": "ducks-unlimited",
+   "name": "Ducks Unlimited",
+   "cat": "nature",
+   "img": "ducks-unlimited.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://dmv.nv.gov/platesmain.htm"
+  },
+  {
+   "id": "missing-and-exploited-children-2",
+   "name": "Missing and Exploited Children",
+   "cat": "charity",
+   "img": "missing-and-exploited-children-2.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://dmv.nv.gov/platesmain.htm"
+  },
+  {
+   "id": "mount-charleston-2",
+   "name": "Mount Charleston",
+   "cat": "other",
+   "img": "mount-charleston-2.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://dmv.nv.gov/platesmain.htm"
+  },
+  {
+   "id": "nevada-bighorns-unlimited-2",
+   "name": "Nevada Bighorns Unlimited",
+   "cat": "other",
+   "img": "nevada-bighorns-unlimited-2.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://dmv.nv.gov/platesmain.htm"
+  },
+  {
+   "id": "support-wildlife-2",
+   "name": "Support Wildlife",
+   "cat": "nature",
+   "img": "support-wildlife-2.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://dmv.nv.gov/platesmain.htm"
   }
  ]
 }

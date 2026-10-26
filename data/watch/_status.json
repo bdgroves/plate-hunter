@@ -1,0 +1,469 @@
+{
+ "AK": {
+  "url": "https://doa.alaska.gov/dmv/plates/index.htm",
+  "ok": false,
+  "error": "HTTP Error 403: Forbidden",
+  "checked": "2026-10-26"
+ },
+ "AL": {
+  "url": "https://www.revenue.alabama.gov/license-plates/",
+  "ok": true,
+  "pictures": 51,
+  "plates": 9,
+  "added": [],
+  "checked": "2026-10-26"
+ },
+ "CA": {
+  "url": "https://www.dmv.ca.gov/portal/vehicle-registration/license-plates-decals-and-placards/california-license-plates/special-license-plates/",
+  "ok": false,
+  "error": "HTTP Error 404: Not Found",
+  "checked": "2026-10-26"
+ },
+ "CO": {
+  "url": "https://dmv.colorado.gov/license-plates-military",
+  "ok": false,
+  "error": "HTTP Error 403: Forbidden",
+  "checked": "2026-10-26"
+ },
+ "CO-2": {
+  "url": "https://dmv.colorado.gov/group-special-license-plates",
+  "ok": false,
+  "error": "HTTP Error 403: Forbidden",
+  "checked": "2026-10-26"
+ },
+ "CT": {
+  "url": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US",
+  "ok": true,
+  "pictures": 72,
+  "plates": 2,
+  "added": [],
+  "checked": "2026-10-26"
+ },
+ "DC": {
+  "url": "https://dmv.dc.gov/service/organizations-offering-dc-dmv-vehicle-tags",
+  "ok": true,
+  "pictures": 35,
+  "plates": 29,
+  "added": [
+   "dc-dmv-tag-alpha-kappa-alpha",
+   "dc-dmv-tag-bad-boys-club",
+   "dc-dmv-tag-blue-knights",
+   "dc-dmv-tag-children-first-foundation",
+   "dc-dmv-tag-delta-sigma-theta-sorority",
+   "dc-dmv-tag-disabled-veterans",
+   "dc-dmv-tag-disabled-veterans-2",
+   "dc-dmv-tag-donate-life",
+   "dc-dmv-tag-florida-a-m-university",
+   "dc-dmv-tag-mississippi-state-university",
+   "dc-dmv-tag-morehouse-college-alumni",
+   "dc-dmv-tag-nc-a-t-su-alumni",
+   "dc-dmv-tag-national-association-of-black",
+   "dc-dmv-tag-norfolk-state-university",
+   "dc-dmv-tag-spirit-of-faith-christian-cen",
+   "dc-dmv-tag-st-john-s-college",
+   "dc-dmv-tag-the-george-washington-univers",
+   "dc-dmv-tag-university-of-michigan",
+   "dc-dmv-tag-university-of-mississippi-ole",
+   "dc-dmv-tag-veterans-of-foreign-wars-of-u",
+   "dc-dmv-tag-prince-hall-order-of-the-east"
+  ],
+  "checked": "2026-10-26"
+ },
+ "DC-2": {
+  "url": "https://dmv.dc.gov/service/specialty-vehicle-tags",
+  "ok": true,
+  "pictures": 19,
+  "plates": 5,
+  "added": [
+   "dc-dmv-breast-cancer-awareness-tag",
+   "washington-nationals-vehicle-tags",
+   "vision-zero-bicycle-awareness-tags"
+  ],
+  "checked": "2026-10-26"
+ },
+ "DE": {
+  "url": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all",
+  "ok": true,
+  "pictures": 155,
+  "plates": 114,
+  "added": [],
+  "checked": "2026-10-26"
+ },
+ "FL": {
+  "url": "https://www.flhsmv.gov/pdf/specialtyplates/tagbrochure.pdf",
+  "ok": true,
+  "kind": "pdf",
+  "checked": "2026-10-26"
+ },
+ "HI": {
+  "url": "https://dod.hawaii.gov/ovs/benefits-and-services/",
+  "ok": true,
+  "pictures": 2,
+  "plates": 0,
+  "added": [],
+  "checked": "2026-10-26"
+ },
+ "ID": {
+  "url": "https://itd.idaho.gov/wp-content/uploads/2016/06/plates.pdf",
+  "ok": false,
+  "error": "HTTP Error 404: Not Found",
+  "checked": "2026-10-26"
+ },
+ "IN": {
+  "url": "https://www.in.gov/bmv/registration-plates/license-plates-overview/license-plate-designs/",
+  "ok": true,
+  "pictures": 1,
+  "plates": 0,
+  "added": [],
+  "checked": "2026-10-26"
+ },
+ "KS": {
+  "url": "https://files.leavenworthcounty.gov/Department/Treasurer/Forms/Kansas%20License%20Plate%20Guide%2012022021.pdf",
+  "ok": false,
+  "error": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)>",
+  "checked": "2026-10-26"
+ },
+ "LA": {
+  "url": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/SpecialPlatesViewer.aspx",
+  "ok": false,
+  "error": "HTTP Error 530: <none>",
+  "checked": "2026-10-26"
+ },
+ "MA": {
+  "url": "https://www.mass.gov/doc/passenger-plates-manual-0/download",
+  "ok": true,
+  "kind": "pdf",
+  "checked": "2026-10-26"
+ },
+ "MD": {
+  "url": "https://mva.maryland.gov/Pages/licenseplates-Organizational.aspx",
+  "ok": true,
+  "pictures": 0,
+  "plates": 0,
+  "added": [],
+  "checked": "2026-10-26"
+ },
+ "ME": {
+  "url": "https://apps1.web.maine.gov/cgi-bin/online/bmv/vanity/select_type",
+  "ok": true,
+  "pictures": 0,
+  "plates": 0,
+  "added": [],
+  "checked": "2026-10-26"
+ },
+ "ME-2": {
+  "url": "https://www.maine.gov/sos/bmv/registration/availablevet.html",
+  "ok": false,
+  "error": "HTTP Error 403: Forbidden",
+  "checked": "2026-10-26"
+ },
+ "MI": {
+  "url": "https://www.michigan.gov/sos/vehicle/license-plates/military-and-veteran-plate-options",
+  "ok": false,
+  "error": "HTTP Error 403: Forbidden",
+  "checked": "2026-10-26"
+ },
+ "MI-2": {
+  "url": "https://www.michigan.gov/sos/vehicle/license-plates/special-cause-fundraising-options",
+  "ok": false,
+  "error": "HTTP Error 403: Forbidden",
+  "checked": "2026-10-26"
+ },
+ "MN": {
+  "url": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf",
+  "ok": false,
+  "error": "HTTP Error 404: Not Found",
+  "checked": "2026-10-26"
+ },
+ "MO": {
+  "url": "https://dor.mo.gov/motor-vehicle/plates/personalized-specialty.html#preview",
+  "ok": true,
+  "pictures": 2,
+  "plates": 0,
+  "added": [],
+  "checked": "2026-10-26"
+ },
+ "MT": {
+  "url": "http://dojmt.gov/driving/plate-designs-and-fees/service-organizations-associations/",
+  "ok": true,
+  "pictures": 1,
+  "plates": 0,
+  "added": [],
+  "checked": "2026-10-26"
+ },
+ "NC": {
+  "url": "https://www.ncdot.gov/dmv/title-registration/license-plates/Pages/default.aspx",
+  "ok": true,
+  "pictures": 2,
+  "plates": 0,
+  "added": [],
+  "checked": "2026-10-26"
+ },
+ "ND": {
+  "url": "https://apps.nd.gov/dot/mv/mvrenewal/plateSearch.htm",
+  "ok": true,
+  "pictures": 60,
+  "plates": 44,
+  "added": [
+   "amateurradio",
+   "amateurradio-mi",
+   "vet-spaceforce",
+   "militarysacrifice",
+   "dsu-2",
+   "chooselife",
+   "ndba",
+   "und",
+   "sanfordmedicalcenter",
+   "farmersunion",
+   "umary",
+   "furryfriendsrescue",
+   "ndmasonicfoundation",
+   "vikingsfoundation",
+   "booniestomper"
+  ],
+  "checked": "2026-10-26"
+ },
+ "NH": {
+  "url": "https://www.dmv.nh.gov/sites/g/files/ehbemt416/files/inline-documents/list-of-plates-table.pdf",
+  "ok": true,
+  "kind": "pdf",
+  "checked": "2026-10-26"
+ },
+ "NJ": {
+  "url": "https://www.state.nj.us/mvc/vehicles/serviceorg.htm",
+  "ok": true,
+  "pictures": 20,
+  "plates": 17,
+  "added": [
+   "airborne-2",
+   "civil-air-patrol-2",
+   "coast-guard-auxiliary",
+   "merchant-marine-2",
+   "merchant-marines-academy",
+   "submarine-veterans",
+   "tin-can-sailors-2",
+   "veterans-of-foreign-wars",
+   "vietnam-veterans",
+   "retired-air-force",
+   "retired-u-s-army",
+   "disabled-veterans",
+   "west-point-2",
+   "lakehurst-navy-2",
+   "navy-league-2"
+  ],
+  "checked": "2026-10-26"
+ },
+ "NJ-2": {
+  "url": "https://www.state.nj.us/mvc/vehicles/community.htm",
+  "ok": true,
+  "pictures": 17,
+  "plates": 14,
+  "added": [
+   "children-first-foundation",
+   "firemen-s-mutual-benefit-association",
+   "int-brotherhood-of-teamsters",
+   "international-firefighters",
+   "kiwanis-international-2",
+   "knights-of-columbus",
+   "masons",
+   "professional-engineers",
+   "rotary-international",
+   "telephone-pioneers",
+   "operating-engineers-2",
+   "united-bowhunters-of-nj"
+  ],
+  "checked": "2026-10-26"
+ },
+ "NM": {
+  "url": "https://www.mvd.newmexico.gov/vehicles/license-plates/",
+  "ok": true,
+  "pictures": 54,
+  "plates": 16,
+  "added": [],
+  "checked": "2026-10-26"
+ },
+ "NV": {
+  "url": "https://dmv.nv.gov/platescharitable.htm",
+  "ok": false,
+  "error": "HTTP Error 404: Not Found",
+  "checked": "2026-10-26"
+ },
+ "NV-main": {
+  "url": "https://dmv.nv.gov/platesmain.htm",
+  "ok": true,
+  "pictures": 10,
+  "plates": 6,
+  "added": [
+   "desert-conservation-2",
+   "ducks-unlimited",
+   "missing-and-exploited-children-2",
+   "mount-charleston-2",
+   "nevada-bighorns-unlimited-2",
+   "support-wildlife-2"
+  ],
+  "checked": "2026-10-26"
+ },
+ "NY": {
+  "url": "https://dmv.ny.gov/plates/military-and-veterans",
+  "ok": false,
+  "error": "HTTP Error 403: Forbidden",
+  "checked": "2026-10-26"
+ },
+ "NY-2": {
+  "url": "https://dmv.ny.gov/plates/professions",
+  "ok": false,
+  "error": "HTTP Error 403: Forbidden",
+  "checked": "2026-10-26"
+ },
+ "OH": {
+  "url": "https://www.bmv.ohio.gov/vr-sp-geninfo.aspx",
+  "ok": true,
+  "pictures": 286,
+  "plates": 102,
+  "added": [],
+  "checked": "2026-10-26"
+ },
+ "OK": {
+  "url": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/mv-forms/Specialty%20Plates%20Catalog.pdf",
+  "ok": false,
+  "error": "HTTP Error 404: Not Found",
+  "checked": "2026-10-26"
+ },
+ "OR": {
+  "url": "https://www.oregon.gov/odot/Forms/DMV/6726.pdf",
+  "ok": true,
+  "kind": "pdf",
+  "checked": "2026-10-26"
+ },
+ "PA": {
+  "url": "https://www.dmv.pa.gov/VEHICLE-SERVICES/Registration%20Plates/Pages/Approved-Organizations.aspx",
+  "ok": true,
+  "pictures": 0,
+  "plates": 0,
+  "added": [],
+  "checked": "2026-10-26"
+ },
+ "RI": {
+  "url": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-designs-charity-plates",
+  "ok": true,
+  "pictures": 2,
+  "plates": 0,
+  "added": [],
+  "checked": "2026-10-26"
+ },
+ "RI-2": {
+  "url": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-types",
+  "ok": true,
+  "pictures": 15,
+  "plates": 10,
+  "added": [
+   "ocean-passenger",
+   "ocean-combination",
+   "antique-2",
+   "ocean-public-service",
+   "ocean-camper",
+   "ocean-suburban",
+   "ocean-radio-operator",
+   "ocean-farm",
+   "street-rod-2",
+   "custom-vehicle"
+  ],
+  "checked": "2026-10-26"
+ },
+ "SC": {
+  "url": "https://www.scdmvonline.com/Vehicle-Owners/Registration/Plate-Gallery",
+  "ok": true,
+  "pictures": 236,
+  "plates": 0,
+  "added": [],
+  "checked": "2026-10-26"
+ },
+ "SD": {
+  "url": "https://dor.sd.gov/individuals/motor-vehicle/cars-trucks-vans/military-plates-veteran-tribal-active-duty/",
+  "ok": true,
+  "pictures": 38,
+  "plates": 14,
+  "added": [
+   "army-veteran",
+   "woman-veteran-army",
+   "coast-guard-veteran",
+   "woman-veteran-coast-guard",
+   "marine-veteran",
+   "woman-veteran-marine",
+   "navy-veteran",
+   "woman-veteran-marine-2",
+   "air-force-vehicle",
+   "army-vehicle",
+   "coast-guard-vehicle",
+   "marine-vehicle",
+   "navy-vehicle"
+  ],
+  "checked": "2026-10-26"
+ },
+ "SD-2": {
+  "url": "https://dor.sd.gov/individuals/motor-vehicle/cars-trucks-vans/specialty-military-plates/",
+  "ok": true,
+  "pictures": 26,
+  "plates": 15,
+  "added": [
+   "air-force-cross-2",
+   "bronze-star-2",
+   "bronze-star-with-valor-2",
+   "distinguished-flying-cross-2",
+   "distinguished-service-cross-2",
+   "disabled-veteran-2",
+   "fees",
+   "national-guard-2",
+   "navy-cross-2",
+   "pearl-harbor-survivor-2",
+   "pow-2",
+   "purple-heart-2",
+   "silver-star-2",
+   "gold-star-2"
+  ],
+  "checked": "2026-10-26"
+ },
+ "TX": {
+  "url": "https://www.myplates.com/",
+  "ok": true,
+  "pictures": 9,
+  "plates": 4,
+  "added": [
+   "lone-star-1837",
+   "deep-in-the-heart-flag-2",
+   "love-heart-black-2",
+   "mighty-fine-burgers-2"
+  ],
+  "checked": "2026-10-26"
+ },
+ "VT": {
+  "url": "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf",
+  "ok": true,
+  "kind": "pdf",
+  "checked": "2026-10-26"
+ },
+ "WA": {
+  "url": "https://dol.wa.gov/vehicles-and-boats/vehicles/license-plates/get-custom-plates/special-design-plates",
+  "ok": true,
+  "pictures": 76,
+  "plates": 7,
+  "added": [],
+  "checked": "2026-10-26"
+ },
+ "WY": {
+  "url": "https://www.dot.state.wy.us/home/titles_plates_registration/specialty_plates/choice_disabled_veteran.html",
+  "ok": true,
+  "pictures": 2,
+  "plates": 0,
+  "added": [],
+  "checked": "2026-10-26"
+ },
+ "WY-2": {
+  "url": "https://www.dot.state.wy.us/home/titles_plates_registration/specialty_plates/veteran_plates.html",
+  "ok": true,
+  "pictures": 2,
+  "plates": 0,
+  "added": [],
+  "checked": "2026-10-26"
+ }
+}

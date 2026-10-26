@@ -1,311 +1,257 @@
 {
  "code": "WA",
  "url": "https://dol.wa.gov/vehicles-and-boats/vehicles/license-plates/get-custom-plates/special-design-plates",
- "checked": "2026-10-26",
  "pictures": {
-  "/sites/default/files/styles/card_thumbnail/public/2023-03/blue-license-plate-tab-registration.jpg": {
-   "src": "https://dol.wa.gov/sites/default/files/styles/card_thumbnail/public/2023-03/blue-license-plate-tab-registration.jpg?itok=CheC2PEy",
-   "alt": "Vehicle registration paper work with sticker tag."
-  },
-  "/sites/default/files/styles/card_thumbnail/public/2023-03/chevy-car-personalized-license-plate.jpg": {
-   "src": "https://dol.wa.gov/sites/default/files/styles/card_thumbnail/public/2023-03/chevy-car-personalized-license-plate.jpg?itok=HUDC0Ujs",
-   "alt": "Old traditional classic restored and polished Chevy pickup truck in blue with shiny chrome bumpers and grill with a personalized license plate that says '49 Chev'."
-  },
-  "/sites/default/files/styles/max_135_x_135/public/plates/4hplate.png": {
+  "/sites/default/files/styles/max_135_x_135/public/plates/4Hplate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/4Hplate.png?itok=N8Lz_TZJ",
-   "alt": "4-H license plate"
+   "alt": "4-H license plate",
+   "verdict": "pending:WA-get-this"
   },
-  "/sites/default/files/styles/max_135_x_135/public/plates/airforceplate.png": {
-   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/airforcePlate.png?itok=9dkBR-Ce",
-   "alt": "U.S. Air Force sample plate design: The Air Force emblem and the letters \"AF\" and \"SMPLE\" with the American flag in the background"
-  },
-  "/sites/default/files/styles/max_135_x_135/public/plates/armyplate.png": {
-   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/armyPlate.png?itok=NquxDk8y",
-   "alt": "U S Army sample plate design: The Army emblem and the letters \"AR\" and \"SMPLE\" with the American flag in the background"
-  },
-  "/sites/default/files/styles/max_135_x_135/public/plates/aviationplate.png": {
-   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/AviationPlate.png?itok=F-XXbkHy",
-   "alt": "Washington Aviation plate"
-  },
-  "/sites/default/files/styles/max_135_x_135/public/plates/bearplate.jpg": {
-   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/bearPlate.jpg?itok=1hIuXaNN",
-   "alt": "Special Design License Plate with a Black Bear standing beside the plate number"
-  },
-  "/sites/default/files/styles/max_135_x_135/public/plates/breast-cancer-plate.png": {
+  "/sites/default/files/styles/max_135_x_135/public/plates/Breast-cancer-plate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/Breast-cancer-plate.png?itok=sY4a_6kF",
-   "alt": "Square Dancer license plates"
+   "alt": "Square Dancer license plates",
+   "verdict": "pending:WA-square-dancer"
   },
-  "/sites/default/files/styles/max_135_x_135/public/plates/chehalis-tribe-plate.png": {
-   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/chehalis-tribe-plate.png?itok=hIZlr1cx",
-   "alt": "Chehalis Tribe plate"
+  "/sites/default/files/styles/max_135_x_135/public/plates/CWUplate.png": {
+   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/CWUplate.png?itok=6rYT0jYI",
+   "alt": "Central Washington University license plate",
+   "verdict": "pending:WA-central-washington-university"
   },
-  "/sites/default/files/styles/max_135_x_135/public/plates/coastguardplate.png": {
+  "/sites/default/files/styles/max_135_x_135/public/plates/EWUplate.png": {
+   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/EWUplate.png?itok=1SySEP1i",
+   "alt": "Eastern Washington University license plate",
+   "verdict": "pending:WA-eastern-washington-university"
+  },
+  "/sites/default/files/styles/max_135_x_135/public/plates/FFAplate.png": {
+   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/FFAplate.png?itok=KkEzljfq",
+   "alt": "FFA license plate",
+   "verdict": "pending:WA-ffa"
+  },
+  "/sites/default/files/styles/max_135_x_135/public/plates/HelpingKidsSpeakPlate.png": {
+   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/HelpingKidsSpeakPlate.png?itok=vs7v7O9e",
+   "alt": "Helping Kids Speak license plate",
+   "verdict": "pending:WA-helping-kids-speak"
+  },
+  "/sites/default/files/styles/max_135_x_135/public/plates/HorselessCarriagePlate.png": {
+   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/HorselessCarriagePlate.png?itok=qoD1ri15",
+   "alt": "Horseless Carriage license plates",
+   "verdict": "skipped-2023"
+  },
+  "/sites/default/files/styles/max_135_x_135/public/plates/KeepKidsSafePlate.png": {
+   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/KeepKidsSafePlate.png?itok=57qCaTHF",
+   "alt": "Keep Kids Safe license plate",
+   "verdict": "pending:WA-keep-kids-safe"
+  },
+  "/sites/default/files/styles/max_135_x_135/public/plates/LEMplate.png": {
+   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/LEMplate.png?itok=n5tLQXb6",
+   "alt": "Law Enforcement Memorial license plate",
+   "verdict": "pending:WA-law-enforcement-memorial"
+  },
+  "/sites/default/files/styles/max_135_x_135/public/plates/MARSplate.png": {
+   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/MARSplate.png?itok=HJpCtZey",
+   "alt": "Military Affiliate Radio System plate",
+   "verdict": "pending:WA-military-affiliate-radio-system"
+  },
+  "/sites/default/files/styles/max_135_x_135/public/plates/MOHplate.png": {
+   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/MOHplate.png?itok=_b0up6Yq",
+   "alt": "Medal of Honor license plate",
+   "verdict": "pending:WA-medal-of-honor"
+  },
+  "/sites/default/files/styles/max_135_x_135/public/plates/NationalGuardPlate.png": {
+   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/NationalGuardPlate.png?itok=Jf227QIz",
+   "alt": "U S National Guard sample plate design: The National Guard emblem and the letters \"NG\" and \"SMPLE\" with the American flag in the background",
+   "verdict": "pending:WA-u-s-national-guard-design-the-national-g"
+  },
+  "/sites/default/files/styles/max_135_x_135/public/plates/SanJuanIslandsPlate.png": {
+   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/SanJuanIslandsPlate.png?itok=x68ggu-8",
+   "alt": "San Juan Islands plate",
+   "verdict": "pending:WA-san-juan-islands"
+  },
+  "/sites/default/files/styles/max_135_x_135/public/plates/TESCplate.png": {
+   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/TESCplate.png?itok=uoQwc_-e",
+   "alt": "The Evergreen State College license plates",
+   "verdict": "skipped-2023"
+  },
+  "/sites/default/files/styles/max_135_x_135/public/plates/UWplate.png": {
+   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/UWplate.png?itok=1CQ7gBn3",
+   "alt": "University of Washington license plates",
+   "verdict": "pending:WA-university-of-washington"
+  },
+  "/sites/default/files/styles/max_135_x_135/public/plates/VolunteerFirefighterPlate.png": {
+   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/VolunteerFirefighterPlate.png?itok=NN29_9Wz",
+   "alt": "Volunteer Firefighter license plate",
+   "verdict": "pending:WA-volunteer-firefighter"
+  },
+  "/sites/default/files/styles/max_135_x_135/public/plates/WSUplate.png": {
+   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/WSUplate.png?itok=AmQf7H_Y",
+   "alt": "Washington State University license plates",
+   "verdict": "pending:WA-washington-state-university"
+  },
+  "/sites/default/files/styles/max_135_x_135/public/plates/WWUplate.png": {
+   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/WWUplate.png?itok=Ip8RHfsI",
+   "alt": "Western Washington University license plates",
+   "verdict": "pending:WA-western-washington-university"
+  },
+  "/sites/default/files/styles/max_135_x_135/public/plates/WashingtonApplesPlate.jpg": {
+   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/WashingtonApplesPlate.jpg?itok=h3Ey2QKz",
+   "alt": "Washington Apple Commission plate",
+   "verdict": "pending:WA-washington-apple-commission"
+  },
+  "/sites/default/files/styles/max_135_x_135/public/plates/airforcePlate.png": {
+   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/airforcePlate.png?itok=9dkBR-Ce",
+   "alt": "U.S. Air Force sample plate design: The Air Force emblem and the letters \"AF\" and \"SMPLE\" with the American flag in the background",
+   "verdict": "pending:WA-u-s-air-force-design-the-air-force-emble"
+  },
+  "/sites/default/files/styles/max_135_x_135/public/plates/armyPlate.png": {
+   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/armyPlate.png?itok=NquxDk8y",
+   "alt": "U S Army sample plate design: The Army emblem and the letters \"AR\" and \"SMPLE\" with the American flag in the background",
+   "verdict": "pending:WA-u-s-army-design-the-army-emblem-and-the-"
+  },
+  "/sites/default/files/styles/max_135_x_135/public/plates/coastguardPlate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/coastguardPlate.png?itok=pUpPpXfU",
-   "alt": "U S Coast Guard sample plate design: The Coast Guard emblem and the letters \"CG\" and \"SMPLE\" with the American flag in the background"
+   "alt": "U S Coast Guard sample plate design: The Coast Guard emblem and the letters \"CG\" and \"SMPLE\" with the American flag in the background",
+   "verdict": "pending:WA-u-s-coast-guard-design-the-coast-guard-e"
   },
   "/sites/default/files/styles/max_135_x_135/public/plates/collector-plate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/collector-plate.png?itok=VZXfqRQ9",
-   "alt": "Collector vehicle license plates"
+   "alt": "Collector vehicle license plates",
+   "verdict": "pending:WA-collector-vehicle"
   },
-  "/sites/default/files/styles/max_135_x_135/public/plates/cwuplate.png": {
-   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/CWUplate.png?itok=6rYT0jYI",
-   "alt": "Central Washington University license plate"
-  },
-  "/sites/default/files/styles/max_135_x_135/public/plates/deerplate.jpg": {
-   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/deerPlate.jpg?itok=RzlBrv43",
-   "alt": "Special Design License Plate with a Deer with antlers standing beside the plate number"
-  },
-  "/sites/default/files/styles/max_135_x_135/public/plates/disabledparkingplate.png": {
-   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/DisabledParkingPlate.png?itok=5nO0g5IS",
-   "alt": "Sample Disabled Parking license plate with SMPLE as the plate text, a wheelchair and DP letters on the left"
-  },
-  "/sites/default/files/styles/max_135_x_135/public/plates/disabledvetplate.png": {
+  "/sites/default/files/styles/max_135_x_135/public/plates/disabledVetPlate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/disabledVetPlate.png?itok=hGNkDlhK",
-   "alt": "The letters \"SAMP DV\" centered over a stylized image of Mount Rainier. WASHINGTON is at the top in red capital letters and DISABLED VETERAN is at the bottom in smaller red capital letters."
+   "alt": "The letters \"SAMP DV\" centered over a stylized image of Mount Rainier. WASHINGTON is at the top in red capital letters and DISABLED VETERAN is at the bottom in smaller red capital letters.",
+   "verdict": "pending:WA-the-letters-samp-dv-centered-over-a-styl"
   },
-  "/sites/default/files/styles/max_135_x_135/public/plates/eagleplate.jpg": {
-   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/eaglePlate.jpg?itok=w-ZxGUql",
-   "alt": "Wild on Washington (eagle) license plate"
-  },
-  "/sites/default/files/styles/max_135_x_135/public/plates/elkplate.jpg": {
-   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/elkPlate.jpg?itok=_URBjtuC",
-   "alt": "Special Design License Plate with an Elk with antlers standing beside the plate number"
-  },
-  "/sites/default/files/styles/max_135_x_135/public/plates/ewuplate.png": {
-   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/EWUplate.png?itok=1SySEP1i",
-   "alt": "Eastern Washington University license plate"
-  },
-  "/sites/default/files/styles/max_135_x_135/public/plates/ffaplate.png": {
-   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/FFAplate.png?itok=KkEzljfq",
-   "alt": "FFA license plate"
-  },
-  "/sites/default/files/styles/max_135_x_135/public/plates/firefighterplate.png": {
+  "/sites/default/files/styles/max_135_x_135/public/plates/firefighterPlate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/firefighterPlate.png?itok=sW7TNrNG",
-   "alt": "Professional fire fighters license plates"
+   "alt": "Professional fire fighters license plates",
+   "verdict": "pending:WA-professional-fire-fighters"
   },
-  "/sites/default/files/styles/max_135_x_135/public/plates/formerpowplate.png": {
+  "/sites/default/files/styles/max_135_x_135/public/plates/formerPOWplate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/formerPOWplate.png?itok=-4zmaXrQ",
-   "alt": "Former Prisoner of War license plate"
+   "alt": "Former Prisoner of War license plate",
+   "verdict": "pending:WA-former-prisoner-of-war"
   },
   "/sites/default/files/styles/max_135_x_135/public/plates/fred-hutchinson-plate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/fred-hutchinson-plate.png?itok=lXzMmMSQ",
-   "alt": "Fred Hutchinson Cancer Center license plate"
+   "alt": "Fred Hutchinson Cancer Center license plate",
+   "verdict": "pending:WA-fred-hutchinson-cancer-center"
   },
-  "/sites/default/files/styles/max_135_x_135/public/plates/goldstarplate.png": {
+  "/sites/default/files/styles/max_135_x_135/public/plates/goldstarPlate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/goldstarPlate.png?itok=hu7-lNaN",
-   "alt": "Gold Star license plate"
+   "alt": "Gold Star license plate",
+   "verdict": "pending:WA-gold-star"
   },
-  "/sites/default/files/styles/max_135_x_135/public/plates/gonzagaplate.png": {
+  "/sites/default/files/styles/max_135_x_135/public/plates/gonzagaPlate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/gonzagaPlate.png?itok=sZX08bEQ",
-   "alt": "Gonzaga University license plates"
-  },
-  "/sites/default/files/styles/max_135_x_135/public/plates/hamplate.png": {
-   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/HAMplate.png?itok=dEeyslEr",
-   "alt": "Amateur radio operator (HAM) license plate"
-  },
-  "/sites/default/files/styles/max_135_x_135/public/plates/helpingkidsspeakplate.png": {
-   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/HelpingKidsSpeakPlate.png?itok=vs7v7O9e",
-   "alt": "Helping Kids Speak license plate"
-  },
-  "/sites/default/files/styles/max_135_x_135/public/plates/horselesscarriageplate.png": {
-   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/HorselessCarriagePlate.png?itok=qoD1ri15",
-   "alt": "Horseless Carriage license plates"
+   "alt": "Gonzaga University license plates",
+   "verdict": "pending:WA-gonzaga-university"
   },
   "/sites/default/files/styles/max_135_x_135/public/plates/keep-wa-evergreen-plate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/keep-wa-evergreen-plate.png?itok=jF1D7DIG",
-   "alt": "A plain white license plate with the letters EV and SMPLE in greet text. Washington is in green text at the top left and The Evergreen State is centered across the bottom."
-  },
-  "/sites/default/files/styles/max_135_x_135/public/plates/keepkidssafeplate.png": {
-   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/KeepKidsSafePlate.png?itok=57qCaTHF",
-   "alt": "Keep Kids Safe license plate"
-  },
-  "/sites/default/files/styles/max_135_x_135/public/plates/kraken-plate.png": {
-   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/kraken-plate.png?itok=9hZq7_0M",
-   "alt": "Seattle Kraken license plate"
+   "alt": "A plain white license plate with the letters EV and SMPLE in greet text. Washington is in green text at the top left and The Evergreen State is centered across the bottom.",
+   "verdict": "plate:kwe"
   },
   "/sites/default/files/styles/max_135_x_135/public/plates/lemay-plate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/lemay-plate.png?itok=Zl-ewlGX",
-   "alt": "A sample license plate with white text on a dark gray background, with the Lemay logo in black. There are black bars across the top and bottom. The white text reads \"Washington\" at the top left and \"LM SMPLE\" aligned right in the middle. Across the bottom is the text \"Celebrating car culture\""
-  },
-  "/sites/default/files/styles/max_135_x_135/public/plates/lemplate.png": {
-   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/LEMplate.png?itok=n5tLQXb6",
-   "alt": "Law Enforcement Memorial license plate"
+   "alt": "A sample license plate with white text on a dark gray background, with the Lemay logo in black. There are black bars across the top and bottom. The white text reads \"Washington\" at the top left and \"LM SMPLE\" aligned right in the middle. Across the bottom is the text \"Celebrating car culture\"",
+   "verdict": "plate:lemay"
   },
   "/sites/default/files/styles/max_135_x_135/public/plates/lifeline-plate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/lifeline-plate.png?itok=TIbMF_3j",
-   "alt": "Prevent veteran suicide license plate emblem sample: The word \"SAMPLE\" with a purple emblem underneath with the words \"988 Lifeline - There is hope\". The American flag is in the background."
+   "alt": "Prevent veteran suicide license plate emblem sample: The word \"SAMPLE\" with a purple emblem underneath with the words \"988 Lifeline - There is hope\". The American flag is in the background.",
+   "verdict": "pending:WA-prevent-veteran-suicide-emblem-the-word-"
   },
-  "/sites/default/files/styles/max_135_x_135/public/plates/lighthouseplate.png": {
+  "/sites/default/files/styles/max_135_x_135/public/plates/lighthousePlate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/lighthousePlate.png?itok=D18cAvoL",
-   "alt": "Lighthouse license plate"
+   "alt": "Lighthouse license plate",
+   "verdict": "pending:WA-lighthouse"
   },
-  "/sites/default/files/styles/max_135_x_135/public/plates/marinersplate.png": {
-   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/marinersPlate.png?itok=NK75yUil",
-   "alt": "Stadium license plates"
-  },
-  "/sites/default/files/styles/max_135_x_135/public/plates/marinesplate.png": {
+  "/sites/default/files/styles/max_135_x_135/public/plates/marinesPlate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/marinesPlate.png?itok=KqEGjuxX",
-   "alt": "U S Marine Corps sample plate design: The Marine Corps emblem and the letters \"MC\" and \"SMPLE\" with the American flag in the background"
-  },
-  "/sites/default/files/styles/max_135_x_135/public/plates/marsplate.png": {
-   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/MARSplate.png?itok=HJpCtZey",
-   "alt": "Military Affiliate Radio System plate"
-  },
-  "/sites/default/files/styles/max_135_x_135/public/plates/mohplate.png": {
-   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/MOHplate.png?itok=_b0up6Yq",
-   "alt": "Medal of Honor license plate"
+   "alt": "U S Marine Corps sample plate design: The Marine Corps emblem and the letters \"MC\" and \"SMPLE\" with the American flag in the background",
+   "verdict": "pending:WA-u-s-marine-corps-design-the-marine-corps"
   },
   "/sites/default/files/styles/max_135_x_135/public/plates/mount-st-helens-plate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/mount-st-helens-plate.png?itok=NZ8uFfs1",
-   "alt": "Washington state license plate with a turquoise background, featuring a mountain goat and Mount St. Helens, and the text “WASHINGTON” and “MOUNT ST. HELENS.”"
+   "alt": "Washington state license plate with a turquoise background, featuring a mountain goat and Mount St. Helens, and the text “WASHINGTON” and “MOUNT ST. HELENS.”",
+   "verdict": "pending:WA-washington-state-with-a-turquoise-backgr"
   },
   "/sites/default/files/styles/max_135_x_135/public/plates/muckleshoot-tribe-plate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/muckleshoot-tribe-plate.png?itok=-WKiiJpL",
-   "alt": "Muckleshoot Tribe plate"
+   "alt": "Muckleshoot Tribe plate",
+   "verdict": "plate:muck"
   },
-  "/sites/default/files/styles/max_135_x_135/public/plates/musicplate.png": {
-   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/musicPlate.png?itok=I1sv9k_g",
-   "alt": "Music Matters license plate"
-  },
-  "/sites/default/files/styles/max_135_x_135/public/plates/nationalguardplate.png": {
-   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/NationalGuardPlate.png?itok=Jf227QIz",
-   "alt": "U S National Guard sample plate design: The National Guard emblem and the letters \"NG\" and \"SMPLE\" with the American flag in the background"
-  },
-  "/sites/default/files/styles/max_135_x_135/public/plates/nationalparksplate.jpg": {
-   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/NationalParksPlate.jpg?itok=JlNxOLBA",
-   "alt": "Washington National Parks license plates"
-  },
-  "/sites/default/files/styles/max_135_x_135/public/plates/navyplate.png": {
+  "/sites/default/files/styles/max_135_x_135/public/plates/navyPlate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/navyPlate.png?itok=57-m6tm9",
-   "alt": "Navy Sample License Plate design, American flag in the background with Navy emblem and NA Letters"
+   "alt": "Navy Sample License Plate design, American flag in the background with Navy emblem and NA Letters",
+   "verdict": "pending:WA-navy-design-american-flag-in-the-backgro"
   },
-  "/sites/default/files/styles/max_135_x_135/public/plates/orcaplate.jpg": {
+  "/sites/default/files/styles/max_135_x_135/public/plates/orcaPlate.jpg": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/orcaPlate.jpg?itok=bKmW-zj8",
-   "alt": "Endangered Wildlife (orca) license plate"
+   "alt": "Endangered Wildlife (orca) license plate",
+   "verdict": "pending:WA-endangered-wildlife-orca"
   },
   "/sites/default/files/styles/max_135_x_135/public/plates/patches-pal-plate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/patches-pal-plate.png?itok=SEVxHJfx",
-   "alt": "J.P. Patches Pal license plate"
+   "alt": "J.P. Patches Pal license plate",
+   "verdict": "pending:WA-j-p-patches-pal"
   },
-  "/sites/default/files/styles/max_135_x_135/public/plates/petsplate.png": {
+  "/sites/default/files/styles/max_135_x_135/public/plates/petsPlate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/petsPlate.png?itok=hcdwtbS3",
-   "alt": "We Love Our Pets license plate"
+   "alt": "We Love Our Pets license plate",
+   "verdict": "pending:WA-we-love-our-pets"
   },
   "/sites/default/files/styles/max_135_x_135/public/plates/pickleball-plate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/pickleball-plate.png?itok=A6S83jnz",
-   "alt": "Pickleball license plate"
+   "alt": "Pickleball license plate",
+   "verdict": "plate:pkl"
   },
   "/sites/default/files/styles/max_135_x_135/public/plates/pollinator-plate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/pollinator-plate.png?itok=RRK6MA8X",
-   "alt": "White text over a background of bees and a butterfly pollinating flowers. The text reads \"Washington\" at the top left and \"BE SMPLE\" aligned right in the middle."
+   "alt": "White text over a background of bees and a butterfly pollinating flowers. The text reads \"Washington\" at the top left and \"BE SMPLE\" aligned right in the middle.",
+   "verdict": "plate:hb"
   },
-  "/sites/default/files/styles/max_135_x_135/public/plates/purpleheartplate.png": {
+  "/sites/default/files/styles/max_135_x_135/public/plates/purpleheartPlate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/purpleheartPlate.png?itok=yvAX-_mM",
-   "alt": "Purple Heart license plate"
+   "alt": "Purple Heart license plate",
+   "verdict": "pending:WA-purple-heart"
   },
   "/sites/default/files/styles/max_135_x_135/public/plates/puyallup-tribe-plate_0.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/puyallup-tribe-plate_0.png?itok=lvokJgpz",
-   "alt": "Puyallup Tribe plate"
+   "alt": "Puyallup Tribe plate",
+   "verdict": "plate:puy"
   },
-  "/sites/default/files/styles/max_135_x_135/public/plates/restoredplate.jpg": {
+  "/sites/default/files/styles/max_135_x_135/public/plates/restoredPlate.jpg": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/restoredPlate.jpg?itok=xJ3vgCcX",
-   "alt": "Restored license plates"
-  },
-  "/sites/default/files/styles/max_135_x_135/public/plates/rideshareplate.png": {
-   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/ridesharePlate.png?itok=52lVpfLJ",
-   "alt": "Ride share license plates"
-  },
-  "/sites/default/files/styles/max_135_x_135/public/plates/sanjuanislandsplate.png": {
-   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/SanJuanIslandsPlate.png?itok=x68ggu-8",
-   "alt": "San Juan Islands plate"
-  },
-  "/sites/default/files/styles/max_135_x_135/public/plates/seahawks-throwback-plate.png": {
-   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/seahawks-throwback-plate.png?itok=N1iT-W48",
-   "alt": "Seattle Seahawks throwback license plate"
+   "alt": "Restored license plates",
+   "verdict": "pending:WA-restored"
   },
   "/sites/default/files/styles/max_135_x_135/public/plates/seattle-univ-plate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/seattle-univ-plate.png?itok=CznFnLF4",
-   "alt": "Seattle University license plate"
+   "alt": "Seattle University license plate",
+   "verdict": "pending:WA-seattle-university"
   },
-  "/sites/default/files/styles/max_135_x_135/public/plates/shareroadplate.png": {
-   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/ShareRoadPlate.png?itok=-Jj1Pwql",
-   "alt": "Share the Road license plate"
-  },
-  "/sites/default/files/styles/max_135_x_135/public/plates/skiplate.jpg": {
+  "/sites/default/files/styles/max_135_x_135/public/plates/skiPlate.jpg": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/skiPlate.jpg?itok=WzgrTFS1",
-   "alt": "Ski and Ride license plates"
+   "alt": "Ski and Ride license plates",
+   "verdict": "skipped-2023"
   },
   "/sites/default/files/styles/max_135_x_135/public/plates/smokey-bear-plate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/smokey-bear-plate.png?itok=3RwCogOn",
-   "alt": "Washington state license plate featuring Smokey Bear holding a shovel with \"S B SMPL\" text and the slogan \"ONLY YOU CAN PREVENT WILDFIRES.\""
-  },
-  "/sites/default/files/styles/max_135_x_135/public/plates/sounders-plate.png": {
-   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/sounders-plate.png?itok=Aw0F2kku",
-   "alt": "Image depicting the Seattle Sounders special license plate design; A green background with white text reading \"FC SMPLE\" and the Sounders' logo in blue"
-  },
-  "/sites/default/files/styles/max_135_x_135/public/plates/squaredanceplate.png": {
-   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/squaredancePlate.png?itok=i0vWjbK1",
-   "alt": "Square Dancer license plates"
-  },
-  "/sites/default/files/styles/max_135_x_135/public/plates/stateflowerplate.png": {
-   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/StateFlowerPlate.png?itok=QYM6srsz",
-   "alt": "State Flower license plate"
-  },
-  "/sites/default/files/styles/max_135_x_135/public/plates/stateparksplate.jpg": {
-   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/StateParksPlate.jpg?itok=xhHVm-0T",
-   "alt": "Washington State Parks license plate"
-  },
-  "/sites/default/files/styles/max_135_x_135/public/plates/steelheadplate.png": {
-   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/SteelheadPlate.png?itok=R4dPtpI9",
-   "alt": "Special Design License Plate with the eye and beautiful colors of a steelhead salmon"
-  },
-  "/sites/default/files/styles/max_135_x_135/public/plates/stormplate.png": {
-   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/stormPlate.png?itok=lFnrnWoA",
-   "alt": "Seattle Storm plate"
-  },
-  "/sites/default/files/styles/max_135_x_135/public/plates/tennisplate.png": {
-   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/TennisPlate.png?itok=Gx31mCnA",
-   "alt": "Tennis license plate"
-  },
-  "/sites/default/files/styles/max_135_x_135/public/plates/tescplate.png": {
-   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/TESCplate.png?itok=uoQwc_-e",
-   "alt": "The Evergreen State College license plates"
+   "alt": "Washington state license plate featuring Smokey Bear holding a shovel with \"S B SMPL\" text and the slogan \"ONLY YOU CAN PREVENT WILDFIRES.\"",
+   "verdict": "pending:WA-washington-state-featuring-smokey-bear-h"
   },
   "/sites/default/files/styles/max_135_x_135/public/plates/throwback-plate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/throwback-plate.png?itok=RsKJNNlT",
-   "alt": "Black with white text throwback license plate"
-  },
-  "/sites/default/files/styles/max_135_x_135/public/plates/uwplate.png": {
-   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/UWplate.png?itok=1CQ7gBn3",
-   "alt": "University of Washington license plates"
+   "alt": "Black with white text throwback license plate",
+   "verdict": "plate:tbk"
   },
   "/sites/default/files/styles/max_135_x_135/public/plates/vetemblems.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/vetemblems.png?itok=uNdxbzXQ",
-   "alt": "Veteran/military service award emblem sample"
-  },
-  "/sites/default/files/styles/max_135_x_135/public/plates/volunteerfirefighterplate.png": {
-   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/VolunteerFirefighterPlate.png?itok=NN29_9Wz",
-   "alt": "Volunteer Firefighter license plate"
-  },
-  "/sites/default/files/styles/max_135_x_135/public/plates/washingtonapplesplate.jpg": {
-   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/WashingtonApplesPlate.jpg?itok=h3Ey2QKz",
-   "alt": "Washington Apple Commission plate"
-  },
-  "/sites/default/files/styles/max_135_x_135/public/plates/wine-country-plate.png": {
-   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/wine-country-plate.png?itok=9Z4dNPPR",
-   "alt": "Washington Wine Commission plate"
-  },
-  "/sites/default/files/styles/max_135_x_135/public/plates/wrestlingplate.png": {
-   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/WrestlingPlate.png?itok=z7TwSvfW",
-   "alt": "Wrestling license plate"
-  },
-  "/sites/default/files/styles/max_135_x_135/public/plates/wsuplate.png": {
-   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/WSUplate.png?itok=AmQf7H_Y",
-   "alt": "Washington State University license plates"
-  },
-  "/sites/default/files/styles/max_135_x_135/public/plates/wwuplate.png": {
-   "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/WWUplate.png?itok=Ip8RHfsI",
-   "alt": "Western Washington University license plates"
+   "alt": "Veteran/military service award emblem sample",
+   "verdict": "pending:WA-veteran-military-service-award-emblem"
   }
- }
+ },
+ "checked": "2026-10-26"
 }

@@ -1,0 +1,17 @@
+{
+ "code": "MO",
+ "url": "https://dor.mo.gov/motor-vehicle/plates/personalized-specialty.html#preview",
+ "pictures": {
+  "/motor-vehicle/images/Missouri-Licesnse-Plate-Sample-lrg.png": {
+   "src": "https://dor.mo.gov/motor-vehicle/images/Missouri-Licesnse-Plate-Sample-lrg.png",
+   "alt": "Missouri Licesnse Plate Sample",
+   "verdict": "pending:MO-missouri-licesnse"
+  },
+  "/motor-vehicle/plates/images/sam-ple.png": {
+   "src": "https://dor.mo.gov/motor-vehicle/plates/images/sam-ple.png",
+   "alt": "Click here to Personalize and Reserve",
+   "verdict": "pending:MO-click-here-to-personalize-and-reserve"
+  }
+ },
+ "checked": "2026-10-26"
+}

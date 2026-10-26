@@ -1,227 +1,277 @@
 {
  "code": "NM",
  "url": "https://www.mvd.newmexico.gov/vehicles/license-plates/",
- "checked": "2026-10-26",
  "pictures": {
   "/wp-content/uploads/2020/12/064920c8ecccec6d48a2e8964973bd98.png": {
    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/064920c8ecccec6d48a2e8964973bd98.png",
-   "alt": "New Mexico Highlands University"
+   "alt": "New Mexico Highlands University",
+   "verdict": "pending:NM-mexico-highlands-university"
   },
   "/wp-content/uploads/2020/12/1d21ab21dc23273bea610288494ff274.png": {
    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/1d21ab21dc23273bea610288494ff274.png",
-   "alt": "Marine Veteran sample license plate"
+   "alt": "Marine Veteran sample license plate",
+   "verdict": "pending:NM-marine-veteran"
   },
   "/wp-content/uploads/2020/12/23e082341277b9207bd409871e4b833e.png": {
    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/23e082341277b9207bd409871e4b833e.png",
-   "alt": "Northern New Mexico College License Plate"
+   "alt": "Northern New Mexico College License Plate",
+   "verdict": "skipped-2023"
   },
   "/wp-content/uploads/2020/12/2b81e564a6686089b5459d779e317152.png": {
    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/2b81e564a6686089b5459d779e317152.png",
-   "alt": "Woman Veteran License Plate"
+   "alt": "Woman Veteran License Plate",
+   "verdict": "plate:woman-veteran"
   },
   "/wp-content/uploads/2020/12/356cef53a3d057ba0934dd561175e21a.png": {
    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/356cef53a3d057ba0934dd561175e21a.png",
-   "alt": "New Mexico State University sample license plate"
+   "alt": "New Mexico State University sample license plate",
+   "verdict": "pending:NM-mexico-state-university"
   },
   "/wp-content/uploads/2020/12/3da590eb86738f1ba03200046733a592.png": {
    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/3da590eb86738f1ba03200046733a592.png",
-   "alt": "Central New Mexico Community College sample license plate"
+   "alt": "Central New Mexico Community College sample license plate",
+   "verdict": "pending:NM-central-mexico-community-college"
   },
   "/wp-content/uploads/2020/12/6983a995fed5f944dda55ad7a9be8ceb.png": {
    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/6983a995fed5f944dda55ad7a9be8ceb.png",
-   "alt": "Navy Veteran License Plate"
+   "alt": "Navy Veteran License Plate",
+   "verdict": "pending:NM-navy-veteran"
   },
   "/wp-content/uploads/2020/12/6fc32814e516c40c7b87701d2697e96e.png": {
    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/6fc32814e516c40c7b87701d2697e96e.png",
-   "alt": "Eastern New Mexico University License Plate"
+   "alt": "Eastern New Mexico University License Plate",
+   "verdict": "pending:NM-eastern-mexico-university"
   },
   "/wp-content/uploads/2020/12/7bd7f69cbeece0c2fe915d205c299838.png": {
    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/7bd7f69cbeece0c2fe915d205c299838.png",
-   "alt": "New Mexico Military Institute License Plate"
+   "alt": "New Mexico Military Institute License Plate",
+   "verdict": "pending:NM-mexico-military-institute"
   },
   "/wp-content/uploads/2020/12/81379eaba81a3470dabe1324d370a97f.png": {
    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/81379eaba81a3470dabe1324d370a97f.png",
-   "alt": "Coast Guard Veteran License Plate"
+   "alt": "Coast Guard Veteran License Plate",
+   "verdict": "pending:NM-coast-guard-veteran"
   },
   "/wp-content/uploads/2020/12/8bdbbba758673a6e69c0d32e313d5974.png": {
    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/8bdbbba758673a6e69c0d32e313d5974.png",
-   "alt": "New Mexico Tech License Plate"
+   "alt": "New Mexico Tech License Plate",
+   "verdict": "plate:new-mexico-tech"
+  },
+  "/wp-content/uploads/2020/12/Adopt-a-Child-License-Plate.png": {
+   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/Adopt-a-Child-License-Plate.png",
+   "alt": "Adopt a Child License Plate Image",
+   "verdict": "pending:NM-adopt-a-child"
+  },
+  "/wp-content/uploads/2020/12/Autism-300-2pt1.jpg": {
+   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/Autism-300-2pt1.jpg",
+   "alt": "Autism awareness sample license plate",
+   "verdict": "skipped-2023"
+  },
+  "/wp-content/uploads/2020/12/BassFishing.jpg": {
+   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/BassFishing.jpg",
+   "alt": "Bass fishing sample license plate",
+   "verdict": "plate:bass-fishing"
+  },
+  "/wp-content/uploads/2020/12/BoyScouts.jpg": {
+   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/BoyScouts.jpg",
+   "alt": "Boy scouts sample license plate",
+   "verdict": "plate:boy-scouts-centennial"
+  },
+  "/wp-content/uploads/2020/12/BreastCancer.jpg": {
+   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/BreastCancer.jpg",
+   "alt": "Breast cancer awareness sample license plate",
+   "verdict": "pending:NM-breast-cancer-awareness"
+  },
+  "/wp-content/uploads/2020/12/Chile-Capital-Passenger-300-2pt1.jpg": {
+   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/Chile-Capital-Passenger-300-2pt1.jpg",
+   "alt": "Sample black chile NM license plate",
+   "verdict": "plate:chile"
+  },
+  "/wp-content/uploads/2020/12/CumbresToltec.jpg": {
+   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/CumbresToltec.jpg",
+   "alt": "Cumbres and toltec railway sample license plate",
+   "verdict": "plate:cumbres-and-toltec-railway"
+  },
+  "/wp-content/uploads/2020/12/DisabledVet-Wheelchair.jpg": {
+   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/DisabledVet-Wheelchair.jpg",
+   "alt": "Disabled Vet Wheelchair license plate",
+   "verdict": "plate:disabled-veteran-wheelchair"
+  },
+  "/wp-content/uploads/2020/12/Emergency-Medical-Technicians-License-Plate.png": {
+   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/Emergency-Medical-Technicians-License-Plate.png",
+   "alt": "Emergency Medical Technicians License Plate Picture",
+   "verdict": "pending:NM-emergency-medical-technicians-picture"
+  },
+  "/wp-content/uploads/2020/12/FarmRanch.jpg": {
+   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/FarmRanch.jpg",
+   "alt": "Farm and ranch heritage sample license plate",
+   "verdict": "pending:NM-farm-and-ranch-heritage"
+  },
+  "/wp-content/uploads/2020/12/Firefighters-and-Volunteer-Firefighters-License-Plate.png": {
+   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/Firefighters-and-Volunteer-Firefighters-License-Plate.png",
+   "alt": "Firefighter and volunteer firefighters sample license plates",
+   "verdict": "not-a-plate"
+  },
+  "/wp-content/uploads/2020/12/Fraternal-Order-of-Police-Liscence-Plate.png": {
+   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/Fraternal-Order-of-Police-Liscence-Plate.png",
+   "alt": "Picture of Fraternal Order of Police License Plate",
+   "verdict": "pending:NM-picture-of-fraternal-order-of-police"
+  },
+  "/wp-content/uploads/2020/12/GoldStar.jpg": {
+   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/GoldStar.jpg",
+   "alt": "Gold Star Family sample license plate",
+   "verdict": "pending:NM-gold-star-family"
+  },
+  "/wp-content/uploads/2020/12/Horseless-Carriage-Licence-Plate-for-Motorcycle.png": {
+   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/Horseless-Carriage-Licence-Plate-for-Motorcycle.png",
+   "alt": "Horseless Carriage License Plate f",
+   "verdict": "not-for-cars"
+  },
+  "/wp-content/uploads/2020/12/Horseless-Carriage-License-Plate-for-Motorcycle.png": {
+   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/Horseless-Carriage-License-Plate-for-Motorcycle.png",
+   "alt": "Horseless Carriage License Plate for Motorcycle",
+   "verdict": "not-for-cars"
+  },
+  "/wp-content/uploads/2020/12/Kids.jpg": {
+   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/Kids.jpg",
+   "alt": "Children's trust fund motorcycle sample license plate",
+   "verdict": "not-a-plate"
+  },
+  "/wp-content/uploads/2020/12/KidsTrustFund.jpg": {
+   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/KidsTrustFund.jpg",
+   "alt": "Children's trust fund sample license plate",
+   "verdict": "plate:children-s-trust-fund"
+  },
+  "/wp-content/uploads/2020/12/MotorcycleDV.jpg": {
+   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/MotorcycleDV.jpg",
+   "alt": "Motorcycle Disabled Veteran license plate",
+   "verdict": "not-a-plate"
+  },
+  "/wp-content/uploads/2020/12/NM_Las_Cruces.jpg": {
+   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/NM_Las_Cruces.jpg",
+   "alt": "Las Cruces sample license plate",
+   "verdict": "pending:NM-las-cruces"
+  },
+  "/wp-content/uploads/2020/12/OrganDonor-1.jpg": {
+   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/OrganDonor-1.jpg",
+   "alt": "Organ donor sample license plate",
+   "verdict": "plate:organ-donor"
+  },
+  "/wp-content/uploads/2020/12/PearlHarbor.jpg": {
+   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/PearlHarbor.jpg",
+   "alt": "Pearl Harbor Survivor license plate",
+   "verdict": "plate:pearl-harbor-survivor"
+  },
+  "/wp-content/uploads/2020/12/Pollinator-Protection-License-Plate.png": {
+   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/Pollinator-Protection-License-Plate.png",
+   "alt": "Pollinator Protection License Plate Image",
+   "verdict": "pending:NM-pollinator-protection"
+  },
+  "/wp-content/uploads/2020/12/Radio-Operator-License-Plate.png": {
+   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/Radio-Operator-License-Plate.png",
+   "alt": "Amateur radio operator sample license plate",
+   "verdict": "pending:NM-amateur-radio-operator"
+  },
+  "/wp-content/uploads/2020/12/RetSP-1.jpg": {
+   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/RetSP-1.jpg",
+   "alt": "Retired NM state police license plate",
+   "verdict": "plate:retired-nm-state-police"
+  },
+  "/wp-content/uploads/2020/12/Retired-Firefighter-License-Plate.png": {
+   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/Retired-Firefighter-License-Plate.png",
+   "alt": "Retired firefighter license plate",
+   "verdict": "plate:retired-firefighters"
+  },
+  "/wp-content/uploads/2020/12/Retired-NM-Law-Enforcement-License-Plate.png": {
+   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/Retired-NM-Law-Enforcement-License-Plate.png",
+   "alt": "Picture of Retired Law Enforcement License Plate",
+   "verdict": "pending:NM-picture-of-retired-law-enforcement"
+  },
+  "/wp-content/uploads/2020/12/Route-66-License-Plate.png": {
+   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/Route-66-License-Plate.png",
+   "alt": "Route 66 License Plate",
+   "verdict": "skipped-2023"
+  },
+  "/wp-content/uploads/2020/12/SpayNeuter.jpg": {
+   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/SpayNeuter.jpg",
+   "alt": "Pet care spay/neuter sample license plate",
+   "verdict": "pending:NM-pet-care-spay-neuter"
+  },
+  "/wp-content/uploads/2020/12/Standard-Red-and-Yellow-License-Plate.png": {
+   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/Standard-Red-and-Yellow-License-Plate.png",
+   "alt": "Standard Red and Yellow License Plate",
+   "verdict": "pending:NM-standard-red-and-yellow"
+  },
+  "/wp-content/uploads/2020/12/TurquoiseNM100-1.jpg": {
+   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/TurquoiseNM100-1.jpg",
+   "alt": "Sample turquoise NM license plate",
+   "verdict": "skipped-2023"
+  },
+  "/wp-content/uploads/2020/12/TurquoiseVANITY-1.jpg": {
+   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/TurquoiseVANITY-1.jpg",
+   "alt": "Turquoise VANITY",
+   "verdict": "plate:centennial"
+  },
+  "/wp-content/uploads/2020/12/VetAF.jpg": {
+   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/VetAF.jpg",
+   "alt": "Air Force Veteran license plate",
+   "verdict": "plate:air-force-veteran"
+  },
+  "/wp-content/uploads/2020/12/VetAFmotorcycle.jpg": {
+   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/VetAFmotorcycle.jpg",
+   "alt": "Veteran motorcycle sample license plate",
+   "verdict": "not-a-plate"
+  },
+  "/wp-content/uploads/2020/12/VetAR.jpg": {
+   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/VetAR.jpg",
+   "alt": "Army Veteran License plate",
+   "verdict": "plate:army-veteran"
   },
   "/wp-content/uploads/2020/12/a80867b7b81c86a24145980c66d6492d.png": {
    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/a80867b7b81c86a24145980c66d6492d.png",
-   "alt": "Active Duty National Guard License Plate"
-  },
-  "/wp-content/uploads/2020/12/adopt-a-child-license-plate.png": {
-   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/Adopt-a-Child-License-Plate.png",
-   "alt": "Adopt a Child License Plate Image"
+   "alt": "Active Duty National Guard License Plate",
+   "verdict": "pending:NM-active-duty-national-guard"
   },
   "/wp-content/uploads/2020/12/af0720cf9e0964ca89030bf7ba05eaf6.png": {
    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/af0720cf9e0964ca89030bf7ba05eaf6.png",
-   "alt": "University of New Mexico License Plate"
-  },
-  "/wp-content/uploads/2020/12/autism-300-2pt1.jpg": {
-   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/Autism-300-2pt1.jpg",
-   "alt": "Autism awareness sample license plate"
-  },
-  "/wp-content/uploads/2020/12/bassfishing.jpg": {
-   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/BassFishing.jpg",
-   "alt": "Bass fishing sample license plate"
-  },
-  "/wp-content/uploads/2020/12/boyscouts.jpg": {
-   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/BoyScouts.jpg",
-   "alt": "Boy scouts sample license plate"
-  },
-  "/wp-content/uploads/2020/12/breastcancer.jpg": {
-   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/BreastCancer.jpg",
-   "alt": "Breast cancer awareness sample license plate"
+   "alt": "University of New Mexico License Plate",
+   "verdict": "pending:NM-university-of-mexico"
   },
   "/wp-content/uploads/2020/12/c6ebc0743f5a27dc93381acca97041ae.png": {
    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/c6ebc0743f5a27dc93381acca97041ae.png",
-   "alt": "Western New Mexico University License Plate"
-  },
-  "/wp-content/uploads/2020/12/chile-capital-passenger-300-2pt1.jpg": {
-   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/Chile-Capital-Passenger-300-2pt1.jpg",
-   "alt": "Sample black chile NM license plate"
-  },
-  "/wp-content/uploads/2020/12/cumbrestoltec.jpg": {
-   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/CumbresToltec.jpg",
-   "alt": "Cumbres and toltec railway sample license plate"
+   "alt": "Western New Mexico University License Plate",
+   "verdict": "skipped-2023"
   },
   "/wp-content/uploads/2020/12/d43d400a580739e9f0a79668392406da.png": {
    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/d43d400a580739e9f0a79668392406da.png",
-   "alt": "New Mexico Junior College License Plate"
-  },
-  "/wp-content/uploads/2020/12/disabledvet-wheelchair.jpg": {
-   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/DisabledVet-Wheelchair.jpg",
-   "alt": "Disabled Vet Wheelchair license plate"
-  },
-  "/wp-content/uploads/2020/12/emergency-medical-technicians-license-plate.png": {
-   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/Emergency-Medical-Technicians-License-Plate.png",
-   "alt": "Emergency Medical Technicians License Plate Picture"
-  },
-  "/wp-content/uploads/2020/12/farmranch.jpg": {
-   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/FarmRanch.jpg",
-   "alt": "Farm and ranch heritage sample license plate"
-  },
-  "/wp-content/uploads/2020/12/firefighters-and-volunteer-firefighters-license-plate.png": {
-   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/Firefighters-and-Volunteer-Firefighters-License-Plate.png",
-   "alt": "Firefighter and volunteer firefighters sample license plates"
-  },
-  "/wp-content/uploads/2020/12/fraternal-order-of-police-liscence-plate.png": {
-   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/Fraternal-Order-of-Police-Liscence-Plate.png",
-   "alt": "Picture of Fraternal Order of Police License Plate"
-  },
-  "/wp-content/uploads/2020/12/goldstar.jpg": {
-   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/GoldStar.jpg",
-   "alt": "Gold Star Family sample license plate"
+   "alt": "New Mexico Junior College License Plate",
+   "verdict": "pending:NM-mexico-junior-college"
   },
   "/wp-content/uploads/2020/12/handicapped_license_plate.png": {
    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/handicapped_license_plate.png",
-   "alt": "Disabled Person License Plate"
-  },
-  "/wp-content/uploads/2020/12/horseless-carriage-licence-plate-for-motorcycle.png": {
-   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/Horseless-Carriage-Licence-Plate-for-Motorcycle.png",
-   "alt": "Horseless Carriage License Plate f"
-  },
-  "/wp-content/uploads/2020/12/horseless-carriage-license-plate-for-motorcycle.png": {
-   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/Horseless-Carriage-License-Plate-for-Motorcycle.png",
-   "alt": "Horseless Carriage License Plate for Motorcycle"
-  },
-  "/wp-content/uploads/2020/12/kids.jpg": {
-   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/Kids.jpg",
-   "alt": "Children's trust fund motorcycle sample license plate"
-  },
-  "/wp-content/uploads/2020/12/kidstrustfund.jpg": {
-   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/KidsTrustFund.jpg",
-   "alt": "Children's trust fund sample license plate"
-  },
-  "/wp-content/uploads/2020/12/motorcycledv.jpg": {
-   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/MotorcycleDV.jpg",
-   "alt": "Motorcycle Disabled Veteran license plate"
-  },
-  "/wp-content/uploads/2020/12/nm_las_cruces.jpg": {
-   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/NM_Las_Cruces.jpg",
-   "alt": "Las Cruces sample license plate"
-  },
-  "/wp-content/uploads/2020/12/organdonor-1.jpg": {
-   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/OrganDonor-1.jpg",
-   "alt": "Organ donor sample license plate"
+   "alt": "Disabled Person License Plate",
+   "verdict": "pending:NM-disabled-person"
   },
   "/wp-content/uploads/2020/12/patriot.jpg": {
    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/patriot.jpg",
-   "alt": "Patriot sample license plate"
-  },
-  "/wp-content/uploads/2020/12/pearlharbor.jpg": {
-   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/PearlHarbor.jpg",
-   "alt": "Pearl Harbor Survivor license plate"
-  },
-  "/wp-content/uploads/2020/12/pollinator-protection-license-plate.png": {
-   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/Pollinator-Protection-License-Plate.png",
-   "alt": "Pollinator Protection License Plate Image"
-  },
-  "/wp-content/uploads/2020/12/radio-operator-license-plate.png": {
-   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/Radio-Operator-License-Plate.png",
-   "alt": "Amateur radio operator sample license plate"
-  },
-  "/wp-content/uploads/2020/12/retired-firefighter-license-plate.png": {
-   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/Retired-Firefighter-License-Plate.png",
-   "alt": "Retired firefighter license plate"
-  },
-  "/wp-content/uploads/2020/12/retired-nm-law-enforcement-license-plate.png": {
-   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/Retired-NM-Law-Enforcement-License-Plate.png",
-   "alt": "Picture of Retired Law Enforcement License Plate"
-  },
-  "/wp-content/uploads/2020/12/retsp-1.jpg": {
-   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/RetSP-1.jpg",
-   "alt": "Retired NM state police license plate"
-  },
-  "/wp-content/uploads/2020/12/route-66-license-plate.png": {
-   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/Route-66-License-Plate.png",
-   "alt": "Route 66 License Plate"
-  },
-  "/wp-content/uploads/2020/12/spayneuter.jpg": {
-   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/SpayNeuter.jpg",
-   "alt": "Pet care spay/neuter sample license plate"
-  },
-  "/wp-content/uploads/2020/12/standard-red-and-yellow-license-plate.png": {
-   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/Standard-Red-and-Yellow-License-Plate.png",
-   "alt": "Standard Red and Yellow License Plate"
-  },
-  "/wp-content/uploads/2020/12/turquoisenm100-1.jpg": {
-   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/TurquoiseNM100-1.jpg",
-   "alt": "Sample turquoise NM license plate"
-  },
-  "/wp-content/uploads/2020/12/turquoisevanity-1.jpg": {
-   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/TurquoiseVANITY-1.jpg",
-   "alt": "Turquoise VANITY"
+   "alt": "Patriot sample license plate",
+   "verdict": "plate:patriot"
   },
   "/wp-content/uploads/2020/12/vanity_license_plate.png": {
    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/vanity_license_plate.png",
-   "alt": "Red and Yellow vanity license plate"
+   "alt": "Red and Yellow vanity license plate",
+   "verdict": "pending:NM-red-and-yellow-vanity"
   },
-  "/wp-content/uploads/2020/12/vetaf.jpg": {
-   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/VetAF.jpg",
-   "alt": "Air Force Veteran license plate"
-  },
-  "/wp-content/uploads/2020/12/vetafmotorcycle.jpg": {
-   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/VetAFmotorcycle.jpg",
-   "alt": "Veteran motorcycle sample license plate"
-  },
-  "/wp-content/uploads/2020/12/vetar.jpg": {
-   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/VetAR.jpg",
-   "alt": "Army Veteran License plate"
-  },
-  "/wp-content/uploads/2021/01/gov-martinez.bmp": {
-   "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2021/01/Gov-Martinez.bmp",
-   "alt": "Governor Suzanna Martinez standing at a podium in front of a mockup of a turquoise NM license plate"
-  },
-  "/wp-content/uploads/2021/01/santa_fe_400th_anniversary.png": {
+  "/wp-content/uploads/2021/01/Santa_fe_400th_anniversary.png": {
    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2021/01/Santa_fe_400th_anniversary.png",
-   "alt": "Santa Fe 400th Anniversary license plate"
+   "alt": "Santa Fe 400th Anniversary license plate",
+   "verdict": "pending:NM-santa-fe-400th-anniversary"
   },
-  "/wp-content/uploads/2021/01/wildlife-artwork-license-plate.png": {
+  "/wp-content/uploads/2021/01/Wildlife-Artwork-license-plate.png": {
    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2021/01/Wildlife-Artwork-license-plate.png",
-   "alt": "Wildlife Artwork sample license plate"
+   "alt": "Wildlife Artwork sample license plate",
+   "verdict": "pending:NM-wildlife-artwork"
   }
- }
+ },
+ "checked": "2026-10-26"
 }

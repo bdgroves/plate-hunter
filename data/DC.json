@@ -3,7 +3,7 @@
  "name": "District of Columbia",
  "rated": false,
  "checked": false,
- "updated": "2026-10-25",
+ "updated": "2026-10-26",
  "about": "District of Columbia special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
  "sources": [
   {
@@ -287,6 +287,222 @@
    "name": "Washington Nationals Note: It is not necessary to obtain a letter from the Washington Nationals to obtain this organizational.",
    "cat": "sports",
    "img": "washington-nationals-note-it-is-not-nece.webp"
+  },
+  {
+   "id": "dc-dmv-tag-alpha-kappa-alpha",
+   "name": "DC DMV Tag Alpha Kappa Alpha",
+   "cat": "other",
+   "img": "dc-dmv-tag-alpha-kappa-alpha.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://dmv.dc.gov/service/organizations-offering-dc-dmv-vehicle-tags"
+  },
+  {
+   "id": "dc-dmv-tag-bad-boys-club",
+   "name": "DC DMV Tag Bad Boys Club",
+   "cat": "charity",
+   "img": "dc-dmv-tag-bad-boys-club.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://dmv.dc.gov/service/organizations-offering-dc-dmv-vehicle-tags"
+  },
+  {
+   "id": "dc-dmv-tag-blue-knights",
+   "name": "DC DMV Tag Blue Knights",
+   "cat": "hobby",
+   "img": "dc-dmv-tag-blue-knights.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://dmv.dc.gov/service/organizations-offering-dc-dmv-vehicle-tags"
+  },
+  {
+   "id": "dc-dmv-tag-children-first-foundation",
+   "name": "DC DMV Tag Children First Foundation",
+   "cat": "charity",
+   "img": "dc-dmv-tag-children-first-foundation.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://dmv.dc.gov/service/organizations-offering-dc-dmv-vehicle-tags"
+  },
+  {
+   "id": "dc-dmv-tag-delta-sigma-theta-sorority",
+   "name": "DC DMV Tag Delta Sigma Theta Sorority",
+   "cat": "other",
+   "img": "dc-dmv-tag-delta-sigma-theta-sorority.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://dmv.dc.gov/service/organizations-offering-dc-dmv-vehicle-tags"
+  },
+  {
+   "id": "dc-dmv-tag-disabled-veterans",
+   "name": "DC DMV Tag Disabled Veterans",
+   "cat": "veterans",
+   "img": "dc-dmv-tag-disabled-veterans.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://dmv.dc.gov/service/organizations-offering-dc-dmv-vehicle-tags"
+  },
+  {
+   "id": "dc-dmv-tag-disabled-veterans-2",
+   "name": "DC DMV Tag Disabled Veterans",
+   "cat": "veterans",
+   "img": "dc-dmv-tag-disabled-veterans-2.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://dmv.dc.gov/service/organizations-offering-dc-dmv-vehicle-tags"
+  },
+  {
+   "id": "dc-dmv-tag-donate-life",
+   "name": "DC DMV Tag Donate Life",
+   "cat": "charity",
+   "img": "dc-dmv-tag-donate-life.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://dmv.dc.gov/service/organizations-offering-dc-dmv-vehicle-tags"
+  },
+  {
+   "id": "dc-dmv-tag-florida-a-m-university",
+   "name": "DC DMV Tag Florida A&M University",
+   "cat": "colleges",
+   "img": "dc-dmv-tag-florida-a-m-university.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://dmv.dc.gov/service/organizations-offering-dc-dmv-vehicle-tags"
+  },
+  {
+   "id": "dc-dmv-tag-mississippi-state-university",
+   "name": "DC DMV Tag Mississippi State University",
+   "cat": "colleges",
+   "img": "dc-dmv-tag-mississippi-state-university.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://dmv.dc.gov/service/organizations-offering-dc-dmv-vehicle-tags"
+  },
+  {
+   "id": "dc-dmv-tag-morehouse-college-alumni",
+   "name": "DC DMV Tag Morehouse College Alumni",
+   "cat": "colleges",
+   "img": "dc-dmv-tag-morehouse-college-alumni.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://dmv.dc.gov/service/organizations-offering-dc-dmv-vehicle-tags"
+  },
+  {
+   "id": "dc-dmv-tag-nc-a-t-su-alumni",
+   "name": "DC DMV Tag NC A&T SU Alumni",
+   "cat": "colleges",
+   "img": "dc-dmv-tag-nc-a-t-su-alumni.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://dmv.dc.gov/service/organizations-offering-dc-dmv-vehicle-tags"
+  },
+  {
+   "id": "dc-dmv-tag-national-association-of-black",
+   "name": "DC DMV Tag National Association of Black Scuba Divers",
+   "cat": "charity",
+   "img": "dc-dmv-tag-national-association-of-black.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://dmv.dc.gov/service/organizations-offering-dc-dmv-vehicle-tags"
+  },
+  {
+   "id": "dc-dmv-tag-norfolk-state-university",
+   "name": "DC DMV Tag Norfolk State University",
+   "cat": "colleges",
+   "img": "dc-dmv-tag-norfolk-state-university.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://dmv.dc.gov/service/organizations-offering-dc-dmv-vehicle-tags"
+  },
+  {
+   "id": "dc-dmv-tag-spirit-of-faith-christian-cen",
+   "name": "DC DMV Tag Spirit of Faith Christian Center",
+   "cat": "charity",
+   "img": "dc-dmv-tag-spirit-of-faith-christian-cen.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://dmv.dc.gov/service/organizations-offering-dc-dmv-vehicle-tags"
+  },
+  {
+   "id": "dc-dmv-tag-st-john-s-college",
+   "name": "DC DMV Tag St John’s College",
+   "cat": "colleges",
+   "img": "dc-dmv-tag-st-john-s-college.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://dmv.dc.gov/service/organizations-offering-dc-dmv-vehicle-tags"
+  },
+  {
+   "id": "dc-dmv-tag-the-george-washington-univers",
+   "name": "DC DMV Tag The George Washington University",
+   "cat": "colleges",
+   "img": "dc-dmv-tag-the-george-washington-univers.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://dmv.dc.gov/service/organizations-offering-dc-dmv-vehicle-tags"
+  },
+  {
+   "id": "dc-dmv-tag-university-of-michigan",
+   "name": "DC DMV Tag University of Michigan",
+   "cat": "colleges",
+   "img": "dc-dmv-tag-university-of-michigan.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://dmv.dc.gov/service/organizations-offering-dc-dmv-vehicle-tags"
+  },
+  {
+   "id": "dc-dmv-tag-university-of-mississippi-ole",
+   "name": "DC DMV Tag University of Mississippi (Ole Miss)",
+   "cat": "colleges",
+   "img": "dc-dmv-tag-university-of-mississippi-ole.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://dmv.dc.gov/service/organizations-offering-dc-dmv-vehicle-tags"
+  },
+  {
+   "id": "dc-dmv-tag-veterans-of-foreign-wars-of-u",
+   "name": "DC DMV Tag Veterans of Foreign Wars of US",
+   "cat": "veterans",
+   "img": "dc-dmv-tag-veterans-of-foreign-wars-of-u.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://dmv.dc.gov/service/organizations-offering-dc-dmv-vehicle-tags"
+  },
+  {
+   "id": "dc-dmv-tag-prince-hall-order-of-the-east",
+   "name": "DC DMV Tag Prince Hall Order of the Eastern Star",
+   "cat": "hobby",
+   "img": "dc-dmv-tag-prince-hall-order-of-the-east.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://dmv.dc.gov/service/organizations-offering-dc-dmv-vehicle-tags"
+  },
+  {
+   "id": "dc-dmv-breast-cancer-awareness-tag",
+   "name": "DC DMV Breast Cancer Awareness Tag",
+   "cat": "charity",
+   "img": "dc-dmv-breast-cancer-awareness-tag.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://dmv.dc.gov/service/specialty-vehicle-tags"
+  },
+  {
+   "id": "washington-nationals-vehicle-tags",
+   "name": "Washington Nationals Vehicle Tags",
+   "cat": "sports",
+   "img": "washington-nationals-vehicle-tags.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://dmv.dc.gov/service/specialty-vehicle-tags"
+  },
+  {
+   "id": "vision-zero-bicycle-awareness-tags",
+   "name": "Vision Zero Bicycle Awareness Tags",
+   "cat": "hobby",
+   "img": "vision-zero-bicycle-awareness-tags.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://dmv.dc.gov/service/specialty-vehicle-tags"
   }
  ]
 }
