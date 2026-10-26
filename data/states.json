@@ -62,8 +62,7 @@
  {
   "code": "ID",
   "name": "Idaho",
-  "img": null,
-  "img_url": "https://itd.idaho.gov/wp-content/uploads/2026/06/WhiteBlack-e1782405776923.png",
+  "img": "plates/standard/ID.webp",
   "note": "Idaho has several everyday designs, including the classic red, white and blue “Famous Potatoes” plate. Any Idaho plate counts."
  },
  {
@@ -101,7 +100,6 @@
   "code": "ME",
   "name": "Maine",
   "img": "plates/standard/ME.webp",
-  "img_url": "https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/New%20Maine%20standard%20issue%20plate%20-%20Pine%20Tree.png",
   "note": "Maine is replacing its chickadee plate with a new pine-tree design starting in 2025. Either one counts."
  },
  {

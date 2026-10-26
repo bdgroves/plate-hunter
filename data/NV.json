@@ -294,8 +294,7 @@
    "id": "conserve-starry-skies",
    "name": "Conserve Starry Skies",
    "cat": "nature",
-   "img": null,
-   "img_url": "https://dmv.nv.gov/img/plates/starryskies.png",
+   "img": "conserve-starry-skies.webp",
    "year": "2024",
    "supports": "Friends of Nevada Wilderness (dark-sky conservation)"
   },

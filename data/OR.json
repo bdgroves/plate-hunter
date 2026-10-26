@@ -95,8 +95,7 @@
    "id": "osu-beaver",
    "name": "OSU Beaver",
    "cat": "colleges",
-   "img": null,
-   "img_url": "https://communications.oregonstate.edu/sites/communications.oregonstate.edu/files/styles/large/public/license-hero.jpg.webp?itok=3afNaP0S",
+   "img": "osu-beaver.webp",
    "year": "2025",
    "supports": "Oregon State University"
   },
@@ -112,8 +111,7 @@
    "id": "oregon-zoo",
    "name": "Oregon Zoo",
    "cat": "nature",
-   "img": null,
-   "img_url": "https://www.oregonzoo.org/sites/default/files/styles/scale_675w/public/2024-07/oregon-zoo-license-plate-art.jpg.webp?itok=kg0Y2swa",
+   "img": "oregon-zoo.webp",
    "year": "2025",
    "supports": "Oregon Zoo Foundation"
   },

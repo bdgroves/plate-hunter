@@ -29,8 +29,7 @@
    "id": "agriculture-harvest-the-future-2026-desi",
    "name": "Agriculture (Harvest the Future, 2026 design)",
    "cat": "other",
-   "img": null,
-   "img_url": "https://itd.idaho.gov/wp-content/uploads/2026/06/image-1-1024x515.png",
+   "img": "agriculture-harvest-the-future-2026-desi.webp",
    "year": "2026",
    "supports": "Idaho Ag in the Classroom"
   },
@@ -318,8 +317,7 @@
    "id": "idaho-america-250",
    "name": "Idaho America 250",
    "cat": "other",
-   "img": null,
-   "img_url": "https://itd.idaho.gov/wp-content/uploads/2026/04/A250_plate-768x1024.jpg",
+   "img": "idaho-america-250.webp",
    "year": "2026",
    "supports": "Idaho Heritage Trust"
   },
