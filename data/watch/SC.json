@@ -18,6 +18,11 @@
    "alt": "Play Tennis!",
    "verdict": "plate:play-tennis"
   },
+  "/sites/scdmv/files/2026-01/Respiratory%20Therapy.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/2026-01/Respiratory%20Therapy.png",
+   "alt": "Respiratory Therapy Plate",
+   "verdict": "pending:SC-respiratory-therapy"
+  },
   "/sites/scdmv/files/2026-03/National%20Wild%20Turkey%20Federation.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/2026-03/National%20Wild%20Turkey%20Federation.png",
    "alt": "National Wild Turkey Federation",
@@ -598,6 +603,16 @@
    "alt": "Operation Iraqi Freedom",
    "verdict": "plate:operation-iraqi-freedom"
   },
+  "/sites/scdmv/files/media/Images/Plates/New-Military-Images/SC-Prisoner-of-War_PW2_DLP.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/New-Military-Images/SC-Prisoner-of-War_PW2_DLP.png",
+   "alt": "Prisoner of War",
+   "verdict": "pending:SC-prisoner-of-war"
+  },
+  "/sites/scdmv/files/media/Images/Plates/New-Military-Images/SC-Soldiers-Medal_MD_DLP.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/New-Military-Images/SC-Soldiers-Medal_MD_DLP.png",
+   "alt": "Soldier's Medal",
+   "verdict": "plate:navy-and-marine-corps-medal"
+  },
   "/sites/scdmv/files/media/Images/Plates/New-Military-Images/SC-South-Carolina-Medal-of-Valor_MV_DLP.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/New-Military-Images/SC-South-Carolina-Medal-of-Valor_MV_DLP.png",
    "alt": "Medal of Valor",
@@ -698,6 +713,66 @@
    "alt": "personalized plate",
    "verdict": "rejected"
   },
+  "/sites/scdmv/files/media/Images/Plates/Powering-the-Palmetto.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Powering-the-Palmetto.png",
+   "alt": "Powering the Palmetto",
+   "verdict": "pending:SC-powering-the-palmetto"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Presbyterian-College.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Presbyterian-College.png",
+   "alt": "PC plate",
+   "verdict": "pending:SC-presbyterian-college"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Prince-Hall-Masons.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Prince-Hall-Masons.png",
+   "alt": "Prince Hall Masons",
+   "verdict": "pending:SC-prince-hall-masons"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Prince-Hall-Order-of-the-Eastern-Star.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Prince-Hall-Order-of-the-Eastern-Star.png",
+   "alt": "Eastern Star",
+   "verdict": "pending:SC-eastern-star"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Public-Education.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Public-Education.png",
+   "alt": "Public Education plate",
+   "verdict": "pending:SC-public-education"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Purdue-University.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Purdue-University.png",
+   "alt": "Purdue plate",
+   "verdict": "pending:SC-purdue"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Purple-Heart.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Purple-Heart.png",
+   "alt": "Purple Heart plate",
+   "verdict": "pending:SC-purple-heart"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Reduce-Reuse-Recycle.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Reduce-Reuse-Recycle.png",
+   "alt": "Reduce, Reuse, Recycle",
+   "verdict": "pending:SC-reduce-reuse-recycle"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Riverbanks-Zoo-and-Garden.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Riverbanks-Zoo-and-Garden.png",
+   "alt": "Riverbanks Zoo",
+   "verdict": "pending:SC-riverbanks-zoo"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Rocky-Mountain-Elk-Foundation.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Rocky-Mountain-Elk-Foundation.png",
+   "alt": "Rocky Mountain Elk Foundation",
+   "verdict": "pending:SC-rocky-mountain-elk-foundation"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Ronald-McDonald-House.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Ronald-McDonald-House.png",
+   "alt": "Ronald McDonald House",
+   "verdict": "pending:SC-ronald-mcdonald-house"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Rotary-International.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Rotary-International.png",
+   "alt": "Rotary International plate",
+   "verdict": "pending:SC-rotary-international"
+  },
   "/sites/scdmv/files/media/Images/Plates/SC-250-Year-Anniversary-Revolutionary-War.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/SC-250-Year-Anniversary-Revolutionary-War.png",
    "alt": "Revolutionary War Plate",
@@ -708,15 +783,45 @@
    "alt": "Aviation Hall of Fame",
    "verdict": "plate:back-the-badge"
   },
+  "/sites/scdmv/files/media/Images/Plates/SC-Cattleman-Association.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/SC-Cattleman-Association.png",
+   "alt": "Cattleman's Association",
+   "verdict": "pending:SC-cattleman-s-association"
+  },
+  "/sites/scdmv/files/media/Images/Plates/SC-Chiropractic-Association.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/SC-Chiropractic-Association.png",
+   "alt": "Chiropractic Association",
+   "verdict": "pending:SC-chiropractic-association"
+  },
   "/sites/scdmv/files/media/Images/Plates/SC-Combat-Disabled-Veteran.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/SC-Combat-Disabled-Veteran.png",
    "alt": "Combat Related Disabled  Veteran",
    "verdict": "plate:combat-related-disabled-veteran"
   },
+  "/sites/scdmv/files/media/Images/Plates/SC-Concerns-of-Police-Survivors.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/SC-Concerns-of-Police-Survivors.png",
+   "alt": "SC Concern of Police Survivors",
+   "verdict": "pending:SC-sc-concern-of-police-survivors"
+  },
   "/sites/scdmv/files/media/Images/Plates/SC-Drivers-For-A-Cure-AY-DLP.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/SC-Drivers-For-A-Cure-AY-DLP.png",
    "alt": "Drivers for a Cure",
    "verdict": "rejected"
+  },
+  "/sites/scdmv/files/media/Images/Plates/SC-Elks-Association.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/SC-Elks-Association.png",
+   "alt": "Elk's Association",
+   "verdict": "pending:SC-elk-s-association"
+  },
+  "/sites/scdmv/files/media/Images/Plates/SC-Equality.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/SC-Equality.png",
+   "alt": "SC Equality",
+   "verdict": "pending:SC-sc-equality"
+  },
+  "/sites/scdmv/files/media/Images/Plates/SC-Grand-Lodge-Free-Masons.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/SC-Grand-Lodge-Free-Masons.png",
+   "alt": "Ancient Free and Accepted Masons",
+   "verdict": "pending:SC-ancient-free-and-accepted-masons"
   },
   "/sites/scdmv/files/media/Images/Plates/SC-I-Believe.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/SC-I-Believe.png",
@@ -753,6 +858,26 @@
    "alt": "Phi Beta Sigma",
    "verdict": "plate:phi-beta-sigma"
   },
+  "/sites/scdmv/files/media/Images/Plates/SC-Quality-Deer-Management.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/SC-Quality-Deer-Management.png",
+   "alt": "Quality Deer Management",
+   "verdict": "pending:SC-quality-deer-management"
+  },
+  "/sites/scdmv/files/media/Images/Plates/SC-Space-Force_BA_5-6-22_DLP.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/SC-Space-Force_BA_5-6-22_DLP.png",
+   "alt": "Space Force License Plate",
+   "verdict": "pending:SC-space-force"
+  },
+  "/sites/scdmv/files/media/Images/Plates/SC-Stands-with-Israel.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/SC-Stands-with-Israel.png",
+   "alt": "SC Stands with Israel plate",
+   "verdict": "pending:SC-sc-stands-with-israel"
+  },
+  "/sites/scdmv/files/media/Images/Plates/SC-State-University.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/SC-State-University.png",
+   "alt": "SC State University plate",
+   "verdict": "pending:SC-sc-state-university"
+  },
   "/sites/scdmv/files/media/Images/Plates/SC-Troopers-Association.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/SC-Troopers-Association.png",
    "alt": "Troopers Association",
@@ -763,15 +888,95 @@
    "alt": "Zeta Phi Beta",
    "verdict": "plate:back-the-badge"
   },
+  "/sites/scdmv/files/media/Images/Plates/SCProtectWildDolphinsAlliance.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/SCProtectWildDolphinsAlliance.png",
+   "alt": "",
+   "verdict": "pending:SC-protect-wild-dolphins-alliance"
+  },
+  "/sites/scdmv/files/media/Images/Plates/SCSheriffsAssociation.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/SCSheriffsAssociation.png",
+   "alt": "sheriffs association plate",
+   "verdict": "pending:SC-sheriffs-association"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Shag.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Shag.png",
+   "alt": "Shag plate",
+   "verdict": "pending:SC-shag"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Share-the-Road.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Share-the-Road.png",
+   "alt": "Share the Road",
+   "verdict": "pending:SC-share-the-road"
+  },
   "/sites/scdmv/files/media/Images/Plates/Sherman-College-of-Chiropractic.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Sherman-College-of-Chiropractic.png",
    "alt": "Sherman College",
    "verdict": "plate:back-the-badge"
   },
+  "/sites/scdmv/files/media/Images/Plates/Shriners.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Shriners.png",
+   "alt": "Shriners plate",
+   "verdict": "pending:SC-shriners"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Sigma-Gamma-Rho-Sorority.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Sigma-Gamma-Rho-Sorority.png",
+   "alt": "Sigma Gamma Rho",
+   "verdict": "pending:SC-sigma-gamma-rho"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Silver-Star.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Silver-Star.png",
+   "alt": "Silver Star",
+   "verdict": "pending:SC-silver-star"
+  },
   "/sites/scdmv/files/media/Images/Plates/Sons-of-Confederate-Veterans.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Sons-of-Confederate-Veterans.png",
    "alt": "Sons of Confederate Veteran",
    "verdict": "plate:association-for-pupil-transportation"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Southern-Wesleyan.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Southern-Wesleyan.png",
+   "alt": "Southern Wesleyan plate",
+   "verdict": "pending:SC-southern-wesleyan"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Spartanburg-Community-College.jpg": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Spartanburg-Community-College.jpg",
+   "alt": "Spartanburg Community College",
+   "verdict": "pending:SC-spartanburg-community-college"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Special-Olympics.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Special-Olympics.png",
+   "alt": "Special Olympics plate",
+   "verdict": "pending:SC-olympics"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Square-Dance.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Square-Dance.png",
+   "alt": "Square Dance plate",
+   "verdict": "pending:SC-square-dance"
+  },
+  "/sites/scdmv/files/media/Images/Plates/St-Jude-Plate.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/St-Jude-Plate.png",
+   "alt": "St. Jude License Plate",
+   "verdict": "pending:SC-st-jude"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Support-Our-Troops.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Support-Our-Troops.png",
+   "alt": "Support our troops plate",
+   "verdict": "pending:SC-support-our-troops"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Surfrider-Foundation.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Surfrider-Foundation.png",
+   "alt": "Surfrider",
+   "verdict": "pending:SC-surfrider"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Technology-Alliance.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Technology-Alliance.png",
+   "alt": "Technology Alliance plate",
+   "verdict": "pending:SC-technology-alliance"
+  },
+  "/sites/scdmv/files/media/Images/Plates/The-Citadel.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/The-Citadel.png",
+   "alt": "Citadel plate",
+   "verdict": "pending:SC-citadel"
   },
   "/sites/scdmv/files/media/Images/Plates/The-Ohio-State-University.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/The-Ohio-State-University.png",

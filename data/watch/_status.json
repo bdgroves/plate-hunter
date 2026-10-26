@@ -101,7 +101,7 @@
   "url": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/SpecialPlatesViewer.aspx",
   "ok": true,
   "pictures": 10,
-  "plates": 0,
+  "plates": 1,
   "added": [],
   "checked": "2026-10-26"
  },
@@ -287,7 +287,7 @@
   "url": "https://www.scdmvonline.com/Vehicle-Owners/Registration/Plate-Gallery",
   "ok": true,
   "pictures": 236,
-  "plates": 100,
+  "plates": 128,
   "added": [],
   "checked": "2026-10-26"
  },
