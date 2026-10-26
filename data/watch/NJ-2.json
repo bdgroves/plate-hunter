@@ -1,6 +1,7 @@
 {
  "code": "NJ-2",
  "url": "https://www.state.nj.us/mvc/vehicles/community.htm",
+ "complete": true,
  "pictures": {
   "/mvc/images/Childrens_First_Foundation.gif": {
    "src": "https://www.state.nj.us/mvc/images/Childrens_First_Foundation.gif",

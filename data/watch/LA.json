@@ -1,47 +1,58 @@
 {
  "code": "LA",
  "url": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/SpecialPlatesViewer.aspx",
- "checked": "2026-10-26",
+ "complete": true,
  "pictures": {
+  "/SpecialPlatesPublic/loadPlateImageAdmin.ashx": {
+   "src": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/loadPlateImageAdmin.ashx?id=71",
+   "alt": "Plate image",
+   "verdict": "pending:LA-phi-beta-sigma-zeta-phi-beta"
+  },
   "/images/dept_title.jpg": {
    "src": "https://expresslane.dps.louisiana.gov/images/dept_title.jpg",
-   "alt": "Public Safety and Corrections"
+   "alt": "Public Safety and Corrections",
+   "verdict": "not-a-plate"
   },
   "/images/home_main_spacer.jpg": {
    "src": "https://expresslane.dps.louisiana.gov/images/home_main_spacer.jpg",
-   "alt": ""
+   "alt": "",
+   "verdict": "not-a-plate"
   },
   "/images/line.gif": {
    "src": "https://expresslane.dps.louisiana.gov/images/line.gif",
-   "alt": ""
+   "alt": "",
+   "verdict": "not-a-plate"
   },
   "/images/omv_home_main.jpg": {
    "src": "https://expresslane.dps.louisiana.gov/images/omv_home_main.jpg",
-   "alt": ""
+   "alt": "",
+   "verdict": "not-a-plate"
   },
   "/images/omv_minus.jpg": {
    "src": "https://expresslane.dps.louisiana.gov/images/omv_minus.jpg",
-   "alt": ""
+   "alt": "",
+   "verdict": "not-a-plate"
   },
   "/images/omv_plus.jpg": {
    "src": "https://expresslane.dps.louisiana.gov/images/omv_plus.jpg",
-   "alt": ""
+   "alt": "",
+   "verdict": "not-a-plate"
   },
   "/images/omv_title.jpg": {
    "src": "https://expresslane.dps.louisiana.gov/images/omv_title.jpg",
-   "alt": ""
+   "alt": "",
+   "verdict": "pending:LA-home"
   },
   "/images/search.gif": {
    "src": "https://expresslane.dps.louisiana.gov/images/search.gif",
-   "alt": "Search"
+   "alt": "Search",
+   "verdict": "not-a-plate"
   },
   "/images/spacer.gif": {
    "src": "https://expresslane.dps.louisiana.gov/images/spacer.gif",
-   "alt": ""
-  },
-  "/specialplatespublic/loadplateimageadmin.ashx": {
-   "src": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/loadPlateImageAdmin.ashx?id=71",
-   "alt": "Plate image"
+   "alt": "",
+   "verdict": "not-a-plate"
   }
- }
+ },
+ "checked": "2026-10-26"
 }

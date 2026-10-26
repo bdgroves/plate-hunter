@@ -1,6 +1,7 @@
 {
  "code": "CT",
  "url": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US",
+ "complete": true,
  "pictures": {
   "/dmv/-/media/dmv/images/amistad.gif": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/amistad.gif?sc_lang=en&rev=b931267dd9a140a2896e3d729e950a90&hash=BB18520C8295B7AD700950F1D808576C",

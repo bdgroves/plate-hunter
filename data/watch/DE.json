@@ -1,6 +1,7 @@
 {
  "code": "DE",
  "url": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all",
+ "complete": true,
  "pictures": {
   "/CLF4/agency/img/chatbotTopImage.png": {
    "src": "https://www.dmv.de.gov/CLF4/agency/img/chatbotTopImage.png",

@@ -1,6 +1,7 @@
 {
  "code": "NJ",
  "url": "https://www.state.nj.us/mvc/vehicles/serviceorg.htm",
+ "complete": true,
  "pictures": {
   "/mvc/images/Air_Force_Retired.gif": {
    "src": "https://www.state.nj.us/mvc/images/Air_Force_Retired.gif",

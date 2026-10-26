@@ -1,6 +1,7 @@
 {
  "code": "NV-main",
  "url": "https://dmv.nv.gov/platesmain.htm",
+ "complete": true,
  "pictures": {
   "/images/platesmain/agriculture.jpg": {
    "src": "https://dmv.nv.gov/images/platesmain/agriculture.jpg",

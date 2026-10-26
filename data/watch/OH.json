@@ -1,6 +1,7 @@
 {
  "code": "OH",
  "url": "https://www.bmv.ohio.gov/vr-sp-geninfo.aspx",
+ "complete": true,
  "pictures": {
   "/img/special_plates/disabilityplacards.gif": {
    "src": "https://bmv.ohio.gov/img/special_plates/disabilityplacards.gif",

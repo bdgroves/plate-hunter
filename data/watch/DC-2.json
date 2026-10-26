@@ -1,6 +1,7 @@
 {
  "code": "DC-2",
  "url": "https://dmv.dc.gov/service/specialty-vehicle-tags",
+ "complete": true,
  "pictures": {
   "/sites/default/files/dc/shared_assets/BOW13_final.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/shared_assets/BOW13_final.jpg",

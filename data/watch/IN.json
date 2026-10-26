@@ -1,6 +1,7 @@
 {
  "code": "IN",
  "url": "https://www.in.gov/bmv/registration-plates/license-plates-overview/license-plate-designs/",
+ "complete": true,
  "pictures": {
   "/bmv/images/plate-placeholder.jpg": {
    "src": "https://www.in.gov/bmv/images/plate-placeholder.jpg",

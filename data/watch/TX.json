@@ -1,6 +1,7 @@
 {
  "code": "TX",
  "url": "https://www.myplates.com/",
+ "complete": true,
  "pictures": {
   "/images/EmbossedHomePageAd.jpg": {
    "src": "https://www.myplates.com/images/EmbossedHomePageAd.jpg",
