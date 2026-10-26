@@ -38,7 +38,7 @@ def handed_in(code: str, pid: str) -> Path | None:
     return hits[0] if hits else None
 
 
-def grab(url: str, dest: Path, width: int, local: Path | None = None) -> bool:
+def grab(url: str, dest: Path, width: int, local: Path | None = None, crop: list | None = None) -> bool:
     host = urllib.parse.urlsplit(url).hostname or ""
     if not local and (time.monotonic() > DEADLINE or failed_hosts.get(host, 0) >= 3):
         return False   # out of time, or a site that keeps refusing: try again next run
@@ -49,6 +49,8 @@ def grab(url: str, dest: Path, width: int, local: Path | None = None) -> bool:
             with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=30) as r:
                 raw = r.read(8_000_000)
         im = Image.open(io.BytesIO(raw))
+        if crop:   # "img_crop": [x0, y0, x1, y1] in the original's pixels, for a press photo with room around the plate
+            im = im.crop(tuple(crop))
         if not 1.3 <= im.width / max(im.height, 1) <= 3.2:   # artwork or a flyer, not a plate
             print(f"  {url}: not plate-shaped ({im.width}x{im.height}); left for a person", file=sys.stderr)
             return False
@@ -74,9 +76,10 @@ def main() -> int:
             # a redesign gets a new file name, so phones that saved the old picture fetch the new one
             name = f"{p['id']}-{p['redesigned']}.webp" if p.get("img") and p.get("redesigned") else f"{p['id']}.webp"
             local = handed_in(c["code"], p["id"]) if p.get("img_url") else None
-            if p.get("img_url") and grab(p["img_url"], ROOT / "plates" / c["code"] / name, 480, local):
+            if p.get("img_url") and grab(p["img_url"], ROOT / "plates" / c["code"] / name, 480, local, p.get("img_crop")):
                 p["img"] = name
                 del p["img_url"]
+                p.pop("img_crop", None)
                 changed = True
                 got += 1
                 print(f"{c['code']}: {p['name']}", flush=True)
@@ -88,9 +91,10 @@ def main() -> int:
         changed = False
         for s in states:
             local = handed_in("standard", s["code"]) if s.get("img_url") else None
-            if s.get("img_url") and grab(s["img_url"], ROOT / "plates/standard" / f"{s['code']}.webp", 400, local):
+            if s.get("img_url") and grab(s["img_url"], ROOT / "plates/standard" / f"{s['code']}.webp", 400, local, s.get("img_crop")):
                 s["img"] = f"plates/standard/{s['code']}.webp"
                 del s["img_url"]
+                s.pop("img_crop", None)
                 changed = True
                 got += 1
                 print(f"standard plate: {s['name']}", flush=True)
