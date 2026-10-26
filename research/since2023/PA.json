@@ -1,0 +1,466 @@
+{
+ "state": "PA",
+ "checked": [
+  "https://www.pa.gov/agencies/dmv/resources/business-partners/driver-and-vehicle-services-bulletin.html",
+  "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin%2024-11%20new%20special%20organization%20registration%20plates.pdf",
+  "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin%2024-12%20new%20special%20organization%20registration%20plate%20-%20angel%20flight%20east.pdf",
+  "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin%2024-20%20new%20special%20organization%20registration%20plates.pdf",
+  "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin%2024-23%20new%20special%20organization%20registration%20plates%20-%20western%20berks%20fire%20department.pdf",
+  "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin-24-28-new-special-organization-registration-plates.pdf",
+  "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin-25-11.pdf",
+  "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin-25-20.pdf",
+  "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin-26-02.pdf",
+  "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin-26-05.pdf",
+  "https://dev-publish.pwpca.pa.gov/en/agencies/dmv/content-pages/special-fund-plates.html",
+  "https://pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
+  "https://www.pa.gov/services/dmv/partner-with-the-pa-special-organization-registration-plate-prog.html",
+  "https://nleomf.org/wp-content/uploads/2025/06/PA-License-Plate_Updated.pdf",
+  "https://cwad2-13.org/system/files/2026-07/pa-plate-application.pdf",
+  "https://papl8s.com/archives2023.html",
+  "https://papl8s.com/archives2024.html",
+  "https://papl8s.com/archives2025.html",
+  "https://papl8s.com/archives2026.html"
+ ],
+ "robot_url": null,
+ "new": [
+  {
+   "title": "Alpha Fire Company No. 1 Inc.",
+   "cat": "firstresponder",
+   "source_img": null,
+   "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin%2024-11%20new%20special%20organization%20registration%20plates.pdf",
+   "year": "2023",
+   "matches_existing": null,
+   "alt_img": "https://www.papl8s.com/uploads-2023/Alpha%20Fire%20Company%20No%201%20Inc%20proto.jpg"
+  },
+  {
+   "title": "New Kingstown Fire Company",
+   "cat": "firstresponder",
+   "source_img": null,
+   "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin%2024-11%20new%20special%20organization%20registration%20plates.pdf",
+   "year": "2023",
+   "matches_existing": null,
+   "alt_img": "https://papl8s.com/uploads-2026/NK00002_Nick_Tsilakis.jpg"
+  },
+  {
+   "title": "Southampton Fire Company No. 1",
+   "cat": "firstresponder",
+   "source_img": null,
+   "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin%2024-11%20new%20special%20organization%20registration%20plates.pdf",
+   "year": "2023",
+   "matches_existing": null,
+   "alt_img": "https://www.papl8s.com/uploads-2023/Southampton%20Fire%20Company%20No%201_proto.jpg"
+  },
+  {
+   "title": "The Colebrookdale Railroad",
+   "cat": "hobby",
+   "source_img": null,
+   "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin%2024-11%20new%20special%20organization%20registration%20plates.pdf",
+   "year": "2023",
+   "matches_existing": null,
+   "alt_img": "https://www.papl8s.com/uploads-2023/The%20Colebrookdale%20Railroad%20proto.jpg"
+  },
+  {
+   "title": "The Edward Francis Cancer Foundation",
+   "cat": "charity",
+   "source_img": null,
+   "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin%2024-11%20new%20special%20organization%20registration%20plates.pdf",
+   "year": "2023",
+   "matches_existing": null,
+   "alt_img": "https://www.papl8s.com/uploads-2023/Edward%20Francis%20Cancer%20Foundation%20proto.jpg"
+  },
+  {
+   "title": "The Video Game Clubs of America",
+   "cat": "hobby",
+   "source_img": null,
+   "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin%2024-11%20new%20special%20organization%20registration%20plates.pdf",
+   "year": "2023",
+   "matches_existing": null,
+   "alt_img": "https://www.papl8s.com/uploads-2023/VG00004_john_clark.jpg"
+  },
+  {
+   "title": "Spay and Neuter Assistance Program, Inc. (Spay/Neuter Saves Lives)",
+   "cat": "charity",
+   "source_img": null,
+   "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin%2024-11%20new%20special%20organization%20registration%20plates.pdf",
+   "year": "2024",
+   "matches_existing": null,
+   "alt_img": "https://www.papl8s.com/uploads-2023/Spay_Neuter_Proto-2.jpg"
+  },
+  {
+   "title": "Alliance Fire and Rescue",
+   "cat": "firstresponder",
+   "source_img": null,
+   "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin%2024-11%20new%20special%20organization%20registration%20plates.pdf",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "Fairfield Hose Company",
+   "cat": "firstresponder",
+   "source_img": null,
+   "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin%2024-11%20new%20special%20organization%20registration%20plates.pdf",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "Stat MedEvac",
+   "cat": "firstresponder",
+   "source_img": null,
+   "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin%2024-11%20new%20special%20organization%20registration%20plates.pdf",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "Phi Beta Sigma Fraternity, Inc.",
+   "cat": "other",
+   "source_img": null,
+   "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin%2024-11%20new%20special%20organization%20registration%20plates.pdf",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "Down Syndrome Association of Pittsburgh",
+   "cat": "charity",
+   "source_img": null,
+   "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin%2024-11%20new%20special%20organization%20registration%20plates.pdf",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "LVHN MedEvac",
+   "cat": "firstresponder",
+   "source_img": null,
+   "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin%2024-11%20new%20special%20organization%20registration%20plates.pdf",
+   "year": "2024",
+   "matches_existing": null,
+   "alt_img": "https://www.papl8s.com/uploads-2024/LV20005-1_John_McDevitt.jpg"
+  },
+  {
+   "title": "Elle's Angels Foundation",
+   "cat": "charity",
+   "source_img": null,
+   "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin%2024-11%20new%20special%20organization%20registration%20plates.pdf",
+   "year": "2024",
+   "matches_existing": null,
+   "alt_img": "https://www.papl8s.com/uploads-2024/10003EA_John_Clark.jpg"
+  },
+  {
+   "title": "Angel Flight East",
+   "cat": "charity",
+   "source_img": null,
+   "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin%2024-12%20new%20special%20organization%20registration%20plate%20-%20angel%20flight%20east.pdf",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "NicNac Charities",
+   "cat": "charity",
+   "source_img": null,
+   "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin%2024-20%20new%20special%20organization%20registration%20plates.pdf",
+   "year": "2024",
+   "matches_existing": null,
+   "alt_img": "https://www.papl8s.com/uploads-2024/NicNac_Charities_Prototype.jpg"
+  },
+  {
+   "title": "American Fire Company #1",
+   "cat": "firstresponder",
+   "source_img": null,
+   "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin%2024-20%20new%20special%20organization%20registration%20plates.pdf",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "NAWCC, Inc.",
+   "cat": "hobby",
+   "source_img": null,
+   "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin%2024-20%20new%20special%20organization%20registration%20plates.pdf",
+   "year": "2024",
+   "matches_existing": null,
+   "alt_img": "https://papl8s.com/uploads-2024/NAWCC_proto.jpg"
+  },
+  {
+   "title": "Western Berks Fire Department",
+   "cat": "firstresponder",
+   "source_img": null,
+   "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin%2024-23%20new%20special%20organization%20registration%20plates%20-%20western%20berks%20fire%20department.pdf",
+   "year": "2024",
+   "matches_existing": null,
+   "alt_img": "https://www.papl8s.com/uploads-2024/Western_Berks_Fire_Department_proto.jpg"
+  },
+  {
+   "title": "A Haven",
+   "cat": "charity",
+   "source_img": null,
+   "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin-24-28-new-special-organization-registration-plates.pdf",
+   "year": "2025",
+   "matches_existing": null,
+   "alt_img": "https://papl8s.com/uploads-2024/A-Haven_prototype.jpg"
+  },
+  {
+   "title": "Swarthmore Fire & Rescue",
+   "cat": "firstresponder",
+   "source_img": null,
+   "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin-24-28-new-special-organization-registration-plates.pdf",
+   "year": "2025",
+   "matches_existing": null,
+   "alt_img": "https://papl8s.com/uploads-2024/Swarthmore_Fire_Protective_Assn.jpg"
+  },
+  {
+   "title": "Edinboro Volunteer Fire Department",
+   "cat": "firstresponder",
+   "source_img": null,
+   "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin-24-28-new-special-organization-registration-plates.pdf",
+   "year": "2025",
+   "matches_existing": null,
+   "alt_img": "https://papl8s.com/uploads-2024/Edinboro-Vol-Fire-Dept-prototype.jpg"
+  },
+  {
+   "title": "Lily's Hope",
+   "cat": "charity",
+   "source_img": null,
+   "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin-24-28-new-special-organization-registration-plates.pdf",
+   "year": "2025",
+   "matches_existing": null,
+   "alt_img": "https://papl8s.com/uploads-2024/Lilys-Hope-Foundation_prototype.jpg"
+  },
+  {
+   "title": "Thaddeus Stevens",
+   "cat": "colleges",
+   "source_img": null,
+   "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin-24-28-new-special-organization-registration-plates.pdf",
+   "year": "2025",
+   "matches_existing": null,
+   "alt_img": "https://www.papl8s.com/uploads-2024/Thaddeus_Stevens_College_prototype.jpg"
+  },
+  {
+   "title": "Po-Mar-Lin Fire Company",
+   "cat": "firstresponder",
+   "source_img": null,
+   "source": "https://papl8s.com/archives2024.html",
+   "year": "2025",
+   "matches_existing": null,
+   "alt_img": "https://papl8s.com/uploads-2024/Po-Mar-Lin_prototype.jpg"
+  },
+  {
+   "title": "PA Sportsman",
+   "cat": "nature",
+   "source_img": null,
+   "source": "https://papl8s.com/archives2024.html",
+   "year": "2024",
+   "matches_existing": null,
+   "alt_img": "https://www.papl8s.com/uploads-2024/PA_SPORTSMAN.jpg"
+  },
+  {
+   "title": "Global War on Terrorism Expeditionary Medal",
+   "cat": "military",
+   "source_img": null,
+   "source": "https://papl8s.com/archives2024.html",
+   "year": "2025",
+   "matches_existing": null,
+   "alt_img": "https://www.papl8s.com/uploads-2024/GWOT_proto.jpg"
+  },
+  {
+   "title": "Woman Veteran",
+   "cat": "veterans",
+   "source_img": null,
+   "source": "https://papl8s.com/archives2024.html",
+   "year": null,
+   "matches_existing": null,
+   "alt_img": "https://www.papl8s.com/uploads-2024/Woman_Veteran_proto.jpg"
+  },
+  {
+   "title": "Operation Inherent Resolve",
+   "cat": "veterans",
+   "source_img": null,
+   "source": "https://papl8s.com/archives2024.html",
+   "year": null,
+   "matches_existing": null,
+   "alt_img": "https://www.papl8s.com/uploads-2024/Operation_Inherent_Resolve_proto.jpg"
+  },
+  {
+   "title": "National Law Enforcement Officers Memorial Fund",
+   "cat": "firstresponder",
+   "source_img": null,
+   "source": "https://nleomf.org/wp-content/uploads/2025/06/PA-License-Plate_Updated.pdf",
+   "year": "2025",
+   "matches_existing": null
+  },
+  {
+   "title": "Milton Hershey School Alumni Association",
+   "cat": "other",
+   "source_img": null,
+   "source": "https://papl8s.com/archives2025.html",
+   "year": "2025",
+   "matches_existing": null
+  },
+  {
+   "title": "TIM Heroes, Inc.",
+   "cat": "charity",
+   "source_img": null,
+   "source": "https://papl8s.com/archives2025.html",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Eagles Autism Foundation",
+   "cat": "sports",
+   "source_img": null,
+   "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin-25-20.pdf",
+   "year": "2026",
+   "matches_existing": null
+  },
+  {
+   "title": "Fairmount Rowing Association",
+   "cat": "sports",
+   "source_img": null,
+   "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin-26-02.pdf",
+   "year": "2026",
+   "matches_existing": null,
+   "alt_img": "https://papl8s.com/uploads-2026/FR001_Tim_Brown.jpg"
+  },
+  {
+   "title": "dlivrd Difference",
+   "cat": "charity",
+   "source_img": null,
+   "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin-26-05.pdf",
+   "year": "2026",
+   "matches_existing": null
+  },
+  {
+   "title": "Middletown Vol. Fire Dept.",
+   "cat": "firstresponder",
+   "source_img": null,
+   "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin-26-05.pdf",
+   "year": "2026",
+   "matches_existing": null,
+   "alt_img": "https://papl8s.com/uploads-2026/MV00011_Fred_Gardner.jpg"
+  },
+  {
+   "title": "Friends of Washington Crossing Park",
+   "cat": "nature",
+   "source_img": null,
+   "source": "https://papl8s.com/archives2026.html",
+   "year": "2026",
+   "matches_existing": null,
+   "alt_img": "https://papl8s.com/uploads-2026/Friends_of_Washington_Crossing_Park.jpg"
+  },
+  {
+   "title": "Communications Workers of America",
+   "cat": "other",
+   "source_img": null,
+   "source": "https://papl8s.com/archives2026.html",
+   "year": "2026",
+   "matches_existing": null,
+   "alt_img": "https://papl8s.com/uploads-2026/communications-workers-of-america.jpg"
+  },
+  {
+   "title": "American Legion Auxiliary",
+   "cat": "veterans",
+   "source_img": null,
+   "source": "https://papl8s.com/archives2026.html",
+   "year": "2026",
+   "matches_existing": null,
+   "alt_img": "https://papl8s.com/uploads-2026/american-legion-auxiliary.jpg"
+  },
+  {
+   "title": "Acorn Acres Wildlife Rehab",
+   "cat": "nature",
+   "source_img": null,
+   "source": "https://papl8s.com/archives2026.html",
+   "year": "2026",
+   "matches_existing": null,
+   "alt_img": "https://papl8s.com/uploads-2026/acorn-acres-wildlife-rehab-LFR.jpg"
+  },
+  {
+   "title": "Narberth Ambulance",
+   "cat": "firstresponder",
+   "source_img": null,
+   "source": "https://papl8s.com/archives2026.html",
+   "year": "2026",
+   "matches_existing": null,
+   "alt_img": "https://papl8s.com/uploads-2026/Narberth-ambulance-LFR.jpg"
+  }
+ ],
+ "redesigned": [
+  {
+   "name_in_game": "Moravian College",
+   "source_img": null,
+   "alt_img": "https://www.papl8s.com/uploads-2024/MO01774_John_Clark.jpg",
+   "note": "Renamed Moravian University with revised star logo, Bulletin 24-13 (May 2024)",
+   "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin%2024-13%20redesign%20special%20organization%20registration%20plate%20-%20moravian%20university.pdf"
+  },
+  {
+   "name_in_game": "Philadelphia Museum of Art",
+   "source_img": null,
+   "alt_img": "https://www.papl8s.com/uploads-2024/Philadelphia%20Museum%20of%20Art%20Plate_proto.jpg",
+   "note": "New logo 2024; rebranded 'Philadelphia Art Museum' 2025 per papl8s",
+   "source": "https://papl8s.com/archives2024.html"
+  },
+  {
+   "name_in_game": "Pittsburgh Vintage Grand Prix",
+   "source_img": null,
+   "alt_img": "https://www.papl8s.com/uploads-2024/Pittsburgh_Vintage_Grand_Prix_2024_proto.jpg",
+   "note": "New logo, Bulletin 24-20 (Sept 2024)",
+   "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin%2024-20%20new%20special%20organization%20registration%20plates.pdf"
+  },
+  {
+   "name_in_game": "Geneva College",
+   "source_img": null,
+   "alt_img": "https://www.papl8s.com/uploads-2024/Geneva_College_2024_proto.jpg",
+   "note": "New logo, Bulletin 24-20 (Sept 2024)",
+   "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin%2024-20%20new%20special%20organization%20registration%20plates.pdf"
+  },
+  {
+   "name_in_game": "American Hose Company No. 1",
+   "source_img": null,
+   "alt_img": "https://www.papl8s.com/uploads-2023/American%20Hose%20Company%20No.%201%20proto.jpg",
+   "note": "Listed in Bulletin 24-11 as new/redesigned (added to PennDOT list July 2023); game already has it, so likely same plate",
+   "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin%2024-11%20new%20special%20organization%20registration%20plates.pdf"
+  },
+  {
+   "name_in_game": "Lancaster Bible College",
+   "source_img": null,
+   "note": "Redesigned, Bulletin 25-20 (Dec 2025)",
+   "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin-25-20.pdf"
+  },
+  {
+   "name_in_game": "Presque Isle Partnership",
+   "source_img": null,
+   "alt_img": "https://papl8s.com/uploads-2026/01297PI_John_Clark.jpg",
+   "note": "Revamped logo, Bulletin 26-02 (Feb 2026)",
+   "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin-26-02.pdf"
+  },
+  {
+   "name_in_game": "Pennsylvania Society of Physician...",
+   "source_img": null,
+   "note": "Redesigned (Pennsylvania Society of Physician Associates), Bulletin 26-05 (Apr 2026)",
+   "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin-26-05.pdf"
+  },
+  {
+   "name_in_game": "Masonic Blue Lodge",
+   "source_img": null,
+   "note": "Bulletin 26-05 (Apr 2026) lists a redesigned 'Pennsylvania Masons' plate; match to this game entry is a guess",
+   "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin-26-05.pdf"
+  },
+  {
+   "name_in_game": "Preserve Our Heritage",
+   "source_img": null,
+   "alt_img": "https://papl8s.com/uploads-2026/preserve-our-heritage-bank-barn.jpg",
+   "note": "Railroad graphic replaced by bank-barn graphic, 2026",
+   "source": "https://papl8s.com/archives2026.html"
+  }
+ ],
+ "retired": [
+  {
+   "name_in_game": "Wild Life Resource - River otter",
+   "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin%2024-16%20discontinuing%20pa%20wild%20resource%20conservation%20fund%20otter%20registration%20plate.pdf",
+   "note": "Discontinued July 2024 (Bulletin 24-16); replaced by Hellbender design"
+  },
+  {
+   "name_in_game": "Philadelphia University",
+   "source": "https://papl8s.com/archives2026.html",
+   "note": "No longer issued after 2017 merger with Thomas Jefferson Univ. (hobbyist source)"
+  }
+ ],
+ "notes": "PARTIAL: bulletins 26-12 and 26-14 (2026 special org plates) were blocked from fetching; the six May-June 2026 plates come from the hobbyist site papl8s.com and are probably what those bulletins announce. PennDOT's plate catalog is a JS filter with no plain images, so source_img is null throughout; 'alt_img' holds papl8s.com prototype/photo URLs (hobbyist, not agency) for the caller to judge. Since mid-2025 every PA plate is moving to the new 'Let Freedom Ring' base (Bulletin 25-11), so all organization plates are technically redesigned. Woman Veteran, Operation Inherent Resolve and TIM Heroes are authorized/announced but issuance is not confirmed. Bulletin 26-05 also redesigned Ursinus, Wilkes, United Brotherhood of Carpenters and National Wild Turkey Federation, none of which are in the game."
+}

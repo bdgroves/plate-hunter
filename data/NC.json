@@ -4,7 +4,7 @@
  "rated": false,
  "checked": false,
  "updated": "2026-10-25",
- "about": "North Carolina special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "about": "North Carolina special-design plates. Not rated yet: every plate is worth the same. Partly checked for plates added since 2023.",
  "sources": [
   {
    "title": "Jon Keegan, us-license-plates (2023)",
@@ -1235,6 +1235,17 @@
    "name": "Zeta Phi Beta Sorority",
    "cat": "other",
    "img": "zeta-phi-beta-sorority.webp"
+  },
+  {
+   "id": "home-of-the-venus-flytrap",
+   "name": "Home of the Venus Flytrap",
+   "cat": "nature",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://ncbg.unc.edu/?p=5665",
+   "img_url": "https://ncbg.unc.edu/wp-content/uploads/sites/963/2024/09/VenusFlytrap_LicensePlatergb-1024x515.jpg",
+   "year": "2024"
   }
- ]
+ ],
+ "checked_on": "2026-10-26"
 }
