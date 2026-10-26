@@ -20,5 +20,19 @@
       } catch (e) { console.warn('couldn\'t get', p.name, e); }
     }
   }
+  // everyday plates waiting for a picture, saved as standard--CODE.ext
+  for (const list of ['data/states.json', 'data/provinces.json']) {
+    for (const s of await (await fetch(raw + list)).json()) {
+      if (!s.img_url || new URL(s.img_url).hostname !== location.hostname) continue;
+      try {
+        const blob = await (await fetch(s.img_url)).blob();
+        const ext = (new URL(s.img_url).pathname.match(/\.(gif|png|jpe?g|webp)$/i) || ['.img'])[0];
+        const a = Object.assign(document.createElement('a'),
+          { href: URL.createObjectURL(blob), download: `standard--${s.code}${ext}` });
+        document.body.append(a); a.click(); a.remove();
+        n++; await new Promise(r => setTimeout(r, 300));
+      } catch (e) { console.warn('couldn\'t get', s.name, e); }
+    }
+  }
   console.log(`${n} picture(s) downloaded. Upload them at https://github.com/bdgroves/plate-hunter/upload/main/incoming`);
 })();

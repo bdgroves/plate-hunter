@@ -99,9 +99,15 @@ def main() -> int:
     # handed-in pictures are used once; whatever wasn't used (wrong shape, no such plate) stays for a person
     for f in [*(ROOT / "incoming").glob("*/*"), *(ROOT / "incoming").glob("*--*.*")]:
         code, pid = f.stem.split("--", 1) if "--" in f.stem else (f.parent.name, f.stem)
-        doc_file = ROOT / "data" / f"{code}.json"
-        if doc_file.exists() and any(p["id"] == pid and p.get("img") and not p.get("img_url")
-                                     for p in json.loads(doc_file.read_text())["plates"]):
+        if code == "standard":   # an everyday plate: incoming/standard--ON.png
+            used = any(s["code"] == pid and s.get("img") and not s.get("img_url")
+                       for sf in ("states.json", "provinces.json")
+                       for s in json.loads((ROOT / "data" / sf).read_text()))
+        else:
+            doc_file = ROOT / "data" / f"{code}.json"
+            used = doc_file.exists() and any(p["id"] == pid and p.get("img") and not p.get("img_url")
+                                             for p in json.loads(doc_file.read_text())["plates"])
+        if used:
             f.unlink()
     print(f"{got} picture(s) saved")
     return 0
