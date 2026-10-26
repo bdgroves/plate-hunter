@@ -1,51 +1,43 @@
 # 🔍 PLATE HUNTER
 
-### *Washington State · Road Trip Edition*
+### *The road-trip license plate game*
+
+**[▶ Play it → brooksgroves.com/plate-hunter](https://brooksgroves.com/plate-hunter/)** · [The story behind it](https://brooksgroves.com/blog/plate-hunter-post.html)
 
 > "The least popular special-design plate last year was the square dancer design, on only five vehicles, despite being one of the least expensive." — Seattle Times, April 20, 2026
 
----
+Two games in one page:
 
-Washington has 72 specialty license plates — and most people have never noticed most of them. There's a plate for pickleball. A plate for honeybees. A plate for the Muckleshoot Tribe. A plate that's only legal on cars built before 1916. And somewhere on the roads of the Evergreen State, five vehicles are rolling around with a square dancer on the back bumper, 300 points just waiting to be claimed.
+- **🗺 States**: the classic. Spot a plate from every state (and DC) on this trip. Tap a state on the map or in the list, and watch the country fill in yellow. Start a new trip when you set off again; the states you've *ever* seen are kept.
+- **✨ Specialty**: the deep cut. Washington has 72 special-design plates, from pickleball to the Muckleshoot Tribe to a plate only for cars built before 1916. Tap one when you spot it. The rarer it is on real roads, the more it's worth. Oregon, Idaho, California and Nevada are here too.
 
-**PLATE HUNTER** is a road trip game built around that premise. You see a plate in real life, you tap it in the app. It unlocks in full color. You earn points. The rarer the plate, the more it's worth — and the rarity tiers are pulled directly from the Washington DOL's annual vehicle registration data. This isn't made up.
-
-In 2025, nearly **184,000 Washington vehicles** carried a special-design plate, generating **$5.8 million in fees**. Add personalized plates and the number climbs to **$9.8 million**. Washingtonians take their plates seriously. PLATE HUNTER takes them seriously too.
-
-No server. No login. No ads. Just a phone, an open road, and 72 plates to find.
-
-**[▶ Play it now → bdgroves.github.io/plate-hunter](https://bdgroves.github.io/plate-hunter)**
+No server. No login. No ads. It installs to a phone's home screen and works with no signal.
 
 ---
 
-## How It Works
+## How it works
 
-Open the app on your phone before you get in the car. Browse the grid — 72 plates, all grayed out, all waiting. When you spot one in real life, tap it. It flips to full color, confetti fires, your point total climbs. Finds persist in localStorage so your collection survives across sessions. Filter by category — military, nature, sports, tribal, colleges — or flip to **✅ Found** to review your haul.
+- **Tap to find.** A tap marks a plate or state found, with confetti. Tapping something you've already found opens its card instead, so a bump in the car can't erase a find. Every find has **Undo** for a few seconds.
+- **Saved on the phone.** Progress lives in the browser (localStorage). The **?** sheet can save a backup file and restore it on another device.
+- **Offline.** A service worker keeps the app, the plate lists and the map. In a specialty collection, **Save for offline** downloads every plate picture before you lose signal.
+- **Install it.** "Add to Home Screen" on iPhone or Android and it opens like an app.
 
-That's it. No account required.
+## The rarity system (Washington)
 
----
+Points come from **Washington DOL 2025 registration figures**, as reported by Gene Balk (FYI Guy) in the Seattle Times on April 20, 2026.
 
-## The Rarity System
-
-Point values are grounded in real data from the **Washington DOL 2025 registration figures**, as reported by the Seattle Times. Every number below is an actual vehicle count from actual Washington roads.
-
-| Tier | Vehicles on WA Roads | Points |
+| Tier | Vehicles on WA roads | Points |
 |---|---|---|
-| 🟦 Common | 8,000+ | 10 pts |
-| 🟩 Uncommon | 3,000 – 8,000 | 25 pts |
-| 🟧 Rare | 500 – 3,000 | 50 pts |
-| 🟨 **Legendary** | Under 500 | 150 – 300 pts |
+| 🟦 Common | 8,000+ | 10 |
+| 🟩 Uncommon | 3,000 – 8,000 | 25 |
+| 🟧 Rare | 500 – 3,000 | 50 |
+| 🟨 **Legendary** | Under 500 | 150 – 300 |
 
-### By the Numbers — 2025 DOL Data
-
-The top of the leaderboard isn't surprising. The bottom is where it gets interesting.
-
-| Rank | Plate | Vehicles | Annual Fees |
+| Rank | Plate | Vehicles | Annual fees |
 |---|---|---|---|
-| 🥇 1 | WSU Cougars | 24,100 | $734,000 |
-| 🥈 2 | Collector Vehicle | 20,300 | $710,400 |
-| 🥉 3 | Washington National Parks | 12,700 | $404,000 |
+| 1 | WSU Cougars | 24,100 | $734,000 |
+| 2 | Collector Vehicle | 20,300 | $710,400 |
+| 3 | Washington National Parks | 12,700 | $404,000 |
 | 4 | Law Enforcement Memorial | 11,300 | $351,100 |
 | 5 | Seattle Seahawks | 11,100 | $336,000 |
 | 6 | University of Washington | 10,300 | $313,000 |
@@ -53,118 +45,78 @@ The top of the leaderboard isn't surprising. The bottom is where it gets interes
 | — | Seattle Mariners | 1,100 | $35,300 |
 | — | Seattle University | ~200 | $6,600 |
 | — | Horseless Carriage | ~140 | — |
-| 💀 Last | **Square Dancer** | **5** | — |
+| Last | **Square Dancer** | **5** | — |
 
-### Legendary Tier — The White Whales
-
-Spotting any one of these on a road trip is genuinely remarkable.
-
-| Plate | Why It's Legendary | Points |
-|---|---|---|
-| 🕺 **Square Dancer** | 5 registered statewide. *Five.* | 300 |
-| 🏎 **Horseless Carriage** | ~140 statewide. Pre-1916 vehicles only — operational antiques | 300 |
-| 🏅 **Medal of Honor** | Eligibility requires the nation's highest military honor | 300 |
-| 🤡 **J.P. Patches Pal** | Seattle's beloved TV clown. The nostalgia is real but the plates are scarce | 200 |
-| 🕊 **Former Prisoner of War** | Restricted to verified POW/MIA families | 200 |
-| 🦅 **Chehalis / Muckleshoot / Puyallup Tribal** | Issued to enrolled tribal members only | 200 |
-| 🎾 **Tennis** | Nobody buys these | 150 |
-| 🤼 **Wrestling** | Somehow even fewer than tennis | 150 |
-| 📡 **Military Affiliate Radio (MARS)** | You have to know what MARS is to want this plate | 150 |
+Plates without a published count have an estimated tier. Other states' collections use the same tiers when real counts exist; otherwise they're marked *not rated yet* and every plate is worth 20.
 
 ---
 
-## The Plates (72 Total)
-
-**🎖 Military** — Air Force · Army · Coast Guard · Marine Corps · National Guard · Navy
-
-**🎗 Veterans** — Disabled American Veteran · Former POW · Gold Star Family · Medal of Honor · MARS · Purple Heart · 988 Prevent Veteran Suicide
-
-**🌲 Nature** — Orca · Honeybees & Pollinators · Lighthouses · San Juan Islands · State Flower · National Parks · State Parks · Wildlife Bear · Wildlife Deer · Wildlife Elk · Wildlife Steelhead · Wild on Washington Eagle · Keep WA Evergreen · Smokey Bear · Mount St. Helens
-
-**🏆 Sports** — Seahawks · Mariners · Kraken · Sounders · Storm · Ski and Ride · Pickleball · Tennis · Wrestling
-
-**🎓 Colleges** — WSU · UW · CWU · EWU · Evergreen State · Gonzaga · Seattle University · WWU
-
-**🚒 First Responders** — Law Enforcement Memorial · Professional Firefighter · Volunteer Firefighter
-
-**💙 Charity** — 4-H · Breast Cancer Awareness · FFA Foundation · Fred Hutchinson · Helping Kids Speak · J.P. Patches Pal · Keep Kids Safe · Washington Wine · We Love Our Pets
-
-**🎨 Hobby** — Amateur Radio · Fly Washington Aviation · Music Matters · Share the Road · Square Dancer · Throwback Blackout · LeMay Car Museum
-
-**🚗 Vehicle** — Collector · Horseless Carriage · Restored · Rideshare
-
-**🦅 Tribal** — Chehalis · Muckleshoot · Puyallup
-
----
-
-## Repo Structure
+## Repo layout
 
 ```
 plate-hunter/
-├── index.html            ← The entire app. Open this.
-├── README.md
-└── plates/
-    └── WA/               ← 72 Washington plate images
-        ├── seahawksPlate.png
-        ├── squaredancePlate.png
-        ├── NationalParksPlate.jpg
-        └── ... (72 total)
+├── index.html              the page
+├── app.js · app.css        the game
+├── sw.js                   offline support
+├── manifest.webmanifest    home-screen install
+├── data/
+│   ├── states.json         50 states + DC, with each one's everyday plate
+│   ├── us-map.json         state outlines (us-atlas, Albers USA)
+│   ├── collections.json    the specialty collections and how many plates each has
+│   ├── WA.json …           one file per state: every specialty plate
+│   ├── watch.json          the agency pages the weekly watcher checks
+│   └── watch/              what those pages showed last time
+├── plates/
+│   ├── WA/ OR/ …           specialty plate pictures (WebP, 480 px)
+│   └── standard/           one everyday plate per state
+├── research/               the curated source lists the tools build from
+└── tools/
+    ├── validate.py         checks every data file (runs on every push)
+    ├── add_state.py        builds a state's collection from a research list
+    ├── standard_plates.py  builds the States game's plate pictures
+    └── watch_plates.py     the weekly new-plate check
 ```
 
-No build step. No dependencies. No bundler. Open `index.html` in a browser and it runs.
+No build step and no dependencies for the app itself. To run it locally, serve the folder (the service worker and data files need http, not `file://`):
 
----
-
-## Running Locally
-
-```bash
+```powershell
 git clone https://github.com/bdgroves/plate-hunter
 cd plate-hunter
-open index.html   # macOS
-# or just drag index.html into any browser
+python -m http.server 8000
+# then open http://localhost:8000
 ```
 
-For GitHub Pages: **Settings → Pages → Deploy from branch `main` → `/ (root)`**
+## Keeping it current
 
-Live at: `bdgroves.github.io/plate-hunter`
+**New plates find you.** Every Monday, [`watch-plates.yml`](.github/workflows/watch-plates.yml) loads each agency's plate page listed in `data/watch.json` and compares the plate pictures with last week's. If any appeared or disappeared, it opens an issue labeled `new-plates` with links to them. People can also report one from the game (**?** → *Tell us on GitHub*).
 
----
+### Adding a plate
 
-## Roadmap
+1. Save the picture from the agency's page as WebP, about 480 px wide, in `plates/<STATE>/` (any image editor, or `python tools/add_state.py` for a whole state).
+2. Add an entry to `data/<STATE>.json`:
+   ```json
+   {"id": "orca-2", "name": "Orca (new design)", "cat": "nature", "rar": "rare", "pts": 50,
+    "img": "orca-2.webp", "year": "2026", "supports": "…", "vehicles": "New in 2026",
+    "fact": "One or two friendly sentences, every claim checked."}
+   ```
+3. Bump that state's `count` in `data/collections.json`.
+4. `python tools/validate.py`, then push. GitHub Pages publishes it; the app picks up new lists the next time it's opened with a signal.
 
-The Washington build is the foundation. Everything else stacks on top.
+Categories: military, veterans, nature, sports, colleges, firstresponder, charity, hobby, vehicle, tribal, other. Ids are lowercase with dashes and never change once published (finds are saved by id).
 
-- [ ] All 50 US states (using [jonkeegan/us-license-plates](https://github.com/jonkeegan/us-license-plates) as the image source)
-- [ ] Canadian provinces
-- [ ] Mexican states — bonus tier
-- [ ] React Native / Expo — iOS + Android
-- [ ] Family / multiplayer mode
-- [ ] Streak tracking and achievements
-- [ ] Smokey Bear plate (WA DOL — coming soon)
-- [ ] Mount St. Helens plate (WA DOL — pending redesign)
+### Adding a state
 
----
-
-## Tech Stack
-
-Vanilla HTML · CSS · JavaScript. localStorage for persistence. Zero frameworks, zero build tools, zero server. The whole app is one file and a folder of images. That's the point.
-
-The pipeline that keeps it current: when new WA plates are legislated, grab the image from the DOL, add one entry to the plates array in `index.html`, push to main. Done.
+1. Make `research/<STATE>.json`: the state's current plates, each with a title, category, and a picture (a file in Jon Keegan's dataset or a URL on the agency site). Mark plates the agency no longer sells as `"status": "discontinued"`.
+2. `python tools/add_state.py <STATE> research/<STATE>.json --keegan path/to/us-license-plates`
+3. Add the agency's plate page to `data/watch.json` and the new `data/<STATE>.json` to `FILES` in `sw.js` if it should load offline before it's opened once.
+4. Validate and push.
 
 ---
 
-## Image Credits
+## Credits
 
-Base plate images from **[jonkeegan/us-license-plates](https://github.com/jonkeegan/us-license-plates)** — a dataset of all U.S. license plates as of July 2023, assembled by Jon Keegan for [Beautiful Public Data](https://www.beautifulpublicdata.com/).
+Plate pictures are from the states' licensing agencies, most by way of **[jonkeegan/us-license-plates](https://github.com/jonkeegan/us-license-plates)**: every US plate as of mid-2023, collected by Jon Keegan for [Beautiful Public Data](https://www.beautifulpublicdata.com/). Newer Washington plates (Pickleball, Keep WA Evergreen, Honeybees, LeMay, Throwback, Smokey Bear, Mount St. Helens) come from the [Washington State Department of Licensing](https://dol.wa.gov/vehicles-and-boats/vehicles/license-plates/get-custom-plates/special-design-plates).
 
-2025 Washington additions (Pickleball, Keep WA Evergreen, Honeybees, LeMay, Throwback, Smokey Bear, Mt. St. Helens) sourced from the [Washington State Department of Licensing](https://dol.wa.gov/vehicles-and-boats/vehicles/license-plates/get-custom-plates/special-design-plates).
+Washington counts: WA DOL 2025 registration figures, via [Gene Balk, Seattle Times, April 20, 2026](https://www.seattletimes.com). State outlines: [us-atlas](https://github.com/topojson/us-atlas) (US Census Bureau cartographic boundaries).
 
-Rarity data and vehicle counts from the WA DOL 2025 registration figures, as reported by [Gene Balk / FYI Guy, Seattle Times, April 20, 2026](https://www.seattletimes.com).
-
----
-
-## Part of the brooksgroves.com ecosystem
-
-This project lives alongside [AFTERSHOCK](https://bdgroves.github.io/aftershock), [PELE](https://bdgroves.github.io/PELE), [Rainier Snowpack](https://bdgroves.github.io/rainier-snowpack), and the rest of the [bdgroves GitHub universe](https://github.com/bdgroves). Built in the Pacific Northwest. Born in Tuolumne County.
-
-[brooksgroves.com](https://brooksgroves.com) · [GitHub](https://github.com/bdgroves) · [Bluesky](https://bsky.app/profile/bdgroves.bsky.social)
+Part of [brooksgroves.com](https://brooksgroves.com) · [GitHub](https://github.com/bdgroves) · [Bluesky](https://bsky.app/profile/bdgroves.bsky.social)
