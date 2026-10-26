@@ -471,6 +471,15 @@
   "country": "CA"
  },
  {
+  "code": "NU",
+  "name": "Nunavut",
+  "file": "data/NU.json",
+  "count": 1,
+  "rated": false,
+  "checked": true,
+  "country": "CA"
+ },
+ {
   "code": "ON",
   "name": "Ontario",
   "file": "data/ON.json",

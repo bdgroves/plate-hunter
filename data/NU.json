@@ -1,0 +1,27 @@
+{
+ "code": "NU",
+ "name": "Nunavut",
+ "rated": false,
+ "updated": "2026-10-26",
+ "checked": true,
+ "checked_on": "2026-10-26",
+ "about": "Nunavut sells no specialty plates, but its everyday plate is too good to leave out: a polar bear.",
+ "sources": [
+  {
+   "title": "Government of Nunavut",
+   "url": "https://www.gov.nu.ca/en/service-nunavut/private-vehicle-registration-nunavut"
+  }
+ ],
+ "plates": [
+  {
+   "id": "polar-bear",
+   "name": "Polar Bear",
+   "cat": "nature",
+   "img": "polar-bear.webp",
+   "year": "2025",
+   "added": "2026-10-26",
+   "fact": "Nunavut's everyday plate is cut in the shape of a polar bear, with an inuksuk between the numbers. It came back in 2025, following the bear-shaped plate the Northwest Territories has used since 1970.",
+   "source": "https://www.gov.nu.ca/sites/default/files/images/2025-05/Picture1.jpg"
+  }
+ ]
+}
