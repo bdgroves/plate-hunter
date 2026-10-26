@@ -725,20 +725,18 @@
    "id": "game-fish-barred-owl-license-plate",
    "name": "Game & Fish Barred Owl License Plate",
    "cat": "nature",
-   "img": null,
+   "img": "game-fish-barred-owl-license-plate.webp",
    "added": "2026-10-26",
    "source": "https://agfc.com/?p=12768",
-   "img_url": "https://www.agfc.com/wp-content/uploads/2024/01/2024-Conservation-License.png",
    "year": "2024"
   },
   {
    "id": "game-fish-painted-bunting-license-plate",
    "name": "Game & Fish Painted Bunting License Plate",
    "cat": "nature",
-   "img": null,
+   "img": "game-fish-painted-bunting-license-plate.webp",
    "added": "2026-10-26",
    "source": "https://www.agfc.com/?p=19520",
-   "img_url": "https://www.agfc.com/wp-content/uploads/2026/01/2025-LICENSE-PLATE.jpg",
    "year": "2026"
   },
   {
@@ -754,10 +752,9 @@
    "id": "dyslexia-support-license-plate",
    "name": "Dyslexia Support License Plate",
    "cat": "charity",
-   "img": null,
+   "img": "dyslexia-support-license-plate.webp",
    "added": "2026-10-26",
-   "source": "https://dfa.arkansas.gov/specialty-plates/dyslexia-support-license-plate",
-   "img_url": "https://www.dfa.arkansas.gov/wp-content/uploads/DyslexiaSupport.jpg"
+   "source": "https://dfa.arkansas.gov/specialty-plates/dyslexia-support-license-plate"
   }
  ],
  "checked_on": "2026-10-26"

@@ -320,20 +320,18 @@
    "id": "we-are-vermont-strong",
    "name": "We Are Vermont Strong",
    "cat": "charity",
-   "img": null,
+   "img": "we-are-vermont-strong.webp",
    "added": "2026-10-26",
    "source": "https://dmv.vermont.gov/vermontstrong23",
-   "img_url": "https://dmv.vermont.gov/sites/dmv/files/inline-images/Vermont%20Strong%201.png",
    "year": "2023"
   },
   {
    "id": "we-are-vermont-strong-tough-too",
    "name": "We Are Vermont Strong - Tough Too!",
    "cat": "charity",
-   "img": null,
+   "img": "we-are-vermont-strong-tough-too.webp",
    "added": "2026-10-26",
    "source": "https://dmv.vermont.gov/vermontstrong23",
-   "img_url": "https://dmv.vermont.gov/sites/dmv/files/inline-images/Vermont%20Strong%202_0.png",
    "year": "2023"
   },
   {
@@ -349,20 +347,18 @@
    "id": "air-medal",
    "name": "Air Medal",
    "cat": "military",
-   "img": null,
+   "img": "air-medal.webp",
    "added": "2026-10-26",
    "source": "https://dmv.vermont.gov/node/212",
-   "img_url": "https://dmv.vermont.gov/sites/dmv/files/inline-images/Air%20Medal%20Truck.jpeg",
    "year": "2022"
   },
   {
    "id": "bronze-star",
    "name": "Bronze Star",
    "cat": "military",
-   "img": null,
+   "img": "bronze-star.webp",
    "added": "2026-10-26",
    "source": "https://dmv.vermont.gov/node/212",
-   "img_url": "https://dmv.vermont.gov/sites/dmv/files/inline-images/Bronze%20Star%203.jpeg",
    "year": "2022"
   }
  ],

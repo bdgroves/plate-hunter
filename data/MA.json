@@ -352,20 +352,18 @@
    "id": "massachusetts-250-years-of-independence",
    "name": "Massachusetts 250 Years of Independence",
    "cat": "other",
-   "img": null,
+   "img": "massachusetts-250-years-of-independence.webp",
    "added": "2026-10-26",
    "source": "https://www.mass.gov/news/rmv-celebrates-massachusetts-250-with-commemorative-license-plate",
-   "img_url": "https://www.mass.gov/files/styles/embedded_full_width/public/images/2025-05/img_1433.jpg?itok=UcBH0Bs3",
    "year": "2025"
   },
   {
    "id": "dr-seuss",
    "name": "Dr. Seuss",
    "cat": "charity",
-   "img": null,
+   "img": "dr-seuss.webp",
    "added": "2026-10-26",
    "source": "https://www.mass.gov/doc/passenger-plates-manual-0/download",
-   "img_url": "https://springfieldmuseums.org/wp-content/uploads/2021/11/license-plate-820x312-web-alt.jpg",
    "year": "2024"
   },
   {
@@ -391,10 +389,9 @@
    "id": "medal-of-liberty",
    "name": "Medal of Liberty",
    "cat": "military",
-   "img": null,
+   "img": "medal-of-liberty.webp",
    "added": "2026-10-26",
    "source": "https://www.mass.gov/news/massachusetts-registry-of-motor-vehicles-announces-new-medal-of-liberty-license-plate",
-   "img_url": "https://www.mass.gov/files/styles/embedded_half_width/public/images/2025-02/medal_of_liberty.jpg?itok=6jkkk1Zm",
    "year": "2022"
   }
  ],

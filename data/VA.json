@@ -1410,8 +1410,7 @@
    "id": "virginia-commonwealth-ram",
    "name": "Virginia Commonwealth - Ram",
    "cat": "other",
-   "img": "virginia-commonwealth-ram.webp",
-   "img_url": "https://news.vcu.edu/image/60669de9-83d3-444c-87ed-baac757bd12c",
+   "img": "virginia-commonwealth-ram-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -1634,10 +1633,9 @@
    "id": "250th-american-revolution-anniversary",
    "name": "250th American Revolution Anniversary",
    "cat": "other",
-   "img": null,
+   "img": "250th-american-revolution-anniversary.webp",
    "added": "2026-10-26",
    "source": "https://dmv.virginia.gov/vehicles/license-plates/search/250th-american-revolution-anniversary",
-   "img_url": "https://www.va250.org/wp-content/uploads/2024/10/LicensePlate_2-825x342-1.jpg",
    "year": "2024"
   }
  ],

@@ -65,8 +65,7 @@
    "id": "collegiate-brigham-young-university",
    "name": "Collegiate – Brigham Young University",
    "cat": "colleges",
-   "img": "collegiate-brigham-young-university.webp",
-   "img_url": "https://dmv.utah.gov/wp-content/uploads/byu-1.png",
+   "img": "collegiate-brigham-young-university-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -92,8 +91,7 @@
    "id": "collegiate-snow-college",
    "name": "Collegiate – Snow College",
    "cat": "colleges",
-   "img": "collegiate-snow-college.webp",
-   "img_url": "https://dmv.utah.gov/wp-content/uploads/snow-1.png",
+   "img": "collegiate-snow-college-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -106,8 +104,7 @@
    "id": "collegiate-university-of-utah-2-options-",
    "name": "Collegiate – University of Utah (2 options available",
    "cat": "colleges",
-   "img": "collegiate-university-of-utah-2-options-.webp",
-   "img_url": "https://dmv.utah.gov/wp-content/uploads/uofuathletic.png",
+   "img": "collegiate-university-of-utah-2-options--2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -132,8 +129,7 @@
    "id": "collegiate-weber-state-university",
    "name": "Collegiate – Weber State University",
    "cat": "colleges",
-   "img": "collegiate-weber-state-university.webp",
-   "img_url": "https://dmv.utah.gov/wp-content/uploads/wsuacademic.png",
+   "img": "collegiate-weber-state-university-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -260,8 +256,7 @@
    "id": "national-basketball-association-nba-utah",
    "name": "National Basketball Association (NBA) – Utah Jazz",
    "cat": "sports",
-   "img": "national-basketball-association-nba-utah.webp",
-   "img_url": "https://dmv.utah.gov/wp-content/uploads/nba-1.png",
+   "img": "national-basketball-association-nba-utah-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -330,8 +325,7 @@
    "id": "share-the-road",
    "name": "Share the Road",
    "cat": "hobby",
-   "img": "share-the-road.webp",
-   "img_url": "https://dmv.utah.gov/wp-content/uploads/sharetheroad-1.png",
+   "img": "share-the-road-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -470,32 +464,28 @@
    "id": "wildlife-elk",
    "name": "Wildlife – Elk",
    "cat": "nature",
-   "img": "wildlife-elk.webp",
-   "img_url": "https://dmv.utah.gov/wp-content/uploads/wildlifeelk-1.png",
+   "img": "wildlife-elk-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
    "id": "wildlife-kestrel",
    "name": "Wildlife – Kestrel",
    "cat": "nature",
-   "img": "wildlife-kestrel.webp",
-   "img_url": "https://dmv.utah.gov/wp-content/uploads/wildlifekestrel-1.png",
+   "img": "wildlife-kestrel-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
    "id": "wildlife-mule-deer",
    "name": "Wildlife – Mule Deer",
    "cat": "nature",
-   "img": "wildlife-mule-deer.webp",
-   "img_url": "https://dmv.utah.gov/wp-content/uploads/wildlifedeer-1.png",
+   "img": "wildlife-mule-deer-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
    "id": "wildlife-trout",
    "name": "Wildlife – Trout",
    "cat": "nature",
-   "img": "wildlife-trout.webp",
-   "img_url": "https://dmv.utah.gov/wp-content/uploads/wildlifetrout-1.png",
+   "img": "wildlife-trout-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -514,96 +504,86 @@
    "id": "great-salt-lake-preservation",
    "name": "Great Salt Lake Preservation",
    "cat": "nature",
-   "img": null,
+   "img": "great-salt-lake-preservation.webp",
    "added": "2026-10-26",
    "source": "https://dmv.utah.gov/plates/license-plates/",
-   "img_url": "https://dmv.utah.gov/wp-content/uploads/gsl-1.png",
    "year": "2025"
   },
   {
    "id": "america-250-limited-time",
    "name": "America 250 (Limited Time)",
    "cat": "other",
-   "img": null,
+   "img": "america-250-limited-time.webp",
    "added": "2026-10-26",
    "source": "https://dmv.utah.gov/plates/license-plates/",
-   "img_url": "https://dmv.utah.gov/wp-content/uploads/America-250-plate-2.png",
    "year": "2026"
   },
   {
    "id": "nhl-utah-mammoth",
    "name": "NHL - Utah Mammoth",
    "cat": "sports",
-   "img": null,
+   "img": "nhl-utah-mammoth.webp",
    "added": "2026-10-26",
    "source": "https://dmv.utah.gov/plates/license-plates/",
-   "img_url": "https://dmv.utah.gov/wp-content/uploads/mammoth.png",
    "year": "2026"
   },
   {
    "id": "utah-lunch-debt-relief",
    "name": "Utah Lunch Debt Relief",
    "cat": "charity",
-   "img": null,
+   "img": "utah-lunch-debt-relief.webp",
    "added": "2026-10-26",
    "source": "https://dmv.utah.gov/plates/license-plates/",
-   "img_url": "https://dmv.utah.gov/wp-content/uploads/lunch-debt-relief.png",
    "year": "2026"
   },
   {
    "id": "live-on-suicide-prevention",
    "name": "Live On - Suicide Prevention",
    "cat": "charity",
-   "img": null,
+   "img": "live-on-suicide-prevention.webp",
    "added": "2026-10-26",
-   "source": "https://dmv.utah.gov/plates/license-plates/",
-   "img_url": "https://dmv.utah.gov/wp-content/uploads/liveon-1.png"
+   "source": "https://dmv.utah.gov/plates/license-plates/"
   },
   {
    "id": "everyone-outdoors",
    "name": "Everyone Outdoors",
    "cat": "nature",
-   "img": null,
+   "img": "everyone-outdoors.webp",
    "added": "2026-10-26",
-   "source": "https://dmv.utah.gov/plates/license-plates/",
-   "img_url": "https://dmv.utah.gov/wp-content/uploads/everyone-outdoors-1.png"
+   "source": "https://dmv.utah.gov/plates/license-plates/"
   },
   {
    "id": "white-and-black-classic",
    "name": "White and Black Classic",
    "cat": "vehicle",
-   "img": null,
+   "img": "white-and-black-classic.webp",
    "added": "2026-10-26",
    "source": "https://dmv.utah.gov/plates/license-plates/",
-   "img_url": "https://dmv.utah.gov/wp-content/uploads/hitoric-white.png",
    "year": "2026"
   },
   {
    "id": "brigham-young-university-athletic",
    "name": "Brigham Young University - Athletic",
    "cat": "colleges",
-   "img": null,
+   "img": "brigham-young-university-athletic.webp",
    "added": "2026-10-26",
-   "source": "https://dmv.utah.gov/plates/license-plates/",
-   "img_url": "https://dmv.utah.gov/wp-content/uploads/byu-athletic.png"
+   "source": "https://dmv.utah.gov/plates/license-plates/"
   },
   {
    "id": "utah-state-university-athletic",
    "name": "Utah State University - Athletic",
    "cat": "colleges",
-   "img": null,
+   "img": "utah-state-university-athletic.webp",
    "added": "2026-10-26",
-   "source": "https://dmv.utah.gov/plates/license-plates/",
-   "img_url": "https://dmv.utah.gov/wp-content/uploads/usuathletic.png"
+   "source": "https://dmv.utah.gov/plates/license-plates/"
   },
   {
    "id": "weber-state-university-athletic",
    "name": "Weber State University - Athletic",
    "cat": "colleges",
-   "img": null,
+   "img": "weber-state-university-athletic.webp",
    "added": "2026-10-26",
-   "source": "https://dmv.utah.gov/plates/license-plates/",
-   "img_url": "https://dmv.utah.gov/wp-content/uploads/wsuathletic.png"
+   "source": "https://dmv.utah.gov/plates/license-plates/"
   }
  ],
  "checked_on": "2026-10-26"

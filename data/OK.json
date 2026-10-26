@@ -1612,10 +1612,9 @@
    "id": "route-66-centennial",
    "name": "Route 66 Centennial",
    "cat": "other",
-   "img": null,
+   "img": "route-66-centennial.webp",
    "added": "2026-10-26",
    "source": "https://aem-prod.oklahoma.gov/content/dam/service-oklahoma/Documents/mv-forms/SpecialtyPlatesCatalog.pdf",
-   "img_url": "https://images.squarespace-cdn.com/content/v1/6073a5302519e02f9450fc89/f8e3f09f-620c-4fcc-a77b-f27e113a675f/Route+66+Centennial+Plate+Image.png",
    "year": "2026"
   },
   {

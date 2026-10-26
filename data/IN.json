@@ -826,20 +826,18 @@
    "id": "blackout",
    "name": "Blackout",
    "cat": "other",
-   "img": null,
+   "img": "blackout.webp",
    "added": "2026-10-26",
    "source": "https://secure.in.gov/bmv/files/pr-blackout-plate.pdf",
-   "img_url": "https://www.in.gov/dA/505565ea9b/blackout-plate-newpl8.png?language_id=1",
    "year": "2025"
   },
   {
    "id": "alzheimer-s-association-greater-indiana-",
    "name": "Alzheimer's Association Greater Indiana Chapter (END ALZ)",
    "cat": "charity",
-   "img": null,
+   "img": "alzheimer-s-association-greater-indiana-.webp",
    "added": "2026-10-26",
    "source": "https://indianacapitalchronicle.com/2025/09/08/indiana-license-plate-sales-lift-charitable-efforts-new-requirements-may-limit-who-can-take-part/",
-   "img_url": "https://www.alz.org/getmedia/b4560458-290d-4a2e-b180-9a3a4c8563fa/license-plate.png",
    "year": "2025"
   },
   {

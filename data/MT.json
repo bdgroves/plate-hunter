@@ -898,8 +898,7 @@
    "id": "montana-wild-sheep-foundation",
    "name": "Montana Wild Sheep Foundation",
    "cat": "sports",
-   "img": "montana-wild-sheep-foundation.webp",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2024/02/Montana-Wild-Sheep-Foundation-2024.jpg",
+   "img": "montana-wild-sheep-foundation-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -912,8 +911,7 @@
    "id": "montana-wildlife-federation",
    "name": "Montana Wildlife Federation",
    "cat": "nature",
-   "img": "montana-wildlife-federation.webp",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2024/08/Montana-Wildlife-Federation-2024.jpg",
+   "img": "montana-wildlife-federation-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -1070,8 +1068,7 @@
    "id": "prickly-pear-land-trust",
    "name": "Prickly Pear Land Trust",
    "cat": "other",
-   "img": "prickly-pear-land-trust.webp",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2025/12/Prickly-Pear-Land-Trust-2026.jpg",
+   "img": "prickly-pear-land-trust-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -1132,8 +1129,7 @@
    "id": "salish-kootenai-college",
    "name": "Salish Kootenai College",
    "cat": "colleges",
-   "img": "salish-kootenai-college.webp",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2024/08/Salish-Kootenai-College-2024.jpg",
+   "img": "salish-kootenai-college-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -1260,8 +1256,7 @@
    "id": "university-of-providence",
    "name": "University of Providence",
    "cat": "colleges",
-   "img": "university-of-providence.webp",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2025/01/University-of-Providence-2025.jpg",
+   "img": "university-of-providence-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -1310,8 +1305,7 @@
    "id": "yellowstone-forever",
    "name": "Yellowstone Forever",
    "cat": "other",
-   "img": "yellowstone-forever.webp",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2026/06/Yellowstone-Forever-2026.jpg",
+   "img": "yellowstone-forever-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -1336,296 +1330,266 @@
    "id": "veterans-navigation-network",
    "name": "Veterans Navigation Network",
    "cat": "veterans",
-   "img": null,
+   "img": "veterans-navigation-network.webp",
    "added": "2026-10-26",
    "source": "https://mvdmt.gov/license-plate-lookup/",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2024/02/Veterans-Navigation-Network-2024.jpg",
    "year": "2024"
   },
   {
    "id": "warriors-quiet-waters-foundation",
    "name": "Warriors & Quiet Waters Foundation",
    "cat": "veterans",
-   "img": null,
+   "img": "warriors-quiet-waters-foundation.webp",
    "added": "2026-10-26",
    "source": "https://mvdmt.gov/license-plate-lookup/",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2025/09/Warriors-and-Quiet-Waters-Foundation-2025-1.jpg",
    "year": "2025"
   },
   {
    "id": "windhorse-equine-learning",
    "name": "Windhorse Equine Learning",
    "cat": "charity",
-   "img": null,
+   "img": "windhorse-equine-learning.webp",
    "added": "2026-10-26",
    "source": "https://mvdmt.gov/license-plate-lookup/",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2024/08/Windhorse-Equine-Learning-2024.jpg",
    "year": "2024"
   },
   {
    "id": "wildlife-crossings-mt-fwp",
    "name": "Wildlife Crossings – MT FWP",
    "cat": "nature",
-   "img": null,
+   "img": "wildlife-crossings-mt-fwp.webp",
    "added": "2026-10-26",
    "source": "https://mvdmt.gov/?p=71188",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2026/06/Wildlife-Crossings-MT-FWP-2026.jpg",
    "year": "2026"
   },
   {
    "id": "selway-bitterroot-frank-church-foundatio",
    "name": "Selway Bitterroot Frank Church Foundation",
    "cat": "nature",
-   "img": null,
+   "img": "selway-bitterroot-frank-church-foundatio.webp",
    "added": "2026-10-26",
    "source": "https://mvdmt.gov/license-plate-lookup/",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2025/08/Selway-Bitterroot-Foundation-DBA-2025.jpg",
    "year": "2025"
   },
   {
    "id": "serve-montana-donate-life",
    "name": "Serve Montana – Donate Life",
    "cat": "charity",
-   "img": null,
+   "img": "serve-montana-donate-life.webp",
    "added": "2026-10-26",
    "source": "https://mvdmt.gov/license-plate-lookup/",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2026/02/Serve-Montana-Donate-Life-2026.jpg",
    "year": "2026"
   },
   {
    "id": "south-central-montana-regional-mental-he",
    "name": "South Central Montana Regional Mental Health Center",
    "cat": "charity",
-   "img": null,
+   "img": "south-central-montana-regional-mental-he.webp",
    "added": "2026-10-26",
    "source": "https://mvdmt.gov/portfolio-item/south-central-montana-regional-mental-health-center/",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2025/01/South-Central-Montana-Regional-Mental-Health-Center-2025.jpg",
    "year": "2025"
   },
   {
    "id": "stafford-animal-shelter",
    "name": "Stafford Animal Shelter",
    "cat": "charity",
-   "img": null,
+   "img": "stafford-animal-shelter.webp",
    "added": "2026-10-26",
-   "source": "https://mvdmt.gov/license-plate-lookup/",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2023/10/Stafford-Animal-Shelter-2023.jpg"
+   "source": "https://mvdmt.gov/license-plate-lookup/"
   },
   {
    "id": "bridgercare",
    "name": "Bridgercare",
    "cat": "charity",
-   "img": null,
+   "img": "bridgercare.webp",
    "added": "2026-10-26",
    "source": "https://mvdmt.gov/plate-type/sponsored/page/18/",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2025/12/Bridgercare-2026.jpg",
    "year": "2026"
   },
   {
    "id": "catalyst-for-change",
    "name": "Catalyst for Change",
    "cat": "charity",
-   "img": null,
+   "img": "catalyst-for-change.webp",
    "added": "2026-10-26",
-   "source": "https://mvdmt.gov/plate-type/sponsored/page/18/",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2023/10/Catalyst-for-Change-2023.jpg"
+   "source": "https://mvdmt.gov/plate-type/sponsored/page/18/"
   },
   {
    "id": "406-pickleball-missoula",
    "name": "406 Pickleball Missoula",
    "cat": "hobby",
-   "img": null,
+   "img": "406-pickleball-missoula.webp",
    "added": "2026-10-26",
-   "source": "https://mvdmt.gov/plate-type/sponsored/page/18/",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2023/10/406-Pickle-Ball-Missoula-Inc-2023.jpg"
+   "source": "https://mvdmt.gov/plate-type/sponsored/page/18/"
   },
   {
    "id": "a-carousel-for-missoula-foundation",
    "name": "A Carousel For Missoula Foundation",
    "cat": "charity",
-   "img": null,
+   "img": "a-carousel-for-missoula-foundation.webp",
    "added": "2026-10-26",
    "source": "https://mvdmt.gov/plate-type/sponsored/page/19/",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2025/08/A-Carousel-For-Missoula-2025.jpg",
    "year": "2025"
   },
   {
    "id": "abbie-shelter",
    "name": "Abbie Shelter",
    "cat": "charity",
-   "img": null,
+   "img": "abbie-shelter.webp",
    "added": "2026-10-26",
-   "source": "https://mvdmt.gov/plate-type/sponsored/page/19/",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2026/02/Abbie-Shelter-2023.jpg"
+   "source": "https://mvdmt.gov/plate-type/sponsored/page/19/"
   },
   {
    "id": "arise-native-americans",
    "name": "Arise Native Americans",
    "cat": "charity",
-   "img": null,
+   "img": "arise-native-americans.webp",
    "added": "2026-10-26",
    "source": "https://mvdmt.gov/plate-type/sponsored/page/19/",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2025/08/Arise-2025-1200x597.jpg",
    "year": "2025"
   },
   {
    "id": "badlands-baseball",
    "name": "Badlands Baseball",
    "cat": "sports",
-   "img": null,
+   "img": "badlands-baseball.webp",
    "added": "2026-10-26",
    "source": "https://mvdmt.gov/plate-type/sponsored/page/19/",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2025/12/Badlands-Baseball-2026.jpg",
    "year": "2026"
   },
   {
    "id": "united-in-light-draft-horse-sanctuary",
    "name": "United in Light Draft Horse Sanctuary",
    "cat": "charity",
-   "img": null,
+   "img": "united-in-light-draft-horse-sanctuary.webp",
    "added": "2026-10-26",
    "source": "https://mvdmt.gov/license-plate-lookup/page/2/",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2024/02/United-in-Light-2024.jpg",
    "year": "2024"
   },
   {
    "id": "university-of-montana-alumni-association",
    "name": "University of Montana Alumni Association",
    "cat": "colleges",
-   "img": null,
+   "img": "university-of-montana-alumni-association.webp",
    "added": "2026-10-26",
    "source": "https://mvdmt.gov/license-plate-lookup/page/2/",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2025/08/University-of-Montana-Alumni-Assoc-2025.jpg",
    "year": "2025"
   },
   {
    "id": "southeast-montana-area-revitalization-te",
    "name": "Southeast Montana Area Revitalization Team",
    "cat": "other",
-   "img": null,
+   "img": "southeast-montana-area-revitalization-te.webp",
    "added": "2026-10-26",
    "source": "https://mvdmt.gov/license-plate-lookup/page/2/",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2026/06/Southeast-Montana-Area-Revitalization-Team-2026-1200x599.jpg",
    "year": "2026"
   },
   {
    "id": "patrol-base-abbate",
    "name": "Patrol Base Abbate",
    "cat": "veterans",
-   "img": null,
+   "img": "patrol-base-abbate.webp",
    "added": "2026-10-26",
    "source": "https://mvdmt.gov/license-plate-lookup/page/2/",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2025/01/Patrol-Base-Abbate-2025.jpg",
    "year": "2025"
   },
   {
    "id": "rural-resilience",
    "name": "Rural Resilience",
    "cat": "charity",
-   "img": null,
+   "img": "rural-resilience.webp",
    "added": "2026-10-26",
    "source": "https://mvdmt.gov/license-plate-lookup/page/3/",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2025/12/Rural-Resilience-2026.jpg",
    "year": "2026"
   },
   {
    "id": "move-over-montana",
    "name": "Move Over Montana",
    "cat": "firstresponder",
-   "img": null,
+   "img": "move-over-montana.webp",
    "added": "2026-10-26",
    "source": "https://mvdmt.gov/license-plate-lookup/page/3/",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2025/08/Move-Over-Montana-2025.jpg",
    "year": "2025"
   },
   {
    "id": "montana-first-amendment-society",
    "name": "Montana First Amendment Society",
    "cat": "other",
-   "img": null,
+   "img": "montana-first-amendment-society.webp",
    "added": "2026-10-26",
    "source": "https://mvdmt.gov/license-plate-lookup/page/5/",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2025/08/Montana-First-Amendment-Society-2025.jpg",
    "year": "2025"
   },
   {
    "id": "montana-free-press",
    "name": "Montana Free Press",
    "cat": "other",
-   "img": null,
+   "img": "montana-free-press.webp",
    "added": "2026-10-26",
    "source": "https://mvdmt.gov/license-plate-lookup/page/5/",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2024/08/Montana-Free-Press-2024.jpg",
    "year": "2024"
   },
   {
    "id": "montana-missing-and-murdered-indigenous-",
    "name": "Montana Missing and Murdered Indigenous Persons Advisory Council",
    "cat": "tribal",
-   "img": null,
+   "img": "montana-missing-and-murdered-indigenous-.webp",
    "added": "2026-10-26",
    "source": "https://mvdmt.gov/license-plate-lookup/page/5/",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2025/12/Montana-Missing-and-Murdered-Indigenous-Persons-2026.jpg",
    "year": "2026"
   },
   {
    "id": "montana-chiefs-of-police-foundation",
    "name": "Montana Chiefs of Police Foundation",
    "cat": "firstresponder",
-   "img": null,
+   "img": "montana-chiefs-of-police-foundation.webp",
    "added": "2026-10-26",
    "source": "https://mvdmt.gov/license-plate-lookup/page/5/",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2026/06/Montana-Chiefs-of-Police-Foundation-2026.jpg",
    "year": "2026"
   },
   {
    "id": "montana-law-and-liberty",
    "name": "Montana Law and Liberty",
    "cat": "other",
-   "img": null,
+   "img": "montana-law-and-liberty.webp",
    "added": "2026-10-26",
    "source": "https://mvdmt.gov/license-plate-lookup/page/5/",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2026/06/Montana-Law-and-Liberty-2026-1200x598.jpg",
    "year": "2026"
   },
   {
    "id": "les-haven-ranch",
    "name": "LES Haven Ranch",
    "cat": "charity",
-   "img": null,
+   "img": "les-haven-ranch.webp",
    "added": "2026-10-26",
    "source": "https://mvdmt.gov/license-plate-lookup/page/5/",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2025/08/LES-Haven-Ranch-2025.jpg",
    "year": "2025"
   },
   {
    "id": "love-for-lexy-foundation",
    "name": "Love For Lexy Foundation",
    "cat": "charity",
-   "img": null,
+   "img": "love-for-lexy-foundation.webp",
    "added": "2026-10-26",
    "source": "https://mvdmt.gov/license-plate-lookup/page/5/",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2024/08/Love-for-Lexie-Foundation-2024.jpg",
    "year": "2024"
   },
   {
    "id": "maclean-cameron-animal-adoption-center",
    "name": "Maclean-Cameron Animal Adoption Center",
    "cat": "charity",
-   "img": null,
+   "img": "maclean-cameron-animal-adoption-center.webp",
    "added": "2026-10-26",
    "source": "https://mvdmt.gov/license-plate-lookup/page/5/",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2024/02/Animal-Foundation-of-Great-Falls-2024-1.jpg",
    "year": "2024"
   },
   {
    "id": "big-sky-youth-empowerment",
    "name": "Big Sky Youth Empowerment",
    "cat": "charity",
-   "img": null,
+   "img": "big-sky-youth-empowerment.webp",
    "added": "2026-10-26",
    "source": "https://mvdmt.gov/license-plate-lookup/page/9/",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2025/01/Big-Sky-Youth-Empowerment-Project-2025-1200x600.jpg",
    "year": "2025"
   }
  ],

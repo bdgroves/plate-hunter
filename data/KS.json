@@ -474,20 +474,18 @@
    "id": "support-the-troops",
    "name": "Support the Troops",
    "cat": "military",
-   "img": null,
+   "img": "support-the-troops.webp",
    "added": "2026-10-26",
    "source": "https://ksrevenue.gov/dov-support.html",
-   "img_url": "https://ksrevenue.gov/img/supportplate.jpg",
    "year": "2025"
   },
   {
    "id": "blackout",
    "name": "Blackout",
    "cat": "other",
-   "img": null,
+   "img": "blackout.webp",
    "added": "2026-10-26",
    "source": "https://www.ksrevenue.gov/dov-blackout.html",
-   "img_url": "https://www.ksrevenue.gov/img/Blackout.jpg",
    "year": "2026"
   },
   {
@@ -557,20 +555,18 @@
    "id": "1st-infantry-division",
    "name": "1st Infantry Division",
    "cat": "military",
-   "img": null,
+   "img": "1st-infantry-division.webp",
    "added": "2026-10-26",
    "source": "https://ksrevenue.gov/dov-first.html",
-   "img_url": "https://ksrevenue.gov/img/1stInfantryPlate.jpg",
    "year": "2024"
   },
   {
    "id": "armed-services-occupation-medal",
    "name": "Armed Services Occupation Medal",
    "cat": "military",
-   "img": null,
+   "img": "armed-services-occupation-medal.webp",
    "added": "2026-10-26",
    "source": "https://ksrevenue.gov/dov-occupation.html",
-   "img_url": "https://ksrevenue.gov/img/ArmedServicesOccupationMedal.jpg",
    "year": "2024"
   }
  ],

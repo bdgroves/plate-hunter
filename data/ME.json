@@ -220,19 +220,17 @@
    "id": "medal-of-honor-plate",
    "name": "Medal of Honor Plate",
    "cat": "military",
-   "img": null,
+   "img": "medal-of-honor-plate.webp",
    "added": "2026-10-26",
-   "source": "https://www.maine.gov/sos/bmv/vehicles/veteran-plate-or-decal/vehicles/available-veteran-plates",
-   "img_url": "https://www.maine.gov/sos/sites/maine.gov.sos/files/content/assets/medalofhonorplt-3.jpg"
+   "source": "https://www.maine.gov/sos/bmv/vehicles/veteran-plate-or-decal/vehicles/available-veteran-plates"
   },
   {
    "id": "former-prisoner-of-war-plate",
    "name": "Former Prisoner of War Plate",
    "cat": "veterans",
-   "img": null,
+   "img": "former-prisoner-of-war-plate.webp",
    "added": "2026-10-26",
-   "source": "https://www.maine.gov/sos/bmv/vehicles/veteran-plate-or-decal/vehicles/available-veteran-plates",
-   "img_url": "https://www.maine.gov/sos/sites/maine.gov.sos/files/content/assets/powplt-3.jpg"
+   "source": "https://www.maine.gov/sos/bmv/vehicles/veteran-plate-or-decal/vehicles/available-veteran-plates"
   }
  ],
  "checked_on": "2026-10-26"

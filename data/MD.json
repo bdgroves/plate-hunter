@@ -5280,20 +5280,18 @@
    "id": "disabled-veteran-50-99-rating",
    "name": "Disabled Veteran (50-99% rating)",
    "cat": "veterans",
-   "img": null,
+   "img": "disabled-veteran-50-99-rating.webp",
    "added": "2026-10-26",
    "source": "https://mva.maryland.gov/your-mva-guide/military-service-members/license-plates",
-   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/medium/public/2026-02/Disabled-Veteran-Tag.png.webp",
    "year": "2024"
   },
   {
    "id": "protect-the-chesapeake-and-coastal-bays",
    "name": "Protect the Chesapeake and Coastal Bays",
    "cat": "nature",
-   "img": null,
+   "img": "protect-the-chesapeake-and-coastal-bays.webp",
    "added": "2026-10-26",
    "source": "https://mva.maryland.gov/news/updated-bays-license-plate-maryland-drivers",
-   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/small/public/2026-01/Chesapeake-Bay-Plate.png.webp",
    "year": "2024"
   }
  ],

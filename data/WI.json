@@ -190,8 +190,7 @@
    "id": "golf-wisconsin",
    "name": "Golf Wisconsin",
    "cat": "sports",
-   "img": "golf-wisconsin.webp",
-   "img_url": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/golf-wI-redesign2025.png",
+   "img": "golf-wisconsin-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -522,50 +521,45 @@
    "id": "american-foundation-for-suicide-preventi",
    "name": "American Foundation for Suicide Prevention",
    "cat": "charity",
-   "img": null,
+   "img": "american-foundation-for-suicide-preventi.webp",
    "added": "2026-10-26",
    "source": "https://wisconsindot.gov/Pages/about-wisdot/newsroom/news-rel/050824newplates.aspx",
-   "img_url": "https://wisconsindot.gov/PublishingImages/dmv/vehicles/title-plates/afsp-plt.png",
    "year": "2024"
   },
   {
    "id": "spay-neuter-adopt",
    "name": "Spay, Neuter, Adopt",
    "cat": "charity",
-   "img": null,
+   "img": "spay-neuter-adopt.webp",
    "added": "2026-10-26",
    "source": "https://wisconsindot.gov/Pages/about-wisdot/newsroom/news-rel/050824newplates.aspx",
-   "img_url": "https://wisconsindot.gov/PublishingImages/dmv/vehicles/title-plates/sna-plt.png",
    "year": "2024"
   },
   {
    "id": "international-crane-foundation",
    "name": "International Crane Foundation",
    "cat": "nature",
-   "img": null,
+   "img": "international-crane-foundation.webp",
    "added": "2026-10-26",
    "source": "https://wisconsindot.gov/Pages/about-wisdot/newsroom/news-rel/100924crane.aspx",
-   "img_url": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/CRN-intl-crane-fdn-200.png",
    "year": "2024"
   },
   {
    "id": "blackout",
    "name": "Blackout",
    "cat": "other",
-   "img": null,
+   "img": "blackout.webp",
    "added": "2026-10-26",
    "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/special.aspx",
-   "img_url": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/BOP-Blackout-plate-800.png",
    "year": "2026"
   },
   {
    "id": "retro-yellow",
    "name": "Retro Yellow",
    "cat": "other",
-   "img": null,
+   "img": "retro-yellow.webp",
    "added": "2026-10-26",
    "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/special.aspx",
-   "img_url": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/RYP-Retro-Yellow-plate-800.png",
    "year": "2026"
   },
   {

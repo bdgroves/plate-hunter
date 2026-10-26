@@ -250,10 +250,9 @@
    "id": "wayne-state-college",
    "name": "Wayne State College",
    "cat": "colleges",
-   "img": null,
+   "img": "wayne-state-college.webp",
    "added": "2026-10-26",
    "source": "https://www.wsc.edu/wsc-license-plates",
-   "img_url": "https://www.wsc.edu/images/homepage_inset_wsc_license_plates.jpg",
    "year": "2026"
   },
   {
