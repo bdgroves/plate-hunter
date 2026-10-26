@@ -1,0 +1,75 @@
+{
+ "code": "NJ-2",
+ "url": "https://www.state.nj.us/mvc/vehicles/community.htm",
+ "checked": "2026-10-26",
+ "pictures": {
+  "/mvc/images/childrens_first_foundation.gif": {
+   "src": "https://www.state.nj.us/mvc/images/Childrens_First_Foundation.gif",
+   "alt": "Children First Foundation"
+  },
+  "/mvc/images/firemans_mutual_benevolent_association.gif": {
+   "src": "https://www.state.nj.us/mvc/images/Firemans_Mutual_Benevolent_Association.gif",
+   "alt": "Firemen's Mutual Benefit Association"
+  },
+  "/mvc/images/fraternal_order_of_police.gif": {
+   "src": "https://www.state.nj.us/mvc/images/Fraternal_Order_Of_Police.gif",
+   "alt": "Fraternal Order of Police"
+  },
+  "/mvc/images/freemason.gif": {
+   "src": "https://www.state.nj.us/mvc/images/Freemason.gif",
+   "alt": "Masons"
+  },
+  "/mvc/images/international_firefighters.gif": {
+   "src": "https://www.state.nj.us/mvc/images/International_Firefighters.gif",
+   "alt": "International Firefighters"
+  },
+  "/mvc/images/kiwanis_international.gif": {
+   "src": "https://www.state.nj.us/mvc/images/Kiwanis_International.gif",
+   "alt": "Kiwanis International"
+  },
+  "/mvc/images/knights_of_columbus.gif": {
+   "src": "https://www.state.nj.us/mvc/images/Knights_Of_Columbus.gif",
+   "alt": "Knights of Columbus"
+  },
+  "/mvc/images/national_police_foundation.gif": {
+   "src": "https://www.state.nj.us/mvc/images/National_Police_Foundation.gif",
+   "alt": "National Police Defense Foundation"
+  },
+  "/mvc/images/newark_firefighters.gif": {
+   "src": "https://www.state.nj.us/mvc/images/Newark_Firefighters.gif",
+   "alt": "Newark Firefighters"
+  },
+  "/mvc/images/operating_engineers.gif": {
+   "src": "https://www.state.nj.us/mvc/images/Operating_Engineers.gif",
+   "alt": "Operating Engineers"
+  },
+  "/mvc/images/police_benevolent_association.gif": {
+   "src": "https://www.state.nj.us/mvc/images/Police_Benevolent_Association.gif",
+   "alt": "Police Benevolent Association"
+  },
+  "/mvc/images/police_dept_honor_legion.gif": {
+   "src": "https://www.state.nj.us/mvc/images/Police_Dept_Honor_Legion.gif",
+   "alt": "Police Dept-Honor Legion"
+  },
+  "/mvc/images/professional_engineer.gif": {
+   "src": "https://www.state.nj.us/mvc/images/Professional_Engineer.gif",
+   "alt": "Professional Engineers"
+  },
+  "/mvc/images/rotary_international.gif": {
+   "src": "https://www.state.nj.us/mvc/images/Rotary_International.gif",
+   "alt": "Rotary International"
+  },
+  "/mvc/images/teamsters.gif": {
+   "src": "https://www.state.nj.us/mvc/images/Teamsters.gif",
+   "alt": "Int. Brotherhood of Teamsters"
+  },
+  "/mvc/images/telephone_pioneers.gif": {
+   "src": "https://www.state.nj.us/mvc/images/Telephone_Pioneers.gif",
+   "alt": "Telephone Pioneers"
+  },
+  "/mvc/images/united_bowhunters.gif": {
+   "src": "https://www.state.nj.us/mvc/images/United_Bowhunters.gif",
+   "alt": "United Bowhunters of NJ"
+  }
+ }
+}

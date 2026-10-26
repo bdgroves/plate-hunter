@@ -1,0 +1,51 @@
+{
+ "code": "TX",
+ "url": "https://www.myplates.com/",
+ "checked": "2026-10-26",
+ "pictures": {
+  "/images/embossedhomepagead.jpg": {
+   "src": "https://www.myplates.com/images/EmbossedHomePageAd.jpg",
+   "alt": "Embossed Plate"
+  },
+  "/images/mp49_v2.jpg": {
+   "src": "https://www.myplates.com/images/mp49_v2.jpg",
+   "alt": "Save Up To 49% On Your Plate"
+  },
+  "/images/promo2-restyle.jpg": {
+   "src": "https://www.myplates.com/images/promo2-restyle.jpg",
+   "alt": "Two Texas license plates, one reading RESTYLE on the Texas flag design and one reading YOR PL8 in black"
+  },
+  "/pixel/": {
+   "src": "https://data.adxcel-ec2.com/pixel/?ad_log=referer&action=lead&pixid=e30cb01c-9762-4fde-81fd-692367d3edff",
+   "alt": ""
+  },
+  "/plates/auto.deepintheheart.png": {
+   "src": "https://cdn.myplates.com/plates/auto.Deepintheheart.png",
+   "alt": "Deep in the Heart Flag"
+  },
+  "/plates/auto.embossed_carbonfiber.png": {
+   "src": "https://cdn.myplates.com/plates/auto.Embossed_CarbonFiber.png",
+   "alt": "Carbon Fiber Premium Embossed"
+  },
+  "/plates/auto.lonestar1836.png": {
+   "src": "https://cdn.myplates.com/plates/auto.LoneStar1836.png",
+   "alt": "Lone Star 1836"
+  },
+  "/plates/auto.loveheartblack.png": {
+   "src": "https://cdn.myplates.com/plates/auto.LoveHeartBlack.png",
+   "alt": "Love Heart Black"
+  },
+  "/plates/auto.mightyfineburgers.png": {
+   "src": "https://cdn.myplates.com/plates/auto.MightyFineBurgers.png",
+   "alt": "Mighty Fine Burgers"
+  },
+  "/plates/auto.t_silver.png": {
+   "src": "https://cdn.myplates.com/plates/auto.T_Silver.png",
+   "alt": "Texas Silver 1836"
+  },
+  "/tr": {
+   "src": "https://www.facebook.com/tr?id=2564533420254446&ev=PageView&noscript=1",
+   "alt": ""
+  }
+ }
+}

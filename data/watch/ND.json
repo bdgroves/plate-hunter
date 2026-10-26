@@ -1,0 +1,247 @@
+{
+ "code": "ND",
+ "url": "https://apps.nd.gov/dot/mv/mvrenewal/plateSearch.htm",
+ "checked": "2026-10-26",
+ "pictures": {
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/padlock2.gif": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/padlock2.gif",
+   "alt": "Padlock to help indicate Secure Sockets Layer (SSL) encryption technology is being utilized on this page."
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/amateurradio-mi-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/amateurradio-mi-t.jpg",
+   "alt": "amateurradio-mi"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/amateurradio-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/amateurradio-t.jpg",
+   "alt": "amateurradio"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/blackout-mc-mi-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/blackout-mc-mi-t.jpg",
+   "alt": "blackout-mc-mi"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/blackout-mc-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/blackout-mc-t.jpg",
+   "alt": "blackout-mc"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/blackout-mi-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/blackout-mi-t.jpg",
+   "alt": "blackout-mi"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/blackout-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/blackout-t.jpg",
+   "alt": "blackout"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/booniestomper-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/booniestomper-t.jpg",
+   "alt": "booniestomper"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/chooselife-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/chooselife-t.jpg",
+   "alt": "chooselife"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/collector-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/collector-t.jpg",
+   "alt": "collector"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/cowboy-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/cowboy-t.jpg",
+   "alt": "cowboy"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/dsu-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/dsu-t.jpg",
+   "alt": "dsu"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/ducks-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/ducks-t.jpg",
+   "alt": "ducks"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/farmersunion-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/farmersunion-t.jpg",
+   "alt": "farmersunion"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/firefighter-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/firefighter-t.jpg",
+   "alt": "fire-fighter"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/furryfriendsrescue-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/furryfriendsrescue-t.jpg",
+   "alt": "furryfriendsrescue"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/futurefarmers-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/futurefarmers-t.jpg",
+   "alt": "futurefarmers"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/hdicap-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/hdicap-t.jpg",
+   "alt": "mobility-impaired"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/hit-inc-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/hit-inc-t.jpg",
+   "alt": "hit-inc"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/lignitecoal-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/lignitecoal-t.jpg",
+   "alt": "lignitecoal"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/militarysacrifice-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/militarysacrifice-t.jpg",
+   "alt": "militarysacrifice"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/motorcycle-mi-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/motorcycle-mi-t.jpg",
+   "alt": "motorcycle-mi"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/motorcycle-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/motorcycle-t.jpg",
+   "alt": "motorcyle"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/motorcyclecollector-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/motorcyclecollector-t.jpg",
+   "alt": "motorcyclecollector"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/motorcyclepioneer-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/motorcyclepioneer-t.jpg",
+   "alt": "antique-motorcyle"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/msu-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/msu-t.jpg",
+   "alt": "msu"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/nationalguard-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/nationalguard-t.jpg",
+   "alt": "national-guard"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/ndba-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/ndba-t.jpg",
+   "alt": "ndba"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/ndmasonicfoundation-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/ndmasonicfoundation-t.jpg",
+   "alt": "ndmasonicfoundation"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/ndsu-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/ndsu-t.jpg",
+   "alt": "ndsu"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/northwoodhockeyboosters-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/northwoodhockeyboosters-t.jpg",
+   "alt": "northwoodhockeyboosters"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/nursing-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/nursing-t.jpg",
+   "alt": "nursing"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/offhighway-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/offhighway-t.jpg",
+   "alt": "offhighway"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/official-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/official-t.jpg",
+   "alt": "official"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/patrioticbaldeagle-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/patrioticbaldeagle-t.jpg",
+   "alt": "patrioticbaldeagle"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/pheasantsforever-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/pheasantsforever-t.jpg",
+   "alt": "pheasantsforever"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/pheasantsfuture-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/pheasantsfuture-t.jpg",
+   "alt": "pheasantsfuture"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/pioneer-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/pioneer-t.jpg",
+   "alt": "antique"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/pow-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/pow-t.jpg",
+   "alt": "pow"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/rmef-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/rmef-t.jpg",
+   "alt": "rkyMtnElkFoundation"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/sanfordmedicalcenter-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/sanfordmedicalcenter-t.jpg",
+   "alt": "sanfordmedicalcenter"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/standard-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/standard-t.jpg",
+   "alt": "standard"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/suppvets-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/suppvets-t.jpg",
+   "alt": "suppvets"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/trailer-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/trailer-t.jpg",
+   "alt": "trailer"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/umary-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/umary-t.jpg",
+   "alt": "umary"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/unconventional-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/unconventional-t.jpg",
+   "alt": "unconventional"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/und-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/und-t.jpg",
+   "alt": "und"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/uofjamestown-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/uofjamestown-t.jpg",
+   "alt": "uofjamestown"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/vcsu-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/vcsu-t.jpg",
+   "alt": "vcsu"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/vet-airforce-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/vet-airforce-t.jpg",
+   "alt": "vet-airforce"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/vet-army-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/vet-army-t.jpg",
+   "alt": "vet-army"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/vet-coastguard-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/vet-coastguard-t.jpg",
+   "alt": "vet-coastguard"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/vet-goldstar-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/vet-goldstar-t.jpg",
+   "alt": "vet-goldstar"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/vet-marine-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/vet-marine-t.jpg",
+   "alt": "vet-marine"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/vet-navy-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/vet-navy-t.jpg",
+   "alt": "vet-navy"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/vet-nonbranch-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/vet-nonbranch-t.jpg",
+   "alt": "vet-nonbranch"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/vet-purpleheart-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/vet-purpleheart-t.jpg",
+   "alt": "vet-purpleheart"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/vet-spaceforce-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/vet-spaceforce-t.jpg",
+   "alt": "vet-spaceforce"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/vikingsfoundation-t.jpg": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/vikingsfoundation-t.jpg",
+   "alt": "vikingsfoundation"
+  },
+  "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/popup.gif": {
+   "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/popup.gif",
+   "alt": "Will Open a New Window"
+  }
+ }
+}

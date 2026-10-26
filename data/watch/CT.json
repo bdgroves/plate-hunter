@@ -1,0 +1,295 @@
+{
+ "code": "CT",
+ "url": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US",
+ "checked": "2026-10-26",
+ "pictures": {
+  "/dmv/-/media/dmv/images/amistad.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/amistad.gif?sc_lang=en&rev=b931267dd9a140a2896e3d729e950a90&hash=BB18520C8295B7AD700950F1D808576C",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/blue-knights.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/blue-knights.gif?sc_lang=en&rev=2a5d47b3df2d4a47a8f286b25eca2b6d&hash=53B4E608B1D05728784003FECD7095F4",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/borinqueneers.jpg": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/borinqueneers.jpg?rev=14eb57e475574afda9b03e5df22fea3d&hash=2F69E38F43A13C9BC70EBE2A0F9706AC",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/bpoe.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/bpoe.gif?sc_lang=en&rev=0e5f7047de8a4dc2a5e0c9c91afe8da8&hash=125AA135885B2BA59EE1AEA5B0F7E0AE",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/burnam-festival.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/burnam-festival.gif?sc_lang=en&rev=36d1ff20dce74f4c830a824f73992b16&hash=31893E156C86AC6FC2AE75BCCEF76C7F",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/celnursing.jpg": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/celnursing.jpg?sc_lang=en&rev=a70e565a73e74abc835b1b027d9d4aab&hash=CF40A751467957B75F9A3A2D86C7CB29",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/cpc.png": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/cpc.png?sc_lang=en&rev=066fceb2b36c4672a871d5c5fdaeb0b8&hash=965982F27E4FE3B44FC50B3A6E83A773",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/cure-kids.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/cure-kids.gif?sc_lang=en&rev=e3a1b7b0788d4be4945e05503447dbd8&hash=87689BFDAAE644F0065A3FC9955E59D2",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/dvets.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/dvets.gif?sc_lang=en&h=151&w=314&rev=56955cfbbca9472fa8f9d0a7ef8a3889&hash=A1B3101297CBB3E271C590D921419F14",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/ferrari.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/ferrari.gif?sc_lang=en&h=147&w=313&rev=df57010e216f406a8e3d61e742e22aed&hash=9A82EA517F27ED74529A520B8EB612E9",
+   "alt": "Ferrari Club of America Plate"
+  },
+  "/dmv/-/media/dmv/images/fidelco.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/fidelco.gif?sc_lang=en&rev=fc8d95d67db346c98036f1a94526d977&hash=BE275D4C135DBB33435A5DA6B47D08F7",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/firefighter.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/firefighter.gif?sc_lang=en&rev=7f56a90b7ba44065b3864e15bd40d5bd&hash=5A4D095261806D26E8E46C972811FD0F",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/fop.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/fop.gif?sc_lang=en&rev=a9f25d526255425ba6b3023146e8bf62&hash=99F9B97477C2FF6DA3DCF82153B93A0A",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/fund-adoption.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/fund-adoption.gif?sc_lang=en&rev=a28715f316c04dafbcf8d9c3dbc6f425&hash=BBD30B30D7F903DD42FD0FB8577ADAB0",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/goldstarpla.jpg": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/goldstarpla.jpg?sc_lang=en&h=152&w=312&rev=9e9a9bff5fba44b7bbba789c6cd5ce6e&hash=A400783627C4E3C7DB69B96CBA726933",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/gway.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/gway.gif?sc_lang=en&h=154&w=300&rev=d61715dd6efc477193c9666c6e837480&hash=65449CE55CC54F5EFDA1B96809C86D21",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/hartford.png": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/hartford.png?sc_lang=en&h=160&w=312&rev=fa41e9b344a0483cbe029ae36d61c685&hash=AD95DB31F03E0F3898B633BFAC1F6616",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/in-line-of-duty.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/in-line-of-duty.gif?sc_lang=en&rev=f42a9737bcfd4f1996eb94072bf2314d&hash=9EB0DA45474ACDA757EC75FB1BDAA05D",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/iuoe.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/iuoe.gif?sc_lang=en&rev=c5b6f509f8064063a35cdb33f2923046&hash=A79D1A889FB0D25707345D2BFB26F143",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/keep-kids-safe.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/keep-kids-safe.gif?sc_lang=en&rev=962cf806a27c420092ec6cda82946a33&hash=50D87BD33B7387EADE459B073B6CCE01",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/laos.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/laos.gif?sc_lang=en&rev=46adab046f8a4b82944399d1fd2d3ae2&hash=85E34021B5F77C82ED8F433625D17438",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/licplate.jpg": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/licplate.jpg?sc_lang=en&rev=3ecccc480a3b4d1bb8d82c91111905a5&hash=AC6F143BE814C0338A61429140437680",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/lions.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/lions.gif?sc_lang=en&rev=e1a366b361bd4a3fb59c66def576de55&hash=35AEAE0B44AB6786F8EED750AE3B5CAC",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/masonic.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/masonic.gif?sc_lang=en&rev=534da88e2dd549aea6f16df68c81418d&hash=74D9D33DE0C3CF7B649D206DDCF1E920",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/motorcycle.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/motorcycle.gif?sc_lang=en&rev=5f004e7ec07a4d819f8f120f4a239bb3&hash=2358BDB3247C5725ABB4C5C380AE5FE1",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/museum.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/museum.gif?sc_lang=en&h=153&w=314&rev=575326f66db84823b6680191c40c4983&hash=FDB509E6AE092C1C7FD34D2B373E9A19",
+   "alt": "New England Air Museum Plate"
+  },
+  "/dmv/-/media/dmv/images/new_classic_plate.jpg": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/new_classic_plate.jpg?sc_lang=en&h=153&w=314&rev=0f9050348dca41f594d22b85e7db3e8a&hash=C0818F2F694CE3335685A6ECDE3CE295",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/olympics-spirit.png": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/olympics-spirit.png?sc_lang=en&h=154&w=311&rev=ca4497fce61843658ca1121915528ba2&hash=DE43B94B69859142AF1C8523574C9928",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/operation-lifesaver.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/operation-lifesaver.gif?sc_lang=en&rev=30e059f41e4a4e049780c88a6813ff23&hash=203A5B72FCE24E9F56A2E08E38F253B9",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/organiza.jpg": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/organiza.jpg?sc_lang=en&h=78&w=147&rev=66b0bbfc84ca48ed96c2c6845390dce9&hash=43D578404D431935859FD2714AC28B09",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/pet.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/pet.gif?sc_lang=en&h=145&w=300&rev=79d37ef1170846b48272e259db607367&hash=CB5606F6514E82F13E807642D6869B7E",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/pizza-state-plate.jpg": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/pizza-state-plate.jpg?rev=9034fe5799ef4310b2246fa52b8cf9cd&hash=E23768474260F5659D730845520F087B",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/police-commissioner.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/police-commissioner.gif?sc_lang=en&rev=c1320469d02844aea7e4f9311ab76430&hash=0EB2B0F7EF149A2CBDE86FDF6EB38377",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/preservation-ct.jpg": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/preservation-ct.jpg?sc_lang=en&rev=51a3162272fe4657a89ebc3f039c25fc&hash=A236DA29B8D136B099A504BD437D9734",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/radio.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/radio.gif?sc_lang=en&h=146&w=309&rev=15f6ecb308b34d8bb3845f0db811dd0c&hash=237EBEC7D8AA4C98E761E985AE7C80E0",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/red-sox.png": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/red-sox.png?sc_lang=en&h=197&w=375&rev=cecc39a0fc26493eb816c38b9227f280&hash=695C3E2BFB73ED7AC1B369AACED0E8C4",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/savelakes.jpg": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/savelakes.jpg?sc_lang=en&h=150&w=310&rev=67a2941422e3442aacf0101706a63bec&hash=188AB62BD246E85031DB29CC803B61EF",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/spccsu.jpg": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/spccsu.jpg?sc_lang=en&rev=cafa840b3bf24cd1a08ce19586d3144f&hash=9415BD89C4A6FCD080715D4C4FE26A8D",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/spclaelk.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/spclaelk.gif?sc_lang=en&rev=7e679aa86121467f9e40a3eee4f7e281&hash=7E07AA1F50D058F32549BF3FAA109B35",
+   "alt": "Candlewood Lake Authority Plate"
+  },
+  "/dmv/-/media/dmv/images/spcolumb.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/spcolumb.gif?sc_lang=en&rev=07e145347aad46faa135d6083f03166e&hash=F98F8634ACDB822FE8697DCC3336BD07",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/spducks.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/spducks.gif?sc_lang=en&rev=986b01ec9ed64345afbf07d760888b50&hash=53C5DFA46B45E5AC71B669B78DA4BDE5",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/special-olympics.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/special-olympics.gif?sc_lang=en&rev=f0935f3440df4677b31b0a36aa8c9882&hash=8E4B7DC078387F55748F3C8E2B5A54B3",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/spftgd.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/spftgd.gif?sc_lang=en&rev=c5207606fab2450692c39bd69fd0113d&hash=17767E57664AB9E57B44F36462C4C53E",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/spgarden.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/spgarden.gif?sc_lang=en&h=149&w=314&rev=ef7ea251ce7b405998bae4b0351a0750&hash=E10E5153B89AF5C93B505FD213230A9D",
+   "alt": "Federated Garden Clubs of Connecticut plate"
+  },
+  "/dmv/-/media/dmv/images/spguard.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/spguard.gif?sc_lang=en&rev=f7b878c976c34654859c1b4ddcad1059&hash=2D20AB5F3D52D8B514991D235FB3B62C",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/sphorse.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/sphorse.gif?sc_lang=en&rev=2af5c87022034765b5132dc64ce3ba98&hash=E4BBB591633F1B9EA9631D8E5408AC15",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/spiwojim.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/spiwojim.gif?sc_lang=en&rev=031da29bdffa469c92e2fa6f3bf6fe73&hash=C6175F3ED31078BBA5BAAA44A4FB8C3C",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/spkorvt.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/spkorvt.gif?sc_lang=en&rev=55cf4ac0ca6743a58e33362ed775b749&hash=533762F30413D95C0721757A75DE9B8B",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/splis.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/splis.gif?sc_lang=en&h=146&w=300&rev=c7c9947b1c2e474abe80222af70acfc2&hash=4C8BA394FDB3B64841F6A9E9FC27B4DB",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/spmarine.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/spmarine.gif?sc_lang=en&rev=13f812b8d6db4ab784db0f21a7e24af8&hash=1F3467F7E0DB74BB2F348746649471B3",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/spmerden.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/spmerden.gif?sc_lang=en&rev=6d755f3b0b5b4be192337c256256bf4c&hash=063C6F127E63DA4CD8A3F0C39F115659",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/spngret.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/spngret.gif?sc_lang=en&rev=6b0aa1011f974361bac357d339c71bcc&hash=4B96C38AC7F8C88EB9E37C89C5DFCB69",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/sppara.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/sppara.gif?sc_lang=en&rev=fb3e33bdd1654f5f9a0c58ca6ae30b3d&hash=2E4FCD3B6DE0FD4BD7D512A230BB6C39",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/sppearl.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/sppearl.gif?sc_lang=en&rev=0bc31bfccf8e4fbdb8f16f1405432700&hash=A98B7FBEF5185370D13F002297EE3DD6",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/sppenn.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/sppenn.gif?sc_lang=en&rev=68aa496c229847bd850a607ae7c0dd3d&hash=11228ABD83B5BA9EE9464ACC77F15975",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/sppurhrt.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/sppurhrt.gif?sc_lang=en&rev=40ab5789d5f4421e85d948074052350f&hash=0E65AA7AB10E0020562E620B8EA25A53",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/sprose.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/sprose.gif?sc_lang=en&rev=b6ffb44a78bd4fd6a1d009db29b1efc1&hash=4A911C36B5E67CE86F7A6D6C8032A828",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/spsec.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/spsec.gif?sc_lang=en&rev=c5a049a097c14133854cf4b0fef68f79&hash=9CC7962A25E84C0309E35B5523625DF7",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/spstaffo.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/spstaffo.gif?sc_lang=en&rev=f29b3c73fdcb441ca8fe8d09cee9a825&hash=5BC467D8D4C0FFA1E2B3F80C447D3723",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/spsub.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/spsub.gif?sc_lang=en&rev=2a731cb70b6443cdac56ee459b02778d&hash=57EF3B5390A638053B4616F7B72B9357",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/support.jpg": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/support.jpg?sc_lang=en&rev=d82af58abf744e949f3ec1c5cd1599df&hash=E482342DF1B8B5A2EF3A138792B654EC",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/uconn-basketball.jpg": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/uconn-basketball.jpg?rev=aa457736f3604c9cb2147768322efb24&hash=B99C3C9363A7D96F6AACA9E4CD2B306E",
+   "alt": "UConn plate with basketball image"
+  },
+  "/dmv/-/media/dmv/images/uconn-campus.jpg": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/uconn-campus.jpg?rev=47135bf2ffba4ef5a296c2175fe39a20&hash=AD90AF963E7897B3A3E73F949187EB03",
+   "alt": "UConn plate with images of campus"
+  },
+  "/dmv/-/media/dmv/images/uconn-wilbur-cross.jpg": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/uconn-wilbur-cross.jpg?rev=644c3015dc994afabf82530d9a5eb53f&hash=B773E2DCA9FAA02FDEB5DC4F5FCBDD1D",
+   "alt": "UConn plate with Wilbur Cross building"
+  },
+  "/dmv/-/media/dmv/images/uconn.jpg": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/uconn.jpg?sc_lang=en&h=146&w=312&rev=7d8c78978e524690860dbd1182bed4a0&hash=2C942684DEB8E91D03E1B81EC2F55CC2",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/uhartford_2017.jpg": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/uhartford_2017.jpg?sc_lang=en&rev=03db9d77ba4040a99e93838af81b6fd0&hash=47334C69CEA55FFD154A6DD7136986B7",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/uniformed-professional.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/uniformed-professional.gif?sc_lang=en&rev=4c35c1ff96854aefa5ceb3b10c24b7c6&hash=5E9005D203C3BECA035FB0740E8A0DEE",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/united-we-stand.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/united-we-stand.gif?sc_lang=en&rev=bdc39f9144a742fbbe03439f9169f8ea&hash=037871F06A9DC28643B22B71894FD8A6",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/univnh.jpg": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/univnh.jpg?sc_lang=en&h=146&w=320&rev=93db6ae89761443380af1b7f4d5c9da3&hash=C24EDA4A8EF277291D2809E11A4B5F66",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/uss.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/uss.gif?sc_lang=en&rev=5a07784ea2c549d38e3eb48f387970ff&hash=F0265AA58DB2D16287C89CC34BDC84F5",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/vet.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/vet.gif?sc_lang=en&rev=a7152ade68a54a5e9ef1c8f9ecba36ae&hash=127EBE30F1D34818DC9E419A54DDEA75",
+   "alt": ""
+  },
+  "/dmv/-/media/dmv/images/woman-veterans-plate.jpg": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/woman-veterans-plate.jpg?h=157&w=338&rev=d37517440721446ea896da09d94ef346&hash=B17F0681BB8A9DA3595B59A2C9C77266",
+   "alt": ""
+  }
+ }
+}

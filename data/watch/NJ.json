@@ -1,0 +1,87 @@
+{
+ "code": "NJ",
+ "url": "https://www.state.nj.us/mvc/vehicles/serviceorg.htm",
+ "checked": "2026-10-26",
+ "pictures": {
+  "/mvc/images/air_force_retired.gif": {
+   "src": "https://www.state.nj.us/mvc/images/Air_Force_Retired.gif",
+   "alt": "Retired Air Force"
+  },
+  "/mvc/images/airborne.gif": {
+   "src": "https://www.state.nj.us/mvc/images/Airborne.gif",
+   "alt": "Airborne"
+  },
+  "/mvc/images/american_legion.gif": {
+   "src": "https://www.state.nj.us/mvc/images/American_Legion.gif",
+   "alt": "American Legion"
+  },
+  "/mvc/images/amvets.gif": {
+   "src": "https://www.state.nj.us/mvc/images/Amvets.gif",
+   "alt": "AMVETS"
+  },
+  "/mvc/images/civil_air_patrol.gif": {
+   "src": "https://www.state.nj.us/mvc/images/Civil_Air_Patrol.gif",
+   "alt": "Civil Air Patrol"
+  },
+  "/mvc/images/coast_guard_auxiliary.gif": {
+   "src": "https://www.state.nj.us/mvc/images/Coast_Guard_Auxiliary.gif",
+   "alt": "Coast Guard Auxiliary"
+  },
+  "/mvc/images/disabled_amvets.gif": {
+   "src": "https://www.state.nj.us/mvc/images/Disabled_AmVets.gif",
+   "alt": "Disabled Veterans"
+  },
+  "/mvc/images/lakehurst_navy.gif": {
+   "src": "https://www.state.nj.us/mvc/images/Lakehurst_Navy.gif",
+   "alt": "Lakehurst Navy"
+  },
+  "/mvc/images/marine_corps_league.gif": {
+   "src": "https://www.state.nj.us/mvc/images/Marine_Corps_League.gif",
+   "alt": "Marine Corps League"
+  },
+  "/mvc/images/merchant_marines_academy.gif": {
+   "src": "https://www.state.nj.us/mvc/images/Merchant_Marines_Academy.gif",
+   "alt": "Merchant Marines Academy"
+  },
+  "/mvc/images/merchant_marines_standard.gif": {
+   "src": "https://www.state.nj.us/mvc/images/Merchant_Marines_Standard.gif",
+   "alt": "Merchant Marine"
+  },
+  "/mvc/images/navy_league.gif": {
+   "src": "https://www.state.nj.us/mvc/images/Navy_League.gif",
+   "alt": "Navy League"
+  },
+  "/mvc/images/nj_vietnam_veterans.gif": {
+   "src": "https://www.state.nj.us/mvc/images/NJ_Vietnam_Veterans.gif",
+   "alt": "Vietnam Veterans"
+  },
+  "/mvc/images/pearl_harbor_survivor.gif": {
+   "src": "https://www.state.nj.us/mvc/images/Pearl_Harbor_Survivor.gif",
+   "alt": "Pearl Harbor Survivors"
+  },
+  "/mvc/images/purple_heart.gif": {
+   "src": "https://www.state.nj.us/mvc/images/Purple_Heart.gif",
+   "alt": "Purple Hearts"
+  },
+  "/mvc/images/retired_us_army.gif": {
+   "src": "https://www.state.nj.us/mvc/images/Retired_US_Army.gif",
+   "alt": "Retired U.S. Army"
+  },
+  "/mvc/images/submarine_veterans.gif": {
+   "src": "https://www.state.nj.us/mvc/images/Submarine_Veterans.gif",
+   "alt": "Submarine Veterans"
+  },
+  "/mvc/images/tin_can_sailors.gif": {
+   "src": "https://www.state.nj.us/mvc/images/Tin_Can_Sailors.gif",
+   "alt": "Tin Can Sailors"
+  },
+  "/mvc/images/veterans_of_foreign_wars_vfw.gif": {
+   "src": "https://www.state.nj.us/mvc/images/Veterans_Of_Foreign_Wars_VFW.gif",
+   "alt": "Veterans of Foreign Wars"
+  },
+  "/mvc/images/west_point.gif": {
+   "src": "https://www.state.nj.us/mvc/images/West_Point.gif",
+   "alt": "West Point"
+  }
+ }
+}
