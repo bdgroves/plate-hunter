@@ -12,7 +12,7 @@
  {
   "code": "CA",
   "name": "California",
-  "url": "https://www.dmv.ca.gov/portal/vehicle-registration/license-plates-decals-and-placards/california-license-plates/special-license-plates/"
+  "url": "https://www.dmv.ca.gov/portal/vehicle-registration/license-plates-decals-and-placards/license-plates/special-interest-special-license-plates/"
  },
  {
   "code": "NV",
@@ -127,7 +127,7 @@
  {
   "code": "MN",
   "name": "Minnesota",
-  "url": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf"
+  "url": "https://dps.mn.gov/divisions/dvs/vehicle/license-plates/specialized-license-plates"
  },
  {
   "code": "MO",
@@ -187,7 +187,7 @@
  {
   "code": "OK",
   "name": "Oklahoma",
-  "url": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/mv-forms/Specialty%20Plates%20Catalog.pdf"
+  "url": "https://oklahoma.gov/service/all-services/auto-vehicle/specialty-plates.html"
  },
  {
   "code": "PA",
@@ -238,5 +238,10 @@
   "code": "WY-2",
   "name": "Wyoming",
   "url": "https://www.dot.state.wy.us/home/titles_plates_registration/specialty_plates/veteran_plates.html"
+ },
+ {
+  "code": "ID-2",
+  "name": "Idaho",
+  "url": "https://itd.idaho.gov/?p=3247"
  }
 ]
