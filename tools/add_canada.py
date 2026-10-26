@@ -1,7 +1,7 @@
 """
-Build a Canadian province's or territory's plate list from a research file.
+Build a Canadian province's or territory's, or a Mexican state's, plate list from a research file.
 
-    python tools/add_canada.py research/canada/ON.json [more files...]
+    python tools/add_canada.py research/canada/ON.json research/mexico/JAL.json [more files...]
 
 Each research file (see research/canada/README.md) names the everyday plate's picture and every
 specialty plate the province sells, with picture addresses. This writes data/<CODE>.json (plates
@@ -31,9 +31,11 @@ TODAY = dt.date.today().isoformat()
 def build(path: Path) -> str:
     r = json.loads(path.read_text(encoding="utf-8"))
     code = r["code"].upper()
-    pf = ROOT / "data" / "provinces.json"
+    pf = next(f for f in (ROOT / "data" / "provinces.json", ROOT / "data" / "mexico.json")
+              if any(p["code"] == code for p in json.loads(f.read_text(encoding="utf-8"))))
     provinces = json.loads(pf.read_text(encoding="utf-8"))
     prov = next(p for p in provinces if p["code"] == code)
+    kind = "territory" if code in ("YT", "NT", "NU") else "state" if pf.name == "mexico.json" else "province"
 
     f = ROOT / "data" / f"{code}.json"
     doc = json.loads(f.read_text(encoding="utf-8")) if f.exists() else {
@@ -64,12 +66,9 @@ def build(path: Path) -> str:
         "updated": TODAY,
         "checked": bool(r.get("complete")),
         "checked_on": TODAY,
-        "about": f"{prov['name']} special-design plates, from the province's own list on {TODAY}. "
-                 "Not rated yet: every plate is worth the same."
-                 if code not in ("YT", "NT", "NU") else
-                 f"{prov['name']} special-design plates, from the territory's own list on {TODAY}. "
+        "about": f"{prov['name']} plates to hunt, from the {kind}'s own sources on {TODAY}. "
                  "Not rated yet: every plate is worth the same.",
-        "sources": [{"title": "Provincial and territorial licensing agencies, and the plates' sponsors",
+        "sources": [{"title": "State, provincial and territorial licensing agencies, and the plates' sponsors",
                      "url": r.get("robot_url") or ""}],
     })
     f.write_text(json.dumps(doc, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")

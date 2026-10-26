@@ -1,7 +1,7 @@
 {
   "name": "Plate Hunter",
   "short_name": "Plate Hunter",
-  "description": "The road-trip license plate game: spot every state and province, and hunt more than 7,000 specialty plates.",
+  "description": "The road-trip license plate game: spot every state in the US and Mexico and every Canadian province, and hunt more than 7,000 specialty plates.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

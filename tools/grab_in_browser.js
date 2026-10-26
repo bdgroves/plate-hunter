@@ -21,7 +21,7 @@
     }
   }
   // everyday plates waiting for a picture, saved as standard--CODE.ext
-  for (const list of ['data/states.json', 'data/provinces.json']) {
+  for (const list of ['data/states.json', 'data/provinces.json', 'data/mexico.json']) {
     for (const s of await (await fetch(raw + list)).json()) {
       if (!s.img_url || new URL(s.img_url).hostname !== location.hostname) continue;
       try {

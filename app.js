@@ -26,15 +26,17 @@ const UNRATED_PTS = 20;
 // Tiny states get a labeled box beside the map so they're easy to tap.
 const CALLOUTS = ['VT', 'NH', 'MA', 'RI', 'CT', 'NJ', 'DE', 'MD', 'DC'];
 const CALLOUTS_CA = ['PE', 'NS', 'NB'];
+const CALLOUTS_MX = ['CMX', 'MOR', 'TLA', 'AGU', 'QUE'];
 // The two countries in the classic game. Each keeps its own count; a trip spans both.
 const COUNTRY = {
   us: { list: () => S.states, map: () => S.map, callouts: CALLOUTS, cx: 982, cy: 150, noun: 'state', label: 'USA', flag: '🇺🇸', ms: 'ms', w: 1050 },
   ca: { list: () => S.provinces, map: () => S.caMap, callouts: CALLOUTS_CA, cx: 880, cy: 700, noun: 'province', label: 'Canada', flag: '🇨🇦', ms: 'msCA', w: 960 },
+  mx: { list: () => S.mexico, map: () => S.mxMap, callouts: CALLOUTS_MX, cx: 40, cy: 440, noun: 'Mexican state', label: 'Mexico', flag: '🇲🇽', ms: 'msMX', w: 960 },
 };
 
 const S = {
   view: 'states',            // 'states' | 'specialty'
-  states: [], map: null, provinces: [], caMap: null, collections: [],
+  states: [], map: null, provinces: [], caMap: null, mexico: [], mxMap: null, collections: [],
   country: store.get('ph_country', 'us'),   // which map the States tab shows
   col: null,                 // the loaded specialty collection
   colCode: store.get('ph_col', 'WA'),
@@ -50,9 +52,9 @@ if (!S.trip) { S.trip = { started: Date.now(), seen: {} }; store.set('ph_trip', 
 async function getJSON(url) { const r = await fetch(url); if (!r.ok) throw new Error(url + ' ' + r.status); return r.json(); }
 
 async function boot() {
-  [S.states, S.map, S.collections, S.provinces, S.caMap] = await Promise.all([
+  [S.states, S.map, S.collections, S.provinces, S.caMap, S.mexico, S.mxMap] = await Promise.all([
     getJSON('data/states.json'), getJSON('data/us-map.json'), getJSON('data/collections.json'),
-    getJSON('data/provinces.json'), getJSON('data/ca-map.json')]);
+    getJSON('data/provinces.json'), getJSON('data/ca-map.json'), getJSON('data/mexico.json'), getJSON('data/mx-map.json')]);
   if (!COUNTRY[S.country]) S.country = 'us';
   if (!S.collections.find(c => c.code === S.colCode)) S.colCode = S.collections[0].code;
   const h = location.hash.replace('#', '').split('/');
@@ -78,14 +80,14 @@ async function show(view) {
   S.view = view; store.set('ph_view', view);
   document.querySelectorAll('.tab').forEach(t => t.setAttribute('aria-selected', t.dataset.view === view));
   if (view === 'specialty' && (!S.col || S.col.code !== S.colCode)) await loadCollection(S.colCode);
-  const hash = view === 'states' ? (S.country === 'ca' ? '#states/ca' : '#states') : '#specialty/' + S.colCode.toLowerCase();
+  const hash = view === 'states' ? (S.country === 'us' ? '#states' : '#states/' + S.country) : '#specialty/' + S.colCode.toLowerCase();
   if (location.hash !== hash) history.replaceState(null, '', hash);
   view === 'states' ? renderStates() : renderSpecialty();
 }
 
-// Codes never clash: no province shares a postal code with a state.
-const region = code => S.states.find(s => s.code === code) || S.provinces.find(s => s.code === code);
-const countryOf = code => S.provinces.some(s => s.code === code) ? 'ca' : 'us';
+// Codes never clash: no province shares a postal code with a state, and Mexico's are three letters.
+const region = code => S.states.find(s => s.code === code) || S.provinces.find(s => s.code === code) || S.mexico.find(s => s.code === code);
+const countryOf = code => S.provinces.some(s => s.code === code) ? 'ca' : S.mexico.some(s => s.code === code) ? 'mx' : 'us';
 const seenIn = (k, seen = S.trip.seen) => COUNTRY[k].list().filter(s => seen[s.code]).length;
 
 function renderStates() {
@@ -96,7 +98,7 @@ function renderStates() {
   $('#main').innerHTML = `
   <div class="fb country" role="group" aria-label="Country">${seg}</div>
   <section class="pw" aria-label="This trip">
-    <div class="pr"><span class="pl">${k === 'ca' ? 'Provinces and territories' : 'States'} this trip</span><span class="pn" id="pCt">${n} / ${total}</span></div>
+    <div class="pr"><span class="pl">${k === 'ca' ? 'Provinces and territories' : k === 'mx' ? 'Mexican states' : 'States'} this trip</span><span class="pn" id="pCt">${n} / ${total}</span></div>
     <div class="pt"><div class="pf" id="pFill" style="width:${n / total * 100}%"></div></div>
     <div class="st">
       <span class="pill">🗓 <span>started</span> ${esc(fmtDate(S.trip.started))}</span>
@@ -114,7 +116,7 @@ function renderStates() {
   $('#main').querySelector('.country').onclick = e => {
     const b = e.target.closest('[data-country]'); if (!b || b.dataset.country === S.country) return;
     S.country = b.dataset.country; store.set('ph_country', S.country);
-    history.replaceState(null, '', S.country === 'ca' ? '#states/ca' : '#states');
+    history.replaceState(null, '', S.country === 'us' ? '#states' : '#states/' + S.country);
     renderStates();
   };
   $('#newTrip').onclick = confirmNewTrip;
@@ -152,7 +154,7 @@ function mapSVG() {
       <rect x="${x}" y="${y}" width="62" height="30" rx="7"/><text x="${x + 31}" y="${y + 15.5}" class="${seen[c] ? 'found' : ''}">${c}</text></g>`;
   });
   const [, , , h] = C.map().viewBox.split(' ');
-  return `<svg class="map map-${S.country}" viewBox="0 0 ${C.w} ${h}" role="group" aria-label="Map of ${C.noun === 'state' ? 'states' : 'provinces and territories'} found this trip">${paths}${call}${labels}</svg>`;
+  return `<svg class="map map-${S.country}" viewBox="0 0 ${C.w} ${h}" role="group" aria-label="Map of ${{ us: 'states', ca: 'provinces and territories', mx: 'Mexican states' }[S.country]} found this trip">${paths}${call}${labels}</svg>`;
 }
 
 function plateVisual(img, code, cls = 'plate-img') {
@@ -189,9 +191,10 @@ function renderSpecialty() {
   <div class="picker">
     <label for="colPick" class="pl">State or province</label>
     <select id="colPick">
-      <optgroup label="United States">${S.collections.filter(k => k.country !== 'CA' && k.checked !== false).map(opt).join('')}</optgroup>
-      ${S.collections.some(k => k.country !== 'CA' && k.checked === false) ? `<optgroup label="United States, 2023 list (not checked yet)">${S.collections.filter(k => k.country !== 'CA' && k.checked === false).map(opt).join('')}</optgroup>` : ''}
+      <optgroup label="United States">${S.collections.filter(k => !k.country && k.checked !== false).map(opt).join('')}</optgroup>
+      ${S.collections.some(k => !k.country && k.checked === false) ? `<optgroup label="United States, 2023 list (not checked yet)">${S.collections.filter(k => !k.country && k.checked === false).map(opt).join('')}</optgroup>` : ''}
       <optgroup label="Canada">${S.collections.filter(k => k.country === 'CA').map(opt).join('')}</optgroup>
+      ${S.collections.some(k => k.country === 'MX') ? `<optgroup label="Mexico">${S.collections.filter(k => k.country === 'MX').map(opt).join('')}</optgroup>` : ''}
     </select>
   </div>
   <section class="pw" aria-label="${esc(c.name)} progress">
@@ -307,18 +310,21 @@ function setState(code, on) {
   if (S.drawer && S.drawer.id === code) openState(code);
 }
 
-function tripLine(us, ca) {
-  return `${us} of ${S.states.length} states` + (ca ? ` and ${ca} of ${S.provinces.length} provinces and territories` : '');
+function tripLine(us, ca, mx = seenIn('mx')) {
+  const parts = [`${us} of ${S.states.length} states`];
+  if (ca) parts.push(`${ca} of ${S.provinces.length} provinces and territories`);
+  if (mx) parts.push(`${mx} of ${S.mexico.length} Mexican states`);
+  return parts.length > 1 ? parts.slice(0, -1).join(', ') + ' and ' + parts.at(-1) : parts[0];
 }
 
 function confirmNewTrip() {
   const n = Object.keys(S.trip.seen).length, us = seenIn('us'), ca = seenIn('ca');
   openSheet(`<div class="drawer-body sheet-text">
     <div class="drawer-name">Start a new trip?</div>
-    <p>This trip found <b>${tripLine(us, ca)}</b> since ${esc(fmtDate(S.trip.started))}. A new trip clears both maps. Your “ever seen” list and specialty finds stay.</p>
+    <p>This trip found <b>${tripLine(us, ca)}</b> since ${esc(fmtDate(S.trip.started))}. A new trip clears the maps. Your “ever seen” list and specialty finds stay.</p>
     <div class="row"><button class="btn" id="ntGo">Start new trip</button><button class="btn ghost" data-close>Keep this one</button></div></div>`);
   $('#ntGo').onclick = () => {
-    if (n) { S.trips.unshift({ started: S.trip.started, ended: Date.now(), count: us, ca }); store.set('ph_trips', S.trips.slice(0, 50)); }
+    if (n) { S.trips.unshift({ started: S.trip.started, ended: Date.now(), count: us, ca, mx: seenIn('mx') }); store.set('ph_trips', S.trips.slice(0, 50)); }
     S.trip = { started: Date.now(), seen: {} }; store.set('ph_trip', S.trip);
     closeDrawer(); renderStates(); toast('🛣 New trip started. Good hunting!', 'var(--y)');
   };
@@ -393,8 +399,8 @@ function openAbout() {
   const unchecked = S.collections.filter(c => c.checked === false).map(c => esc(c.name)).join(', ').replace(/, ([^,]*)$/, ' and $1');
   openSheet(`<div class="drawer-body sheet-text">
     <h2 class="drawer-name">How to play</h2>
-    <p><b>States</b> is the classic road-trip game. Every time you see a plate from a new state, tap it on the map or in the list. Switch to <b>Canada</b> for the 10 provinces and 3 territories; each country keeps its own count. Start a new trip when you set off again; the places you've ever seen are kept.</p>
-    <p><b>Specialty</b> is the deep cut: ${total} special-design plates from every state, province and territory. Tap a plate when you spot it. ${unchecked ? `Most lists are checked against the state's or province's current one; ${unchecked} still come from a 2023 snapshot, so a few plates there may be retired or missing.` : `Every list is checked against the state's or province's current one, and a robot looks for new plates twice a week.`} Plates no longer sold stay in the game, because they're still on the road. Rarer plates are worth more. In Washington the points come from how many vehicles really carry each plate, from the Department of Licensing's own counts. Everywhere else isn't rated yet, so every plate there is worth the same.</p>
+    <p><b>States</b> is the classic road-trip game. Every time you see a plate from a new state, tap it on the map or in the list. Switch to <b>Canada</b> for the 10 provinces and 3 territories, or <b>Mexico</b> for its 32 states; each country keeps its own count. Start a new trip when you set off again; the places you've ever seen are kept.</p>
+    <p><b>Specialty</b> is the deep cut: ${total} special-design plates from every US state, Canadian province and territory, and Mexican state. Tap a plate when you spot it. ${unchecked ? `Most lists are checked against the state's or province's current one; ${unchecked} still come from a 2023 snapshot, so a few plates there may be retired or missing.` : `Every list is checked against the state's or province's current one, and a robot looks for new plates twice a week.`} Plates no longer sold stay in the game, because they're still on the road. Rarer plates are worth more. In Washington the points come from how many vehicles really carry each plate, from the Department of Licensing's own counts. Everywhere else isn't rated yet, so every plate there is worth the same.</p>
     <p>Tapped the wrong one? Use <b>Undo</b>, or open the plate and unmark it.</p>
     <h3>Your progress</h3>
     <p>Everything is saved in this browser on this device, with no account. To move it to another phone, save a backup and open it there.</p>
@@ -403,7 +409,7 @@ function openAbout() {
     <p>On a phone, use your browser's <b>Add to Home Screen</b>. Plate Hunter then opens like an app and works with no signal; tap <b>Save for offline</b> in a specialty collection first to keep all of its pictures.</p>
     <h3>Where the plates come from</h3>
     <p>Plate images: state and provincial licensing agencies and the plates' sponsors, many US ones via Jon Keegan's <a href="https://github.com/jonkeegan/us-license-plates" target="_blank" rel="noopener">US license plates dataset</a> (2023) for Beautiful Public Data. Washington counts: WA DOL's Special License Plate Annual Report to the Legislature, and 2025 figures reported by the Seattle Times. Spot a plate that's missing? <a href="https://github.com/bdgroves/plate-hunter/issues/new?title=New%20plate%3A%20" target="_blank" rel="noopener">Tell us on GitHub</a>.</p>
-    ${S.trips.length ? `<h3>Past trips</h3><ul>${S.trips.slice(0, 8).map(t => `<li>${esc(fmtDate(t.started))} to ${esc(fmtDate(t.ended))}: ${t.count} states${t.ca ? `, ${t.ca} provinces` : ''}</li>`).join('')}</ul>` : ''}
+    ${S.trips.length ? `<h3>Past trips</h3><ul>${S.trips.slice(0, 8).map(t => `<li>${esc(fmtDate(t.started))} to ${esc(fmtDate(t.ended))}: ${t.count} states${t.ca ? `, ${t.ca} provinces` : ''}${t.mx ? `, ${t.mx} Mexican states` : ''}</li>`).join('')}</ul>` : ''}
     <button class="btn ghost" data-close>Close</button></div>`);
   $('#bkSave').onclick = backup;
   $('#bkLoad').onchange = restore;
@@ -494,6 +500,7 @@ function refreshStatus() {
   const parts = [
     `Trip <b>${seenIn('us')}/${S.states.length || 51}</b>`,
     ...(S.provinces.length && (S.country === 'ca' || seenIn('ca')) ? [`Canada <b>${seenIn('ca')}/${S.provinces.length}</b>`] : []),
+    ...(S.mexico.length && (S.country === 'mx' || seenIn('mx')) ? [`Mexico <b>${seenIn('mx')}/${S.mexico.length}</b>`] : []),
     `Since <b>${esc(new Date(S.trip.started).toLocaleDateString(undefined, { month: 'short', day: 'numeric' }))}</b>`,
     `Ever <b>${Object.keys(S.ever).length}</b>`,
   ];

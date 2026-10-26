@@ -58,6 +58,21 @@ for s in provinces:
         bad(f"data/ca-map.json: no shape for {s['code']}")
     if s.get("img") and not (ROOT / s["img"]).exists():
         bad(f"data/provinces.json: {s['code']} picture {s['img']} is missing")
+mexico = load("data/mexico.json") or []
+mxmap = load("data/mx-map.json") or {"states": {}}
+mcodes = [s["code"] for s in mexico]
+if len(set(mcodes)) != 32:
+    bad(f"data/mexico.json: expected 32 Mexican states, found {len(set(mcodes))}")
+if set(mcodes) & (set(codes) | set(pcodes)):
+    bad(f"a Mexican state shares a code with a state or province: {sorted(set(mcodes) & (set(codes) | set(pcodes)))}")
+for s in mexico:
+    if s["code"] not in mxmap["states"]:
+        bad(f"data/mx-map.json: no shape for {s['code']}")
+    if s.get("img") and not (ROOT / s["img"]).exists():
+        bad(f"data/mexico.json: {s['code']} picture {s['img']} is missing")
+for c in cols:
+    if (c.get("country") == "MX") != (c["code"] in mcodes):
+        bad(f"data/collections.json: {c['code']} should{'' if c['code'] in mcodes else ' not'} have country MX")
 for c in cols:
     if (c.get("country") == "CA") != (c["code"] in pcodes):
         bad(f"data/collections.json: {c['code']} should{'' if c['code'] in pcodes else ' not'} have country CA")
@@ -106,4 +121,4 @@ if problems:
     for p in problems:
         print("  -", p)
     sys.exit(1)
-print(f"OK: {len(states)} states, {len(provinces)} provinces and territories, {len(cols)} specialty collections, {total_plates} plates")
+print(f"OK: {len(states)} states, {len(provinces)} provinces and territories, {len(mexico)} Mexican states, {len(cols)} specialty collections, {total_plates} plates")

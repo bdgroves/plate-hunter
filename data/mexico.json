@@ -1,0 +1,194 @@
+[
+ {
+  "code": "AGU",
+  "name": "Aguascalientes",
+  "country": "MX",
+  "img": null
+ },
+ {
+  "code": "BCN",
+  "name": "Baja California",
+  "country": "MX",
+  "img": null
+ },
+ {
+  "code": "BCS",
+  "name": "Baja California Sur",
+  "country": "MX",
+  "img": null
+ },
+ {
+  "code": "CAM",
+  "name": "Campeche",
+  "country": "MX",
+  "img": null
+ },
+ {
+  "code": "CHP",
+  "name": "Chiapas",
+  "country": "MX",
+  "img": null
+ },
+ {
+  "code": "CHH",
+  "name": "Chihuahua",
+  "country": "MX",
+  "img": null
+ },
+ {
+  "code": "CMX",
+  "name": "Mexico City",
+  "country": "MX",
+  "img": null
+ },
+ {
+  "code": "COA",
+  "name": "Coahuila",
+  "country": "MX",
+  "img": null
+ },
+ {
+  "code": "COL",
+  "name": "Colima",
+  "country": "MX",
+  "img": null
+ },
+ {
+  "code": "DUR",
+  "name": "Durango",
+  "country": "MX",
+  "img": null
+ },
+ {
+  "code": "GUA",
+  "name": "Guanajuato",
+  "country": "MX",
+  "img": null
+ },
+ {
+  "code": "GRO",
+  "name": "Guerrero",
+  "country": "MX",
+  "img": null
+ },
+ {
+  "code": "HID",
+  "name": "Hidalgo",
+  "country": "MX",
+  "img": null
+ },
+ {
+  "code": "JAL",
+  "name": "Jalisco",
+  "country": "MX",
+  "img": null
+ },
+ {
+  "code": "MEX",
+  "name": "State of Mexico",
+  "country": "MX",
+  "img": null
+ },
+ {
+  "code": "MIC",
+  "name": "Michoacán",
+  "country": "MX",
+  "img": null
+ },
+ {
+  "code": "MOR",
+  "name": "Morelos",
+  "country": "MX",
+  "img": null
+ },
+ {
+  "code": "NAY",
+  "name": "Nayarit",
+  "country": "MX",
+  "img": null
+ },
+ {
+  "code": "NLE",
+  "name": "Nuevo León",
+  "country": "MX",
+  "img": null
+ },
+ {
+  "code": "OAX",
+  "name": "Oaxaca",
+  "country": "MX",
+  "img": null
+ },
+ {
+  "code": "PUE",
+  "name": "Puebla",
+  "country": "MX",
+  "img": null
+ },
+ {
+  "code": "QUE",
+  "name": "Querétaro",
+  "country": "MX",
+  "img": null
+ },
+ {
+  "code": "ROO",
+  "name": "Quintana Roo",
+  "country": "MX",
+  "img": null
+ },
+ {
+  "code": "SLP",
+  "name": "San Luis Potosí",
+  "country": "MX",
+  "img": null
+ },
+ {
+  "code": "SIN",
+  "name": "Sinaloa",
+  "country": "MX",
+  "img": null
+ },
+ {
+  "code": "SON",
+  "name": "Sonora",
+  "country": "MX",
+  "img": null
+ },
+ {
+  "code": "TAB",
+  "name": "Tabasco",
+  "country": "MX",
+  "img": null
+ },
+ {
+  "code": "TAM",
+  "name": "Tamaulipas",
+  "country": "MX",
+  "img": null
+ },
+ {
+  "code": "TLA",
+  "name": "Tlaxcala",
+  "country": "MX",
+  "img": null
+ },
+ {
+  "code": "VER",
+  "name": "Veracruz",
+  "country": "MX",
+  "img": null
+ },
+ {
+  "code": "YUC",
+  "name": "Yucatán",
+  "country": "MX",
+  "img": null
+ },
+ {
+  "code": "ZAC",
+  "name": "Zacatecas",
+  "country": "MX",
+  "img": null
+ }
+]

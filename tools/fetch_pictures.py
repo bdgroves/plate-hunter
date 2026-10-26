@@ -83,7 +83,7 @@ def main() -> int:
         if changed:
             f.write_text(json.dumps(doc, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
 
-    for sf in (ROOT / "data/states.json", ROOT / "data/provinces.json"):
+    for sf in (ROOT / "data/states.json", ROOT / "data/provinces.json", ROOT / "data/mexico.json"):
         states = json.loads(sf.read_text())
         changed = False
         for s in states:
@@ -101,7 +101,7 @@ def main() -> int:
         code, pid = f.stem.split("--", 1) if "--" in f.stem else (f.parent.name, f.stem)
         if code == "standard":   # an everyday plate: incoming/standard--ON.png
             used = any(s["code"] == pid and s.get("img") and not s.get("img_url")
-                       for sf in ("states.json", "provinces.json")
+                       for sf in ("states.json", "provinces.json", "mexico.json")
                        for s in json.loads((ROOT / "data" / sf).read_text()))
         else:
             doc_file = ROOT / "data" / f"{code}.json"
