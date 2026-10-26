@@ -1,0 +1,50 @@
+{
+ "code": "NLE",
+ "name": "Nuevo León",
+ "rated": false,
+ "plates": [
+  {
+   "id": "current-design-2023",
+   "name": "Current design (2023)",
+   "cat": "other",
+   "img": null,
+   "year": "2023",
+   "fact": "Nuevo León's current plate, rolled out in 2023, carries the state's 'Nuevo León' wordmark plus the state and national coats of arms.",
+   "source": "https://www.nl.gob.mx/es/boletines/presenta-nl-nuevo-tramite-digital-placas-para-personas-con-discapacidad"
+  },
+  {
+   "id": "fifa-world-cup-2026-commemorative",
+   "name": "FIFA World Cup 2026 commemorative",
+   "cat": "sports",
+   "img": null,
+   "year": "2026",
+   "fact": "Monterrey hosted World Cup matches, and Nuevo León released a limited run of about 40,000 World Cup plates in March 2026, priced the same as regular plates.",
+   "source": "https://www.nl.gob.mx/es/boletines/presenta-nl-nuevo-tramite-digital-placas-para-personas-con-discapacidad"
+  },
+  {
+   "id": "drivers-with-disabilities",
+   "name": "Drivers with disabilities",
+   "cat": "other",
+   "img": null,
+   "fact": "About 1,500 people a year get Nuevo León's disability plates, and the first set is free.",
+   "source": "https://www.nl.gob.mx/es/boletines/presenta-nl-nuevo-tramite-digital-placas-para-personas-con-discapacidad"
+  },
+  {
+   "id": "eco-vehicles-green-leaf",
+   "name": "Eco vehicles (green leaf)",
+   "cat": "vehicle",
+   "img": null,
+   "source": "https://www.google.com/search?q=placas+site%3Anl.gob.mx&udm=2 (subasta.nl.gob.mx 'Ficha técnica de placas' PDF shows a plate with a green leaf)"
+  }
+ ],
+ "updated": "2026-10-26",
+ "checked": false,
+ "checked_on": "2026-10-26",
+ "about": "Nuevo León plates to hunt, from the state's own sources on 2026-10-26. Not rated yet: every plate is worth the same.",
+ "sources": [
+  {
+   "title": "State, provincial and territorial licensing agencies, and the plates' sponsors",
+   "url": "https://www.nl.gob.mx/es/boletines/presenta-nl-nuevo-tramite-digital-placas-para-personas-con-discapacidad"
+  }
+ ]
+}

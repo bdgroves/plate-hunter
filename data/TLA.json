@@ -1,0 +1,25 @@
+{
+ "code": "TLA",
+ "name": "Tlaxcala",
+ "rated": false,
+ "plates": [
+  {
+   "id": "current-design-2024",
+   "name": "Current design (2024)",
+   "cat": "other",
+   "img": null,
+   "year": "2024",
+   "fact": "Tlaxcala's plate is purple and maroon with the motto 'Tlaxcala, una nueva historia', a QR code on the right, and a REPUVE chip built in."
+  }
+ ],
+ "updated": "2026-10-26",
+ "checked": false,
+ "checked_on": "2026-10-26",
+ "about": "Tlaxcala plates to hunt, from the state's own sources on 2026-10-26. Not rated yet: every plate is worth the same.",
+ "sources": [
+  {
+   "title": "State, provincial and territorial licensing agencies, and the plates' sponsors",
+   "url": ""
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "code": "MEX",
+ "name": "Estado de México",
+ "standard": {
+  "source_img": null,
+  "year": "2024",
+  "note": "The State of Mexico's current plate is white with a maroon, flower-patterned band, the state name, and the motto '¡El poder de servir!' across the top."
+ },
+ "robot_url": "https://pagosytramites.edomex.gob.mx/recaudacion/CtrlVeh/MicRemplaca/index.jsp",
+ "complete": false,
+ "plates": [
+  {
+   "title": "Current design (2024)",
+   "cat": "other",
+   "source_img": null,
+   "year": "2024",
+   "supports": null,
+   "fact": "The State of Mexico's current plate is white with a maroon, flower-patterned band, the state name, and the motto '¡El poder de servir!' across the top.",
+   "source": "https://pagosytramites.edomex.gob.mx/recaudacion/CtrlVeh/MicRemplaca/index.jsp"
+  },
+  {
+   "title": "Previous design (Del Mazo era, about 2019-2023)",
+   "cat": "other",
+   "source_img": null,
+   "year": null,
+   "supports": null,
+   "fact": "Edomex replates by year of issue, so older sets stay legal until their cohort is called; in 2025 that was plates issued in 2020 or earlier.",
+   "source": "https://www.elfinanciero.com.mx/edomex/2025/07/04/reemplacamiento-2025-en-edomex-gobierno-ofrece-descuentos-a-mexiquenses-para-renovar-sus-placas/"
+  }
+ ],
+ "notes": "No official picture of the plate turned up: the Finance Secretariat's reemplacamiento microsite (robot_url) shows no plate artwork, and sfpya.edomexico.gob.mx gave a certificate (privacy) error. The year 2024 is approximate: UnoTV says the replating with the 14-security-feature plate has run since 2024. The previous design's title and years are inferred from that cycle and weren't seen on an official page. Mandatory replating runs in yearly cohorts (2025: private plates issued in 2020, campaign to 31 Aug 2025). No special plates (antique, disability, EV) were confirmed. New regional-color public-transport plates (2026) are excluded."
+}

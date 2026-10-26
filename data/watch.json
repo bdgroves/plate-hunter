@@ -413,5 +413,60 @@
   "code": "YT",
   "name": "Yukon",
   "url": "https://yukon.ca/en/driving-and-transportation/vehicle-registration"
+ },
+ {
+  "code": "BCS",
+  "name": "Baja California Sur",
+  "url": "https://tramites.bcs.gob.mx/catX/la-dotacion-y-o-reposicion-de-placas-de-identificacion-del-servicio-de-control-vehicular/"
+ },
+ {
+  "code": "CHH",
+  "name": "Chihuahua",
+  "url": "https://chihuahua.gob.mx/contenidos/programa-de-revalidacion-y-canje-de-placas-para-reforzar-la-seguridad-publica-en"
+ },
+ {
+  "code": "HID",
+  "name": "Hidalgo",
+  "url": "https://portaltributario.hidalgo.gob.mx/"
+ },
+ {
+  "code": "JAL",
+  "name": "Jalisco",
+  "url": "https://www.jalisco.gob.mx/prensa/noticias/tiene-jalisco-nuevas-placas-vehiculares"
+ },
+ {
+  "code": "MEX",
+  "name": "State of Mexico",
+  "url": "https://pagosytramites.edomex.gob.mx/recaudacion/CtrlVeh/MicRemplaca/index.jsp"
+ },
+ {
+  "code": "MIC",
+  "name": "Michoac\u00e1n",
+  "url": "https://michoacan.gob.mx/noticias/este-mes-personas-que-reemplaquen-recibiran-descuentos-atractivos-luis-navarro-garcia/"
+ },
+ {
+  "code": "NLE",
+  "name": "Nuevo Le\u00f3n",
+  "url": "https://www.nl.gob.mx/es/boletines/presenta-nl-nuevo-tramite-digital-placas-para-personas-con-discapacidad"
+ },
+ {
+  "code": "OAX",
+  "name": "Oaxaca",
+  "url": "https://canjedeplacas.oaxaca.gob.mx/"
+ },
+ {
+  "code": "SLP",
+  "name": "San Luis Potos\u00ed",
+  "url": "https://slp.gob.mx/noticias/2025/12/16/anuncia-ricardo-gallardo-placas-vehiculares-conmemorativas-del-mundial-2026-en-slp/"
+ },
+ {
+  "code": "SON",
+  "name": "Sonora",
+  "url": "https://hacienda.sonora.gob.mx/inicio/acciones/presenta-gobierno-de-sonora-nueva-imagen-de-placas-vehiculares-para-el-estado"
+ },
+ {
+  "code": "TAM",
+  "name": "Tamaulipas",
+  "url": "https://tamaulipas.gob.mx/2025/03/invita-gobierno-de-tamaulipas-a-aprovechar-el-50-de-descuento-en-recargos-y-a-regularizar-la-tenencia-vehicular/"
  }
 ]

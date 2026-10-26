@@ -1,0 +1,50 @@
+{
+ "code": "NLE",
+ "name": "Nuevo León",
+ "standard": {
+  "source_img": null,
+  "year": "2023",
+  "note": "Nuevo León's current plate, rolled out in 2023, carries the state's 'Nuevo León' wordmark plus the state and national coats of arms."
+ },
+ "robot_url": "https://www.nl.gob.mx/es/boletines/presenta-nl-nuevo-tramite-digital-placas-para-personas-con-discapacidad",
+ "complete": false,
+ "plates": [
+  {
+   "title": "Current design (2023)",
+   "cat": "other",
+   "source_img": null,
+   "year": "2023",
+   "supports": null,
+   "fact": "Nuevo León's current plate, rolled out in 2023, carries the state's 'Nuevo León' wordmark plus the state and national coats of arms.",
+   "source": "https://www.nl.gob.mx/es/boletines/presenta-nl-nuevo-tramite-digital-placas-para-personas-con-discapacidad"
+  },
+  {
+   "title": "FIFA World Cup 2026 commemorative",
+   "cat": "sports",
+   "source_img": null,
+   "year": "2026",
+   "supports": null,
+   "fact": "Monterrey hosted World Cup matches, and Nuevo León released a limited run of about 40,000 World Cup plates in March 2026, priced the same as regular plates.",
+   "source": "https://www.nl.gob.mx/es/boletines/presenta-nl-nuevo-tramite-digital-placas-para-personas-con-discapacidad"
+  },
+  {
+   "title": "Drivers with disabilities",
+   "cat": "other",
+   "source_img": null,
+   "year": null,
+   "supports": null,
+   "fact": "About 1,500 people a year get Nuevo León's disability plates, and the first set is free.",
+   "source": "https://www.nl.gob.mx/es/boletines/presenta-nl-nuevo-tramite-digital-placas-para-personas-con-discapacidad"
+  },
+  {
+   "title": "Eco vehicles (green leaf)",
+   "cat": "vehicle",
+   "source_img": null,
+   "year": null,
+   "supports": null,
+   "fact": null,
+   "source": "https://www.google.com/search?q=placas+site%3Anl.gob.mx&udm=2 (subasta.nl.gob.mx 'Ficha técnica de placas' PDF shows a plate with a green leaf)"
+  }
+ ],
+ "notes": "The 2011 design ('Nuevo León Unido') lost validity on July 1, 2023 (ICV, via unotv). The official March 4, 2026 bulletin (robot_url) has only photos of officials holding the World Cup and disability plates, which aren't allowed, so no image was used. Plate artwork exists only in subasta.nl.gob.mx tender PDFs (2_949.pdf, 2_1148.pdf). The year 2023 comes from UnoTV's 2025 roundup ('redesigned in 2023'). The eco plate is seen only in a spec PDF."
+}

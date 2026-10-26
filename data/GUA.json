@@ -1,0 +1,25 @@
+{
+ "code": "GUA",
+ "name": "Guanajuato",
+ "rated": false,
+ "plates": [
+  {
+   "id": "current-design-2020",
+   "name": "Current design (2020)",
+   "cat": "other",
+   "img": null,
+   "year": "2020",
+   "fact": "Guanajuato's plate has blue stripes, the state shield top left, a QR code top right, and the motto 'Grandeza de México' along the bottom."
+  }
+ ],
+ "updated": "2026-10-26",
+ "checked": false,
+ "checked_on": "2026-10-26",
+ "about": "Guanajuato plates to hunt, from the state's own sources on 2026-10-26. Not rated yet: every plate is worth the same.",
+ "sources": [
+  {
+   "title": "State, provincial and territorial licensing agencies, and the plates' sponsors",
+   "url": ""
+  }
+ ]
+}

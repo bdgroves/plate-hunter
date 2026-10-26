@@ -1,0 +1,25 @@
+{
+ "code": "ROO",
+ "name": "Quintana Roo",
+ "rated": false,
+ "plates": [
+  {
+   "id": "current-design-2026",
+   "name": "Current design (2026)",
+   "cat": "other",
+   "img": null,
+   "year": "2026",
+   "fact": "Quintana Roo's 2026 plate is a minimalist white design framed in maroon (guinda) with the Quintana Roo logo at the top."
+  }
+ ],
+ "updated": "2026-10-26",
+ "checked": false,
+ "checked_on": "2026-10-26",
+ "about": "Quintana Roo plates to hunt, from the state's own sources on 2026-10-26. Not rated yet: every plate is worth the same.",
+ "sources": [
+  {
+   "title": "State, provincial and territorial licensing agencies, and the plates' sponsors",
+   "url": ""
+  }
+ ]
+}

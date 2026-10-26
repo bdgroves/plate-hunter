@@ -1,0 +1,68 @@
+{
+ "code": "SON",
+ "name": "Sonora",
+ "standard": {
+  "source_img": null,
+  "year": "2025",
+  "note": "Sonora's new plate shows off the state's landscapes: its sierra, valleys and desert."
+ },
+ "robot_url": "https://hacienda.sonora.gob.mx/inicio/acciones/presenta-gobierno-de-sonora-nueva-imagen-de-placas-vehiculares-para-el-estado",
+ "complete": false,
+ "plates": [
+  {
+   "title": "Current design (2025)",
+   "cat": "other",
+   "source_img": null,
+   "year": "2025",
+   "supports": null,
+   "fact": "Sonora's new plate shows off the state's landscapes: its sierra, valleys and desert.",
+   "source": "https://hacienda.sonora.gob.mx/inicio/acciones/presenta-gobierno-de-sonora-nueva-imagen-de-placas-vehiculares-para-el-estado"
+  },
+  {
+   "title": "Previous design (about 2014-2025, still valid)",
+   "cat": "other",
+   "source_img": null,
+   "year": null,
+   "supports": null,
+   "fact": "Sonora isn't requiring a swap, so the older design, which ran for more than 11 years, stays valid next to the new one.",
+   "source": "https://www.unotv.com/estados/sonora/nuevo-diseno-de-placas-vehiculares-en-sonora-ve-caracteristicas-y-quienes-las-pueden-tramitar/"
+  },
+  {
+   "title": "Eco-friendly vehicles",
+   "cat": "vehicle",
+   "source_img": null,
+   "year": "2025",
+   "supports": null,
+   "fact": "The 2025 plate series added plates for eco-friendly vehicles.",
+   "source": "https://www.unotv.com/estados/sonora/nuevo-diseno-de-placas-vehiculares-en-sonora-ve-caracteristicas-y-quienes-las-pueden-tramitar/"
+  },
+  {
+   "title": "Antique cars",
+   "cat": "hobby",
+   "source_img": null,
+   "year": "2025",
+   "supports": null,
+   "fact": "The 2025 series also brought new plates for antique cars.",
+   "source": "https://www.unotv.com/estados/sonora/nuevo-diseno-de-placas-vehiculares-en-sonora-ve-caracteristicas-y-quienes-las-pueden-tramitar/"
+  },
+  {
+   "title": "Drivers with disabilities",
+   "cat": "other",
+   "source_img": null,
+   "year": "2025",
+   "supports": null,
+   "fact": null,
+   "source": "https://www.unotv.com/estados/sonora/nuevo-diseno-de-placas-vehiculares-en-sonora-ve-caracteristicas-y-quienes-las-pueden-tramitar/"
+  },
+  {
+   "title": "Border-region vehicles",
+   "cat": "vehicle",
+   "source_img": null,
+   "year": "2025",
+   "supports": null,
+   "fact": null,
+   "source": "https://www.unotv.com/estados/sonora/nuevo-diseno-de-placas-vehiculares-en-sonora-ve-caracteristicas-y-quienes-las-pueden-tramitar/"
+  }
+ ],
+ "notes": "The official release (Secretaría de Hacienda, April 30 / May 6, 2025) exists at the robot_url and at https://www.sonora.gob.mx/gobierno/acciones/dependencias/presenta-gobierno-de-sonora-nueva-imagen-de-placas-vehiculares-para-el-estado, but Cloudflare blocks both sites, including their images, from the browser and the container. The release's lead image is https://hacienda.sonora.gob.mx/images/2025/05/06/placasjirf_large.jpeg (unverified: it couldn't be opened, and the 'jirf' name suggests a photo of the official Jorge Iván de la Rosa Flores rather than plate artwork). Because the robot may be blocked the same way, consider robot_url unreliable. The eco, antique, disability and border categories come from the announcement as new plate types. Whether each has its own look was not seen."
+}

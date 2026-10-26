@@ -1,0 +1,34 @@
+{
+ "code": "CHH",
+ "name": "Chihuahua",
+ "rated": false,
+ "plates": [
+  {
+   "id": "current-design-2022",
+   "name": "Current design (2022)",
+   "cat": "other",
+   "img": null,
+   "year": "2022",
+   "fact": "Chihuahua's plate from the 2022 statewide swap is a plain white plate with 'CHIHUAHUA' across the top and the Mexican and Chihuahua coats of arms near the bottom, built with a reflective security film and a barcode.",
+   "source": "https://chihuahua.gob.mx/contenidos/programa-de-revalidacion-y-canje-de-placas-para-reforzar-la-seguridad-publica-en"
+  },
+  {
+   "id": "drivers-with-disabilities",
+   "name": "Drivers with disabilities",
+   "cat": "other",
+   "img": null,
+   "fact": "Chihuahua's revenue office (Recaudación de Rentas) issues special plates for people with disabilities.",
+   "source": "https://www.google.com/search?q=placas+site%3Achihuahua.gob.mx&udm=2 (Chihuahua government 'Placas discapacidad' requirements graphic)"
+  }
+ ],
+ "updated": "2026-10-26",
+ "checked": false,
+ "checked_on": "2026-10-26",
+ "about": "Chihuahua plates to hunt, from the state's own sources on 2026-10-26. Not rated yet: every plate is worth the same.",
+ "sources": [
+  {
+   "title": "State, provincial and territorial licensing agencies, and the plates' sponsors",
+   "url": "https://chihuahua.gob.mx/contenidos/programa-de-revalidacion-y-canje-de-placas-para-reforzar-la-seguridad-publica-en"
+  }
+ ]
+}

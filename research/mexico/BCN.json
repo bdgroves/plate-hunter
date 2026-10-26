@@ -1,0 +1,41 @@
+{
+ "code": "BCN",
+ "name": "Baja California",
+ "standard": {
+  "source_img": null,
+  "year": "2025",
+  "note": "Baja California's newest everyday plate wears the state government's guinda (maroon), white and gold colors, with a guinda band carrying the state name along the bottom."
+ },
+ "robot_url": null,
+ "complete": false,
+ "plates": [
+  {
+   "title": "Current design (2025)",
+   "cat": "other",
+   "source_img": null,
+   "year": "2025",
+   "supports": null,
+   "fact": "Baja California's newest everyday plate wears the state government's guinda (maroon), white and gold colors, with a guinda band carrying the state name along the bottom.",
+   "source": null
+  },
+  {
+   "title": "FIFA World Cup 2026 commemorative",
+   "cat": "sports",
+   "source_img": null,
+   "year": "2026",
+   "supports": null,
+   "fact": "Baja California made 95,463 World Cup plate sets, handed out from May 21, 2026 at the regular plate price.",
+   "source": "https://www.elimparcial.com/mxl/mexicali/2026/06/20/mas-de-12-mil-automovilistas-ya-cuentan-con-placas-conmemorativas-del-mundial-2026-en-bc/"
+  },
+  {
+   "title": "Earlier designs (still valid)",
+   "cat": "other",
+   "source_img": null,
+   "year": null,
+   "supports": null,
+   "fact": "A January 2025 decree made Baja California's replating optional, and the state says it won't require replating in 2026 either, so older plates are still on the road.",
+   "source": "https://www.unotv.com/estados/baja-california/baja-california-no-contemplara-reemplacamiento-obligatorio-en-2026/"
+  }
+ ],
+ "notes": "bajacalifornia.gob.mx (and the press release https://www.bajacalifornia.gob.mx/Prensa/Noticia/26394 about the World Cup plates) would not load from the browser (error page), and the container proxy blocks it, so no official image was checked. News pictures exist (unotv, adn40/TV Azteca) but aren't allowed. The 2025 guinda design came with the 2025 replating program, which first targeted plates issued before 2021 and was then made optional. Imported ('fronterizo') cars get a second guinda stripe at the top. Disability, eco and classic-car plate types weren't confirmed."
+}

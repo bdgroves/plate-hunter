@@ -1,0 +1,50 @@
+{
+ "code": "PUE",
+ "name": "Puebla",
+ "standard": {
+  "source_img": null,
+  "year": "2022",
+  "note": "Puebla's plate is white with 'Gobierno de Puebla — Hacer historia, Hacer futuro' across the top, plus the national shield, revolutionary figures and the state shield."
+ },
+ "robot_url": null,
+ "complete": false,
+ "plates": [
+  {
+   "title": "Current design (2022)",
+   "cat": "other",
+   "source_img": null,
+   "year": "2022",
+   "supports": null,
+   "fact": "Puebla's plate is white with 'Gobierno de Puebla — Hacer historia, Hacer futuro' across the top, plus the national shield, revolutionary figures and the state shield.",
+   "source": null
+  },
+  {
+   "title": "World Cup 2026 commemorative (green and red)",
+   "cat": "sports",
+   "source_img": null,
+   "year": "2026",
+   "supports": null,
+   "fact": "Puebla made 40,000 of these optional plates in two colours, with designs drawn from the state's history, culture and landmarks.",
+   "source": "https://www.puebla.gob.mx/index.php/noticias/item/23330-presenta-gobierno-del-estado-placas-conmemorativas-mexico-2026"
+  },
+  {
+   "title": "Ecological vehicles (electric/hybrid)",
+   "cat": "vehicle",
+   "source_img": null,
+   "year": "2025",
+   "supports": null,
+   "fact": "Since September 2025 Puebla has issued special plates for cars that run on alternative energy.",
+   "source": "https://puebla.gob.mx/index.php/noticias/item/20813-gobierno-de-puebla-informa-sobre-la-entrega-de-placas-para-vehiculos-ecologicos"
+  },
+  {
+   "title": "Antique cars (auto antiguo)",
+   "cat": "hobby",
+   "source_img": null,
+   "year": null,
+   "supports": null,
+   "fact": null,
+   "source": "https://ventanilla.puebla.gob.mx (trámite 'Alta de auto antiguo')"
+  }
+ ],
+ "notes": "The year 2022 is approximate: 'Hacer historia, hacer futuro' was the Barbosa government's motto, and Puebla replated in 2022 (Publimetro, Jun 2022). In 2025 the Armenta government replated only public transport. The World Cup press release (SPFA 015/2026, 21 Apr 2026) has photos at puebla.gob.mx/media/k2/attachments/Finanzas_2104_(1..9).jpeg, but they show the governor or mascot holding the plates, not the plate alone. They could be cropped if photos are acceptable. The antique-car plate is inferred from a search-result title for a ventanilla trámite; the page wasn't opened."
+}

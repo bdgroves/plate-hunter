@@ -1,0 +1,59 @@
+{
+ "code": "CMX",
+ "name": "Ciudad de México",
+ "standard": {
+  "source_img": null,
+  "year": "2016",
+  "note": "Mexico City's everyday plate is white with black characters, a maroon 'Ciudad de México' legend beside the city and SEMOVI shields, and a QR code in the corner."
+ },
+ "robot_url": null,
+ "complete": false,
+ "plates": [
+  {
+   "title": "Current design (2016)",
+   "cat": "other",
+   "source_img": null,
+   "year": "2016",
+   "supports": null,
+   "fact": "Mexico City's everyday plate is white with black characters, a maroon 'Ciudad de México' legend beside the city and SEMOVI shields, and a QR code in the corner.",
+   "source": null
+  },
+  {
+   "title": "World Cup 2026 commemorative",
+   "cat": "sports",
+   "source_img": "https://noticiasc21.cdmx.gob.mx/img/cdmx-arranca-entrega-de-placas-conmemorativas-del-mundial-2026-esto-es-lo-que-debes-saber/uploads/1771975643465-placa_mundial_edicion_limitada.jpg",
+   "year": "2026",
+   "supports": null,
+   "fact": "Only 60,000 were made, in black, white and yellow versions with an axolotl in a feather headdress, hummingbirds, flowers and the Sun Stone.",
+   "source": "https://noticiasc21.cdmx.gob.mx/noticia/cdmx-arranca-entrega-de-placas-conmemorativas-del-mundial-2026-esto-es-lo-que-debes-saber"
+  },
+  {
+   "title": "Hybrid and electric vehicles",
+   "cat": "vehicle",
+   "source_img": null,
+   "year": null,
+   "supports": null,
+   "fact": "SEMOVI issues a separate plate set for hybrid and electric cars.",
+   "source": "https://www.semovi.cdmx.gob.mx/tramites-y-servicios/vehiculos-particulares/placas/alta-de-placas-para-vehiculo-hibrido"
+  },
+  {
+   "title": "Antique cars (auto antiguo)",
+   "cat": "hobby",
+   "source_img": null,
+   "year": "2016",
+   "supports": null,
+   "fact": "The plate shows an old car and the words 'auto antiguo'.",
+   "source": "https://www.chilango.com/ciudad/hay-nuevos-disenos-de-placas-calcomanias-y-tarjetas-de-circulacion/amp/"
+  },
+  {
+   "title": "Drivers with disabilities",
+   "cat": "other",
+   "source_img": null,
+   "year": "2016",
+   "supports": null,
+   "fact": "Both plates carry the international disability symbol.",
+   "source": "https://www.chilango.com/ciudad/hay-nuevos-disenos-de-placas-calcomanias-y-tarjetas-de-circulacion/amp/"
+  }
+ ],
+ "notes": "semovi.cdmx.gob.mx, jefaturadegobierno.cdmx.gob.mx and placasmundial2026.cdmx.gob.mx would not load in the browser, and WebFetch refused them, so no SEMOVI image or robot page could be checked. The hybrid-plate SEMOVI page URL comes from a search snippet; the page itself wasn't read. The World Cup image is the city's own close-up photo of the black plate (1200x800), not flat artwork; it was on sale from 9 Mar 2026. The year 2016 is when the current layout's manual came out (chilango, Jul 2016); later batches swapped in newer government logos, so check that. In Oct 2025 SEMOVI denied any mass reemplacamiento. Design description from sdpnoticias/unotv (2025)."
+}

@@ -1,0 +1,23 @@
+{
+ "code": "QUE",
+ "name": "Querétaro",
+ "standard": {
+  "source_img": null,
+  "year": "2022",
+  "note": "Querétaro's plate is white with blue bands across the top and bottom, and the state government shield and a QR code on the right side."
+ },
+ "robot_url": null,
+ "complete": false,
+ "plates": [
+  {
+   "title": "Current design (2022)",
+   "cat": "other",
+   "source_img": null,
+   "year": "2022",
+   "supports": null,
+   "fact": "Querétaro's plate is white with blue bands across the top and bottom, and the state government shield and a QR code on the right side.",
+   "source": null
+  }
+ ],
+ "notes": "Year 2022 comes from news of the 2022 statewide reemplacamiento (UnoTV, 2022; Excelsior). In 2024 Publimetro reported that 1 in 113 plates came out defective. The queretaro.gob.mx images found were square or portrait, not plates, and placas.queretaro.gob.mx is a login page. No special designs were found, and Querétaro did not issue World Cup plates (adn40, Apr 2026)."
+}

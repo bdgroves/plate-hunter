@@ -1,0 +1,41 @@
+{
+ "code": "COA",
+ "name": "Coahuila",
+ "standard": {
+  "source_img": null,
+  "year": "2025",
+  "note": "Coahuila's new plates from the 2025-2027 replating carry a QR code you can scan to confirm the plate is real, plus a color-shifting security pattern."
+ },
+ "robot_url": null,
+ "complete": false,
+ "plates": [
+  {
+   "title": "Current design (2025)",
+   "cat": "other",
+   "source_img": null,
+   "year": "2025",
+   "supports": null,
+   "fact": "Coahuila's new plates from the 2025-2027 replating carry a QR code you can scan to confirm the plate is real, plus a color-shifting security pattern.",
+   "source": null
+  },
+  {
+   "title": "Electric and hybrid vehicles (green leaf)",
+   "cat": "vehicle",
+   "source_img": null,
+   "year": "2025",
+   "supports": null,
+   "fact": "Electric and hybrid cars in Coahuila can get a plate with a green leaf in the upper-right corner, and 3,880 sets went out in early 2025.",
+   "source": "https://vanguardia.com.mx/coahuila/placas-de-coahuila-con-distintivo-verde-aprovechables-en-cdmx-y-monterrey-GG15571214"
+  },
+  {
+   "title": "Drivers with disabilities",
+   "cat": "other",
+   "source_img": null,
+   "year": "2025",
+   "supports": null,
+   "fact": null,
+   "source": "https://www.google.com/search?q=placas+coahuila+2025+replaqueo+nuevas+placas&udm=2 (news image of the 2025 plate set, A Tiempo.TV, showing a wheelchair-symbol plate)"
+  }
+ ],
+ "notes": "No official Coahuila (coahuila.gob.mx / pagafacil.gob.mx) page with plate pictures turned up. The official replating release (https://coahuila.gob.mx/noticias/index/atiende-gobierno-estatal-alta-demanda-en-replaqueo-y-pago-de-derechos-de-control-vehicular-03-01-25) has no plate image. News photos show a white plate with a blue 'COAHUILA' header. It's not confirmed whether the previous (pre-2025) design is still legal. A Dec 2024 report said it would expire at the end of 2024, but replating runs through 2027. The disability plate is seen only in a news image."
+}

@@ -1,0 +1,23 @@
+{
+ "code": "OAX",
+ "name": "Oaxaca",
+ "standard": {
+  "source_img": "https://canjedeplacas.oaxaca.gob.mx/images/placas.png",
+  "year": "2023",
+  "note": "Oaxaca's colorful plate lines up figures in traditional dress from the state's eight regions along the bottom, set among maguey plants that nod to the mezcal country."
+ },
+ "robot_url": "https://canjedeplacas.oaxaca.gob.mx/",
+ "complete": false,
+ "plates": [
+  {
+   "title": "Current design (2023)",
+   "cat": "other",
+   "source_img": "https://canjedeplacas.oaxaca.gob.mx/images/placas.png",
+   "year": "2023",
+   "supports": null,
+   "fact": "Oaxaca's colorful plate lines up figures in traditional dress from the state's eight regions along the bottom, set among maguey plants that nod to the mezcal country.",
+   "source": "https://canjedeplacas.oaxaca.gob.mx/"
+  }
+ ],
+ "notes": "Image is the official canje portal's artwork (1024x352, ratio 2.9): it shows the private-car plate in full with the public-transport plate cropped at the right edge. Picked from Bing's index; oaxaca.gob.mx and the canje portal block this environment (WAF 'pagina web bloqueada' / proxy 403), so the URL was not loaded directly here. The design was introduced June 2023 (Semovi, Salomon Jara administration); the mandatory Canje de Placas 2025 ended Sept 30, 2025, so earlier designs should be off the road (not confirmed from an official text). No specialty plates found."
+}

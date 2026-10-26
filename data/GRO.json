@@ -1,0 +1,24 @@
+{
+ "code": "GRO",
+ "name": "Guerrero",
+ "rated": false,
+ "plates": [
+  {
+   "id": "current-design",
+   "name": "Current design",
+   "cat": "other",
+   "img": null,
+   "fact": "Guerrero's current plate carries the state government's 'Transformando Guerrero' logo and a QR code at the top, maroon-and-gold tones, and the national and state seals at the bottom."
+  }
+ ],
+ "updated": "2026-10-26",
+ "checked": false,
+ "checked_on": "2026-10-26",
+ "about": "Guerrero plates to hunt, from the state's own sources on 2026-10-26. Not rated yet: every plate is worth the same.",
+ "sources": [
+  {
+   "title": "State, provincial and territorial licensing agencies, and the plates' sponsors",
+   "url": ""
+  }
+ ]
+}

@@ -3,192 +3,227 @@
   "code": "AGU",
   "name": "Aguascalientes",
   "country": "MX",
-  "img": null
+  "img": null,
+  "note": "Aguascalientes's plate is white with playful blue, yellow, purple and pink shapes, and the state name and seal across the top."
  },
  {
   "code": "BCN",
   "name": "Baja California",
   "country": "MX",
-  "img": null
+  "img": null,
+  "note": "Baja California's newest everyday plate wears the state government's guinda (maroon), white and gold colors, with a guinda band carrying the state name along the bottom."
  },
  {
   "code": "BCS",
   "name": "Baja California Sur",
   "country": "MX",
-  "img": null
+  "img": null,
+  "note": "Baja California Sur's everyday plate is a clean white plate with dark characters, the state name across the top and a barcode for quick checks."
  },
  {
   "code": "CAM",
   "name": "Campeche",
   "country": "MX",
-  "img": null
+  "img": null,
+  "note": "Campeche's new 2026 plate keeps the state's 'Campeche puro amor' spirit, with CAMPECHE across the top and a decorative band along the bottom, and adds new anti-cloning security features."
  },
  {
   "code": "CHP",
   "name": "Chiapas",
   "country": "MX",
-  "img": null
+  "img": null,
+  "note": "Chiapas's 2025 plate is a clean white design with CHIAPAS across the top and the government's 'Humanismo que transforma' logo at the bottom, packed with security features: a QR code, a hologram and an augmented-reality logo."
  },
  {
   "code": "CHH",
   "name": "Chihuahua",
   "country": "MX",
-  "img": null
+  "img": null,
+  "note": "Chihuahua's plate from the 2022 statewide swap is a plain white plate with 'CHIHUAHUA' across the top and the Mexican and Chihuahua coats of arms near the bottom, built with a reflective security film and a barcode."
  },
  {
   "code": "CMX",
   "name": "Mexico City",
   "country": "MX",
-  "img": null
+  "img": null,
+  "note": "Mexico City's everyday plate is white with black characters, a maroon 'Ciudad de México' legend beside the city and SEMOVI shields, and a QR code in the corner."
  },
  {
   "code": "COA",
   "name": "Coahuila",
   "country": "MX",
-  "img": null
+  "img": null,
+  "note": "Coahuila's new plates from the 2025-2027 replating carry a QR code you can scan to confirm the plate is real, plus a color-shifting security pattern."
  },
  {
   "code": "COL",
   "name": "Colima",
   "country": "MX",
-  "img": null
+  "img": null,
+  "note": "Colima's plate wears the state government's maroon, white and gold, with a little vine and two doves along the top and the state seal and name at the bottom."
  },
  {
   "code": "DUR",
   "name": "Durango",
   "country": "MX",
-  "img": null
+  "img": null,
+  "note": "Durango's plate is white with green lettering, a 'DGO.' logo up top and a bright strip of flowers along the bottom under the word DURANGO."
  },
  {
   "code": "GUA",
   "name": "Guanajuato",
   "country": "MX",
-  "img": null
+  "img": null,
+  "note": "Guanajuato's plate has blue stripes, the state shield top left, a QR code top right, and the motto 'Grandeza de México' along the bottom."
  },
  {
   "code": "GRO",
   "name": "Guerrero",
   "country": "MX",
-  "img": null
+  "img": null,
+  "note": "Guerrero's current plate carries the state government's 'Transformando Guerrero' logo and a QR code at the top, maroon-and-gold tones, and the national and state seals at the bottom."
  },
  {
   "code": "HID",
   "name": "Hidalgo",
   "country": "MX",
-  "img": null
+  "img": null,
+  "note": "Hidalgo's plate is white and maroon with a thin gold stripe, the national and state shields along the bottom, and a QR code top right."
  },
  {
   "code": "JAL",
   "name": "Jalisco",
   "country": "MX",
-  "img": null
+  "img": null,
+  "img_url": "https://d2shyreu57721j.cloudfront.net/jalisco/images/54309417375_73555d37f0_c.2e16d0ba.fill-1920x1080.jpg",
+  "note": "The 'Cabañas' plate is white with a row of little orange-and-blue icons up top (the Hospicio Cabañas dome, the state seal and an agave) and a QR code in the corner."
  },
  {
   "code": "MEX",
   "name": "State of Mexico",
   "country": "MX",
-  "img": null
+  "img": null,
+  "note": "The State of Mexico's current plate is white with a maroon, flower-patterned band, the state name, and the motto '¡El poder de servir!' across the top."
  },
  {
   "code": "MIC",
   "name": "Michoacán",
   "country": "MX",
-  "img": null
+  "img": null,
+  "note": "Michoacán's plate has a deep maroon band across the top with the state government seal and a QR code, and 'Michoacán – El alma de México' along the bottom."
  },
  {
   "code": "MOR",
   "name": "Morelos",
   "country": "MX",
-  "img": null
+  "img": null,
+  "note": "Morelos's newest plate uses green tones and the motto 'La tierra que nos une'."
  },
  {
   "code": "NAY",
   "name": "Nayarit",
   "country": "MX",
-  "img": null
+  "img": null,
+  "note": "Nayarit's plate is white with the state name and seal up top and a joyfully colorful band of folk-art patterns along the bottom."
  },
  {
   "code": "NLE",
   "name": "Nuevo León",
   "country": "MX",
-  "img": null
+  "img": null,
+  "note": "Nuevo León's current plate, rolled out in 2023, carries the state's 'Nuevo León' wordmark plus the state and national coats of arms."
  },
  {
   "code": "OAX",
   "name": "Oaxaca",
   "country": "MX",
-  "img": null
+  "img": null,
+  "img_url": "https://canjedeplacas.oaxaca.gob.mx/images/placas.png",
+  "note": "Oaxaca's colorful plate lines up figures in traditional dress from the state's eight regions along the bottom, set among maguey plants that nod to the mezcal country."
  },
  {
   "code": "PUE",
   "name": "Puebla",
   "country": "MX",
-  "img": null
+  "img": null,
+  "note": "Puebla's plate is white with 'Gobierno de Puebla — Hacer historia, Hacer futuro' across the top, plus the national shield, revolutionary figures and the state shield."
  },
  {
   "code": "QUE",
   "name": "Querétaro",
   "country": "MX",
-  "img": null
+  "img": null,
+  "note": "Querétaro's plate is white with blue bands across the top and bottom, and the state government shield and a QR code on the right side."
  },
  {
   "code": "ROO",
   "name": "Quintana Roo",
   "country": "MX",
-  "img": null
+  "img": null,
+  "note": "Quintana Roo's 2026 plate is a minimalist white design framed in maroon (guinda) with the Quintana Roo logo at the top."
  },
  {
   "code": "SLP",
   "name": "San Luis Potosí",
   "country": "MX",
-  "img": null
+  "img": null,
+  "note": "San Luis Potosí's plate is white with lime-green accents, the state name and a QR code up top, and a little skyline of landmark buildings along the bottom."
  },
  {
   "code": "SIN",
   "name": "Sinaloa",
   "country": "MX",
-  "img": null
+  "img": null,
+  "note": "Sinaloa's plate is white with 'SINALOA' and 'MÉXICO' in red along the bottom, the state coat of arms between the two words, and a QR code in the top corner."
  },
  {
   "code": "SON",
   "name": "Sonora",
   "country": "MX",
-  "img": null
+  "img": null,
+  "note": "Sonora's new plate shows off the state's landscapes: its sierra, valleys and desert."
  },
  {
   "code": "TAB",
   "name": "Tabasco",
   "country": "MX",
-  "img": null
+  "img": null,
+  "note": "Tabasco's 2026 plate is a crisp white design with TABASCO in a maroon header at the top and a QR code for security."
  },
  {
   "code": "TAM",
   "name": "Tamaulipas",
   "country": "MX",
-  "img": null
+  "img": null,
+  "img_url": "https://tamaulipas.gob.mx/wp-content/uploads/2025/03/SFT-005-2025.-Invita-Gobierno-de-Tamaulipas-a-aprovechar-el-50-de-descuento-en-recargos-y-a-regularizar-la-tenencia-vehicular-1.jpeg",
+  "note": "Tamaulipas's 2025 plate is white with a sweeping guinda-red and gold band along the bottom, 'Tamaulipas México' up top, a QR code in the corner and the national and state coats of arms."
  },
  {
   "code": "TLA",
   "name": "Tlaxcala",
   "country": "MX",
-  "img": null
+  "img": null,
+  "note": "Tlaxcala's plate is purple and maroon with the motto 'Tlaxcala, una nueva historia', a QR code on the right, and a REPUVE chip built in."
  },
  {
   "code": "VER",
   "name": "Veracruz",
   "country": "MX",
-  "img": null
+  "img": null,
+  "note": "Veracruz's newest plate is white with a maroon (guinda) header reading VERACRUZ, a QR code, the state seal and the 'Por amor a Veracruz' heart logo along the bottom, and it is reported to carry an electronic security chip."
  },
  {
   "code": "YUC",
   "name": "Yucatán",
   "country": "MX",
-  "img": null
+  "img": null,
+  "note": "Yucatán's 2025 plate is a simple, clean white design with a maroon (guinda) stripe and the state name at the top, with the national and state seals at the bottom."
  },
  {
   "code": "ZAC",
   "name": "Zacatecas",
   "country": "MX",
-  "img": null
+  "img": null,
+  "note": "Zacatecas's plate is pale and sunny, with a desert scene of the sun rising between mountains and a QR code that stores the plate's data."
  }
 ]

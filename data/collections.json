@@ -523,5 +523,293 @@
   "rated": false,
   "checked": true,
   "country": "CA"
+ },
+ {
+  "code": "AGU",
+  "name": "Aguascalientes",
+  "file": "data/AGU.json",
+  "count": 1,
+  "rated": false,
+  "checked": false,
+  "country": "MX"
+ },
+ {
+  "code": "BCN",
+  "name": "Baja California",
+  "file": "data/BCN.json",
+  "count": 3,
+  "rated": false,
+  "checked": false,
+  "country": "MX"
+ },
+ {
+  "code": "BCS",
+  "name": "Baja California Sur",
+  "file": "data/BCS.json",
+  "count": 1,
+  "rated": false,
+  "checked": false,
+  "country": "MX"
+ },
+ {
+  "code": "CAM",
+  "name": "Campeche",
+  "file": "data/CAM.json",
+  "count": 1,
+  "rated": false,
+  "checked": false,
+  "country": "MX"
+ },
+ {
+  "code": "CHP",
+  "name": "Chiapas",
+  "file": "data/CHP.json",
+  "count": 1,
+  "rated": false,
+  "checked": false,
+  "country": "MX"
+ },
+ {
+  "code": "CHH",
+  "name": "Chihuahua",
+  "file": "data/CHH.json",
+  "count": 2,
+  "rated": false,
+  "checked": false,
+  "country": "MX"
+ },
+ {
+  "code": "COA",
+  "name": "Coahuila",
+  "file": "data/COA.json",
+  "count": 3,
+  "rated": false,
+  "checked": false,
+  "country": "MX"
+ },
+ {
+  "code": "COL",
+  "name": "Colima",
+  "file": "data/COL.json",
+  "count": 2,
+  "rated": false,
+  "checked": false,
+  "country": "MX"
+ },
+ {
+  "code": "DUR",
+  "name": "Durango",
+  "file": "data/DUR.json",
+  "count": 1,
+  "rated": false,
+  "checked": false,
+  "country": "MX"
+ },
+ {
+  "code": "GUA",
+  "name": "Guanajuato",
+  "file": "data/GUA.json",
+  "count": 1,
+  "rated": false,
+  "checked": false,
+  "country": "MX"
+ },
+ {
+  "code": "GRO",
+  "name": "Guerrero",
+  "file": "data/GRO.json",
+  "count": 1,
+  "rated": false,
+  "checked": false,
+  "country": "MX"
+ },
+ {
+  "code": "HID",
+  "name": "Hidalgo",
+  "file": "data/HID.json",
+  "count": 1,
+  "rated": false,
+  "checked": false,
+  "country": "MX"
+ },
+ {
+  "code": "JAL",
+  "name": "Jalisco",
+  "file": "data/JAL.json",
+  "count": 4,
+  "rated": false,
+  "checked": false,
+  "country": "MX"
+ },
+ {
+  "code": "CMX",
+  "name": "Mexico City",
+  "file": "data/CMX.json",
+  "count": 5,
+  "rated": false,
+  "checked": false,
+  "country": "MX"
+ },
+ {
+  "code": "MIC",
+  "name": "Michoac\u00e1n",
+  "file": "data/MIC.json",
+  "count": 1,
+  "rated": false,
+  "checked": false,
+  "country": "MX"
+ },
+ {
+  "code": "MOR",
+  "name": "Morelos",
+  "file": "data/MOR.json",
+  "count": 2,
+  "rated": false,
+  "checked": false,
+  "country": "MX"
+ },
+ {
+  "code": "NAY",
+  "name": "Nayarit",
+  "file": "data/NAY.json",
+  "count": 1,
+  "rated": false,
+  "checked": false,
+  "country": "MX"
+ },
+ {
+  "code": "NLE",
+  "name": "Nuevo Le\u00f3n",
+  "file": "data/NLE.json",
+  "count": 4,
+  "rated": false,
+  "checked": false,
+  "country": "MX"
+ },
+ {
+  "code": "OAX",
+  "name": "Oaxaca",
+  "file": "data/OAX.json",
+  "count": 1,
+  "rated": false,
+  "checked": false,
+  "country": "MX"
+ },
+ {
+  "code": "PUE",
+  "name": "Puebla",
+  "file": "data/PUE.json",
+  "count": 4,
+  "rated": false,
+  "checked": false,
+  "country": "MX"
+ },
+ {
+  "code": "QUE",
+  "name": "Quer\u00e9taro",
+  "file": "data/QUE.json",
+  "count": 1,
+  "rated": false,
+  "checked": false,
+  "country": "MX"
+ },
+ {
+  "code": "ROO",
+  "name": "Quintana Roo",
+  "file": "data/ROO.json",
+  "count": 1,
+  "rated": false,
+  "checked": false,
+  "country": "MX"
+ },
+ {
+  "code": "SLP",
+  "name": "San Luis Potos\u00ed",
+  "file": "data/SLP.json",
+  "count": 2,
+  "rated": false,
+  "checked": false,
+  "country": "MX"
+ },
+ {
+  "code": "SIN",
+  "name": "Sinaloa",
+  "file": "data/SIN.json",
+  "count": 1,
+  "rated": false,
+  "checked": false,
+  "country": "MX"
+ },
+ {
+  "code": "SON",
+  "name": "Sonora",
+  "file": "data/SON.json",
+  "count": 6,
+  "rated": false,
+  "checked": false,
+  "country": "MX"
+ },
+ {
+  "code": "MEX",
+  "name": "State of Mexico",
+  "file": "data/MEX.json",
+  "count": 2,
+  "rated": false,
+  "checked": false,
+  "country": "MX"
+ },
+ {
+  "code": "TAB",
+  "name": "Tabasco",
+  "file": "data/TAB.json",
+  "count": 2,
+  "rated": false,
+  "checked": false,
+  "country": "MX"
+ },
+ {
+  "code": "TAM",
+  "name": "Tamaulipas",
+  "file": "data/TAM.json",
+  "count": 2,
+  "rated": false,
+  "checked": false,
+  "country": "MX"
+ },
+ {
+  "code": "TLA",
+  "name": "Tlaxcala",
+  "file": "data/TLA.json",
+  "count": 1,
+  "rated": false,
+  "checked": false,
+  "country": "MX"
+ },
+ {
+  "code": "VER",
+  "name": "Veracruz",
+  "file": "data/VER.json",
+  "count": 3,
+  "rated": false,
+  "checked": false,
+  "country": "MX"
+ },
+ {
+  "code": "YUC",
+  "name": "Yucat\u00e1n",
+  "file": "data/YUC.json",
+  "count": 1,
+  "rated": false,
+  "checked": false,
+  "country": "MX"
+ },
+ {
+  "code": "ZAC",
+  "name": "Zacatecas",
+  "file": "data/ZAC.json",
+  "count": 1,
+  "rated": false,
+  "checked": false,
+  "country": "MX"
  }
 ]

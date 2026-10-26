@@ -1,0 +1,23 @@
+{
+ "code": "BCS",
+ "name": "Baja California Sur",
+ "standard": {
+  "source_img": null,
+  "year": null,
+  "note": "Baja California Sur's everyday plate is a clean white plate with dark characters, the state name across the top and a barcode for quick checks."
+ },
+ "robot_url": "https://tramites.bcs.gob.mx/catX/la-dotacion-y-o-reposicion-de-placas-de-identificacion-del-servicio-de-control-vehicular/",
+ "complete": false,
+ "plates": [
+  {
+   "title": "Current design",
+   "cat": "other",
+   "source_img": null,
+   "year": null,
+   "supports": null,
+   "fact": "Baja California Sur's everyday plate is a clean white plate with dark characters, the state name across the top and a barcode for quick checks.",
+   "source": "https://tramites.bcs.gob.mx/catX/la-dotacion-y-o-reposicion-de-placas-de-identificacion-del-servicio-de-control-vehicular/"
+  }
+ ],
+ "notes": "I found very little official material. The only official plate artwork is inside Compranet BCS procurement PDFs (spec sheets showing an AA-0000-A layout with a green lower band), not usable image URLs. UnoTV's 2025 roundup describes a white plate with red characters, a barcode and a blue 'delantera' marker on front plates, which doesn't match the spec sheet, so check the colors before using that note. The year this design started, its specialty plates and any replating are all unconfirmed. The robot_url page is the state's plate-issuing procedure page (text only, no pictures)."
+}

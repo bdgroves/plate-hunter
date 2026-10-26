@@ -1,0 +1,50 @@
+{
+ "code": "PUE",
+ "name": "Puebla",
+ "rated": false,
+ "plates": [
+  {
+   "id": "current-design-2022",
+   "name": "Current design (2022)",
+   "cat": "other",
+   "img": null,
+   "year": "2022",
+   "fact": "Puebla's plate is white with 'Gobierno de Puebla — Hacer historia, Hacer futuro' across the top, plus the national shield, revolutionary figures and the state shield."
+  },
+  {
+   "id": "world-cup-2026-commemorative-green-and-r",
+   "name": "World Cup 2026 commemorative (green and red)",
+   "cat": "sports",
+   "img": null,
+   "year": "2026",
+   "fact": "Puebla made 40,000 of these optional plates in two colours, with designs drawn from the state's history, culture and landmarks.",
+   "source": "https://www.puebla.gob.mx/index.php/noticias/item/23330-presenta-gobierno-del-estado-placas-conmemorativas-mexico-2026"
+  },
+  {
+   "id": "ecological-vehicles-electric-hybrid",
+   "name": "Ecological vehicles (electric/hybrid)",
+   "cat": "vehicle",
+   "img": null,
+   "year": "2025",
+   "fact": "Since September 2025 Puebla has issued special plates for cars that run on alternative energy.",
+   "source": "https://puebla.gob.mx/index.php/noticias/item/20813-gobierno-de-puebla-informa-sobre-la-entrega-de-placas-para-vehiculos-ecologicos"
+  },
+  {
+   "id": "antique-cars-auto-antiguo",
+   "name": "Antique cars (auto antiguo)",
+   "cat": "hobby",
+   "img": null,
+   "source": "https://ventanilla.puebla.gob.mx (trámite 'Alta de auto antiguo')"
+  }
+ ],
+ "updated": "2026-10-26",
+ "checked": false,
+ "checked_on": "2026-10-26",
+ "about": "Puebla plates to hunt, from the state's own sources on 2026-10-26. Not rated yet: every plate is worth the same.",
+ "sources": [
+  {
+   "title": "State, provincial and territorial licensing agencies, and the plates' sponsors",
+   "url": ""
+  }
+ ]
+}

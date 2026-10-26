@@ -1,0 +1,32 @@
+{
+ "code": "COL",
+ "name": "Colima",
+ "standard": {
+  "source_img": null,
+  "year": "2022",
+  "note": "Colima's plate wears the state government's maroon, white and gold, with a little vine and two doves along the top and the state seal and name at the bottom."
+ },
+ "robot_url": null,
+ "complete": false,
+ "plates": [
+  {
+   "title": "Current design (2022)",
+   "cat": "other",
+   "source_img": null,
+   "year": "2022",
+   "supports": null,
+   "fact": "Colima's plate wears the state government's maroon, white and gold, with a little vine and two doves along the top and the state seal and name at the bottom.",
+   "source": null
+  },
+  {
+   "title": "Vehicles for people with permanent motor disabilities",
+   "cat": "vehicle",
+   "source_img": null,
+   "year": null,
+   "supports": null,
+   "fact": "Colima issues plates bearing the disability logo for people with a permanent motor disability.",
+   "source": "https://www.col.gob.mx"
+  }
+ ],
+ "notes": "The current design arrived in 2022 (colimanoticias, Jun 2022), at first only for new cars and replacements. A Secretaría de Planeación y Finanzas Facebook post (about 2025) said this administration's canje would be mandatory at 2,300 pesos, and in May 2026 Subsemov extended the pickup window for physical plates, so the canje is still running. Older SCT-era plates may still be on the road during the canje. I didn't confirm their validity. The one col.gob.mx plate photo has its number pixelated and is served from a script (imagenv2.php), so I didn't use it. The disability plate comes from a col.gob.mx trámite listing ('placas con logotipo de discapacidad motriz permanente')."
+}

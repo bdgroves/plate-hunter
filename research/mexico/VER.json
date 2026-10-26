@@ -1,0 +1,41 @@
+{
+ "code": "VER",
+ "name": "Veracruz",
+ "standard": {
+  "source_img": null,
+  "year": "2026",
+  "note": "Veracruz's newest plate is white with a maroon (guinda) header reading VERACRUZ, a QR code, the state seal and the 'Por amor a Veracruz' heart logo along the bottom, and it is reported to carry an electronic security chip."
+ },
+ "robot_url": null,
+ "complete": false,
+ "plates": [
+  {
+   "title": "Current design (2026)",
+   "cat": "other",
+   "source_img": null,
+   "year": "2026",
+   "supports": null,
+   "fact": "Veracruz's newest plate is white with a maroon (guinda) header reading VERACRUZ, a QR code, the state seal and the 'Por amor a Veracruz' heart logo along the bottom, and it is reported to carry an electronic security chip.",
+   "source": null
+  },
+  {
+   "title": "Previous design (Dec 2018-2025)",
+   "cat": "other",
+   "source_img": null,
+   "year": "2019",
+   "supports": null,
+   "fact": "Plates issued between December 2018 and December 2025 are exempt from the 2026 re-plating program, so this white QR-coded design with the national and state seals is still legal and very common.",
+   "source": "https://www.veracruz.gob.mx/2026/01/06/programa-de-reemplacamiento-2026-ano-nuevo-placas-nuevas/"
+  },
+  {
+   "title": "Older designs (issued up to Nov 2018), being phased out in 2026",
+   "cat": "other",
+   "source_img": null,
+   "year": null,
+   "supports": null,
+   "fact": "Plates issued up to November 2018 (the white 2010-2016 rainbow-stripe design and the light-gray 2016-2018 design) must be swapped during 2026, so a few are still on the road until the program closes on Dec 31, 2026.",
+   "source": "https://www.veracruz.gob.mx/2026/01/06/programa-de-reemplacamiento-2026-ano-nuevo-placas-nuevas/"
+  }
+ ],
+ "notes": "Official 2026 program (Sefiplan, 'Ano nuevo, placas nuevas', Jan 1-Dec 31 2026) is mandatory only for plates issued up to Nov 2018; Dec 2018-Dec 2025 plates stay valid. No official plate-only artwork found on veracruz.gob.mx or ovh.gob.mx (the 2026 release images are a Sefiplan logo and a discount banner); every clean picture of the new guinda-header design found was on news sites or Sefiplan social media. The 2026 design description comes from those news/social images, not an official text. Start year 2026 is when issuance began (January 2026). No specialty plates found."
+}

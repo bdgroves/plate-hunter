@@ -1,0 +1,42 @@
+{
+ "code": "BCN",
+ "name": "Baja California",
+ "rated": false,
+ "plates": [
+  {
+   "id": "current-design-2025",
+   "name": "Current design (2025)",
+   "cat": "other",
+   "img": null,
+   "year": "2025",
+   "fact": "Baja California's newest everyday plate wears the state government's guinda (maroon), white and gold colors, with a guinda band carrying the state name along the bottom."
+  },
+  {
+   "id": "fifa-world-cup-2026-commemorative",
+   "name": "FIFA World Cup 2026 commemorative",
+   "cat": "sports",
+   "img": null,
+   "year": "2026",
+   "fact": "Baja California made 95,463 World Cup plate sets, handed out from May 21, 2026 at the regular plate price.",
+   "source": "https://www.elimparcial.com/mxl/mexicali/2026/06/20/mas-de-12-mil-automovilistas-ya-cuentan-con-placas-conmemorativas-del-mundial-2026-en-bc/"
+  },
+  {
+   "id": "earlier-designs-still-valid",
+   "name": "Earlier designs (still valid)",
+   "cat": "other",
+   "img": null,
+   "fact": "A January 2025 decree made Baja California's replating optional, and the state says it won't require replating in 2026 either, so older plates are still on the road.",
+   "source": "https://www.unotv.com/estados/baja-california/baja-california-no-contemplara-reemplacamiento-obligatorio-en-2026/"
+  }
+ ],
+ "updated": "2026-10-26",
+ "checked": false,
+ "checked_on": "2026-10-26",
+ "about": "Baja California plates to hunt, from the state's own sources on 2026-10-26. Not rated yet: every plate is worth the same.",
+ "sources": [
+  {
+   "title": "State, provincial and territorial licensing agencies, and the plates' sponsors",
+   "url": ""
+  }
+ ]
+}

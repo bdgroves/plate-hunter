@@ -1,0 +1,34 @@
+{
+ "code": "MEX",
+ "name": "State of Mexico",
+ "rated": false,
+ "plates": [
+  {
+   "id": "current-design-2024",
+   "name": "Current design (2024)",
+   "cat": "other",
+   "img": null,
+   "year": "2024",
+   "fact": "The State of Mexico's current plate is white with a maroon, flower-patterned band, the state name, and the motto '¡El poder de servir!' across the top.",
+   "source": "https://pagosytramites.edomex.gob.mx/recaudacion/CtrlVeh/MicRemplaca/index.jsp"
+  },
+  {
+   "id": "previous-design-del-mazo-era-about-2019-",
+   "name": "Previous design (Del Mazo era, about 2019-2023)",
+   "cat": "other",
+   "img": null,
+   "fact": "Edomex replates by year of issue, so older sets stay legal until their cohort is called; in 2025 that was plates issued in 2020 or earlier.",
+   "source": "https://www.elfinanciero.com.mx/edomex/2025/07/04/reemplacamiento-2025-en-edomex-gobierno-ofrece-descuentos-a-mexiquenses-para-renovar-sus-placas/"
+  }
+ ],
+ "updated": "2026-10-26",
+ "checked": false,
+ "checked_on": "2026-10-26",
+ "about": "State of Mexico plates to hunt, from the state's own sources on 2026-10-26. Not rated yet: every plate is worth the same.",
+ "sources": [
+  {
+   "title": "State, provincial and territorial licensing agencies, and the plates' sponsors",
+   "url": "https://pagosytramites.edomex.gob.mx/recaudacion/CtrlVeh/MicRemplaca/index.jsp"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "code": "ZAC",
+ "name": "Zacatecas",
+ "standard": {
+  "source_img": null,
+  "year": "2022",
+  "note": "Zacatecas's plate is pale and sunny, with a desert scene of the sun rising between mountains and a QR code that stores the plate's data."
+ },
+ "robot_url": null,
+ "complete": false,
+ "plates": [
+  {
+   "title": "Current design (2022)",
+   "cat": "other",
+   "source_img": null,
+   "year": "2022",
+   "supports": null,
+   "fact": "Zacatecas's plate is pale and sunny, with a desert scene of the sun rising between mountains and a QR code that stores the plate's data.",
+   "source": null
+  }
+ ],
+ "notes": "The current design came with the 2022 canje under Gov. David Monreal (SEFIN started handing out plates in April-July 2022, zacatecas.gob.mx). On zacatecas.gob.mx and sefin.zacatecas.gob.mx I found only photos of people and promo graphics, no clean plate image. The 2026 'Ponte a mano' regularization programs suggest there is no newer design yet. I found no specialty plates."
+}

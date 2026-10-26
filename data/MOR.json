@@ -1,0 +1,33 @@
+{
+ "code": "MOR",
+ "name": "Morelos",
+ "rated": false,
+ "plates": [
+  {
+   "id": "current-design-2025",
+   "name": "Current design (2025)",
+   "cat": "other",
+   "img": null,
+   "year": "2025",
+   "fact": "Morelos's newest plate uses green tones and the motto 'La tierra que nos une'."
+  },
+  {
+   "id": "previous-design-before-2025",
+   "name": "Previous design (before 2025)",
+   "cat": "other",
+   "img": null,
+   "fact": "The 2025 plates cleared a backlog and were not a mass replating, so older Morelos plates are still common on the road.",
+   "source": "https://www.tusbuenasnoticias.com/amp/noticias/mexico/2025/04/02/43401-nuevas-placas-en-morelos-2025"
+  }
+ ],
+ "updated": "2026-10-26",
+ "checked": false,
+ "checked_on": "2026-10-26",
+ "about": "Morelos plates to hunt, from the state's own sources on 2026-10-26. Not rated yet: every plate is worth the same.",
+ "sources": [
+  {
+   "title": "State, provincial and territorial licensing agencies, and the plates' sponsors",
+   "url": ""
+  }
+ ]
+}

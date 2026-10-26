@@ -1,0 +1,32 @@
+{
+ "code": "TAM",
+ "name": "Tamaulipas",
+ "standard": {
+  "source_img": "https://tamaulipas.gob.mx/wp-content/uploads/2025/03/SFT-005-2025.-Invita-Gobierno-de-Tamaulipas-a-aprovechar-el-50-de-descuento-en-recargos-y-a-regularizar-la-tenencia-vehicular-1.jpeg",
+  "year": "2025",
+  "note": "Tamaulipas's 2025 plate is white with a sweeping guinda-red and gold band along the bottom, 'Tamaulipas México' up top, a QR code in the corner and the national and state coats of arms."
+ },
+ "robot_url": "https://tamaulipas.gob.mx/2025/03/invita-gobierno-de-tamaulipas-a-aprovechar-el-50-de-descuento-en-recargos-y-a-regularizar-la-tenencia-vehicular/",
+ "complete": false,
+ "plates": [
+  {
+   "title": "Current design (2025)",
+   "cat": "other",
+   "source_img": "https://tamaulipas.gob.mx/wp-content/uploads/2025/03/SFT-005-2025.-Invita-Gobierno-de-Tamaulipas-a-aprovechar-el-50-de-descuento-en-recargos-y-a-regularizar-la-tenencia-vehicular-1.jpeg",
+   "year": "2025",
+   "supports": null,
+   "fact": "Tamaulipas's 2025 plate is white with a sweeping guinda-red and gold band along the bottom, 'Tamaulipas México' up top, a QR code in the corner and the national and state coats of arms.",
+   "source": "https://tamaulipas.gob.mx/2025/03/invita-gobierno-de-tamaulipas-a-aprovechar-el-50-de-descuento-en-recargos-y-a-regularizar-la-tenencia-vehicular/"
+  },
+  {
+   "title": "Drivers with disabilities",
+   "cat": "other",
+   "source_img": null,
+   "year": null,
+   "supports": null,
+   "fact": null,
+   "source": "https://finanzas.tamaulipas.gob.mx/uploads/REQUISITOS-PLACAS-DISCAPACIDAD.pdf"
+  }
+ ],
+ "notes": "The image is the government's own plate artwork (1200x691, ratio 1.74), showing an 'AAA-000-A' 'Transporte privado nacional - Automóvil' plate. Replating was mandatory statewide from January 2, 2025, replacing the previous administration's blue plates (per Vanguardia). I found no deadline for when the blue plates stop being valid. The tamaulipas.gob.mx article page loads very slowly. I saw no World Cup, eco or classic-car designs."
+}

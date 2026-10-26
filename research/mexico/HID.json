@@ -1,0 +1,23 @@
+{
+ "code": "HID",
+ "name": "Hidalgo",
+ "standard": {
+  "source_img": null,
+  "year": "2023",
+  "note": "Hidalgo's plate is white and maroon with a thin gold stripe, the national and state shields along the bottom, and a QR code top right."
+ },
+ "robot_url": "https://portaltributario.hidalgo.gob.mx/",
+ "complete": false,
+ "plates": [
+  {
+   "title": "Current design (2023)",
+   "cat": "other",
+   "source_img": null,
+   "year": "2023",
+   "supports": null,
+   "fact": "Hidalgo's plate is white and maroon with a thin gold stripe, the national and state shields along the bottom, and a QR code top right.",
+   "source": "https://portaltributario.hidalgo.gob.mx/"
+  }
+ ],
+ "notes": "Year 2023: the state-wide reemplacamiento ran in 2023 and voided the earlier plates (El Universal, Milenio). The Secretaría de Hacienda photo used by UnoTV is credited to the state, but no copy on a state server was found. Not checked: special designs. The robot_url is the tax portal and its slider images, not a confirmed plate gallery, so treat it as weak."
+}

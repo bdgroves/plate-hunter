@@ -1,0 +1,23 @@
+{
+ "code": "SIN",
+ "name": "Sinaloa",
+ "standard": {
+  "source_img": null,
+  "year": null,
+  "note": "Sinaloa's plate is white with 'SINALOA' and 'MÉXICO' in red along the bottom, the state coat of arms between the two words, and a QR code in the top corner."
+ },
+ "robot_url": null,
+ "complete": false,
+ "plates": [
+  {
+   "title": "Current design",
+   "cat": "other",
+   "source_img": null,
+   "year": null,
+   "supports": null,
+   "fact": "Sinaloa's plate is white with 'SINALOA' and 'MÉXICO' in red along the bottom, the state coat of arms between the two words, and a QR code in the top corner.",
+   "source": null
+  }
+ ],
+ "notes": "The only official plate image I found is https://compranet.sinaloa.gob.mx/uploads/files/eL-lo2VrC6C7ETm0.jpg (3004x1496), but it is a public-transport BUS plate (A-27499-U, 'Transporte público - Autobús'), so it is excluded. The private-car note assumes the same layout (it matches UnoTV's description). The state bought new plates in 2026 (tender GES 03/2026), but I found no announcement of a new design or replating. The year the current design started and any specialty plates are unknown. Hybrid and electric cars get registration-fee discounts, but no separate plate design was found."
+}

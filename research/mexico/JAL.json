@@ -1,0 +1,50 @@
+{
+ "code": "JAL",
+ "name": "Jalisco",
+ "standard": {
+  "source_img": "https://d2shyreu57721j.cloudfront.net/jalisco/images/54309417375_73555d37f0_c.2e16d0ba.fill-1920x1080.jpg",
+  "year": "2025",
+  "note": "The 'Cabañas' plate is white with a row of little orange-and-blue icons up top (the Hospicio Cabañas dome, the state seal and an agave) and a QR code in the corner."
+ },
+ "robot_url": "https://www.jalisco.gob.mx/prensa/noticias/tiene-jalisco-nuevas-placas-vehiculares",
+ "complete": false,
+ "plates": [
+  {
+   "title": "Current design (2025)",
+   "cat": "other",
+   "source_img": "https://d2shyreu57721j.cloudfront.net/jalisco/images/54309417375_73555d37f0_c.2e16d0ba.fill-1920x1080.jpg",
+   "year": "2025",
+   "supports": null,
+   "fact": "The 'Cabañas' plate is white with a row of little orange-and-blue icons up top (the Hospicio Cabañas dome, the state seal and an agave) and a QR code in the corner.",
+   "source": "https://www.jalisco.gob.mx/prensa/noticias/tiene-jalisco-nuevas-placas-vehiculares"
+  },
+  {
+   "title": "'Collage' design (2019-2025)",
+   "cat": "other",
+   "source_img": null,
+   "year": "2019",
+   "supports": null,
+   "fact": "Collage plates meet the federal standard, so they stay legal alongside the new Cabañas plates.",
+   "source": "https://www.jalisco.gob.mx/prensa/noticias/tiene-jalisco-nuevas-placas-vehiculares"
+  },
+  {
+   "title": "Vehicles for people with disabilities",
+   "cat": "vehicle",
+   "source_img": null,
+   "year": null,
+   "supports": null,
+   "fact": "Jalisco issues special plates for vehicles adapted for, or used to carry, people with disabilities.",
+   "source": "https://tramites.jalisco.gob.mx/catalogo.jalisco/ciudadania/servicios/tramite/JAL-SET-0008"
+  },
+  {
+   "title": "Ecological vehicles (green plate)",
+   "cat": "vehicle",
+   "source_img": null,
+   "year": null,
+   "supports": null,
+   "fact": "Hybrid and electric cars in Jalisco can carry a green plate.",
+   "source": "https://tramites.jalisco.gob.mx/catalogo.jalisco/ciudadania/servicios/tramite/JAL-SET-0008"
+  }
+ ],
+ "notes": "Only Collage (2019) and Cabañas (Feb 2025) are legal. The older Minerva, Gota and Maguey plates had to be swapped; the last free-swap deadline was 29 May 2026 (hacienda.jalisco.gob.mx release, 27 Mar 2026), so they should be off the road now. The standard picture is a government photo of the plate held in someone's hands (cropped 16:9). The disability and green-plate entries come from a Google snippet of the trámite JAL-SET-0008 (the page didn't render for me) and the Ley de Movilidad, which mentions 'vehículos híbridos o eléctricos con placa verde'. No pictures or start years found for them. I found no official Collage picture."
+}

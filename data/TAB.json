@@ -1,0 +1,33 @@
+{
+ "code": "TAB",
+ "name": "Tabasco",
+ "rated": false,
+ "plates": [
+  {
+   "id": "current-design-2026",
+   "name": "Current design (2026)",
+   "cat": "other",
+   "img": null,
+   "year": "2026",
+   "fact": "Tabasco's 2026 plate is a crisp white design with TABASCO in a maroon header at the top and a QR code for security."
+  },
+  {
+   "id": "people-with-disabilities",
+   "name": "People with disabilities",
+   "cat": "other",
+   "img": null,
+   "fact": "Tabasco issues plates for people with disabilities after a supporting certificate (constancia) is obtained.",
+   "source": "https://papelea.com/mx/estado-de-tabasco/expedicion-de-constancias-para-tramite-de-placas-vehiculares-a-personas-con-discapacidad-portal-tabasco"
+  }
+ ],
+ "updated": "2026-10-26",
+ "checked": false,
+ "checked_on": "2026-10-26",
+ "about": "Tabasco plates to hunt, from the state's own sources on 2026-10-26. Not rated yet: every plate is worth the same.",
+ "sources": [
+  {
+   "title": "State, provincial and territorial licensing agencies, and the plates' sponsors",
+   "url": ""
+  }
+ ]
+}

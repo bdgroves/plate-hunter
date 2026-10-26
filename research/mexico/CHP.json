@@ -1,0 +1,23 @@
+{
+ "code": "CHP",
+ "name": "Chiapas",
+ "standard": {
+  "source_img": null,
+  "year": "2025",
+  "note": "Chiapas's 2025 plate is a clean white design with CHIAPAS across the top and the government's 'Humanismo que transforma' logo at the bottom, packed with security features: a QR code, a hologram and an augmented-reality logo."
+ },
+ "robot_url": null,
+ "complete": false,
+ "plates": [
+  {
+   "title": "Current design (2025)",
+   "cat": "other",
+   "source_img": null,
+   "year": "2025",
+   "supports": null,
+   "fact": "Chiapas's 2025 plate is a clean white design with CHIAPAS across the top and the government's 'Humanismo que transforma' logo at the bottom, packed with security features: a QR code, a hologram and an augmented-reality logo.",
+   "source": null
+  }
+ ],
+ "notes": "Re-plating began February 2025 (Secretaria de Hacienda de Chiapas). haciendachiapas.gob.mx and ingresos.haciendachiapas.gob.mx would not load from this environment (browser error page), so no official image was found; clean images exist only on news sites and Facebook. The previous design is being replaced by the 2025 canje; I could not confirm an official end-of-validity date, so it is not listed. No specialty plates found."
+}

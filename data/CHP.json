@@ -1,0 +1,25 @@
+{
+ "code": "CHP",
+ "name": "Chiapas",
+ "rated": false,
+ "plates": [
+  {
+   "id": "current-design-2025",
+   "name": "Current design (2025)",
+   "cat": "other",
+   "img": null,
+   "year": "2025",
+   "fact": "Chiapas's 2025 plate is a clean white design with CHIAPAS across the top and the government's 'Humanismo que transforma' logo at the bottom, packed with security features: a QR code, a hologram and an augmented-reality logo."
+  }
+ ],
+ "updated": "2026-10-26",
+ "checked": false,
+ "checked_on": "2026-10-26",
+ "about": "Chiapas plates to hunt, from the state's own sources on 2026-10-26. Not rated yet: every plate is worth the same.",
+ "sources": [
+  {
+   "title": "State, provincial and territorial licensing agencies, and the plates' sponsors",
+   "url": ""
+  }
+ ]
+}

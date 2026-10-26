@@ -1,0 +1,23 @@
+{
+ "code": "GRO",
+ "name": "Guerrero",
+ "standard": {
+  "source_img": null,
+  "year": null,
+  "note": "Guerrero's current plate carries the state government's 'Transformando Guerrero' logo and a QR code at the top, maroon-and-gold tones, and the national and state seals at the bottom."
+ },
+ "robot_url": null,
+ "complete": false,
+ "plates": [
+  {
+   "title": "Current design",
+   "cat": "other",
+   "source_img": null,
+   "year": null,
+   "supports": null,
+   "fact": "Guerrero's current plate carries the state government's 'Transformando Guerrero' logo and a QR code at the top, maroon-and-gold tones, and the national and state seals at the bottom.",
+   "source": null
+  }
+ ],
+ "notes": "Could not reach sefina.guerrero.gob.mx (blocked from this environment) and found no official plate artwork on guerrero.gob.mx or the state broadcaster rtg.com.mx (only photos of offices). Start year not confirmed: the 'Transformando Guerrero' design was already described in an Aug 2023 UnoTV article, so it dates from about 2022-2023 (Evelyn Salgado administration). Photos show it in both a white version with a maroon lower band and a maroon-background version. A white design with a colorful embroidered-textile border ('Automovil privado') also appears in 2025 news photos; I could not establish whether it is older or newer, so it is not listed. No specialty plates found."
+}

@@ -1,0 +1,25 @@
+{
+ "code": "QUE",
+ "name": "Querétaro",
+ "rated": false,
+ "plates": [
+  {
+   "id": "current-design-2022",
+   "name": "Current design (2022)",
+   "cat": "other",
+   "img": null,
+   "year": "2022",
+   "fact": "Querétaro's plate is white with blue bands across the top and bottom, and the state government shield and a QR code on the right side."
+  }
+ ],
+ "updated": "2026-10-26",
+ "checked": false,
+ "checked_on": "2026-10-26",
+ "about": "Querétaro plates to hunt, from the state's own sources on 2026-10-26. Not rated yet: every plate is worth the same.",
+ "sources": [
+  {
+   "title": "State, provincial and territorial licensing agencies, and the plates' sponsors",
+   "url": ""
+  }
+ ]
+}

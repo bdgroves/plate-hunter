@@ -1,0 +1,52 @@
+{
+ "code": "JAL",
+ "name": "Jalisco",
+ "rated": false,
+ "plates": [
+  {
+   "id": "current-design-2025",
+   "name": "Current design (2025)",
+   "cat": "other",
+   "img": null,
+   "img_url": "https://d2shyreu57721j.cloudfront.net/jalisco/images/54309417375_73555d37f0_c.2e16d0ba.fill-1920x1080.jpg",
+   "year": "2025",
+   "fact": "The 'Cabañas' plate is white with a row of little orange-and-blue icons up top (the Hospicio Cabañas dome, the state seal and an agave) and a QR code in the corner.",
+   "source": "https://www.jalisco.gob.mx/prensa/noticias/tiene-jalisco-nuevas-placas-vehiculares"
+  },
+  {
+   "id": "collage-design-2019-2025",
+   "name": "'Collage' design (2019-2025)",
+   "cat": "other",
+   "img": null,
+   "year": "2019",
+   "fact": "Collage plates meet the federal standard, so they stay legal alongside the new Cabañas plates.",
+   "source": "https://www.jalisco.gob.mx/prensa/noticias/tiene-jalisco-nuevas-placas-vehiculares"
+  },
+  {
+   "id": "vehicles-for-people-with-disabilities",
+   "name": "Vehicles for people with disabilities",
+   "cat": "vehicle",
+   "img": null,
+   "fact": "Jalisco issues special plates for vehicles adapted for, or used to carry, people with disabilities.",
+   "source": "https://tramites.jalisco.gob.mx/catalogo.jalisco/ciudadania/servicios/tramite/JAL-SET-0008"
+  },
+  {
+   "id": "ecological-vehicles-green-plate",
+   "name": "Ecological vehicles (green plate)",
+   "cat": "vehicle",
+   "img": null,
+   "fact": "Hybrid and electric cars in Jalisco can carry a green plate.",
+   "source": "https://tramites.jalisco.gob.mx/catalogo.jalisco/ciudadania/servicios/tramite/JAL-SET-0008"
+  }
+ ],
+ "updated": "2026-10-26",
+ "checked": false,
+ "checked_on": "2026-10-26",
+ "about": "Jalisco plates to hunt, from the state's own sources on 2026-10-26. Not rated yet: every plate is worth the same.",
+ "sources": [
+  {
+   "title": "State, provincial and territorial licensing agencies, and the plates' sponsors",
+   "url": "https://www.jalisco.gob.mx/prensa/noticias/tiene-jalisco-nuevas-placas-vehiculares"
+  }
+ ]
+}

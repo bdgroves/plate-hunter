@@ -1,0 +1,26 @@
+{
+ "code": "HID",
+ "name": "Hidalgo",
+ "rated": false,
+ "plates": [
+  {
+   "id": "current-design-2023",
+   "name": "Current design (2023)",
+   "cat": "other",
+   "img": null,
+   "year": "2023",
+   "fact": "Hidalgo's plate is white and maroon with a thin gold stripe, the national and state shields along the bottom, and a QR code top right.",
+   "source": "https://portaltributario.hidalgo.gob.mx/"
+  }
+ ],
+ "updated": "2026-10-26",
+ "checked": false,
+ "checked_on": "2026-10-26",
+ "about": "Hidalgo plates to hunt, from the state's own sources on 2026-10-26. Not rated yet: every plate is worth the same.",
+ "sources": [
+  {
+   "title": "State, provincial and territorial licensing agencies, and the plates' sponsors",
+   "url": "https://portaltributario.hidalgo.gob.mx/"
+  }
+ ]
+}

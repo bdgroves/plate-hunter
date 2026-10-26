@@ -1,0 +1,25 @@
+{
+ "code": "ZAC",
+ "name": "Zacatecas",
+ "rated": false,
+ "plates": [
+  {
+   "id": "current-design-2022",
+   "name": "Current design (2022)",
+   "cat": "other",
+   "img": null,
+   "year": "2022",
+   "fact": "Zacatecas's plate is pale and sunny, with a desert scene of the sun rising between mountains and a QR code that stores the plate's data."
+  }
+ ],
+ "updated": "2026-10-26",
+ "checked": false,
+ "checked_on": "2026-10-26",
+ "about": "Zacatecas plates to hunt, from the state's own sources on 2026-10-26. Not rated yet: every plate is worth the same.",
+ "sources": [
+  {
+   "title": "State, provincial and territorial licensing agencies, and the plates' sponsors",
+   "url": ""
+  }
+ ]
+}

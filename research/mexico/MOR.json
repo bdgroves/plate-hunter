@@ -1,0 +1,32 @@
+{
+ "code": "MOR",
+ "name": "Morelos",
+ "standard": {
+  "source_img": null,
+  "year": "2025",
+  "note": "Morelos's newest plate uses green tones and the motto 'La tierra que nos une'."
+ },
+ "robot_url": null,
+ "complete": false,
+ "plates": [
+  {
+   "title": "Current design (2025)",
+   "cat": "other",
+   "source_img": null,
+   "year": "2025",
+   "supports": null,
+   "fact": "Morelos's newest plate uses green tones and the motto 'La tierra que nos une'.",
+   "source": null
+  },
+  {
+   "title": "Previous design (before 2025)",
+   "cat": "other",
+   "source_img": null,
+   "year": null,
+   "supports": null,
+   "fact": "The 2025 plates cleared a backlog and were not a mass replating, so older Morelos plates are still common on the road.",
+   "source": "https://www.tusbuenasnoticias.com/amp/noticias/mexico/2025/04/02/43401-nuevas-placas-en-morelos-2025"
+  }
+ ],
+ "notes": "The Coordinación Estatal de Movilidad y Transporte announced new plates, cards and licences in Apr 2025, with appointments from 15 Apr 2025 at citas.morelos.gob.mx. The design description comes only from sdpnoticias (2025); confirm it before use. No official image was found."
+}

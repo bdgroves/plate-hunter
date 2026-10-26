@@ -1,0 +1,25 @@
+{
+ "code": "YUC",
+ "name": "Yucatán",
+ "rated": false,
+ "plates": [
+  {
+   "id": "current-design-2025",
+   "name": "Current design (2025)",
+   "cat": "other",
+   "img": null,
+   "year": "2025",
+   "fact": "Yucatán's 2025 plate is a simple, clean white design with a maroon (guinda) stripe and the state name at the top, with the national and state seals at the bottom."
+  }
+ ],
+ "updated": "2026-10-26",
+ "checked": false,
+ "checked_on": "2026-10-26",
+ "about": "Yucatán plates to hunt, from the state's own sources on 2026-10-26. Not rated yet: every plate is worth the same.",
+ "sources": [
+  {
+   "title": "State, provincial and territorial licensing agencies, and the plates' sponsors",
+   "url": ""
+  }
+ ]
+}

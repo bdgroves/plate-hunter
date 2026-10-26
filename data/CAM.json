@@ -1,0 +1,25 @@
+{
+ "code": "CAM",
+ "name": "Campeche",
+ "rated": false,
+ "plates": [
+  {
+   "id": "current-design-2026",
+   "name": "Current design (2026)",
+   "cat": "other",
+   "img": null,
+   "year": "2026",
+   "fact": "Campeche's new 2026 plate keeps the state's 'Campeche puro amor' spirit, with CAMPECHE across the top and a decorative band along the bottom, and adds new anti-cloning security features."
+  }
+ ],
+ "updated": "2026-10-26",
+ "checked": false,
+ "checked_on": "2026-10-26",
+ "about": "Campeche plates to hunt, from the state's own sources on 2026-10-26. Not rated yet: every plate is worth the same.",
+ "sources": [
+  {
+   "title": "State, provincial and territorial licensing agencies, and the plates' sponsors",
+   "url": ""
+  }
+ ]
+}

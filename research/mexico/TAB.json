@@ -1,0 +1,32 @@
+{
+ "code": "TAB",
+ "name": "Tabasco",
+ "standard": {
+  "source_img": null,
+  "year": "2026",
+  "note": "Tabasco's 2026 plate is a crisp white design with TABASCO in a maroon header at the top and a QR code for security."
+ },
+ "robot_url": null,
+ "complete": false,
+ "plates": [
+  {
+   "title": "Current design (2026)",
+   "cat": "other",
+   "source_img": null,
+   "year": "2026",
+   "supports": null,
+   "fact": "Tabasco's 2026 plate is a crisp white design with TABASCO in a maroon header at the top and a QR code for security.",
+   "source": null
+  },
+  {
+   "title": "People with disabilities",
+   "cat": "other",
+   "source_img": null,
+   "year": null,
+   "supports": null,
+   "fact": "Tabasco issues plates for people with disabilities after a supporting certificate (constancia) is obtained.",
+   "source": "https://papelea.com/mx/estado-de-tabasco/expedicion-de-constancias-para-tramite-de-placas-vehiculares-a-personas-con-discapacidad-portal-tabasco"
+  }
+ ],
+ "notes": "The 2026 canje began Jan 5, 2026, and for the first time it could be done online ('Llave Tabasco'), per tabasco.gob.mx releases. tabasco.gob.mx blocks both the fetch tool and the browser from this environment, so the releases and their images could not be read. The design description comes from news images. The older floral-ribbon design was being replaced, and its exact end date was not confirmed. The disability-plate entry comes from a third-party summary of the state procedure; its design was not seen."
+}

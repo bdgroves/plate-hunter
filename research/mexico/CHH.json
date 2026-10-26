@@ -1,0 +1,33 @@
+{
+ "code": "CHH",
+ "name": "Chihuahua",
+ "standard": {
+  "year": "2022",
+  "note": "Chihuahua's plate from the 2022 statewide swap is a plain white plate with 'CHIHUAHUA' across the top and the Mexican and Chihuahua coats of arms near the bottom, built with a reflective security film and a barcode.",
+  "rejected_img": "https://chihuahua.gob.mx/atach2/grupos/user1517/whatsapp_image_2022-01-20_at_1.22.42_pm.jpeg",
+  "source_img": null
+ },
+ "robot_url": "https://chihuahua.gob.mx/contenidos/programa-de-revalidacion-y-canje-de-placas-para-reforzar-la-seguridad-publica-en",
+ "complete": false,
+ "plates": [
+  {
+   "title": "Current design (2022)",
+   "cat": "other",
+   "source_img": null,
+   "year": "2022",
+   "supports": null,
+   "fact": "Chihuahua's plate from the 2022 statewide swap is a plain white plate with 'CHIHUAHUA' across the top and the Mexican and Chihuahua coats of arms near the bottom, built with a reflective security film and a barcode.",
+   "source": "https://chihuahua.gob.mx/contenidos/programa-de-revalidacion-y-canje-de-placas-para-reforzar-la-seguridad-publica-en"
+  },
+  {
+   "title": "Drivers with disabilities",
+   "cat": "other",
+   "source_img": null,
+   "year": null,
+   "supports": null,
+   "fact": "Chihuahua's revenue office (Recaudación de Rentas) issues special plates for people with disabilities.",
+   "source": "https://www.google.com/search?q=placas+site%3Achihuahua.gob.mx&udm=2 (Chihuahua government 'Placas discapacidad' requirements graphic)"
+  }
+ ],
+ "notes": "The 2022 swap was mandatory: plates and registration cards from before it lost validity on April 30, 2022, and 1.5 million new sets went out from May 2022 (https://www.chihuahua.gob.mx/prensa/para-garantizar-la-seguridad-en-el-estado-da-conocer-secretaria-de-hacienda-requisitos-para). The standard image is the government's 'Diseño de placas 2022' slide (955x706, ratio 1.35) showing the front (F) and rear (T) plates, not a tight crop of one plate. I found no World Cup, eco or classic designs. I saw the disability plates only as a requirements graphic, with no plate picture. [Claude] standard picture not used: it shows the front and rear plates side by side."
+}

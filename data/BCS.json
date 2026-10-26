@@ -1,0 +1,25 @@
+{
+ "code": "BCS",
+ "name": "Baja California Sur",
+ "rated": false,
+ "plates": [
+  {
+   "id": "current-design",
+   "name": "Current design",
+   "cat": "other",
+   "img": null,
+   "fact": "Baja California Sur's everyday plate is a clean white plate with dark characters, the state name across the top and a barcode for quick checks.",
+   "source": "https://tramites.bcs.gob.mx/catX/la-dotacion-y-o-reposicion-de-placas-de-identificacion-del-servicio-de-control-vehicular/"
+  }
+ ],
+ "updated": "2026-10-26",
+ "checked": false,
+ "checked_on": "2026-10-26",
+ "about": "Baja California Sur plates to hunt, from the state's own sources on 2026-10-26. Not rated yet: every plate is worth the same.",
+ "sources": [
+  {
+   "title": "State, provincial and territorial licensing agencies, and the plates' sponsors",
+   "url": "https://tramites.bcs.gob.mx/catX/la-dotacion-y-o-reposicion-de-placas-de-identificacion-del-servicio-de-control-vehicular/"
+  }
+ ]
+}

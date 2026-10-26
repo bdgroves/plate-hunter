@@ -1,0 +1,23 @@
+{
+ "code": "AGU",
+ "name": "Aguascalientes",
+ "standard": {
+  "source_img": null,
+  "year": "2023",
+  "note": "Aguascalientes's plate is white with playful blue, yellow, purple and pink shapes, and the state name and seal across the top."
+ },
+ "robot_url": null,
+ "complete": false,
+ "plates": [
+  {
+   "title": "Current design (2023)",
+   "cat": "other",
+   "source_img": null,
+   "year": "2023",
+   "supports": null,
+   "fact": "Aguascalientes's plate is white with playful blue, yellow, purple and pink shapes, and the state name and seal across the top.",
+   "source": null
+  }
+ ],
+ "notes": "The current design came with the 'Canje de Placas 2023' program from the Secretaría de Finanzas (SEFI), which carried into 2024 at about 2,300 pesos. SEFI was still promoting 'canje por pérdida de vigencia' in autumn 2026. A SEFI Facebook graphic contrasts 'placas válidas' with 'placas obsoletas', so older designs are no longer valid. The only official image I found was a promo graphic (a hand holding an AGS-2023 plate), not a plate-shaped picture."
+}

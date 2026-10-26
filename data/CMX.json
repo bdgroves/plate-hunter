@@ -1,0 +1,61 @@
+{
+ "code": "CMX",
+ "name": "Mexico City",
+ "rated": false,
+ "plates": [
+  {
+   "id": "current-design-2016",
+   "name": "Current design (2016)",
+   "cat": "other",
+   "img": null,
+   "year": "2016",
+   "fact": "Mexico City's everyday plate is white with black characters, a maroon 'Ciudad de México' legend beside the city and SEMOVI shields, and a QR code in the corner."
+  },
+  {
+   "id": "world-cup-2026-commemorative",
+   "name": "World Cup 2026 commemorative",
+   "cat": "sports",
+   "img": null,
+   "img_url": "https://noticiasc21.cdmx.gob.mx/img/cdmx-arranca-entrega-de-placas-conmemorativas-del-mundial-2026-esto-es-lo-que-debes-saber/uploads/1771975643465-placa_mundial_edicion_limitada.jpg",
+   "year": "2026",
+   "fact": "Only 60,000 were made, in black, white and yellow versions with an axolotl in a feather headdress, hummingbirds, flowers and the Sun Stone.",
+   "source": "https://noticiasc21.cdmx.gob.mx/noticia/cdmx-arranca-entrega-de-placas-conmemorativas-del-mundial-2026-esto-es-lo-que-debes-saber"
+  },
+  {
+   "id": "hybrid-and-electric-vehicles",
+   "name": "Hybrid and electric vehicles",
+   "cat": "vehicle",
+   "img": null,
+   "fact": "SEMOVI issues a separate plate set for hybrid and electric cars.",
+   "source": "https://www.semovi.cdmx.gob.mx/tramites-y-servicios/vehiculos-particulares/placas/alta-de-placas-para-vehiculo-hibrido"
+  },
+  {
+   "id": "antique-cars-auto-antiguo",
+   "name": "Antique cars (auto antiguo)",
+   "cat": "hobby",
+   "img": null,
+   "year": "2016",
+   "fact": "The plate shows an old car and the words 'auto antiguo'.",
+   "source": "https://www.chilango.com/ciudad/hay-nuevos-disenos-de-placas-calcomanias-y-tarjetas-de-circulacion/amp/"
+  },
+  {
+   "id": "drivers-with-disabilities",
+   "name": "Drivers with disabilities",
+   "cat": "other",
+   "img": null,
+   "year": "2016",
+   "fact": "Both plates carry the international disability symbol.",
+   "source": "https://www.chilango.com/ciudad/hay-nuevos-disenos-de-placas-calcomanias-y-tarjetas-de-circulacion/amp/"
+  }
+ ],
+ "updated": "2026-10-26",
+ "checked": false,
+ "checked_on": "2026-10-26",
+ "about": "Mexico City plates to hunt, from the state's own sources on 2026-10-26. Not rated yet: every plate is worth the same.",
+ "sources": [
+  {
+   "title": "State, provincial and territorial licensing agencies, and the plates' sponsors",
+   "url": ""
+  }
+ ]
+}

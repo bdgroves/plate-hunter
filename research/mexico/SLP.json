@@ -1,0 +1,32 @@
+{
+ "code": "SLP",
+ "name": "San Luis Potosí",
+ "standard": {
+  "source_img": null,
+  "year": "2023",
+  "note": "San Luis Potosí's plate is white with lime-green accents, the state name and a QR code up top, and a little skyline of landmark buildings along the bottom."
+ },
+ "robot_url": "https://slp.gob.mx/noticias/2025/12/16/anuncia-ricardo-gallardo-placas-vehiculares-conmemorativas-del-mundial-2026-en-slp/",
+ "complete": false,
+ "plates": [
+  {
+   "title": "Current design (2023)",
+   "cat": "other",
+   "source_img": null,
+   "year": "2023",
+   "supports": null,
+   "fact": "San Luis Potosí's plate is white with lime-green accents, the state name and a QR code up top, and a little skyline of landmark buildings along the bottom.",
+   "source": "https://slp.gob.mx/noticias/2025/12/16/anuncia-ricardo-gallardo-placas-vehiculares-conmemorativas-del-mundial-2026-en-slp/"
+  },
+  {
+   "title": "2026 World Cup commemorative plates",
+   "cat": "sports",
+   "source_img": "https://d3dac9gdq8t83x.cloudfront.net/media/imagen_2026-01-13_133610890.png",
+   "year": "2026",
+   "supports": null,
+   "fact": "An optional limited edition for the 2026 World Cup in three designs, with the trophy, soccer balls, pitches and a cheeky jaguar mascot, for about 500 pesos.",
+   "source": "https://slp.gob.mx/noticias/2025/12/16/anuncia-ricardo-gallardo-placas-vehiculares-conmemorativas-del-mundial-2026-en-slp/"
+  }
+ ],
+ "notes": "The current design came with the 2023 canje (finanzas.slp.gob.mx Control Vehicular refers to 'canje de placas 2023'). Ordinary plates are free in SLP under Gov. Gallardo. There are three World Cup designs, but the image shows only one, the 'Transporte privado automóvil' version (SLP-00-01). They are sold only during 2026 (motorcycle versions too) and stay on cars afterward. I found no official picture of the standard plate."
+}

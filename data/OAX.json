@@ -1,0 +1,27 @@
+{
+ "code": "OAX",
+ "name": "Oaxaca",
+ "rated": false,
+ "plates": [
+  {
+   "id": "current-design-2023",
+   "name": "Current design (2023)",
+   "cat": "other",
+   "img": null,
+   "img_url": "https://canjedeplacas.oaxaca.gob.mx/images/placas.png",
+   "year": "2023",
+   "fact": "Oaxaca's colorful plate lines up figures in traditional dress from the state's eight regions along the bottom, set among maguey plants that nod to the mezcal country.",
+   "source": "https://canjedeplacas.oaxaca.gob.mx/"
+  }
+ ],
+ "updated": "2026-10-26",
+ "checked": false,
+ "checked_on": "2026-10-26",
+ "about": "Oaxaca plates to hunt, from the state's own sources on 2026-10-26. Not rated yet: every plate is worth the same.",
+ "sources": [
+  {
+   "title": "State, provincial and territorial licensing agencies, and the plates' sponsors",
+   "url": "https://canjedeplacas.oaxaca.gob.mx/"
+  }
+ ]
+}

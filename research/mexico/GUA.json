@@ -1,0 +1,23 @@
+{
+ "code": "GUA",
+ "name": "Guanajuato",
+ "standard": {
+  "source_img": null,
+  "year": "2020",
+  "note": "Guanajuato's plate has blue stripes, the state shield top left, a QR code top right, and the motto 'Grandeza de México' along the bottom."
+ },
+ "robot_url": null,
+ "complete": false,
+ "plates": [
+  {
+   "title": "Current design (2020)",
+   "cat": "other",
+   "source_img": null,
+   "year": "2020",
+   "supports": null,
+   "fact": "Guanajuato's plate has blue stripes, the state shield top left, a QR code top right, and the motto 'Grandeza de México' along the bottom.",
+   "source": null
+  }
+ ],
+ "notes": "The statewide canje of this design began 1 Sep 2020 (placas2020.guanajuato.gob.mx, per UnoTV) and added double-layer QR security. No official plate image was found on boletines.guanajuato.gob.mx. No special or commemorative private-car designs were found; Guanajuato did not issue World Cup plates (adn40, Apr 2026). Not checked: disability or antique-car plates."
+}

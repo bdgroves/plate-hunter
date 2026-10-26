@@ -1,0 +1,33 @@
+{
+ "code": "COL",
+ "name": "Colima",
+ "rated": false,
+ "plates": [
+  {
+   "id": "current-design-2022",
+   "name": "Current design (2022)",
+   "cat": "other",
+   "img": null,
+   "year": "2022",
+   "fact": "Colima's plate wears the state government's maroon, white and gold, with a little vine and two doves along the top and the state seal and name at the bottom."
+  },
+  {
+   "id": "vehicles-for-people-with-permanent-motor",
+   "name": "Vehicles for people with permanent motor disabilities",
+   "cat": "vehicle",
+   "img": null,
+   "fact": "Colima issues plates bearing the disability logo for people with a permanent motor disability.",
+   "source": "https://www.col.gob.mx"
+  }
+ ],
+ "updated": "2026-10-26",
+ "checked": false,
+ "checked_on": "2026-10-26",
+ "about": "Colima plates to hunt, from the state's own sources on 2026-10-26. Not rated yet: every plate is worth the same.",
+ "sources": [
+  {
+   "title": "State, provincial and territorial licensing agencies, and the plates' sponsors",
+   "url": ""
+  }
+ ]
+}

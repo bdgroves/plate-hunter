@@ -1,0 +1,25 @@
+{
+ "code": "DUR",
+ "name": "Durango",
+ "rated": false,
+ "plates": [
+  {
+   "id": "current-design-2023",
+   "name": "Current design (2023)",
+   "cat": "other",
+   "img": null,
+   "year": "2023",
+   "fact": "Durango's plate is white with green lettering, a 'DGO.' logo up top and a bright strip of flowers along the bottom under the word DURANGO."
+  }
+ ],
+ "updated": "2026-10-26",
+ "checked": false,
+ "checked_on": "2026-10-26",
+ "about": "Durango plates to hunt, from the state's own sources on 2026-10-26. Not rated yet: every plate is worth the same.",
+ "sources": [
+  {
+   "title": "State, provincial and territorial licensing agencies, and the plates' sponsors",
+   "url": ""
+  }
+ ]
+}
