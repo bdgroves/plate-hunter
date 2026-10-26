@@ -6,7 +6,9 @@ Download plate pictures that are known only by their web address ("img_url").
 Some new plates were added before their picture could be saved (the importer can't
 always reach agency sites). They carry "img_url" in data/<STATE>.json or
 data/states.json and show a drawn stand-in in the game. This downloads each one,
-saves a 480 px WebP and points the plate at it. Runs on GitHub's runners
+saves a 480 px WebP and points the plate at it. Some agency sites refuse GitHub's runners;
+for those, a person runs tools/grab_pictures.ps1 at home and uploads the files to incoming/<STATE>/,
+and this uses them instead of downloading. Runs on GitHub's runners
 (fetch-pictures.yml); a picture that still can't be fetched is simply left for next time.
 """
 from __future__ import annotations
@@ -29,13 +31,22 @@ DEADLINE = time.monotonic() + 25 * 60     # leave what's left for the next run
 failed_hosts: dict[str, int] = {}
 
 
-def grab(url: str, dest: Path, width: int) -> bool:
+def handed_in(code: str, pid: str) -> Path | None:
+    """A picture a person downloaded for us (tools/grab_pictures.ps1) and uploaded to incoming/<STATE>/."""
+    hits = sorted((ROOT / "incoming" / code).glob(f"{pid}.*"))
+    return hits[0] if hits else None
+
+
+def grab(url: str, dest: Path, width: int, local: Path | None = None) -> bool:
     host = urllib.parse.urlsplit(url).hostname or ""
-    if time.monotonic() > DEADLINE or failed_hosts.get(host, 0) >= 3:
+    if not local and (time.monotonic() > DEADLINE or failed_hosts.get(host, 0) >= 3):
         return False   # out of time, or a site that keeps refusing: try again next run
     try:
-        with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=30) as r:
-            raw = r.read(8_000_000)
+        if local:
+            raw = local.read_bytes()
+        else:
+            with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=30) as r:
+                raw = r.read(8_000_000)
         im = Image.open(io.BytesIO(raw))
         if not 1.3 <= im.width / max(im.height, 1) <= 3.2:   # artwork or a flyer, not a plate
             print(f"  {url}: not plate-shaped ({im.width}x{im.height}); left for a person", file=sys.stderr)
@@ -61,7 +72,8 @@ def main() -> int:
         for p in doc["plates"]:
             # a redesign gets a new file name, so phones that saved the old picture fetch the new one
             name = f"{p['id']}-{p['redesigned']}.webp" if p.get("img") and p.get("redesigned") else f"{p['id']}.webp"
-            if p.get("img_url") and grab(p["img_url"], ROOT / "plates" / c["code"] / name, 480):
+            local = handed_in(c["code"], p["id"]) if p.get("img_url") else None
+            if p.get("img_url") and grab(p["img_url"], ROOT / "plates" / c["code"] / name, 480, local):
                 p["img"] = name
                 del p["img_url"]
                 changed = True
@@ -82,6 +94,13 @@ def main() -> int:
             print(f"standard plate: {s['name']}")
     if changed:
         sf.write_text(json.dumps(states, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
+    # handed-in pictures are used once; whatever wasn't used (wrong shape, no such plate) stays for a person
+    for f in (ROOT / "incoming").glob("*/*"):
+        pid, code = f.stem, f.parent.name
+        doc_file = ROOT / "data" / f"{code}.json"
+        if doc_file.exists() and any(p["id"] == pid and p.get("img") and not p.get("img_url")
+                                     for p in json.loads(doc_file.read_text())["plates"]):
+            f.unlink()
     print(f"{got} picture(s) saved")
     return 0
 
