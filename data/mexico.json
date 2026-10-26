@@ -52,7 +52,7 @@
   "code": "COA",
   "name": "Coahuila",
   "country": "MX",
-  "img": null,
+  "img": "plates/standard/COA.webp",
   "note": "Coahuila's new plates from the 2025-2027 replating carry a QR code you can scan to confirm the plate is real, plus a color-shifting security pattern."
  },
  {
@@ -214,7 +214,7 @@
   "code": "YUC",
   "name": "Yucatán",
   "country": "MX",
-  "img": null,
+  "img": "plates/standard/YUC.webp",
   "note": "Yucatán's 2025 plate is a simple, clean white design with a maroon (guinda) stripe and the state name at the top, with the national and state seals at the bottom."
  },
  {
