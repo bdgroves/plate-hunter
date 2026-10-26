@@ -5600,9 +5600,10 @@
    "id": "dc-united",
    "name": "DC United",
    "cat": "sports",
-   "img": "dc-united.webp",
+   "img": null,
    "added": "2026-10-26",
-   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates"
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "no_official_picture": true
   },
   {
    "id": "found-in-faith-ministries",
@@ -6158,11 +6159,12 @@
   },
   {
    "id": "veteran-us-coast-guard-vehicle",
-   "name": "Veteran US Coast Guard (vehicle)",
+   "name": "Veteran U.S. Coast Guard",
    "cat": "veterans",
-   "img": "veteran-us-coast-guard-vehicle.webp",
+   "img": null,
    "added": "2026-10-26",
-   "source": "https://mva.maryland.gov/your-mva-guide/military-service-members/license-plates/view-all-military-veteran-license-plates"
+   "source": "https://mva.maryland.gov/your-mva-guide/military-service-members/license-plates/view-all-military-veteran-license-plates",
+   "no_official_picture": true
   }
  ],
  "checked_on": "2026-10-26"

@@ -1507,10 +1507,11 @@
   },
   {
    "id": "virginia-wesleyan-university",
-   "name": "Virginia Wesleyan University",
+   "name": "Batten University",
    "cat": "colleges",
    "img": "virginia-wesleyan-university-2026-10-26.webp",
-   "redesigned": "2026-10-26"
+   "redesigned": "2026-10-26",
+   "fact": "Virginia Wesleyan University took the name Batten University in 2025."
   },
   {
    "id": "virginia-western-community-college",
