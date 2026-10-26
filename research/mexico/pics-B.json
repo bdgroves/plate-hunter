@@ -1,0 +1,30 @@
+{
+  "NLE": [
+    {
+      "name_in_game": "Current design (2023)",
+      "source_img": "https://www.nl.gob.mx/sites/default/files/repositorio/Dependencias/Instituto%20de%20Control%20Vehicular/Noticias/2023_extienden_plazo_canje_placas.jpeg",
+      "size": "1339x838",
+      "crop": [760, 215, 1260, 525],
+      "page": "https://www.nl.gob.mx (Instituto de Control Vehicular news image, 2023 canje deadline extension)",
+      "note": "ICV '¡Ponte las nuevas!' graphic. The left half shows the expired 'Nuevo León Unido' plate stamped VENCIDA; the crop keeps only the right-hand new plate (AAA-000-A, gold lion emblem, NUEVOLEÓN wordmark, 'Transporte privado automóvil'), held slightly tilted, with a hand touching its right edge. After the crop the plate fills the frame, ratio about 1.6. Also serves as the standard plate."
+    }
+  ],
+  "PUE": [
+    {
+      "name_in_game": "World Cup 2026 commemorative (green and red)",
+      "source_img": "https://www.puebla.gob.mx/media/k2/attachments/Finanzas_2104_(5).jpeg",
+      "size": "2560x1437",
+      "crop": null,
+      "page": "https://www.puebla.gob.mx/index.php/noticias/item/23330-presenta-gobierno-del-estado-placas-conmemorativas-mexico-2026",
+      "note": "Official photo of the green version on its own, filling the frame: PUEBLA header, AAA-000-A, volcano and folk-art scene, 'Placa conmemorativa 2026', the mascot, and the Mexico 2026 seal. The red version on its own is in the same gallery: Finanzas_2104_(4).jpeg (2560x1437)."
+    },
+    {
+      "name_in_game": "Ecological vehicles (electric/hybrid)",
+      "source_img": "https://puebla.gob.mx/media/k2/attachments/WhatsApp_Image_2025-10-07_at_6.08.55_PM.jpeg",
+      "size": "2176x2560",
+      "crop": [1068, 1495, 1983, 1980],
+      "page": "https://puebla.gob.mx/index.php/noticias/item/20813-gobierno-de-puebla-informa-sobre-la-entrega-de-placas-para-vehiculos-ecologicos",
+      "note": "SPFA poster (Oct 2025) with a clean plate artwork inset at lower right. The crop isolates the plate: 000-AAA, a green leaf with 'Vehículo ecológico', the 'Pensar en Grande' band and 'Transporte privado'. Ratio about 1.9. This is the 2024-2030 Armenta-era design, not the 2022 'Hacer historia' design."
+    }
+  ]
+}

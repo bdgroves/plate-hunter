@@ -18,7 +18,14 @@
    "img": null,
    "year": "2026",
    "fact": "Baja California made 95,463 World Cup plate sets, handed out from May 21, 2026 at the regular plate price.",
-   "source": "https://www.elimparcial.com/mxl/mexicali/2026/06/20/mas-de-12-mil-automovilistas-ya-cuentan-con-placas-conmemorativas-del-mundial-2026-en-bc/"
+   "source": "https://www.elimparcial.com/mxl/mexicali/2026/06/20/mas-de-12-mil-automovilistas-ya-cuentan-con-placas-conmemorativas-del-mundial-2026-en-bc/",
+   "img_url": "https://serviciosbc.ebajacalifornia.gob.mx/CdnBC/api/Imagenes/ObtenerImagenDeSistema?sistemaSolicitante=AdmonPortal/4/26394/20260506&nombreArchivo=ed75fd4a-621c-41d3-8d32-55bf3e732067.jpg&descargar=false",
+   "img_crop": [
+    120,
+    905,
+    625,
+    1240
+   ]
   },
   {
    "id": "earlier-designs-still-valid",

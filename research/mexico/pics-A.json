@@ -1,0 +1,26 @@
+{
+ "BCN": [
+  {"name_in_game": "FIFA World Cup 2026 commemorative",
+   "source_img": "https://serviciosbc.ebajacalifornia.gob.mx/CdnBC/api/Imagenes/ObtenerImagenDeSistema?sistemaSolicitante=AdmonPortal/4/26394/20260506&nombreArchivo=ed75fd4a-621c-41d3-8d32-55bf3e732067.jpg&descargar=false",
+   "size": "1280x1600",
+   "crop": [120, 905, 625, 1240],
+   "page": "https://www.bajacalifornia.gob.mx/Prensa/Noticia/26394",
+   "note": "State press photo (official BC image CDN, press release 26394, 6 May 2026): Gov. Marina del Pilar holds up the World Cup plate (A00-AAA-0, 'COPA MUNDIAL DE LA FIFA', rainbow bands). Needs the crop (approx., worked out from an on-screen render); fingers touch the left and right edges but the plate is readable. Portal page itself would not load; the image CDN does. The crop box is approximate, so check it before using."}
+ ],
+ "CHH": [
+  {"name_in_game": "Current design (2022)",
+   "source_img": "https://chihuahua.gob.mx/sites/default/atach2/noticias/_mg_9252.jpg",
+   "size": "1080x720",
+   "crop": [70, 130, 1080, 680],
+   "page": "https://www.chihuahua.gob.mx/contenidos/exhorta-recaudacion-de-rentas-de-ciudad-juarez-al-canje-de-permisos-provisionales-por",
+   "note": "Government close-up photo of a new front plate EPD-75-35 (white, blue 'CHIHUAHUA / TRANSPORTE PRIVADO AUTOMÓVIL' band, state seal) in its plastic sleeve; a second plate peeks out behind it at the top, so the crop keeps just the front plate. Use for the standard plate too. The page URL is as Google indexed it (the slug looks cut off)."}
+ ],
+ "COA": [
+  {"name_in_game": "Current design (2025)",
+   "source_img": "https://coahuila.gob.mx/archivos/imagenes/3/5/ATIENDE_GOBIERNO_ESTATAL_ALTA_DEMANDA_EN_REPLAQUEO_Y_PAGO_DE_DERECHOS_DE_CONTROL_VEHICULAR3_uploaded_v1_2.jpg",
+   "size": "683x384",
+   "crop": [30, 72, 683, 384],
+   "page": "https://coahuila.gob.mx/noticias/index/atiende-gobierno-estatal-alta-demanda-en-replaqueo-y-pago-de-derechos-de-control-vehicular-03-01-25",
+   "note": "Photo of a 2025 plate held up (EZ-1072-C, white, 'COAHUILA' wordmark, 'PA' DELANTE' band). Caveats: the label reads 'TRANSPORTE PRIVADO CAMIÓN' (truck version of the same design), and there is a faint watermark at the lower right, possibly a news agency's. It is on the state's own news page. Crop optional (trims the hand and the car behind). Use for the standard plate too if accepted."}
+ ]
+}

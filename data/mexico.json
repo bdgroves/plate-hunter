@@ -39,7 +39,14 @@
   "name": "Chihuahua",
   "country": "MX",
   "img": null,
-  "note": "Chihuahua's plate from the 2022 statewide swap is a plain white plate with 'CHIHUAHUA' across the top and the Mexican and Chihuahua coats of arms near the bottom, built with a reflective security film and a barcode."
+  "note": "Chihuahua's plate from the 2022 statewide swap is a plain white plate with 'CHIHUAHUA' across the top and the Mexican and Chihuahua coats of arms near the bottom, built with a reflective security film and a barcode.",
+  "img_url": "https://chihuahua.gob.mx/sites/default/atach2/noticias/_mg_9252.jpg",
+  "img_crop": [
+   70,
+   130,
+   1080,
+   680
+  ]
  },
  {
   "code": "CMX",
@@ -130,7 +137,14 @@
   "name": "Nuevo León",
   "country": "MX",
   "img": null,
-  "note": "Nuevo León's current plate, rolled out in 2023, carries the state's 'Nuevo León' wordmark plus the state and national coats of arms."
+  "note": "Nuevo León's current plate, rolled out in 2023, carries the state's 'Nuevo León' wordmark plus the state and national coats of arms.",
+  "img_url": "https://www.nl.gob.mx/sites/default/files/repositorio/Dependencias/Instituto%20de%20Control%20Vehicular/Noticias/2023_extienden_plazo_canje_placas.jpeg",
+  "img_crop": [
+   760,
+   215,
+   1260,
+   525
+  ]
  },
  {
   "code": "OAX",

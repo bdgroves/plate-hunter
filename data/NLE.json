@@ -10,7 +10,14 @@
    "img": null,
    "year": "2023",
    "fact": "Nuevo León's current plate, rolled out in 2023, carries the state's 'Nuevo León' wordmark plus the state and national coats of arms.",
-   "source": "https://www.nl.gob.mx/es/boletines/presenta-nl-nuevo-tramite-digital-placas-para-personas-con-discapacidad"
+   "source": "https://www.nl.gob.mx/es/boletines/presenta-nl-nuevo-tramite-digital-placas-para-personas-con-discapacidad",
+   "img_url": "https://www.nl.gob.mx/sites/default/files/repositorio/Dependencias/Instituto%20de%20Control%20Vehicular/Noticias/2023_extienden_plazo_canje_placas.jpeg",
+   "img_crop": [
+    760,
+    215,
+    1260,
+    525
+   ]
   },
   {
    "id": "fifa-world-cup-2026-commemorative",
