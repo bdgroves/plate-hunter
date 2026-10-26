@@ -1,0 +1,33 @@
+name: Picture staging (temporary)
+# Downloads candidate originals listed in staging/urls.json so Claude can look at them and crop by hand.
+on:
+  push:
+    branches: [pic-staging]
+    paths: ["staging/urls.json"]
+permissions:
+  contents: write
+jobs:
+  grab:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          python3 - <<'PY'
+          import json, urllib.request, pathlib, mimetypes
+          out = pathlib.Path("staging/orig"); out.mkdir(parents=True, exist_ok=True)
+          res = {}
+          for key, url in json.load(open("staging/urls.json")).items():
+              try:
+                  req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130 Safari/537.36"})
+                  with urllib.request.urlopen(req, timeout=40) as r:
+                      raw = r.read(15_000_000); ct = r.headers.get("Content-Type", "")
+                  ext = (mimetypes.guess_extension(ct.split(";")[0].strip()) or ".bin").replace(".jpe", ".jpg")
+                  (out / f"{key}{ext}").write_bytes(raw); res[key] = f"ok {ct} {len(raw)}"
+              except Exception as e:
+                  res[key] = f"FAIL {e}"
+          json.dump(res, open("staging/result.json", "w"), indent=1)
+          PY
+      - run: |
+          git config user.name "plate-hunter-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add staging && git commit -qm "staging: originals" && git push
