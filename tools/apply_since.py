@@ -87,6 +87,10 @@ def apply(path: Path) -> str:
 
     for d in r.get("redesigned", []):
         hit = find(d.get("name_in_game", ""))
+        if hit and d.get("renamed_to") and hit["name"] != d["renamed_to"]:
+            # same plate, new name: the id stays, so finds survive
+            hit.setdefault("fact", f"Formerly {hit['name']}.")
+            hit["name"] = d["renamed_to"]
         if hit and d.get("source_img") and hit.get("img_url") != d["source_img"]:
             hit["img_url"], hit["redesigned"] = d["source_img"], TODAY
             redesigned += 1
@@ -104,11 +108,15 @@ def apply(path: Path) -> str:
             hit["retired"] = True
             retired += 1
 
-    # a follow-up pass on a partly checked state only counts as a full check when it says so
-    doc["checked"] = bool(r.get("complete", True)) or bool(doc.get("checked"))
-    doc["checked_on"] = TODAY
-    doc["about"] = re.sub(r" From the 2023 snapshot, not yet checked against the state's current list\.", "",
-                          doc.get("about", "")) + f" Checked for plates added since 2023 on {TODAY}."
+    # a follow-up pass on a partly checked state only counts as a full check when it says so;
+    # a file that only brings pictures doesn't change what the state was checked against
+    if set(r) - {"state", "complete", "pictures", "notes", "sources"}:
+        doc["checked"] = bool(r.get("complete", True)) or bool(doc.get("checked"))
+        doc["checked_on"] = TODAY
+        about = re.sub(r" From the 2023 snapshot, not yet checked against the state's current list\.", "",
+                       doc.get("about", ""))
+        about = re.sub(r" Checked for plates added since 2023 on [\d-]+\.", "", about)
+        doc["about"] = about + f" Checked for plates added since 2023 on {TODAY}."
     f.write_text(json.dumps(doc, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
 
     if r.get("robot_url"):
