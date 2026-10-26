@@ -1,82 +1,67 @@
 {
  "code": "RI-2",
  "url": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-types",
+ "checked": "2026-10-26",
  "pictures": {
   "/sites/g/files/xkgbur556/files/styles/large/public/2021-09/donate_life_ri.jpg": {
    "src": "https://dmv.ri.gov/sites/g/files/xkgbur556/files/styles/large/public/2021-09/donate_life_ri.jpg?itok=sIfnsnTD",
-   "alt": "Donate Life logo",
-   "verdict": "pending:RI-donate-life-logo-x"
+   "alt": "Donate Life logo"
   },
   "/sites/g/files/xkgbur556/files/styles/large/public/2021-10/questions-and-feedback-image.jpg": {
    "src": "https://dmv.ri.gov/sites/g/files/xkgbur556/files/styles/large/public/2021-10/questions-and-feedback-image.jpg?itok=luj2f9_C",
-   "alt": "questions and feedback",
-   "verdict": "not-a-plate"
+   "alt": "questions and feedback"
   },
-  "/sites/g/files/xkgbur556/files/styles/max_325x325/public/2022-03/RI_D3825YT%20RI%20Antique%20Vehicle.png": {
+  "/sites/g/files/xkgbur556/files/styles/max_325x325/public/2022-03/ri_d3825yt%20ri%20antique%20vehicle.png": {
    "src": "https://dmv.ri.gov/sites/g/files/xkgbur556/files/styles/max_325x325/public/2022-03/RI_D3825YT%20RI%20Antique%20Vehicle.png?itok=vNm7aqxI",
-   "alt": "antique",
-   "verdict": "new:antique-2"
+   "alt": "antique"
   },
-  "/sites/g/files/xkgbur556/files/styles/max_325x325/public/2022-10/Ocean%20Camper.jpg": {
+  "/sites/g/files/xkgbur556/files/styles/max_325x325/public/2022-10/ocean%20camper.jpg": {
    "src": "https://dmv.ri.gov/sites/g/files/xkgbur556/files/styles/max_325x325/public/2022-10/Ocean%20Camper.jpg?itok=Jg2ftObR",
-   "alt": "Ocean Camper",
-   "verdict": "new:ocean-camper"
+   "alt": "Ocean Camper"
   },
-  "/sites/g/files/xkgbur556/files/styles/max_325x325/public/2022-10/Ocean%20Combination.jpg": {
+  "/sites/g/files/xkgbur556/files/styles/max_325x325/public/2022-10/ocean%20combination.jpg": {
    "src": "https://dmv.ri.gov/sites/g/files/xkgbur556/files/styles/max_325x325/public/2022-10/Ocean%20Combination.jpg?itok=TxOAAFvB",
-   "alt": "Ocean Combination",
-   "verdict": "new:ocean-combination"
+   "alt": "Ocean Combination"
   },
-  "/sites/g/files/xkgbur556/files/styles/max_325x325/public/2022-10/Ocean%20Commercial.jpg": {
+  "/sites/g/files/xkgbur556/files/styles/max_325x325/public/2022-10/ocean%20commercial.jpg": {
    "src": "https://dmv.ri.gov/sites/g/files/xkgbur556/files/styles/max_325x325/public/2022-10/Ocean%20Commercial.jpg?itok=u9dK3xpY",
-   "alt": "Ocean Commercial",
-   "verdict": "not-for-cars"
+   "alt": "Ocean Commercial"
   },
-  "/sites/g/files/xkgbur556/files/styles/max_325x325/public/2022-10/Ocean%20Farm.jpg": {
+  "/sites/g/files/xkgbur556/files/styles/max_325x325/public/2022-10/ocean%20farm.jpg": {
    "src": "https://dmv.ri.gov/sites/g/files/xkgbur556/files/styles/max_325x325/public/2022-10/Ocean%20Farm.jpg?itok=53Ep2UkJ",
-   "alt": "Ocean Farm",
-   "verdict": "new:ocean-farm"
+   "alt": "Ocean Farm"
   },
-  "/sites/g/files/xkgbur556/files/styles/max_325x325/public/2022-10/Ocean%20Motorcycle.jpg": {
+  "/sites/g/files/xkgbur556/files/styles/max_325x325/public/2022-10/ocean%20motorcycle.jpg": {
    "src": "https://dmv.ri.gov/sites/g/files/xkgbur556/files/styles/max_325x325/public/2022-10/Ocean%20Motorcycle.jpg?itok=Frbyorrx",
-   "alt": "Ocean Motorcycle",
-   "verdict": "not-for-cars"
+   "alt": "Ocean Motorcycle"
   },
-  "/sites/g/files/xkgbur556/files/styles/max_325x325/public/2022-10/Ocean%20Passenger.jpg": {
+  "/sites/g/files/xkgbur556/files/styles/max_325x325/public/2022-10/ocean%20passenger.jpg": {
    "src": "https://dmv.ri.gov/sites/g/files/xkgbur556/files/styles/max_325x325/public/2022-10/Ocean%20Passenger.jpg?itok=gp-wK20E",
-   "alt": "Ocean Passenger",
-   "verdict": "new:ocean-passenger"
+   "alt": "Ocean Passenger"
   },
-  "/sites/g/files/xkgbur556/files/styles/max_325x325/public/2022-10/Ocean%20Public%20Service.jpg": {
+  "/sites/g/files/xkgbur556/files/styles/max_325x325/public/2022-10/ocean%20public%20service.jpg": {
    "src": "https://dmv.ri.gov/sites/g/files/xkgbur556/files/styles/max_325x325/public/2022-10/Ocean%20Public%20Service.jpg?itok=TQLbeD-r",
-   "alt": "Ocean Public Service",
-   "verdict": "new:ocean-public-service"
+   "alt": "Ocean Public Service"
   },
-  "/sites/g/files/xkgbur556/files/styles/max_325x325/public/2022-10/Ocean%20Radio%20Operator.jpg": {
+  "/sites/g/files/xkgbur556/files/styles/max_325x325/public/2022-10/ocean%20radio%20operator.jpg": {
    "src": "https://dmv.ri.gov/sites/g/files/xkgbur556/files/styles/max_325x325/public/2022-10/Ocean%20Radio%20Operator.jpg?itok=k8A1jQ0o",
-   "alt": "Ocean Radio Operator",
-   "verdict": "new:ocean-radio-operator"
+   "alt": "Ocean Radio Operator"
   },
-  "/sites/g/files/xkgbur556/files/styles/max_325x325/public/2022-10/Ocean%20Suburban.jpg": {
+  "/sites/g/files/xkgbur556/files/styles/max_325x325/public/2022-10/ocean%20suburban.jpg": {
    "src": "https://dmv.ri.gov/sites/g/files/xkgbur556/files/styles/max_325x325/public/2022-10/Ocean%20Suburban.jpg?itok=kjAkCKXx",
-   "alt": "Ocean Suburban",
-   "verdict": "new:ocean-suburban"
+   "alt": "Ocean Suburban"
   },
-  "/sites/g/files/xkgbur556/files/styles/max_325x325/public/2022-10/Ocean%20Trailer.jpg": {
+  "/sites/g/files/xkgbur556/files/styles/max_325x325/public/2022-10/ocean%20trailer.jpg": {
    "src": "https://dmv.ri.gov/sites/g/files/xkgbur556/files/styles/max_325x325/public/2022-10/Ocean%20Trailer.jpg?itok=n-H2w1tG",
-   "alt": "Ocean Trailer",
-   "verdict": "not-for-cars"
+   "alt": "Ocean Trailer"
   },
-  "/sites/g/files/xkgbur556/files/styles/max_325x325/public/2023-05/RI%20Custom%20Vehicle%20V2%202-25-22%20PRINT%20DLP_HiRes.jpg": {
+  "/sites/g/files/xkgbur556/files/styles/max_325x325/public/2023-05/ri%20custom%20vehicle%20v2%202-25-22%20print%20dlp_hires.jpg": {
    "src": "https://dmv.ri.gov/sites/g/files/xkgbur556/files/styles/max_325x325/public/2023-05/RI%20Custom%20Vehicle%20V2%202-25-22%20PRINT%20DLP_HiRes.jpg?itok=oVKHrucW",
-   "alt": "custom vehicle",
-   "verdict": "new:custom-vehicle"
+   "alt": "custom vehicle"
   },
-  "/sites/g/files/xkgbur556/files/styles/max_325x325/public/2023-05/RI%20Street%20Rod_9-26-22_BD-DLP_HiRes.jpg": {
+  "/sites/g/files/xkgbur556/files/styles/max_325x325/public/2023-05/ri%20street%20rod_9-26-22_bd-dlp_hires.jpg": {
    "src": "https://dmv.ri.gov/sites/g/files/xkgbur556/files/styles/max_325x325/public/2023-05/RI%20Street%20Rod_9-26-22_BD-DLP_HiRes.jpg?itok=crsVdJVa",
-   "alt": "Street Rod",
-   "verdict": "new:street-rod-2"
+   "alt": "Street Rod"
   }
- },
- "checked": "2026-10-26"
+ }
 }

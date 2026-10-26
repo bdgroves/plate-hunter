@@ -1,782 +1,627 @@
 {
  "code": "DE",
  "url": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all",
+ "checked": "2026-10-26",
  "pictures": {
-  "/CLF4/agency/img/chatbotTopImage.png": {
+  "/clf4/agency/img/chatbottopimage.png": {
    "src": "https://www.dmv.de.gov/CLF4/agency/img/chatbotTopImage.png",
-   "alt": "Chat Bot image",
-   "verdict": "not-a-plate"
+   "alt": "Chat Bot image"
   },
-  "/CLF4/state/img/delaware_global_d.png": {
+  "/clf4/state/img/delaware_global_d.png": {
    "src": "https://www.dmv.de.gov/CLF4/state/img/delaware_global_d.png",
-   "alt": "The Delaware.gov logo",
-   "verdict": "not-a-plate"
+   "alt": "The Delaware.gov logo"
   },
-  "/CLF4/state/img/delaware_global_d_blue.png": {
+  "/clf4/state/img/delaware_global_d_blue.png": {
    "src": "https://www.dmv.de.gov/CLF4/state/img/delaware_global_d_blue.png",
-   "alt": "Delaware 'D' logo",
-   "verdict": "not-a-plate"
+   "alt": "Delaware 'D' logo"
   },
-  "/CLF4/state/img/delaware_global_text.png": {
+  "/clf4/state/img/delaware_global_text.png": {
    "src": "https://www.dmv.de.gov/CLF4/state/img/delaware_global_text.png",
-   "alt": "Delaware.gov - The Offical Website of the First State",
-   "verdict": "not-a-plate"
+   "alt": "Delaware.gov - The Offical Website of the First State"
   },
-  "/CLF4/state/img/delaware_global_text_blue.png": {
+  "/clf4/state/img/delaware_global_text_blue.png": {
    "src": "https://www.dmv.de.gov/CLF4/state/img/delaware_global_text_blue.png",
-   "alt": "Delaware.gov logo",
-   "verdict": "not-a-plate"
+   "alt": "Delaware.gov logo"
   },
-  "/VehicleServices/tags/images/tags/AutismAcceptance&Inclusion.png": {
-   "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/AutismAcceptance&Inclusion.png",
-   "alt": "Autism Acceptance and Inclusion",
-   "verdict": "pending:DE-autism-acceptance-and-inclusion"
-  },
-  "/VehicleServices/tags/images/tags/BronzeStar.jpg": {
-   "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/BronzeStar.jpg",
-   "alt": "Bronze Star without Valor tag",
-   "verdict": "plate:bronze-star-w-o-valor"
-  },
-  "/VehicleServices/tags/images/tags/CCC.jpg": {
-   "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/CCC.jpg",
-   "alt": "Conquer Childhood Cancer tag",
-   "verdict": "plate:conquer-childhood-cancer"
-  },
-  "/VehicleServices/tags/images/tags/CIB.png": {
-   "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/CIB.png",
-   "alt": "CIB Organizational Plate",
-   "verdict": "pending:DE-cib-organizational"
-  },
-  "/VehicleServices/tags/images/tags/COAD.jpg": {
-   "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/COAD.jpg",
-   "alt": "Correctional Officers Association of Delaware tag",
-   "verdict": "plate:correctional-officers-association-of-del"
-  },
-  "/VehicleServices/tags/images/tags/CapeHenlopenHighSchoolSmall.jpg": {
-   "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/CapeHenlopenHighSchoolSmall.jpg",
-   "alt": "Cape Henlopen High School tag",
-   "verdict": "plate:cape-henlopen-high-school"
-  },
-  "/VehicleServices/tags/images/tags/ConradHSAlumni.jpg": {
-   "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/ConradHSAlumni.jpg",
-   "alt": "Conrad HS Alumni tag",
-   "verdict": "plate:conrad-hs-alumni"
-  },
-  "/VehicleServices/tags/images/tags/DE_east_carolina.jpg": {
-   "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/DE_east_carolina.jpg",
-   "alt": "Delaware East Carolina University tag",
-   "verdict": "plate:delaware-east-carolina-university"
-  },
-  "/VehicleServices/tags/images/tags/DE_william_henry_high_school_alumni.jpg": {
-   "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/DE_william_henry_high_school_alumni.jpg",
-   "alt": "Delaware William Henry School Alumni tag",
-   "verdict": "plate:delaware-william-henry-high-school-alumn"
-  },
-  "/VehicleServices/tags/images/tags/Delaware&America250th.png": {
-   "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/Delaware&America250th.png",
-   "alt": "Delaware & America's 250th Anniversary",
-   "verdict": "pending:DE-delaware-america-s-250th-anniversary"
-  },
-  "/VehicleServices/tags/images/tags/DelawareEquineCouncilLicensePlate.png": {
-   "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/DelawareEquineCouncilLicensePlate.png",
-   "alt": "Lighthouse tag",
-   "verdict": "pending:DE-lighthouse-tag"
-  },
-  "/VehicleServices/tags/images/tags/Delmar.png": {
-   "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/Delmar.png",
-   "alt": "Delmar tag",
-   "verdict": "plate:delmar"
-  },
-  "/VehicleServices/tags/images/tags/DoverHS.jpg": {
-   "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/DoverHS.jpg",
-   "alt": "Dover High School tag",
-   "verdict": "plate:dover-high-school"
-  },
-  "/VehicleServices/tags/images/tags/IAFF.jpg": {
-   "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/IAFF.jpg",
-   "alt": "Professional Firefighter tag",
-   "verdict": "plate:professional-firefighter"
-  },
-  "/VehicleServices/tags/images/tags/KDB.png": {
-   "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/KDB.png",
-   "alt": "Keeping Delaware Beautiful tag",
-   "verdict": "plate:keep-delaware-beautiful"
-  },
-  "/VehicleServices/tags/images/tags/MERR.jpg": {
-   "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/MERR.jpg",
-   "alt": "MERR plate",
-   "verdict": "plate:marine-education-research-rehabilitation"
-  },
-  "/VehicleServices/tags/images/tags/MigratoryShorebirds.png": {
-   "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/MigratoryShorebirds.png",
-   "alt": "MigratoryShorebirds tag",
-   "verdict": "pending:DE-migratoryshorebirds-tag"
-  },
-  "/VehicleServices/tags/images/tags/Operation-Desert-Storm.jpg": {
-   "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/Operation-Desert-Storm.jpg",
-   "alt": "Operation Desert Storm tag",
-   "verdict": "plate:operation-desert-storm"
-  },
-  "/VehicleServices/tags/images/tags/Plastic Free Image.png": {
-   "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/Plastic Free Image.png",
-   "alt": "Plastic Free Delaware",
-   "verdict": "unreadable"
-  },
-  "/VehicleServices/tags/images/tags/Purdue.jpg": {
-   "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/Purdue.jpg",
-   "alt": "Purdue tag",
-   "verdict": "pending:DE-purdue-tag"
-  },
-  "/VehicleServices/tags/images/tags/Sample.jpg": {
-   "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/Sample.jpg",
-   "alt": "Sample tag",
-   "verdict": "pending:DE-tag"
-  },
-  "/VehicleServices/tags/images/tags/USNAcademy.png": {
-   "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/USNAcademy.png",
-   "alt": "US Naval Academy tag",
-   "verdict": "pending:DE-us-naval-academy-tag"
-  },
-  "/VehicleServices/tags/images/tags/WWII.png": {
-   "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/WWII.png",
-   "alt": "World War II tag",
-   "verdict": "plate:world-war-ii"
-  },
-  "/VehicleServices/tags/images/tags/WestPoint.jpg": {
-   "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/WestPoint.jpg",
-   "alt": "West Point tag",
-   "verdict": "not-a-plate"
-  },
-  "/VehicleServices/tags/images/tags/Whitetails.png": {
-   "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/Whitetails.png",
-   "alt": "Whitetails Unlimited tag",
-   "verdict": "pending:DE-whitetails-unlimited-tag"
-  },
-  "/VehicleServices/tags/images/tags/afsp.png": {
+  "/vehicleservices/tags/images/tags/afsp.png": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/afsp.png",
-   "alt": "American Foundation for Suicide Prevention",
-   "verdict": "pending:DE-american-foundation-for-suicide-preventi"
+   "alt": "American Foundation for Suicide Prevention"
   },
-  "/VehicleServices/tags/images/tags/aka.jpg": {
+  "/vehicleservices/tags/images/tags/aka.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/aka.jpg",
-   "alt": "AKA Tag",
-   "verdict": "pending:DE-aka-tag"
+   "alt": "AKA Tag"
   },
-  "/VehicleServices/tags/images/tags/al.jpg": {
+  "/vehicleservices/tags/images/tags/al.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/al.jpg",
-   "alt": "American Legion tag",
-   "verdict": "plate:american-legion"
+   "alt": "American Legion tag"
   },
-  "/VehicleServices/tags/images/tags/antique_car.jpg": {
+  "/vehicleservices/tags/images/tags/antique_car.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/antique_car.jpg",
-   "alt": "Antique Automobile tag",
-   "verdict": "plate:antique"
+   "alt": "Antique Automobile tag"
   },
-  "/VehicleServices/tags/images/tags/antique_mc.jpg": {
+  "/vehicleservices/tags/images/tags/antique_mc.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/antique_mc.jpg",
-   "alt": "Antique Motorcycle tag",
-   "verdict": "not-for-cars"
+   "alt": "Antique Motorcycle tag"
   },
-  "/VehicleServices/tags/images/tags/apa.jpg": {
+  "/vehicleservices/tags/images/tags/apa.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/apa.jpg",
-   "alt": "Alpha Phi Alpha tag",
-   "verdict": "plate:alpha-phi-alpha"
+   "alt": "Alpha Phi Alpha tag"
   },
-  "/VehicleServices/tags/images/tags/attack.png": {
+  "/vehicleservices/tags/images/tags/attack.png": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/attack.png",
-   "alt": "atTAcK Addiction",
-   "verdict": "pending:DE-attack-addiction"
+   "alt": "atTAcK Addiction"
   },
-  "/VehicleServices/tags/images/tags/bcawareness.jpg": {
+  "/vehicleservices/tags/images/tags/autismacceptance&inclusion.png": {
+   "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/AutismAcceptance&Inclusion.png",
+   "alt": "Autism Acceptance and Inclusion"
+  },
+  "/vehicleservices/tags/images/tags/bcawareness.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/bcawareness.jpg",
-   "alt": "Breast Cancer Awareness tag",
-   "verdict": "plate:breast-cancer-awareness"
+   "alt": "Breast Cancer Awareness tag"
   },
-  "/VehicleServices/tags/images/tags/buffalo.jpg": {
+  "/vehicleservices/tags/images/tags/bronzestar.jpg": {
+   "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/BronzeStar.jpg",
+   "alt": "Bronze Star without Valor tag"
+  },
+  "/vehicleservices/tags/images/tags/buffalo.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/buffalo.jpg",
-   "alt": "Buffalo Soldiers tag",
-   "verdict": "plate:buffalo-soldiers"
+   "alt": "Buffalo Soldiers tag"
   },
-  "/VehicleServices/tags/images/tags/ca.jpg": {
+  "/vehicleservices/tags/images/tags/ca.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/ca.jpg",
-   "alt": "Carvel Academy tag",
-   "verdict": "plate:caravel-academy"
+   "alt": "Carvel Academy tag"
   },
-  "/VehicleServices/tags/images/tags/call_tags.jpg": {
+  "/vehicleservices/tags/images/tags/call_tags.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/call_tags.jpg",
-   "alt": "Call Tag",
-   "verdict": "plate:call-sample-58a"
+   "alt": "Call Tag"
   },
-  "/VehicleServices/tags/images/tags/cancer_support.jpg": {
+  "/vehicleservices/tags/images/tags/cancer_support.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/cancer_support.jpg",
-   "alt": "Cancer Support Community",
-   "verdict": "plate:cancer-support-community"
+   "alt": "Cancer Support Community"
   },
-  "/VehicleServices/tags/images/tags/choose_life.jpg": {
+  "/vehicleservices/tags/images/tags/capehenlopenhighschoolsmall.jpg": {
+   "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/CapeHenlopenHighSchoolSmall.jpg",
+   "alt": "Cape Henlopen High School tag"
+  },
+  "/vehicleservices/tags/images/tags/ccc.jpg": {
+   "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/CCC.jpg",
+   "alt": "Conquer Childhood Cancer tag"
+  },
+  "/vehicleservices/tags/images/tags/choose_life.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/choose_life.jpg",
-   "alt": "Choose Life tag",
-   "verdict": "plate:choose-life"
+   "alt": "Choose Life tag"
   },
-  "/VehicleServices/tags/images/tags/civil.jpg": {
+  "/vehicleservices/tags/images/tags/cib.png": {
+   "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/CIB.png",
+   "alt": "CIB Organizational Plate"
+  },
+  "/vehicleservices/tags/images/tags/civil.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/civil.jpg",
-   "alt": "Deleware Civil Air Patrol",
-   "verdict": "plate:delaware-civil-air-patrol"
+   "alt": "Deleware Civil Air Patrol"
   },
-  "/VehicleServices/tags/images/tags/cp.jpg": {
+  "/vehicleservices/tags/images/tags/coad.jpg": {
+   "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/COAD.jpg",
+   "alt": "Correctional Officers Association of Delaware tag"
+  },
+  "/vehicleservices/tags/images/tags/conradhsalumni.jpg": {
+   "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/ConradHSAlumni.jpg",
+   "alt": "Conrad HS Alumni tag"
+  },
+  "/vehicleservices/tags/images/tags/cp.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/cp.jpg",
-   "alt": "New Castle County Retired Police tag",
-   "verdict": "plate:ncc-retired-police"
+   "alt": "New Castle County Retired Police tag"
   },
-  "/VehicleServices/tags/images/tags/cr.jpg": {
+  "/vehicleservices/tags/images/tags/cr.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/cr.jpg",
-   "alt": "Caesar Rodney Centennial tag",
-   "verdict": "pending:DE-caesar-rodney-centennial-tag"
+   "alt": "Caesar Rodney Centennial tag"
   },
-  "/VehicleServices/tags/images/tags/cu.jpg": {
+  "/vehicleservices/tags/images/tags/cu.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/cu.jpg",
-   "alt": "Credit Union tag",
-   "verdict": "plate:credit-union"
+   "alt": "Credit Union tag"
   },
-  "/VehicleServices/tags/images/tags/custom.jpg": {
+  "/vehicleservices/tags/images/tags/custom.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/custom.jpg",
-   "alt": "Southern Delaware Street Rod tag",
-   "verdict": "plate:so-delaware-street-rod-association"
+   "alt": "Southern Delaware Street Rod tag"
   },
-  "/VehicleServices/tags/images/tags/dar.jpg": {
+  "/vehicleservices/tags/images/tags/dar.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/dar.jpg",
-   "alt": "Delaware Association of Realtors tag",
-   "verdict": "plate:delaware-association-of-realtors"
+   "alt": "Delaware Association of Realtors tag"
   },
-  "/VehicleServices/tags/images/tags/dav.jpg": {
+  "/vehicleservices/tags/images/tags/dav.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/dav.jpg",
-   "alt": "Disabled American Veterans tag",
-   "verdict": "pending:DE-disabled-american-veterans-tag"
+   "alt": "Disabled American Veterans tag"
   },
-  "/VehicleServices/tags/images/tags/dav_parking.png": {
+  "/vehicleservices/tags/images/tags/dav_parking.png": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/dav_parking.png",
-   "alt": "Disabled American Veterans with Special Parking tag",
-   "verdict": "pending:DE-disabled-american-veterans-with-parking-"
+   "alt": "Disabled American Veterans with Special Parking tag"
   },
-  "/VehicleServices/tags/images/tags/de_organ_donor.jpg": {
+  "/vehicleservices/tags/images/tags/de_east_carolina.jpg": {
+   "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/DE_east_carolina.jpg",
+   "alt": "Delaware East Carolina University tag"
+  },
+  "/vehicleservices/tags/images/tags/de_organ_donor.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/de_organ_donor.jpg",
-   "alt": "Delaware Organ Donor tag",
-   "verdict": "plate:delaware-organ-donor"
+   "alt": "Delaware Organ Donor tag"
   },
-  "/VehicleServices/tags/images/tags/deltech.jpg": {
+  "/vehicleservices/tags/images/tags/de_william_henry_high_school_alumni.jpg": {
+   "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/DE_william_henry_high_school_alumni.jpg",
+   "alt": "Delaware William Henry School Alumni tag"
+  },
+  "/vehicleservices/tags/images/tags/delaware&america250th.png": {
+   "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/Delaware&America250th.png",
+   "alt": "Delaware & America's 250th Anniversary"
+  },
+  "/vehicleservices/tags/images/tags/delawareequinecouncillicenseplate.png": {
+   "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/DelawareEquineCouncilLicensePlate.png",
+   "alt": "Lighthouse tag"
+  },
+  "/vehicleservices/tags/images/tags/delmar.png": {
+   "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/Delmar.png",
+   "alt": "Delmar tag"
+  },
+  "/vehicleservices/tags/images/tags/deltech.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/deltech.jpg",
-   "alt": "Delaware Technical University tag",
-   "verdict": "plate:delaware-technical-university"
+   "alt": "Delaware Technical University tag"
   },
-  "/VehicleServices/tags/images/tags/dms.jpg": {
+  "/vehicleservices/tags/images/tags/dms.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/dms.jpg",
-   "alt": "Delaware Mobile Surf Fisherman tag",
-   "verdict": "plate:delaware-mobile-surf-fisherman"
+   "alt": "Delaware Mobile Surf Fisherman tag"
   },
-  "/VehicleServices/tags/images/tags/dsea.jpg": {
+  "/vehicleservices/tags/images/tags/doverhs.jpg": {
+   "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/DoverHS.jpg",
+   "alt": "Dover High School tag"
+  },
+  "/vehicleservices/tags/images/tags/dsea.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/dsea.jpg",
-   "alt": "Delaware State Education Association tag",
-   "verdict": "pending:DE-delaware-state-education-association-tag"
+   "alt": "Delaware State Education Association tag"
   },
-  "/VehicleServices/tags/images/tags/dsf.png": {
+  "/vehicleservices/tags/images/tags/dsf.png": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/dsf.png",
-   "alt": "Delaware State Fair tag",
-   "verdict": "plate:delaware-state-fair"
+   "alt": "Delaware State Fair tag"
   },
-  "/VehicleServices/tags/images/tags/dso.jpg": {
+  "/vehicleservices/tags/images/tags/dso.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/dso.jpg",
-   "alt": "Delaware Senior Olympics tag",
-   "verdict": "plate:delaware-senior-olympics"
+   "alt": "Delaware Senior Olympics tag"
   },
-  "/VehicleServices/tags/images/tags/dst.jpg": {
+  "/vehicleservices/tags/images/tags/dst.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/dst.jpg",
-   "alt": "Delta Sigma Theta tag",
-   "verdict": "plate:delta-sigma-theta"
+   "alt": "Delta Sigma Theta tag"
   },
-  "/VehicleServices/tags/images/tags/dsu.jpg": {
+  "/vehicleservices/tags/images/tags/dsu.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/dsu.jpg",
-   "alt": "Delaware State University tag",
-   "verdict": "pending:DE-delaware-state-university-tag"
+   "alt": "Delaware State University tag"
   },
-  "/VehicleServices/tags/images/tags/du.jpg": {
+  "/vehicleservices/tags/images/tags/du.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/du.jpg",
-   "alt": "Ducks Unlimited tag",
-   "verdict": "plate:ducks-unlimited"
+   "alt": "Ducks Unlimited tag"
   },
-  "/VehicleServices/tags/images/tags/dv.jpg": {
+  "/vehicleservices/tags/images/tags/dv.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/dv.jpg",
-   "alt": "Delaware Veterans tag",
-   "verdict": "plate:delaware-veterans"
+   "alt": "Delaware Veterans tag"
   },
-  "/VehicleServices/tags/images/tags/dw.jpg": {
+  "/vehicleservices/tags/images/tags/dw.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/dw.jpg",
-   "alt": "Delta Waterfowl tag",
-   "verdict": "plate:delta-waterfowl"
+   "alt": "Delta Waterfowl tag"
   },
-  "/VehicleServices/tags/images/tags/east_star.jpg": {
+  "/vehicleservices/tags/images/tags/east_star.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/east_star.jpg",
-   "alt": "Order of the Eastern Star tag",
-   "verdict": "plate:order-of-eastern-star"
+   "alt": "Order of the Eastern Star tag"
   },
-  "/VehicleServices/tags/images/tags/eastern_star.jpg": {
+  "/vehicleservices/tags/images/tags/eastern_star.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/eastern_star.jpg",
-   "alt": "Eastern Star tag",
-   "verdict": "plate:eastern-star-pha"
+   "alt": "Eastern Star tag"
   },
-  "/VehicleServices/tags/images/tags/ecu.jpg": {
+  "/vehicleservices/tags/images/tags/ecu.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/ecu.jpg",
-   "alt": "East Carolina University tag",
-   "verdict": "plate:delaware-east-carolina-university"
+   "alt": "East Carolina University tag"
   },
-  "/VehicleServices/tags/images/tags/elk.jpg": {
+  "/vehicleservices/tags/images/tags/elk.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/elk.jpg",
-   "alt": "Elks Lodge tag",
-   "verdict": "plate:elks-lodge"
+   "alt": "Elks Lodge tag"
   },
-  "/VehicleServices/tags/images/tags/ex_mia.jpg": {
+  "/vehicleservices/tags/images/tags/ex_mia.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/ex_mia.jpg",
-   "alt": "Ex Missing in Action tag",
-   "verdict": "plate:missing-in-action"
+   "alt": "Ex Missing in Action tag"
   },
-  "/VehicleServices/tags/images/tags/ex_pow.jpg": {
+  "/vehicleservices/tags/images/tags/ex_pow.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/ex_pow.jpg",
-   "alt": "Ex-POW tag",
-   "verdict": "plate:prisoner-of-war"
+   "alt": "Ex-POW tag"
   },
-  "/VehicleServices/tags/images/tags/farm_pres.jpg": {
+  "/vehicleservices/tags/images/tags/farm_pres.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/farm_pres.jpg",
-   "alt": "New Farm Preservation tag",
-   "verdict": "plate:farm-preservation"
+   "alt": "New Farm Preservation tag"
   },
-  "/VehicleServices/tags/images/tags/fb.jpg": {
+  "/vehicleservices/tags/images/tags/fb.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/fb.jpg",
-   "alt": "Farm Bureau tag",
-   "verdict": "skipped-2023"
+   "alt": "Farm Bureau tag"
   },
-  "/VehicleServices/tags/images/tags/fhs.jpg": {
+  "/vehicleservices/tags/images/tags/fhs.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/fhs.jpg",
-   "alt": "Felton High School tag",
-   "verdict": "plate:felton-high-school"
+   "alt": "Felton High School tag"
   },
-  "/VehicleServices/tags/images/tags/flyers.png": {
+  "/vehicleservices/tags/images/tags/flyers.png": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/flyers.png",
-   "alt": "Flyers charities tag",
-   "verdict": "plate:flyers-charities"
+   "alt": "Flyers charities tag"
   },
-  "/VehicleServices/tags/images/tags/fop.jpg": {
+  "/vehicleservices/tags/images/tags/fop.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/fop.jpg",
-   "alt": "Fraternal Order of Police",
-   "verdict": "plate:fraternal-order-of-police"
+   "alt": "Fraternal Order of Police"
   },
-  "/VehicleServices/tags/images/tags/g.jpg": {
+  "/vehicleservices/tags/images/tags/g.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/g.jpg",
-   "alt": "Groove Phi Groove Social Fellowship tag",
-   "verdict": "pending:DE-groove-phi-groove-social-fellowship-tag"
+   "alt": "Groove Phi Groove Social Fellowship tag"
   },
-  "/VehicleServices/tags/images/tags/gbc.jpg": {
+  "/vehicleservices/tags/images/tags/gbc.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/gbc.jpg",
-   "alt": "Goldy Beacom College tag",
-   "verdict": "plate:goldey-beacom-college"
+   "alt": "Goldy Beacom College tag"
   },
-  "/VehicleServices/tags/images/tags/gold_star_family.jpg": {
+  "/vehicleservices/tags/images/tags/gold_star_family.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/gold_star_family.jpg",
-   "alt": "Gold Star Family tag",
-   "verdict": "plate:gold-star-family"
+   "alt": "Gold Star Family tag"
   },
-  "/VehicleServices/tags/images/tags/hdv.png": {
+  "/vehicleservices/tags/images/tags/hdv.png": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/hdv.png",
-   "alt": "Honorably Discharged Military Veteran tag",
-   "verdict": "plate:honorably-discharged-military-veteran"
+   "alt": "Honorably Discharged Military Veteran tag"
   },
-  "/VehicleServices/tags/images/tags/hhs.jpg": {
+  "/vehicleservices/tags/images/tags/hhs.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/hhs.jpg",
-   "alt": "Harrington High School tag",
-   "verdict": "plate:harrington-high-school"
+   "alt": "Harrington High School tag"
   },
-  "/VehicleServices/tags/images/tags/honor_vets.png": {
+  "/vehicleservices/tags/images/tags/honor_vets.png": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/honor_vets.png?102814",
-   "alt": "Honoring Veterans tag",
-   "verdict": "plate:honoring-veterans"
+   "alt": "Honoring Veterans tag"
   },
-  "/VehicleServices/tags/images/tags/horseshoe.png": {
+  "/vehicleservices/tags/images/tags/horseshoe.png": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/horseshoe.png",
-   "alt": "Wildlife tag",
-   "verdict": "plate:horseshoe-crab"
+   "alt": "Wildlife tag"
   },
-  "/VehicleServices/tags/images/tags/images/ducks.png": {
+  "/vehicleservices/tags/images/tags/iaff.jpg": {
+   "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/IAFF.jpg",
+   "alt": "Professional Firefighter tag"
+  },
+  "/vehicleservices/tags/images/tags/images/ducks.png": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/images/ducks.png",
-   "alt": "Delaware Greenwing Ducks Unlimited Plate",
-   "verdict": "pending:DE-delaware-greenwing-ducks-unlimited"
+   "alt": "Delaware Greenwing Ducks Unlimited Plate"
   },
-  "/VehicleServices/tags/images/tags/ir_alum.jpg": {
+  "/vehicleservices/tags/images/tags/ir_alum.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/ir_alum.jpg",
-   "alt": "Indian River HS Alumni tag",
-   "verdict": "plate:indian-river-hs-alumni"
+   "alt": "Indian River HS Alumni tag"
   },
-  "/VehicleServices/tags/images/tags/jhu.jpg": {
+  "/vehicleservices/tags/images/tags/jhu.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/jhu.jpg",
-   "alt": "Johns Hopkins University tag",
-   "verdict": "plate:johns-hopkins-university"
+   "alt": "Johns Hopkins University tag"
   },
-  "/VehicleServices/tags/images/tags/k.jpg": {
+  "/vehicleservices/tags/images/tags/k.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/k.jpg",
-   "alt": "Kappa Alpha Psi tag",
-   "verdict": "plate:kappa-alpha-psi"
+   "alt": "Kappa Alpha Psi tag"
   },
-  "/VehicleServices/tags/images/tags/kc.jpg": {
+  "/vehicleservices/tags/images/tags/kc.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/kc.jpg",
-   "alt": "Knights of Columbus tag",
-   "verdict": "pending:DE-knights-of-columbus-tag"
+   "alt": "Knights of Columbus tag"
   },
-  "/VehicleServices/tags/images/tags/kp.jpg": {
+  "/vehicleservices/tags/images/tags/kdb.png": {
+   "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/KDB.png",
+   "alt": "Keeping Delaware Beautiful tag"
+  },
+  "/vehicleservices/tags/images/tags/kp.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/kp.jpg",
-   "alt": "Kings Point Merchant Marine tag",
-   "verdict": "skipped-2023"
+   "alt": "Kings Point Merchant Marine tag"
   },
-  "/VehicleServices/tags/images/tags/kwv.jpg": {
+  "/vehicleservices/tags/images/tags/kwv.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/kwv.jpg",
-   "alt": "Korean War Veteran tag",
-   "verdict": "plate:korean-war-veteran"
+   "alt": "Korean War Veteran tag"
   },
-  "/VehicleServices/tags/images/tags/la.jpg": {
+  "/vehicleservices/tags/images/tags/la.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/la.jpg",
-   "alt": "Ladies Auxiliary tag",
-   "verdict": "plate:ladies-auxiliary"
+   "alt": "Ladies Auxiliary tag"
   },
-  "/VehicleServices/tags/images/tags/lem.jpg": {
+  "/vehicleservices/tags/images/tags/lem.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/lem.jpg",
-   "alt": "Law Enforcement Memorial tag",
-   "verdict": "pending:DE-law-enforcement-memorial-tag"
+   "alt": "Law Enforcement Memorial tag"
   },
-  "/VehicleServices/tags/images/tags/lighthouse.jpg": {
+  "/vehicleservices/tags/images/tags/lighthouse.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/lighthouse.jpg",
-   "alt": "Lighthouse tag",
-   "verdict": "plate:environmental-lighthouse"
+   "alt": "Lighthouse tag"
   },
-  "/VehicleServices/tags/images/tags/lions_club.jpg": {
+  "/vehicleservices/tags/images/tags/lions_club.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/lions_club.jpg",
-   "alt": "Lions Club tag",
-   "verdict": "plate:lions-club"
+   "alt": "Lions Club tag"
   },
-  "/VehicleServices/tags/images/tags/masonic_mason.jpg": {
+  "/vehicleservices/tags/images/tags/masonic_mason.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/masonic_mason.jpg",
-   "alt": "Masonic Mason tag",
-   "verdict": "plate:masonic-mason"
+   "alt": "Masonic Mason tag"
   },
-  "/VehicleServices/tags/images/tags/mcl.jpg": {
+  "/vehicleservices/tags/images/tags/mcl.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/mcl.jpg",
-   "alt": "Marine Corp League tag",
-   "verdict": "plate:marine-corp-league"
+   "alt": "Marine Corp League tag"
   },
-  "/VehicleServices/tags/images/tags/moose.jpg": {
+  "/vehicleservices/tags/images/tags/merr.jpg": {
+   "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/MERR.jpg",
+   "alt": "MERR plate"
+  },
+  "/vehicleservices/tags/images/tags/migratoryshorebirds.png": {
+   "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/MigratoryShorebirds.png",
+   "alt": "MigratoryShorebirds tag"
+  },
+  "/vehicleservices/tags/images/tags/moose.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/moose.jpg",
-   "alt": "Loyal Order of Moose tag",
-   "verdict": "plate:loyal-order-of-moose"
+   "alt": "Loyal Order of Moose tag"
   },
-  "/VehicleServices/tags/images/tags/nanti_indian.jpg": {
+  "/vehicleservices/tags/images/tags/nanti_indian.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/nanti_indian.jpg",
-   "alt": "Nanticoke Indian tag",
-   "verdict": "plate:nanticoke-indian-association"
+   "alt": "Nanticoke Indian tag"
   },
-  "/VehicleServices/tags/images/tags/natl_guard.jpg": {
+  "/vehicleservices/tags/images/tags/natl_guard.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/natl_guard.jpg",
-   "alt": "National Guard tag",
-   "verdict": "plate:national-guard"
+   "alt": "National Guard tag"
   },
-  "/VehicleServices/tags/images/tags/newark_high.jpg": {
+  "/vehicleservices/tags/images/tags/newark_high.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/newark_high.jpg",
-   "alt": "Newark High School tag",
-   "verdict": "plate:newark-high-school"
+   "alt": "Newark High School tag"
   },
-  "/VehicleServices/tags/images/tags/notre_dame.jpg": {
+  "/vehicleservices/tags/images/tags/notre_dame.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/notre_dame.jpg",
-   "alt": "Notre Dame tag",
-   "verdict": "plate:notre-dame"
+   "alt": "Notre Dame tag"
   },
-  "/VehicleServices/tags/images/tags/nra.jpg": {
+  "/vehicleservices/tags/images/tags/nra.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/nra.jpg",
-   "alt": "National Rifle Association tag",
-   "verdict": "plate:national-rifle-association"
+   "alt": "National Rifle Association tag"
   },
-  "/VehicleServices/tags/images/tags/nur.jpg": {
+  "/vehicleservices/tags/images/tags/nur.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/nur.jpg",
-   "alt": "Nur Temple tag",
-   "verdict": "plate:nur-shrine"
+   "alt": "Nur Temple tag"
   },
-  "/VehicleServices/tags/images/tags/oef.jpg": {
+  "/vehicleservices/tags/images/tags/oef.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/oef.jpg",
-   "alt": "Operation Enduring Freedom tag",
-   "verdict": "plate:operation-enduring-freedom"
+   "alt": "Operation Enduring Freedom tag"
   },
-  "/VehicleServices/tags/images/tags/ohio_state.jpg": {
+  "/vehicleservices/tags/images/tags/ohio_state.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/ohio_state.jpg",
-   "alt": "Ohio State University tag",
-   "verdict": "plate:ohio-state-university"
+   "alt": "Ohio State University tag"
   },
-  "/VehicleServices/tags/images/tags/oif.jpg": {
+  "/vehicleservices/tags/images/tags/oif.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/oif.jpg",
-   "alt": "Operation Iraqi Freedom tag",
-   "verdict": "plate:operation-iraqi-freedom"
+   "alt": "Operation Iraqi Freedom tag"
   },
-  "/VehicleServices/tags/images/tags/omega_psi_phi.jpg": {
+  "/vehicleservices/tags/images/tags/omega_psi_phi.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/omega_psi_phi.jpg",
-   "alt": "Omega Psi Phi tag",
-   "verdict": "plate:omega-psi-phi"
+   "alt": "Omega Psi Phi tag"
   },
-  "/VehicleServices/tags/images/tags/pbsf_inc.jpg": {
+  "/vehicleservices/tags/images/tags/operation-desert-storm.jpg": {
+   "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/Operation-Desert-Storm.jpg",
+   "alt": "Operation Desert Storm tag"
+  },
+  "/vehicleservices/tags/images/tags/pbsf_inc.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/pbsf_inc.jpg",
-   "alt": "Phi Beta Sigma Fraternity, Inc. tag",
-   "verdict": "plate:phi-beta-sigma-fraternity-inc"
+   "alt": "Phi Beta Sigma Fraternity, Inc. tag"
   },
-  "/VehicleServices/tags/images/tags/pearl_harbor.jpg": {
+  "/vehicleservices/tags/images/tags/pearl_harbor.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/pearl_harbor.jpg",
-   "alt": "Pearl Harbor Survivor tag",
-   "verdict": "plate:pearl-harbor-survivor"
+   "alt": "Pearl Harbor Survivor tag"
   },
-  "/VehicleServices/tags/images/tags/penn_state.png": {
+  "/vehicleservices/tags/images/tags/penn_state.png": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/penn_state.png",
-   "alt": "Penn State tag",
-   "verdict": "pending:DE-penn-state-tag"
+   "alt": "Penn State tag"
   },
-  "/VehicleServices/tags/images/tags/pollinator.png": {
+  "/vehicleservices/tags/images/tags/plastic free image.png": {
+   "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/Plastic Free Image.png",
+   "alt": "Plastic Free Delaware"
+  },
+  "/vehicleservices/tags/images/tags/pollinator.png": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/pollinator.png",
-   "alt": "Polinator",
-   "verdict": "pending:DE-polinator"
+   "alt": "Polinator"
   },
-  "/VehicleServices/tags/images/tags/prince_hall_affil.jpg": {
+  "/vehicleservices/tags/images/tags/prince_hall_affil.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/prince_hall_affil.jpg",
-   "alt": "Prince Hall Affiliated tag",
-   "verdict": "plate:prince-hall-affiliated"
+   "alt": "Prince Hall Affiliated tag"
   },
-  "/VehicleServices/tags/images/tags/purdue_u.jpg": {
+  "/vehicleservices/tags/images/tags/purdue.jpg": {
+   "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/Purdue.jpg",
+   "alt": "Purdue tag"
+  },
+  "/vehicleservices/tags/images/tags/purdue_u.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/purdue_u.jpg",
-   "alt": "Purdue University tag",
-   "verdict": "pending:DE-purdue-university-tag"
+   "alt": "Purdue University tag"
   },
-  "/VehicleServices/tags/images/tags/purple_heart.jpg": {
+  "/vehicleservices/tags/images/tags/purple_heart.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/purple_heart.jpg",
-   "alt": "Purple Heart tag",
-   "verdict": "plate:purple-heart"
+   "alt": "Purple Heart tag"
   },
-  "/VehicleServices/tags/images/tags/reserve_forces.jpg": {
+  "/vehicleservices/tags/images/tags/reserve_forces.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/reserve_forces.jpg",
-   "alt": "Reserve Forces tag",
-   "verdict": "plate:reserve-forces"
+   "alt": "Reserve Forces tag"
   },
-  "/VehicleServices/tags/images/tags/ret_cg.jpg": {
+  "/vehicleservices/tags/images/tags/ret_cg.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/ret_cg.jpg",
-   "alt": "Retired Coast Guard tag",
-   "verdict": "plate:coast-guard"
+   "alt": "Retired Coast Guard tag"
   },
-  "/VehicleServices/tags/images/tags/ret_navy.jpg": {
+  "/vehicleservices/tags/images/tags/ret_navy.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/ret_navy.jpg",
-   "alt": "Retired Navy tag",
-   "verdict": "plate:navy-dept-of"
+   "alt": "Retired Navy tag"
   },
-  "/VehicleServices/tags/images/tags/retired_af.jpg": {
+  "/vehicleservices/tags/images/tags/retired_af.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/retired_af.jpg",
-   "alt": "Retired Air Force tag",
-   "verdict": "plate:united-states-air-force"
+   "alt": "Retired Air Force tag"
   },
-  "/VehicleServices/tags/images/tags/retired_army.jpg": {
+  "/vehicleservices/tags/images/tags/retired_army.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/retired_army.jpg",
-   "alt": "Retired Army tag",
-   "verdict": "plate:army-dept-of"
+   "alt": "Retired Army tag"
   },
-  "/VehicleServices/tags/images/tags/retired_marine.jpg": {
+  "/vehicleservices/tags/images/tags/retired_marine.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/retired_marine.jpg",
-   "alt": "Retired Marine tag",
-   "verdict": "plate:marines"
+   "alt": "Retired Marine tag"
   },
-  "/VehicleServices/tags/images/tags/retired_new castle_pd.jpg": {
+  "/vehicleservices/tags/images/tags/retired_new castle_pd.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/retired_new castle_pd.jpg",
-   "alt": "Retired New Castle PD tag",
-   "verdict": "unreadable"
+   "alt": "Retired New Castle PD tag"
   },
-  "/VehicleServices/tags/images/tags/sallys.jpg": {
+  "/vehicleservices/tags/images/tags/sallys.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/sallys.jpg",
-   "alt": "Salesianum tag",
-   "verdict": "plate:salesianum-alumni"
+   "alt": "Salesianum tag"
   },
-  "/VehicleServices/tags/images/tags/st_joe_u.jpg": {
+  "/vehicleservices/tags/images/tags/sample.jpg": {
+   "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/Sample.jpg",
+   "alt": "Sample tag"
+  },
+  "/vehicleservices/tags/images/tags/st_joe_u.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/st_joe_u.jpg",
-   "alt": "St. Joe's University tag",
-   "verdict": "plate:saint-josephs-university"
+   "alt": "St. Joe's University tag"
   },
-  "/VehicleServices/tags/images/tags/st_police.jpg": {
+  "/vehicleservices/tags/images/tags/st_police.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/st_police.jpg",
-   "alt": "Retired State Police tag",
-   "verdict": "plate:retired-state-police"
+   "alt": "Retired State Police tag"
   },
-  "/VehicleServices/tags/images/tags/standardbred_owners_assn.jpg": {
+  "/vehicleservices/tags/images/tags/standardbred_owners_assn.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/standardbred_owners_assn.jpg",
-   "alt": "Standardbred Owners Association tag",
-   "verdict": "plate:standardbred-owners-association"
+   "alt": "Standardbred Owners Association tag"
   },
-  "/VehicleServices/tags/images/tags/state_leg.png": {
+  "/vehicleservices/tags/images/tags/state_leg.png": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/state_leg.png",
-   "alt": "Retired State legislator tag",
-   "verdict": "not-for-cars"
+   "alt": "Retired State legislator tag"
   },
-  "/VehicleServices/tags/images/tags/stop_child_abuse.png": {
+  "/vehicleservices/tags/images/tags/stop_child_abuse.png": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/stop_child_abuse.png",
-   "alt": "Valor - Silver Star tag",
-   "verdict": "pending:DE-valor-silver-star-tag"
+   "alt": "Valor - Silver Star tag"
   },
-  "/VehicleServices/tags/images/tags/submarine.jpg": {
+  "/vehicleservices/tags/images/tags/submarine.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/submarine.jpg",
-   "alt": "Submarine Service tag",
-   "verdict": "plate:submarine-service"
+   "alt": "Submarine Service tag"
   },
-  "/VehicleServices/tags/images/tags/telephone_pioneers.jpg": {
+  "/vehicleservices/tags/images/tags/telephone_pioneers.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/telephone_pioneers.jpg",
-   "alt": "Telephone Pioneers",
-   "verdict": "plate:telephone-pioneers"
+   "alt": "Telephone Pioneers"
   },
-  "/VehicleServices/tags/images/tags/temple_u.jpg": {
+  "/vehicleservices/tags/images/tags/temple_u.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/temple_u.jpg",
-   "alt": "Temple University tag",
-   "verdict": "plate:temple-university"
+   "alt": "Temple University tag"
   },
-  "/VehicleServices/tags/images/tags/u_of_mich.jpg": {
+  "/vehicleservices/tags/images/tags/u_of_mich.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/u_of_mich.jpg",
-   "alt": "University of Michigan tag",
-   "verdict": "plate:university-of-michigan"
+   "alt": "University of Michigan tag"
   },
-  "/VehicleServices/tags/images/tags/uaw.jpg": {
+  "/vehicleservices/tags/images/tags/uaw.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/uaw.jpg",
-   "alt": "United Auto Workers tag",
-   "verdict": "plate:unitedworkers"
+   "alt": "United Auto Workers tag"
   },
-  "/VehicleServices/tags/images/tags/ud.jpg": {
+  "/vehicleservices/tags/images/tags/ud.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/ud.jpg",
-   "alt": "University of Delaware tag",
-   "verdict": "plate:university-of-delaware"
+   "alt": "University of Delaware tag"
   },
-  "/VehicleServices/tags/images/tags/ud.png": {
+  "/vehicleservices/tags/images/tags/ud.png": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/ud.png",
-   "alt": "University of Delaware athletics tag",
-   "verdict": "pending:DE-university-of-delaware-athletics-tag"
+   "alt": "University of Delaware athletics tag"
   },
-  "/VehicleServices/tags/images/tags/univ_penn.jpg": {
+  "/vehicleservices/tags/images/tags/univ_penn.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/univ_penn.jpg",
-   "alt": "University of Pennsylvania tag",
-   "verdict": "plate:university-of-pennsylvania"
+   "alt": "University of Pennsylvania tag"
   },
-  "/VehicleServices/tags/images/tags/va_tech.jpg": {
+  "/vehicleservices/tags/images/tags/usnacademy.png": {
+   "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/USNAcademy.png",
+   "alt": "US Naval Academy tag"
+  },
+  "/vehicleservices/tags/images/tags/va_tech.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/va_tech.jpg",
-   "alt": "Virginia Tech tag",
-   "verdict": "pending:DE-virginia-tech-tag"
+   "alt": "Virginia Tech tag"
   },
-  "/VehicleServices/tags/images/tags/valor-air_force_commendatio.jpg": {
+  "/vehicleservices/tags/images/tags/valor-air_force_commendatio.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/valor-air_force_commendatio.jpg",
-   "alt": "Valor - Air Force Commendation tag",
-   "verdict": "plate:air-force-commendation-medal"
+   "alt": "Valor - Air Force Commendation tag"
   },
-  "/VehicleServices/tags/images/tags/valor-air_medal.jpg": {
+  "/vehicleservices/tags/images/tags/valor-air_medal.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/valor-air_medal.jpg",
-   "alt": "Valor - Air Medal tag",
-   "verdict": "plate:air-medal"
+   "alt": "Valor - Air Medal tag"
   },
-  "/VehicleServices/tags/images/tags/valor-army_commendation.jpg": {
+  "/vehicleservices/tags/images/tags/valor-army_commendation.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/valor-army_commendation.jpg",
-   "alt": "Valor - Army Commendation tag",
-   "verdict": "plate:army-commendation-medal"
+   "alt": "Valor - Army Commendation tag"
   },
-  "/VehicleServices/tags/images/tags/valor-bronze_star.jpg": {
+  "/vehicleservices/tags/images/tags/valor-bronze_star.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/valor-bronze_star.jpg",
-   "alt": "Valor - Bronze Star tag",
-   "verdict": "plate:bronze-star"
+   "alt": "Valor - Bronze Star tag"
   },
-  "/VehicleServices/tags/images/tags/valor-dist_cross.jpg": {
+  "/vehicleservices/tags/images/tags/valor-dist_cross.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/valor-dist_cross.jpg",
-   "alt": "Valor-Distinguished Cross tag",
-   "verdict": "plate:distinguished-service-cross"
+   "alt": "Valor-Distinguished Cross tag"
   },
-  "/VehicleServices/tags/images/tags/valor-dist_fly_cross.jpg": {
+  "/vehicleservices/tags/images/tags/valor-dist_fly_cross.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/valor-dist_fly_cross.jpg",
-   "alt": "Valor - Distinguished Flying Cross tag",
-   "verdict": "plate:distinguished-flying-cross"
+   "alt": "Valor - Distinguished Flying Cross tag"
   },
-  "/VehicleServices/tags/images/tags/valor-navy_commendation.jpg": {
+  "/vehicleservices/tags/images/tags/valor-navy_commendation.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/valor-navy_commendation.jpg",
-   "alt": "Valor - Navy Commendation tag",
-   "verdict": "plate:navy-commendation-medal"
+   "alt": "Valor - Navy Commendation tag"
   },
-  "/VehicleServices/tags/images/tags/valor-navy_cross.jpg": {
+  "/vehicleservices/tags/images/tags/valor-navy_cross.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/valor-navy_cross.jpg",
-   "alt": "Valor - Navy Cross tag",
-   "verdict": "plate:navy-cross"
+   "alt": "Valor - Navy Cross tag"
   },
-  "/VehicleServices/tags/images/tags/valor-silver_star.jpg": {
+  "/vehicleservices/tags/images/tags/valor-silver_star.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/valor-silver_star.jpg",
-   "alt": "Valor - Silver Star tag",
-   "verdict": "plate:silver-star"
+   "alt": "Valor - Silver Star tag"
   },
-  "/VehicleServices/tags/images/tags/vfw.jpg": {
+  "/vehicleservices/tags/images/tags/vfw.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/vfw.jpg",
-   "alt": "Veterans of Foreign Wars tag",
-   "verdict": "plate:veterans-foreign-war"
+   "alt": "Veterans of Foreign Wars tag"
   },
-  "/VehicleServices/tags/images/tags/vietnam_vet.jpg": {
+  "/vehicleservices/tags/images/tags/vietnam_vet.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/vietnam_vet.jpg",
-   "alt": "ietnam Veterans tag",
-   "verdict": "plate:vietnam-veteran"
+   "alt": "ietnam Veterans tag"
   },
-  "/VehicleServices/tags/images/tags/villanova.jpg": {
+  "/vehicleservices/tags/images/tags/villanova.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/villanova.jpg",
-   "alt": "Villanova U tag",
-   "verdict": "plate:villanova-university"
+   "alt": "Villanova U tag"
   },
-  "/VehicleServices/tags/images/tags/vol_fire.jpg": {
+  "/vehicleservices/tags/images/tags/vol_fire.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/vol_fire.jpg",
-   "alt": "Volunteer Fireman tag",
-   "verdict": "plate:volunteer-fireman"
+   "alt": "Volunteer Fireman tag"
   },
-  "/VehicleServices/tags/images/tags/wesley.jpg": {
+  "/vehicleservices/tags/images/tags/wesley.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/wesley.jpg",
-   "alt": "Wesley College tag",
-   "verdict": "plate:wesley-college"
+   "alt": "Wesley College tag"
   },
-  "/VehicleServices/tags/images/tags/west_virgina_university.jpg": {
+  "/vehicleservices/tags/images/tags/west_virgina_university.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/west_virgina_university.jpg",
-   "alt": "West Virgina University tag",
-   "verdict": "plate:west-virginia-university"
+   "alt": "West Virgina University tag"
   },
-  "/VehicleServices/tags/images/tags/williamPennHS.jpg": {
+  "/vehicleservices/tags/images/tags/westpoint.jpg": {
+   "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/WestPoint.jpg",
+   "alt": "West Point tag"
+  },
+  "/vehicleservices/tags/images/tags/whitetails.png": {
+   "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/Whitetails.png",
+   "alt": "Whitetails Unlimited tag"
+  },
+  "/vehicleservices/tags/images/tags/williampennhs.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/williamPennHS.jpg",
-   "alt": "William Penn High School",
-   "verdict": "pending:DE-william-penn-high-school"
+   "alt": "William Penn High School"
   },
-  "/VehicleServices/tags/images/tags/wilm_fire.jpg": {
+  "/vehicleservices/tags/images/tags/wilm_fire.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/wilm_fire.jpg",
-   "alt": "Wilmington Firefighers tag",
-   "verdict": "plate:wilmington-fire-department"
+   "alt": "Wilmington Firefighers tag"
   },
-  "/VehicleServices/tags/images/tags/wilm_pd.jpg": {
+  "/vehicleservices/tags/images/tags/wilm_pd.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/wilm_pd.jpg",
-   "alt": "Wilmington Police Dept tag",
-   "verdict": "plate:wilmington-police-department"
+   "alt": "Wilmington Police Dept tag"
   },
-  "/VehicleServices/tags/images/tags/wilm_u.jpg": {
+  "/vehicleservices/tags/images/tags/wilm_u.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/wilm_u.jpg",
-   "alt": "Wilmington University tag",
-   "verdict": "plate:wilmington-university"
+   "alt": "Wilmington University tag"
   },
-  "/VehicleServices/tags/images/tags/womens-veterans.jpg": {
+  "/vehicleservices/tags/images/tags/womens-veterans.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/womens-veterans.jpg",
-   "alt": "Women's Military Monument tag",
-   "verdict": "plate:women-s-military-monument"
+   "alt": "Women's Military Monument tag"
   },
-  "/VehicleServices/tags/images/tags/zeta_phi_beta_sorority.jpg": {
+  "/vehicleservices/tags/images/tags/wwii.png": {
+   "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/WWII.png",
+   "alt": "World War II tag"
+  },
+  "/vehicleservices/tags/images/tags/zeta_phi_beta_sorority.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/zeta_phi_beta_sorority.jpg",
-   "alt": "Zeta Phi Beta tag",
-   "verdict": "plate:zeta-phi-beta"
+   "alt": "Zeta Phi Beta tag"
   },
-  "/VehicleServices/tags/specialty-plates/images/DMV_SpecialtyPlates/OCT-2025/Animal Welfare.jpg": {
+  "/vehicleservices/tags/specialty-plates/images/dmv_specialtyplates/oct-2025/animal welfare.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/specialty-plates/images/DMV_SpecialtyPlates/OCT-2025/Animal Welfare.jpg",
-   "alt": "Animal Welfare tag",
-   "verdict": "unreadable"
+   "alt": "Animal Welfare tag"
   }
- },
- "checked": "2026-10-26"
+ }
 }

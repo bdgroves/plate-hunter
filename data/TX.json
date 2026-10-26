@@ -3,7 +3,7 @@
  "name": "Texas",
  "rated": false,
  "checked": false,
- "updated": "2026-10-26",
+ "updated": "2026-10-25",
  "about": "Texas special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
  "sources": [
   {
@@ -2861,42 +2861,6 @@
    "name": "Zeta Phi Beta",
    "cat": "other",
    "img": "zeta-phi-beta.webp"
-  },
-  {
-   "id": "lone-star-1837",
-   "name": "Lone Star 1836",
-   "cat": "other",
-   "img": "lone-star-1837.webp",
-   "added": "2026-10-26",
-   "auto": true,
-   "source": "https://www.myplates.com/"
-  },
-  {
-   "id": "deep-in-the-heart-flag-2",
-   "name": "Deep in the Heart Flag",
-   "cat": "hobby",
-   "img": "deep-in-the-heart-flag-2.webp",
-   "added": "2026-10-26",
-   "auto": true,
-   "source": "https://www.myplates.com/"
-  },
-  {
-   "id": "love-heart-black-2",
-   "name": "Love Heart Black",
-   "cat": "hobby",
-   "img": "love-heart-black-2.webp",
-   "added": "2026-10-26",
-   "auto": true,
-   "source": "https://www.myplates.com/"
-  },
-  {
-   "id": "mighty-fine-burgers-2",
-   "name": "Mighty Fine Burgers",
-   "cat": "other",
-   "img": "mighty-fine-burgers-2.webp",
-   "added": "2026-10-26",
-   "auto": true,
-   "source": "https://www.myplates.com/"
   }
  ]
 }

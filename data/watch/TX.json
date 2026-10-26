@@ -1,52 +1,51 @@
 {
  "code": "TX",
  "url": "https://www.myplates.com/",
+ "checked": "2026-10-26",
  "pictures": {
-  "/images/EmbossedHomePageAd.jpg": {
+  "/images/embossedhomepagead.jpg": {
    "src": "https://www.myplates.com/images/EmbossedHomePageAd.jpg",
-   "alt": "Embossed Plate",
-   "verdict": "not-a-plate"
+   "alt": "Embossed Plate"
   },
   "/images/mp49_v2.jpg": {
    "src": "https://www.myplates.com/images/mp49_v2.jpg",
-   "alt": "Save Up To 49% On Your Plate",
-   "verdict": "not-a-plate"
+   "alt": "Save Up To 49% On Your Plate"
   },
   "/images/promo2-restyle.jpg": {
    "src": "https://www.myplates.com/images/promo2-restyle.jpg",
-   "alt": "Two Texas license plates, one reading RESTYLE on the Texas flag design and one reading YOR PL8 in black",
-   "verdict": "not-a-plate"
+   "alt": "Two Texas license plates, one reading RESTYLE on the Texas flag design and one reading YOR PL8 in black"
   },
-  "/plates/auto.Deepintheheart.png": {
+  "/pixel/": {
+   "src": "https://data.adxcel-ec2.com/pixel/?ad_log=referer&action=lead&pixid=e30cb01c-9762-4fde-81fd-692367d3edff",
+   "alt": ""
+  },
+  "/plates/auto.deepintheheart.png": {
    "src": "https://cdn.myplates.com/plates/auto.Deepintheheart.png",
-   "alt": "Deep in the Heart Flag",
-   "verdict": "new:deep-in-the-heart-flag-2"
+   "alt": "Deep in the Heart Flag"
   },
-  "/plates/auto.Embossed_CarbonFiber.png": {
+  "/plates/auto.embossed_carbonfiber.png": {
    "src": "https://cdn.myplates.com/plates/auto.Embossed_CarbonFiber.png",
-   "alt": "Carbon Fiber Premium Embossed",
-   "verdict": "pending:TX-carbon-fiber-premium-embossed"
+   "alt": "Carbon Fiber Premium Embossed"
   },
-  "/plates/auto.LoneStar1836.png": {
+  "/plates/auto.lonestar1836.png": {
    "src": "https://cdn.myplates.com/plates/auto.LoneStar1836.png",
-   "alt": "Lone Star 1836",
-   "verdict": "new:lone-star-1837"
+   "alt": "Lone Star 1836"
   },
-  "/plates/auto.LoveHeartBlack.png": {
+  "/plates/auto.loveheartblack.png": {
    "src": "https://cdn.myplates.com/plates/auto.LoveHeartBlack.png",
-   "alt": "Love Heart Black",
-   "verdict": "new:love-heart-black-2"
+   "alt": "Love Heart Black"
   },
-  "/plates/auto.MightyFineBurgers.png": {
+  "/plates/auto.mightyfineburgers.png": {
    "src": "https://cdn.myplates.com/plates/auto.MightyFineBurgers.png",
-   "alt": "Mighty Fine Burgers",
-   "verdict": "new:mighty-fine-burgers-2"
+   "alt": "Mighty Fine Burgers"
   },
-  "/plates/auto.T_Silver.png": {
+  "/plates/auto.t_silver.png": {
    "src": "https://cdn.myplates.com/plates/auto.T_Silver.png",
-   "alt": "Texas Silver 1836",
-   "verdict": "pending:TX-texas-silver-1836"
+   "alt": "Texas Silver 1836"
+  },
+  "/tr": {
+   "src": "https://www.facebook.com/tr?id=2564533420254446&ev=PageView&noscript=1",
+   "alt": ""
   }
- },
- "checked": "2026-10-26"
+ }
 }

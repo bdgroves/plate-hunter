@@ -1,262 +1,211 @@
 {
  "code": "AL",
  "url": "https://www.revenue.alabama.gov/license-plates/",
+ "checked": "2026-10-26",
  "pictures": {
-  "/wp-content/uploads/2022/02/190731_CottonModule_tag_page-300x150.jpg": {
+  "/wp-content/uploads/2022/02/190731_cottonmodule_tag_page-300x150.jpg": {
    "src": "https://www.revenue.alabama.gov/wp-content/uploads/2022/02/190731_CottonModule_tag_page-300x150.jpg",
-   "alt": "",
-   "verdict": "plate:cotton-module"
+   "alt": ""
   },
-  "/wp-content/uploads/2022/02/190731_MiniTruck_tag_page-300x150.jpg": {
+  "/wp-content/uploads/2022/02/190731_minitruck_tag_page-300x150.jpg": {
    "src": "https://www.revenue.alabama.gov/wp-content/uploads/2022/02/190731_MiniTruck_tag_page-300x150.jpg",
-   "alt": "",
-   "verdict": "plate:mini-lsv"
+   "alt": ""
   },
-  "/wp-content/uploads/2022/02/190802_Firefighter_tag_page-300x151.jpg": {
+  "/wp-content/uploads/2022/02/190802_firefighter_tag_page-300x151.jpg": {
    "src": "https://www.revenue.alabama.gov/wp-content/uploads/2022/02/190802_Firefighter_tag_page-300x151.jpg",
-   "alt": "",
-   "verdict": "plate:firefighter"
+   "alt": ""
   },
-  "/wp-content/uploads/2022/02/190802_ForeverWild_tag_page-300x150.jpg": {
+  "/wp-content/uploads/2022/02/190802_foreverwild_tag_page-300x150.jpg": {
    "src": "https://www.revenue.alabama.gov/wp-content/uploads/2022/02/190802_ForeverWild_tag_page-300x150.jpg",
-   "alt": "",
-   "verdict": "plate:forever-wild"
+   "alt": ""
   },
-  "/wp-content/uploads/2022/02/200221_AmateurRadio2020_tag_page-300x150.jpg": {
+  "/wp-content/uploads/2022/02/200221_amateurradio2020_tag_page-300x150.jpg": {
    "src": "https://www.revenue.alabama.gov/wp-content/uploads/2022/02/200221_AmateurRadio2020_tag_page-300x150.jpg",
-   "alt": "",
-   "verdict": "plate:amateur-radio"
+   "alt": ""
   },
-  "/wp-content/uploads/2022/02/AL-Audubon-2022-passenger-300x146.jpg": {
+  "/wp-content/uploads/2022/02/al-audubon-2022-passenger-300x146.jpg": {
    "src": "https://www.revenue.alabama.gov/wp-content/uploads/2022/02/AL-Audubon-2022-passenger-300x146.jpg",
-   "alt": "",
-   "verdict": "pending:AL-alabama-audubon"
+   "alt": ""
   },
-  "/wp-content/uploads/2022/02/AL-Cattlemen-2022-approved-passenger-300x147.jpg": {
+  "/wp-content/uploads/2022/02/al-cattlemen-2022-approved-passenger-300x147.jpg": {
    "src": "https://www.revenue.alabama.gov/wp-content/uploads/2022/02/AL-Cattlemen-2022-approved-passenger-300x147.jpg",
-   "alt": "",
-   "verdict": "pending:AL-alabama-cattlemen"
+   "alt": ""
   },
-  "/wp-content/uploads/2022/02/AL-Ducks-Unlimited-2022-300x145.jpg": {
+  "/wp-content/uploads/2022/02/al-ducks-unlimited-2022-300x145.jpg": {
    "src": "https://www.revenue.alabama.gov/wp-content/uploads/2022/02/AL-Ducks-Unlimited-2022-300x145.jpg",
-   "alt": "",
-   "verdict": "pending:AL-ducks-unlimited"
+   "alt": ""
   },
-  "/wp-content/uploads/2022/02/AL-Nurses-Foundation-2022-300x147.jpg": {
+  "/wp-content/uploads/2022/02/al-nurses-foundation-2022-300x147.jpg": {
    "src": "https://www.revenue.alabama.gov/wp-content/uploads/2022/02/AL-Nurses-Foundation-2022-300x147.jpg",
-   "alt": "",
-   "verdict": "pending:AL-alabama-nurses-foundation"
+   "alt": ""
   },
-  "/wp-content/uploads/2022/02/Alabama-Bicentennial-2022-1-scaled-1-300x151.jpg": {
+  "/wp-content/uploads/2022/02/alabama-bicentennial-2022-1-scaled-1-300x151.jpg": {
    "src": "https://www.revenue.alabama.gov/wp-content/uploads/2022/02/Alabama-Bicentennial-2022-1-scaled-1-300x151.jpg",
-   "alt": "",
-   "verdict": "pending:AL-alabama-bicentennial"
+   "alt": ""
   },
-  "/wp-content/uploads/2022/02/AlabamaForestsForever_tag_page-300x150.jpg": {
+  "/wp-content/uploads/2022/02/alabamaforestsforever_tag_page-300x150.jpg": {
    "src": "https://www.revenue.alabama.gov/wp-content/uploads/2022/02/AlabamaForestsForever_tag_page-300x150.jpg",
-   "alt": "",
-   "verdict": "plate:alabama-forests"
+   "alt": ""
   },
-  "/wp-content/uploads/2022/02/AlabamaTreasureForest_tag_page-300x150.jpg": {
+  "/wp-content/uploads/2022/02/alabamatreasureforest_tag_page-300x150.jpg": {
    "src": "https://www.revenue.alabama.gov/wp-content/uploads/2022/02/AlabamaTreasureForest_tag_page-300x150.jpg",
-   "alt": "",
-   "verdict": "plate:alabama-treasure-forest-association"
+   "alt": ""
   },
-  "/wp-content/uploads/2022/02/Albertville-City-Schools-Foundation-image-300x151.jpg": {
+  "/wp-content/uploads/2022/02/albertville-city-schools-foundation-image-300x151.jpg": {
    "src": "https://www.revenue.alabama.gov/wp-content/uploads/2022/02/Albertville-City-Schools-Foundation-image-300x151.jpg",
-   "alt": "",
-   "verdict": "pending:AL-albertville-city-schools-foundation"
+   "alt": ""
   },
-  "/wp-content/uploads/2022/02/Apportioned-2027-scaled-1-300x152.jpg": {
+  "/wp-content/uploads/2022/02/apportioned-2027-scaled-1-300x152.jpg": {
    "src": "https://www.revenue.alabama.gov/wp-content/uploads/2022/02/Apportioned-2027-scaled-1-300x152.jpg",
-   "alt": "",
-   "verdict": "not-for-cars"
+   "alt": ""
   },
-  "/wp-content/uploads/2022/02/BUS-300x149.jpg": {
-   "src": "https://www.revenue.alabama.gov/wp-content/uploads/2022/02/BUS-300x149.jpg",
-   "alt": "",
-   "verdict": "skipped-2023"
-  },
-  "/wp-content/uploads/2022/02/Barber-Vintage-Motorsports-Museum-2022-300x148.jpg": {
+  "/wp-content/uploads/2022/02/barber-vintage-motorsports-museum-2022-300x148.jpg": {
    "src": "https://www.revenue.alabama.gov/wp-content/uploads/2022/02/Barber-Vintage-Motorsports-Museum-2022-300x148.jpg",
-   "alt": "",
-   "verdict": "pending:AL-barber-vintage-motorsports-museum"
+   "alt": ""
   },
-  "/wp-content/uploads/2022/02/Curing-Childhood-Cancer-2021-front-300x149.jpg": {
+  "/wp-content/uploads/2022/02/bus-300x149.jpg": {
+   "src": "https://www.revenue.alabama.gov/wp-content/uploads/2022/02/BUS-300x149.jpg",
+   "alt": ""
+  },
+  "/wp-content/uploads/2022/02/curing-childhood-cancer-2021-front-300x149.jpg": {
    "src": "https://www.revenue.alabama.gov/wp-content/uploads/2022/02/Curing-Childhood-Cancer-2021-front-300x149.jpg",
-   "alt": "",
-   "verdict": "plate:curing-childhood-cancer"
+   "alt": ""
   },
-  "/wp-content/uploads/2022/02/Delta-Sigma-Theta-Sorority-2022-300x147.jpg": {
+  "/wp-content/uploads/2022/02/delta-sigma-theta-sorority-2022-300x147.jpg": {
    "src": "https://www.revenue.alabama.gov/wp-content/uploads/2022/02/Delta-Sigma-Theta-Sorority-2022-300x147.jpg",
-   "alt": "",
-   "verdict": "pending:AL-delta-sigma-theta-sorority-inc"
+   "alt": ""
   },
-  "/wp-content/uploads/2022/02/Dont-Tread-on-Me-2020-1-300x153.jpg": {
+  "/wp-content/uploads/2022/02/dont-tread-on-me-2020-1-300x153.jpg": {
    "src": "https://www.revenue.alabama.gov/wp-content/uploads/2022/02/Dont-Tread-on-Me-2020-1-300x153.jpg",
-   "alt": "",
-   "verdict": "pending:AL-don-t-tread-on-me"
+   "alt": ""
   },
-  "/wp-content/uploads/2022/02/EMS.jpg": {
+  "/wp-content/uploads/2022/02/ems.jpg": {
    "src": "https://www.revenue.alabama.gov/wp-content/uploads/2022/02/EMS.jpg",
-   "alt": "",
-   "verdict": "plate:emergency-medical-services"
+   "alt": ""
   },
-  "/wp-content/uploads/2022/02/Farm-truck-300x148.jpg": {
+  "/wp-content/uploads/2022/02/farm-truck-300x148.jpg": {
    "src": "https://www.revenue.alabama.gov/wp-content/uploads/2022/02/Farm-truck-300x148.jpg",
-   "alt": "",
-   "verdict": "pending:AL-farm"
+   "alt": ""
   },
-  "/wp-content/uploads/2022/02/Forest-Product-Truck-300x151.jpg": {
+  "/wp-content/uploads/2022/02/forest-product-truck-300x151.jpg": {
    "src": "https://www.revenue.alabama.gov/wp-content/uploads/2022/02/Forest-Product-Truck-300x151.jpg",
-   "alt": "",
-   "verdict": "skipped-2023"
+   "alt": ""
   },
-  "/wp-content/uploads/2022/02/Freemason-2022-300x145.jpg": {
+  "/wp-content/uploads/2022/02/freemason-2022-300x145.jpg": {
    "src": "https://www.revenue.alabama.gov/wp-content/uploads/2022/02/Freemason-2022-300x145.jpg",
-   "alt": "",
-   "verdict": "pending:AL-freemason"
+   "alt": ""
   },
-  "/wp-content/uploads/2022/02/LicensePlate_Standard_VintageVhc-300x152.jpg": {
+  "/wp-content/uploads/2022/02/licenseplate_standard_vintagevhc-300x152.jpg": {
    "src": "https://www.revenue.alabama.gov/wp-content/uploads/2022/02/LicensePlate_Standard_VintageVhc-300x152.jpg",
-   "alt": "",
-   "verdict": "pending:AL-vintage-vehicle"
+   "alt": ""
   },
-  "/wp-content/uploads/2022/02/Motor-Home-1-scaled-1-300x149.jpg": {
+  "/wp-content/uploads/2022/02/motor-home-1-scaled-1-300x149.jpg": {
    "src": "https://www.revenue.alabama.gov/wp-content/uploads/2022/02/Motor-Home-1-scaled-1-300x149.jpg",
-   "alt": "",
-   "verdict": "skipped-2023"
+   "alt": ""
   },
-  "/wp-content/uploads/2022/02/Permanent-Trailer-2022-scaled-1-300x150.jpg": {
+  "/wp-content/uploads/2022/02/permanent-trailer-2022-scaled-1-300x150.jpg": {
    "src": "https://www.revenue.alabama.gov/wp-content/uploads/2022/02/Permanent-Trailer-2022-scaled-1-300x150.jpg",
-   "alt": "",
-   "verdict": "skipped-2023"
+   "alt": ""
   },
-  "/wp-content/uploads/2022/02/TAXI-300x151.jpg": {
+  "/wp-content/uploads/2022/02/taxi-300x151.jpg": {
    "src": "https://www.revenue.alabama.gov/wp-content/uploads/2022/02/TAXI-300x151.jpg",
-   "alt": "",
-   "verdict": "not-for-cars"
+   "alt": ""
   },
-  "/wp-content/uploads/2022/02/TRUCK-2021-300x155.jpg": {
-   "src": "https://www.revenue.alabama.gov/wp-content/uploads/2022/02/TRUCK-2021-300x155.jpg",
-   "alt": "",
-   "verdict": "not-for-cars"
-  },
-  "/wp-content/uploads/2022/02/Tow-Truck-300x149.jpg": {
+  "/wp-content/uploads/2022/02/tow-truck-300x149.jpg": {
    "src": "https://www.revenue.alabama.gov/wp-content/uploads/2022/02/Tow-Truck-300x149.jpg",
-   "alt": "",
-   "verdict": "skipped-2023"
+   "alt": ""
   },
-  "/wp-content/uploads/2022/02/Trailer-300x149.jpg": {
+  "/wp-content/uploads/2022/02/trailer-300x149.jpg": {
    "src": "https://www.revenue.alabama.gov/wp-content/uploads/2022/02/Trailer-300x149.jpg",
-   "alt": "",
-   "verdict": "not-for-cars"
+   "alt": ""
   },
-  "/wp-content/uploads/2022/02/Yard-Truck-300x147.jpg": {
+  "/wp-content/uploads/2022/02/truck-2021-300x155.jpg": {
+   "src": "https://www.revenue.alabama.gov/wp-content/uploads/2022/02/TRUCK-2021-300x155.jpg",
+   "alt": ""
+  },
+  "/wp-content/uploads/2022/02/yard-truck-300x147.jpg": {
    "src": "https://www.revenue.alabama.gov/wp-content/uploads/2022/02/Yard-Truck-300x147.jpg",
-   "alt": "",
-   "verdict": "pending:AL-yard-truck"
+   "alt": ""
   },
   "/wp-content/uploads/2022/04/2022-passenger-sample-image-300x145.jpg": {
    "src": "https://www.revenue.alabama.gov/wp-content/uploads/2022/04/2022-passenger-sample-image-300x145.jpg",
-   "alt": "",
-   "verdict": "pending:AL-standard-passenger"
+   "alt": ""
   },
-  "/wp-content/uploads/2022/04/Fleet-2022-2027-scaled-1-300x152.jpeg": {
+  "/wp-content/uploads/2022/04/fleet-2022-2027-scaled-1-300x152.jpeg": {
    "src": "https://www.revenue.alabama.gov/wp-content/uploads/2022/04/Fleet-2022-2027-scaled-1-300x152.jpeg",
-   "alt": "",
-   "verdict": "not-for-cars"
+   "alt": ""
   },
-  "/wp-content/uploads/2022/12/CONSULAR-OFFICIAL-2022-zeros-300x148-1.jpg": {
+  "/wp-content/uploads/2022/12/consular-official-2022-zeros-300x148-1.jpg": {
    "src": "https://www.revenue.alabama.gov/wp-content/uploads/2022/12/CONSULAR-OFFICIAL-2022-zeros-300x148-1.jpg",
-   "alt": "",
-   "verdict": "not-for-cars"
+   "alt": ""
   },
-  "/wp-content/uploads/2022/12/Cystic-Fibrosis-2023-1-300x145.jpg": {
+  "/wp-content/uploads/2022/12/cystic-fibrosis-2023-1-300x145.jpg": {
    "src": "https://www.revenue.alabama.gov/wp-content/uploads/2022/12/Cystic-Fibrosis-2023-1-300x145.jpg",
-   "alt": "",
-   "verdict": "pending:AL-fighting-cystic-fibrosis"
+   "alt": ""
   },
-  "/wp-content/uploads/2022/12/Educator-2023-300x147.jpg": {
+  "/wp-content/uploads/2022/12/educator-2023-300x147.jpg": {
    "src": "https://www.revenue.alabama.gov/wp-content/uploads/2022/12/Educator-2023-300x147.jpg",
-   "alt": "",
-   "verdict": "pending:AL-educator-retired-educator"
+   "alt": ""
   },
-  "/wp-content/uploads/2022/12/Fraternal-Order-of-Police-2023-300x146.jpg": {
+  "/wp-content/uploads/2022/12/fraternal-order-of-police-2023-300x146.jpg": {
    "src": "https://www.revenue.alabama.gov/wp-content/uploads/2022/12/Fraternal-Order-of-Police-2023-300x146.jpg",
-   "alt": "",
-   "verdict": "pending:AL-fraternal-order-of-police"
+   "alt": ""
   },
-  "/wp-content/uploads/2022/12/Reitred-Educator-2023-300x147.jpg": {
+  "/wp-content/uploads/2022/12/reitred-educator-2023-300x147.jpg": {
    "src": "https://www.revenue.alabama.gov/wp-content/uploads/2022/12/Reitred-Educator-2023-300x147.jpg",
-   "alt": "",
-   "verdict": "pending:AL-open"
+   "alt": ""
   },
-  "/wp-content/uploads/2023/07/2023-AKA-pass-zeros-06092023-300x152.jpg": {
+  "/wp-content/uploads/2023/07/2023-aka-pass-zeros-06092023-300x152.jpg": {
    "src": "https://www.revenue.alabama.gov/wp-content/uploads/2023/07/2023-AKA-pass-zeros-06092023-300x152.jpg",
-   "alt": "",
-   "verdict": "pending:AL-alpha-kappa-alpha-sorority"
+   "alt": ""
   },
-  "/wp-content/uploads/2023/07/Autism-Acceptance-2023-passenger-zeros-300x146.jpg": {
+  "/wp-content/uploads/2023/07/autism-acceptance-2023-passenger-zeros-300x146.jpg": {
    "src": "https://www.revenue.alabama.gov/wp-content/uploads/2023/07/Autism-Acceptance-2023-passenger-zeros-300x146.jpg",
-   "alt": "",
-   "verdict": "pending:AL-autism-acceptance"
+   "alt": ""
   },
-  "/wp-content/uploads/2023/10/Environmental-Legacy-Inc-07-25-23-approved-passenger-300x148.jpg": {
+  "/wp-content/uploads/2023/10/environmental-legacy-inc-07-25-23-approved-passenger-300x148.jpg": {
    "src": "https://www.revenue.alabama.gov/wp-content/uploads/2023/10/Environmental-Legacy-Inc-07-25-23-approved-passenger-300x148.jpg",
-   "alt": "",
-   "verdict": "pending:AL-environmental"
+   "alt": ""
   },
-  "/wp-content/uploads/2024/07/2024-Choose-Life-passenger-signed-approved-05232024-0s-300x150.jpg": {
+  "/wp-content/uploads/2024/07/2024-choose-life-passenger-signed-approved-05232024-0s-300x150.jpg": {
    "src": "https://www.revenue.alabama.gov/wp-content/uploads/2024/07/2024-Choose-Life-passenger-signed-approved-05232024-0s-300x150.jpg",
-   "alt": "",
-   "verdict": "pending:AL-choose-life-support-adoption"
+   "alt": ""
   },
-  "/wp-content/uploads/2025/02/A-Pink-Breast-Cancer-Tag-2025-passenger-300x149.jpg": {
+  "/wp-content/uploads/2025/02/a-pink-breast-cancer-tag-2025-passenger-300x149.jpg": {
    "src": "https://www.revenue.alabama.gov/wp-content/uploads/2025/02/A-Pink-Breast-Cancer-Tag-2025-passenger-300x149.jpg",
-   "alt": "",
-   "verdict": "pending:AL-a-pink-breast-cancer-tag"
+   "alt": ""
   },
-  "/wp-content/uploads/2025/07/AG-Tag-2025-approved-passenger-300x146.jpg": {
+  "/wp-content/uploads/2025/07/ag-tag-2025-approved-passenger-300x146.jpg": {
    "src": "https://www.revenue.alabama.gov/wp-content/uploads/2025/07/AG-Tag-2025-approved-passenger-300x146.jpg",
-   "alt": "",
-   "verdict": "pending:AL-ag-tag-farming-feeds"
+   "alt": ""
   },
-  "/wp-content/uploads/2025/07/Alabama-Space-Tag-Signed-Samples-2025-300x148.jpg": {
+  "/wp-content/uploads/2025/07/alabama-space-tag-signed-samples-2025-300x148.jpg": {
    "src": "https://www.revenue.alabama.gov/wp-content/uploads/2025/07/Alabama-Space-Tag-Signed-Samples-2025-300x148.jpg",
-   "alt": "",
-   "verdict": "pending:AL-alabama-space-tag"
+   "alt": ""
   },
-  "/wp-content/uploads/2025/07/Save-the-cahaba-2025-passenger-300x147.jpg": {
+  "/wp-content/uploads/2025/07/save-the-cahaba-2025-passenger-300x147.jpg": {
    "src": "https://www.revenue.alabama.gov/wp-content/uploads/2025/07/Save-the-cahaba-2025-passenger-300x147.jpg",
-   "alt": "",
-   "verdict": "pending:AL-save-the-cahaba-river"
+   "alt": ""
   },
-  "/wp-content/uploads/2025/12/Alabama-Gold-Star-Family-Signed-Samples_Page_1-300x149.jpg": {
+  "/wp-content/uploads/2025/12/alabama-gold-star-family-signed-samples_page_1-300x149.jpg": {
    "src": "https://www.revenue.alabama.gov/wp-content/uploads/2025/12/Alabama-Gold-Star-Family-Signed-Samples_Page_1-300x149.jpg",
-   "alt": "",
-   "verdict": "pending:AL-alabama-gold-star-family"
+   "alt": ""
   },
-  "/wp-content/uploads/2025/12/BCRA-2026-passenger-300x153.jpg": {
+  "/wp-content/uploads/2025/12/bcra-2026-passenger-300x153.jpg": {
    "src": "https://www.revenue.alabama.gov/wp-content/uploads/2025/12/BCRA-2026-passenger-300x153.jpg",
-   "alt": "",
-   "verdict": "pending:AL-breast-cancer-research"
+   "alt": ""
   },
-  "/wp-content/uploads/2025/12/DA-decals-01-01-2026-300x118.png": {
+  "/wp-content/uploads/2025/12/da-decals-01-01-2026-300x118.png": {
    "src": "https://www.revenue.alabama.gov/wp-content/uploads/2025/12/DA-decals-01-01-2026-300x118.png",
-   "alt": "",
-   "verdict": "pending:AL-disability-access-parking"
+   "alt": ""
   },
-  "/wp-content/uploads/2025/12/Permanent-Placards-01-01-2026-300x241.png": {
+  "/wp-content/uploads/2025/12/permanent-placards-01-01-2026-300x241.png": {
    "src": "https://www.revenue.alabama.gov/wp-content/uploads/2025/12/Permanent-Placards-01-01-2026-300x241.png",
-   "alt": "",
-   "verdict": "not-a-plate"
+   "alt": ""
   },
-  "/wp-content/uploads/2025/12/Temporary-Placards-01-01-2026-300x255.png": {
+  "/wp-content/uploads/2025/12/temporary-placards-01-01-2026-300x255.png": {
    "src": "https://www.revenue.alabama.gov/wp-content/uploads/2025/12/Temporary-Placards-01-01-2026-300x255.png",
-   "alt": "",
-   "verdict": "not-a-plate"
+   "alt": ""
   }
- },
- "checked": "2026-10-26"
+ }
 }

@@ -1,102 +1,83 @@
 {
  "code": "DC-2",
  "url": "https://dmv.dc.gov/service/specialty-vehicle-tags",
+ "checked": "2026-10-26",
  "pictures": {
-  "/sites/default/files/dc/shared_assets/BOW13_final.jpg": {
-   "src": "https://dmv.dc.gov/sites/default/files/dc/shared_assets/BOW13_final.jpg",
-   "alt": "Best of the Web logo 2013",
-   "verdict": "pending:DC-best-of-the-logo-2013-x"
-  },
-  "/sites/default/files/dc/shared_assets/BOW14_Winner.png": {
-   "src": "https://dmv.dc.gov/sites/default/files/dc/shared_assets/BOW14_Winner.png",
-   "alt": "Best of the Web logo 2014",
-   "verdict": "pending:DC-best-of-the-logo-2014-x"
-  },
   "/sites/default/files/dc/shared_assets/access-symbol-international_75x75.png": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/shared_assets/access-symbol-international_75x75.png",
-   "alt": "",
-   "verdict": "not-a-plate"
+   "alt": ""
+  },
+  "/sites/default/files/dc/shared_assets/bow13_final.jpg": {
+   "src": "https://dmv.dc.gov/sites/default/files/dc/shared_assets/BOW13_final.jpg",
+   "alt": "Best of the Web logo 2013"
+  },
+  "/sites/default/files/dc/shared_assets/bow14_winner.png": {
+   "src": "https://dmv.dc.gov/sites/default/files/dc/shared_assets/BOW14_Winner.png",
+   "alt": "Best of the Web logo 2014"
   },
   "/sites/default/files/dc/shared_assets/search2.png": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/shared_assets/search2.png",
-   "alt": "Search DC.gov",
-   "verdict": "not-a-plate"
+   "alt": "Search DC.gov"
   },
-  "/sites/default/files/dc/sites/dmv/Combat%20Wounded%20Veteran%20updated%20updated.png": {
+  "/sites/default/files/dc/sites/dmv/combat%20wounded%20veteran%20updated%20updated.png": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/Combat%20Wounded%20Veteran%20updated%20updated.png",
-   "alt": "",
-   "verdict": "pending:DC-combat-wounded-veteran-purple-heart-tags"
-  },
-  "/sites/default/files/dc/sites/dmv/Pride%20Lives%20Here%20Update.png": {
-   "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/Pride%20Lives%20Here%20Update.png",
-   "alt": "Pride Lives Here Vehicle Tags",
-   "verdict": "pending:DC-pride-lives-here-vehicle-tags"
-  },
-  "/sites/default/files/dc/sites/dmv/Washington%20Wizards%20Vehicle%20Tags_.jpg": {
-   "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/Washington%20Wizards%20Vehicle%20Tags_.jpg",
-   "alt": "Washington Wizards Vehicle Tags",
-   "verdict": "pending:DC-washington-wizards-vehicle-tags"
-  },
-  "/sites/default/files/dc/sites/dmv/Washington_Nationals_Vehicle_Tags.jpg": {
-   "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/Washington_Nationals_Vehicle_Tags.jpg",
-   "alt": "Washington Nationals Vehicle Tags",
-   "verdict": "new:washington-nationals-vehicle-tags"
-  },
-  "/sites/default/files/dc/sites/dmv/WeDemandStatehoodTags3.png": {
-   "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/WeDemandStatehoodTags3.png",
-   "alt": "We Demand Statehood Vehicle Tags",
-   "verdict": "pending:DC-we-demand-statehood-vehicle-tags"
+   "alt": ""
   },
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20%20dc%20veteran%20tag.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20%20dc%20veteran%20tag.jpg",
-   "alt": "DC DMV DC Veteran Tag",
-   "verdict": "pending:DC-dc-dmv-dc-veteran-tag"
+   "alt": "DC DMV DC Veteran Tag"
   },
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20anacostia%20river%20commemorative%20tag.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20anacostia%20river%20commemorative%20tag.jpg",
-   "alt": "DC DMV Anacostia River Commemorative License Tag",
-   "verdict": "plate:anacostia-river-commemorative"
+   "alt": "DC DMV Anacostia River Commemorative License Tag"
   },
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20breast%20cancer%20awareness%20tag.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20breast%20cancer%20awareness%20tag.jpg",
-   "alt": "DC DMV Breast Cancer Awareness Tag",
-   "verdict": "plate:breast-cancer-awareness"
+   "alt": "DC DMV Breast Cancer Awareness Tag"
   },
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20dc%20woman%20veteran%20tag.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20dc%20woman%20veteran%20tag.jpg",
-   "alt": "DC DMV Breast Cancer Awareness Tag",
-   "verdict": "new:dc-dmv-breast-cancer-awareness-tag"
+   "alt": "DC DMV Breast Cancer Awareness Tag"
   },
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20disabled%20american%20veteran%20tags.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20disabled%20american%20veteran%20tags.jpg",
-   "alt": "DC DMV Disabled American Veteran Tags",
-   "verdict": "not-a-plate"
+   "alt": "DC DMV Disabled American Veteran Tags"
   },
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20veteran%20tags%202020.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20veteran%20tags%202020.jpg",
-   "alt": "DC DMV US Armed Forces Veteran Tags",
-   "verdict": "not-a-plate"
+   "alt": "DC DMV US Armed Forces Veteran Tags"
   },
-  "/sites/default/files/dc/sites/dmv/featured_content/images/Vision%20Zero%20Tags%202.png": {
+  "/sites/default/files/dc/sites/dmv/featured_content/images/vision%20zero%20tags%202.png": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/featured_content/images/Vision%20Zero%20Tags%202.png",
-   "alt": "Vision Zero Bicycle Awareness Tags",
-   "verdict": "new:vision-zero-bicycle-awareness-tags"
+   "alt": "Vision Zero Bicycle Awareness Tags"
   },
-  "/sites/default/files/dc/sites/dmv/page_content/images/Washington%20Mystics%20Tags.png": {
+  "/sites/default/files/dc/sites/dmv/page_content/images/washington%20mystics%20tags.png": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/page_content/images/Washington%20Mystics%20Tags.png",
-   "alt": "DC DMV Washington Mystics Vehicle Tags",
-   "verdict": "not-a-plate"
+   "alt": "DC DMV Washington Mystics Vehicle Tags"
   },
-  "/sites/default/files/dc/sites/dmv/service_content/images/Caps%20Tag%203.jpg.png": {
+  "/sites/default/files/dc/sites/dmv/pride%20lives%20here%20update.png": {
+   "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/Pride%20Lives%20Here%20Update.png",
+   "alt": "Pride Lives Here Vehicle Tags"
+  },
+  "/sites/default/files/dc/sites/dmv/service_content/images/caps%20tag%203.jpg.png": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/service_content/images/Caps%20Tag%203.jpg.png",
-   "alt": "DC DMV Washington Caps Tags",
-   "verdict": "not-a-plate"
+   "alt": "DC DMV Washington Caps Tags"
   },
-  "/sites/default/files/styles/thumbnail/public/dc/sites/dmv/biography_content/images/Gabriel%20Robinson%20206x155.png": {
+  "/sites/default/files/dc/sites/dmv/washington%20wizards%20vehicle%20tags_.jpg": {
+   "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/Washington%20Wizards%20Vehicle%20Tags_.jpg",
+   "alt": "Washington Wizards Vehicle Tags"
+  },
+  "/sites/default/files/dc/sites/dmv/washington_nationals_vehicle_tags.jpg": {
+   "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/Washington_Nationals_Vehicle_Tags.jpg",
+   "alt": "Washington Nationals Vehicle Tags"
+  },
+  "/sites/default/files/dc/sites/dmv/wedemandstatehoodtags3.png": {
+   "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/WeDemandStatehoodTags3.png",
+   "alt": "We Demand Statehood Vehicle Tags"
+  },
+  "/sites/default/files/styles/thumbnail/public/dc/sites/dmv/biography_content/images/gabriel%20robinson%20206x155.png": {
    "src": "https://dmv.dc.gov/sites/default/files/styles/thumbnail/public/dc/sites/dmv/biography_content/images/Gabriel%20Robinson%20206x155.png?itok=VHJfLeIh",
-   "alt": "DC DMV Director Gabriel Robinson",
-   "verdict": "not-a-plate"
+   "alt": "DC DMV Director Gabriel Robinson"
   }
- },
- "checked": "2026-10-26"
+ }
 }

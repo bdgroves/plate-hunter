@@ -1,57 +1,47 @@
 {
  "code": "NV-main",
  "url": "https://dmv.nv.gov/platesmain.htm",
+ "checked": "2026-10-26",
  "pictures": {
   "/images/platesmain/agriculture.jpg": {
    "src": "https://dmv.nv.gov/images/platesmain/agriculture.jpg",
-   "alt": "",
-   "verdict": "pending:NV-agriculture"
+   "alt": ""
   },
   "/images/platesmain/bighorns.png": {
    "src": "https://dmv.nv.gov/images/platesmain/bighorns.png",
-   "alt": "",
-   "verdict": "new:nevada-bighorns-unlimited-2"
+   "alt": ""
   },
   "/images/platesmain/desert_conservation.png": {
    "src": "https://dmv.nv.gov/images/platesmain/desert_conservation.png",
-   "alt": "",
-   "verdict": "new:desert-conservation-2"
+   "alt": ""
   },
   "/images/platesmain/ducksunlimited.jpg": {
    "src": "https://dmv.nv.gov/images/platesmain/ducksunlimited.jpg",
-   "alt": "",
-   "verdict": "new:ducks-unlimited"
+   "alt": ""
   },
   "/images/platesmain/missing_children.jpg": {
    "src": "https://dmv.nv.gov/images/platesmain/missing_children.jpg",
-   "alt": "",
-   "verdict": "new:missing-and-exploited-children-2"
+   "alt": ""
   },
   "/images/platesmain/mobmuseum.jpg": {
    "src": "https://dmv.nv.gov/images/platesmain/mobmuseum.jpg",
-   "alt": "",
-   "verdict": "pending:NV-mob-museum"
+   "alt": ""
   },
   "/images/platesmain/mt_charleston.jpg": {
    "src": "https://dmv.nv.gov/images/platesmain/mt_charleston.jpg",
-   "alt": "",
-   "verdict": "new:mount-charleston-2"
+   "alt": ""
   },
   "/images/platesmain/nvcasa.jpg": {
    "src": "https://dmv.nv.gov/images/platesmain/nvcasa.jpg",
-   "alt": "",
-   "verdict": "not-for-cars"
+   "alt": ""
   },
   "/images/platesmain/support_wildlife.jpg": {
    "src": "https://dmv.nv.gov/images/platesmain/support_wildlife.jpg",
-   "alt": "",
-   "verdict": "new:support-wildlife-2"
+   "alt": ""
   },
   "/images/platesmain/veteranwhoisdisabled.jpg": {
    "src": "https://dmv.nv.gov/images/platesmain/veteranwhoisdisabled.jpg",
-   "alt": "",
-   "verdict": "pending:NV-veteran-who-is-disabled"
+   "alt": ""
   }
- },
- "checked": "2026-10-26"
+ }
 }

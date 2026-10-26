@@ -3,7 +3,7 @@
  "name": "Rhode Island",
  "rated": false,
  "checked": false,
- "updated": "2026-10-26",
+ "updated": "2026-10-25",
  "about": "Rhode Island special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
  "sources": [
   {
@@ -263,96 +263,6 @@
    "name": "Wildlife Rehabilitators",
    "cat": "nature",
    "img": "wildlife-rehabilitators.webp"
-  },
-  {
-   "id": "ocean-passenger",
-   "name": "Ocean Passenger",
-   "cat": "nature",
-   "img": "ocean-passenger.webp",
-   "added": "2026-10-26",
-   "auto": true,
-   "source": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-types"
-  },
-  {
-   "id": "ocean-combination",
-   "name": "Ocean Combination",
-   "cat": "nature",
-   "img": "ocean-combination.webp",
-   "added": "2026-10-26",
-   "auto": true,
-   "source": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-types"
-  },
-  {
-   "id": "antique-2",
-   "name": "antique",
-   "cat": "vehicle",
-   "img": "antique-2.webp",
-   "added": "2026-10-26",
-   "auto": true,
-   "source": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-types"
-  },
-  {
-   "id": "ocean-public-service",
-   "name": "Ocean Public Service",
-   "cat": "nature",
-   "img": "ocean-public-service.webp",
-   "added": "2026-10-26",
-   "auto": true,
-   "source": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-types"
-  },
-  {
-   "id": "ocean-camper",
-   "name": "Ocean Camper",
-   "cat": "nature",
-   "img": "ocean-camper.webp",
-   "added": "2026-10-26",
-   "auto": true,
-   "source": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-types"
-  },
-  {
-   "id": "ocean-suburban",
-   "name": "Ocean Suburban",
-   "cat": "nature",
-   "img": "ocean-suburban.webp",
-   "added": "2026-10-26",
-   "auto": true,
-   "source": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-types"
-  },
-  {
-   "id": "ocean-radio-operator",
-   "name": "Ocean Radio Operator",
-   "cat": "nature",
-   "img": "ocean-radio-operator.webp",
-   "added": "2026-10-26",
-   "auto": true,
-   "source": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-types"
-  },
-  {
-   "id": "ocean-farm",
-   "name": "Ocean Farm",
-   "cat": "nature",
-   "img": "ocean-farm.webp",
-   "added": "2026-10-26",
-   "auto": true,
-   "source": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-types"
-  },
-  {
-   "id": "street-rod-2",
-   "name": "Street Rod",
-   "cat": "vehicle",
-   "img": "street-rod-2.webp",
-   "added": "2026-10-26",
-   "auto": true,
-   "source": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-types"
-  },
-  {
-   "id": "custom-vehicle",
-   "name": "custom vehicle",
-   "cat": "vehicle",
-   "img": "custom-vehicle.webp",
-   "added": "2026-10-26",
-   "auto": true,
-   "source": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-types"
   }
  ]
 }

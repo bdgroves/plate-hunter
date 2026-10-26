@@ -1,92 +1,75 @@
 {
  "code": "NJ-2",
  "url": "https://www.state.nj.us/mvc/vehicles/community.htm",
+ "checked": "2026-10-26",
  "pictures": {
-  "/mvc/images/Childrens_First_Foundation.gif": {
+  "/mvc/images/childrens_first_foundation.gif": {
    "src": "https://www.state.nj.us/mvc/images/Childrens_First_Foundation.gif",
-   "alt": "Children First Foundation",
-   "verdict": "new:children-first-foundation"
+   "alt": "Children First Foundation"
   },
-  "/mvc/images/Firemans_Mutual_Benevolent_Association.gif": {
+  "/mvc/images/firemans_mutual_benevolent_association.gif": {
    "src": "https://www.state.nj.us/mvc/images/Firemans_Mutual_Benevolent_Association.gif",
-   "alt": "Firemen's Mutual Benefit Association",
-   "verdict": "new:firemen-s-mutual-benefit-association"
+   "alt": "Firemen's Mutual Benefit Association"
   },
-  "/mvc/images/Fraternal_Order_Of_Police.gif": {
+  "/mvc/images/fraternal_order_of_police.gif": {
    "src": "https://www.state.nj.us/mvc/images/Fraternal_Order_Of_Police.gif",
-   "alt": "Fraternal Order of Police",
-   "verdict": "skipped-2023"
+   "alt": "Fraternal Order of Police"
   },
-  "/mvc/images/Freemason.gif": {
+  "/mvc/images/freemason.gif": {
    "src": "https://www.state.nj.us/mvc/images/Freemason.gif",
-   "alt": "Masons",
-   "verdict": "new:masons"
+   "alt": "Masons"
   },
-  "/mvc/images/International_Firefighters.gif": {
+  "/mvc/images/international_firefighters.gif": {
    "src": "https://www.state.nj.us/mvc/images/International_Firefighters.gif",
-   "alt": "International Firefighters",
-   "verdict": "new:international-firefighters"
+   "alt": "International Firefighters"
   },
-  "/mvc/images/Kiwanis_International.gif": {
+  "/mvc/images/kiwanis_international.gif": {
    "src": "https://www.state.nj.us/mvc/images/Kiwanis_International.gif",
-   "alt": "Kiwanis International",
-   "verdict": "new:kiwanis-international-2"
+   "alt": "Kiwanis International"
   },
-  "/mvc/images/Knights_Of_Columbus.gif": {
+  "/mvc/images/knights_of_columbus.gif": {
    "src": "https://www.state.nj.us/mvc/images/Knights_Of_Columbus.gif",
-   "alt": "Knights of Columbus",
-   "verdict": "new:knights-of-columbus"
+   "alt": "Knights of Columbus"
   },
-  "/mvc/images/National_Police_Foundation.gif": {
+  "/mvc/images/national_police_foundation.gif": {
    "src": "https://www.state.nj.us/mvc/images/National_Police_Foundation.gif",
-   "alt": "National Police Defense Foundation",
-   "verdict": "plate:npdf-safe-cop"
+   "alt": "National Police Defense Foundation"
   },
-  "/mvc/images/Newark_Firefighters.gif": {
+  "/mvc/images/newark_firefighters.gif": {
    "src": "https://www.state.nj.us/mvc/images/Newark_Firefighters.gif",
-   "alt": "Newark Firefighters",
-   "verdict": "skipped-2023"
+   "alt": "Newark Firefighters"
   },
-  "/mvc/images/Operating_Engineers.gif": {
+  "/mvc/images/operating_engineers.gif": {
    "src": "https://www.state.nj.us/mvc/images/Operating_Engineers.gif",
-   "alt": "Operating Engineers",
-   "verdict": "new:operating-engineers-2"
+   "alt": "Operating Engineers"
   },
-  "/mvc/images/Police_Benevolent_Association.gif": {
+  "/mvc/images/police_benevolent_association.gif": {
    "src": "https://www.state.nj.us/mvc/images/Police_Benevolent_Association.gif",
-   "alt": "Police Benevolent Association",
-   "verdict": "plate:state-p-b-a"
+   "alt": "Police Benevolent Association"
   },
-  "/mvc/images/Police_Dept_Honor_Legion.gif": {
+  "/mvc/images/police_dept_honor_legion.gif": {
    "src": "https://www.state.nj.us/mvc/images/Police_Dept_Honor_Legion.gif",
-   "alt": "Police Dept-Honor Legion",
-   "verdict": "skipped-2023"
+   "alt": "Police Dept-Honor Legion"
   },
-  "/mvc/images/Professional_Engineer.gif": {
+  "/mvc/images/professional_engineer.gif": {
    "src": "https://www.state.nj.us/mvc/images/Professional_Engineer.gif",
-   "alt": "Professional Engineers",
-   "verdict": "new:professional-engineers"
+   "alt": "Professional Engineers"
   },
-  "/mvc/images/Rotary_International.gif": {
+  "/mvc/images/rotary_international.gif": {
    "src": "https://www.state.nj.us/mvc/images/Rotary_International.gif",
-   "alt": "Rotary International",
-   "verdict": "new:rotary-international"
+   "alt": "Rotary International"
   },
-  "/mvc/images/Teamsters.gif": {
+  "/mvc/images/teamsters.gif": {
    "src": "https://www.state.nj.us/mvc/images/Teamsters.gif",
-   "alt": "Int. Brotherhood of Teamsters",
-   "verdict": "new:int-brotherhood-of-teamsters"
+   "alt": "Int. Brotherhood of Teamsters"
   },
-  "/mvc/images/Telephone_Pioneers.gif": {
+  "/mvc/images/telephone_pioneers.gif": {
    "src": "https://www.state.nj.us/mvc/images/Telephone_Pioneers.gif",
-   "alt": "Telephone Pioneers",
-   "verdict": "new:telephone-pioneers"
+   "alt": "Telephone Pioneers"
   },
-  "/mvc/images/United_Bowhunters.gif": {
+  "/mvc/images/united_bowhunters.gif": {
    "src": "https://www.state.nj.us/mvc/images/United_Bowhunters.gif",
-   "alt": "United Bowhunters of NJ",
-   "verdict": "new:united-bowhunters-of-nj"
+   "alt": "United Bowhunters of NJ"
   }
- },
- "checked": "2026-10-26"
+ }
 }
