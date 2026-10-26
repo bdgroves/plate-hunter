@@ -71,13 +71,22 @@ def apply(path: Path) -> str:
             hit["img_url"], hit["redesigned"] = d["source_img"], TODAY
             redesigned += 1
 
+    pictured = 0
+    for d in r.get("pictures", []):
+        hit = next((p for p in plates if p["name"] == d.get("name_in_game")), None) or \
+              next((p for p in plates if same_name(d.get("name_in_game", ""), p["name"], state_name)), None)
+        if hit and not hit.get("img") and d.get("source_img"):
+            hit["img_url"] = d["source_img"]
+            pictured += 1
+
     for d in r.get("retired", []):
         hit = next((p for p in plates if same_name(d.get("name_in_game", ""), p["name"], state_name)), None)
         if hit and not hit.get("retired"):
             hit["retired"] = True
             retired += 1
 
-    doc["checked"] = True
+    # a follow-up pass on a partly checked state only counts as a full check when it says so
+    doc["checked"] = bool(r.get("complete", True)) or bool(doc.get("checked"))
     doc["checked_on"] = TODAY
     doc["about"] = re.sub(r" From the 2023 snapshot, not yet checked against the state's current list\.", "",
                           doc.get("about", "")) + f" Checked for plates added since 2023 on {TODAY}."
@@ -91,7 +100,7 @@ def apply(path: Path) -> str:
             c = code if code not in taken else next(f"{code}-{i}" for i in range(2, 9) if f"{code}-{i}" not in taken)
             watch.append({"code": c, "name": state_name, "url": r["robot_url"]})
             wf.write_text(json.dumps(watch, indent=1) + "\n")
-    return f"{code}: +{added} new, {redesigned} redesigned, {retired} marked retired"
+    return f"{code}: +{added} new, {pictured} pictures found, {redesigned} redesigned, {retired} marked retired"
 
 
 def main() -> int:
