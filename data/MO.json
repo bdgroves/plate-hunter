@@ -966,10 +966,11 @@
    "id": "conservation-heritage-foundation-bass-fi",
    "name": "Conservation Heritage Foundation – Bass/Fish",
    "cat": "nature",
-   "img": "conservation-heritage-foundation-bass-fi.webp",
+   "img": null,
    "added": "2026-10-26",
    "source": "https://dor.mo.gov/motor-vehicle/plates/documents/SpecialtyPlateChart-FEB-8.pdf",
-   "year": "2023"
+   "year": "2023",
+   "no_official_picture": true
   },
   {
    "id": "army-of-occupation-medal",
