@@ -352,7 +352,7 @@
    "id": "massachusetts-250-years-of-independence",
    "name": "Massachusetts 250 Years of Independence",
    "cat": "other",
-   "img": "massachusetts-250-years-of-independence.webp",
+   "img": null,
    "added": "2026-10-26",
    "source": "https://www.mass.gov/news/rmv-celebrates-massachusetts-250-with-commemorative-license-plate",
    "year": "2025"
@@ -361,7 +361,7 @@
    "id": "dr-seuss",
    "name": "Dr. Seuss",
    "cat": "charity",
-   "img": "dr-seuss.webp",
+   "img": null,
    "added": "2026-10-26",
    "source": "https://www.mass.gov/doc/passenger-plates-manual-0/download",
    "year": "2024"
