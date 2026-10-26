@@ -5,12 +5,12 @@
   "/mvc/images/Childrens_First_Foundation.gif": {
    "src": "https://www.state.nj.us/mvc/images/Childrens_First_Foundation.gif",
    "alt": "Children First Foundation",
-   "verdict": "pending:NJ-children-first-foundation"
+   "verdict": "plate:choose-life"
   },
   "/mvc/images/Firemans_Mutual_Benevolent_Association.gif": {
    "src": "https://www.state.nj.us/mvc/images/Firemans_Mutual_Benevolent_Association.gif",
    "alt": "Firemen's Mutual Benefit Association",
-   "verdict": "pending:NJ-firemen-s-mutual-benefit-association"
+   "verdict": "plate:state-f-m-b-a"
   },
   "/mvc/images/Fraternal_Order_Of_Police.gif": {
    "src": "https://www.state.nj.us/mvc/images/Fraternal_Order_Of_Police.gif",
@@ -20,22 +20,22 @@
   "/mvc/images/Freemason.gif": {
    "src": "https://www.state.nj.us/mvc/images/Freemason.gif",
    "alt": "Masons",
-   "verdict": "pending:NJ-masons"
+   "verdict": "plate:freemason"
   },
   "/mvc/images/International_Firefighters.gif": {
    "src": "https://www.state.nj.us/mvc/images/International_Firefighters.gif",
    "alt": "International Firefighters",
-   "verdict": "pending:NJ-international-firefighters"
+   "verdict": "plate:firefighter-int-l"
   },
   "/mvc/images/Kiwanis_International.gif": {
    "src": "https://www.state.nj.us/mvc/images/Kiwanis_International.gif",
    "alt": "Kiwanis International",
-   "verdict": "pending:NJ-kiwanis-international"
+   "verdict": "plate:kiwanis-international"
   },
   "/mvc/images/Knights_Of_Columbus.gif": {
    "src": "https://www.state.nj.us/mvc/images/Knights_Of_Columbus.gif",
    "alt": "Knights of Columbus",
-   "verdict": "pending:NJ-knights-of-columbus"
+   "verdict": "plate:columbianism"
   },
   "/mvc/images/National_Police_Foundation.gif": {
    "src": "https://www.state.nj.us/mvc/images/National_Police_Foundation.gif",
@@ -50,7 +50,7 @@
   "/mvc/images/Operating_Engineers.gif": {
    "src": "https://www.state.nj.us/mvc/images/Operating_Engineers.gif",
    "alt": "Operating Engineers",
-   "verdict": "pending:NJ-operating-engineers"
+   "verdict": "plate:operating-engineers"
   },
   "/mvc/images/Police_Benevolent_Association.gif": {
    "src": "https://www.state.nj.us/mvc/images/Police_Benevolent_Association.gif",
@@ -65,27 +65,27 @@
   "/mvc/images/Professional_Engineer.gif": {
    "src": "https://www.state.nj.us/mvc/images/Professional_Engineer.gif",
    "alt": "Professional Engineers",
-   "verdict": "pending:NJ-professional-engineers"
+   "verdict": "plate:engineer"
   },
   "/mvc/images/Rotary_International.gif": {
    "src": "https://www.state.nj.us/mvc/images/Rotary_International.gif",
    "alt": "Rotary International",
-   "verdict": "pending:NJ-rotary-international"
+   "verdict": "plate:rotarian"
   },
   "/mvc/images/Teamsters.gif": {
    "src": "https://www.state.nj.us/mvc/images/Teamsters.gif",
    "alt": "Int. Brotherhood of Teamsters",
-   "verdict": "pending:NJ-int-brotherhood-of-teamsters"
+   "verdict": "plate:teamsters"
   },
   "/mvc/images/Telephone_Pioneers.gif": {
    "src": "https://www.state.nj.us/mvc/images/Telephone_Pioneers.gif",
    "alt": "Telephone Pioneers",
-   "verdict": "pending:NJ-telephone-pioneers"
+   "verdict": "plate:tele-pioneer"
   },
   "/mvc/images/United_Bowhunters.gif": {
    "src": "https://www.state.nj.us/mvc/images/United_Bowhunters.gif",
    "alt": "United Bowhunters of NJ",
-   "verdict": "pending:NJ-united-bowhunters-of-nj"
+   "verdict": "plate:united-bowhunters"
   }
  },
  "checked": "2026-10-26"

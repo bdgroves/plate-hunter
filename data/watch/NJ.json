@@ -5,12 +5,12 @@
   "/mvc/images/Air_Force_Retired.gif": {
    "src": "https://www.state.nj.us/mvc/images/Air_Force_Retired.gif",
    "alt": "Retired Air Force",
-   "verdict": "pending:NJ-retired-air-force"
+   "verdict": "plate:usaf-retired"
   },
   "/mvc/images/Airborne.gif": {
    "src": "https://www.state.nj.us/mvc/images/Airborne.gif",
    "alt": "Airborne",
-   "verdict": "pending:NJ-airborne"
+   "verdict": "plate:airborne"
   },
   "/mvc/images/American_Legion.gif": {
    "src": "https://www.state.nj.us/mvc/images/American_Legion.gif",
@@ -25,22 +25,22 @@
   "/mvc/images/Civil_Air_Patrol.gif": {
    "src": "https://www.state.nj.us/mvc/images/Civil_Air_Patrol.gif",
    "alt": "Civil Air Patrol",
-   "verdict": "pending:NJ-civil-air-patrol"
+   "verdict": "plate:civil-air-patrol"
   },
   "/mvc/images/Coast_Guard_Auxiliary.gif": {
    "src": "https://www.state.nj.us/mvc/images/Coast_Guard_Auxiliary.gif",
    "alt": "Coast Guard Auxiliary",
-   "verdict": "pending:NJ-coast-guard-auxiliary"
+   "verdict": "plate:uscg-auxiliary"
   },
   "/mvc/images/Disabled_AmVets.gif": {
    "src": "https://www.state.nj.us/mvc/images/Disabled_AmVets.gif",
    "alt": "Disabled Veterans",
-   "verdict": "pending:NJ-disabled-veterans"
+   "verdict": "plate:disabled-american-veterans"
   },
   "/mvc/images/Lakehurst_Navy.gif": {
    "src": "https://www.state.nj.us/mvc/images/Lakehurst_Navy.gif",
    "alt": "Lakehurst Navy",
-   "verdict": "pending:NJ-lakehurst-navy"
+   "verdict": "plate:lakehurst-navy"
   },
   "/mvc/images/Marine_Corps_League.gif": {
    "src": "https://www.state.nj.us/mvc/images/Marine_Corps_League.gif",
@@ -50,22 +50,22 @@
   "/mvc/images/Merchant_Marines_Academy.gif": {
    "src": "https://www.state.nj.us/mvc/images/Merchant_Marines_Academy.gif",
    "alt": "Merchant Marines Academy",
-   "verdict": "pending:NJ-merchant-marines-academy"
+   "verdict": "plate:kings-point"
   },
   "/mvc/images/Merchant_Marines_Standard.gif": {
    "src": "https://www.state.nj.us/mvc/images/Merchant_Marines_Standard.gif",
    "alt": "Merchant Marine",
-   "verdict": "pending:NJ-merchant-marine"
+   "verdict": "plate:merchant-marine"
   },
   "/mvc/images/NJ_Vietnam_Veterans.gif": {
    "src": "https://www.state.nj.us/mvc/images/NJ_Vietnam_Veterans.gif",
    "alt": "Vietnam Veterans",
-   "verdict": "pending:NJ-vietnam-veterans"
+   "verdict": "plate:vietnam-vets"
   },
   "/mvc/images/Navy_League.gif": {
    "src": "https://www.state.nj.us/mvc/images/Navy_League.gif",
    "alt": "Navy League",
-   "verdict": "pending:NJ-navy-league"
+   "verdict": "plate:navy-league"
   },
   "/mvc/images/Pearl_Harbor_Survivor.gif": {
    "src": "https://www.state.nj.us/mvc/images/Pearl_Harbor_Survivor.gif",
@@ -80,27 +80,27 @@
   "/mvc/images/Retired_US_Army.gif": {
    "src": "https://www.state.nj.us/mvc/images/Retired_US_Army.gif",
    "alt": "Retired U.S. Army",
-   "verdict": "pending:NJ-retired-u-s-army"
+   "verdict": "plate:u-s-army-retired"
   },
   "/mvc/images/Submarine_Veterans.gif": {
    "src": "https://www.state.nj.us/mvc/images/Submarine_Veterans.gif",
    "alt": "Submarine Veterans",
-   "verdict": "pending:NJ-submarine-veterans"
+   "verdict": "plate:silent-service"
   },
   "/mvc/images/Tin_Can_Sailors.gif": {
    "src": "https://www.state.nj.us/mvc/images/Tin_Can_Sailors.gif",
    "alt": "Tin Can Sailors",
-   "verdict": "pending:NJ-tin-can-sailors"
+   "verdict": "plate:tin-can-sailors"
   },
   "/mvc/images/Veterans_Of_Foreign_Wars_VFW.gif": {
    "src": "https://www.state.nj.us/mvc/images/Veterans_Of_Foreign_Wars_VFW.gif",
    "alt": "Veterans of Foreign Wars",
-   "verdict": "pending:NJ-veterans-of-foreign-wars"
+   "verdict": "plate:vfw-of-the-us"
   },
   "/mvc/images/West_Point.gif": {
    "src": "https://www.state.nj.us/mvc/images/West_Point.gif",
    "alt": "West Point",
-   "verdict": "pending:NJ-west-point"
+   "verdict": "plate:west-point"
   }
  },
  "checked": "2026-10-26"

@@ -59,7 +59,7 @@
   "code": "CT",
   "name": "Connecticut",
   "file": "data/CT.json",
-  "count": 65,
+  "count": 70,
   "rated": false,
   "checked": false
  },
@@ -67,7 +67,7 @@
   "code": "DE",
   "name": "Delaware",
   "file": "data/DE.json",
-  "count": 139,
+  "count": 146,
   "rated": false,
   "checked": false
  },
@@ -75,7 +75,7 @@
   "code": "DC",
   "name": "District of Columbia",
   "file": "data/DC.json",
-  "count": 46,
+  "count": 50,
   "rated": false,
   "checked": false
  },
@@ -235,7 +235,7 @@
   "code": "NV",
   "name": "Nevada",
   "file": "data/NV.json",
-  "count": 67,
+  "count": 69,
   "rated": false,
   "checked": true
  },
@@ -283,7 +283,7 @@
   "code": "ND",
   "name": "North Dakota",
   "file": "data/ND.json",
-  "count": 41,
+  "count": 42,
   "rated": false,
   "checked": false
  },
@@ -291,7 +291,7 @@
   "code": "OH",
   "name": "Ohio",
   "file": "data/OH.json",
-  "count": 262,
+  "count": 269,
   "rated": false,
   "checked": false
  },
@@ -331,7 +331,7 @@
   "code": "SC",
   "name": "South Carolina",
   "file": "data/SC.json",
-  "count": 217,
+  "count": 224,
   "rated": false,
   "checked": false
  },
@@ -339,7 +339,7 @@
   "code": "SD",
   "name": "South Dakota",
   "file": "data/SD.json",
-  "count": 53,
+  "count": 57,
   "rated": false,
   "checked": false
  },

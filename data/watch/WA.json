@@ -5,7 +5,7 @@
   "/sites/default/files/styles/max_135_x_135/public/plates/4Hplate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/4Hplate.png?itok=N8Lz_TZJ",
    "alt": "4-H license plate",
-   "verdict": "pending:WA-get-this"
+   "verdict": "plate:4h"
   },
   "/sites/default/files/styles/max_135_x_135/public/plates/Breast-cancer-plate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/Breast-cancer-plate.png?itok=sY4a_6kF",
@@ -25,7 +25,7 @@
   "/sites/default/files/styles/max_135_x_135/public/plates/FFAplate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/FFAplate.png?itok=KkEzljfq",
    "alt": "FFA license plate",
-   "verdict": "pending:WA-ffa"
+   "verdict": "plate:ffa"
   },
   "/sites/default/files/styles/max_135_x_135/public/plates/HelpingKidsSpeakPlate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/HelpingKidsSpeakPlate.png?itok=vs7v7O9e",
@@ -60,7 +60,7 @@
   "/sites/default/files/styles/max_135_x_135/public/plates/NationalGuardPlate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/NationalGuardPlate.png?itok=Jf227QIz",
    "alt": "U S National Guard sample plate design: The National Guard emblem and the letters \"NG\" and \"SMPLE\" with the American flag in the background",
-   "verdict": "pending:WA-u-s-national-guard-design-the-national-g"
+   "verdict": "plate:ng"
   },
   "/sites/default/files/styles/max_135_x_135/public/plates/SanJuanIslandsPlate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/SanJuanIslandsPlate.png?itok=x68ggu-8",
@@ -100,17 +100,17 @@
   "/sites/default/files/styles/max_135_x_135/public/plates/airforcePlate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/airforcePlate.png?itok=9dkBR-Ce",
    "alt": "U.S. Air Force sample plate design: The Air Force emblem and the letters \"AF\" and \"SMPLE\" with the American flag in the background",
-   "verdict": "pending:WA-u-s-air-force-design-the-air-force-emble"
+   "verdict": "plate:af"
   },
   "/sites/default/files/styles/max_135_x_135/public/plates/armyPlate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/armyPlate.png?itok=NquxDk8y",
    "alt": "U S Army sample plate design: The Army emblem and the letters \"AR\" and \"SMPLE\" with the American flag in the background",
-   "verdict": "pending:WA-u-s-army-design-the-army-emblem-and-the-"
+   "verdict": "plate:army"
   },
   "/sites/default/files/styles/max_135_x_135/public/plates/coastguardPlate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/coastguardPlate.png?itok=pUpPpXfU",
    "alt": "U S Coast Guard sample plate design: The Coast Guard emblem and the letters \"CG\" and \"SMPLE\" with the American flag in the background",
-   "verdict": "pending:WA-u-s-coast-guard-design-the-coast-guard-e"
+   "verdict": "plate:cg"
   },
   "/sites/default/files/styles/max_135_x_135/public/plates/collector-plate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/collector-plate.png?itok=VZXfqRQ9",
@@ -120,12 +120,12 @@
   "/sites/default/files/styles/max_135_x_135/public/plates/disabledVetPlate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/disabledVetPlate.png?itok=hGNkDlhK",
    "alt": "The letters \"SAMP DV\" centered over a stylized image of Mount Rainier. WASHINGTON is at the top in red capital letters and DISABLED VETERAN is at the bottom in smaller red capital letters.",
-   "verdict": "pending:WA-the-letters-samp-dv-centered-over-a-styl"
+   "verdict": "rejected"
   },
   "/sites/default/files/styles/max_135_x_135/public/plates/firefighterPlate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/firefighterPlate.png?itok=sW7TNrNG",
    "alt": "Professional fire fighters license plates",
-   "verdict": "pending:WA-professional-fire-fighters"
+   "verdict": "plate:pff"
   },
   "/sites/default/files/styles/max_135_x_135/public/plates/formerPOWplate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/formerPOWplate.png?itok=-4zmaXrQ",
@@ -135,12 +135,12 @@
   "/sites/default/files/styles/max_135_x_135/public/plates/fred-hutchinson-plate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/fred-hutchinson-plate.png?itok=lXzMmMSQ",
    "alt": "Fred Hutchinson Cancer Center license plate",
-   "verdict": "pending:WA-fred-hutchinson-cancer-center"
+   "verdict": "rejected"
   },
   "/sites/default/files/styles/max_135_x_135/public/plates/goldstarPlate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/goldstarPlate.png?itok=hu7-lNaN",
    "alt": "Gold Star license plate",
-   "verdict": "pending:WA-gold-star"
+   "verdict": "rejected"
   },
   "/sites/default/files/styles/max_135_x_135/public/plates/gonzagaPlate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/gonzagaPlate.png?itok=sZX08bEQ",
@@ -160,22 +160,22 @@
   "/sites/default/files/styles/max_135_x_135/public/plates/lifeline-plate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/lifeline-plate.png?itok=TIbMF_3j",
    "alt": "Prevent veteran suicide license plate emblem sample: The word \"SAMPLE\" with a purple emblem underneath with the words \"988 Lifeline - There is hope\". The American flag is in the background.",
-   "verdict": "pending:WA-prevent-veteran-suicide-emblem-the-word-"
+   "verdict": "plate:v988"
   },
   "/sites/default/files/styles/max_135_x_135/public/plates/lighthousePlate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/lighthousePlate.png?itok=D18cAvoL",
    "alt": "Lighthouse license plate",
-   "verdict": "pending:WA-lighthouse"
+   "verdict": "plate:lt"
   },
   "/sites/default/files/styles/max_135_x_135/public/plates/marinesPlate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/marinesPlate.png?itok=KqEGjuxX",
    "alt": "U S Marine Corps sample plate design: The Marine Corps emblem and the letters \"MC\" and \"SMPLE\" with the American flag in the background",
-   "verdict": "pending:WA-u-s-marine-corps-design-the-marine-corps"
+   "verdict": "plate:mc"
   },
   "/sites/default/files/styles/max_135_x_135/public/plates/mount-st-helens-plate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/mount-st-helens-plate.png?itok=NZ8uFfs1",
    "alt": "Washington state license plate with a turquoise background, featuring a mountain goat and Mount St. Helens, and the text “WASHINGTON” and “MOUNT ST. HELENS.”",
-   "verdict": "pending:WA-washington-state-with-a-turquoise-backgr"
+   "verdict": "rejected"
   },
   "/sites/default/files/styles/max_135_x_135/public/plates/muckleshoot-tribe-plate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/muckleshoot-tribe-plate.png?itok=-WKiiJpL",
@@ -185,7 +185,7 @@
   "/sites/default/files/styles/max_135_x_135/public/plates/navyPlate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/navyPlate.png?itok=57-m6tm9",
    "alt": "Navy Sample License Plate design, American flag in the background with Navy emblem and NA Letters",
-   "verdict": "pending:WA-navy-design-american-flag-in-the-backgro"
+   "verdict": "plate:navy"
   },
   "/sites/default/files/styles/max_135_x_135/public/plates/orcaPlate.jpg": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/orcaPlate.jpg?itok=bKmW-zj8",
@@ -240,7 +240,7 @@
   "/sites/default/files/styles/max_135_x_135/public/plates/smokey-bear-plate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/smokey-bear-plate.png?itok=3RwCogOn",
    "alt": "Washington state license plate featuring Smokey Bear holding a shovel with \"S B SMPL\" text and the slogan \"ONLY YOU CAN PREVENT WILDFIRES.\"",
-   "verdict": "pending:WA-washington-state-featuring-smokey-bear-h"
+   "verdict": "rejected"
   },
   "/sites/default/files/styles/max_135_x_135/public/plates/throwback-plate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/throwback-plate.png?itok=RsKJNNlT",
@@ -250,7 +250,7 @@
   "/sites/default/files/styles/max_135_x_135/public/plates/vetemblems.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/vetemblems.png?itok=uNdxbzXQ",
    "alt": "Veteran/military service award emblem sample",
-   "verdict": "pending:WA-veteran-military-service-award-emblem"
+   "verdict": "rejected"
   }
  },
  "checked": "2026-10-26"

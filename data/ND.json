@@ -3,7 +3,7 @@
  "name": "North Dakota",
  "rated": false,
  "checked": false,
- "updated": "2026-10-25",
+ "updated": "2026-10-26",
  "about": "North Dakota special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
  "sources": [
   {
@@ -257,6 +257,15 @@
    "name": "Veteran Space Force",
    "cat": "veterans",
    "img": "veteran-space-force.webp"
+  },
+  {
+   "id": "blackout",
+   "name": "Blackout",
+   "cat": "other",
+   "img": "blackout.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://apps.nd.gov/dot/mv/mvrenewal/plateSearch.htm"
   }
  ]
 }

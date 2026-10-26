@@ -150,7 +150,7 @@
   "/img/special_plates/ohio_pride/si_amaerican-motorcyclist-association.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_amaerican-motorcyclist-association.jpg",
    "alt": "American Motorcyclist Association",
-   "verdict": "pending:OH-american-motorcyclist-association"
+   "verdict": "plate:a-kid-again"
   },
   "/img/special_plates/ohio_pride/si_amaranth_eastern_star.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_amaranth_eastern_star.jpg",
@@ -175,17 +175,17 @@
   "/img/special_plates/ohio_pride/si_american-legion-auxiliary.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_american-legion-auxiliary.jpg",
    "alt": "American Legion Auxiliary",
-   "verdict": "pending:OH-american-legion-auxiliary"
+   "verdict": "plate:rotary"
   },
   "/img/special_plates/ohio_pride/si_american-legion.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_american-legion.jpg",
    "alt": "American Legion",
-   "verdict": "pending:OH-american-legion"
+   "verdict": "plate:rotary"
   },
   "/img/special_plates/ohio_pride/si_antioch_shrine_foundation.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_antioch_shrine_foundation.jpg",
    "alt": "Antioch Shrine Foundation",
-   "verdict": "pending:OH-antioch-shrine-foundation"
+   "verdict": "new:shriners-antioch-shrine"
   },
   "/img/special_plates/ohio_pride/si_arch_moeller.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_arch_moeller.jpg",
@@ -215,7 +215,7 @@
   "/img/special_plates/ohio_pride/si_beaver-creek-wetlands.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_beaver-creek-wetlands.jpg",
    "alt": "Beaver Creek Wetlands",
-   "verdict": "pending:OH-beaver-creek-wetlands"
+   "verdict": "new:beaver-creek-wetlands"
   },
   "/img/special_plates/ohio_pride/si_bottoms_up_diaper_drive.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_bottoms_up_diaper_drive.jpg",
@@ -240,7 +240,7 @@
   "/img/special_plates/ohio_pride/si_buckeyecorvette.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_buckeyecorvette.jpg",
    "alt": "Buckeye Corvettes",
-   "verdict": "pending:OH-buckeye-corvettes"
+   "verdict": "plate:buckeyecorvette"
   },
   "/img/special_plates/ohio_pride/si_bullfrog.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_bullfrog.jpg",
@@ -260,12 +260,12 @@
   "/img/special_plates/ohio_pride/si_casa_ad_litem.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_casa_ad_litem.jpg",
    "alt": "CASA Ad Litem",
-   "verdict": "pending:OH-casa-ad-litem"
+   "verdict": "rejected"
   },
   "/img/special_plates/ohio_pride/si_casa_ohio.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_casa_ohio.jpg",
    "alt": "Casa Kids",
-   "verdict": "pending:OH-casa-kids"
+   "verdict": "plate:casa-ohio"
   },
   "/img/special_plates/ohio_pride/si_cattlemens.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_cattlemens.jpg",
@@ -280,12 +280,12 @@
   "/img/special_plates/ohio_pride/si_chardon_football.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_chardon_football.jpg",
    "alt": "Chardon High School State Football Champs",
-   "verdict": "pending:OH-chardon-high-school-state-football-champ"
+   "verdict": "plate:prince-hall-fm"
   },
   "/img/special_plates/ohio_pride/si_chillicothe-paints.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_chillicothe-paints.jpg",
    "alt": "Chillicothe Paints",
-   "verdict": "pending:OH-chillicothe-paints"
+   "verdict": "plate:combatmedical1"
   },
   "/img/special_plates/ohio_pride/si_choose_life.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_choose_life.jpg",
@@ -295,7 +295,7 @@
   "/img/special_plates/ohio_pride/si_choose_life_heart.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_choose_life_heart.jpg",
    "alt": "Choose Life Heart",
-   "verdict": "pending:OH-choose-life-heart"
+   "verdict": "plate:ohio"
   },
   "/img/special_plates/ohio_pride/si_church_bus.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_church_bus.jpg",
@@ -320,7 +320,7 @@
   "/img/special_plates/ohio_pride/si_collector.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_collector.jpg",
    "alt": "",
-   "verdict": "pending:OH-vehicle-type"
+   "verdict": "plate:collector"
   },
   "/img/special_plates/ohio_pride/si_commodore.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_commodore.jpg",
@@ -330,17 +330,17 @@
   "/img/special_plates/ohio_pride/si_conquercancer.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_conquercancer.jpg",
    "alt": "Conquer Child Cancers",
-   "verdict": "pending:OH-conquer-child-cancers"
+   "verdict": "plate:conquercancer"
   },
   "/img/special_plates/ohio_pride/si_continue-your-story.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_continue-your-story.jpg",
    "alt": "Continue Your Story",
-   "verdict": "pending:OH-continue-your-story"
+   "verdict": "plate:girls-run"
   },
   "/img/special_plates/ohio_pride/si_creative-ohio.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_creative-ohio.jpg",
    "alt": "Creative Ohio",
-   "verdict": "pending:OH-creative-ohio"
+   "verdict": "plate:ronald-mcdonald-house"
   },
   "/img/special_plates/ohio_pride/si_cuyahoga-heights-schools.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_cuyahoga-heights-schools.jpg",
@@ -370,7 +370,7 @@
   "/img/special_plates/ohio_pride/si_dayton-dragons.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_dayton-dragons.jpg",
    "alt": "Dayton Dragons",
-   "verdict": "pending:OH-dayton-dragons"
+   "verdict": "new:dayton-dragons"
   },
   "/img/special_plates/ohio_pride/si_delta_sigma_theta.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_delta_sigma_theta.jpg",
@@ -390,7 +390,7 @@
   "/img/special_plates/ohio_pride/si_dublin-city-schools.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_dublin-city-schools.jpg",
    "alt": "Dublin City Schools",
-   "verdict": "pending:OH-dublin-city-schools"
+   "verdict": "new:dublin-city-schools"
   },
   "/img/special_plates/ohio_pride/si_ducks_unlimited.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_ducks_unlimited.jpg",
@@ -425,12 +425,12 @@
   "/img/special_plates/ohio_pride/si_fallenlinementruck.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_fallenlinementruck.jpg",
    "alt": "Fallen Lineworker Truck",
-   "verdict": "pending:OH-fallen-lineworker-truck"
+   "verdict": "new:honoring-fallen-lineworkers"
   },
   "/img/special_plates/ohio_pride/si_fallentimbers.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_fallentimbers.jpg",
    "alt": "Fallen Timbers license plate image",
-   "verdict": "pending:OH-fallen-timbers"
+   "verdict": "plate:women-veteran-usphs"
   },
   "/img/special_plates/ohio_pride/si_ffa.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_ffa.jpg",
@@ -440,7 +440,7 @@
   "/img/special_plates/ohio_pride/si_ffa_truck.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_ffa_truck.jpg",
    "alt": "Future Farmers of America Truck",
-   "verdict": "pending:OH-future-farmers-of-america-truck"
+   "verdict": "plate:ffa"
   },
   "/img/special_plates/ohio_pride/si_folds_of_honor.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_folds_of_honor.jpg",
@@ -455,12 +455,12 @@
   "/img/special_plates/ohio_pride/si_fop.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_fop.jpg",
    "alt": "Fraternal Order of Police",
-   "verdict": "pending:OH-fraternal-order-of-police"
+   "verdict": "plate:fop"
   },
   "/img/special_plates/ohio_pride/si_fopa.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_fopa.jpg",
    "alt": "Fraternal Order of Police Associate Member",
-   "verdict": "pending:OH-fraternal-order-of-police-associate-memb"
+   "verdict": "plate:fopa"
   },
   "/img/special_plates/ohio_pride/si_freemason.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_freemason.jpg",
@@ -470,7 +470,7 @@
   "/img/special_plates/ohio_pride/si_friendsofcoal.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_friendsofcoal.jpg",
    "alt": "Friends of Coal",
-   "verdict": "pending:OH-friends-of-coal"
+   "verdict": "plate:friendsofcoal"
   },
   "/img/special_plates/ohio_pride/si_girl_scouts.jpg": {
    "src": "https://bmv.ohio.gov/img/special_plates/ohio_pride/si_girl_scouts.jpg",
@@ -505,12 +505,12 @@
   "/img/special_plates/ohio_pride/si_harrison_central_huskies.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_harrison_central_huskies.jpg",
    "alt": "Harrison Central Huskies",
-   "verdict": "pending:OH-harrison-central-huskies"
+   "verdict": "new:harrison-central-huskies"
   },
   "/img/special_plates/ohio_pride/si_historical-patriotic-education.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_historical-patriotic-education.jpg",
    "alt": "Historical and Patriotic Education",
-   "verdict": "pending:OH-historical-and-patriotic-education"
+   "verdict": "plate:buckeyecorvette"
   },
   "/img/special_plates/ohio_pride/si_honey_bee.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_honey_bee.jpg",
@@ -520,7 +520,7 @@
   "/img/special_plates/ohio_pride/si_honorourfallen.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_honorourfallen.jpg",
    "alt": "Honor Our Fallen",
-   "verdict": "pending:OH-honor-our-fallen"
+   "verdict": "plate:honorourfallen"
   },
   "/img/special_plates/ohio_pride/si_hudson-schools.jpg": {
    "src": "https://bmv.ohio.gov/img/special_plates/ohio_pride/si_hudson-schools.jpg",
@@ -530,7 +530,7 @@
   "/img/special_plates/ohio_pride/si_imagination-library.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_imagination-library.jpg",
    "alt": "Dolly Parton's Imagination Library",
-   "verdict": "pending:OH-dolly-parton-s-imagination-library"
+   "verdict": "new:dolly-parton-s-imagination-library"
   },
   "/img/special_plates/ohio_pride/si_independence_schools.jpg": {
    "src": "https://bmv.ohio.gov/img/special_plates/ohio_pride/si_independence_schools.jpg",
@@ -540,7 +540,7 @@
   "/img/special_plates/ohio_pride/si_juvenile_diabetes_research_foundation.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_juvenile_diabetes_research_foundation.jpg",
    "alt": "Breakthough T1D",
-   "verdict": "pending:OH-breakthough-t1d"
+   "verdict": "plate:a-kid-again"
   },
   "/img/special_plates/ohio_pride/si_kappa_alpha_psi.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_kappa_alpha_psi.jpg",
@@ -675,7 +675,7 @@
   "/img/special_plates/ohio_pride/si_pets-horse-alt.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_pets-horse-alt.jpg",
    "alt": "Ohio Horses Outline",
-   "verdict": "pending:OH-ohio-horses-outline"
+   "verdict": "plate:oil-gas-energy"
   },
   "/img/special_plates/ohio_pride/si_pets_ohio.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_pets_ohio.jpg",
@@ -715,7 +715,7 @@
   "/img/special_plates/ohio_pride/si_red_cross.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_red_cross.jpg",
    "alt": "American Red Cross",
-   "verdict": "pending:OH-american-red-cross"
+   "verdict": "plate:red-cross"
   },
   "/img/special_plates/ohio_pride/si_ronald_mcdonald_house.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_ronald_mcdonald_house.jpg",
@@ -780,7 +780,7 @@
   "/img/special_plates/ohio_pride/si_suicide_prevention.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_suicide_prevention.jpg",
    "alt": "American Foundation for Suicide Prevention",
-   "verdict": "pending:OH-american-foundation-for-suicide-preventi"
+   "verdict": "plate:juvenile-diabetes-research-foundation"
   },
   "/img/special_plates/ohio_pride/si_summit-metro-parks.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_summit-metro-parks.jpg",
@@ -800,7 +800,7 @@
   "/img/special_plates/ohio_pride/si_television.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_television.jpg",
    "alt": "",
-   "verdict": "pending:OH-vehicle-type-x"
+   "verdict": "plate:television"
   },
   "/img/special_plates/ohio_pride/si_temp_farm_bus.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_temp_farm_bus.jpg",

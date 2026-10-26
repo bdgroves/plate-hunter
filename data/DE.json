@@ -3,7 +3,7 @@
  "name": "Delaware",
  "rated": false,
  "checked": false,
- "updated": "2026-10-25",
+ "updated": "2026-10-26",
  "about": "Delaware special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
  "sources": [
   {
@@ -845,6 +845,69 @@
    "name": "Zeta Phi Beta",
    "cat": "other",
    "img": "zeta-phi-beta.webp"
+  },
+  {
+   "id": "american-foundation-for-suicide-preventi",
+   "name": "American Foundation for Suicide Prevention",
+   "cat": "charity",
+   "img": "american-foundation-for-suicide-preventi.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+  },
+  {
+   "id": "delaware-america-s-250th-anniversary",
+   "name": "Delaware & America's 250th Anniversary",
+   "cat": "charity",
+   "img": "delaware-america-s-250th-anniversary.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+  },
+  {
+   "id": "delaware-state-education-association",
+   "name": "Delaware State Education Association",
+   "cat": "charity",
+   "img": "delaware-state-education-association.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+  },
+  {
+   "id": "delaware-equine-council",
+   "name": "Delaware Equine Council",
+   "cat": "hobby",
+   "img": "delaware-equine-council.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+  },
+  {
+   "id": "university-of-delaware-blue-hens",
+   "name": "University of Delaware Blue Hens",
+   "cat": "colleges",
+   "img": "university-of-delaware-blue-hens.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+  },
+  {
+   "id": "whitetails-unlimited",
+   "name": "Whitetails Unlimited",
+   "cat": "other",
+   "img": "whitetails-unlimited.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
+  },
+  {
+   "id": "william-penn-high-school",
+   "name": "William Penn High School",
+   "cat": "charity",
+   "img": "william-penn-high-school.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all"
   }
  ]
 }

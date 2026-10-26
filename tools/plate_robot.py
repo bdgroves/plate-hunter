@@ -41,7 +41,7 @@ from pathlib import Path
 from urllib.parse import urljoin, urlparse
 
 import numpy as np
-from PIL import Image
+from PIL import Image, ImageOps
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from research_from_keegan import SKIP, category  # noqa: E402
@@ -168,6 +168,19 @@ def words(name: str, state_name: str = "") -> set[str]:
     return {w for w in re.findall(r"[a-z0-9]+", name.lower()) if w not in drop and len(w) > 1}
 
 
+def tiny(im: Image.Image) -> np.ndarray:
+    """A 24x12 colour thumbnail of the plate (border trimmed), normalized for correlation.
+    It forgives what trips up the difference hash: a different crop, border, size or render."""
+    rgb = im.convert("RGB")
+    box = ImageOps.invert(rgb.convert("L")).point(lambda x: 255 if x > 18 else 0).getbbox()
+    a = np.asarray((rgb.crop(box) if box else rgb).resize((24, 12)), dtype=float).flatten()
+    a -= a.mean()
+    return a / (np.linalg.norm(a) + 1e-9)
+
+
+LOOKALIKE = 0.90  # thumbnail correlation at which two pictures are the same plate
+
+
 def plate_shaped(im: Image.Image) -> bool:
     w, h = im.size
     return w >= 110 and 1.45 <= w / max(h, 1) <= 2.9
@@ -182,10 +195,11 @@ class State:
     def __init__(self, code: str):
         self.code, self.file = code, ROOT / "data" / f"{code}.json"
         self.doc = json.loads(self.file.read_text(encoding="utf-8"))
-        self.hashes = {}
+        self.hashes, self.tinies = {}, {}
         for p in self.doc["plates"]:
             if p.get("img") and (ROOT / "plates" / code / p["img"]).exists():
-                self.hashes[p["id"]] = dhash(Image.open(ROOT / "plates" / code / p["img"]))
+                im = Image.open(ROOT / "plates" / code / p["img"])
+                self.hashes[p["id"]], self.tinies[p["id"]] = dhash(im), tiny(im)
         self.added: list[dict] = []
         # plates from the 2023 dataset the game skips on purpose (motorcycle, dealer, variants…)
         known = ROOT / "data" / "known" / f"{code}.txt"
@@ -219,8 +233,13 @@ class State:
         name = f"{pid}-{TODAY}.webp"            # a new file name, so phones don't keep the old picture
         im.save(ROOT / "plates" / self.code / name, "WEBP", quality=82, method=6)
         p["img"], p["redesigned"] = name, TODAY
-        self.hashes[pid] = dhash(im)
+        self.hashes[pid], self.tinies[pid] = dhash(im), tiny(im)
         self.added.append({**p, "redesign": True})
+
+    def lookalike(self, im: Image.Image) -> str | None:
+        t = tiny(im)
+        best = max(self.tinies.items(), key=lambda kv: float(kv[1] @ t), default=None)
+        return best[0] if best and float(best[1] @ t) >= LOOKALIKE else None
 
     def match(self, h: np.ndarray) -> tuple[str | None, int]:
         best, dist = None, 999
@@ -245,7 +264,7 @@ class State:
         if self.doc.get("rated"):
             plate["rar"], plate["pts"] = "rare", 50     # new plates are scarce until counts come in
         self.doc["plates"].append(plate)
-        self.hashes[pid] = dhash(im)
+        self.hashes[pid], self.tinies[pid] = dhash(im), tiny(im)
         self.added.append(plate)
         return pid
 
@@ -357,6 +376,7 @@ def visit(page: dict, state: State, max_new: int, status: dict, report: list[str
             continue
         h = dhash(im)
         hit, dist = state.match(h)
+        hit = hit or state.lookalike(im)
         if hit:
             pics[path] = {**pic, "verdict": f"plate:{hit}"}
         elif state.known_elsewhere(h):

@@ -5,12 +5,12 @@
   "/sites/default/files/dc/shared_assets/BOW13_final.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/shared_assets/BOW13_final.jpg",
    "alt": "Best of the Web logo 2013",
-   "verdict": "pending:DC-best-of-the-logo-2013"
+   "verdict": "rejected"
   },
   "/sites/default/files/dc/shared_assets/BOW14_Winner.png": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/shared_assets/BOW14_Winner.png",
    "alt": "Best of the Web logo 2014",
-   "verdict": "pending:DC-best-of-the-logo-2014"
+   "verdict": "rejected"
   },
   "/sites/default/files/dc/shared_assets/search2.png": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/shared_assets/search2.png",
@@ -20,7 +20,7 @@
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20aka.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20aka.jpg",
    "alt": "DC DMV Tag Alpha Kappa Alpha",
-   "verdict": "pending:DC-dc-dmv-tag-alpha-kappa-alpha"
+   "verdict": "plate:alpha-kappa-alpha"
   },
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20apa.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20apa.jpg",
@@ -35,7 +35,7 @@
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20blueknights.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20blueknights.jpg",
    "alt": "DC DMV Tag Blue Knights",
-   "verdict": "pending:DC-dc-dmv-tag-blue-knights"
+   "verdict": "plate:blue-knights"
   },
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20children.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20children.jpg",
@@ -45,7 +45,7 @@
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20dav.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20dav.jpg",
    "alt": "DC DMV Tag Disabled Veterans",
-   "verdict": "pending:DC-dc-dmv-tag-disabled-veterans"
+   "verdict": "plate:disabled-veterans"
   },
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20dcfop.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20dcfop.jpg",
@@ -55,7 +55,7 @@
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20donatelife.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20donatelife.jpg",
    "alt": "DC DMV Tag Donate Life",
-   "verdict": "pending:DC-dc-dmv-tag-donate-life"
+   "verdict": "plate:donate-life-note-it-is-not-necessary-to-"
   },
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20dst.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20dst.jpg",
@@ -65,7 +65,7 @@
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20dv.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20dv.jpg",
    "alt": "DC DMV Tag Disabled Veterans",
-   "verdict": "pending:DC-dc-dmv-tag-disabled-veterans-x"
+   "verdict": "plate:disabled-veterans-symbol"
   },
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20easternstar.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20easternstar.jpg",
@@ -75,7 +75,7 @@
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20famu.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20famu.jpg",
    "alt": "DC DMV Tag Florida A&M University",
-   "verdict": "pending:DC-dc-dmv-tag-florida-a-m-university"
+   "verdict": "plate:florida-a-m-university"
   },
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20firefighters.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20firefighters.jpg",
@@ -105,7 +105,7 @@
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20msu2.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20msu2.jpg",
    "alt": "DC DMV Tag Mississippi State University",
-   "verdict": "pending:DC-dc-dmv-tag-mississippi-state-university"
+   "verdict": "plate:mississippi-state-university"
   },
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20nabs.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20nabs.jpg",
@@ -160,7 +160,7 @@
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20umich.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20umich.jpg",
    "alt": "DC DMV Tag University of Michigan",
-   "verdict": "pending:DC-dc-dmv-tag-university-of-michigan"
+   "verdict": "plate:university-of-michigan"
   },
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20vfw.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20tag%20vfw.jpg",
@@ -170,7 +170,7 @@
   "/sites/default/files/dc/sites/dmv/page_content/images/NorfolkStateUDCDMVTag.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/page_content/images/NorfolkStateUDCDMVTag.jpg",
    "alt": "DC DMV Tag Norfolk State University",
-   "verdict": "pending:DC-dc-dmv-tag-norfolk-state-university"
+   "verdict": "plate:norfolk-state-alumni"
   },
   "/sites/default/files/styles/thumbnail/public/dc/sites/dmv/biography_content/images/Gabriel%20Robinson%20206x155.png": {
    "src": "https://dmv.dc.gov/sites/default/files/styles/thumbnail/public/dc/sites/dmv/biography_content/images/Gabriel%20Robinson%20206x155.png?itok=VHJfLeIh",

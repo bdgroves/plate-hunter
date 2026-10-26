@@ -5,37 +5,37 @@
   "/images/platesmain/agriculture.jpg": {
    "src": "https://dmv.nv.gov/images/platesmain/agriculture.jpg",
    "alt": "",
-   "verdict": "pending:NV-agriculture"
+   "verdict": "plate:agriculture"
   },
   "/images/platesmain/bighorns.png": {
    "src": "https://dmv.nv.gov/images/platesmain/bighorns.png",
    "alt": "",
-   "verdict": "pending:NV-nevada-bighorns-unlimited"
+   "verdict": "plate:nevada-bighorns-unlimited"
   },
   "/images/platesmain/desert_conservation.png": {
    "src": "https://dmv.nv.gov/images/platesmain/desert_conservation.png",
    "alt": "",
-   "verdict": "pending:NV-desert-conservation"
+   "verdict": "plate:desert-conservation"
   },
   "/images/platesmain/ducksunlimited.jpg": {
    "src": "https://dmv.nv.gov/images/platesmain/ducksunlimited.jpg",
    "alt": "",
-   "verdict": "pending:NV-ducks-unlimited"
+   "verdict": "new:ducks-unlimited"
   },
   "/images/platesmain/missing_children.jpg": {
    "src": "https://dmv.nv.gov/images/platesmain/missing_children.jpg",
    "alt": "",
-   "verdict": "pending:NV-missing-and-exploited-children"
+   "verdict": "plate:missing-and-exploited-children"
   },
   "/images/platesmain/mobmuseum.jpg": {
    "src": "https://dmv.nv.gov/images/platesmain/mobmuseum.jpg",
    "alt": "",
-   "verdict": "pending:NV-mob-museum"
+   "verdict": "new:the-mob-museum"
   },
   "/images/platesmain/mt_charleston.jpg": {
    "src": "https://dmv.nv.gov/images/platesmain/mt_charleston.jpg",
    "alt": "",
-   "verdict": "pending:NV-mount-charleston"
+   "verdict": "plate:mount-charleston"
   },
   "/images/platesmain/nvcasa.jpg": {
    "src": "https://dmv.nv.gov/images/platesmain/nvcasa.jpg",
@@ -45,12 +45,12 @@
   "/images/platesmain/support_wildlife.jpg": {
    "src": "https://dmv.nv.gov/images/platesmain/support_wildlife.jpg",
    "alt": "",
-   "verdict": "pending:NV-support-wildlife"
+   "verdict": "plate:support-wildlife"
   },
   "/images/platesmain/veteranwhoisdisabled.jpg": {
    "src": "https://dmv.nv.gov/images/platesmain/veteranwhoisdisabled.jpg",
    "alt": "",
-   "verdict": "pending:NV-veteran-who-is-disabled"
+   "verdict": "rejected"
   }
  },
  "checked": "2026-10-26"

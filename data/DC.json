@@ -3,7 +3,7 @@
  "name": "District of Columbia",
  "rated": false,
  "checked": false,
- "updated": "2026-10-25",
+ "updated": "2026-10-26",
  "about": "District of Columbia special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
  "sources": [
   {
@@ -287,6 +287,42 @@
    "name": "Washington Nationals Note: It is not necessary to obtain a letter from the Washington Nationals to obtain this organizational.",
    "cat": "sports",
    "img": "washington-nationals-note-it-is-not-nece.webp"
+  },
+  {
+   "id": "combat-wounded-veteran",
+   "name": "Combat Wounded Veteran",
+   "cat": "veterans",
+   "img": "combat-wounded-veteran.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://dmv.dc.gov/service/specialty-vehicle-tags"
+  },
+  {
+   "id": "pride-lives-here",
+   "name": "Pride Lives Here",
+   "cat": "other",
+   "img": "pride-lives-here.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://dmv.dc.gov/service/specialty-vehicle-tags"
+  },
+  {
+   "id": "washington-wizards",
+   "name": "Washington Wizards",
+   "cat": "other",
+   "img": "washington-wizards.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://dmv.dc.gov/service/specialty-vehicle-tags"
+  },
+  {
+   "id": "we-demand-statehood",
+   "name": "We Demand Statehood",
+   "cat": "other",
+   "img": "we-demand-statehood.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://dmv.dc.gov/service/specialty-vehicle-tags"
   }
  ]
 }

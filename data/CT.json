@@ -3,7 +3,7 @@
  "name": "Connecticut",
  "rated": false,
  "checked": false,
- "updated": "2026-10-25",
+ "updated": "2026-10-26",
  "about": "Connecticut special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
  "sources": [
   {
@@ -401,6 +401,51 @@
    "name": "USS Connecticut Commissioning Committee",
    "cat": "other",
    "img": "uss-connecticut-commissioning-committee.webp"
+  },
+  {
+   "id": "woman-veteran",
+   "name": "Woman Veteran",
+   "cat": "veterans",
+   "img": "woman-veteran.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+  },
+  {
+   "id": "65th-infantry-regiment-borinqueneers",
+   "name": "65th Infantry Regiment Borinqueneers",
+   "cat": "other",
+   "img": "65th-infantry-regiment-borinqueneers.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+  },
+  {
+   "id": "uconn-huskies",
+   "name": "UConn Huskies",
+   "cat": "other",
+   "img": "uconn-huskies.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+  },
+  {
+   "id": "uconn-campus",
+   "name": "UConn Campus",
+   "cat": "other",
+   "img": "uconn-campus.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+  },
+  {
+   "id": "uconn-basketball-capital-of-the-world",
+   "name": "UConn Basketball Capital of the World",
+   "cat": "sports",
+   "img": "uconn-basketball-capital-of-the-world.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
   }
  ]
 }

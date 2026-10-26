@@ -10,42 +10,42 @@
   "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/amateurradio-mi-t.jpg": {
    "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/amateurradio-mi-t.jpg",
    "alt": "amateurradio-mi",
-   "verdict": "pending:ND-amateurradio-mi"
+   "verdict": "plate:mobility-impaired"
   },
   "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/amateurradio-t.jpg": {
    "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/amateurradio-t.jpg",
    "alt": "amateurradio",
-   "verdict": "pending:ND-amateurradio"
+   "verdict": "plate:ducks-unlimited"
   },
   "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/blackout-mc-mi-t.jpg": {
    "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/blackout-mc-mi-t.jpg",
    "alt": "blackout-mc-mi",
-   "verdict": "pending:ND-blackout-mc-mi"
+   "verdict": "rejected"
   },
   "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/blackout-mc-t.jpg": {
    "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/blackout-mc-t.jpg",
    "alt": "blackout-mc",
-   "verdict": "pending:ND-blackout-mc"
+   "verdict": "rejected"
   },
   "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/blackout-mi-t.jpg": {
    "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/blackout-mi-t.jpg",
    "alt": "blackout-mi",
-   "verdict": "pending:ND-blackout-mi"
+   "verdict": "rejected"
   },
   "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/blackout-t.jpg": {
    "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/blackout-t.jpg",
    "alt": "blackout",
-   "verdict": "pending:ND-blackout"
+   "verdict": "new:blackout"
   },
   "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/booniestomper-t.jpg": {
    "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/booniestomper-t.jpg",
    "alt": "booniestomper",
-   "verdict": "pending:ND-booniestomper"
+   "verdict": "plate:boonie-stomper"
   },
   "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/chooselife-t.jpg": {
    "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/chooselife-t.jpg",
    "alt": "chooselife",
-   "verdict": "pending:ND-chooselife"
+   "verdict": "plate:pheasants-forever"
   },
   "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/collector-t.jpg": {
    "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/collector-t.jpg",
@@ -70,7 +70,7 @@
   "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/farmersunion-t.jpg": {
    "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/farmersunion-t.jpg",
    "alt": "farmersunion",
-   "verdict": "pending:ND-farmersunion"
+   "verdict": "plate:north-dakota-farmers-union-foundation"
   },
   "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/firefighter-t.jpg": {
    "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/firefighter-t.jpg",
@@ -80,7 +80,7 @@
   "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/furryfriendsrescue-t.jpg": {
    "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/furryfriendsrescue-t.jpg",
    "alt": "furryfriendsrescue",
-   "verdict": "pending:ND-furryfriendsrescue"
+   "verdict": "plate:mobility-impaired"
   },
   "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/futurefarmers-t.jpg": {
    "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/futurefarmers-t.jpg",
@@ -105,7 +105,7 @@
   "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/militarysacrifice-t.jpg": {
    "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/militarysacrifice-t.jpg",
    "alt": "militarysacrifice",
-   "verdict": "pending:ND-militarysacrifice"
+   "verdict": "plate:gold-star-family"
   },
   "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/motorcycle-mi-t.jpg": {
    "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/motorcycle-mi-t.jpg",
@@ -120,7 +120,7 @@
   "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/motorcyclecollector-t.jpg": {
    "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/motorcyclecollector-t.jpg",
    "alt": "motorcyclecollector",
-   "verdict": "pending:ND-motorcyclecollector"
+   "verdict": "rejected"
   },
   "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/motorcyclepioneer-t.jpg": {
    "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/motorcyclepioneer-t.jpg",
@@ -140,12 +140,12 @@
   "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/ndba-t.jpg": {
    "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/ndba-t.jpg",
    "alt": "ndba",
-   "verdict": "pending:ND-ndba"
+   "verdict": "plate:nd-bowhunters-association"
   },
   "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/ndmasonicfoundation-t.jpg": {
    "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/ndmasonicfoundation-t.jpg",
    "alt": "ndmasonicfoundation",
-   "verdict": "pending:ND-ndmasonicfoundation"
+   "verdict": "plate:ducks-unlimited"
   },
   "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/ndsu-t.jpg": {
    "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/ndsu-t.jpg",
@@ -205,7 +205,7 @@
   "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/sanfordmedicalcenter-t.jpg": {
    "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/sanfordmedicalcenter-t.jpg",
    "alt": "sanfordmedicalcenter",
-   "verdict": "pending:ND-sanfordmedicalcenter"
+   "verdict": "plate:sanford-medical-center"
   },
   "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/standard-t.jpg": {
    "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/standard-t.jpg",
@@ -225,7 +225,7 @@
   "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/umary-t.jpg": {
    "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/umary-t.jpg",
    "alt": "umary",
-   "verdict": "pending:ND-umary"
+   "verdict": "plate:university-of-mary"
   },
   "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/unconventional-t.jpg": {
    "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/unconventional-t.jpg",
@@ -235,7 +235,7 @@
   "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/und-t.jpg": {
    "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/und-t.jpg",
    "alt": "und",
-   "verdict": "pending:ND-und"
+   "verdict": "plate:university-of-north-dakota"
   },
   "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/uofjamestown-t.jpg": {
    "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/uofjamestown-t.jpg",
@@ -290,12 +290,12 @@
   "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/vet-spaceforce-t.jpg": {
    "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/vet-spaceforce-t.jpg",
    "alt": "vet-spaceforce",
-   "verdict": "pending:ND-vet-spaceforce"
+   "verdict": "plate:veteran-space-force"
   },
   "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/vikingsfoundation-t.jpg": {
    "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/vikingsfoundation-t.jpg",
    "alt": "vikingsfoundation",
-   "verdict": "pending:ND-vikingsfoundation"
+   "verdict": "plate:gold-star-family"
   },
   "/dot/mv/mvrenewal/images/dot/mv/mvrenewal/popup.gif": {
    "src": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/popup.gif",

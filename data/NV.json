@@ -2,7 +2,7 @@
  "code": "NV",
  "name": "Nevada",
  "rated": false,
- "updated": "2026-10-25",
+ "updated": "2026-10-26",
  "about": "Nevada special-design plates. Not rated yet: every plate is worth the same.",
  "sources": [
   {
@@ -475,6 +475,24 @@
    "name": "Antique Truck/Truck-Tractor",
    "cat": "vehicle",
    "img": "antique-truck-truck-tractor.webp"
+  },
+  {
+   "id": "ducks-unlimited",
+   "name": "Ducks Unlimited",
+   "cat": "nature",
+   "img": "ducks-unlimited.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://dmv.nv.gov/platesmain.htm"
+  },
+  {
+   "id": "the-mob-museum",
+   "name": "The Mob Museum",
+   "cat": "charity",
+   "img": "the-mob-museum.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://dmv.nv.gov/platesmain.htm"
   }
  ]
 }

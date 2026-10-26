@@ -5,17 +5,17 @@
   "/media/0p2nqdmq/airforceveteran-plate.jpg": {
    "src": "https://dor.sd.gov/media/0p2nqdmq/airforceveteran-plate.jpg",
    "alt": "Air Force Veteran Plate",
-   "verdict": "pending:SD-air-force-veteran"
+   "verdict": "plate:air-force"
   },
   "/media/0qkflt1x/coastguardactiveduty-plate.jpg": {
    "src": "https://dor.sd.gov/media/0qkflt1x/coastguardactiveduty-plate.jpg",
    "alt": "Coast Guard Vehicle Plate",
-   "verdict": "pending:SD-coast-guard-vehicle"
+   "verdict": "plate:navy-active-duty"
   },
   "/media/1dvgspa5/coastguardveteran-plate.jpg": {
    "src": "https://dor.sd.gov/media/1dvgspa5/coastguardveteran-plate.jpg",
    "alt": "Coast Guard Veteran Plate",
-   "verdict": "pending:SD-coast-guard-veteran"
+   "verdict": "plate:coast-guard"
   },
   "/media/1rke1dof/sissetonwhapetonoyatetribeveteran-plate.png": {
    "src": "https://dor.sd.gov/media/1rke1dof/sissetonwhapetonoyatetribeveteran-plate.png",
@@ -25,7 +25,7 @@
   "/media/1sjfhjcg/womanveteranmarine-plate-optimized.jpg": {
    "src": "https://dor.sd.gov/media/1sjfhjcg/womanveteranmarine-plate-optimized.jpg",
    "alt": "Woman Veteran Marine Plate",
-   "verdict": "pending:SD-woman-veteran-marine"
+   "verdict": "plate:marine-woman-veteran"
   },
   "/media/2adhgyiq/standingrocksiouxtribeveteran-plate.png": {
    "src": "https://dor.sd.gov/media/2adhgyiq/standingrocksiouxtribeveteran-plate.png",
@@ -45,7 +45,7 @@
   "/media/a0xjbzmd/sddmvmsfv4_space-force-veteran-mc.jpg": {
    "src": "https://dor.sd.gov/media/a0xjbzmd/sddmvmsfv4_space-force-veteran-mc.jpg?rmode=max&width=215&height=93",
    "alt": "",
-   "verdict": "pending:SD-fee-x-x"
+   "verdict": "rejected"
   },
   "/media/a23hndfr/crowcreektribeveteran-plate.png": {
    "src": "https://dor.sd.gov/media/a23hndfr/crowcreektribeveteran-plate.png",
@@ -90,12 +90,12 @@
   "/media/kidpq0gt/sddmvpsfa7_space-force-active-duty8.jpg": {
    "src": "https://dor.sd.gov/media/kidpq0gt/sddmvpsfa7_space-force-active-duty8.jpg?rmode=max&width=288&height=95",
    "alt": "",
-   "verdict": "pending:SD-fee-x-x-x"
+   "verdict": "new:space-force-active-duty"
   },
   "/media/llpblmq0/womanveterannavy-plate-optimized.jpg": {
    "src": "https://dor.sd.gov/media/llpblmq0/womanveterannavy-plate-optimized.jpg",
    "alt": "Woman Veteran Marine Plate",
-   "verdict": "pending:SD-woman-veteran-marine-x"
+   "verdict": "plate:navy-woman-veteran"
   },
   "/media/m0dftck1/airforceactiveduty-motorcycleplate.jpg": {
    "src": "https://dor.sd.gov/media/m0dftck1/airforceactiveduty-motorcycleplate.jpg",
@@ -110,17 +110,17 @@
   "/media/ndehvirb/womanveterancoastguard-plate-optimized.jpg": {
    "src": "https://dor.sd.gov/media/ndehvirb/womanveterancoastguard-plate-optimized.jpg",
    "alt": "Woman Veteran Coast Guard Plate",
-   "verdict": "pending:SD-woman-veteran-coast-guard"
+   "verdict": "plate:coast-guard-woman-veteran"
   },
   "/media/nhlpvlnd/marineveteran-plate.jpg": {
    "src": "https://dor.sd.gov/media/nhlpvlnd/marineveteran-plate.jpg",
    "alt": "Marine Veteran Plate",
-   "verdict": "pending:SD-marine-veteran"
+   "verdict": "plate:marine"
   },
   "/media/nj3fxhd0/sddmvpsfv7_space-force-veteran.jpg": {
    "src": "https://dor.sd.gov/media/nj3fxhd0/sddmvpsfv7_space-force-veteran.jpg?rmode=max&width=194&height=97",
    "alt": "",
-   "verdict": "pending:SD-fee"
+   "verdict": "new:space-force-veteran"
   },
   "/media/nwjhnevv/navyveteran-motorcycleplate.jpg": {
    "src": "https://dor.sd.gov/media/nwjhnevv/navyveteran-motorcycleplate.jpg",
@@ -135,12 +135,12 @@
   "/media/p4hkc0od/womanveteranarmy-plate-optimized.jpg": {
    "src": "https://dor.sd.gov/media/p4hkc0od/womanveteranarmy-plate-optimized.jpg",
    "alt": "Woman Veteran Army Plate",
-   "verdict": "pending:SD-woman-veteran-army"
+   "verdict": "plate:army-woman-veteran"
   },
   "/media/rcveh4oo/armyactiveduty-plate.jpg": {
    "src": "https://dor.sd.gov/media/rcveh4oo/armyactiveduty-plate.jpg",
    "alt": "Army Vehicle Plate",
-   "verdict": "pending:SD-army-vehicle"
+   "verdict": "plate:coast-guard-active-duty"
   },
   "/media/roqfj3xk/coastguardactiveduty-motorcycleplate.jpg": {
    "src": "https://dor.sd.gov/media/roqfj3xk/coastguardactiveduty-motorcycleplate.jpg",
@@ -150,12 +150,12 @@
   "/media/rv3dfzdf/navyactiveduty-plate.jpg": {
    "src": "https://dor.sd.gov/media/rv3dfzdf/navyactiveduty-plate.jpg",
    "alt": "Navy Vehicle Plate",
-   "verdict": "pending:SD-navy-vehicle"
+   "verdict": "plate:coast-guard-active-duty"
   },
   "/media/uooby455/air-forceactiveduty-plate.jpg": {
    "src": "https://dor.sd.gov/media/uooby455/air-forceactiveduty-plate.jpg",
    "alt": "Air Force Vehicle Plate",
-   "verdict": "pending:SD-air-force-vehicle"
+   "verdict": "plate:air-force-active-duty"
   },
   "/media/uv2muksk/flandreausiouxtribeveteran-plate.png": {
    "src": "https://dor.sd.gov/media/uv2muksk/flandreausiouxtribeveteran-plate.png",
@@ -165,27 +165,27 @@
   "/media/vc0ddelr/sddmvmsfa4_space-force-active-duty-mc.jpg": {
    "src": "https://dor.sd.gov/media/vc0ddelr/sddmvmsfa4_space-force-active-duty-mc.jpg?rmode=max&width=249&height=93",
    "alt": "",
-   "verdict": "pending:SD-fee-x-x-x-x"
+   "verdict": "rejected"
   },
   "/media/vcxduqfc/marineactiveduty-plate.jpg": {
    "src": "https://dor.sd.gov/media/vcxduqfc/marineactiveduty-plate.jpg",
    "alt": "Marine Vehicle Plate",
-   "verdict": "pending:SD-marine-vehicle"
+   "verdict": "plate:marine"
   },
   "/media/wxcmnwcu/navyveteran-plate.jpg": {
    "src": "https://dor.sd.gov/media/wxcmnwcu/navyveteran-plate.jpg",
    "alt": "Navy Veteran Plate",
-   "verdict": "pending:SD-navy-veteran"
+   "verdict": "plate:navy"
   },
   "/media/xcwpz1vg/armyveteran-plate.jpg": {
    "src": "https://dor.sd.gov/media/xcwpz1vg/armyveteran-plate.jpg",
    "alt": "Army Veteran Plate",
-   "verdict": "pending:SD-army-veteran"
+   "verdict": "plate:army"
   },
   "/media/z4vhw1j2/sddmvpsfw7_space-force-woman-veteran.jpg": {
    "src": "https://dor.sd.gov/media/z4vhw1j2/sddmvpsfw7_space-force-woman-veteran.jpg?rmode=max&width=249&height=91",
    "alt": "",
-   "verdict": "pending:SD-fee-x"
+   "verdict": "new:space-force-woman-veteran"
   },
   "/media/zbrdc14y/rosebudsiouxtribeveteran-plate.png": {
    "src": "https://dor.sd.gov/media/zbrdc14y/rosebudsiouxtribeveteran-plate.png",

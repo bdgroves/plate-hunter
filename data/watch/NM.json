@@ -5,12 +5,12 @@
   "/wp-content/uploads/2020/12/064920c8ecccec6d48a2e8964973bd98.png": {
    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/064920c8ecccec6d48a2e8964973bd98.png",
    "alt": "New Mexico Highlands University",
-   "verdict": "pending:NM-mexico-highlands-university"
+   "verdict": "plate:new-mexico-highlands-university"
   },
   "/wp-content/uploads/2020/12/1d21ab21dc23273bea610288494ff274.png": {
    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/1d21ab21dc23273bea610288494ff274.png",
    "alt": "Marine Veteran sample license plate",
-   "verdict": "pending:NM-marine-veteran"
+   "verdict": "plate:marine-veteran"
   },
   "/wp-content/uploads/2020/12/23e082341277b9207bd409871e4b833e.png": {
    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/23e082341277b9207bd409871e4b833e.png",
@@ -25,32 +25,32 @@
   "/wp-content/uploads/2020/12/356cef53a3d057ba0934dd561175e21a.png": {
    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/356cef53a3d057ba0934dd561175e21a.png",
    "alt": "New Mexico State University sample license plate",
-   "verdict": "pending:NM-mexico-state-university"
+   "verdict": "plate:new-mexico-state-university"
   },
   "/wp-content/uploads/2020/12/3da590eb86738f1ba03200046733a592.png": {
    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/3da590eb86738f1ba03200046733a592.png",
    "alt": "Central New Mexico Community College sample license plate",
-   "verdict": "pending:NM-central-mexico-community-college"
+   "verdict": "plate:central-new-mexico-community-college"
   },
   "/wp-content/uploads/2020/12/6983a995fed5f944dda55ad7a9be8ceb.png": {
    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/6983a995fed5f944dda55ad7a9be8ceb.png",
    "alt": "Navy Veteran License Plate",
-   "verdict": "pending:NM-navy-veteran"
+   "verdict": "plate:navy-veteran"
   },
   "/wp-content/uploads/2020/12/6fc32814e516c40c7b87701d2697e96e.png": {
    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/6fc32814e516c40c7b87701d2697e96e.png",
    "alt": "Eastern New Mexico University License Plate",
-   "verdict": "pending:NM-eastern-mexico-university"
+   "verdict": "plate:eastern-new-mexico-university"
   },
   "/wp-content/uploads/2020/12/7bd7f69cbeece0c2fe915d205c299838.png": {
    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/7bd7f69cbeece0c2fe915d205c299838.png",
    "alt": "New Mexico Military Institute License Plate",
-   "verdict": "pending:NM-mexico-military-institute"
+   "verdict": "plate:new-mexico-military-institute"
   },
   "/wp-content/uploads/2020/12/81379eaba81a3470dabe1324d370a97f.png": {
    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/81379eaba81a3470dabe1324d370a97f.png",
    "alt": "Coast Guard Veteran License Plate",
-   "verdict": "pending:NM-coast-guard-veteran"
+   "verdict": "plate:coast-guard-veteran"
   },
   "/wp-content/uploads/2020/12/8bdbbba758673a6e69c0d32e313d5974.png": {
    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/8bdbbba758673a6e69c0d32e313d5974.png",
@@ -60,7 +60,7 @@
   "/wp-content/uploads/2020/12/Adopt-a-Child-License-Plate.png": {
    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/Adopt-a-Child-License-Plate.png",
    "alt": "Adopt a Child License Plate Image",
-   "verdict": "pending:NM-adopt-a-child"
+   "verdict": "plate:adopt-a-child"
   },
   "/wp-content/uploads/2020/12/Autism-300-2pt1.jpg": {
    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/Autism-300-2pt1.jpg",
@@ -100,7 +100,7 @@
   "/wp-content/uploads/2020/12/Emergency-Medical-Technicians-License-Plate.png": {
    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/Emergency-Medical-Technicians-License-Plate.png",
    "alt": "Emergency Medical Technicians License Plate Picture",
-   "verdict": "pending:NM-emergency-medical-technicians-picture"
+   "verdict": "plate:emergency-medical-technicians-emt"
   },
   "/wp-content/uploads/2020/12/FarmRanch.jpg": {
    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/FarmRanch.jpg",
@@ -115,7 +115,7 @@
   "/wp-content/uploads/2020/12/Fraternal-Order-of-Police-Liscence-Plate.png": {
    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/Fraternal-Order-of-Police-Liscence-Plate.png",
    "alt": "Picture of Fraternal Order of Police License Plate",
-   "verdict": "pending:NM-picture-of-fraternal-order-of-police"
+   "verdict": "plate:fraternal-order-of-police"
   },
   "/wp-content/uploads/2020/12/GoldStar.jpg": {
    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/GoldStar.jpg",
@@ -165,12 +165,12 @@
   "/wp-content/uploads/2020/12/Pollinator-Protection-License-Plate.png": {
    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/Pollinator-Protection-License-Plate.png",
    "alt": "Pollinator Protection License Plate Image",
-   "verdict": "pending:NM-pollinator-protection"
+   "verdict": "plate:pollinator-protection"
   },
   "/wp-content/uploads/2020/12/Radio-Operator-License-Plate.png": {
    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/Radio-Operator-License-Plate.png",
    "alt": "Amateur radio operator sample license plate",
-   "verdict": "pending:NM-amateur-radio-operator"
+   "verdict": "plate:amateur-radio-operator"
   },
   "/wp-content/uploads/2020/12/RetSP-1.jpg": {
    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/RetSP-1.jpg",
@@ -185,7 +185,7 @@
   "/wp-content/uploads/2020/12/Retired-NM-Law-Enforcement-License-Plate.png": {
    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/Retired-NM-Law-Enforcement-License-Plate.png",
    "alt": "Picture of Retired Law Enforcement License Plate",
-   "verdict": "pending:NM-picture-of-retired-law-enforcement"
+   "verdict": "plate:retired-law-enforcement"
   },
   "/wp-content/uploads/2020/12/Route-66-License-Plate.png": {
    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/Route-66-License-Plate.png",
@@ -200,7 +200,7 @@
   "/wp-content/uploads/2020/12/Standard-Red-and-Yellow-License-Plate.png": {
    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/Standard-Red-and-Yellow-License-Plate.png",
    "alt": "Standard Red and Yellow License Plate",
-   "verdict": "pending:NM-standard-red-and-yellow"
+   "verdict": "plate:pollinator-protection"
   },
   "/wp-content/uploads/2020/12/TurquoiseNM100-1.jpg": {
    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/TurquoiseNM100-1.jpg",
@@ -230,12 +230,12 @@
   "/wp-content/uploads/2020/12/a80867b7b81c86a24145980c66d6492d.png": {
    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/a80867b7b81c86a24145980c66d6492d.png",
    "alt": "Active Duty National Guard License Plate",
-   "verdict": "pending:NM-active-duty-national-guard"
+   "verdict": "plate:active-duty-national-guard"
   },
   "/wp-content/uploads/2020/12/af0720cf9e0964ca89030bf7ba05eaf6.png": {
    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/af0720cf9e0964ca89030bf7ba05eaf6.png",
    "alt": "University of New Mexico License Plate",
-   "verdict": "pending:NM-university-of-mexico"
+   "verdict": "plate:university-of-new-mexico"
   },
   "/wp-content/uploads/2020/12/c6ebc0743f5a27dc93381acca97041ae.png": {
    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/c6ebc0743f5a27dc93381acca97041ae.png",
@@ -245,7 +245,7 @@
   "/wp-content/uploads/2020/12/d43d400a580739e9f0a79668392406da.png": {
    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/d43d400a580739e9f0a79668392406da.png",
    "alt": "New Mexico Junior College License Plate",
-   "verdict": "pending:NM-mexico-junior-college"
+   "verdict": "plate:new-mexico-junior-college"
   },
   "/wp-content/uploads/2020/12/handicapped_license_plate.png": {
    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/handicapped_license_plate.png",
@@ -260,17 +260,17 @@
   "/wp-content/uploads/2020/12/vanity_license_plate.png": {
    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/vanity_license_plate.png",
    "alt": "Red and Yellow vanity license plate",
-   "verdict": "pending:NM-red-and-yellow-vanity"
+   "verdict": "plate:red-yellow-prestige"
   },
   "/wp-content/uploads/2021/01/Santa_fe_400th_anniversary.png": {
    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2021/01/Santa_fe_400th_anniversary.png",
    "alt": "Santa Fe 400th Anniversary license plate",
-   "verdict": "pending:NM-santa-fe-400th-anniversary"
+   "verdict": "plate:santa-fe-400th-anniversary"
   },
   "/wp-content/uploads/2021/01/Wildlife-Artwork-license-plate.png": {
    "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2021/01/Wildlife-Artwork-license-plate.png",
    "alt": "Wildlife Artwork sample license plate",
-   "verdict": "pending:NM-wildlife-artwork"
+   "verdict": "plate:wildlife-artwork"
   }
  },
  "checked": "2026-10-26"

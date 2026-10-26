@@ -20,32 +20,32 @@
   "/plates/auto.Deepintheheart.png": {
    "src": "https://cdn.myplates.com/plates/auto.Deepintheheart.png",
    "alt": "Deep in the Heart Flag",
-   "verdict": "pending:TX-deep-in-the-heart-flag"
+   "verdict": "plate:deep-in-the-heart-flag"
   },
   "/plates/auto.Embossed_CarbonFiber.png": {
    "src": "https://cdn.myplates.com/plates/auto.Embossed_CarbonFiber.png",
    "alt": "Carbon Fiber Premium Embossed",
-   "verdict": "pending:TX-carbon-fiber-premium-embossed"
+   "verdict": "rejected"
   },
   "/plates/auto.LoneStar1836.png": {
    "src": "https://cdn.myplates.com/plates/auto.LoneStar1836.png",
    "alt": "Lone Star 1836",
-   "verdict": "pending:TX-lone-star-1836"
+   "verdict": "plate:lone-star-1836"
   },
   "/plates/auto.LoveHeartBlack.png": {
    "src": "https://cdn.myplates.com/plates/auto.LoveHeartBlack.png",
    "alt": "Love Heart Black",
-   "verdict": "pending:TX-love-heart-black"
+   "verdict": "plate:love-heart-black"
   },
   "/plates/auto.MightyFineBurgers.png": {
    "src": "https://cdn.myplates.com/plates/auto.MightyFineBurgers.png",
    "alt": "Mighty Fine Burgers",
-   "verdict": "pending:TX-mighty-fine-burgers"
+   "verdict": "plate:mighty-fine-burgers"
   },
   "/plates/auto.T_Silver.png": {
    "src": "https://cdn.myplates.com/plates/auto.T_Silver.png",
    "alt": "Texas Silver 1836",
-   "verdict": "pending:TX-texas-silver-1836"
+   "verdict": "plate:texas-silver-1836"
   }
  },
  "checked": "2026-10-26"

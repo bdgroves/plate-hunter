@@ -5,12 +5,12 @@
   "/sites/default/files/dc/shared_assets/BOW13_final.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/shared_assets/BOW13_final.jpg",
    "alt": "Best of the Web logo 2013",
-   "verdict": "pending:DC-best-of-the-logo-2013-x"
+   "verdict": "rejected"
   },
   "/sites/default/files/dc/shared_assets/BOW14_Winner.png": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/shared_assets/BOW14_Winner.png",
    "alt": "Best of the Web logo 2014",
-   "verdict": "pending:DC-best-of-the-logo-2014-x"
+   "verdict": "rejected"
   },
   "/sites/default/files/dc/shared_assets/access-symbol-international_75x75.png": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/shared_assets/access-symbol-international_75x75.png",
@@ -25,32 +25,32 @@
   "/sites/default/files/dc/sites/dmv/Combat%20Wounded%20Veteran%20updated%20updated.png": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/Combat%20Wounded%20Veteran%20updated%20updated.png",
    "alt": "",
-   "verdict": "pending:DC-combat-wounded-veteran-purple-heart-tags"
+   "verdict": "new:combat-wounded-veteran"
   },
   "/sites/default/files/dc/sites/dmv/Pride%20Lives%20Here%20Update.png": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/Pride%20Lives%20Here%20Update.png",
    "alt": "Pride Lives Here Vehicle Tags",
-   "verdict": "pending:DC-pride-lives-here-vehicle-tags"
+   "verdict": "new:pride-lives-here"
   },
   "/sites/default/files/dc/sites/dmv/Washington%20Wizards%20Vehicle%20Tags_.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/Washington%20Wizards%20Vehicle%20Tags_.jpg",
    "alt": "Washington Wizards Vehicle Tags",
-   "verdict": "pending:DC-washington-wizards-vehicle-tags"
+   "verdict": "new:washington-wizards"
   },
   "/sites/default/files/dc/sites/dmv/Washington_Nationals_Vehicle_Tags.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/Washington_Nationals_Vehicle_Tags.jpg",
    "alt": "Washington Nationals Vehicle Tags",
-   "verdict": "pending:DC-washington-nationals-vehicle-tags"
+   "verdict": "plate:washington-nationals-note-it-is-not-nece"
   },
   "/sites/default/files/dc/sites/dmv/WeDemandStatehoodTags3.png": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/WeDemandStatehoodTags3.png",
    "alt": "We Demand Statehood Vehicle Tags",
-   "verdict": "pending:DC-we-demand-statehood-vehicle-tags"
+   "verdict": "new:we-demand-statehood"
   },
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20%20dc%20veteran%20tag.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20%20dc%20veteran%20tag.jpg",
    "alt": "DC DMV DC Veteran Tag",
-   "verdict": "pending:DC-dc-dmv-dc-veteran-tag"
+   "verdict": "plate:dc-veteran"
   },
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20anacostia%20river%20commemorative%20tag.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20anacostia%20river%20commemorative%20tag.jpg",
@@ -65,7 +65,7 @@
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20dc%20woman%20veteran%20tag.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20dc%20woman%20veteran%20tag.jpg",
    "alt": "DC DMV Breast Cancer Awareness Tag",
-   "verdict": "pending:DC-dc-dmv-breast-cancer-awareness-tag"
+   "verdict": "plate:dc-veteran"
   },
   "/sites/default/files/dc/sites/dmv/dc%20dmv%20disabled%20american%20veteran%20tags.jpg": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/dc%20dmv%20disabled%20american%20veteran%20tags.jpg",
@@ -80,7 +80,7 @@
   "/sites/default/files/dc/sites/dmv/featured_content/images/Vision%20Zero%20Tags%202.png": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/featured_content/images/Vision%20Zero%20Tags%202.png",
    "alt": "Vision Zero Bicycle Awareness Tags",
-   "verdict": "pending:DC-vision-zero-bicycle-awareness-tags"
+   "verdict": "plate:bicycle-awareness"
   },
   "/sites/default/files/dc/sites/dmv/page_content/images/Washington%20Mystics%20Tags.png": {
    "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/page_content/images/Washington%20Mystics%20Tags.png",

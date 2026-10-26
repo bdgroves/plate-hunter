@@ -3,7 +3,7 @@
  "name": "Ohio",
  "rated": false,
  "checked": false,
- "updated": "2026-10-25",
+ "updated": "2026-10-26",
  "about": "Ohio special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
  "sources": [
   {
@@ -1583,6 +1583,69 @@
    "name": "Zeta Phi Beta",
    "cat": "other",
    "img": "zeta-phi-beta.webp"
+  },
+  {
+   "id": "shriners-antioch-shrine",
+   "name": "Shriners (Antioch Shrine)",
+   "cat": "hobby",
+   "img": "shriners-antioch-shrine.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.bmv.ohio.gov/vr-sp-geninfo.aspx"
+  },
+  {
+   "id": "beaver-creek-wetlands",
+   "name": "Beaver Creek Wetlands",
+   "cat": "nature",
+   "img": "beaver-creek-wetlands.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.bmv.ohio.gov/vr-sp-geninfo.aspx"
+  },
+  {
+   "id": "dayton-dragons",
+   "name": "Dayton Dragons",
+   "cat": "other",
+   "img": "dayton-dragons.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.bmv.ohio.gov/vr-sp-geninfo.aspx"
+  },
+  {
+   "id": "dolly-parton-s-imagination-library",
+   "name": "Dolly Parton's Imagination Library",
+   "cat": "charity",
+   "img": "dolly-parton-s-imagination-library.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.bmv.ohio.gov/vr-sp-geninfo.aspx"
+  },
+  {
+   "id": "dublin-city-schools",
+   "name": "Dublin City Schools",
+   "cat": "charity",
+   "img": "dublin-city-schools.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.bmv.ohio.gov/vr-sp-geninfo.aspx"
+  },
+  {
+   "id": "honoring-fallen-lineworkers",
+   "name": "Honoring Fallen Lineworkers",
+   "cat": "other",
+   "img": "honoring-fallen-lineworkers.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.bmv.ohio.gov/vr-sp-geninfo.aspx"
+  },
+  {
+   "id": "harrison-central-huskies",
+   "name": "Harrison Central Huskies",
+   "cat": "other",
+   "img": "harrison-central-huskies.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.bmv.ohio.gov/vr-sp-geninfo.aspx"
   }
  ]
 }

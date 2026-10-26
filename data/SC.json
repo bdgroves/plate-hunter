@@ -3,7 +3,7 @@
  "name": "South Carolina",
  "rated": false,
  "checked": false,
- "updated": "2026-10-25",
+ "updated": "2026-10-26",
  "about": "South Carolina special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
  "sources": [
   {
@@ -1313,6 +1313,69 @@
    "name": "Zeta Phi Beta",
    "cat": "other",
    "img": "zeta-phi-beta.webp"
+  },
+  {
+   "id": "air-force-cross",
+   "name": "Air Force Cross",
+   "cat": "military",
+   "img": "air-force-cross.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.scdmvonline.com/Vehicle-Owners/Registration/Plate-Gallery"
+  },
+  {
+   "id": "army-warrant-officer",
+   "name": "Army Warrant Officer",
+   "cat": "military",
+   "img": "army-warrant-officer.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.scdmvonline.com/Vehicle-Owners/Registration/Plate-Gallery"
+  },
+  {
+   "id": "association-for-pupil-transportation",
+   "name": "Association for Pupil Transportation",
+   "cat": "charity",
+   "img": "association-for-pupil-transportation.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.scdmvonline.com/Vehicle-Owners/Registration/Plate-Gallery"
+  },
+  {
+   "id": "autistic-neurodivergent",
+   "name": "Autistic / Neurodivergent",
+   "cat": "other",
+   "img": "autistic-neurodivergent.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.scdmvonline.com/Vehicle-Owners/Registration/Plate-Gallery"
+  },
+  {
+   "id": "back-the-badge",
+   "name": "Back the Badge",
+   "cat": "other",
+   "img": "back-the-badge.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.scdmvonline.com/Vehicle-Owners/Registration/Plate-Gallery"
+  },
+  {
+   "id": "beekeepers-association",
+   "name": "Beekeepers Association",
+   "cat": "charity",
+   "img": "beekeepers-association.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.scdmvonline.com/Vehicle-Owners/Registration/Plate-Gallery"
+  },
+  {
+   "id": "catawba-nation",
+   "name": "Catawba Nation",
+   "cat": "tribal",
+   "img": "catawba-nation.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.scdmvonline.com/Vehicle-Owners/Registration/Plate-Gallery"
   }
  ]
 }

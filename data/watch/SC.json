@@ -5,157 +5,157 @@
   "/sites/scdmv/files/2025-12/Catawba%20Nation.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/2025-12/Catawba%20Nation.png",
    "alt": "Catawba Nation Plate",
-   "verdict": "pending:SC-catawba-nation"
+   "verdict": "new:catawba-nation"
   },
   "/sites/scdmv/files/media/Images/Plates/AND-plate.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/AND-plate.png",
    "alt": "Autistic / Neurodivergent License Plate",
-   "verdict": "pending:SC-autistic-neurodivergent"
+   "verdict": "new:autistic-neurodivergent"
   },
   "/sites/scdmv/files/media/Images/Plates/Air-Force-Cross-HiRes.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Air-Force-Cross-HiRes.png",
    "alt": "Air Force Cross",
-   "verdict": "pending:SC-air-force-cross"
+   "verdict": "new:air-force-cross"
   },
   "/sites/scdmv/files/media/Images/Plates/Air-Force-Distinguished-Service-Cross.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Air-Force-Distinguished-Service-Cross.png",
    "alt": "Air Force Distinguished Service Cross plate",
-   "verdict": "pending:SC-air-force-distinguished-service-cross"
+   "verdict": "plate:air-force-distinguished-service-cross"
   },
   "/sites/scdmv/files/media/Images/Plates/Allen-University.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Allen-University.png",
    "alt": "Plate Image",
-   "verdict": "pending:SC-allen-university"
+   "verdict": "plate:allen-university"
   },
   "/sites/scdmv/files/media/Images/Plates/Alpha-Kappa-Alpha-Sorority.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Alpha-Kappa-Alpha-Sorority.png",
    "alt": "Plate Image",
-   "verdict": "pending:SC-alpha-kappa-alpha-sorority-inc"
+   "verdict": "plate:alpha-kappa-alpha-sorority-inc"
   },
   "/sites/scdmv/files/media/Images/Plates/Alpha-Phi-Alpha.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Alpha-Phi-Alpha.png",
    "alt": "Plate Image",
-   "verdict": "pending:SC-alpha-phi-alpha-fraternity"
+   "verdict": "plate:alpha-phi-alpha-fraternity"
   },
   "/sites/scdmv/files/media/Images/Plates/Amateur-Radio.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Amateur-Radio.png",
    "alt": "Plate Image",
-   "verdict": "pending:SC-amateur-radio"
+   "verdict": "plate:amateur-radio"
   },
   "/sites/scdmv/files/media/Images/Plates/American-Red-Cross.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/American-Red-Cross.png",
    "alt": "Plate Image",
-   "verdict": "pending:SC-american-red-cross"
+   "verdict": "plate:american-red-cross"
   },
   "/sites/scdmv/files/media/Images/Plates/Ancient-Free-Masons.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Ancient-Free-Masons.png",
    "alt": "Plate Image",
-   "verdict": "pending:SC-ancient-free-masons"
+   "verdict": "plate:ancient-free-masons"
   },
   "/sites/scdmv/files/media/Images/Plates/Anderson-University.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Anderson-University.png",
    "alt": "Anderson University",
-   "verdict": "pending:SC-anderson-university"
+   "verdict": "plate:anderson-university"
   },
   "/sites/scdmv/files/media/Images/Plates/Antique-Auto.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Antique-Auto.png",
    "alt": "Plate Image",
-   "verdict": "pending:SC-antique"
+   "verdict": "plate:antique"
   },
   "/sites/scdmv/files/media/Images/Plates/Appalachian-State.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Appalachian-State.png",
    "alt": "Plate Image",
-   "verdict": "pending:SC-appalachian-state-university"
+   "verdict": "plate:appalachian-state-university"
   },
   "/sites/scdmv/files/media/Images/Plates/Army-Distinguished-Service-Cross.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Army-Distinguished-Service-Cross.png",
    "alt": "Army Distiguished Service Cross",
-   "verdict": "pending:SC-army-distiguished-service-cross"
+   "verdict": "rejected"
   },
   "/sites/scdmv/files/media/Images/Plates/Army-Distinguished-Service.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Army-Distinguished-Service.png",
    "alt": "Plate Image",
-   "verdict": "pending:SC-army-distinguished-service-medal"
+   "verdict": "plate:army-distinguished-service-medal"
   },
   "/sites/scdmv/files/media/Images/Plates/Association-for-Pupil-Transportation.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Association-for-Pupil-Transportation.png",
    "alt": "Association for Pupil Transportation Plate",
-   "verdict": "pending:SC-association-for-pupil-transportation"
+   "verdict": "new:association-for-pupil-transportation"
   },
   "/sites/scdmv/files/media/Images/Plates/Auburn.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Auburn.png",
    "alt": "Plate Image",
-   "verdict": "pending:SC-auburn-university"
+   "verdict": "plate:auburn-university"
   },
   "/sites/scdmv/files/media/Images/Plates/Autism-Awareness.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Autism-Awareness.png",
    "alt": "Plate Image",
-   "verdict": "pending:SC-autism-awareness"
+   "verdict": "plate:autism-awareness"
   },
   "/sites/scdmv/files/media/Images/Plates/Back-The-Badge.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Back-The-Badge.png",
    "alt": "Back the Badge",
-   "verdict": "pending:SC-back-the-badge"
+   "verdict": "new:back-the-badge"
   },
   "/sites/scdmv/files/media/Images/Plates/Beaufort-Water-Festival.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Beaufort-Water-Festival.png",
    "alt": "Plate Image",
-   "verdict": "pending:SC-beaufort-water-festival"
+   "verdict": "plate:beaufort-water-festival"
   },
   "/sites/scdmv/files/media/Images/Plates/Beekeepers-Association.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Beekeepers-Association.png",
    "alt": "Beekeepers Association License Plate",
-   "verdict": "pending:SC-beekeepers-association"
+   "verdict": "new:beekeepers-association"
   },
   "/sites/scdmv/files/media/Images/Plates/Benedict-College.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Benedict-College.png",
    "alt": "Benedict College",
-   "verdict": "pending:SC-benedict-college"
+   "verdict": "plate:benedict-college"
   },
   "/sites/scdmv/files/media/Images/Plates/Bob-Jones-University.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Bob-Jones-University.png",
    "alt": "Bob Jones University",
-   "verdict": "pending:SC-bob-jones-university"
+   "verdict": "plate:bob-jones-university"
   },
   "/sites/scdmv/files/media/Images/Plates/Boy-Scouts-of-America.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Boy-Scouts-of-America.png",
    "alt": "Boy Scouts",
-   "verdict": "pending:SC-boy-scouts"
+   "verdict": "rejected"
   },
   "/sites/scdmv/files/media/Images/Plates/Boykin-Spaniel-Foundation.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Boykin-Spaniel-Foundation.png",
    "alt": "Boykin Spaniel",
-   "verdict": "pending:SC-boykin-spaniel"
+   "verdict": "rejected"
   },
   "/sites/scdmv/files/media/Images/Plates/Breast-Cancer-Awareness.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Breast-Cancer-Awareness.png",
    "alt": "Breast Cancer",
-   "verdict": "pending:SC-breast-cancer"
+   "verdict": "rejected"
   },
   "/sites/scdmv/files/media/Images/Plates/Bronze-Star.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Bronze-Star.png",
    "alt": "Bronze Star plate",
-   "verdict": "pending:SC-bronze-star"
+   "verdict": "plate:bronze-star"
   },
   "/sites/scdmv/files/media/Images/Plates/Camp-Sertoma.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Camp-Sertoma.png",
    "alt": "Camp Sertoma",
-   "verdict": "pending:SC-camp-sertoma"
+   "verdict": "plate:camp-sertoma"
   },
   "/sites/scdmv/files/media/Images/Plates/Carolina-Panthers.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Carolina-Panthers.png",
    "alt": "Carolina Panthers",
-   "verdict": "pending:SC-carolina-panthers"
+   "verdict": "plate:carolina-panthers"
   },
   "/sites/scdmv/files/media/Images/Plates/Charleston-Southern-University.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Charleston-Southern-University.png",
    "alt": "Charleston Southern University plate",
-   "verdict": "pending:SC-charleston-southern-university"
+   "verdict": "plate:charleston-southern-university"
   },
   "/sites/scdmv/files/media/Images/Plates/Chase-Away-Childhood-Cancer.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Chase-Away-Childhood-Cancer.png",
    "alt": "Chase Away Childhood Cancer",
-   "verdict": "pending:SC-chase-away-childhood-cancer"
+   "verdict": "plate:chase-away-childhood-cancer"
   },
   "/sites/scdmv/files/media/Images/Plates/Motorcycle-Awareness-Alliance.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Motorcycle-Awareness-Alliance.png",
@@ -170,47 +170,47 @@
   "/sites/scdmv/files/media/Images/Plates/New-Military-Images/Air-Medal.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/New-Military-Images/Air-Medal.png",
    "alt": "Air Medal",
-   "verdict": "pending:SC-air-medal"
+   "verdict": "plate:air-medal"
   },
   "/sites/scdmv/files/media/Images/Plates/New-Military-Images/Air-National-Guard.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/New-Military-Images/Air-National-Guard.png",
    "alt": "Air National Guard",
-   "verdict": "pending:SC-air-national-guard"
+   "verdict": "plate:air-national-guard"
   },
   "/sites/scdmv/files/media/Images/Plates/New-Military-Images/Army-National-Guard.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/New-Military-Images/Army-National-Guard.png",
    "alt": "Air National Guard",
-   "verdict": "pending:SC-air-national-guard-x"
+   "verdict": "plate:air-national-guard"
   },
   "/sites/scdmv/files/media/Images/Plates/New-Military-Images/Army-Warrant-Officer.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/New-Military-Images/Army-Warrant-Officer.png",
    "alt": "Army Warrant Officer",
-   "verdict": "pending:SC-army-warrant-officer"
+   "verdict": "new:army-warrant-officer"
   },
   "/sites/scdmv/files/media/Images/Plates/New-Military-Images/Army.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/New-Military-Images/Army.png",
    "alt": "Army",
-   "verdict": "pending:SC-army"
+   "verdict": "plate:army"
   },
   "/sites/scdmv/files/media/Images/Plates/New-Military-Images/SC-Bronze-Star-with-Valor_BV_DLP.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/New-Military-Images/SC-Bronze-Star-with-Valor_BV_DLP.png",
    "alt": "Bronze Star with Valor",
-   "verdict": "pending:SC-bronze-star-with-valor"
+   "verdict": "plate:bronze-star-with-valor"
   },
   "/sites/scdmv/files/media/Images/Plates/New-Military-Images/SC-US-Air-Force-11-15-21-AE-DLP.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/New-Military-Images/SC-US-Air-Force-11-15-21-AE-DLP.png",
    "alt": "Air Force",
-   "verdict": "pending:SC-air-force"
+   "verdict": "plate:air-force"
   },
   "/sites/scdmv/files/media/Images/Plates/No-Kill-SC-2024-Charleston-Animal-Society.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/No-Kill-SC-2024-Charleston-Animal-Society.png",
    "alt": "Charleston Animal Society",
-   "verdict": "pending:SC-charleston-animal-society"
+   "verdict": "plate:charleston-animal-society"
   },
   "/sites/scdmv/files/media/Images/Plates/SC-250-Year-Anniversary-Revolutionary-War.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/SC-250-Year-Anniversary-Revolutionary-War.png",
    "alt": "Revolutionary War Plate",
-   "verdict": "pending:SC-revolutionary-war"
+   "verdict": "plate:250th-year-anniversary-revolutionary-war"
   }
  },
  "checked": "2026-10-26"

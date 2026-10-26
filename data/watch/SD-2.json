@@ -5,17 +5,17 @@
   "/media/0rsnlms1/pearlharborsurvivor-plate.jpg": {
    "src": "https://dor.sd.gov/media/0rsnlms1/pearlharborsurvivor-plate.jpg",
    "alt": "Pearl Harbor Survivor Plate",
-   "verdict": "pending:SD-pearl-harbor-survivor"
+   "verdict": "plate:pearl-harbor-survivor"
   },
   "/media/2m0fxdv1/navycross-plate.jpg": {
    "src": "https://dor.sd.gov/media/2m0fxdv1/navycross-plate.jpg",
    "alt": "Navy Cross Plate",
-   "verdict": "pending:SD-navy-cross"
+   "verdict": "plate:navy-cross"
   },
   "/media/3c0hmujg/disabledveteran-plate.jpg": {
    "src": "https://dor.sd.gov/media/3c0hmujg/disabledveteran-plate.jpg",
    "alt": "Disabled Veteran Plate",
-   "verdict": "pending:SD-disabled-veteran"
+   "verdict": "plate:disabled-veteran"
   },
   "/media/4drixx0y/prisonerofwar-motorcycleplate.jpg": {
    "src": "https://dor.sd.gov/media/4drixx0y/prisonerofwar-motorcycleplate.jpg",
@@ -30,7 +30,7 @@
   "/media/5rdlwgnt/goldstar-plate.jpg": {
    "src": "https://dor.sd.gov/media/5rdlwgnt/goldstar-plate.jpg",
    "alt": "Gold Star Plate",
-   "verdict": "pending:SD-gold-star"
+   "verdict": "plate:gold-star"
   },
   "/media/5s3mbp1m/purpleheart-motorcycleplate.jpg": {
    "src": "https://dor.sd.gov/media/5s3mbp1m/purpleheart-motorcycleplate.jpg",
@@ -40,7 +40,7 @@
   "/media/eb1lqm3c/nationalguard-plate.jpg": {
    "src": "https://dor.sd.gov/media/eb1lqm3c/nationalguard-plate.jpg",
    "alt": "National Guard Plate",
-   "verdict": "pending:SD-national-guard"
+   "verdict": "plate:national-guard"
   },
   "/media/gr4pkdze/bronzestar-motorcycleplate.jpg": {
    "src": "https://dor.sd.gov/media/gr4pkdze/bronzestar-motorcycleplate.jpg",
@@ -50,22 +50,22 @@
   "/media/hkhhfmwm/distinguishedservicecross-plate.jpg": {
    "src": "https://dor.sd.gov/media/hkhhfmwm/distinguishedservicecross-plate.jpg",
    "alt": "Distinguished Service Cross Plate",
-   "verdict": "pending:SD-distinguished-service-cross"
+   "verdict": "plate:distinguished-service-cross"
   },
   "/media/l0pkuejb/bronzestar-plate.jpg": {
    "src": "https://dor.sd.gov/media/l0pkuejb/bronzestar-plate.jpg",
    "alt": "Bronze Star Plate",
-   "verdict": "pending:SD-bronze-star"
+   "verdict": "plate:bronze-star"
   },
   "/media/m1phmjou/airforcecross-plate.jpg": {
    "src": "https://dor.sd.gov/media/m1phmjou/airforcecross-plate.jpg",
    "alt": "Air Force Cross Plate",
-   "verdict": "pending:SD-air-force-cross"
+   "verdict": "plate:air-force-cross"
   },
   "/media/ndnnc3ge/sddmvplom7_legion-of-merit.jpg": {
    "src": "https://dor.sd.gov/media/ndnnc3ge/sddmvplom7_legion-of-merit.jpg?rmode=max&width=168&height=84",
    "alt": "",
-   "verdict": "pending:SD-fees"
+   "verdict": "new:legion-of-merit"
   },
   "/media/nrtni0kz/medalofhonor-plate-optimized.jpg": {
    "src": "https://dor.sd.gov/media/nrtni0kz/medalofhonor-plate-optimized.jpg",
@@ -80,7 +80,7 @@
   "/media/pyscrwm1/silverstar-plate.jpg": {
    "src": "https://dor.sd.gov/media/pyscrwm1/silverstar-plate.jpg",
    "alt": "Silver Star Plate",
-   "verdict": "pending:SD-silver-star"
+   "verdict": "plate:silver-star"
   },
   "/media/s3bdoivz/distinguishedflyingcross-motorcycleplate.jpg": {
    "src": "https://dor.sd.gov/media/s3bdoivz/distinguishedflyingcross-motorcycleplate.jpg",
@@ -90,12 +90,12 @@
   "/media/s5cakr44/purpleheart-plate.jpg": {
    "src": "https://dor.sd.gov/media/s5cakr44/purpleheart-plate.jpg",
    "alt": "Purple Heart Plate",
-   "verdict": "pending:SD-purple-heart"
+   "verdict": "plate:purple-heart"
   },
   "/media/ssfbr1ta/bronzestarvalor-plate.jpg": {
    "src": "https://dor.sd.gov/media/ssfbr1ta/bronzestarvalor-plate.jpg",
    "alt": "Bronze Star with Valor Plate",
-   "verdict": "pending:SD-bronze-star-with-valor"
+   "verdict": "plate:bronze-star-with-valor"
   },
   "/media/titngs5c/distinguishedservicecross-motorcycleplate.jpg": {
    "src": "https://dor.sd.gov/media/titngs5c/distinguishedservicecross-motorcycleplate.jpg",
@@ -105,12 +105,12 @@
   "/media/uhmedkyw/prisonerofwar-plate.jpg": {
    "src": "https://dor.sd.gov/media/uhmedkyw/prisonerofwar-plate.jpg",
    "alt": "POW Plate",
-   "verdict": "pending:SD-pow"
+   "verdict": "plate:pow"
   },
   "/media/v03jtehs/distinguishedflyingcross-plate.jpg": {
    "src": "https://dor.sd.gov/media/v03jtehs/distinguishedflyingcross-plate.jpg",
    "alt": "Distinguished Flying Cross Plate",
-   "verdict": "pending:SD-distinguished-flying-cross"
+   "verdict": "plate:distinguished-flying-cross"
   },
   "/media/vctnkso4/silverstar-motorcycleplate.jpg": {
    "src": "https://dor.sd.gov/media/vctnkso4/silverstar-motorcycleplate.jpg",

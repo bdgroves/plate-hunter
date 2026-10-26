@@ -30,7 +30,7 @@
   "/VehicleServices/tags/images/tags/AutismAcceptance&Inclusion.png": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/AutismAcceptance&Inclusion.png",
    "alt": "Autism Acceptance and Inclusion",
-   "verdict": "pending:DE-autism-acceptance-and-inclusion"
+   "verdict": "plate:autism-acceptance-and-inclusion"
   },
   "/VehicleServices/tags/images/tags/BronzeStar.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/BronzeStar.jpg",
@@ -45,7 +45,7 @@
   "/VehicleServices/tags/images/tags/CIB.png": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/CIB.png",
    "alt": "CIB Organizational Plate",
-   "verdict": "pending:DE-cib-organizational"
+   "verdict": "plate:cib"
   },
   "/VehicleServices/tags/images/tags/COAD.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/COAD.jpg",
@@ -75,12 +75,12 @@
   "/VehicleServices/tags/images/tags/Delaware&America250th.png": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/Delaware&America250th.png",
    "alt": "Delaware & America's 250th Anniversary",
-   "verdict": "pending:DE-delaware-america-s-250th-anniversary"
+   "verdict": "new:delaware-america-s-250th-anniversary"
   },
   "/VehicleServices/tags/images/tags/DelawareEquineCouncilLicensePlate.png": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/DelawareEquineCouncilLicensePlate.png",
    "alt": "Lighthouse tag",
-   "verdict": "pending:DE-lighthouse-tag"
+   "verdict": "new:delaware-equine-council"
   },
   "/VehicleServices/tags/images/tags/Delmar.png": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/Delmar.png",
@@ -110,7 +110,7 @@
   "/VehicleServices/tags/images/tags/MigratoryShorebirds.png": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/MigratoryShorebirds.png",
    "alt": "MigratoryShorebirds tag",
-   "verdict": "pending:DE-migratoryshorebirds-tag"
+   "verdict": "plate:migratory-shorebirds"
   },
   "/VehicleServices/tags/images/tags/Operation-Desert-Storm.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/Operation-Desert-Storm.jpg",
@@ -125,12 +125,12 @@
   "/VehicleServices/tags/images/tags/Purdue.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/Purdue.jpg",
    "alt": "Purdue tag",
-   "verdict": "pending:DE-purdue-tag"
+   "verdict": "rejected"
   },
   "/VehicleServices/tags/images/tags/Sample.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/Sample.jpg",
    "alt": "Sample tag",
-   "verdict": "pending:DE-tag"
+   "verdict": "plate:application-for-delaware-sample"
   },
   "/VehicleServices/tags/images/tags/USNAcademy.png": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/USNAcademy.png",
@@ -150,17 +150,17 @@
   "/VehicleServices/tags/images/tags/Whitetails.png": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/Whitetails.png",
    "alt": "Whitetails Unlimited tag",
-   "verdict": "pending:DE-whitetails-unlimited-tag"
+   "verdict": "new:whitetails-unlimited"
   },
   "/VehicleServices/tags/images/tags/afsp.png": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/afsp.png",
    "alt": "American Foundation for Suicide Prevention",
-   "verdict": "pending:DE-american-foundation-for-suicide-preventi"
+   "verdict": "new:american-foundation-for-suicide-preventi"
   },
   "/VehicleServices/tags/images/tags/aka.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/aka.jpg",
    "alt": "AKA Tag",
-   "verdict": "pending:DE-aka-tag"
+   "verdict": "plate:alpha-kappa-alpha"
   },
   "/VehicleServices/tags/images/tags/al.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/al.jpg",
@@ -185,7 +185,7 @@
   "/VehicleServices/tags/images/tags/attack.png": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/attack.png",
    "alt": "atTAcK Addiction",
-   "verdict": "pending:DE-attack-addiction"
+   "verdict": "plate:attack-addiction"
   },
   "/VehicleServices/tags/images/tags/bcawareness.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/bcawareness.jpg",
@@ -250,12 +250,12 @@
   "/VehicleServices/tags/images/tags/dav.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/dav.jpg",
    "alt": "Disabled American Veterans tag",
-   "verdict": "pending:DE-disabled-american-veterans-tag"
+   "verdict": "plate:disabled-american-veterans"
   },
   "/VehicleServices/tags/images/tags/dav_parking.png": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/dav_parking.png",
    "alt": "Disabled American Veterans with Special Parking tag",
-   "verdict": "pending:DE-disabled-american-veterans-with-parking-"
+   "verdict": "rejected"
   },
   "/VehicleServices/tags/images/tags/de_organ_donor.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/de_organ_donor.jpg",
@@ -275,7 +275,7 @@
   "/VehicleServices/tags/images/tags/dsea.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/dsea.jpg",
    "alt": "Delaware State Education Association tag",
-   "verdict": "pending:DE-delaware-state-education-association-tag"
+   "verdict": "new:delaware-state-education-association"
   },
   "/VehicleServices/tags/images/tags/dsf.png": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/dsf.png",
@@ -370,7 +370,7 @@
   "/VehicleServices/tags/images/tags/g.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/g.jpg",
    "alt": "Groove Phi Groove Social Fellowship tag",
-   "verdict": "pending:DE-groove-phi-groove-social-fellowship-tag"
+   "verdict": "plate:groove-phi-groove"
   },
   "/VehicleServices/tags/images/tags/gbc.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/gbc.jpg",
@@ -405,7 +405,7 @@
   "/VehicleServices/tags/images/tags/images/ducks.png": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/images/ducks.png",
    "alt": "Delaware Greenwing Ducks Unlimited Plate",
-   "verdict": "pending:DE-delaware-greenwing-ducks-unlimited"
+   "verdict": "rejected"
   },
   "/VehicleServices/tags/images/tags/ir_alum.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/ir_alum.jpg",
@@ -445,7 +445,7 @@
   "/VehicleServices/tags/images/tags/lem.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/lem.jpg",
    "alt": "Law Enforcement Memorial tag",
-   "verdict": "pending:DE-law-enforcement-memorial-tag"
+   "verdict": "plate:law-enforcement-memorial"
   },
   "/VehicleServices/tags/images/tags/lighthouse.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/lighthouse.jpg",
@@ -535,12 +535,12 @@
   "/VehicleServices/tags/images/tags/penn_state.png": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/penn_state.png",
    "alt": "Penn State tag",
-   "verdict": "pending:DE-penn-state-tag"
+   "verdict": "rejected"
   },
   "/VehicleServices/tags/images/tags/pollinator.png": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/pollinator.png",
    "alt": "Polinator",
-   "verdict": "pending:DE-polinator"
+   "verdict": "plate:pollinator"
   },
   "/VehicleServices/tags/images/tags/prince_hall_affil.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/prince_hall_affil.jpg",
@@ -550,7 +550,7 @@
   "/VehicleServices/tags/images/tags/purdue_u.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/purdue_u.jpg",
    "alt": "Purdue University tag",
-   "verdict": "pending:DE-purdue-university-tag"
+   "verdict": "rejected"
   },
   "/VehicleServices/tags/images/tags/purple_heart.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/purple_heart.jpg",
@@ -620,7 +620,7 @@
   "/VehicleServices/tags/images/tags/stop_child_abuse.png": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/stop_child_abuse.png",
    "alt": "Valor - Silver Star tag",
-   "verdict": "pending:DE-valor-silver-star-tag"
+   "verdict": "rejected"
   },
   "/VehicleServices/tags/images/tags/submarine.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/submarine.jpg",
@@ -655,7 +655,7 @@
   "/VehicleServices/tags/images/tags/ud.png": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/ud.png",
    "alt": "University of Delaware athletics tag",
-   "verdict": "pending:DE-university-of-delaware-athletics-tag"
+   "verdict": "new:university-of-delaware-blue-hens"
   },
   "/VehicleServices/tags/images/tags/univ_penn.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/univ_penn.jpg",
@@ -665,7 +665,7 @@
   "/VehicleServices/tags/images/tags/va_tech.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/va_tech.jpg",
    "alt": "Virginia Tech tag",
-   "verdict": "pending:DE-virginia-tech-tag"
+   "verdict": "plate:virginia-tech"
   },
   "/VehicleServices/tags/images/tags/valor-air_force_commendatio.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/valor-air_force_commendatio.jpg",
@@ -745,7 +745,7 @@
   "/VehicleServices/tags/images/tags/williamPennHS.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/williamPennHS.jpg",
    "alt": "William Penn High School",
-   "verdict": "pending:DE-william-penn-high-school"
+   "verdict": "new:william-penn-high-school"
   },
   "/VehicleServices/tags/images/tags/wilm_fire.jpg": {
    "src": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/wilm_fire.jpg",

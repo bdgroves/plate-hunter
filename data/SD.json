@@ -3,7 +3,7 @@
  "name": "South Dakota",
  "rated": false,
  "checked": false,
- "updated": "2026-10-25",
+ "updated": "2026-10-26",
  "about": "South Dakota special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
  "sources": [
   {
@@ -329,6 +329,42 @@
    "name": "Yankton Sioux Tribe - Veteran",
    "cat": "tribal",
    "img": "yankton-sioux-tribe-veteran.webp"
+  },
+  {
+   "id": "space-force-veteran",
+   "name": "Space Force Veteran",
+   "cat": "veterans",
+   "img": "space-force-veteran.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://dor.sd.gov/individuals/motor-vehicle/cars-trucks-vans/military-plates-veteran-tribal-active-duty/"
+  },
+  {
+   "id": "space-force-woman-veteran",
+   "name": "Space Force Woman Veteran",
+   "cat": "veterans",
+   "img": "space-force-woman-veteran.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://dor.sd.gov/individuals/motor-vehicle/cars-trucks-vans/military-plates-veteran-tribal-active-duty/"
+  },
+  {
+   "id": "space-force-active-duty",
+   "name": "Space Force Active Duty",
+   "cat": "military",
+   "img": "space-force-active-duty.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://dor.sd.gov/individuals/motor-vehicle/cars-trucks-vans/military-plates-veteran-tribal-active-duty/"
+  },
+  {
+   "id": "legion-of-merit",
+   "name": "Legion of Merit",
+   "cat": "veterans",
+   "img": "legion-of-merit.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://dor.sd.gov/individuals/motor-vehicle/cars-trucks-vans/specialty-military-plates/"
   }
  ]
 }

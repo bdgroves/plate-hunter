@@ -5,37 +5,37 @@
   "/dmv/-/media/dmv/images/borinqueneers.jpg": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/borinqueneers.jpg?rev=14eb57e475574afda9b03e5df22fea3d&hash=2F69E38F43A13C9BC70EBE2A0F9706AC",
    "alt": "",
-   "verdict": "pending:CT-this-commemorative-honors-the-borinquene"
+   "verdict": "new:65th-infantry-regiment-borinqueneers"
   },
   "/dmv/-/media/dmv/images/dvets.gif": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/dvets.gif?sc_lang=en&h=151&w=314&rev=56955cfbbca9472fa8f9d0a7ef8a3889&hash=A1B3101297CBB3E271C590D921419F14",
    "alt": "",
-   "verdict": "pending:CT-thank-you-for-showing-an-interest-in-the-x-x-x-x-x-x-x-x"
+   "verdict": "plate:disabled-american-veterans"
   },
   "/dmv/-/media/dmv/images/ferrari.gif": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/ferrari.gif?sc_lang=en&h=147&w=313&rev=df57010e216f406a8e3d61e742e22aed&hash=9A82EA517F27ED74529A520B8EB612E9",
    "alt": "Ferrari Club of America Plate",
-   "verdict": "pending:CT-ferrari-club-of-america"
+   "verdict": "plate:ferrari-club-of-america"
   },
   "/dmv/-/media/dmv/images/firefighter.gif": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/firefighter.gif?sc_lang=en&rev=7f56a90b7ba44065b3864e15bd40d5bd&hash=5A4D095261806D26E8E46C972811FD0F",
    "alt": "",
-   "verdict": "pending:CT-thank-you-for-showing-an-interest-in-the-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x"
+   "verdict": "plate:firefighters-of-connecticut"
   },
   "/dmv/-/media/dmv/images/goldstarpla.jpg": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/goldstarpla.jpg?sc_lang=en&h=152&w=312&rev=9e9a9bff5fba44b7bbba789c6cd5ce6e&hash=A400783627C4E3C7DB69B96CBA726933",
    "alt": "",
-   "verdict": "pending:CT-thank-you-for-showing-interest-in-the-go"
+   "verdict": "plate:gold-star-family"
   },
   "/dmv/-/media/dmv/images/gway.gif": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/gway.gif?sc_lang=en&h=154&w=300&rev=d61715dd6efc477193c9666c6e837480&hash=65449CE55CC54F5EFDA1B96809C86D21",
    "alt": "",
-   "verdict": "pending:CT-thank-you-for-showing-interest-in-the-co"
+   "verdict": "plate:connecticut-greenways"
   },
   "/dmv/-/media/dmv/images/laos.gif": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/laos.gif?sc_lang=en&rev=46adab046f8a4b82944399d1fd2d3ae2&hash=85E34021B5F77C82ED8F433625D17438",
    "alt": "",
-   "verdict": "pending:CT-thank-you-for-showing-an-interest-in-the-x-x-x-x-x-x-x-x-x-x-x-x-x"
+   "verdict": "plate:laos-veterans-of-america"
   },
   "/dmv/-/media/dmv/images/licplate.jpg": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/licplate.jpg?sc_lang=en&rev=3ecccc480a3b4d1bb8d82c91111905a5&hash=AC6F143BE814C0338A61429140437680",
@@ -50,97 +50,97 @@
   "/dmv/-/media/dmv/images/museum.gif": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/museum.gif?sc_lang=en&h=153&w=314&rev=575326f66db84823b6680191c40c4983&hash=FDB509E6AE092C1C7FD34D2B373E9A19",
    "alt": "New England Air Museum Plate",
-   "verdict": "pending:CT-england-air-museum"
+   "verdict": "plate:new-england-air-museum"
   },
   "/dmv/-/media/dmv/images/new_classic_plate.jpg": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/new_classic_plate.jpg?sc_lang=en&h=153&w=314&rev=0f9050348dca41f594d22b85e7db3e8a&hash=C0818F2F694CE3335685A6ECDE3CE295",
    "alt": "",
-   "verdict": "pending:CT-classic-vehicle-in-a-standard-issue-form"
+   "verdict": "plate:classic"
   },
   "/dmv/-/media/dmv/images/pet.gif": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/pet.gif?sc_lang=en&h=145&w=300&rev=79d37ef1170846b48272e259db607367&hash=CB5606F6514E82F13E807642D6869B7E",
    "alt": "",
-   "verdict": "pending:CT-thank-you-for-showing-interest-in-the-an"
+   "verdict": "plate:animal-population-control"
   },
   "/dmv/-/media/dmv/images/preservation-ct.jpg": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/preservation-ct.jpg?sc_lang=en&rev=51a3162272fe4657a89ebc3f039c25fc&hash=A236DA29B8D136B099A504BD437D9734",
    "alt": "",
-   "verdict": "pending:CT-thank-you-for-showing-an-interest-in-the-x-x-x-x-x-x-x"
+   "verdict": "plate:preservation-connecticut"
   },
   "/dmv/-/media/dmv/images/radio.gif": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/radio.gif?sc_lang=en&h=146&w=309&rev=15f6ecb308b34d8bb3845f0db811dd0c&hash=237EBEC7D8AA4C98E761E985AE7C80E0",
    "alt": "",
-   "verdict": "pending:CT-thank-you-for-your-interest-in-the-amate"
+   "verdict": "plate:amateur-radio-call-letter"
   },
   "/dmv/-/media/dmv/images/savelakes.jpg": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/savelakes.jpg?sc_lang=en&h=150&w=310&rev=67a2941422e3442aacf0101706a63bec&hash=188AB62BD246E85031DB29CC803B61EF",
    "alt": "",
-   "verdict": "pending:CT-thank-you-for-your-interest-in-the-save-"
+   "verdict": "plate:save-our-lakes"
   },
   "/dmv/-/media/dmv/images/spccsu.jpg": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/spccsu.jpg?sc_lang=en&rev=cafa840b3bf24cd1a08ce19586d3144f&hash=9415BD89C4A6FCD080715D4C4FE26A8D",
    "alt": "",
-   "verdict": "pending:CT-thank-you-for-showing-an-interest-in-the-x-x"
+   "verdict": "rejected"
   },
   "/dmv/-/media/dmv/images/spclaelk.gif": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/spclaelk.gif?sc_lang=en&rev=7e679aa86121467f9e40a3eee4f7e281&hash=7E07AA1F50D058F32549BF3FAA109B35",
    "alt": "Candlewood Lake Authority Plate",
-   "verdict": "pending:CT-candlewood-lake-authority"
+   "verdict": "plate:candlewood-lake-authority"
   },
   "/dmv/-/media/dmv/images/spducks.gif": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/spducks.gif?sc_lang=en&rev=986b01ec9ed64345afbf07d760888b50&hash=53C5DFA46B45E5AC71B669B78DA4BDE5",
    "alt": "",
-   "verdict": "pending:CT-thank-you-for-showing-an-interest-in-the-x-x-x-x-x-x"
+   "verdict": "plate:ducks-unlimited"
   },
   "/dmv/-/media/dmv/images/spftgd.gif": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/spftgd.gif?sc_lang=en&rev=c5207606fab2450692c39bd69fd0113d&hash=17767E57664AB9E57B44F36462C4C53E",
    "alt": "",
-   "verdict": "pending:CT-thank-you-for-showing-an-interest-in-the-x-x-x-x-x-x-x-x-x"
+   "verdict": "plate:first-company-governors-foot-guard"
   },
   "/dmv/-/media/dmv/images/spgarden.gif": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/spgarden.gif?sc_lang=en&h=149&w=314&rev=ef7ea251ce7b405998bae4b0351a0750&hash=E10E5153B89AF5C93B505FD213230A9D",
    "alt": "Federated Garden Clubs of Connecticut plate",
-   "verdict": "pending:CT-federated-garden-clubs-of-connecticut"
+   "verdict": "plate:federated-garden-clubs-of-connecticut"
   },
   "/dmv/-/media/dmv/images/spguard.gif": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/spguard.gif?sc_lang=en&rev=f7b878c976c34654859c1b4ddcad1059&hash=2D20AB5F3D52D8B514991D235FB3B62C",
    "alt": "",
-   "verdict": "pending:CT-thank-you-for-showing-an-interest-in-the-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x"
+   "verdict": "plate:national-guard-association-of-connecticu"
   },
   "/dmv/-/media/dmv/images/sphorse.gif": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/sphorse.gif?sc_lang=en&rev=2af5c87022034765b5132dc64ce3ba98&hash=E4BBB591633F1B9EA9631D8E5408AC15",
    "alt": "",
-   "verdict": "pending:CT-thank-you-for-showing-an-interest-in-the-x-x-x-x-x-x-x-x-x-x"
+   "verdict": "plate:first-company-governors-horse-guard"
   },
   "/dmv/-/media/dmv/images/spiwojim.gif": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/spiwojim.gif?sc_lang=en&rev=031da29bdffa469c92e2fa6f3bf6fe73&hash=C6175F3ED31078BBA5BAAA44A4FB8C3C",
    "alt": "",
-   "verdict": "pending:CT-thank-you-for-showing-an-interest-in-the-x-x-x-x-x-x-x-x-x-x-x"
+   "verdict": "plate:iwo-jima-survivor"
   },
   "/dmv/-/media/dmv/images/spkorvt.gif": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/spkorvt.gif?sc_lang=en&rev=55cf4ac0ca6743a58e33362ed775b749&hash=533762F30413D95C0721757A75DE9B8B",
    "alt": "",
-   "verdict": "pending:CT-thank-you-for-showing-an-interest-in-the-x-x-x-x-x-x-x-x-x-x-x-x"
+   "verdict": "plate:korean-war-veterans-association-inc"
   },
   "/dmv/-/media/dmv/images/splis.gif": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/splis.gif?sc_lang=en&h=146&w=300&rev=c7c9947b1c2e474abe80222af70acfc2&hash=4C8BA394FDB3B64841F6A9E9FC27B4DB",
    "alt": "",
-   "verdict": "pending:CT-thank-you-for-showing-interest-in-the-lo"
+   "verdict": "plate:long-island-sound"
   },
   "/dmv/-/media/dmv/images/spmarine.gif": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/spmarine.gif?sc_lang=en&rev=13f812b8d6db4ab784db0f21a7e24af8&hash=1F3467F7E0DB74BB2F348746649471B3",
    "alt": "",
-   "verdict": "pending:CT-thank-you-for-showing-an-interest-in-the-x-x-x-x-x-x-x-x-x-x-x-x-x-x"
+   "verdict": "plate:marine-corps-league"
   },
   "/dmv/-/media/dmv/images/spmerden.gif": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/spmerden.gif?sc_lang=en&rev=6d755f3b0b5b4be192337c256256bf4c&hash=063C6F127E63DA4CD8A3F0C39F115659",
    "alt": "",
-   "verdict": "pending:CT-thank-you-for-showing-an-interest-in-the"
+   "verdict": "plate:city-of-meriden"
   },
   "/dmv/-/media/dmv/images/spngret.gif": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/spngret.gif?sc_lang=en&rev=6b0aa1011f974361bac357d339c71bcc&hash=4B96C38AC7F8C88EB9E37C89C5DFCB69",
    "alt": "",
-   "verdict": "pending:CT-thank-you-for-showing-an-interest-in-the-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x"
+   "verdict": "plate:national-guard-association-of-connecticu-2"
   },
   "/dmv/-/media/dmv/images/sppara.gif": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/sppara.gif?sc_lang=en&rev=fb3e33bdd1654f5f9a0c58ca6ae30b3d&hash=2E4FCD3B6DE0FD4BD7D512A230BB6C39",
@@ -150,17 +150,17 @@
   "/dmv/-/media/dmv/images/sppearl.gif": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/sppearl.gif?sc_lang=en&rev=0bc31bfccf8e4fbdb8f16f1405432700&hash=A98B7FBEF5185370D13F002297EE3DD6",
    "alt": "",
-   "verdict": "pending:CT-thank-you-for-showing-an-interest-in-the-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x"
+   "verdict": "plate:pearl-harbor-1941-survivors"
   },
   "/dmv/-/media/dmv/images/sppenn.gif": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/sppenn.gif?sc_lang=en&rev=68aa496c229847bd850a607ae7c0dd3d&hash=11228ABD83B5BA9EE9464ACC77F15975",
    "alt": "",
-   "verdict": "pending:CT-thank-you-for-showing-an-interest-in-the-x-x-x"
+   "verdict": "plate:penn-state-alumni-association"
   },
   "/dmv/-/media/dmv/images/sppurhrt.gif": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/sppurhrt.gif?sc_lang=en&rev=40ab5789d5f4421e85d948074052350f&hash=0E65AA7AB10E0020562E620B8EA25A53",
    "alt": "",
-   "verdict": "pending:CT-thank-you-for-showing-an-interest-in-the-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x"
+   "verdict": "plate:military-order-of-the-purple-heart"
   },
   "/dmv/-/media/dmv/images/sprose.gif": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/sprose.gif?sc_lang=en&rev=b6ffb44a78bd4fd6a1d009db29b1efc1&hash=4A911C36B5E67CE86F7A6D6C8032A828",
@@ -170,52 +170,52 @@
   "/dmv/-/media/dmv/images/spsec.gif": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/spsec.gif?sc_lang=en&rev=c5a049a097c14133854cf4b0fef68f79&hash=9CC7962A25E84C0309E35B5523625DF7",
    "alt": "",
-   "verdict": "pending:CT-thank-you-for-showing-an-interest-in-the-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x"
+   "verdict": "plate:second-company-governors-foot-guard"
   },
   "/dmv/-/media/dmv/images/spstaffo.gif": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/spstaffo.gif?sc_lang=en&rev=f29b3c73fdcb441ca8fe8d09cee9a825&hash=5BC467D8D4C0FFA1E2B3F80C447D3723",
    "alt": "",
-   "verdict": "pending:CT-thank-you-for-showing-an-interest-in-the-x"
+   "verdict": "plate:town-of-stafford"
   },
   "/dmv/-/media/dmv/images/spsub.gif": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/spsub.gif?sc_lang=en&rev=2a731cb70b6443cdac56ee459b02778d&hash=57EF3B5390A638053B4616F7B72B9357",
    "alt": "",
-   "verdict": "pending:CT-thank-you-for-showing-an-interest-in-the-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x"
+   "verdict": "plate:u-s-submarine-veterans"
   },
   "/dmv/-/media/dmv/images/support.jpg": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/support.jpg?sc_lang=en&rev=d82af58abf744e949f3ec1c5cd1599df&hash=E482342DF1B8B5A2EF3A138792B654EC",
    "alt": "",
-   "verdict": "pending:CT-thank-you-for-showing-interest-in-the-su"
+   "verdict": "plate:support-our-troops"
   },
   "/dmv/-/media/dmv/images/uconn-basketball.jpg": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/uconn-basketball.jpg?rev=aa457736f3604c9cb2147768322efb24&hash=B99C3C9363A7D96F6AACA9E4CD2B306E",
    "alt": "UConn plate with basketball image",
-   "verdict": "pending:CT-uconn-with-basketball"
+   "verdict": "new:uconn-huskies"
   },
   "/dmv/-/media/dmv/images/uconn-campus.jpg": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/uconn-campus.jpg?rev=47135bf2ffba4ef5a296c2175fe39a20&hash=AD90AF963E7897B3A3E73F949187EB03",
    "alt": "UConn plate with images of campus",
-   "verdict": "pending:CT-uconn-with-images-of-campus"
+   "verdict": "new:uconn-campus"
   },
   "/dmv/-/media/dmv/images/uconn-wilbur-cross.jpg": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/uconn-wilbur-cross.jpg?rev=644c3015dc994afabf82530d9a5eb53f&hash=B773E2DCA9FAA02FDEB5DC4F5FCBDD1D",
    "alt": "UConn plate with Wilbur Cross building",
-   "verdict": "pending:CT-uconn-with-wilbur-cross-building"
+   "verdict": "new:uconn-basketball-capital-of-the-world"
   },
   "/dmv/-/media/dmv/images/uconn.jpg": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/uconn.jpg?sc_lang=en&h=146&w=312&rev=7d8c78978e524690860dbd1182bed4a0&hash=2C942684DEB8E91D03E1B81EC2F55CC2",
    "alt": "",
-   "verdict": "pending:CT-thank-you-for-showing-interest-in-the-un"
+   "verdict": "plate:university-of-connecticut"
   },
   "/dmv/-/media/dmv/images/uhartford_2017.jpg": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/uhartford_2017.jpg?sc_lang=en&rev=03db9d77ba4040a99e93838af81b6fd0&hash=47334C69CEA55FFD154A6DD7136986B7",
    "alt": "",
-   "verdict": "pending:CT-thank-you-for-showing-an-interest-in-the-x-x-x-x"
+   "verdict": "plate:university-of-hartford-alumni"
   },
   "/dmv/-/media/dmv/images/univnh.jpg": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/univnh.jpg?sc_lang=en&h=146&w=320&rev=93db6ae89761443380af1b7f4d5c9da3&hash=C24EDA4A8EF277291D2809E11A4B5F66",
    "alt": "",
-   "verdict": "pending:CT-thank-you-for-showing-an-interest-in-the-x-x-x-x-x"
+   "verdict": "rejected"
   },
   "/dmv/-/media/dmv/images/vet.gif": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/vet.gif?sc_lang=en&rev=a7152ade68a54a5e9ef1c8f9ecba36ae&hash=127EBE30F1D34818DC9E419A54DDEA75",
@@ -225,7 +225,7 @@
   "/dmv/-/media/dmv/images/woman-veterans-plate.jpg": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/woman-veterans-plate.jpg?h=157&w=338&rev=d37517440721446ea896da09d94ef346&hash=B17F0681BB8A9DA3595B59A2C9C77266",
    "alt": "",
-   "verdict": "pending:CT-the-woman-veteran-features-a-light-blue-"
+   "verdict": "new:woman-veteran"
   }
  },
  "checked": "2026-10-26"

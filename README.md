@@ -98,9 +98,9 @@ python -m http.server 8000
 Every Monday and Thursday, [`plate-robot.yml`](.github/workflows/plate-robot.yml) runs `tools/plate_robot.py`, which visits each licensing agency page in `data/watch.json` and looks at every picture on it once:
 
 1. **Not plate-shaped** (logos, banners, photos): ignored.
-2. **A plate the game already has**: matched by a 256-bit picture fingerprint (the same plate scores 0–6; different plates 10 and up), so a re-hosted or resized picture is still recognized.
+2. **A plate the game already has**: recognized by a 256-bit picture fingerprint (the same picture scores 0–6, different plates 10 and up), by a colour thumbnail that forgives a different crop, border or render, or by its name. So a re-hosted, resized or re-rendered picture of a plate we have isn't mistaken for a new one.
 3. **A plate the game leaves out on purpose** (motorcycle, dealer, variants), recognized from `data/known/`: ignored.
-4. **New, and clearly a plate** (its fingerprint is close to some known US plate, and the page gives it a name): **added to the game by itself**, with the picture, a name from the page, a guessed category and a **NEW** badge for 60 days. Players find them under the 🆕 filter.
+4. **New, and clearly a plate** (its fingerprint is close to some known US plate, the page gives it a name, and the robot has looked at that page before): **added to the game by itself**, with the picture, a name from the page, a guessed category and a **NEW** badge for 60 days. Players find them under the 🆕 filter.
 5. **New, but the robot isn't sure**: saved to `data/pending.json` and shown on the robot's GitHub issue with its picture. Reply on the issue with `/add KEY`, `/add KEY as Better Name`, `/skip KEY`, or `/add all` / `/skip all`, and [`robot-decide.yml`](.github/workflows/robot-decide.yml) does it within a minute or two. Only the repo owner's replies count.
 
 It never removes a plate (retired plates stay on the road for years); it only notes pictures that left a page. A page that suddenly shows more than 25 unknown pictures adds nothing by itself. Pages it can't read are listed in `data/watch/_status.json` and on the issue. To run it now: Actions → *Plate robot* → *Run workflow* (optionally for a few states).
