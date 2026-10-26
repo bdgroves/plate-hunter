@@ -844,41 +844,37 @@
    "id": "indiana-fever-fund-of-the-pacers-foundat",
    "name": "Indiana Fever Fund of the Pacers Foundation",
    "cat": "sports",
-   "img": null,
+   "img": "indiana-fever-fund-of-the-pacers-foundat.webp",
    "added": "2026-10-26",
    "source": "https://secure.in.gov/bmv/files/pr-new-sgrs-2026.pdf",
-   "year": "2026",
-   "img_url": "https://www.in.gov/bmv/registration-plates/images/plates/indiana-fever-plate.png"
+   "year": "2026"
   },
   {
    "id": "indiana-state-teachers-association-ista-",
    "name": "Indiana State Teachers Association (ISTA) Foundation",
    "cat": "charity",
-   "img": null,
+   "img": "indiana-state-teachers-association-ista-.webp",
    "added": "2026-10-26",
    "source": "https://secure.in.gov/bmv/files/pr-new-sgrs-2026.pdf",
-   "year": "2026",
-   "img_url": "https://www.in.gov/bmv/registration-plates/images/plates/ista-plate.png"
+   "year": "2026"
   },
   {
    "id": "pollinator-partnership",
    "name": "Pollinator Partnership",
    "cat": "nature",
-   "img": null,
+   "img": "pollinator-partnership.webp",
    "added": "2026-10-26",
    "source": "https://secure.in.gov/bmv/files/pr-new-sgrs-2026.pdf",
-   "year": "2026",
-   "img_url": "https://www.in.gov/bmv/registration-plates/images/plates/pollinator-partnership-plate.png"
+   "year": "2026"
   },
   {
    "id": "purdue-university-northwest",
    "name": "Purdue University Northwest",
    "cat": "colleges",
-   "img": null,
+   "img": "purdue-university-northwest.webp",
    "added": "2026-10-26",
    "source": "https://secure.in.gov/bmv/files/pr-new-sgrs-2026.pdf",
-   "year": "2026",
-   "img_url": "https://www.in.gov/bmv/registration-plates/images/plates/purdue-northwest-plate.png"
+   "year": "2026"
   }
  ],
  "checked_on": "2026-10-26"

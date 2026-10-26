@@ -966,32 +966,29 @@
    "id": "conservation-heritage-foundation-bass-fi",
    "name": "Conservation Heritage Foundation – Bass/Fish",
    "cat": "nature",
-   "img": null,
+   "img": "conservation-heritage-foundation-bass-fi.webp",
    "added": "2026-10-26",
    "source": "https://dor.mo.gov/motor-vehicle/plates/documents/SpecialtyPlateChart-FEB-8.pdf",
    "year": "2023",
-   "no_official_picture": true,
-   "img_url": "https://dor.mo.gov/motor-vehicle/plates/images/chf-bass.gif"
+   "no_official_picture": true
   },
   {
    "id": "army-of-occupation-medal",
    "name": "Army of Occupation Medal",
    "cat": "military",
-   "img": null,
+   "img": "army-of-occupation-medal.webp",
    "added": "2026-10-26",
    "source": "https://dor.mo.gov/motor-vehicle/plates/documents/SpecialtyPlateChart-FEB-8.pdf",
-   "year": "2024",
-   "img_url": "https://dor.mo.gov/motor-vehicle/plates/images/occupation.gif"
+   "year": "2024"
   },
   {
    "id": "respiratory-therapist",
    "name": "Respiratory Therapist",
    "cat": "other",
-   "img": null,
+   "img": "respiratory-therapist.webp",
    "added": "2026-10-26",
    "source": "https://dor.mo.gov/motor-vehicle/plates/documents/SpecialtyPlateChart-FEB-8.pdf",
-   "year": "2024",
-   "img_url": "https://dor.mo.gov/motor-vehicle/plates/images/respiratory.gif"
+   "year": "2024"
   },
   {
    "id": "bee-friendly",
@@ -1006,11 +1003,10 @@
    "id": "cars-and-coffee-foundation",
    "name": "Cars and Coffee Foundation",
    "cat": "hobby",
-   "img": null,
+   "img": "cars-and-coffee-foundation.webp",
    "added": "2026-10-26",
    "source": "https://dor.mo.gov/motor-vehicle/plates/documents/SpecialtyPlateChart-FEB-8.pdf",
-   "year": "2025",
-   "img_url": "https://dor.mo.gov/motor-vehicle/plates/images/cars-and-coffee.gif"
+   "year": "2025"
   },
   {
    "id": "missouri-sheriffs-association",

@@ -3096,11 +3096,10 @@
    "id": "state-fair-of-texas",
    "name": "State Fair of Texas",
    "cat": "other",
-   "img": null,
+   "img": "state-fair-of-texas.webp",
    "added": "2026-10-26",
    "source": "https://content.govdelivery.com/accounts/TXDMV/bulletins/3e79716",
-   "year": "2025",
-   "img_url": "https://cdn.myplates.com/plates/auto.stfair.png"
+   "year": "2025"
   },
   {
    "id": "ducks-unlimited-crossover",

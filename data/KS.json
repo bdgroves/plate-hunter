@@ -420,21 +420,19 @@
    "id": "back-the-blue",
    "name": "Back the Blue",
    "cat": "firstresponder",
-   "img": null,
+   "img": "back-the-blue.webp",
    "added": "2026-10-26",
    "source": "https://ksrevenue.gov/dovplates.html",
-   "year": "2024",
-   "img_url": "https://irp.cdn-website.com/884bb39f/dms3rep/multi/opt/Photo-of-KS-C.O.P.S.-Personalized-License-Plate-2-copy+copy-1920w.png"
+   "year": "2024"
   },
   {
    "id": "city-of-topeka",
    "name": "City of Topeka",
    "cat": "other",
-   "img": null,
+   "img": "city-of-topeka.webp",
    "added": "2026-10-26",
    "source": "https://ksrevenue.gov/dovplates.html",
-   "year": "2024",
-   "img_url": "https://www.gotopeka.com/wp-content/uploads/2024/03/License_mockup-Revised-01.png"
+   "year": "2024"
   },
   {
    "id": "city-of-hutchinson",
@@ -495,11 +493,10 @@
    "id": "kansas-ffa",
    "name": "Kansas FFA",
    "cat": "other",
-   "img": null,
+   "img": "kansas-ffa.webp",
    "added": "2026-10-26",
    "source": "https://ksrevenue.gov/dovplates.html",
-   "year": "2026",
-   "img_url": "https://ksffa.org/wp-content/uploads/2025/10/FFA.-FINAL-TAG-DESIGN.png"
+   "year": "2026"
   },
   {
    "id": "kansas-outdoors-fishing",

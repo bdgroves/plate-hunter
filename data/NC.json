@@ -1249,20 +1249,18 @@
    "id": "aurora-fossil-museum",
    "name": "Aurora Fossil Museum",
    "cat": "nature",
-   "img": null,
+   "img": "aurora-fossil-museum.webp",
    "added": "2026-10-26",
    "source": "https://www.ncdot.gov/dmv/downloads/Documents/MVR-27.pdf",
-   "img_url": "https://aurorafossilmuseum.org/uploads/licenseplate/AFM_MegPlate_2024.jpg",
    "year": "2024"
   },
   {
    "id": "n-c-museum-of-natural-sciences",
    "name": "N.C. Museum of Natural Sciences",
    "cat": "nature",
-   "img": null,
+   "img": "n-c-museum-of-natural-sciences.webp",
    "added": "2026-10-26",
    "source": "https://www.ncdot.gov/dmv/downloads/Documents/MVR-27.pdf",
-   "img_url": "https://www.naturalsciences.org/calendar/wp-content/uploads/2025/03/NCMNS_LicencePlateComp_DMV.jpg",
    "year": "2025"
   },
   {

@@ -742,10 +742,9 @@
    "id": "born-to-be-wild",
    "name": "Born To Be Wild",
    "cat": "nature",
-   "img": null,
+   "img": "born-to-be-wild.webp",
    "added": "2026-10-26",
    "source": "https://dmv.colorado.gov/group-special-license-plates-new",
-   "img_url": "https://cpw.state.co.us/sites/default/files/dam/lj6efpjmjs/born-wil-plate.jpg",
    "year": "2024"
   },
   {
@@ -762,10 +761,9 @@
    "id": "stegosaurus",
    "name": "Stegosaurus",
    "cat": "nature",
-   "img": null,
+   "img": "stegosaurus.webp",
    "added": "2026-10-26",
    "source": "https://dmv.colorado.gov/group-special-license-plates-new",
-   "img_url": "https://dinoridge.org/wp-content/uploads/2023/04/stegosaurus_license_plate.jpg",
    "year": "2024"
   },
   {

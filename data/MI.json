@@ -467,10 +467,9 @@
    "id": "woman-veteran",
    "name": "Woman veteran",
    "cat": "veterans",
-   "img": null,
+   "img": "woman-veteran.webp",
    "added": "2026-10-26",
    "source": "https://www.michigan.gov/sos/resources/news/2025/11/14/new-license-plate-honoring-michigans-women-veterans-now-available",
-   "img_url": "https://content.govdelivery.com/attachments/fancy_images/MISOS/2025/11/12653669/6549156/women-veterans-plate-sample_original.png",
    "year": "2025"
   },
   {
@@ -516,10 +515,9 @@
    "id": "semiquincentennial-legacy-plate-red-whit",
    "name": "Semiquincentennial legacy plate (red, white and blue)",
    "cat": "other",
-   "img": null,
+   "img": "semiquincentennial-legacy-plate-red-whit.webp",
    "added": "2026-10-26",
    "source": "https://michigan.gov/sos/resources/news/2025/12/11/secretary-benson-announces-revival-of-iconic-red-white-and-blue-license-plate",
-   "img_url": "https://content.govdelivery.com/attachments/fancy_images/MISOS/2025/12/12831720/6599567/legacy-semi-sample-small_original.png",
    "year": "2026"
   },
   {
