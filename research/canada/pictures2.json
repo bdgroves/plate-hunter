@@ -1,0 +1,13 @@
+{
+ "standard": {
+  "ON": {"source_img": "https://www.ontario.ca/files/2024-06/mpbsdp-so-licence-plate-renewals-thumbnail-352x264-2024-06-28.png", "browser_only": false, "aspect": "352x264", "note": "ontario.ca's own artwork of the white 'Yours to Discover' plate (AAAA-AAA), used as the thumbnail on /page/renew-licence-plate-sticker. The plate sits on a light grey pad, so the file is 4:3 overall; crop the pad if needed. Loads directly as an image in Chrome; ontario.ca is blocked by this sandbox's proxy, so loading from a runner is untested."},
+  "AB": {"source_img": "https://www.alberta.ca/system/files/styles/responsive_1040/private/licence-plate-moraine-lake-8.jpg?itok=JJPdrDue", "browser_only": false, "aspect": "760x380", "note": "The new 'Strong and Free' Moraine Lake plate, from alberta.ca/alberta-pick-a-plate (winning design, Nov 18 2025). Fetched with credentials omitted: 200 image/jpeg. The itok token is required: the unstyled original /system/files/private/... returns 404. That page doesn't say whether issuing has started. No official image of the old 'Wild Rose Country' plate was found."},
+  "NU": {"source_img": "https://www.gov.nu.ca/sites/default/files/images/2025-05/Picture1.jpg", "browser_only": true, "aspect": "525x241", "note": "Confirmed visually as the new polar-bear-shaped Nunavut plate (000-000 with inuksuk). gov.nu.ca shows a Cloudflare 'Just a moment' check first, then the image loads, so it needs a browser."}
+ },
+ "specialty": {
+  "MB": [
+   {"name_in_game": "Firefighters", "source_img": "https://www.mpi.mb.ca/wp-content/uploads/Winnipeg-licence-plate-firefighter-image.jpg", "browser_only": false, "aspect": "682x343", "note": "A single MPI plate (WF0001, 'Serving Our Community'), found through MPI's WordPress media library. Not the two-plate Firefighter-plate.png sheet. Fetched with credentials omitted: 200."},
+   {"name_in_game": "Winnipeg Blue Bombers (original gold design)", "source_img": "https://www.mpi.mb.ca/wp-content/uploads/2022/10/plate-blue-bombers.png", "browser_only": false, "aspect": "341x172", "note": "MPI's artwork of the original gold Bombers plate (helmet plus Blue Bombers logo). Confirmed visually; only 341 px wide. Fetched with credentials omitted: 200."}
+  ]
+ }
+}

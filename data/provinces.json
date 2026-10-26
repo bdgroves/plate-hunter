@@ -4,7 +4,8 @@
   "name": "Alberta",
   "country": "CA",
   "img": null,
-  "note": "Alberta's long-running everyday plate is white with red characters and the slogan \"Wild Rose Country\"; a new \"Strong and Free\" plate with a Moraine Lake panorama, picked by public vote in November 2025, was due to start issuing in mid-2026."
+  "note": "Alberta's long-running everyday plate is white with red characters and the slogan \"Wild Rose Country\"; a new \"Strong and Free\" plate with a Moraine Lake panorama, picked by public vote in November 2025, was due to start issuing in mid-2026.",
+  "img_url": "https://www.alberta.ca/system/files/styles/responsive_1040/private/licence-plate-moraine-lake-8.jpg?itok=JJPdrDue"
  },
  {
   "code": "BC",
@@ -46,7 +47,8 @@
   "name": "Ontario",
   "country": "CA",
   "img": null,
-  "note": "Ontario's everyday plate is white with blue lettering, a crown, and the slogan \"Yours to Discover\"; a short-lived blue \"A Place to Grow\" design was dropped in 2020."
+  "note": "Ontario's everyday plate is white with blue lettering, a crown, and the slogan \"Yours to Discover\"; a short-lived blue \"A Place to Grow\" design was dropped in 2020.",
+  "img_url": "https://www.ontario.ca/files/2024-06/mpbsdp-so-licence-plate-renewals-thumbnail-352x264-2024-06-28.png"
  },
  {
   "code": "PE",
@@ -81,7 +83,8 @@
   "name": "Nunavut",
   "country": "CA",
   "img": null,
-  "note": "In 2025 Nunavut brought back a polar-bear-shaped plate, inspired by the territory's 25th anniversary, and began issuing it in September 2025."
+  "note": "In 2025 Nunavut brought back a polar-bear-shaped plate, inspired by the territory's 25th anniversary, and began issuing it in September 2025.",
+  "img_url": "https://www.gov.nu.ca/sites/default/files/images/2025-05/Picture1.jpg"
  },
  {
   "code": "YT",

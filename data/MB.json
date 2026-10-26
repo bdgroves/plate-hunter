@@ -20,7 +20,7 @@
    "supports": "Manitoba Firefighters Burn Fund and Manitoba Fallen Firefighters Fund",
    "fact": "Winnipeg firefighters can have their badge number on the plate.",
    "source": "https://www.mpi.mb.ca/specialty-plates-member/",
-   "no_official_picture": true
+   "img_url": "https://www.mpi.mb.ca/wp-content/uploads/Winnipeg-licence-plate-firefighter-image.jpg"
   },
   {
    "id": "paramedics",
@@ -133,7 +133,8 @@
    "img": null,
    "supports": "Winnipeg Football Club",
    "fact": "The original gold Bombers plate stopped selling for cars and trucks on June 1, 2020, but plenty are still on the road.",
-   "source": "https://www.mpi.mb.ca/specialty-plates-non-member/"
+   "source": "https://www.mpi.mb.ca/specialty-plates-non-member/",
+   "img_url": "https://www.mpi.mb.ca/wp-content/uploads/2022/10/plate-blue-bombers.png"
   },
   {
    "id": "winnipeg-goldeyes",
