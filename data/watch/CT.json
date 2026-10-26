@@ -2,10 +2,45 @@
  "code": "CT",
  "url": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US",
  "pictures": {
+  "/dmv/-/media/dmv/images/amistad.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/amistad.gif?sc_lang=en&rev=b931267dd9a140a2896e3d729e950a90&hash=BB18520C8295B7AD700950F1D808576C",
+   "alt": "",
+   "verdict": "plate:amistad"
+  },
+  "/dmv/-/media/dmv/images/blue-knights.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/blue-knights.gif?sc_lang=en&rev=2a5d47b3df2d4a47a8f286b25eca2b6d&hash=53B4E608B1D05728784003FECD7095F4",
+   "alt": "",
+   "verdict": "plate:blue-knights-international"
+  },
   "/dmv/-/media/dmv/images/borinqueneers.jpg": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/borinqueneers.jpg?rev=14eb57e475574afda9b03e5df22fea3d&hash=2F69E38F43A13C9BC70EBE2A0F9706AC",
    "alt": "",
    "verdict": "new:65th-infantry-regiment-borinqueneers"
+  },
+  "/dmv/-/media/dmv/images/bpoe.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/bpoe.gif?sc_lang=en&rev=0e5f7047de8a4dc2a5e0c9c91afe8da8&hash=125AA135885B2BA59EE1AEA5B0F7E0AE",
+   "alt": "",
+   "verdict": "plate:benevolent-protective-order-of-the-elks"
+  },
+  "/dmv/-/media/dmv/images/burnam-festival.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/burnam-festival.gif?sc_lang=en&rev=36d1ff20dce74f4c830a824f73992b16&hash=31893E156C86AC6FC2AE75BCCEF76C7F",
+   "alt": "",
+   "verdict": "plate:p-t-barnum-foundation-inc"
+  },
+  "/dmv/-/media/dmv/images/celnursing.jpg": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/celnursing.jpg?sc_lang=en&rev=a70e565a73e74abc835b1b027d9d4aab&hash=CF40A751467957B75F9A3A2D86C7CB29",
+   "alt": "",
+   "verdict": "new:thank-you-for-showing-interest-in-the-ce"
+  },
+  "/dmv/-/media/dmv/images/cpc.png": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/cpc.png?sc_lang=en&rev=066fceb2b36c4672a871d5c5fdaeb0b8&hash=965982F27E4FE3B44FC50B3A6E83A773",
+   "alt": "",
+   "verdict": "plate:cure-prostate-cancer"
+  },
+  "/dmv/-/media/dmv/images/cure-kids.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/cure-kids.gif?sc_lang=en&rev=e3a1b7b0788d4be4945e05503447dbd8&hash=87689BFDAAE644F0065A3FC9955E59D2",
+   "alt": "",
+   "verdict": "plate:cure-kids-cancer"
   },
   "/dmv/-/media/dmv/images/dvets.gif": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/dvets.gif?sc_lang=en&h=151&w=314&rev=56955cfbbca9472fa8f9d0a7ef8a3889&hash=A1B3101297CBB3E271C590D921419F14",
@@ -17,10 +52,25 @@
    "alt": "Ferrari Club of America Plate",
    "verdict": "plate:ferrari-club-of-america"
   },
+  "/dmv/-/media/dmv/images/fidelco.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/fidelco.gif?sc_lang=en&rev=fc8d95d67db346c98036f1a94526d977&hash=BE275D4C135DBB33435A5DA6B47D08F7",
+   "alt": "",
+   "verdict": "plate:fidelco-guide-dog-foundation"
+  },
   "/dmv/-/media/dmv/images/firefighter.gif": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/firefighter.gif?sc_lang=en&rev=7f56a90b7ba44065b3864e15bd40d5bd&hash=5A4D095261806D26E8E46C972811FD0F",
    "alt": "",
    "verdict": "plate:firefighters-of-connecticut"
+  },
+  "/dmv/-/media/dmv/images/fop.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/fop.gif?sc_lang=en&rev=a9f25d526255425ba6b3023146e8bf62&hash=99F9B97477C2FF6DA3DCF82153B93A0A",
+   "alt": "",
+   "verdict": "plate:fraternal-order-of-police"
+  },
+  "/dmv/-/media/dmv/images/fund-adoption.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/fund-adoption.gif?sc_lang=en&rev=a28715f316c04dafbcf8d9c3dbc6f425&hash=BBD30B30D7F903DD42FD0FB8577ADAB0",
+   "alt": "",
+   "verdict": "plate:children-first-foundation"
   },
   "/dmv/-/media/dmv/images/goldstarpla.jpg": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/goldstarpla.jpg?sc_lang=en&h=152&w=312&rev=9e9a9bff5fba44b7bbba789c6cd5ce6e&hash=A400783627C4E3C7DB69B96CBA726933",
@@ -32,6 +82,26 @@
    "alt": "",
    "verdict": "plate:connecticut-greenways"
   },
+  "/dmv/-/media/dmv/images/hartford.png": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/hartford.png?sc_lang=en&h=160&w=312&rev=fa41e9b344a0483cbe029ae36d61c685&hash=AD95DB31F03E0F3898B633BFAC1F6616",
+   "alt": "",
+   "verdict": "plate:hartford-whalers"
+  },
+  "/dmv/-/media/dmv/images/in-line-of-duty.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/in-line-of-duty.gif?sc_lang=en&rev=f42a9737bcfd4f1996eb94072bf2314d&hash=9EB0DA45474ACDA757EC75FB1BDAA05D",
+   "alt": "",
+   "verdict": "plate:police-memorial-in-the-line-of-duty"
+  },
+  "/dmv/-/media/dmv/images/iuoe.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/iuoe.gif?sc_lang=en&rev=c5b6f509f8064063a35cdb33f2923046&hash=A79D1A889FB0D25707345D2BFB26F143",
+   "alt": "",
+   "verdict": "plate:iuoe-local-478"
+  },
+  "/dmv/-/media/dmv/images/keep-kids-safe.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/keep-kids-safe.gif?sc_lang=en&rev=962cf806a27c420092ec6cda82946a33&hash=50D87BD33B7387EADE459B073B6CCE01",
+   "alt": "",
+   "verdict": "plate:keep-kids-safe"
+  },
   "/dmv/-/media/dmv/images/laos.gif": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/laos.gif?sc_lang=en&rev=46adab046f8a4b82944399d1fd2d3ae2&hash=85E34021B5F77C82ED8F433625D17438",
    "alt": "",
@@ -41,6 +111,16 @@
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/licplate.jpg?sc_lang=en&rev=3ecccc480a3b4d1bb8d82c91111905a5&hash=AC6F143BE814C0338A61429140437680",
    "alt": "",
    "verdict": "not-a-plate"
+  },
+  "/dmv/-/media/dmv/images/lions.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/lions.gif?sc_lang=en&rev=e1a366b361bd4a3fb59c66def576de55&hash=35AEAE0B44AB6786F8EED750AE3B5CAC",
+   "alt": "",
+   "verdict": "plate:lions-eye-research-foundation"
+  },
+  "/dmv/-/media/dmv/images/masonic.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/masonic.gif?sc_lang=en&rev=534da88e2dd549aea6f16df68c81418d&hash=74D9D33DE0C3CF7B649D206DDCF1E920",
+   "alt": "",
+   "verdict": "plate:grand-lodge-of-connecticut"
   },
   "/dmv/-/media/dmv/images/motorcycle.gif": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/motorcycle.gif?sc_lang=en&rev=5f004e7ec07a4d819f8f120f4a239bb3&hash=2358BDB3247C5725ABB4C5C380AE5FE1",
@@ -57,10 +137,35 @@
    "alt": "",
    "verdict": "plate:classic"
   },
+  "/dmv/-/media/dmv/images/olympics-spirit.png": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/olympics-spirit.png?sc_lang=en&h=154&w=311&rev=ca4497fce61843658ca1121915528ba2&hash=DE43B94B69859142AF1C8523574C9928",
+   "alt": "",
+   "verdict": "plate:olympic-spirit"
+  },
+  "/dmv/-/media/dmv/images/operation-lifesaver.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/operation-lifesaver.gif?sc_lang=en&rev=30e059f41e4a4e049780c88a6813ff23&hash=203A5B72FCE24E9F56A2E08E38F253B9",
+   "alt": "",
+   "verdict": "plate:operation-lifesaver"
+  },
+  "/dmv/-/media/dmv/images/organiza.jpg": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/organiza.jpg?sc_lang=en&h=78&w=147&rev=66b0bbfc84ca48ed96c2c6845390dce9&hash=43D578404D431935859FD2714AC28B09",
+   "alt": "",
+   "verdict": "pending:CT-thank-you-for-your-interest-in-creating-"
+  },
   "/dmv/-/media/dmv/images/pet.gif": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/pet.gif?sc_lang=en&h=145&w=300&rev=79d37ef1170846b48272e259db607367&hash=CB5606F6514E82F13E807642D6869B7E",
    "alt": "",
    "verdict": "plate:animal-population-control"
+  },
+  "/dmv/-/media/dmv/images/pizza-state-plate.jpg": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/pizza-state-plate.jpg?rev=9034fe5799ef4310b2246fa52b8cf9cd&hash=E23768474260F5659D730845520F087B",
+   "alt": "",
+   "verdict": "pending:CT-thank-you-for-showing-an-interest-in-the"
+  },
+  "/dmv/-/media/dmv/images/police-commissioner.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/police-commissioner.gif?sc_lang=en&rev=c1320469d02844aea7e4f9311ab76430&hash=0EB2B0F7EF149A2CBDE86FDF6EB38377",
+   "alt": "",
+   "verdict": "plate:police-commissioners-association-of-conn"
   },
   "/dmv/-/media/dmv/images/preservation-ct.jpg": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/preservation-ct.jpg?sc_lang=en&rev=51a3162272fe4657a89ebc3f039c25fc&hash=A236DA29B8D136B099A504BD437D9734",
@@ -71,6 +176,11 @@
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/radio.gif?sc_lang=en&h=146&w=309&rev=15f6ecb308b34d8bb3845f0db811dd0c&hash=237EBEC7D8AA4C98E761E985AE7C80E0",
    "alt": "",
    "verdict": "plate:amateur-radio-call-letter"
+  },
+  "/dmv/-/media/dmv/images/red-sox.png": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/red-sox.png?sc_lang=en&h=197&w=375&rev=cecc39a0fc26493eb816c38b9227f280&hash=695C3E2BFB73ED7AC1B369AACED0E8C4",
+   "alt": "",
+   "verdict": "new:thank-you-for-showing-interest-in-the-re"
   },
   "/dmv/-/media/dmv/images/savelakes.jpg": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/savelakes.jpg?sc_lang=en&h=150&w=310&rev=67a2941422e3442aacf0101706a63bec&hash=188AB62BD246E85031DB29CC803B61EF",
@@ -87,10 +197,20 @@
    "alt": "Candlewood Lake Authority Plate",
    "verdict": "plate:candlewood-lake-authority"
   },
+  "/dmv/-/media/dmv/images/spcolumb.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/spcolumb.gif?sc_lang=en&rev=07e145347aad46faa135d6083f03166e&hash=F98F8634ACDB822FE8697DCC3336BD07",
+   "alt": "",
+   "verdict": "plate:connecticut-knights-of-columbus"
+  },
   "/dmv/-/media/dmv/images/spducks.gif": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/spducks.gif?sc_lang=en&rev=986b01ec9ed64345afbf07d760888b50&hash=53C5DFA46B45E5AC71B669B78DA4BDE5",
    "alt": "",
    "verdict": "plate:ducks-unlimited"
+  },
+  "/dmv/-/media/dmv/images/special-olympics.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/special-olympics.gif?sc_lang=en&rev=f0935f3440df4677b31b0a36aa8c9882&hash=8E4B7DC078387F55748F3C8E2B5A54B3",
+   "alt": "",
+   "verdict": "plate:special-olympics"
   },
   "/dmv/-/media/dmv/images/spftgd.gif": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/spftgd.gif?sc_lang=en&rev=c5207606fab2450692c39bd69fd0113d&hash=17767E57664AB9E57B44F36462C4C53E",
@@ -212,10 +332,25 @@
    "alt": "",
    "verdict": "plate:university-of-hartford-alumni"
   },
+  "/dmv/-/media/dmv/images/uniformed-professional.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/uniformed-professional.gif?sc_lang=en&rev=4c35c1ff96854aefa5ceb3b10c24b7c6&hash=5E9005D203C3BECA035FB0740E8A0DEE",
+   "alt": "",
+   "verdict": "plate:uniformed-professional-firefighters-asso"
+  },
+  "/dmv/-/media/dmv/images/united-we-stand.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/united-we-stand.gif?sc_lang=en&rev=bdc39f9144a742fbbe03439f9169f8ea&hash=037871F06A9DC28643B22B71894FD8A6",
+   "alt": "",
+   "verdict": "plate:united-we-stand"
+  },
   "/dmv/-/media/dmv/images/univnh.jpg": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/univnh.jpg?sc_lang=en&h=146&w=320&rev=93db6ae89761443380af1b7f4d5c9da3&hash=C24EDA4A8EF277291D2809E11A4B5F66",
    "alt": "",
    "verdict": "rejected"
+  },
+  "/dmv/-/media/dmv/images/uss.gif": {
+   "src": "https://portal.ct.gov/dmv/-/media/dmv/images/uss.gif?sc_lang=en&rev=5a07784ea2c549d38e3eb48f387970ff&hash=F0265AA58DB2D16287C89CC34BDC84F5",
+   "alt": "",
+   "verdict": "plate:uss-connecticut-commissioning-committee"
   },
   "/dmv/-/media/dmv/images/vet.gif": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/vet.gif?sc_lang=en&rev=a7152ade68a54a5e9ef1c8f9ecba36ae&hash=127EBE30F1D34818DC9E419A54DDEA75",

@@ -446,6 +446,24 @@
    "added": "2026-10-26",
    "auto": true,
    "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+  },
+  {
+   "id": "thank-you-for-showing-interest-in-the-ce",
+   "name": "Thank you for showing interest in the celebrate nursing",
+   "cat": "other",
+   "img": "thank-you-for-showing-interest-in-the-ce.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
+  },
+  {
+   "id": "thank-you-for-showing-interest-in-the-re",
+   "name": "Thank you for showing interest in the Red Sox Foundation . W",
+   "cat": "sports",
+   "img": "thank-you-for-showing-interest-in-the-re.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US"
   }
  ]
 }

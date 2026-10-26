@@ -9,7 +9,7 @@
   "url": "https://www.revenue.alabama.gov/license-plates/",
   "ok": true,
   "pictures": 51,
-  "plates": 9,
+  "plates": 36,
   "added": [],
   "checked": "2026-10-26"
  },
@@ -35,31 +35,30 @@
   "url": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US",
   "ok": true,
   "pictures": 72,
-  "plates": 2,
-  "added": [],
+  "plates": 65,
+  "added": [
+   "thank-you-for-showing-interest-in-the-ce",
+   "thank-you-for-showing-interest-in-the-re"
+  ],
   "checked": "2026-10-26"
  },
  "DC": {
   "url": "https://dmv.dc.gov/service/organizations-offering-dc-dmv-vehicle-tags",
-  "ok": true,
-  "pictures": 35,
-  "plates": 20,
-  "added": [],
+  "ok": false,
+  "error": "HTTP Error 503: Service Unavailable",
   "checked": "2026-10-26"
  },
  "DC-2": {
   "url": "https://dmv.dc.gov/service/specialty-vehicle-tags",
-  "ok": true,
-  "pictures": 19,
-  "plates": 2,
-  "added": [],
+  "ok": false,
+  "error": "The read operation timed out",
   "checked": "2026-10-26"
  },
  "DE": {
   "url": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all",
   "ok": true,
   "pictures": 155,
-  "plates": 118,
+  "plates": 136,
   "added": [],
   "checked": "2026-10-26"
  },
@@ -177,7 +176,7 @@
   "url": "https://apps.nd.gov/dot/mv/mvrenewal/plateSearch.htm",
   "ok": true,
   "pictures": 60,
-  "plates": 31,
+  "plates": 46,
   "added": [],
   "checked": "2026-10-26"
  },
@@ -191,7 +190,7 @@
   "url": "https://www.state.nj.us/mvc/vehicles/serviceorg.htm",
   "ok": true,
   "pictures": 20,
-  "plates": 2,
+  "plates": 17,
   "added": [],
   "checked": "2026-10-26"
  },
@@ -199,7 +198,7 @@
   "url": "https://www.state.nj.us/mvc/vehicles/community.htm",
   "ok": true,
   "pictures": 17,
-  "plates": 2,
+  "plates": 14,
   "added": [],
   "checked": "2026-10-26"
  },
@@ -207,7 +206,7 @@
   "url": "https://www.mvd.newmexico.gov/vehicles/license-plates/",
   "ok": true,
   "pictures": 54,
-  "plates": 22,
+  "plates": 43,
   "added": [],
   "checked": "2026-10-26"
  },
@@ -221,7 +220,7 @@
   "url": "https://dmv.nv.gov/platesmain.htm",
   "ok": true,
   "pictures": 10,
-  "plates": 0,
+  "plates": 8,
   "added": [],
   "checked": "2026-10-26"
  },
@@ -241,7 +240,7 @@
   "url": "https://www.bmv.ohio.gov/vr-sp-geninfo.aspx",
   "ok": true,
   "pictures": 286,
-  "plates": 110,
+  "plates": 230,
   "added": [],
   "checked": "2026-10-26"
  },
@@ -277,7 +276,7 @@
   "url": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-types",
   "ok": true,
   "pictures": 15,
-  "plates": 0,
+  "plates": 10,
   "added": [],
   "checked": "2026-10-26"
  },
@@ -285,7 +284,7 @@
   "url": "https://www.scdmvonline.com/Vehicle-Owners/Registration/Plate-Gallery",
   "ok": true,
   "pictures": 236,
-  "plates": 0,
+  "plates": 73,
   "added": [],
   "checked": "2026-10-26"
  },
@@ -293,7 +292,7 @@
   "url": "https://dor.sd.gov/individuals/motor-vehicle/cars-trucks-vans/military-plates-veteran-tribal-active-duty/",
   "ok": true,
   "pictures": 38,
-  "plates": 2,
+  "plates": 19,
   "added": [],
   "checked": "2026-10-26"
  },
@@ -301,7 +300,7 @@
   "url": "https://dor.sd.gov/individuals/motor-vehicle/cars-trucks-vans/specialty-military-plates/",
   "ok": true,
   "pictures": 26,
-  "plates": 1,
+  "plates": 15,
   "added": [],
   "checked": "2026-10-26"
  },
@@ -309,7 +308,7 @@
   "url": "https://www.myplates.com/",
   "ok": true,
   "pictures": 9,
-  "plates": 0,
+  "plates": 5,
   "added": [],
   "checked": "2026-10-26"
  },
@@ -323,7 +322,7 @@
   "url": "https://dol.wa.gov/vehicles-and-boats/vehicles/license-plates/get-custom-plates/special-design-plates",
   "ok": true,
   "pictures": 76,
-  "plates": 30,
+  "plates": 62,
   "added": [],
   "checked": "2026-10-26"
  },

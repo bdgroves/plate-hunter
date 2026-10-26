@@ -7,6 +7,11 @@
    "alt": "Catawba Nation Plate",
    "verdict": "new:catawba-nation"
   },
+  "/sites/scdmv/files/2025-12/Gardner-Webb%20University.jpg": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/2025-12/Gardner-Webb%20University.jpg",
+   "alt": "Gardner-Webb University",
+   "verdict": "pending:SC-gardner-webb-university"
+  },
   "/sites/scdmv/files/media/Images/Plates/AND-plate.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/AND-plate.png",
    "alt": "Autistic / Neurodivergent License Plate",
@@ -157,6 +162,221 @@
    "alt": "Chase Away Childhood Cancer",
    "verdict": "plate:chase-away-childhood-cancer"
   },
+  "/sites/scdmv/files/media/Images/Plates/ChildrensHospitalofGreenville.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/ChildrensHospitalofGreenville.png",
+   "alt": "Children's Hospital of Greenville plate",
+   "verdict": "pending:SC-children-s-hospital-of-greenville"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Choose-Life-Redesign.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Choose-Life-Redesign.png",
+   "alt": "Choose Life",
+   "verdict": "pending:SC-choose-life"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Claflin-University.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Claflin-University.png",
+   "alt": "Claflin University plate",
+   "verdict": "pending:SC-claflin-university"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Clemson-National-Football-Champions-2016.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Clemson-National-Football-Champions-2016.png",
+   "alt": "Clemson National Football",
+   "verdict": "pending:SC-clemson-national-football"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Clemson-National-Football-Champions-2018.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Clemson-National-Football-Champions-2018.png",
+   "alt": "2018 Clemson National Championship Plate",
+   "verdict": "pending:SC-2018-clemson-national-championship"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Clemson.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Clemson.png",
+   "alt": "Clemson University plate",
+   "verdict": "pending:SC-clemson-university"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Coast-Guard-Distinguished-Service.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Coast-Guard-Distinguished-Service.png",
+   "alt": "Coast Guard Distinguished Service Medal plate",
+   "verdict": "plate:air-force-cross"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Coastal-Carolina-University.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Coastal-Carolina-University.png",
+   "alt": "Coastal Carolina University plate",
+   "verdict": "pending:SC-coastal-carolina-university"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Coastal-Conservation-Association.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Coastal-Conservation-Association.png",
+   "alt": "Coastal Conservation",
+   "verdict": "pending:SC-coastal-conservation"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Coker-University-NT.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Coker-University-NT.png",
+   "alt": "Coker University",
+   "verdict": "plate:association-for-pupil-transportation"
+  },
+  "/sites/scdmv/files/media/Images/Plates/College-of-Charleston.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/College-of-Charleston.png",
+   "alt": "College of Charleston plate",
+   "verdict": "pending:SC-college-of-charleston"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Columbia-College.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Columbia-College.png",
+   "alt": "Columbia College plate",
+   "verdict": "plate:back-the-badge"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Connie-Maxwell-Childrens-Ministries.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Connie-Maxwell-Childrens-Ministries.png",
+   "alt": "Connie Maxwell Children's Ministries",
+   "verdict": "pending:SC-connie-maxwell-children-s-ministries"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Converse-College.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Converse-College.png",
+   "alt": "Converse College plate",
+   "verdict": "pending:SC-converse-college"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Darlington-Raceway-NASCAR.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Darlington-Raceway-NASCAR.png",
+   "alt": "Darlington Raceway NASCAR",
+   "verdict": "pending:SC-darlington-raceway-nascar"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Darlington-Raceway/Darlington-Raceway.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Darlington-Raceway/Darlington-Raceway.png",
+   "alt": "Darlington Raceway",
+   "verdict": "pending:SC-darlington-raceway"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Darlington-Too-Tough-To-Tame/Darlington-Raceway-Too-Tough.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Darlington-Too-Tough-To-Tame/Darlington-Raceway-Too-Tough.png",
+   "alt": "Darlington Raceway Too Tough",
+   "verdict": "pending:SC-darlington-raceway-too-tough"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Delta-Sigma-Theta-Sorority.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Delta-Sigma-Theta-Sorority.png",
+   "alt": "Delta Sigma Theta",
+   "verdict": "pending:SC-delta-sigma-theta"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Denmark-Technical-College.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Denmark-Technical-College.png",
+   "alt": "Denmark Technical College",
+   "verdict": "pending:SC-denmark-technical-college"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Donate-Life.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Donate-Life.png",
+   "alt": "Donate Life",
+   "verdict": "pending:SC-donate-life"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Dr-Mary-McLeod-Bethune.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Dr-Mary-McLeod-Bethune.png",
+   "alt": "Dr. Mary Mcloed Bethune",
+   "verdict": "pending:SC-dr-mary-mcloed-bethune"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Driven-by-the-Arts.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Driven-by-the-Arts.png",
+   "alt": "Driven by the Arts",
+   "verdict": "plate:back-the-badge"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Ducks-Unlimited.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Ducks-Unlimited.png",
+   "alt": "Ducks Unlimited plate",
+   "verdict": "pending:SC-ducks-unlimited"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Eagle-Scout-Badge.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Eagle-Scout-Badge.png",
+   "alt": "Eagle Scout",
+   "verdict": "pending:SC-eagle-scout"
+  },
+  "/sites/scdmv/files/media/Images/Plates/East-Carolina-University.jpg": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/East-Carolina-University.jpg",
+   "alt": "East Carolina University",
+   "verdict": "plate:air-force"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Emergency-Medical-Services.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Emergency-Medical-Services.png",
+   "alt": "Emergency Medical Services",
+   "verdict": "pending:SC-emergency-medical-services"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Emergency-Medical-Technician.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Emergency-Medical-Technician.png",
+   "alt": "EMT plate",
+   "verdict": "pending:SC-emt"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Endangered-Species.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Endangered-Species.png",
+   "alt": "Endangered Species",
+   "verdict": "pending:SC-endangered-species"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Erskine-College.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Erskine-College.png",
+   "alt": "Erskine College",
+   "verdict": "pending:SC-erskine-college"
+  },
+  "/sites/scdmv/files/media/Images/Plates/FARM-VEHICLE.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/FARM-VEHICLE.png",
+   "alt": "Farm Vehicle",
+   "verdict": "pending:SC-farm-vehicle"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Firefighter.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Firefighter.png",
+   "alt": "Firefighter plate",
+   "verdict": "pending:SC-firefighter"
+  },
+  "/sites/scdmv/files/media/Images/Plates/First-in-Golf-GF1.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/First-in-Golf-GF1.png",
+   "alt": "First in Golf",
+   "verdict": "pending:SC-first-in-golf"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Florida-State.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Florida-State.png",
+   "alt": "Florida State University plate",
+   "verdict": "pending:SC-florida-state-university"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Forestry-Association-of-SC.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Forestry-Association-of-SC.png",
+   "alt": "Forestry Association",
+   "verdict": "pending:SC-forestry-association"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Francis-Marion.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Francis-Marion.png",
+   "alt": "FMU plate",
+   "verdict": "plate:back-the-badge"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Fraternal-Order-of-Police.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Fraternal-Order-of-Police.png",
+   "alt": "Fraternal Order of Police",
+   "verdict": "plate:back-the-badge"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Friends-of-Hunting-Island.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Friends-of-Hunting-Island.png",
+   "alt": "Hunting Island",
+   "verdict": "pending:SC-hunting-island"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Furman-University.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Furman-University.png",
+   "alt": "Furman University",
+   "verdict": "pending:SC-furman-university"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Georgia-Tech.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Georgia-Tech.png",
+   "alt": "Georgia Tech plate",
+   "verdict": "pending:SC-georgia-tech"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Gone-Fishing.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Gone-Fishing.png",
+   "alt": "Gone Fishing plate",
+   "verdict": "pending:SC-gone-fishing"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Marine-Distinguished-Service.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Marine-Distinguished-Service.png",
+   "alt": "Marine Distinguished Service plate",
+   "verdict": "plate:air-force-cross"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Medical-University-of-SC-MUSC.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Medical-University-of-SC-MUSC.png",
+   "alt": "Medical University of SC",
+   "verdict": "plate:back-the-badge"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Mississippi-State-University.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Mississippi-State-University.png",
+   "alt": "Mississippi State",
+   "verdict": "plate:back-the-badge"
+  },
   "/sites/scdmv/files/media/Images/Plates/Motorcycle-Awareness-Alliance.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Motorcycle-Awareness-Alliance.png",
    "alt": "Motorcycle Awareness",
@@ -166,6 +386,16 @@
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Motorcycle.png",
    "alt": "Motorcycle plate",
    "verdict": "not-for-cars"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Navy-Cross.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Navy-Cross.png",
+   "alt": "Navy Cross plate",
+   "verdict": "plate:air-force-cross"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Navy-Distinguished-Service-Medal.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Navy-Distinguished-Service-Medal.png",
+   "alt": "Navy Distinguished Service Medal plate",
+   "verdict": "plate:air-force-cross"
   },
   "/sites/scdmv/files/media/Images/Plates/New-Military-Images/Air-Medal.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/New-Military-Images/Air-Medal.png",
@@ -197,20 +427,175 @@
    "alt": "Bronze Star with Valor",
    "verdict": "plate:bronze-star-with-valor"
   },
+  "/sites/scdmv/files/media/Images/Plates/New-Military-Images/SC-Disabled-Female-Veteran_FD_DLP.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/New-Military-Images/SC-Disabled-Female-Veteran_FD_DLP.png",
+   "alt": "Disabled Female Veteran",
+   "verdict": "plate:disabled-female-veteran"
+  },
+  "/sites/scdmv/files/media/Images/Plates/New-Military-Images/SC-Disabled-Veteran_DV3_DLP.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/New-Military-Images/SC-Disabled-Veteran_DV3_DLP.png",
+   "alt": "Disabled Veteran",
+   "verdict": "pending:SC-disabled-veteran"
+  },
+  "/sites/scdmv/files/media/Images/Plates/New-Military-Images/SC-Distinguished-Flying-Cross-DFC_4-6-22_DLP.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/New-Military-Images/SC-Distinguished-Flying-Cross-DFC_4-6-22_DLP.png",
+   "alt": "Distinguished Flying Cross",
+   "verdict": "plate:air-force-cross"
+  },
+  "/sites/scdmv/files/media/Images/Plates/New-Military-Images/SC-Female-Veteran_FW_2-1-22_DLP.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/New-Military-Images/SC-Female-Veteran_FW_2-1-22_DLP.png",
+   "alt": "Female Veteran",
+   "verdict": "plate:female-veteran"
+  },
+  "/sites/scdmv/files/media/Images/Plates/New-Military-Images/SC-Gold-Star-Family-GS1-04-05-22-DLP.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/New-Military-Images/SC-Gold-Star-Family-GS1-04-05-22-DLP.png",
+   "alt": "Gold Star Family",
+   "verdict": "plate:gold-star-family"
+  },
+  "/sites/scdmv/files/media/Images/Plates/New-Military-Images/SC-Medal-of-Honor-Air-Force-MOHF1-DLP.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/New-Military-Images/SC-Medal-of-Honor-Air-Force-MOHF1-DLP.png",
+   "alt": "Medal of Honor Air Force",
+   "verdict": "plate:air-force-cross"
+  },
+  "/sites/scdmv/files/media/Images/Plates/New-Military-Images/SC-Medal-of-Honor-Army-MOHA1-DLP.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/New-Military-Images/SC-Medal-of-Honor-Army-MOHA1-DLP.png",
+   "alt": "Medal of Honor Army",
+   "verdict": "plate:air-force-cross"
+  },
+  "/sites/scdmv/files/media/Images/Plates/New-Military-Images/SC-Medal-of-Honor-Navy-MOHN1-DLP.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/New-Military-Images/SC-Medal-of-Honor-Navy-MOHN1-DLP.png",
+   "alt": "Medal of Honor Navy",
+   "verdict": "plate:air-force-cross"
+  },
+  "/sites/scdmv/files/media/Images/Plates/New-Military-Images/SC-National-Guard-Retired-NR-04-12-22-DLP.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/New-Military-Images/SC-National-Guard-Retired-NR-04-12-22-DLP.png",
+   "alt": "National Guard Retired",
+   "verdict": "plate:retired-national-guard"
+  },
+  "/sites/scdmv/files/media/Images/Plates/New-Military-Images/SC-State-Guard_BF_4-4-22_DLP.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/New-Military-Images/SC-State-Guard_BF_4-4-22_DLP.png",
+   "alt": "State Guard",
+   "verdict": "plate:state-guard"
+  },
   "/sites/scdmv/files/media/Images/Plates/New-Military-Images/SC-US-Air-Force-11-15-21-AE-DLP.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/New-Military-Images/SC-US-Air-Force-11-15-21-AE-DLP.png",
    "alt": "Air Force",
    "verdict": "plate:air-force"
+  },
+  "/sites/scdmv/files/media/Images/Plates/New-Military-Images/SC-US-Coast-Guard-11-18-21-CI-DLP.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/New-Military-Images/SC-US-Coast-Guard-11-18-21-CI-DLP.png",
+   "alt": "Coast Guard",
+   "verdict": "pending:SC-coast-guard"
+  },
+  "/sites/scdmv/files/media/Images/Plates/New-Military-Images/SC-US-Military-Reserves-Air-Force_NN_DLP.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/New-Military-Images/SC-US-Military-Reserves-Air-Force_NN_DLP.png",
+   "alt": "US Military Reserve Air Force",
+   "verdict": "plate:us-air-force-reserve"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Newberry-College.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Newberry-College.png",
+   "alt": "Newberry College plate",
+   "verdict": "plate:back-the-badge"
   },
   "/sites/scdmv/files/media/Images/Plates/No-Kill-SC-2024-Charleston-Animal-Society.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/No-Kill-SC-2024-Charleston-Animal-Society.png",
    "alt": "Charleston Animal Society",
    "verdict": "plate:charleston-animal-society"
   },
+  "/sites/scdmv/files/media/Images/Plates/North-Greenville.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/North-Greenville.png",
+   "alt": "North Greenville University plate",
+   "verdict": "plate:back-the-badge"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Nurses-Foundation.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Nurses-Foundation.png",
+   "alt": "Nurses Foundation plate",
+   "verdict": "plate:back-the-badge"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Omega-Psi-Phi.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Omega-Psi-Phi.png",
+   "alt": "Omega Psi Phi",
+   "verdict": "plate:beekeepers-association"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Parrothead-Club-Council.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Parrothead-Club-Council.png",
+   "alt": "Parrothead",
+   "verdict": "plate:beekeepers-association"
+  },
   "/sites/scdmv/files/media/Images/Plates/SC-250-Year-Anniversary-Revolutionary-War.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/SC-250-Year-Anniversary-Revolutionary-War.png",
    "alt": "Revolutionary War Plate",
    "verdict": "plate:250th-year-anniversary-revolutionary-war"
+  },
+  "/sites/scdmv/files/media/Images/Plates/SC-Aviation-Association.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/SC-Aviation-Association.png",
+   "alt": "Aviation Hall of Fame",
+   "verdict": "plate:back-the-badge"
+  },
+  "/sites/scdmv/files/media/Images/Plates/SC-Combat-Disabled-Veteran.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/SC-Combat-Disabled-Veteran.png",
+   "alt": "Combat Related Disabled  Veteran",
+   "verdict": "pending:SC-combat-related-disabled-veteran"
+  },
+  "/sites/scdmv/files/media/Images/Plates/SC-Drivers-For-A-Cure-AY-DLP.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/SC-Drivers-For-A-Cure-AY-DLP.png",
+   "alt": "Drivers for a Cure",
+   "verdict": "pending:SC-drivers-for-a-cure"
+  },
+  "/sites/scdmv/files/media/Images/Plates/SC-I-Believe.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/SC-I-Believe.png",
+   "alt": "i believe",
+   "verdict": "plate:beekeepers-association"
+  },
+  "/sites/scdmv/files/media/Images/Plates/SC-Kiwanis-International.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/SC-Kiwanis-International.png",
+   "alt": "Kiwanis",
+   "verdict": "plate:back-the-badge"
+  },
+  "/sites/scdmv/files/media/Images/Plates/SC-Troopers-Association.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/SC-Troopers-Association.png",
+   "alt": "Troopers Association",
+   "verdict": "plate:back-the-badge"
+  },
+  "/sites/scdmv/files/media/Images/Plates/SC-Zeta-Phi-Beta.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/SC-Zeta-Phi-Beta.png",
+   "alt": "Zeta Phi Beta",
+   "verdict": "plate:back-the-badge"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Sherman-College-of-Chiropractic.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Sherman-College-of-Chiropractic.png",
+   "alt": "Sherman College",
+   "verdict": "plate:back-the-badge"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Sons-of-Confederate-Veterans.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Sons-of-Confederate-Veterans.png",
+   "alt": "Sons of Confederate Veteran",
+   "verdict": "plate:association-for-pupil-transportation"
+  },
+  "/sites/scdmv/files/media/Images/Plates/The-Ohio-State-University.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/The-Ohio-State-University.png",
+   "alt": "OSU plate",
+   "verdict": "plate:back-the-badge"
+  },
+  "/sites/scdmv/files/media/Images/Plates/UTD-CLEMSON-MEN-SOCCER-4-TIMES.jpg": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/UTD-CLEMSON-MEN-SOCCER-4-TIMES.jpg",
+   "alt": "Clemson Men Soccer",
+   "verdict": "pending:SC-clemson-men-soccer"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Voorhees-College.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Voorhees-College.png",
+   "alt": "Voorhees College plate",
+   "verdict": "plate:back-the-badge"
+  },
+  "/sites/scdmv/files/media/Images/Plates/West-Point.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/West-Point.png",
+   "alt": "West Point plate",
+   "verdict": "plate:catawba-nation"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Wheelchair.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Wheelchair.png",
+   "alt": "Wheelchair Plate",
+   "verdict": "pending:SC-wheelchair"
   }
  },
  "checked": "2026-10-26"
