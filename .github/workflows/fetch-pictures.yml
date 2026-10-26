@@ -11,7 +11,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: fetch-pictures
+  group: plate-data
   cancel-in-progress: false
 
 jobs:

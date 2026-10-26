@@ -1,0 +1,46 @@
+name: Plate robot decisions
+
+# Brooks replies "/add KEY", "/add KEY as Better Name" or "/skip KEY" on the robot's issue;
+# this does it and answers on the issue.
+on:
+  issue_comment:
+    types: [created]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: plate-data
+  cancel-in-progress: false
+
+jobs:
+  decide:
+    if: >-
+      contains(github.event.issue.labels.*.name, 'plate-robot') &&
+      github.event.comment.author_association == 'OWNER' &&
+      (contains(github.event.comment.body, '/add') || contains(github.event.comment.body, '/skip'))
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pillow numpy
+      - name: Decide
+        env:
+          BODY: ${{ github.event.comment.body }}
+        run: python tools/plate_robot.py --decide "$BODY" | tee result.md
+      - run: python tools/validate.py
+      - name: Save and answer
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name "plate-hunter-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A data plates
+          if ! git diff --cached --quiet; then
+            git commit -m "🤖 plate robot: decisions from issue #${{ github.event.issue.number }}"
+            git pull --rebase -q && git push
+          fi
+          gh issue comment ${{ github.event.issue.number }} --body-file result.md

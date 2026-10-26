@@ -64,8 +64,10 @@ plate-hunter/
 │   ├── us-map.json         state outlines (us-atlas, Albers USA)
 │   ├── collections.json    the specialty collections and how many plates each has
 │   ├── WA.json …           one file per state: every specialty plate
-│   ├── watch.json          the agency pages the weekly watcher checks
-│   └── watch/              what those pages showed last time
+│   ├── watch.json          the agency pages the plate robot visits
+│   ├── watch/              what it decided about each picture on each page (+ _status.json)
+│   ├── known/              fingerprints of every 2023 US plate picture
+│   └── pending.json        pictures waiting for a person to say yes or no
 ├── plates/
 │   ├── WA/ OR/ …           specialty plate pictures (WebP, 480 px)
 │   └── standard/           one everyday plate per state
@@ -76,7 +78,8 @@ plate-hunter/
     ├── add_state.py        builds a state's collection from a research list
     ├── index.py            rebuilds data/collections.json
     ├── standard_plates.py  builds the States game's plate pictures
-    └── watch_plates.py     the weekly new-plate check
+    ├── plate_robot.py      the plate robot (see below)
+    └── known_hashes.py     builds data/known/ from the 2023 dataset
 ```
 
 No build step and no dependencies for the app itself. To run it locally, serve the folder (the service worker and data files need http, not `file://`):
@@ -90,7 +93,19 @@ python -m http.server 8000
 
 ## Keeping it current
 
-**New plates find you.** Every Monday, [`watch-plates.yml`](.github/workflows/watch-plates.yml) loads each agency's plate page listed in `data/watch.json` and compares the plate pictures with last week's. If any appeared or disappeared, it opens an issue labeled `new-plates` with links to them. People can also report one from the game (**?** → *Tell us on GitHub*).
+### 🤖 The plate robot
+
+Every Monday and Thursday, [`plate-robot.yml`](.github/workflows/plate-robot.yml) runs `tools/plate_robot.py`, which visits each licensing agency page in `data/watch.json` and looks at every picture on it once:
+
+1. **Not plate-shaped** (logos, banners, photos): ignored.
+2. **A plate the game already has**: matched by a 256-bit picture fingerprint (the same plate scores 0–6; different plates 10 and up), so a re-hosted or resized picture is still recognized.
+3. **A plate the game leaves out on purpose** (motorcycle, dealer, variants), recognized from `data/known/`: ignored.
+4. **New, and clearly a plate** (its fingerprint is close to some known US plate, and the page gives it a name): **added to the game by itself**, with the picture, a name from the page, a guessed category and a **NEW** badge for 60 days. Players find them under the 🆕 filter.
+5. **New, but the robot isn't sure**: saved to `data/pending.json` and shown on the robot's GitHub issue with its picture. Reply on the issue with `/add KEY`, `/add KEY as Better Name`, `/skip KEY`, or `/add all` / `/skip all`, and [`robot-decide.yml`](.github/workflows/robot-decide.yml) does it within a minute or two. Only the repo owner's replies count.
+
+It never removes a plate (retired plates stay on the road for years); it only notes pictures that left a page. A page that suddenly shows more than 25 unknown pictures adds nothing by itself. Pages it can't read are listed in `data/watch/_status.json` and on the issue. To run it now: Actions → *Plate robot* → *Run workflow* (optionally for a few states).
+
+People can also report a plate from the game (**?** → *Tell us on GitHub*).
 
 ### Adding a plate
 

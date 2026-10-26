@@ -182,3 +182,4 @@ header{background:linear-gradient(160deg,var(--head1),var(--head2));padding:10px
 .search{padding:9px 11px 0;background:rgba(10,18,30,.92)}
 .search input{width:100%;background:var(--card);color:var(--txt);border:1.5px solid rgba(255,255,255,.14);border-radius:99px;padding:8px 14px;font:700 .85rem Nunito,sans-serif}
 .search input::placeholder{color:var(--mut)}
+.newb{display:inline-block;background:var(--r);color:#fff;font-size:.56rem;font-weight:900;letter-spacing:.5px;padding:1px 5px;border-radius:4px;vertical-align:1px}

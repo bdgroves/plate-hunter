@@ -1,0 +1,55 @@
+name: Plate robot
+
+# Twice a week, visit every licensing agency page in data/watch.json, add plates that are
+# new to the game, and post what it did (and anything it's unsure about) on one issue.
+on:
+  schedule:
+    - cron: "17 15 * * 1,4"   # Mondays and Thursdays, ~8 a.m. Pacific
+  workflow_dispatch:
+    inputs:
+      only:
+        description: "State codes to visit (blank = all)"
+        required: false
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: plate-data
+  cancel-in-progress: false
+
+jobs:
+  robot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pillow numpy
+      - name: Visit the agency pages
+        run: python tools/plate_robot.py --report report.md ${{ inputs.only && format('--only {0}', inputs.only) || '' }}
+      - run: python tools/validate.py
+      - name: Save
+        run: |
+          git config user.name "plate-hunter-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A data plates
+          if ! git diff --cached --quiet; then
+            git commit -m "🤖 plate robot: $(date +%Y-%m-%d)"
+            git pull --rebase -q && git push
+          fi
+      - name: Post to the robot's issue
+        if: hashFiles('report.md') != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh label create plate-robot --color F5C518 --description "What the plate robot found" 2>/dev/null || true
+          num=$(gh issue list --label plate-robot --state open --json number --jq '.[0].number')
+          if [ -n "$num" ]; then
+            gh issue comment "$num" --body-file report.md
+          else
+            gh issue create --title "🤖 Plate robot" --label plate-robot --body-file report.md
+          fi

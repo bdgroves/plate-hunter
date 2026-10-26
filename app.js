@@ -148,11 +148,15 @@ function stateCard(s) {
     </button></div>`;
 }
 
+// Plates the robot (or a person) added in the last 60 days get a NEW badge.
+const isNew = p => p.added && (Date.now() - Date.parse(p.added + 'T12:00:00')) < 60 * 864e5;
+
 const opt = k => `<option value="${k.code}"${S.colCode === k.code ? ' selected' : ''}>${esc(k.name)} (${k.count.toLocaleString()})</option>`;
 
 function renderSpecialty() {
   const c = S.col;
   const counts = {}; c.plates.forEach(p => counts[p.cat] = (counts[p.cat] || 0) + 1);
+  const fresh = c.plates.filter(isNew).length;
   const cats = CATS.filter(([k]) => counts[k]);
   $('#main').innerHTML = `
   <div class="picker">
@@ -177,6 +181,7 @@ function renderSpecialty() {
   <div class="fb" id="fb" role="group" aria-label="Filter plates">
     <button class="ch" data-cat="all" aria-pressed="true">All ${c.plates.length}</button>
     ${cats.map(([k, e, l]) => `<button class="ch" data-cat="${k}" aria-pressed="false">${e} ${l}<span class="n">${counts[k]}</span></button>`).join('')}
+    ${fresh ? `<button class="ch" data-cat="new" aria-pressed="false">🆕 New<span class="n">${fresh}</span></button>` : ''}
     <button class="ch" data-cat="found" aria-pressed="false">✅ Found</button>
   </div>
   <div class="grid" id="grid"></div>`;
@@ -199,7 +204,8 @@ function renderSpecialty() {
 
 function renderGrid() {
   const c = S.col, f = S.filter;
-  let list = f === 'all' ? c.plates : f === 'found' ? c.plates.filter(p => c.found[p.id]) : c.plates.filter(p => p.cat === f);
+  let list = f === 'all' ? c.plates : f === 'found' ? c.plates.filter(p => c.found[p.id])
+    : f === 'new' ? c.plates.filter(isNew) : c.plates.filter(p => p.cat === f);
   if (S.q) list = list.filter(p => p.name.toLowerCase().includes(S.q));
   $('#grid').innerHTML = list.length ? list.map(p => {
     const fd = !!c.found[p.id];
@@ -208,7 +214,7 @@ function renderGrid() {
         <div class="iw">${platePic(c, p)}<div class="chk">✓</div></div>
       </button>
       <button class="hit ci" data-info="${p.id}" aria-label="About the ${esc(p.name)} plate">
-        <div class="cn">${esc(p.name)}</div>
+        <div class="cn">${isNew(p) ? '<span class="newb">NEW</span> ' : ''}${esc(p.name)}</div>
         <div class="cm"><span class="rar r-${p.rar}">${p.rar}</span><span class="pts">+${p.pts} pts</span></div>
       </button></div>`;
   }).join('') : `<div class="empty"><b>🔍</b>${S.q ? `No plate matches “${esc(S.q)}”.` : f === 'found' ? 'No plates found yet.<br>Get out there and start hunting!' : 'Nothing here.'}</div>`;
