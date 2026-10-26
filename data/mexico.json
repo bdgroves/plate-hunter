@@ -94,8 +94,7 @@
   "code": "JAL",
   "name": "Jalisco",
   "country": "MX",
-  "img": null,
-  "img_url": "https://d2shyreu57721j.cloudfront.net/jalisco/images/54309417375_73555d37f0_c.2e16d0ba.fill-1920x1080.jpg",
+  "img": "plates/standard/JAL.webp",
   "note": "The 'Cabañas' plate is white with a row of little orange-and-blue icons up top (the Hospicio Cabañas dome, the state seal and an agave) and a QR code in the corner."
  },
  {
