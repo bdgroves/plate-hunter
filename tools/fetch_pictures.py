@@ -27,6 +27,9 @@ def grab(url: str, dest: Path, width: int) -> bool:
     try:
         raw = urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=60).read()
         im = Image.open(io.BytesIO(raw))
+        if not 1.3 <= im.width / max(im.height, 1) <= 3.2:   # artwork or a flyer, not a plate
+            print(f"  {url}: not plate-shaped ({im.width}x{im.height}); left for a person", file=sys.stderr)
+            return False
         im = im.convert("RGBA") if im.mode in ("P", "LA", "RGBA") else im.convert("RGB")
         if im.width > width:
             im = im.resize((width, round(im.height * width / im.width)), Image.LANCZOS)
@@ -45,8 +48,10 @@ def main() -> int:
         doc = json.loads(f.read_text())
         changed = False
         for p in doc["plates"]:
-            if p.get("img_url") and grab(p["img_url"], ROOT / "plates" / c["code"] / f"{p['id']}.webp", 480):
-                p["img"] = f"{p['id']}.webp"
+            # a redesign gets a new file name, so phones that saved the old picture fetch the new one
+            name = f"{p['id']}-{p['redesigned']}.webp" if p.get("img") and p.get("redesigned") else f"{p['id']}.webp"
+            if p.get("img_url") and grab(p["img_url"], ROOT / "plates" / c["code"] / name, 480):
+                p["img"] = name
                 del p["img_url"]
                 changed = True
                 got += 1

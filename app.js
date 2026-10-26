@@ -324,7 +324,7 @@ function openPlate(id) {
   <div class="drawer-body">
     <h2 class="drawer-name" id="dTitle">${esc(p.name)}</h2>
     <div class="drawer-meta"><span class="rar r-${p.rar}">${p.rar}</span><span class="pts">+${p.pts} pts</span>
-      ${p.year ? `<span>First issued ${esc(p.year)}</span>` : ''}${p.vehicles ? `<span>🚗 ${esc(vehiclesLine(p.vehicles, c.name))}</span>` : ''}</div>
+      ${p.year ? `<span>First issued ${esc(p.year)}</span>` : ''}${p.retired ? '<span>No longer sold, still on the road</span>' : ''}${p.vehicles ? `<span>🚗 ${esc(vehiclesLine(p.vehicles, c.name))}</span>` : ''}</div>
     ${p.fact ? `<div class="fact-box"><div class="fact-label">💡 Did you know?</div><div class="info-text">${esc(p.fact)}</div></div>` : ''}
     ${p.supports ? `<div class="info-section"><div class="info-label">Supports</div><div class="info-text">${esc(p.supports)}</div></div>` : ''}
     ${f ? `<div class="info-section"><div class="info-label">Found</div><div class="info-text">${esc(fmtDate(f))}</div></div>` : ''}
