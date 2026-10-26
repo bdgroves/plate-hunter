@@ -52,7 +52,7 @@
   "code": "PE",
   "name": "Prince Edward Island",
   "country": "CA",
-  "img": null,
+  "img": "plates/standard/PE.webp",
   "note": "PEI refreshed its plate in late 2022 with a simple, high-visibility design as it moved to 6-digit numbers, and added a distinct plate for electric vehicles."
  },
  {
@@ -80,9 +80,8 @@
   "code": "NU",
   "name": "Nunavut",
   "country": "CA",
-  "img": null,
-  "note": "In 2025 Nunavut brought back a polar-bear-shaped plate, inspired by the territory's 25th anniversary, and began issuing it in September 2025.",
-  "img_url": "https://www.gov.nu.ca/sites/default/files/images/2025-05/Picture1.jpg"
+  "img": "plates/standard/NU.webp",
+  "note": "In 2025 Nunavut brought back a polar-bear-shaped plate, inspired by the territory's 25th anniversary, and began issuing it in September 2025."
  },
  {
   "code": "YT",

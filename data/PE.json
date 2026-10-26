@@ -7,7 +7,7 @@
    "id": "canada-s-food-island",
    "name": "Canada's Food Island",
    "cat": "charity",
-   "img": null,
+   "img": "canada-s-food-island.webp",
    "year": "2022",
    "supports": "Island Food Banks (all proceeds, $10 surcharge)",
    "fact": "Every dollar of the extra fee goes to Island food banks.",
@@ -17,7 +17,7 @@
    "id": "wildlife-conservation-red-fox",
    "name": "Wildlife Conservation - Red Fox",
    "cat": "nature",
-   "img": null,
+   "img": "wildlife-conservation-red-fox.webp",
    "year": "2013",
    "supports": "Wildlife Conservation Fund ($10)",
    "fact": "The red fox was the most popular conservation plate in 2015, with over 5,500 registered.",
@@ -27,7 +27,7 @@
    "id": "wildlife-conservation-blue-jay",
    "name": "Wildlife Conservation - Blue Jay",
    "cat": "nature",
-   "img": null,
+   "img": "wildlife-conservation-blue-jay.webp",
    "year": "2013",
    "supports": "Wildlife Conservation Fund ($10)",
    "fact": "The blue jay is PEI's provincial bird.",
@@ -37,7 +37,7 @@
    "id": "wildlife-conservation-canada-goose",
    "name": "Wildlife Conservation - Canada Goose",
    "cat": "nature",
-   "img": null,
+   "img": "wildlife-conservation-canada-goose.webp",
    "year": "2013",
    "supports": "Wildlife Conservation Fund ($10)",
    "source": "https://archivenews.princeedwardisland.ca/thousands-support-wildlife-through-conservation-plates"
@@ -46,7 +46,7 @@
    "id": "wildlife-conservation-speckled-trout",
    "name": "Wildlife Conservation - Speckled Trout",
    "cat": "nature",
-   "img": null,
+   "img": "wildlife-conservation-speckled-trout.webp",
    "year": "2013",
    "supports": "Wildlife Conservation Fund ($10)",
    "source": "https://archivenews.princeedwardisland.ca/thousands-support-wildlife-through-conservation-plates"
@@ -55,7 +55,7 @@
    "id": "wildlife-conservation-lady-s-slipper",
    "name": "Wildlife Conservation - Lady's Slipper",
    "cat": "nature",
-   "img": null,
+   "img": "wildlife-conservation-lady-s-slipper.webp",
    "year": "2013",
    "supports": "Wildlife Conservation Fund ($10)",
    "fact": "The lady's slipper is PEI's provincial flower.",
@@ -65,7 +65,7 @@
    "id": "electric-vehicle",
    "name": "Electric Vehicle",
    "cat": "vehicle",
-   "img": null,
+   "img": "electric-vehicle.webp",
    "year": "2022",
    "fact": "PEI's first plate just for electric vehicles arrived with the 2022 redesign.",
    "source": "https://www.princeedwardisland.ca/en/news/province-unveils-new-license-plates"
@@ -74,14 +74,14 @@
    "id": "veteran-license-plate",
    "name": "Veteran License Plate",
    "cat": "veterans",
-   "img": null,
+   "img": "veteran-license-plate.webp",
    "source": "https://www.princeedwardisland.ca/en/information/transportation-and-infrastructure/veteran-license-plate-registration"
   },
   {
    "id": "volunteer-firefighter",
    "name": "Volunteer Firefighter",
    "cat": "firstresponder",
-   "img": null,
+   "img": "volunteer-firefighter.webp",
    "fact": "Active volunteer firefighters register their vehicle free.",
    "source": "https://www.princeedwardisland.ca/en/information/transportation-and-infrastructure/volunteer-firefighter-vehicle-registration"
   },
@@ -97,11 +97,35 @@
    "id": "paramedic-license-plate",
    "name": "Paramedic License Plate",
    "cat": "firstresponder",
-   "img": null,
+   "img": "paramedic-license-plate.webp",
    "year": "2024",
    "supports": "Developed with the Paramedic Association of PEI",
    "fact": "Available in English and French, it shows a red maple leaf and the Star of Life.",
    "source": "https://www.princeedwardisland.ca/en/information/transportation-and-infrastructure/paramedic-license-plate"
+  },
+  {
+   "id": "canadian-coast-guard-auxiliary",
+   "name": "Canadian Coast Guard Auxiliary",
+   "cat": "firstresponder",
+   "img": "canadian-coast-guard-auxiliary.webp",
+   "added": "2026-10-26",
+   "source": "https://www.princeedwardisland.ca/sites/default/files/publications/types_of_pei_license_plates.pdf"
+  },
+  {
+   "id": "ground-search-and-rescue",
+   "name": "Ground Search and Rescue",
+   "cat": "firstresponder",
+   "img": "ground-search-and-rescue.webp",
+   "added": "2026-10-26",
+   "source": "https://www.princeedwardisland.ca/sites/default/files/publications/types_of_pei_license_plates.pdf"
+  },
+  {
+   "id": "amateur-radio",
+   "name": "Amateur Radio",
+   "cat": "hobby",
+   "img": "amateur-radio.webp",
+   "added": "2026-10-26",
+   "source": "https://www.princeedwardisland.ca/sites/default/files/publications/types_of_pei_license_plates.pdf"
   }
  ],
  "updated": "2026-10-26",
