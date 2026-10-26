@@ -4,7 +4,7 @@
  "rated": false,
  "checked": false,
  "updated": "2026-10-25",
- "about": "Missouri special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "about": "Missouri special-design plates. Not rated yet: every plate is worth the same. Partly checked for plates added since 2023.",
  "sources": [
   {
    "title": "Jon Keegan, us-license-plates (2023)",
@@ -959,6 +959,61 @@
    "name": "World War II Veteran",
    "cat": "veterans",
    "img": "world-war-ii-veteran.webp"
+  },
+  {
+   "id": "conservation-heritage-foundation-bass-fi",
+   "name": "Conservation Heritage Foundation – Bass/Fish",
+   "cat": "nature",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://dor.mo.gov/motor-vehicle/plates/documents/SpecialtyPlateChart-FEB-8.pdf",
+   "year": "2023"
+  },
+  {
+   "id": "army-of-occupation-medal",
+   "name": "Army of Occupation Medal",
+   "cat": "military",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://dor.mo.gov/motor-vehicle/plates/documents/SpecialtyPlateChart-FEB-8.pdf",
+   "year": "2024"
+  },
+  {
+   "id": "respiratory-therapist",
+   "name": "Respiratory Therapist",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://dor.mo.gov/motor-vehicle/plates/documents/SpecialtyPlateChart-FEB-8.pdf",
+   "year": "2024"
+  },
+  {
+   "id": "bee-friendly",
+   "name": "Bee Friendly",
+   "cat": "nature",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://dor.mo.gov/motor-vehicle/plates/documents/SpecialtyPlateChart-FEB-8.pdf",
+   "year": "2025"
+  },
+  {
+   "id": "cars-and-coffee-foundation",
+   "name": "Cars and Coffee Foundation",
+   "cat": "hobby",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://dor.mo.gov/motor-vehicle/plates/documents/SpecialtyPlateChart-FEB-8.pdf",
+   "year": "2025"
+  },
+  {
+   "id": "missouri-sheriffs-association",
+   "name": "Missouri Sheriffs Association",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://dor.mo.gov/motor-vehicle/plates/documents/SpecialtyPlateChart-FEB-8.pdf",
+   "year": "2025"
   }
- ]
+ ],
+ "checked_on": "2026-10-26"
 }

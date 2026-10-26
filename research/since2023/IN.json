@@ -1,0 +1,41 @@
+{
+ "state": "IN",
+ "checked": [
+  "https://secure.in.gov/bmv/files/pr-new-sgrs-2026.pdf",
+  "https://secure.in.gov/bmv/files/pr-blackout-plate.pdf",
+  "https://www.in.gov/bmv/files/pr-blackout-your-truck-motorcycle.pdf",
+  "https://www.in.gov/bmv/files/pr-gold-star-plate.pdf",
+  "https://www.in.gov/bmv/registration-plates/license-plates-overview/",
+  "https://secure.in.gov/bmv/registration-plates/license-plates-overview/license-plate-designs",
+  "https://www.in.gov/bmv/registration-plates/license-plates-overview/indianas-organizational-license-plates/",
+  "https://www.in.gov/bmv/registration-plates/includes/plates-data.csv (fetch failed)",
+  "https://indianacapitalchronicle.com/2025/09/08/indiana-license-plate-sales-lift-charitable-efforts-new-requirements-may-limit-who-can-take-part/",
+  "https://alz.org/indiana/advocacy/in-end-alz-license-plate",
+  "https://www.wane.com/news/local-news/purdue-fort-wayne-license-plate-among-new-bmv-designs-for-hoosiers/amp/",
+  "https://www.wbetfm.com/view_article.php?id=961"
+ ],
+ "robot_url": null,
+ "new": [
+  {"title": "Blackout", "cat": "other",
+   "source_img": "https://www.in.gov/dA/505565ea9b/blackout-plate-newpl8.png?language_id=1",
+   "source": "https://secure.in.gov/bmv/files/pr-blackout-plate.pdf", "year": "2025", "matches_existing": null},
+  {"title": "Alzheimer's Association Greater Indiana Chapter (END ALZ)", "cat": "charity",
+   "source_img": "https://www.alz.org/getmedia/b4560458-290d-4a2e-b180-9a3a4c8563fa/license-plate.png",
+   "source": "https://indianacapitalchronicle.com/2025/09/08/indiana-license-plate-sales-lift-charitable-efforts-new-requirements-may-limit-who-can-take-part/", "year": "2025", "matches_existing": null},
+  {"title": "Indiana Fever Fund of the Pacers Foundation", "cat": "sports", "source_img": null,
+   "source": "https://secure.in.gov/bmv/files/pr-new-sgrs-2026.pdf", "year": "2026", "matches_existing": null},
+  {"title": "Indiana State Teachers Association (ISTA) Foundation", "cat": "charity", "source_img": null,
+   "source": "https://secure.in.gov/bmv/files/pr-new-sgrs-2026.pdf", "year": "2026", "matches_existing": null},
+  {"title": "Pollinator Partnership", "cat": "nature", "source_img": null,
+   "source": "https://secure.in.gov/bmv/files/pr-new-sgrs-2026.pdf", "year": "2026", "matches_existing": null},
+  {"title": "Purdue University Northwest", "cat": "colleges", "source_img": null,
+   "source": "https://secure.in.gov/bmv/files/pr-new-sgrs-2026.pdf", "year": "2026", "matches_existing": null},
+  {"title": "Purdue University Fort Wayne", "cat": "colleges", "source_img": null,
+   "source": "https://secure.in.gov/bmv/files/pr-new-sgrs-2026.pdf", "year": "2026", "matches_existing": "Purdue University Fort Wayne"}
+ ],
+ "redesigned": [
+  {"name_in_game": "Gold Star Family", "source_img": null, "note": "BMV press release of Jan 9, 2024 announces a redesigned Gold Star Family plate; no image URL could be read."}
+ ],
+ "retired": [],
+ "notes": "The BMV lists all 2026 SGR plates as new, including Purdue University Fort Wayne (Mastodon design), which the game already has; it is either a re-admitted or redesigned plate. The BMV plate gallery is built in JavaScript from plates-data.csv, which could not be fetched, so there is no robot_url and no official images for the 2026 plates. HEA 1390 (2025) puts weak sellers on probation and then terminates them, but no retirements were named."
+}

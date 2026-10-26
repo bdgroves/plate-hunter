@@ -1,0 +1,53 @@
+{
+ "state": "UT",
+ "checked": [
+  "https://dmv.utah.gov/plates/license-plates/",
+  "https://dmv.utah.gov/plates/license-plates/license-plate-faq/",
+  "https://dmv.utah.gov/plates/wildlifeeagle",
+  "https://www.kpcw.org/state-regional/2026-07-01/utahs-specialty-license-plates-are-getting-a-fancy-full-color-makeover",
+  "https://townlift.com/2026/07/utah-rolls-out-new-license-plates-from-america-250-to-jazz-and-mammoth-designs/",
+  "https://www.axios.com/local/salt-lake-city/2026/07/02/utah-specialty-plates-redesign-2026",
+  "https://townlift.com/2026/10/new-utah-license-plate-will-help-pay-off-school-lunch-debt/",
+  "https://liveonutah.org/?p=5283",
+  "https://wildlife.utah.gov/licenseplates"
+ ],
+ "robot_url": "https://dmv.utah.gov/plates/license-plates/",
+ "new": [
+  {"title": "Great Salt Lake Preservation", "cat": "nature", "source_img": "https://dmv.utah.gov/wp-content/uploads/gsl-1.png", "source": "https://dmv.utah.gov/plates/license-plates/", "year": "2025", "matches_existing": null},
+  {"title": "America 250 (Limited Time)", "cat": "other", "source_img": "https://dmv.utah.gov/wp-content/uploads/America-250-plate-2.png", "source": "https://dmv.utah.gov/plates/license-plates/", "year": "2026", "matches_existing": null},
+  {"title": "NHL - Utah Mammoth", "cat": "sports", "source_img": "https://dmv.utah.gov/wp-content/uploads/mammoth.png", "source": "https://dmv.utah.gov/plates/license-plates/", "year": "2026", "matches_existing": null},
+  {"title": "Utah Lunch Debt Relief", "cat": "charity", "source_img": "https://dmv.utah.gov/wp-content/uploads/lunch-debt-relief.png", "source": "https://dmv.utah.gov/plates/license-plates/", "year": "2026", "matches_existing": null},
+  {"title": "Live On - Suicide Prevention", "cat": "charity", "source_img": "https://dmv.utah.gov/wp-content/uploads/liveon-1.png", "source": "https://dmv.utah.gov/plates/license-plates/", "year": null, "matches_existing": null},
+  {"title": "Everyone Outdoors", "cat": "nature", "source_img": "https://dmv.utah.gov/wp-content/uploads/everyone-outdoors-1.png", "source": "https://dmv.utah.gov/plates/license-plates/", "year": null, "matches_existing": null},
+  {"title": "White and Black Classic", "cat": "vehicle", "source_img": "https://dmv.utah.gov/wp-content/uploads/hitoric-white.png", "source": "https://dmv.utah.gov/plates/license-plates/", "year": "2026", "matches_existing": null},
+  {"title": "Brigham Young University - Athletic", "cat": "colleges", "source_img": "https://dmv.utah.gov/wp-content/uploads/byu-athletic.png", "source": "https://dmv.utah.gov/plates/license-plates/", "year": null, "matches_existing": "Collegiate – Brigham Young University"},
+  {"title": "Utah State University - Athletic", "cat": "colleges", "source_img": "https://dmv.utah.gov/wp-content/uploads/usuathletic.png", "source": "https://dmv.utah.gov/plates/license-plates/", "year": null, "matches_existing": "Collegiate – Utah State University"},
+  {"title": "Weber State University - Athletic", "cat": "colleges", "source_img": "https://dmv.utah.gov/wp-content/uploads/wsuathletic.png", "source": "https://dmv.utah.gov/plates/license-plates/", "year": null, "matches_existing": "Collegiate – Weber State University"}
+ ],
+ "redesigned": [
+  {"name_in_game": "National Basketball Association (NBA) – Utah Jazz", "source_img": "https://dmv.utah.gov/wp-content/uploads/nba-1.png", "note": "new full-color design issued July 1, 2026"},
+  {"name_in_game": "Share the Road", "source_img": "https://dmv.utah.gov/wp-content/uploads/sharetheroad-1.png", "note": "new full-color design issued July 1, 2026"},
+  {"name_in_game": "Collegiate – University of Utah (2 options available", "source_img": "https://dmv.utah.gov/wp-content/uploads/uofuathletic.png", "note": "new design issued July 1, 2026; academic version at https://dmv.utah.gov/wp-content/uploads/uofuacademic.png"},
+  {"name_in_game": "Collegiate – Brigham Young University", "source_img": "https://dmv.utah.gov/wp-content/uploads/byu-1.png", "note": "new design issued July 1, 2026 (academic version)"},
+  {"name_in_game": "Collegiate – Weber State University", "source_img": "https://dmv.utah.gov/wp-content/uploads/wsuacademic.png", "note": "new design issued July 1, 2026 (academic version)"},
+  {"name_in_game": "Collegiate – Snow College", "source_img": "https://dmv.utah.gov/wp-content/uploads/snow-1.png", "note": "new design issued July 1, 2026"},
+  {"name_in_game": "Wildlife – Elk", "source_img": "https://dmv.utah.gov/wp-content/uploads/wildlifeelk-1.png", "note": "new design issued July 1, 2026"},
+  {"name_in_game": "Wildlife – Kestrel", "source_img": "https://dmv.utah.gov/wp-content/uploads/wildlifekestrel-1.png", "note": "new design issued July 1, 2026"},
+  {"name_in_game": "Wildlife – Mule Deer", "source_img": "https://dmv.utah.gov/wp-content/uploads/wildlifedeer-1.png", "note": "new design issued July 1, 2026"},
+  {"name_in_game": "Wildlife – Trout", "source_img": "https://dmv.utah.gov/wp-content/uploads/wildlifetrout-1.png", "note": "new design issued July 1, 2026"}
+ ],
+ "retired": [
+  {"name_in_game": "Prostate Cancer Awareness", "source": "https://dmv.utah.gov/plates/license-plates/"},
+  {"name_in_game": "Snowmobiler", "source": "https://dmv.utah.gov/plates/license-plates/"},
+  {"name_in_game": "Clean Fuel – Clean Air", "source": "https://dmv.utah.gov/plates/license-plates/"},
+  {"name_in_game": "Vintage", "source": "https://dmv.utah.gov/plates/license-plates/"},
+  {"name_in_game": "Special Interest", "source": "https://dmv.utah.gov/plates/license-plates/"},
+  {"name_in_game": "Wildlife – Eagle", "source": "https://dmv.utah.gov/plates/wildlifeeagle"},
+  {"name_in_game": "Utah Centennial", "source": "https://dmv.utah.gov/plates/license-plates/"},
+  {"name_in_game": "Ski Utah!", "source": "https://dmv.utah.gov/plates/license-plates/"},
+  {"name_in_game": "Olympic", "source": "https://dmv.utah.gov/plates/license-plates/"},
+  {"name_in_game": "Utah", "source": "https://dmv.utah.gov/plates/license-plates/"},
+  {"name_in_game": "Collegiate – College of Eastern Utah", "source": "https://dmv.utah.gov/plates/license-plates/"}
+ ],
+ "notes": "Utah redesigned essentially all special group plates into a uniform full-color look on July 1, 2026; the DMV page images appear to be the new designs, but only the plates named in news coverage are listed as redesigned (others likely changed too). 'Retired' = the DMV's 'No Longer Issued' list; several (Eagle 2017, Centennial, Olympic, CEU) were retired well before 2023, so only some are true post-2023 changes. Athletic vs academic college variants may predate 2023; a Dark Sky plate is pending."
+}

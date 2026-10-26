@@ -2,9 +2,9 @@
  "code": "ME",
  "name": "Maine",
  "rated": false,
- "checked": false,
+ "checked": true,
  "updated": "2026-10-25",
- "about": "Maine special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "about": "Maine special-design plates. Not rated yet: every plate is worth the same. Checked for plates added since 2023 on 2026-10-26.",
  "sources": [
   {
    "title": "Jon Keegan, us-license-plates (2023)",
@@ -215,6 +215,25 @@
    "name": "Wabanaki Recognition",
    "cat": "other",
    "img": "wabanaki-recognition.webp"
+  },
+  {
+   "id": "medal-of-honor-plate",
+   "name": "Medal of Honor Plate",
+   "cat": "military",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.maine.gov/sos/bmv/vehicles/veteran-plate-or-decal/vehicles/available-veteran-plates",
+   "img_url": "https://www.maine.gov/sos/sites/maine.gov.sos/files/content/assets/medalofhonorplt-3.jpg"
+  },
+  {
+   "id": "former-prisoner-of-war-plate",
+   "name": "Former Prisoner of War Plate",
+   "cat": "veterans",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.maine.gov/sos/bmv/vehicles/veteran-plate-or-decal/vehicles/available-veteran-plates",
+   "img_url": "https://www.maine.gov/sos/sites/maine.gov.sos/files/content/assets/powplt-3.jpg"
   }
- ]
+ ],
+ "checked_on": "2026-10-26"
 }

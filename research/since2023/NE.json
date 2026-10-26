@@ -1,0 +1,29 @@
+{
+ "state": "NE",
+ "checked": [
+  "https://dmv.nebraska.gov/sites/dmv.nebraska.gov/files/doc/dvr/plates/2023_Series_Plates.pdf",
+  "https://dmv.nebraska.gov/node/293",
+  "https://dmv.nebraska.gov/node/1626",
+  "https://update.legislature.ne.gov/?p=35400",
+  "https://www.nebraskalegislature.gov/FloorDocs/109/PDF/CS/LB568.pdf",
+  "https://open.pluralpolicy.com/ne/bills/109/LB568",
+  "https://open.pluralpolicy.com/ne/bills/109/LB398",
+  "https://www.wsc.edu/wsc-license-plates",
+  "https://www.hartington.net/article/12051,wayne-state-college-to-be-featured-on-new-license-plate",
+  "https://ruralradio.com/krvn/news/applications-open-for-new-unk-license-plate/",
+  "https://www.unmc.edu/license-plate",
+  "https://www.breakthrought1d.org/nebraskaiowa/?p=5295",
+  "https://nebraskapublicmedia.org/en/news/news-articles/back-the-blue-husker-red-and-blackout-license-plate-options-could-be-in-the-works/"
+ ],
+ "robot_url": null,
+ "new": [
+  {"title": "Wayne State College", "cat": "colleges", "source_img": "https://www.wsc.edu/images/homepage_inset_wsc_license_plates.jpg", "source": "https://www.wsc.edu/wsc-license-plates", "year": "2026", "matches_existing": null},
+  {"title": "Czech Heritage", "cat": "other", "source_img": null, "source": "https://update.legislature.ne.gov/?p=35400", "year": null, "matches_existing": null},
+  {"title": "Arbor Day", "cat": "nature", "source_img": null, "source": "https://www.nebraskalegislature.gov/FloorDocs/109/PDF/CS/LB568.pdf", "year": "2026", "matches_existing": null},
+  {"title": "U.S. Space Force", "cat": "military", "source_img": null, "source": "https://www.nebraskalegislature.gov/FloorDocs/109/PDF/CS/LB568.pdf", "year": "2026", "matches_existing": null},
+  {"title": "Inherent Resolve Campaign Medal", "cat": "military", "source_img": null, "source": "https://www.nebraskalegislature.gov/FloorDocs/109/PDF/CS/LB568.pdf", "year": "2026", "matches_existing": null}
+ ],
+ "redesigned": [],
+ "retired": [],
+ "notes": "The DMV gallery (https://dmv.nebraska.gov/dvr/license-plates) was blocked to fetch, so I couldn't confirm issue status or images there. Czech Heritage (LB140, 2024) and Arbor Day, Space Force and Inherent Resolve (LB568, folded into LB398 and signed June 2025, operative 1 Jan 2026) are confirmed by law only, not by DMV listings. Purple Heart plates must add 'Combat Wounded' from 2026 (a likely redesign, no image). UNK, UNMC, Breakthrough T1D and NSEA public-education plates are still collecting 250 pre-orders; Back the Blue, blackout and Scarlet & Cream (LB1092/LB1099) were only proposed in Feb 2026. The game lumps the military branch and medal plates into 'Military Honor'."
+}

@@ -243,5 +243,60 @@
   "code": "ID-2",
   "name": "Idaho",
   "url": "https://itd.idaho.gov/?p=3247"
+ },
+ {
+  "code": "WI",
+  "name": "Wisconsin",
+  "url": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/special.aspx"
+ },
+ {
+  "code": "IA",
+  "name": "Iowa",
+  "url": "https://iowadot.gov/registration-plates/license-plates/decals/available-decals"
+ },
+ {
+  "code": "MD-2",
+  "name": "Maryland",
+  "url": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates"
+ },
+ {
+  "code": "VA",
+  "name": "Virginia",
+  "url": "https://www.dmv.virginia.gov/vehicles/license-plates/search"
+ },
+ {
+  "code": "NY-3",
+  "name": "New York",
+  "url": "https://dmv.ny.gov/plates/picture-plates"
+ },
+ {
+  "code": "VT-2",
+  "name": "Vermont",
+  "url": "https://dmv.vermont.gov/node/212"
+ },
+ {
+  "code": "MA-2",
+  "name": "Massachusetts",
+  "url": "https://www.mass.gov/info-details/veteran-status-licenses-and-specialty-plates"
+ },
+ {
+  "code": "ME-3",
+  "name": "Maine",
+  "url": "https://www.maine.gov/sos/bmv/vehicles/veteran-plate-or-decal/vehicles/available-veteran-plates"
+ },
+ {
+  "code": "CO-3",
+  "name": "Colorado",
+  "url": "https://dmv.colorado.gov/group-special-license-plates-new"
+ },
+ {
+  "code": "UT",
+  "name": "Utah",
+  "url": "https://dmv.utah.gov/plates/license-plates/"
+ },
+ {
+  "code": "MT-2",
+  "name": "Montana",
+  "url": "https://mvdmt.gov/license-plate-lookup/"
  }
 ]

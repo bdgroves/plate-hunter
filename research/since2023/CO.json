@@ -1,0 +1,38 @@
+{
+ "state": "CO",
+ "checked": [
+  "https://dmv.colorado.gov/group-special-license-plates-new",
+  "https://dmv.colorado.gov/license-plates-military",
+  "https://dmv.colorado.gov/specialty-plates",
+  "https://logancounty.colorado.gov/sites/logancounty/files/RECORDER%27s%20NOTES%20January%203%2C%202024%20New%20Plates.pdf",
+  "https://digital-release.kdvr.com/?p=2530998",
+  "https://www.jeffco.us/CivicAlerts.aspx?AID=2316",
+  "https://www.coloradopolitics.com/2025/01/06/colorado-has-a-new-license-plate-and-youll-probably-start-seeing-it-soon",
+  "https://leg.colorado.gov/bills/HB26-1306",
+  "https://leg.colorado.gov/bills/HB25-1066"
+ ],
+ "robot_url": "https://dmv.colorado.gov/group-special-license-plates-new",
+ "new": [
+  {"title": "Born To Be Wild", "cat": "nature",
+   "source_img": "https://dmv.colorado.gov/sites/default/files/styles/large/public/born_to_be_wild_license_plate_0.jpg.avif?itok=N8ceDyTd",
+   "source": "https://dmv.colorado.gov/group-special-license-plates-new", "year": "2024", "matches_existing": null},
+  {"title": "In God We Trust", "cat": "other",
+   "source_img": "https://dmv.colorado.gov/sites/default/files/styles/large/public/In_God_We_Trust_2024.png.avif?itok=AZ7SQJFP",
+   "source": "https://dmv.colorado.gov/group-special-license-plates-new", "year": "2024", "matches_existing": null},
+  {"title": "Stegosaurus", "cat": "nature",
+   "source_img": "https://dmv.colorado.gov/sites/default/files/styles/large/public/Stegosaurus_2024.png.avif?itok=7vgFFC2l",
+   "source": "https://dmv.colorado.gov/group-special-license-plates-new", "year": "2024", "matches_existing": null},
+  {"title": "U.S. Navy Seabees", "cat": "military",
+   "source_img": "https://dmv.colorado.gov/sites/default/files/styles/large/public/screenshot_2024-01-03_111253_0.png.avif?itok=wf5Bv6sS",
+   "source": "https://dmv.colorado.gov/license-plates-military", "year": "2024", "matches_existing": null},
+  {"title": "Chicana/o Pride", "cat": "other",
+   "source_img": "https://dmv.colorado.gov/sites/default/files/styles/large/public/chicano_lic_plate_2025_0.png.avif?itok=EMdbBr-q",
+   "source": "https://dmv.colorado.gov/group-special-license-plates-new", "year": "2025", "matches_existing": null},
+  {"title": "Agriculture", "cat": "other",
+   "source_img": "https://dmv.colorado.gov/sites/default/files/styles/large/public/agriculture_lic_plate_2025_0.png.avif?itok=D9DLWOWh",
+   "source": "https://dmv.colorado.gov/group-special-license-plates-new", "year": "2025", "matches_existing": null}
+ ],
+ "redesigned": [],
+ "retired": [],
+ "notes": "Agriculture ('Feeding the World', cow) is a group special plate distinct from the game's 'Farm' vehicle-class plate. A Wild Horse plate (HB26-1306) was signed May 2026 but no issued plate/image was found yet; the DMV image of Broncos Foundation is named Broncos_Country_2024, possibly a redesign, but unconfirmed. DMV image URLs are AVIF style derivatives."
+}

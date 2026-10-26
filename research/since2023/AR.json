@@ -1,0 +1,36 @@
+{
+ "state": "AR",
+ "checked": [
+  "https://www.dfa.arkansas.gov/office/motor-vehicle/specialty-plates-placards/",
+  "https://www.dfa.arkansas.gov/office/motor-vehicle/specialty-plates-placards/?sf_paged=2",
+  "https://www.dfa.arkansas.gov/office/motor-vehicle/specialty-plates-placards/?sf_paged=3",
+  "https://www.dfa.arkansas.gov/office/motor-vehicle/specialty-plates-placards/?sf_paged=4",
+  "https://www.dfa.arkansas.gov/office/motor-vehicle/specialty-plates-placards/?sf_paged=5",
+  "https://www.dfa.arkansas.gov/office/motor-vehicle/specialty-plates-placards/?sf_paged=6",
+  "https://www.dfa.arkansas.gov/office/motor-vehicle/specialty-plates-placards/?sf_paged=7",
+  "https://www.dfa.arkansas.gov/specialty-plates/special-interest",
+  "https://www.dfa.arkansas.gov/specialty-plates/ducks-unlimited-license-plate-design-3/",
+  "https://dfa.arkansas.gov/specialty-plates/dyslexia-support-license-plate",
+  "https://www.dfa.arkansas.gov/specialty-plates/arkansas-municipal-police-association-license-plate/",
+  "https://agfc.com/?p=12768",
+  "https://www.agfc.com/?p=19520",
+  "https://arkadelphian.com/2026/01/13/2026-agfc-license-plate-paints-a-picture-of-conservation/",
+  "https://www.veterans.arkansas.gov/women-veteran-licenseplate",
+  "https://open.pluralpolicy.com/ar/bills/2025/SB45",
+  "https://tigernewspaper.net/6536/news/new-law-creates-commemorative-license-plate-for-school/",
+  "https://www.arkleg.state.ar.us/assembly/2025/2025R/Pages/BillInformation.aspx?measureno=HB1654"
+ ],
+ "robot_url": null,
+ "new": [
+  {"title": "Game & Fish Barred Owl License Plate", "cat": "nature", "source_img": "https://www.agfc.com/wp-content/uploads/2024/01/2024-Conservation-License.png", "source": "https://agfc.com/?p=12768", "year": "2024", "matches_existing": null},
+  {"title": "Game & Fish Painted Bunting License Plate", "cat": "nature", "source_img": "https://www.agfc.com/wp-content/uploads/2026/01/2025-LICENSE-PLATE.jpg", "source": "https://www.agfc.com/?p=19520", "year": "2026", "matches_existing": null},
+  {"title": "Ducks Unlimited License Plate – Design 3", "cat": "nature", "source_img": "https://www.dfa.arkansas.gov/wp-content/uploads/du_design3_lg.jpg", "source": "https://www.dfa.arkansas.gov/specialty-plates/ducks-unlimited-license-plate-design-3/", "year": null, "matches_existing": null},
+  {"title": "Women Veterans License Plate", "cat": "veterans", "source_img": null, "source": "https://www.veterans.arkansas.gov/women-veteran-licenseplate", "year": "2026", "matches_existing": null},
+  {"title": "Dyslexia Support License Plate", "cat": "charity", "source_img": "https://www.dfa.arkansas.gov/wp-content/uploads/DyslexiaSupport.jpg", "source": "https://dfa.arkansas.gov/specialty-plates/dyslexia-support-license-plate", "year": null, "matches_existing": null}
+ ],
+ "redesigned": [],
+ "retired": [
+  {"name_in_game": "Pearl Harbor Survivor", "source": "https://open.pluralpolicy.com/ar/bills/2025/SB45"}
+ ],
+ "notes": "Act 51 of 2025 created the Women Veterans plate and repealed the Pearl Harbor Survivor plate, though DFA still lists Pearl Harbor. Dyslexia Support is probably from SB555 (2023) but I couldn't confirm its first-issue date, and the painted bunting image is AGFC's share image (filename says 2025). Authorized but not yet on DFA's list: Little Rock Central High (Act 808, 2023) and Make-A-Wish Mid-South (Act 490, 2025). On DFA's list but missing from the game and pre-2023: Municipal Police Association, Civil Air Patrol, Little Rock Air Force Base, National MS Society. DFA list pages have no plate images, though each plate's detail page has one."
+}

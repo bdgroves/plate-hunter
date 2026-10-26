@@ -4,7 +4,7 @@
  "rated": false,
  "checked": false,
  "updated": "2026-10-25",
- "about": "Arizona special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "about": "Arizona special-design plates. Not rated yet: every plate is worth the same. Partly checked for plates added since 2023.",
  "sources": [
   {
    "title": "Jon Keegan, us-license-plates (2023)",
@@ -593,6 +593,179 @@
    "name": "Women Veterans Navy",
    "cat": "veterans",
    "img": "women-veterans-navy.webp"
+  },
+  {
+   "id": "empower",
+   "name": "Empower",
+   "cat": "charity",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://azdot.gov/news/adot-unveils-three-new-specialty-license-plates",
+   "year": "2023"
+  },
+  {
+   "id": "in-loving-memory",
+   "name": "In Loving Memory",
+   "cat": "charity",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://azdot.gov/news/adot-unveils-three-new-specialty-license-plates",
+   "year": "2023"
+  },
+  {
+   "id": "state-forty-eight",
+   "name": "State Forty Eight",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://azdot.gov/news/adot-unveils-three-new-specialty-license-plates",
+   "year": "2023"
+  },
+  {
+   "id": "hualapai-tribe",
+   "name": "Hualapai Tribe",
+   "cat": "tribal",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://azdot.gov/news/adot-unveils-three-more-new-specialty-license-plates",
+   "year": "2024"
+  },
+  {
+   "id": "phoenix-rising-fc",
+   "name": "Phoenix Rising FC",
+   "cat": "sports",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://azdot.gov/news/adot-unveils-three-more-new-specialty-license-plates",
+   "img_url": "https://www.phxrisingfc.com/wp-content/uploads/sites/29/2024/08/YbHVBcxU.jpg?w=1024",
+   "year": "2024"
+  },
+  {
+   "id": "rotary-international",
+   "name": "Rotary International",
+   "cat": "charity",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://azdot.gov/news/adot-unveils-three-more-new-specialty-license-plates",
+   "year": "2024"
+  },
+  {
+   "id": "autism-support",
+   "name": "Autism Support",
+   "cat": "charity",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://azdot.gov/news/adot-unveils-autism-support-specialty-license-plate",
+   "year": "2025"
+  },
+  {
+   "id": "ovarian-cancer-awareness",
+   "name": "Ovarian Cancer Awareness",
+   "cat": "charity",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://azdot.gov/news/adot-unveils-three-new-specialty-license-plates-total-109",
+   "year": "2025"
+  },
+  {
+   "id": "phoenix-mercury",
+   "name": "Phoenix Mercury",
+   "cat": "sports",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://azdot.gov/news/adot-unveils-three-new-specialty-license-plates-total-109",
+   "year": "2025"
+  },
+  {
+   "id": "verde-valley-wine-trail",
+   "name": "Verde Valley Wine Trail",
+   "cat": "hobby",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://azdot.gov/news/adot-unveils-three-new-specialty-license-plates-total-109",
+   "year": "2025"
+  },
+  {
+   "id": "arizona-youth-charities",
+   "name": "Arizona Youth Charities",
+   "cat": "charity",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://azdot.gov/news/adot-unveils-five-new-specialty-license-plates-1",
+   "year": "2026"
+  },
+  {
+   "id": "gila-river-indian-community",
+   "name": "Gila River Indian Community",
+   "cat": "tribal",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://azdot.gov/news/adot-unveils-five-new-specialty-license-plates-1",
+   "year": "2026"
+  },
+  {
+   "id": "no-one-fights-alone",
+   "name": "No One Fights Alone",
+   "cat": "charity",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://azdot.gov/news/adot-unveils-five-new-specialty-license-plates-1",
+   "year": "2026"
+  },
+  {
+   "id": "teen-lifeline",
+   "name": "Teen Lifeline",
+   "cat": "charity",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://azdot.gov/news/adot-unveils-five-new-specialty-license-plates-1",
+   "year": "2026"
+  },
+  {
+   "id": "4azkids",
+   "name": "4AZKids",
+   "cat": "charity",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://azdot.gov/news/adot-unveils-five-new-specialty-license-plates-1",
+   "year": "2026"
+  },
+  {
+   "id": "maverick-community-impact",
+   "name": "Maverick Community Impact",
+   "cat": "charity",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://azdot.gov/news/adot-unveils-new-specialty-license-plate",
+   "year": "2026"
+  },
+  {
+   "id": "italian-american-heritage",
+   "name": "Italian American Heritage",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://azdot.gov/news/adot-unveils-three-new-specialty-license-plates-0",
+   "year": "2026"
+  },
+  {
+   "id": "kidney-disease-awareness",
+   "name": "Kidney Disease Awareness",
+   "cat": "charity",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://azdot.gov/news/adot-unveils-three-new-specialty-license-plates-0",
+   "year": "2026"
+  },
+  {
+   "id": "suicide-prevention",
+   "name": "Suicide Prevention",
+   "cat": "charity",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://azdot.gov/news/adot-unveils-three-new-specialty-license-plates-0",
+   "year": "2026"
   }
- ]
+ ],
+ "checked_on": "2026-10-26"
 }

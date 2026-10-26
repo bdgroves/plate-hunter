@@ -4,7 +4,7 @@
  "rated": false,
  "checked": false,
  "updated": "2026-10-25",
- "about": "Mississippi special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "about": "Mississippi special-design plates. Not rated yet: every plate is worth the same. Partly checked for plates added since 2023.",
  "sources": [
   {
    "title": "Jon Keegan, us-license-plates (2023)",
@@ -1379,6 +1379,88 @@
    "name": "Zeta Phi Beta Sorority",
    "cat": "other",
    "img": "zeta-phi-beta-sorority.webp"
+  },
+  {
+   "id": "2022-national-championship-ole-miss-base",
+   "name": "2022 National Championship Ole Miss Baseball",
+   "cat": "sports",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates"
+  },
+  {
+   "id": "alzheimer-s-awareness",
+   "name": "Alzheimer's Awareness",
+   "cat": "charity",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates"
+  },
+  {
+   "id": "diocese-of-biloxi",
+   "name": "Diocese of Biloxi",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates"
+  },
+  {
+   "id": "ev-mississippi",
+   "name": "EV Mississippi",
+   "cat": "vehicle",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates"
+  },
+  {
+   "id": "gulf-war-veteran",
+   "name": "Gulf War Veteran",
+   "cat": "veterans",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates"
+  },
+  {
+   "id": "magnolia-heights-school",
+   "name": "Magnolia Heights School",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates"
+  },
+  {
+   "id": "mississippi-aquarium",
+   "name": "Mississippi Aquarium",
+   "cat": "nature",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates"
+  },
+  {
+   "id": "neshoba-central-rockets",
+   "name": "Neshoba Central Rockets",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates"
+  },
+  {
+   "id": "ms-sweet-potato",
+   "name": "MS Sweet Potato",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.producemarketguide.com/news/sweetpotato-councils-promotional-plans-include-focus-health-highlights-license",
+   "year": "2025"
+  },
+  {
+   "id": "friends-of-children-s-hospital",
+   "name": "Friends of Children's Hospital",
+   "cat": "charity",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates"
   }
- ]
+ ],
+ "checked_on": "2026-10-26"
 }

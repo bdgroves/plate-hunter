@@ -1,0 +1,41 @@
+{
+ "state": "MA",
+ "checked": [
+  "https://www.mass.gov/doc/passenger-plates-manual-0/download",
+  "https://www.mass.gov/news/rmv-celebrates-massachusetts-250-with-commemorative-license-plate",
+  "https://www.mass.gov/news/massachusetts-250-commemorative-plate-becomes-most-popular-specialty-plate-in-state-history",
+  "https://www.mass.gov/info-details/veteran-status-licenses-and-specialty-plates",
+  "https://www.mass.gov/news/massachusetts-registry-of-motor-vehicles-announces-new-medal-of-liberty-license-plate",
+  "https://www.mass.gov/doc/rmv-report-presented-at-the-massdot-board-meeting-on-march-19-2025/download",
+  "https://www.mass.gov/doc/rmv-report-presented-at-the-massdot-board-meeting-on-may-21-2025/download",
+  "https://springfieldmuseums.org/seuss-plate/",
+  "https://www.turnto10.com/news/local/dr-seuss-celebrated-with-cat-in-the-hat-license-plates-in-massachusetts-springfield-museums-rmv-sunday-march-3-2024",
+  "https://zoonewengland.org/act/ways-to-give/zne-license-plate",
+  "https://maripoisoncenter.com/?p=1833",
+  "https://www.bostonglobe.com/2025/01/02/metro/overdose-awareness-license-plate-coming-in-massachusetts",
+  "https://thetrustees.org/program/trustees-license-plate/",
+  "https://home.recorder.com/On-The-Ridge-with-Joe-Judd-Eastern-wild-turkey-License-plate-updates-55969081",
+  "https://samsearch.co/government-contracting-news/massachusetts-announces-new-license-plates-for-blue-star-families-opening-procurement-opportunities-141583"
+ ],
+ "robot_url": "https://www.mass.gov/info-details/veteran-status-licenses-and-specialty-plates",
+ "new": [
+  {"title": "Massachusetts 250 Years of Independence", "cat": "other",
+   "source_img": "https://www.mass.gov/files/styles/embedded_full_width/public/images/2025-05/img_1433.jpg?itok=UcBH0Bs3",
+   "source": "https://www.mass.gov/news/rmv-celebrates-massachusetts-250-with-commemorative-license-plate", "year": "2025", "matches_existing": null},
+  {"title": "Dr. Seuss", "cat": "charity",
+   "source_img": "https://springfieldmuseums.org/wp-content/uploads/2021/11/license-plate-820x312-web-alt.jpg",
+   "source": "https://www.mass.gov/doc/passenger-plates-manual-0/download", "year": "2024", "matches_existing": null},
+  {"title": "Zoo New England", "cat": "nature",
+   "source_img": "https://zoonewengland.org/media/g0yp0gsx/licenseplate-header.jpg",
+   "source": "https://www.mass.gov/doc/rmv-report-presented-at-the-massdot-board-meeting-on-march-19-2025/download", "year": "2025", "matches_existing": null},
+  {"title": "Overdose Awareness", "cat": "charity",
+   "source_img": null,
+   "source": "https://www.mass.gov/doc/rmv-report-presented-at-the-massdot-board-meeting-on-may-21-2025/download", "year": "2025", "matches_existing": null},
+  {"title": "Medal of Liberty", "cat": "military",
+   "source_img": "https://www.mass.gov/files/styles/embedded_half_width/public/images/2025-02/medal_of_liberty.jpg?itok=6jkkk1Zm",
+   "source": "https://www.mass.gov/news/massachusetts-registry-of-motor-vehicles-announces-new-medal-of-liberty-license-plate", "year": "2022", "matches_existing": null}
+ ],
+ "redesigned": [],
+ "retired": [],
+ "notes": "Medal of Liberty dates from May 2022 (before the snapshot) but is missing from the game; every other game plate still appears in the RMV Passenger Plates Manual (REG202_0725). Trustees, Wild Turkey (NWTF), JDRF and Blue Star Families plates are still in pre-sale or only legislated, so they are not listed; Mass 250 is now the state's most popular specialty plate (~46,000 by Jan 2026)."
+}

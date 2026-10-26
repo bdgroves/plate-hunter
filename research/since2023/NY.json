@@ -1,0 +1,241 @@
+{
+ "state": "NY",
+ "checked": [
+  "https://dmv.ny.gov/plates/picture-plates (all 18 pages, 206 items)",
+  "https://www.dmv.ny.gov/plates/professional-custom-plates?page=1",
+  "https://www.dmv.ny.gov/plates/professional-custom-plates?page=2",
+  "https://dmv.ny.gov/node/12001",
+  "https://dmv.ny.gov/news/dmv-unveils-new-license-plate-to-mark-the-250th-anniversary-of-our-nations-founding",
+  "https://dmv.ny.gov/news/dmv-unveils-gold-star-family-license-plate",
+  "https://dmv.ny.gov/news/dmv-releases-zodiac-custom-license-plate-series",
+  "https://dmv.ny.gov/news/dmv-releases-redesigned-ny-jets-and-ny-giants-license-plates",
+  "https://dmv.ny.gov/news/dmv-unveils-new-set-regional-license-plates-around-state",
+  "https://dmv.ny.gov/news/dmv-unveils-new-set-regional-license-plates-around-state-0",
+  "https://dmv.ny.gov/news/dmv-unveils-new-set-regional-license-plates-around-state-2",
+  "https://dmv.ny.gov/news/dmv-cancer-awareness-plate-supports-cancer-research-and-education",
+  "https://www.specialolympics-ny.org/news/dmv-plates/",
+  "https://www.wcax.com/2026/06/16/new-york-state-dmv-releases-america-250-license-plate/"
+ ],
+ "robot_url": "https://dmv.ny.gov/plates/picture-plates",
+ "new": [
+  {
+   "title": "America's 250th Anniversary",
+   "cat": "other",
+   "source_img": "https://dmv.ny.gov/sites/default/files/styles/wysiwyg/public/images/2026-03/250thAnniversary2026.png?itok=KkztA5Ry",
+   "source": "https://dmv.ny.gov/news/dmv-unveils-new-license-plate-to-mark-the-250th-anniversary-of-our-nations-founding",
+   "year": "2026",
+   "matches_existing": null
+  },
+  {
+   "title": "Gold Star Family",
+   "cat": "military",
+   "source_img": "https://dmv.ny.gov/sites/default/files/styles/wysiwyg/public/images/2025-09/gold-star-family.png?itok=1qLMVuqZ",
+   "source": "https://dmv.ny.gov/news/dmv-unveils-gold-star-family-license-plate",
+   "year": "2025",
+   "matches_existing": null
+  },
+  {
+   "title": "Bethpage Black Ryder Cup 2025",
+   "cat": "sports",
+   "source_img": "https://dmv.ny.gov/sites/default/files/styles/wysiwyg/public/images/2024-06/bethpage-blk-ryder-cup-2025.png?itok=FEW8O4qV",
+   "source": "https://dmv.ny.gov/plates/bethpage-black-ryder-cup-2025",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "#8 Kyle Busch",
+   "cat": "sports",
+   "source_img": "https://dmv.ny.gov/sites/default/files/styles/wysiwyg/public/images/2024-08/kylebuschfullbevel.png?itok=dPsTt_Ov",
+   "source": "https://dmv.ny.gov/plates/custom-plates/8-kyle-busch",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "Special Olympics New York",
+   "cat": "charity",
+   "source_img": "https://dmv.ny.gov/sites/default/files/styles/wysiwyg/public/images/2024-08/specialolympicsny2024web.png?itok=Jwtl6eLC",
+   "source": "https://www.specialolympics-ny.org/news/dmv-plates/",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "International Law Enforcement Officers Association",
+   "cat": "firstresponder",
+   "source_img": "https://dmv.ny.gov/sites/default/files/styles/wysiwyg/public/images/2024-08/intlawenforcementoffassoc2024web.png?itok=KN935eiX",
+   "source": "https://dmv.ny.gov/international-law-enforcement-officers-association",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "Siena University",
+   "cat": "colleges",
+   "source_img": "https://dmv.ny.gov/sites/default/files/styles/wysiwyg/public/images/2024-04/siena2024.png?itok=cb2isE73",
+   "source": "https://dmv.ny.gov/plates/siena-university",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "Paws of War",
+   "cat": "charity",
+   "source_img": "https://dmv.ny.gov/sites/default/files/styles/wysiwyg/public/images/2025-04/pawsofwar2024.png?itok=L_R5Rxks",
+   "source": "https://dmv.ny.gov/paws-of-war",
+   "year": "2025",
+   "matches_existing": null
+  },
+  {
+   "title": "Kappa Alpha Psi",
+   "cat": "colleges",
+   "source_img": "https://dmv.ny.gov/sites/default/files/styles/wysiwyg/public/images/2025-06/kappaalphapsi2025.png?itok=sqnWIjZo",
+   "source": "https://dmv.ny.gov/plates/kappa-alpha-psi",
+   "year": "2025",
+   "matches_existing": null
+  },
+  {
+   "title": "Cayuga Nation",
+   "cat": "tribal",
+   "source_img": "https://dmv.ny.gov/sites/default/files/styles/wysiwyg/public/images/2025-08/cayuganation2025.png?itok=0Yna4nhk",
+   "source": "https://dmv.ny.gov/plates/cayuga-nation",
+   "year": "2025",
+   "matches_existing": null
+  },
+  {
+   "title": "New York State United Teachers (NYSUT)",
+   "cat": "other",
+   "source_img": "https://dmv.ny.gov/sites/default/files/images/2025-08/nysut2025.png",
+   "source": "https://www.dmv.ny.gov/plates/professional-custom-plates?page=1",
+   "year": "2025",
+   "matches_existing": null
+  },
+  {
+   "title": "Midwife",
+   "cat": "other",
+   "source_img": "https://dmv.ny.gov/sites/default/files/images/2024-04/midwifecpd_alphanumeric_002.png",
+   "source": "https://dmv.ny.gov/node/12001",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "Blue Knights (Vehicle)",
+   "cat": "firstresponder",
+   "source_img": "https://dmv.ny.gov/sites/default/files/styles/wysiwyg/public/images/2024-10/blueknights_final_668x347.png?itok=gfeK9Zng",
+   "source": "https://dmv.ny.gov/plates/blue-knights-vehicle",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Zodiac Aries",
+   "cat": "other",
+   "source_img": "https://dmv.ny.gov/sites/default/files/styles/wysiwyg/public/images/2024-06/zodiac-aries1.png?itok=cZp1_pqW",
+   "source": "https://dmv.ny.gov/news/dmv-releases-zodiac-custom-license-plate-series",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "Zodiac Taurus",
+   "cat": "other",
+   "source_img": "https://dmv.ny.gov/sites/default/files/styles/wysiwyg/public/images/2024-06/zodiac-taurus1.png?itok=hNNoc35u",
+   "source": "https://dmv.ny.gov/news/dmv-releases-zodiac-custom-license-plate-series",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "Zodiac Gemini",
+   "cat": "other",
+   "source_img": "https://dmv.ny.gov/sites/default/files/styles/wysiwyg/public/images/2024-06/zodiac-gemini1.png?itok=cf39xQsY",
+   "source": "https://dmv.ny.gov/news/dmv-releases-zodiac-custom-license-plate-series",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "Zodiac Cancer",
+   "cat": "other",
+   "source_img": "https://dmv.ny.gov/sites/default/files/styles/wysiwyg/public/images/2024-06/zodiac-cancer1.png?itok=JgcrFeYG",
+   "source": "https://dmv.ny.gov/news/dmv-releases-zodiac-custom-license-plate-series",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "Zodiac Leo",
+   "cat": "other",
+   "source_img": "https://dmv.ny.gov/sites/default/files/styles/wysiwyg/public/images/2024-06/zodiac-leo1.png?itok=Cb02Q1Ga",
+   "source": "https://dmv.ny.gov/news/dmv-releases-zodiac-custom-license-plate-series",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "Zodiac Virgo",
+   "cat": "other",
+   "source_img": "https://dmv.ny.gov/sites/default/files/styles/wysiwyg/public/images/2024-06/zodiac-virgo1.png?itok=TdGxxS3F",
+   "source": "https://dmv.ny.gov/news/dmv-releases-zodiac-custom-license-plate-series",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "Zodiac Libra",
+   "cat": "other",
+   "source_img": "https://dmv.ny.gov/sites/default/files/styles/wysiwyg/public/images/2024-06/zodiac-libra1.png?itok=hNJE7LLh",
+   "source": "https://dmv.ny.gov/news/dmv-releases-zodiac-custom-license-plate-series",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "Zodiac Scorpio",
+   "cat": "other",
+   "source_img": "https://dmv.ny.gov/sites/default/files/styles/wysiwyg/public/images/2024-06/zodiac-scorpio1.png?itok=-DMdqdQd",
+   "source": "https://dmv.ny.gov/news/dmv-releases-zodiac-custom-license-plate-series",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "Zodiac Sagittarius",
+   "cat": "other",
+   "source_img": "https://dmv.ny.gov/sites/default/files/styles/wysiwyg/public/images/2024-06/zodiac-sagittarius1.png?itok=04PiEaGX",
+   "source": "https://dmv.ny.gov/news/dmv-releases-zodiac-custom-license-plate-series",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "Zodiac Capricorn",
+   "cat": "other",
+   "source_img": "https://dmv.ny.gov/sites/default/files/styles/wysiwyg/public/images/2024-06/zodiac-capricorn1.png?itok=2sNpXlNR",
+   "source": "https://dmv.ny.gov/news/dmv-releases-zodiac-custom-license-plate-series",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "Zodiac Aquarius",
+   "cat": "other",
+   "source_img": "https://dmv.ny.gov/sites/default/files/styles/wysiwyg/public/images/2024-06/zodiac-aquarius1.png?itok=CmyKWKfB",
+   "source": "https://dmv.ny.gov/news/dmv-releases-zodiac-custom-license-plate-series",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "Zodiac Pisces",
+   "cat": "other",
+   "source_img": "https://dmv.ny.gov/sites/default/files/styles/wysiwyg/public/images/2024-06/zodiac-pisces1.png?itok=H1Orxk9K",
+   "source": "https://dmv.ny.gov/news/dmv-releases-zodiac-custom-license-plate-series",
+   "year": "2024",
+   "matches_existing": null
+  }
+ ],
+ "redesigned": [
+  {
+   "name_in_game": "New York Jets",
+   "source_img": "https://dmv.ny.gov/sites/default/files/styles/wysiwyg/public/images/2023-08/nyjets01.jpg?itok=VNj2uR2q",
+   "note": "redesigned plate released Aug 3, 2023 (just after the snapshot)"
+  },
+  {
+   "name_in_game": "New York Giants",
+   "source_img": "https://dmv.ny.gov/sites/default/files/styles/wysiwyg/public/images/2023-08/nygiants01.jpg?itok=g5via9fJ",
+   "note": "redesigned plate released Aug 3, 2023 (just after the snapshot)"
+  },
+  {
+   "name_in_game": "Medical Doctor",
+   "source_img": "https://dmv.ny.gov/sites/default/files/images/2025-02/medical-doctor-2025.png",
+   "note": "new 2025 vehicle design on DMV professional-plates page (motorcycle unchanged)"
+  }
+ ],
+ "retired": [],
+ "notes": "Years are from DMV news dates or the YYYY-MM upload folder in each image path (an approximation); Blue Knights (Vehicle) may be an older plate re-imaged in 2024. The 10 regional plates were redesigned 16-28 June 2023, inside the snapshot window, so the game may already show the new art. Not retired but worth a look: 'New York Rangers' and 'Discover Queens' do not appear in the current 206-plate gallery (unconfirmed retirement); the game also lacks ~25 older org plates (Masons, Rotary, Lions, Kiwanis, PBA, FOP, Tesla Owners Club, etc.) that pre-date 2023."
+}

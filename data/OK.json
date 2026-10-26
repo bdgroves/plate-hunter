@@ -2,9 +2,9 @@
  "code": "OK",
  "name": "Oklahoma",
  "rated": false,
- "checked": false,
+ "checked": true,
  "updated": "2026-10-25",
- "about": "Oklahoma special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "about": "Oklahoma special-design plates. Not rated yet: every plate is worth the same. Checked for plates added since 2023 on 2026-10-26.",
  "sources": [
   {
    "title": "Jon Keegan, us-license-plates (2023)",
@@ -1607,6 +1607,74 @@
    "name": "Zeta Phi Beta / Phi Beta Sigma",
    "cat": "other",
    "img": "zeta-phi-beta-phi-beta-sigma.webp"
+  },
+  {
+   "id": "route-66-centennial",
+   "name": "Route 66 Centennial",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://aem-prod.oklahoma.gov/content/dam/service-oklahoma/Documents/mv-forms/SpecialtyPlatesCatalog.pdf",
+   "img_url": "https://images.squarespace-cdn.com/content/v1/6073a5302519e02f9450fc89/f8e3f09f-620c-4fcc-a77b-f27e113a675f/Route+66+Centennial+Plate+Image.png",
+   "year": "2026"
+  },
+  {
+   "id": "oklahoma-city-zoo",
+   "name": "Oklahoma City Zoo",
+   "cat": "nature",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://aem-prod.oklahoma.gov/content/dam/service-oklahoma/Documents/mv-forms/SpecialtyPlatesCatalog.pdf",
+   "year": "2026"
+  },
+  {
+   "id": "alliance-of-mental-health",
+   "name": "Alliance of Mental Health",
+   "cat": "charity",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://aem-prod.oklahoma.gov/content/dam/service-oklahoma/Documents/mv-forms/SpecialtyPlatesCatalog.pdf"
+  },
+  {
+   "id": "hallett-motor-racing-circuit",
+   "name": "Hallett Motor Racing Circuit",
+   "cat": "hobby",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://aem-prod.oklahoma.gov/content/dam/service-oklahoma/Documents/mv-forms/SpecialtyPlatesCatalog.pdf"
+  },
+  {
+   "id": "broken-arrow-public-schools",
+   "name": "Broken Arrow Public Schools",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://aem-prod.oklahoma.gov/content/dam/service-oklahoma/Documents/mv-forms/SpecialtyPlatesCatalog.pdf"
+  },
+  {
+   "id": "kansas-university",
+   "name": "Kansas University",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://aem-prod.oklahoma.gov/content/dam/service-oklahoma/Documents/mv-forms/SpecialtyPlatesCatalog.pdf"
+  },
+  {
+   "id": "45th-infantry-brigade-combat-team",
+   "name": "45th Infantry Brigade Combat Team",
+   "cat": "military",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://aem-prod.oklahoma.gov/content/dam/service-oklahoma/Documents/mv-forms/SpecialtyPlatesCatalog.pdf"
+  },
+  {
+   "id": "meritorious-service-medal",
+   "name": "Meritorious Service Medal",
+   "cat": "military",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://aem-prod.oklahoma.gov/content/dam/service-oklahoma/Documents/mv-forms/SpecialtyPlatesCatalog.pdf"
   }
- ]
+ ],
+ "checked_on": "2026-10-26"
 }

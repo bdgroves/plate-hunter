@@ -1,0 +1,329 @@
+{
+ "state": "MT",
+ "checked": [
+  "https://mvdmt.gov/license-plate-lookup/",
+  "https://mvdmt.gov/license-plate-lookup/page/2/",
+  "https://mvdmt.gov/license-plate-lookup/page/3/",
+  "https://mvdmt.gov/license-plate-lookup/page/5/",
+  "https://mvdmt.gov/license-plate-lookup/page/9/",
+  "https://mvdmt.gov/plate-type/sponsored/",
+  "https://mvdmt.gov/plate-type/sponsored/page/14/",
+  "https://mvdmt.gov/plate-type/sponsored/page/18/",
+  "https://mvdmt.gov/plate-type/sponsored/page/19/",
+  "https://mvdmt.gov/?p=70906",
+  "https://mvdmt.gov/?p=71188",
+  "https://mvdmt.gov/?p=70855",
+  "https://mvdmt.gov/portfolio-item/south-central-montana-regional-mental-health-center/",
+  "https://mvdmt.gov/license-plate-information/",
+  "https://mvdmt.gov/military-resources/military-veteran-license-plates/"
+ ],
+ "robot_url": "https://mvdmt.gov/license-plate-lookup/",
+ "new": [
+  {
+   "title": "Veterans Navigation Network",
+   "cat": "veterans",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2024/02/Veterans-Navigation-Network-2024.jpg",
+   "source": "https://mvdmt.gov/license-plate-lookup/",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "Warriors & Quiet Waters Foundation",
+   "cat": "veterans",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2025/09/Warriors-and-Quiet-Waters-Foundation-2025-1.jpg",
+   "source": "https://mvdmt.gov/license-plate-lookup/",
+   "year": "2025",
+   "matches_existing": null
+  },
+  {
+   "title": "Windhorse Equine Learning",
+   "cat": "charity",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2024/08/Windhorse-Equine-Learning-2024.jpg",
+   "source": "https://mvdmt.gov/license-plate-lookup/",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "Wildlife Crossings – MT FWP",
+   "cat": "nature",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2026/06/Wildlife-Crossings-MT-FWP-2026.jpg",
+   "source": "https://mvdmt.gov/?p=71188",
+   "year": "2026",
+   "matches_existing": null
+  },
+  {
+   "title": "Selway Bitterroot Frank Church Foundation",
+   "cat": "nature",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2025/08/Selway-Bitterroot-Foundation-DBA-2025.jpg",
+   "source": "https://mvdmt.gov/license-plate-lookup/",
+   "year": "2025",
+   "matches_existing": null
+  },
+  {
+   "title": "Serve Montana – Donate Life",
+   "cat": "charity",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2026/02/Serve-Montana-Donate-Life-2026.jpg",
+   "source": "https://mvdmt.gov/license-plate-lookup/",
+   "year": "2026",
+   "matches_existing": null
+  },
+  {
+   "title": "South Central Montana Regional Mental Health Center",
+   "cat": "charity",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2025/01/South-Central-Montana-Regional-Mental-Health-Center-2025.jpg",
+   "source": "https://mvdmt.gov/portfolio-item/south-central-montana-regional-mental-health-center/",
+   "year": "2025",
+   "matches_existing": null
+  },
+  {
+   "title": "Stafford Animal Shelter",
+   "cat": "charity",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2023/10/Stafford-Animal-Shelter-2023.jpg",
+   "source": "https://mvdmt.gov/license-plate-lookup/",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Flathead County Search and Rescue",
+   "cat": "firstresponder",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2025/08/Flathead-County-Search-and-Rescue-2025-1.jpg",
+   "source": "https://mvdmt.gov/plate-type/sponsored/page/14/",
+   "year": "2025",
+   "matches_existing": null
+  },
+  {
+   "title": "Flathead County Sheriff's Posse",
+   "cat": "firstresponder",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2023/10/Flathead-County-Sheriffs-Posse-2023.jpg",
+   "source": "https://mvdmt.gov/plate-type/sponsored/page/14/",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Bridgercare",
+   "cat": "charity",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2025/12/Bridgercare-2026.jpg",
+   "source": "https://mvdmt.gov/plate-type/sponsored/page/18/",
+   "year": "2026",
+   "matches_existing": null
+  },
+  {
+   "title": "Butte Silver Bow Government",
+   "cat": "other",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2023/10/Butte-Silver-Bow-Gov-2023.jpg",
+   "source": "https://mvdmt.gov/plate-type/sponsored/page/18/",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Cascade County Sheriffs Foundation",
+   "cat": "firstresponder",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2025/08/Cascade-County-Sheriffs-Foundation-2025.jpg",
+   "source": "https://mvdmt.gov/plate-type/sponsored/page/18/",
+   "year": "2025",
+   "matches_existing": null
+  },
+  {
+   "title": "Catalyst for Change",
+   "cat": "charity",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2023/10/Catalyst-for-Change-2023.jpg",
+   "source": "https://mvdmt.gov/plate-type/sponsored/page/18/",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "406 Pickleball Missoula",
+   "cat": "hobby",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2023/10/406-Pickle-Ball-Missoula-Inc-2023.jpg",
+   "source": "https://mvdmt.gov/plate-type/sponsored/page/18/",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "A Carousel For Missoula Foundation",
+   "cat": "charity",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2025/08/A-Carousel-For-Missoula-2025.jpg",
+   "source": "https://mvdmt.gov/plate-type/sponsored/page/19/",
+   "year": "2025",
+   "matches_existing": null
+  },
+  {
+   "title": "Abbie Shelter",
+   "cat": "charity",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2026/02/Abbie-Shelter-2023.jpg",
+   "source": "https://mvdmt.gov/plate-type/sponsored/page/19/",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Arise Native Americans",
+   "cat": "charity",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2025/08/Arise-2025-1200x597.jpg",
+   "source": "https://mvdmt.gov/plate-type/sponsored/page/19/",
+   "year": "2025",
+   "matches_existing": null
+  },
+  {
+   "title": "Badlands Baseball",
+   "cat": "sports",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2025/12/Badlands-Baseball-2026.jpg",
+   "source": "https://mvdmt.gov/plate-type/sponsored/page/19/",
+   "year": "2026",
+   "matches_existing": null
+  },
+  {
+   "title": "United in Light Draft Horse Sanctuary",
+   "cat": "charity",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2024/02/United-in-Light-2024.jpg",
+   "source": "https://mvdmt.gov/license-plate-lookup/page/2/",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "University of Montana Alumni Association",
+   "cat": "colleges",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2025/08/University-of-Montana-Alumni-Assoc-2025.jpg",
+   "source": "https://mvdmt.gov/license-plate-lookup/page/2/",
+   "year": "2025",
+   "matches_existing": null
+  },
+  {
+   "title": "Southeast Montana Area Revitalization Team",
+   "cat": "other",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2026/06/Southeast-Montana-Area-Revitalization-Team-2026-1200x599.jpg",
+   "source": "https://mvdmt.gov/license-plate-lookup/page/2/",
+   "year": "2026",
+   "matches_existing": null
+  },
+  {
+   "title": "Patrol Base Abbate",
+   "cat": "veterans",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2025/01/Patrol-Base-Abbate-2025.jpg",
+   "source": "https://mvdmt.gov/license-plate-lookup/page/2/",
+   "year": "2025",
+   "matches_existing": null
+  },
+  {
+   "title": "Rural Resilience",
+   "cat": "charity",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2025/12/Rural-Resilience-2026.jpg",
+   "source": "https://mvdmt.gov/license-plate-lookup/page/3/",
+   "year": "2026",
+   "matches_existing": null
+  },
+  {
+   "title": "Move Over Montana",
+   "cat": "firstresponder",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2025/08/Move-Over-Montana-2025.jpg",
+   "source": "https://mvdmt.gov/license-plate-lookup/page/3/",
+   "year": "2025",
+   "matches_existing": null
+  },
+  {
+   "title": "Montana First Amendment Society",
+   "cat": "other",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2025/08/Montana-First-Amendment-Society-2025.jpg",
+   "source": "https://mvdmt.gov/license-plate-lookup/page/5/",
+   "year": "2025",
+   "matches_existing": null
+  },
+  {
+   "title": "Montana Free Press",
+   "cat": "other",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2024/08/Montana-Free-Press-2024.jpg",
+   "source": "https://mvdmt.gov/license-plate-lookup/page/5/",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "Montana Missing and Murdered Indigenous Persons Advisory Council",
+   "cat": "tribal",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2025/12/Montana-Missing-and-Murdered-Indigenous-Persons-2026.jpg",
+   "source": "https://mvdmt.gov/license-plate-lookup/page/5/",
+   "year": "2026",
+   "matches_existing": null
+  },
+  {
+   "title": "Montana Chiefs of Police Foundation",
+   "cat": "firstresponder",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2026/06/Montana-Chiefs-of-Police-Foundation-2026.jpg",
+   "source": "https://mvdmt.gov/license-plate-lookup/page/5/",
+   "year": "2026",
+   "matches_existing": null
+  },
+  {
+   "title": "Montana Law and Liberty",
+   "cat": "other",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2026/06/Montana-Law-and-Liberty-2026-1200x598.jpg",
+   "source": "https://mvdmt.gov/license-plate-lookup/page/5/",
+   "year": "2026",
+   "matches_existing": null
+  },
+  {
+   "title": "LES Haven Ranch",
+   "cat": "charity",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2025/08/LES-Haven-Ranch-2025.jpg",
+   "source": "https://mvdmt.gov/license-plate-lookup/page/5/",
+   "year": "2025",
+   "matches_existing": null
+  },
+  {
+   "title": "Love For Lexy Foundation",
+   "cat": "charity",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2024/08/Love-for-Lexie-Foundation-2024.jpg",
+   "source": "https://mvdmt.gov/license-plate-lookup/page/5/",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "Maclean-Cameron Animal Adoption Center",
+   "cat": "charity",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2024/02/Animal-Foundation-of-Great-Falls-2024-1.jpg",
+   "source": "https://mvdmt.gov/license-plate-lookup/page/5/",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "Big Sky Youth Empowerment",
+   "cat": "charity",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2025/01/Big-Sky-Youth-Empowerment-Project-2025-1200x600.jpg",
+   "source": "https://mvdmt.gov/license-plate-lookup/page/9/",
+   "year": "2025",
+   "matches_existing": null
+  }
+ ],
+ "redesigned": [
+  {
+   "name_in_game": "Yellowstone Forever",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2026/06/Yellowstone-Forever-2026.jpg",
+   "note": "plate image dated 2026; likely new design"
+  },
+  {
+   "name_in_game": "Prickly Pear Land Trust",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2025/12/Prickly-Pear-Land-Trust-2026.jpg",
+   "note": "plate image dated 2026; likely new design"
+  },
+  {
+   "name_in_game": "Montana Wild Sheep Foundation",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2024/02/Montana-Wild-Sheep-Foundation-2024.jpg",
+   "note": "plate image dated 2024; likely new design"
+  },
+  {
+   "name_in_game": "Montana Wildlife Federation",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2024/08/Montana-Wildlife-Federation-2024.jpg",
+   "note": "plate image dated 2024; likely new design"
+  },
+  {
+   "name_in_game": "Salish Kootenai College",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2024/08/Salish-Kootenai-College-2024.jpg",
+   "note": "plate image dated 2024; likely new design"
+  },
+  {
+   "name_in_game": "University of Providence",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2025/01/University-of-Providence-2025.jpg",
+   "note": "plate image dated 2025; likely new design"
+  }
+ ],
+ "retired": [],
+ "notes": "Only lookup pages 1,2,3,5,9 and sponsored pages 1,14,18,19 of MVD's ~269-plate gallery could be fetched (other pages blocked, search budget exhausted), so this list is partial and retirements could not be checked. Six plates with 2023-dated images not in the game (Stafford Animal Shelter, Flathead County Sheriff's Posse, Butte Silver Bow Government, Catalyst for Change, 406 Pickleball Missoula, Abbie Shelter) may be late-2023 additions or game omissions; year left null. 'Redesigned' is inferred from newer image dates only."
+}

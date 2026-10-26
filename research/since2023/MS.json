@@ -1,0 +1,151 @@
+{
+ "state": "MS",
+ "checked": [
+  "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+  "https://www.producemarketguide.com/news/sweetpotato-councils-promotional-plans-include-focus-health-highlights-license",
+  "https://supertalk.fm/mississippi-aquariums-speciality-license-plate-to-benefit-conservation-efforts",
+  "https://dailyleader.com/?p=210608"
+ ],
+ "robot_url": null,
+ "new": [
+  {
+   "title": "2022 National Championship Ole Miss Baseball",
+   "cat": "sports",
+   "source_img": null,
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Alzheimer's Awareness",
+   "cat": "charity",
+   "source_img": null,
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Columbus Municipal School District",
+   "cat": "other",
+   "source_img": null,
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Diocese of Biloxi",
+   "cat": "other",
+   "source_img": null,
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "EV Mississippi",
+   "cat": "vehicle",
+   "source_img": null,
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Friends of Jackson County Animal Shelter",
+   "cat": "charity",
+   "source_img": null,
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "George County School District",
+   "cat": "other",
+   "source_img": null,
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Gulf War Veteran",
+   "cat": "veterans",
+   "source_img": null,
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Lafayette County School District",
+   "cat": "other",
+   "source_img": null,
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Magnolia Heights School",
+   "cat": "other",
+   "source_img": null,
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Mississippi Aquarium",
+   "cat": "nature",
+   "source_img": null,
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Neshoba Central Rockets",
+   "cat": "other",
+   "source_img": null,
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Rankin County School District",
+   "cat": "other",
+   "source_img": null,
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Stone County School District",
+   "cat": "other",
+   "source_img": null,
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Sunflower County Ministerial Alliance Counseling Services",
+   "cat": "charity",
+   "source_img": null,
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "MS Sweet Potato",
+   "cat": "other",
+   "source_img": null,
+   "source": "https://www.producemarketguide.com/news/sweetpotato-councils-promotional-plans-include-focus-health-highlights-license",
+   "year": "2025",
+   "matches_existing": null
+  },
+  {
+   "title": "Friends of Children's Hospital",
+   "cat": "charity",
+   "source_img": null,
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+   "year": null,
+   "matches_existing": "Blair E Batson Children Hospital"
+  }
+ ],
+ "redesigned": [],
+ "retired": [],
+ "notes": "Only MS Sweet Potato is dated (in circulation by Sep 2025). The rest are on the DOR's current list but missing from the 2023 snapshot, so they may be new or just missed in 2023 (Blackout plates, for example, date from 2022 and are left out). The MS DOR page has no plate images. Not confirmed as retired, though missing from the DOR specialty page: Retired Air Force/Army/Coast Guard/Marine/Navy/National Guard/Reserves, Retired Merchant Marine, Veterans of the US Armed Forces, National Guard - State; they may sit on a separate military page. My web-search budget ran out partway through this state."
+}

@@ -2,9 +2,9 @@
  "code": "FL",
  "name": "Florida",
  "rated": false,
- "checked": false,
+ "checked": true,
  "updated": "2026-10-25",
- "about": "Florida special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "about": "Florida special-design plates. Not rated yet: every plate is worth the same. Checked for plates added since 2023 on 2026-10-26.",
  "sources": [
   {
    "title": "Jon Keegan, us-license-plates (2023)",
@@ -16,7 +16,8 @@
    "id": "a-state-of-vision",
    "name": "A State of Vision",
    "cat": "other",
-   "img": "a-state-of-vision.webp"
+   "img": "a-state-of-vision.webp",
+   "retired": true
   },
   {
    "id": "advent-health-university",
@@ -490,7 +491,8 @@
    "id": "florida-sherifs-youth-ranches",
    "name": "Florida Sherifs Youth Ranches",
    "cat": "other",
-   "img": "florida-sherifs-youth-ranches.webp"
+   "img": "florida-sherifs-youth-ranches.webp",
+   "retired": true
   },
   {
    "id": "florida-southern-college",
@@ -586,7 +588,8 @@
    "id": "hodges-university",
    "name": "Hodges University",
    "cat": "colleges",
-   "img": "hodges-university.webp"
+   "img": "hodges-university.webp",
+   "retired": true
   },
   {
    "id": "horse-country",
@@ -664,7 +667,8 @@
    "id": "keep-kids-drug-free",
    "name": "Keep Kids Drug Free",
    "cat": "charity",
-   "img": "keep-kids-drug-free.webp"
+   "img": "keep-kids-drug-free.webp",
+   "retired": true
   },
   {
    "id": "keiser-university",
@@ -1000,7 +1004,8 @@
    "id": "scouting-teaches-values-boy-scouts-of-am",
    "name": "Scouting Teaches Values (Boy Scouts of America",
    "cat": "charity",
-   "img": "scouting-teaches-values-boy-scouts-of-am.webp"
+   "img": "scouting-teaches-values-boy-scouts-of-am.webp",
+   "retired": true
   },
   {
    "id": "seminole-indian",
@@ -1090,7 +1095,8 @@
    "id": "support-florida-special-olympics",
    "name": "Support Florida Special Olympics",
    "cat": "sports",
-   "img": "support-florida-special-olympics.webp"
+   "img": "support-florida-special-olympics.webp",
+   "retired": true
   },
   {
    "id": "support-homeownership-for-all",
@@ -1319,6 +1325,124 @@
    "name": "Zeta Phi Beta",
    "cat": "other",
    "img": "zeta-phi-beta.webp"
+  },
+  {
+   "id": "bonefish-tarpon-trust",
+   "name": "Bonefish & Tarpon Trust",
+   "cat": "nature",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.flhsmv.gov/motor-vehicles-tags-titles/motor-vehicle-bulletins/2023-2/",
+   "year": "2023"
+  },
+  {
+   "id": "support-scenic-walton-30a",
+   "name": "Support Scenic Walton (30A)",
+   "cat": "nature",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.flhsmv.gov/pdf/bulletins/2023/rstl23-027.pdf",
+   "year": "2023"
+  },
+  {
+   "id": "auburn-university",
+   "name": "Auburn University",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.flhsmv.gov/motor-vehicles-tags-titles/motor-vehicle-bulletins/2023-2/",
+   "year": "2023"
+  },
+  {
+   "id": "florida-bay-forever",
+   "name": "Florida Bay Forever",
+   "cat": "nature",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.flhsmv.gov/pdf/bulletins/2024/rstl24-007.pdf",
+   "year": "2024"
+  },
+  {
+   "id": "university-of-alabama",
+   "name": "University of Alabama",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.flhsmv.gov/motor-vehicles-tags-titles/motor-vehicle-bulletins/2024-2/",
+   "year": "2024"
+  },
+  {
+   "id": "swim-for-life",
+   "name": "Swim For Life",
+   "cat": "charity",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.flhsmv.gov/pdf/bulletins/2024/rstl24-024.pdf",
+   "year": "2025"
+  },
+  {
+   "id": "k9s-united",
+   "name": "K9s United",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.flhsmv.gov/motor-vehicles-tags-titles/motor-vehicle-bulletins/2025-2/",
+   "year": "2025"
+  },
+  {
+   "id": "florida-stands-with-israel",
+   "name": "Florida Stands With Israel",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.flhsmv.gov/motor-vehicles-tags-titles/motor-vehicle-bulletins/2025-2/",
+   "year": "2025"
+  },
+  {
+   "id": "protect-the-gopher-tortoise",
+   "name": "Protect the Gopher Tortoise",
+   "cat": "nature",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.flhsmv.gov/motor-vehicles-tags-titles/motor-vehicle-bulletins/2025-2/",
+   "year": "2025"
+  },
+  {
+   "id": "protect-biscayne-bay",
+   "name": "Protect Biscayne Bay",
+   "cat": "nature",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.flhsmv.gov/pdf/bulletins/2025/rstl25-019.pdf",
+   "year": "2025"
+  },
+  {
+   "id": "margaritaville",
+   "name": "Margaritaville",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.flhsmv.gov/pdf/bulletins/2025/rstl25-013.pdf",
+   "year": "2025"
+  },
+  {
+   "id": "inter-miami-cf",
+   "name": "Inter Miami CF",
+   "cat": "sports",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.flhsmv.gov/pdf/bulletins/2025/rstl25-016.pdf",
+   "year": "2025"
+  },
+  {
+   "id": "florida-state-beekeepers-association",
+   "name": "Florida State Beekeepers Association",
+   "cat": "nature",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.flhsmv.gov/pdf/bulletins/2025/rstl25-017.pdf",
+   "year": "2025"
   }
- ]
+ ],
+ "checked_on": "2026-10-26"
 }

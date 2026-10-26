@@ -1,0 +1,49 @@
+{
+ "state": "KS",
+ "checked": [
+  "https://ksrevenue.gov/dovplates.html",
+  "https://www.ksrevenue.gov/dov-blackout.html",
+  "https://ksrevenue.gov/dov-support.html",
+  "https://ksrevenue.gov/dov-first.html",
+  "https://ksrevenue.gov/dov-occupation.html",
+  "https://ksrevenue.gov/dov-bronzestar.html",
+  "https://ksrevenue.gov/dov-silverstar.html",
+  "https://kslegislature.gov/li/b2023_24/measures/documents/summary_sb_359_2024",
+  "https://kslegislature.gov/li/b2023_24/measures/documents/summary_hb_2392_2024",
+  "https://www.kslegislature.gov/li_2022/b2021_22/measures/documents/supp_note_hb2476_01_0000.pdf",
+  "https://kslegislature.gov/li_2022/b2021_22/measures/documents/supp_note_hb2633_02_0000.pdf",
+  "https://ksrevisor.gov/statutes/chapters/ch08/008_001_0206.html",
+  "https://digital-release.ksnt.com/capitol-bureau/back-the-blue-license-plates-approved-in-kansas/?ipid=ksnt2",
+  "https://digital-release.ksnt.com/?p=2069201",
+  "https://digital-release.ksnt.com/?p=2086128",
+  "https://digital-release.ksn.com/?p=2518432",
+  "https://www.aol.com/most-popular-ku-k-state-091721922.html"
+ ],
+ "robot_url": null,
+ "new": [
+  {"title": "Back the Blue", "cat": "firstresponder", "source_img": null, "source": "https://ksrevenue.gov/dovplates.html", "year": "2024", "matches_existing": null},
+  {"title": "City of Topeka", "cat": "other", "source_img": null, "source": "https://ksrevenue.gov/dovplates.html", "year": "2024", "matches_existing": null},
+  {"title": "City of Hutchinson", "cat": "other", "source_img": null, "source": "https://ksrevenue.gov/dovplates.html", "year": "2023", "matches_existing": null},
+  {"title": "Kansas City Chiefs", "cat": "sports", "source_img": null, "source": "https://ksrevenue.gov/dovplates.html", "year": "2025", "matches_existing": null},
+  {"title": "Sporting Kansas City", "cat": "sports", "source_img": null, "source": "https://ksrevenue.gov/dovplates.html", "year": "2025", "matches_existing": null},
+  {"title": "Sedgwick County Zoo", "cat": "nature", "source_img": null, "source": "https://ksrevenue.gov/dovplates.html", "year": "2025", "matches_existing": null},
+  {"title": "Topeka Zoo", "cat": "nature", "source_img": null, "source": "https://ksrevenue.gov/dovplates.html", "year": "2025", "matches_existing": null},
+  {"title": "Support the Troops", "cat": "military", "source_img": "https://ksrevenue.gov/img/supportplate.jpg", "source": "https://ksrevenue.gov/dov-support.html", "year": "2025", "matches_existing": null},
+  {"title": "Blackout", "cat": "other", "source_img": "https://www.ksrevenue.gov/img/Blackout.jpg", "source": "https://www.ksrevenue.gov/dov-blackout.html", "year": "2026", "matches_existing": null},
+  {"title": "Kansas FFA", "cat": "other", "source_img": null, "source": "https://ksrevenue.gov/dovplates.html", "year": "2026", "matches_existing": null},
+  {"title": "Kansas Outdoors - Fishing", "cat": "nature", "source_img": null, "source": "https://ksrevenue.gov/dovplates.html", "year": "2023", "matches_existing": null},
+  {"title": "Kansas Outdoors - Hunting", "cat": "nature", "source_img": null, "source": "https://ksrevenue.gov/dovplates.html", "year": "2023", "matches_existing": null},
+  {"title": "Kansas Outdoors - Nongame Wildlife", "cat": "nature", "source_img": null, "source": "https://ksrevenue.gov/dovplates.html", "year": "2023", "matches_existing": null},
+  {"title": "Kansas Outdoors - State Parks", "cat": "nature", "source_img": null, "source": "https://ksrevenue.gov/dovplates.html", "year": "2023", "matches_existing": null},
+  {"title": "Silver Star Medal", "cat": "military", "source_img": null, "source": "https://ksrevenue.gov/dov-silverstar.html", "year": "2023", "matches_existing": null},
+  {"title": "Bronze Star Medal", "cat": "military", "source_img": null, "source": "https://ksrevenue.gov/dov-bronzestar.html", "year": "2023", "matches_existing": null},
+  {"title": "1st Infantry Division", "cat": "military", "source_img": "https://ksrevenue.gov/img/1stInfantryPlate.jpg", "source": "https://ksrevenue.gov/dov-first.html", "year": "2024", "matches_existing": null},
+  {"title": "Armed Services Occupation Medal", "cat": "military", "source_img": "https://ksrevenue.gov/img/ArmedServicesOccupationMedal.jpg", "source": "https://ksrevenue.gov/dov-occupation.html", "year": "2024", "matches_existing": null}
+ ],
+ "redesigned": [],
+ "retired": [
+  {"name_in_game": "Baker University", "source": "https://ksrevenue.gov/dovplates.html"},
+  {"name_in_game": "Ottawa University", "source": "https://ksrevenue.gov/dovplates.html"}
+ ],
+ "notes": "Years are first-legal-issue dates from statutes/news (Hutchinson, KDWP x4, Silver/Bronze Star legal from 1 Jan 2023 but absent from the 2023 snapshot, so actual first issue may be mid-2023 or later). Royals, KC Current and First City of Kansas (SB 359, 2024) and Route 66 (HB 2201, 2026) are authorized but not yet on KDOR's list, so left out; Garden City CC, Kansas 4-H, Proud Educator and Down Syndrome are on KDOR's list but missing from the game and predate 2023. Retirements of Baker and Ottawa inferred only from their absence on KDOR's list. KDOR's main list has no plate images and sponsor pages were blocked to fetch."
+}

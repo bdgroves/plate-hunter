@@ -4,7 +4,7 @@
  "rated": false,
  "checked": false,
  "updated": "2026-10-25",
- "about": "Virginia special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "about": "Virginia special-design plates. Not rated yet: every plate is worth the same. Partly checked for plates added since 2023.",
  "sources": [
   {
    "title": "Jon Keegan, us-license-plates (2023)",
@@ -1090,7 +1090,8 @@
    "id": "robert-e-lee",
    "name": "Robert E. Lee",
    "cat": "other",
-   "img": "robert-e-lee.webp"
+   "img": "robert-e-lee.webp",
+   "retired": true
   },
   {
    "id": "rotary-international",
@@ -1156,7 +1157,8 @@
    "id": "sons-of-confederate-veterans",
    "name": "Sons of Confederate Veterans",
    "cat": "veterans",
-   "img": "sons-of-confederate-veterans.webp"
+   "img": "sons-of-confederate-veterans.webp",
+   "retired": true
   },
   {
    "id": "southwest-virginia-community-college",
@@ -1408,7 +1410,9 @@
    "id": "virginia-commonwealth-ram",
    "name": "Virginia Commonwealth - Ram",
    "cat": "other",
-   "img": "virginia-commonwealth-ram.webp"
+   "img": "virginia-commonwealth-ram.webp",
+   "img_url": "https://news.vcu.edu/image/60669de9-83d3-444c-87ed-baac757bd12c",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "virginia-commonwealth-seal",
@@ -1625,6 +1629,17 @@
    "name": "Zeta Phi Beta Sorority, Inc",
    "cat": "other",
    "img": "zeta-phi-beta-sorority-inc.webp"
+  },
+  {
+   "id": "250th-american-revolution-anniversary",
+   "name": "250th American Revolution Anniversary",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://dmv.virginia.gov/vehicles/license-plates/search/250th-american-revolution-anniversary",
+   "img_url": "https://www.va250.org/wp-content/uploads/2024/10/LicensePlate_2-825x342-1.jpg",
+   "year": "2024"
   }
- ]
+ ],
+ "checked_on": "2026-10-26"
 }

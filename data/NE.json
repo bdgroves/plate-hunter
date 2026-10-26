@@ -2,9 +2,9 @@
  "code": "NE",
  "name": "Nebraska",
  "rated": false,
- "checked": false,
+ "checked": true,
  "updated": "2026-10-25",
- "about": "Nebraska special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "about": "Nebraska special-design plates. Not rated yet: every plate is worth the same. Checked for plates added since 2023 on 2026-10-26.",
  "sources": [
   {
    "title": "Jon Keegan, us-license-plates (2023)",
@@ -245,6 +245,52 @@
    "name": "Wildlife Conservation- Sandhill Crane",
    "cat": "nature",
    "img": "wildlife-conservation-sandhill-crane.webp"
+  },
+  {
+   "id": "wayne-state-college",
+   "name": "Wayne State College",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.wsc.edu/wsc-license-plates",
+   "img_url": "https://www.wsc.edu/images/homepage_inset_wsc_license_plates.jpg",
+   "year": "2026"
+  },
+  {
+   "id": "czech-heritage",
+   "name": "Czech Heritage",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://update.legislature.ne.gov/?p=35400"
+  },
+  {
+   "id": "arbor-day",
+   "name": "Arbor Day",
+   "cat": "nature",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.nebraskalegislature.gov/FloorDocs/109/PDF/CS/LB568.pdf",
+   "year": "2026"
+  },
+  {
+   "id": "u-s-space-force",
+   "name": "U.S. Space Force",
+   "cat": "military",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.nebraskalegislature.gov/FloorDocs/109/PDF/CS/LB568.pdf",
+   "year": "2026"
+  },
+  {
+   "id": "inherent-resolve-campaign-medal",
+   "name": "Inherent Resolve Campaign Medal",
+   "cat": "military",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.nebraskalegislature.gov/FloorDocs/109/PDF/CS/LB568.pdf",
+   "year": "2026"
   }
- ]
+ ],
+ "checked_on": "2026-10-26"
 }

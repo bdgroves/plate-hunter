@@ -1,0 +1,22 @@
+{
+ "state": "IL",
+ "checked": [
+  "https://www.ilsos.gov/facilities/specialtyplates.html (robots-disallowed, not readable)",
+  "https://www.ilsos.gov/departments/vehicles/license-plate-guide/licenseplates.html (robots-disallowed, not readable)",
+  "https://www.chicagofirefc.com/news/giannoulias-debuts-chicago-fire-fc-license-plates",
+  "https://illinoissenatedemocrats.com/caucus-news/46-senator-ram-villivalam-news/3848-villivalam-expands-special-license-plates-options-for-sports-fans",
+  "https://senatorjiltracy.com/?p=5391",
+  "https://www.100clubil.org/license-plate/",
+  "https://www.goiam.org/news/territories/midwest/illinois-drivers-order-your-machinists-union-license-plate-now/",
+  "https://1440wrok.com/ixp/463/p/illinois-specialty-license-plates/",
+  "https://1440wrok.com/ixp/721/p/illinois-universal-license-plate/"
+ ],
+ "robot_url": null,
+ "new": [
+  {"title": "Chicago Fire FC", "cat": "sports", "source_img": null,
+   "source": "https://www.chicagofirefc.com/news/giannoulias-debuts-chicago-fire-fc-license-plates", "year": "2025", "matches_existing": null}
+ ],
+ "redesigned": [],
+ "retired": [],
+ "notes": "ilsos.gov blocks automated fetching, so the official list could not be read and only Chicago Fire FC (debuted Feb 27, 2025) is confirmed new; the club article has unlabeled images (likely plate: https://images.mlssoccer.com/image/private/t_q-best/mls-chi/tlc0nu9op0xpdsgbyjws) that I could not verify. Chicago Sky and Red Stars plates were authorized in 2022 but no launch was found. The Police K-9 Memorial (applications opened March 2026) and 100 Club of Illinois universal-decal plates are still collecting the 2,000 applications needed before production, so neither is on the road yet."
+}

@@ -1,0 +1,32 @@
+{
+ "state": "MO",
+ "checked": [
+  "https://dor.mo.gov/motor-vehicle/plates/documents/SpecialtyPlateChart-FEB-8.pdf",
+  "https://dor.mo.gov/motor-vehicle/plates/personalized-specialty.html",
+  "https://dor.mo.gov/motor-vehicle/law-changes/"
+ ],
+ "robot_url": null,
+ "new": [
+  {"title": "Conservation Heritage Foundation – Bass/Fish", "cat": "nature", "source_img": null,
+   "source": "https://dor.mo.gov/motor-vehicle/plates/documents/SpecialtyPlateChart-FEB-8.pdf", "year": "2023", "matches_existing": null},
+  {"title": "Army of Occupation Medal", "cat": "military", "source_img": null,
+   "source": "https://dor.mo.gov/motor-vehicle/plates/documents/SpecialtyPlateChart-FEB-8.pdf", "year": "2024", "matches_existing": null},
+  {"title": "Respiratory Therapist", "cat": "other", "source_img": null,
+   "source": "https://dor.mo.gov/motor-vehicle/plates/documents/SpecialtyPlateChart-FEB-8.pdf", "year": "2024", "matches_existing": null},
+  {"title": "Bee Friendly", "cat": "nature", "source_img": null,
+   "source": "https://dor.mo.gov/motor-vehicle/plates/documents/SpecialtyPlateChart-FEB-8.pdf", "year": "2025", "matches_existing": null},
+  {"title": "Cars and Coffee Foundation", "cat": "hobby", "source_img": null,
+   "source": "https://dor.mo.gov/motor-vehicle/plates/documents/SpecialtyPlateChart-FEB-8.pdf", "year": "2025", "matches_existing": null},
+  {"title": "Missouri Sheriffs Association", "cat": "firstresponder", "source_img": null,
+   "source": "https://dor.mo.gov/motor-vehicle/plates/documents/SpecialtyPlateChart-FEB-8.pdf", "year": "2025", "matches_existing": null}
+ ],
+ "redesigned": [
+  {"name_in_game": "Kansas City Chiefs", "source_img": null, "note": "DOR chart (rev. 2/04/2026) marks a 2023 NEW design"},
+  {"name_in_game": "Kansas City Zoo", "source_img": null, "note": "DOR chart marks a 2023 NEW design"},
+  {"name_in_game": "Safari Club International", "source_img": null, "note": "DOR chart marks a 2023 NEW design"},
+  {"name_in_game": "Special Olympics Missouri", "source_img": null, "note": "DOR chart marks a 2024 NEW design"},
+  {"name_in_game": "Wartime Disabled - DAV", "source_img": null, "note": "DOR chart marks a 2024 NEW design"}
+ ],
+ "retired": [],
+ "notes": "All six entries and the redesigns come from the 'statute year' and 'NEW' marks in DOR's specialty plate chart (revised Feb 2026), not launch announcements; the Bass/Fish and 2023 redesigns may predate the mid-2023 snapshot. DOR's plate previews are drop-down menus whose images could not be read, and the shared search quota ran out before sponsor images could be looked for, so every source_img is null. The chart also shows 'Retired Merchant Marine' removed 1/15/2026 (not in the game), and many pre-2023 plates missing from the game (e.g. American Red Cross, Route 66 2022, Missouri CASA 2021)."
+}

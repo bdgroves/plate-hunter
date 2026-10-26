@@ -1,0 +1,21 @@
+{
+ "state": "NH",
+ "checked": [
+  "https://dmv.nh.gov/vehicles-boats-or-titles/vehicle-registrations/decal-plates",
+  "https://www.dmavs.nh.gov/veterans-services/license-plates",
+  "https://app.azure.legiplex.com/nh/legislature/2025/2025-r/bills/hb260",
+  "https://www.aol.com/articles/state-unveils-commemorative-license-plate-234900425.html",
+  "https://www.sunapeenh.gov/police-department/page/new-hampshire-unveils-commemorative-license-plate-americas-250th-birthday",
+  "https://www.exeternh.gov/250cc/america-250-commemorative-license-plates",
+  "https://citizenscount.org/bills/hb-1329-2024"
+ ],
+ "robot_url": null,
+ "new": [
+  {"title": "America 250 Commemorative License Plate", "cat": "other",
+   "source_img": "https://www.sunapeenh.gov/sites/g/files/vyhlif14916/files/media/police-department/image/24981/img_4920.jpeg",
+   "source": "https://www.exeternh.gov/250cc/america-250-commemorative-license-plates", "year": "2026", "matches_existing": null}
+ ],
+ "redesigned": [],
+ "retired": [],
+ "notes": "The America 250 plate is a front-only commemorative cover plate (HB 260, $25, displayable Jan 1, 2026 to Jul 4, 2027); its image is from a town police page (sunapeenh.gov), not NH DMV, and the page doesn't caption it, so verify. NH's 14 charity decals on Multi-Use Decal plates (Patriots Foundation, UNH, Keene State, Rotary, etc.) aren't in the game and have no dates of addition on the DMV page; HB 1329 (2024) fire-department plates passed but I could not confirm they're issued or that they are for private cars."
+}

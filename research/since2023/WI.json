@@ -1,0 +1,46 @@
+{
+ "state": "WI",
+ "checked": [
+  "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/special.aspx",
+  "https://wisconsindot.gov/Pages/about-wisdot/newsroom/news-rel/050824newplates.aspx",
+  "https://wisconsindot.gov/Pages/about-wisdot/newsroom/news-rel/100924crane.aspx",
+  "https://wisconsindot.gov/Pages/about-wisdot/newsroom/news-rel/013025wicoforestplate.aspx",
+  "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/TRE.aspx",
+  "https://wisconsindot.gov/Pages/about-wisdot/newsroom/news-rel/060926iolaplate.aspx",
+  "https://wisconsindot.gov/Pages/about-wisdot/newsroom/news-rel/073126rotary.aspx",
+  "https://wisconsindot.gov/Pages/about-wisdot/newsroom/news-rel/050626bikeffaplate.aspx",
+  "https://urbanmilwaukee.com/pressrelease/gov-evers-wisdot-unveil-new-blackout-and-retro-license-plate-designs-for-wisconsin-drivers/",
+  "https://wausaupilotandreview.com/2026/06/10/dmv-releases-new-special-license-plate-featuring-iola-car-show/",
+  "https://www.cbs58.com/news/two-new-specialty-license-plates-now-available-at-wisconsin-dot"
+ ],
+ "robot_url": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/special.aspx",
+ "new": [
+  {"title": "American Foundation for Suicide Prevention", "cat": "charity",
+   "source_img": "https://wisconsindot.gov/PublishingImages/dmv/vehicles/title-plates/afsp-plt.png",
+   "source": "https://wisconsindot.gov/Pages/about-wisdot/newsroom/news-rel/050824newplates.aspx", "year": "2024", "matches_existing": null},
+  {"title": "Spay, Neuter, Adopt", "cat": "charity",
+   "source_img": "https://wisconsindot.gov/PublishingImages/dmv/vehicles/title-plates/sna-plt.png",
+   "source": "https://wisconsindot.gov/Pages/about-wisdot/newsroom/news-rel/050824newplates.aspx", "year": "2024", "matches_existing": null},
+  {"title": "International Crane Foundation", "cat": "nature",
+   "source_img": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/CRN-intl-crane-fdn-200.png",
+   "source": "https://wisconsindot.gov/Pages/about-wisdot/newsroom/news-rel/100924crane.aspx", "year": "2024", "matches_existing": null},
+  {"title": "Wisconsin County Forests Association", "cat": "nature",
+   "source_img": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/TRE.png",
+   "source": "https://wisconsindot.gov/Pages/about-wisdot/newsroom/news-rel/013025wicoforestplate.aspx", "year": "2025", "matches_existing": null},
+  {"title": "Blackout", "cat": "other",
+   "source_img": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/BOP-Blackout-plate-800.png",
+   "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/special.aspx", "year": "2026", "matches_existing": null},
+  {"title": "Retro Yellow", "cat": "other",
+   "source_img": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/RYP-Retro-Yellow-plate-800.png",
+   "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/special.aspx", "year": "2026", "matches_existing": null},
+  {"title": "Iola Car Show", "cat": "hobby", "source_img": null,
+   "source": "https://wisconsindot.gov/Pages/about-wisdot/newsroom/news-rel/060926iolaplate.aspx", "year": "2026", "matches_existing": null},
+  {"title": "Rotary International", "cat": "charity", "source_img": null,
+   "source": "https://wisconsindot.gov/Pages/about-wisdot/newsroom/news-rel/073126rotary.aspx", "year": "2026", "matches_existing": null}
+ ],
+ "redesigned": [
+  {"name_in_game": "Golf Wisconsin", "source_img": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/golf-wI-redesign2025.png", "note": "new design issued 2025 (WisDOT special plates page)"}
+ ],
+ "retired": [],
+ "notes": "Iola Car Show (June 2026) and Rotary (July 2026) have no official image yet; a news image of the Iola plate exists at https://wausaupilotandreview.com/wp-content/uploads/2026/06/Iola-Car-Show-plate-873.png. Not new but missing from the game: Ice Age Trail Alliance (2022), Elkhart Lake's Road America (2021, redesigned June 2024), Medical College of Wisconsin (2019) and Musky Clubs Alliance (2018). Bicycle Federation of Wisconsin and Wisconsin FFA plates were still pending legislative review in May 2026."
+}

@@ -2,9 +2,9 @@
  "code": "NH",
  "name": "New Hampshire",
  "rated": false,
- "checked": false,
+ "checked": true,
  "updated": "2026-10-25",
- "about": "New Hampshire special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "about": "New Hampshire special-design plates. Not rated yet: every plate is worth the same. Checked for plates added since 2023 on 2026-10-26.",
  "sources": [
   {
    "title": "Jon Keegan, us-license-plates (2023)",
@@ -101,6 +101,17 @@
    "name": "Veteran",
    "cat": "veterans",
    "img": "veteran.webp"
+  },
+  {
+   "id": "america-250-commemorative-license-plate",
+   "name": "America 250 Commemorative License Plate",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.exeternh.gov/250cc/america-250-commemorative-license-plates",
+   "img_url": "https://www.sunapeenh.gov/sites/g/files/vyhlif14916/files/media/police-department/image/24981/img_4920.jpeg",
+   "year": "2026"
   }
- ]
+ ],
+ "checked_on": "2026-10-26"
 }

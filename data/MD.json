@@ -4,7 +4,7 @@
  "rated": false,
  "checked": false,
  "updated": "2026-10-25",
- "about": "Maryland special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "about": "Maryland special-design plates. Not rated yet: every plate is worth the same. Partly checked for plates added since 2023.",
  "sources": [
   {
    "title": "Jon Keegan, us-license-plates (2023)",
@@ -5255,6 +5255,47 @@
    "name": "York College of Pennsylvania",
    "cat": "colleges",
    "img": "york-college-of-pennsylvania.webp"
+  },
+  {
+   "id": "gold-star-lapel-button",
+   "name": "Gold Star Lapel Button",
+   "cat": "military",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/your-mva-guide/businesses/bulletins-businesses/legislative-changes-plates-disabled-veterans-and-gold-star-families",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/medium/public/2026-01/Gold-Star-Plates.png.webp",
+   "year": "2024"
+  },
+  {
+   "id": "gold-star-next-of-kin",
+   "name": "Gold Star Next of Kin",
+   "cat": "military",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/your-mva-guide/businesses/bulletins-businesses/legislative-changes-plates-disabled-veterans-and-gold-star-families",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/medium/public/2026-01/Gold-Star-Plates.png.webp",
+   "year": "2024"
+  },
+  {
+   "id": "disabled-veteran-50-99-rating",
+   "name": "Disabled Veteran (50-99% rating)",
+   "cat": "veterans",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/your-mva-guide/military-service-members/license-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/medium/public/2026-02/Disabled-Veteran-Tag.png.webp",
+   "year": "2024"
+  },
+  {
+   "id": "protect-the-chesapeake-and-coastal-bays",
+   "name": "Protect the Chesapeake and Coastal Bays",
+   "cat": "nature",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/news/updated-bays-license-plate-maryland-drivers",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/small/public/2026-01/Chesapeake-Bay-Plate.png.webp",
+   "year": "2024"
   }
- ]
+ ],
+ "checked_on": "2026-10-26"
 }

@@ -2,9 +2,9 @@
  "code": "KS",
  "name": "Kansas",
  "rated": false,
- "checked": false,
+ "checked": true,
  "updated": "2026-10-25",
- "about": "Kansas special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "about": "Kansas special-design plates. Not rated yet: every plate is worth the same. Checked for plates added since 2023 on 2026-10-26.",
  "sources": [
   {
    "title": "Jon Keegan, us-license-plates (2023)",
@@ -70,7 +70,8 @@
    "id": "baker-university",
    "name": "Baker University",
    "cat": "colleges",
-   "img": "baker-university.webp"
+   "img": "baker-university.webp",
+   "retired": true
   },
   {
    "id": "benedictine-college",
@@ -292,7 +293,8 @@
    "id": "ottawa-university",
    "name": "Ottawa University",
    "cat": "colleges",
-   "img": "ottawa-university.webp"
+   "img": "ottawa-university.webp",
+   "retired": true
   },
   {
    "id": "pearl-harbor-survivor",
@@ -413,6 +415,164 @@
    "name": "Wichita State University",
    "cat": "colleges",
    "img": "wichita-state-university.webp"
+  },
+  {
+   "id": "back-the-blue",
+   "name": "Back the Blue",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://ksrevenue.gov/dovplates.html",
+   "year": "2024"
+  },
+  {
+   "id": "city-of-topeka",
+   "name": "City of Topeka",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://ksrevenue.gov/dovplates.html",
+   "year": "2024"
+  },
+  {
+   "id": "city-of-hutchinson",
+   "name": "City of Hutchinson",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://ksrevenue.gov/dovplates.html",
+   "year": "2023"
+  },
+  {
+   "id": "kansas-city-chiefs",
+   "name": "Kansas City Chiefs",
+   "cat": "sports",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://ksrevenue.gov/dovplates.html",
+   "year": "2025"
+  },
+  {
+   "id": "sporting-kansas-city",
+   "name": "Sporting Kansas City",
+   "cat": "sports",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://ksrevenue.gov/dovplates.html",
+   "year": "2025"
+  },
+  {
+   "id": "topeka-zoo",
+   "name": "Topeka Zoo",
+   "cat": "nature",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://ksrevenue.gov/dovplates.html",
+   "year": "2025"
+  },
+  {
+   "id": "support-the-troops",
+   "name": "Support the Troops",
+   "cat": "military",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://ksrevenue.gov/dov-support.html",
+   "img_url": "https://ksrevenue.gov/img/supportplate.jpg",
+   "year": "2025"
+  },
+  {
+   "id": "blackout",
+   "name": "Blackout",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.ksrevenue.gov/dov-blackout.html",
+   "img_url": "https://www.ksrevenue.gov/img/Blackout.jpg",
+   "year": "2026"
+  },
+  {
+   "id": "kansas-ffa",
+   "name": "Kansas FFA",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://ksrevenue.gov/dovplates.html",
+   "year": "2026"
+  },
+  {
+   "id": "kansas-outdoors-fishing",
+   "name": "Kansas Outdoors - Fishing",
+   "cat": "nature",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://ksrevenue.gov/dovplates.html",
+   "year": "2023"
+  },
+  {
+   "id": "kansas-outdoors-hunting",
+   "name": "Kansas Outdoors - Hunting",
+   "cat": "nature",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://ksrevenue.gov/dovplates.html",
+   "year": "2023"
+  },
+  {
+   "id": "kansas-outdoors-nongame-wildlife",
+   "name": "Kansas Outdoors - Nongame Wildlife",
+   "cat": "nature",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://ksrevenue.gov/dovplates.html",
+   "year": "2023"
+  },
+  {
+   "id": "kansas-outdoors-state-parks",
+   "name": "Kansas Outdoors - State Parks",
+   "cat": "nature",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://ksrevenue.gov/dovplates.html",
+   "year": "2023"
+  },
+  {
+   "id": "silver-star-medal",
+   "name": "Silver Star Medal",
+   "cat": "military",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://ksrevenue.gov/dov-silverstar.html",
+   "year": "2023"
+  },
+  {
+   "id": "bronze-star-medal",
+   "name": "Bronze Star Medal",
+   "cat": "military",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://ksrevenue.gov/dov-bronzestar.html",
+   "year": "2023"
+  },
+  {
+   "id": "1st-infantry-division",
+   "name": "1st Infantry Division",
+   "cat": "military",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://ksrevenue.gov/dov-first.html",
+   "img_url": "https://ksrevenue.gov/img/1stInfantryPlate.jpg",
+   "year": "2024"
+  },
+  {
+   "id": "armed-services-occupation-medal",
+   "name": "Armed Services Occupation Medal",
+   "cat": "military",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://ksrevenue.gov/dov-occupation.html",
+   "img_url": "https://ksrevenue.gov/img/ArmedServicesOccupationMedal.jpg",
+   "year": "2024"
   }
- ]
+ ],
+ "checked_on": "2026-10-26"
 }

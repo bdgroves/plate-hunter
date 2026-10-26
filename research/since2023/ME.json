@@ -1,0 +1,24 @@
+{
+ "state": "ME",
+ "checked": [
+  "https://maine.gov/sos/bmv/vehicles/specialty-plates",
+  "https://www.maine.gov/sos/bmv/vehicles/veteran-plate-or-decal/vehicles/available-veteran-plates",
+  "https://www.maine.gov/sos/bmv/vehicles/veteran-plate-or-decal/vehicles/veteran-decal-program",
+  "https://www.maine.gov/sos/news/bureau-motor-vehicles-begin-issuing-new-pine-tree-license-plate-may-1-2025",
+  "https://newscentermaine.com/article/news/politics/maine-politics/maine-pine-tree-license-plate-chickadee-plate/97-2bbb2993-79c0-4c09-bee1-0e925e6cb42f",
+  "https://lldc.mainelegislature.org/Open/LDs/131/131-LD-1822.pdf",
+  "https://legislature.maine.gov/statutes/29-A/title29-Asec468.html"
+ ],
+ "robot_url": "https://www.maine.gov/sos/bmv/vehicles/veteran-plate-or-decal/vehicles/available-veteran-plates",
+ "new": [
+  {"title": "Medal of Honor Plate", "cat": "military",
+   "source_img": "https://www.maine.gov/sos/sites/maine.gov.sos/files/content/assets/medalofhonorplt-3.jpg",
+   "source": "https://www.maine.gov/sos/bmv/vehicles/veteran-plate-or-decal/vehicles/available-veteran-plates", "year": null, "matches_existing": null},
+  {"title": "Former Prisoner of War Plate", "cat": "veterans",
+   "source_img": "https://www.maine.gov/sos/sites/maine.gov.sos/files/content/assets/powplt-3.jpg",
+   "source": "https://www.maine.gov/sos/bmv/vehicles/veteran-plate-or-decal/vehicles/available-veteran-plates", "year": null, "matches_existing": null}
+ ],
+ "redesigned": [],
+ "retired": [],
+ "notes": "No new specialty plate since mid-2023 that I could confirm: a legislative moratorium (LD 1822) blocked new specialty plates until June 30, 2024, and the BMV list matches the game ('Maine Black Bears Scholarship Fund' = game's 'Black Bear'). The two 'new' entries are long-standing veteran plates missing from the game (dates unknown), not post-2023 additions; the only post-2023 change is the standard Pine Tree plate replacing the Chickadee base plate (May 2025, not a specialty plate, specialty plates unaffected)."
+}

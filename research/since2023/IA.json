@@ -1,0 +1,31 @@
+{
+ "state": "IA",
+ "checked": [
+  "https://iowadot.gov/registration-plates/license-plates/personalized-specialty-plates",
+  "https://ia.iowadot.gov/mvd/personalizedplates/step2.aspx",
+  "https://iowadot.gov/mvd/vehicleregistration/plates",
+  "https://iowadot.gov/mvd/vehicleregistration/vehicleregistration/plates/Mercy",
+  "https://iowadot.gov/registration-plates/license-plates/decals/available-decals",
+  "https://www.iowadnr.gov/programs-services/natural-resources-license-plates",
+  "https://www.iowadnr.gov/Conservation/REAP/License-Plate",
+  "https://www.legis.iowa.gov/docs/aco/arc/8937C.pdf",
+  "https://rules.iowa.gov/Notice/Details/8334C",
+  "https://iowadot.gov/media/899/download",
+  "https://www.law.cornell.edu/regulations/iowa/Iowa-Admin-Code-r-761-401-18",
+  "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Iowa"
+ ],
+ "robot_url": "https://iowadot.gov/registration-plates/license-plates/decals/available-decals",
+ "new": [
+  {"title": "DNR - Pollinator", "cat": "nature", "source_img": null,
+   "source": "https://ia.iowadot.gov/mvd/personalizedplates/step2.aspx", "year": null, "matches_existing": null},
+  {"title": "DNR - Recreation", "cat": "nature", "source_img": null,
+   "source": "https://ia.iowadot.gov/mvd/personalizedplates/step2.aspx", "year": null, "matches_existing": null},
+  {"title": "Emmaus Bible College", "cat": "colleges", "source_img": null,
+   "source": "https://ia.iowadot.gov/mvd/personalizedplates/step2.aspx", "year": null, "matches_existing": null},
+  {"title": "Mercy College of Health Sciences", "cat": "colleges", "source_img": null,
+   "source": "https://iowadot.gov/mvd/vehicleregistration/vehicleregistration/plates/Mercy", "year": null, "matches_existing": null}
+ ],
+ "redesigned": [],
+ "retired": [],
+ "notes": "No new Iowa plate since mid-2023 is confirmed by a dated source. The four entries above appear on the Iowa DOT's current order list but not in the game, and no launch date was found, so they may predate 2023 (the DNR's own plate pages still list only the five wildlife designs). Six combat-badge plates exist in rule but await 250 start-up orders. The robot_url page shows the small organizational decals (e.g. LifeServe Blood Center 2026, Trice Legacy Foundation 2025) that go on the game's generic 'Decal' plate, not full plates."
+}

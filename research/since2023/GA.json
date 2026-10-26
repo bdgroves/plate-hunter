@@ -1,0 +1,26 @@
+{
+ "state": "GA",
+ "checked": [
+  "https://dor.georgia.gov/motor-vehicles/vehicle-registration-license-plates/specialty-prestige-license-plates",
+  "https://dor.georgia.gov/document/document/2024-legislation/download",
+  "https://dor.georgia.gov/document/document/2025-legislative-summary/download",
+  "https://dor.georgia.gov/press-releases/2025-12-29/georgia-launch-commemorative-license-plate-honoring-nations-250th",
+  "https://www.atlantanewsfirst.com/2026/01/02/georgia-releases-new-specialty-license-plates-2026/",
+  "https://www.aol.com/articles/ga-getting-specialty-car-license-110000942.html",
+  "https://www.wctv.tv/2025/12/30/america-first-license-plate-available-january/",
+  "https://gastateparks.org/press-release-parks/Show-Your-State-Park-Pride%21-New-Specialty-License-Plate-Available",
+  "https://gadnr.org/new-bass-conservation-license-plate-now-available",
+  "https://gadnr.org/license-plates",
+  "https://georgiawildlife.com/LicensePlates"
+ ],
+ "robot_url": null,
+ "new": [
+  {"title": "America First", "cat": "other", "source_img": null, "source": "https://www.wctv.tv/2025/12/30/america-first-license-plate-available-january/", "year": "2026", "matches_existing": null},
+  {"title": "Selfless Service (Georgia Veterans Service Foundation)", "cat": "veterans", "source_img": null, "source": "https://www.atlantanewsfirst.com/2026/01/02/georgia-releases-new-specialty-license-plates-2026/", "year": "2026", "matches_existing": null},
+  {"title": "Georgia State Parks", "cat": "nature", "source_img": "https://gadnr.org/sites/default/files/inline-images/DNR-State-Parks-License-Plate-GO-CAMP.png", "source": "https://gastateparks.org/press-release-parks/Show-Your-State-Park-Pride%21-New-Specialty-License-Plate-Available", "year": "2026", "matches_existing": null},
+  {"title": "Black Bass Conservation", "cat": "nature", "source_img": "https://gadnr.org/sites/default/files/inline-images/GoFish_Graphic2_Bass%20License%20Plate.png", "source": "https://gadnr.org/new-bass-conservation-license-plate-now-available", "year": "2026", "matches_existing": null}
+ ],
+ "redesigned": [],
+ "retired": [],
+ "notes": "Georgia's DOR plate gallery (mvd.dor.ga.gov/motor/plates/PlateSelection.aspx) could not be fetched, so robot_url is null and no retirements could be checked. HB 208 (2025) also authorized Shepherd Center, Southern University Alumni, Alabama State University and a new Delta Sigma Theta plate, but these need prepaid applications and I found no sign they've been issued. Calling Selfless Service the Veterans Service Foundation plate is my inference. The America 250 plate (Jan 2026–2030) is a free standard-plate option, not a specialty plate, so it's left out. Image URLs are from GA DNR, the sponsoring state agency."
+}

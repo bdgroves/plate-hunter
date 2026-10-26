@@ -1,0 +1,35 @@
+{
+ "state": "VA",
+ "checked": [
+  "https://www.dmv.virginia.gov/vehicles/license-plates/search",
+  "https://dmv.virginia.gov/vehicles/license-plates/search/250th-american-revolution-anniversary",
+  "https://www.dmv.virginia.gov/vehicles/license-plates/plate-develop",
+  "https://www.dmv.virginia.gov/news/dmv-now-offering-richmond-planet-license-plates",
+  "https://law.lis.virginia.gov/uncodifiedacts/2024/session1/chapter106",
+  "https://va250.org/?p=16746",
+  "https://news.vcu.edu/article/2024/06/new-bold-vcu-license-plate-is-a-way-to-show-pride--and-support-students",
+  "https://vca.virginia.gov/virginia-commission-for-the-arts-debuts-new-specialty-license-plate/",
+  "https://virginiamercury.com/2024/10/28/lgbtq-nonprofit-hopes-to-drive-support-with-new-va-license-plate/",
+  "https://virginiamercury.com/2024/04/15/youngkin-proposes-a-second-vote-to-remove-robert-e-lee-license-plate/",
+  "https://www.ffxnow.com/2026/04/10/fairfax-delegates-bill-ending-use-of-confederate-license-plates-signed-into-law/",
+  "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Virginia"
+ ],
+ "robot_url": "https://www.dmv.virginia.gov/vehicles/license-plates/search",
+ "new": [
+  {"title": "250th American Revolution Anniversary", "cat": "other",
+   "source_img": "https://www.va250.org/wp-content/uploads/2024/10/LicensePlate_2-825x342-1.jpg",
+   "source": "https://dmv.virginia.gov/vehicles/license-plates/search/250th-american-revolution-anniversary",
+   "year": "2024", "matches_existing": null}
+ ],
+ "redesigned": [
+  {"name_in_game": "Virginia Commonwealth - Ram", "source_img": "https://news.vcu.edu/image/60669de9-83d3-444c-87ed-baac757bd12c",
+   "note": "VCU released a newly designed plate in June 2024. I have not confirmed whether it replaced the Ram design or the Seal design."},
+  {"name_in_game": "Virginia For The Arts", "source_img": null,
+   "note": "The Virginia Commission for the Arts launched a 'colorful new' Virginians for the Arts plate in Feb 2024. The game's name dates from 2023, so this is probably a redesign. No plate image was found."}
+ ],
+ "retired": [
+  {"name_in_game": "Robert E. Lee", "source": "https://www.ffxnow.com/2026/04/10/fairfax-delegates-bill-ending-use-of-confederate-license-plates-signed-into-law/"},
+  {"name_in_game": "Sons of Confederate Veterans", "source": "https://www.ffxnow.com/2026/04/10/fairfax-delegates-bill-ending-use-of-confederate-license-plates-signed-into-law/"}
+ ],
+ "notes": "HB 1344 (2026) ends the Lee and SCV plates from July 1, 2026. Existing plates stay valid until they expire but cannot be renewed, so they will still be on the road for a while. 'Emory & Henry College' is now listed by DMV as 'Emory & Henry University' (2024 rename; the game name could be updated). Diversity Richmond's 'Celebrate Diversity' plate was still collecting its 450 prepaid applications in Oct 2024, and I did not confirm that it was issued. The DMV search lists 342-343 entries, but WebFetch ignored most page= values, so the full list was not diffed. The shared web-search budget ran out partway through Virginia, so plates authorized in the 2025 and 2026 sessions may be missing. Richmond Planet (Aug 2023) is already in the game."
+}

@@ -2,9 +2,9 @@
  "code": "IN",
  "name": "Indiana",
  "rated": false,
- "checked": false,
+ "checked": true,
  "updated": "2026-10-25",
- "about": "Indiana special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "about": "Indiana special-design plates. Not rated yet: every plate is worth the same. Checked for plates added since 2023 on 2026-10-26.",
  "sources": [
   {
    "title": "Jon Keegan, us-license-plates (2023)",
@@ -821,6 +821,63 @@
    "name": "WFYI Public Media",
    "cat": "other",
    "img": "wfyi-public-media.webp"
+  },
+  {
+   "id": "blackout",
+   "name": "Blackout",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://secure.in.gov/bmv/files/pr-blackout-plate.pdf",
+   "img_url": "https://www.in.gov/dA/505565ea9b/blackout-plate-newpl8.png?language_id=1",
+   "year": "2025"
+  },
+  {
+   "id": "alzheimer-s-association-greater-indiana-",
+   "name": "Alzheimer's Association Greater Indiana Chapter (END ALZ)",
+   "cat": "charity",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://indianacapitalchronicle.com/2025/09/08/indiana-license-plate-sales-lift-charitable-efforts-new-requirements-may-limit-who-can-take-part/",
+   "img_url": "https://www.alz.org/getmedia/b4560458-290d-4a2e-b180-9a3a4c8563fa/license-plate.png",
+   "year": "2025"
+  },
+  {
+   "id": "indiana-fever-fund-of-the-pacers-foundat",
+   "name": "Indiana Fever Fund of the Pacers Foundation",
+   "cat": "sports",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://secure.in.gov/bmv/files/pr-new-sgrs-2026.pdf",
+   "year": "2026"
+  },
+  {
+   "id": "indiana-state-teachers-association-ista-",
+   "name": "Indiana State Teachers Association (ISTA) Foundation",
+   "cat": "charity",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://secure.in.gov/bmv/files/pr-new-sgrs-2026.pdf",
+   "year": "2026"
+  },
+  {
+   "id": "pollinator-partnership",
+   "name": "Pollinator Partnership",
+   "cat": "nature",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://secure.in.gov/bmv/files/pr-new-sgrs-2026.pdf",
+   "year": "2026"
+  },
+  {
+   "id": "purdue-university-northwest",
+   "name": "Purdue University Northwest",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://secure.in.gov/bmv/files/pr-new-sgrs-2026.pdf",
+   "year": "2026"
   }
- ]
+ ],
+ "checked_on": "2026-10-26"
 }

@@ -1,0 +1,56 @@
+{
+ "state": "FL",
+ "checked": [
+  "https://www.flhsmv.gov/motor-vehicles-tags-titles/motor-vehicle-bulletins/2023-2/",
+  "https://www.flhsmv.gov/motor-vehicles-tags-titles/motor-vehicle-bulletins/2024-2/",
+  "https://www.flhsmv.gov/motor-vehicles-tags-titles/motor-vehicle-bulletins/2025-2/",
+  "https://www.flhsmv.gov/pdf/bulletins/2024/info24-024.pdf",
+  "https://www.flhsmv.gov/pdf/bulletins/2024/rstl24-021.pdf",
+  "https://www.flhsmv.gov/pdf/bulletins/2024/rstl24-023.pdf",
+  "https://www.flhsmv.gov/pdf/bulletins/2024/rstl24-024.pdf",
+  "https://www.flhsmv.gov/2022/06/02/flhsmv-announces-12-new-florida-specialty-license-plates/",
+  "https://clickorlando.com/news/florida/2024/10/18/florida-drivers-can-now-preorder-these-new-specialty-plates-heres-how",
+  "https://business.seminolebusiness.org/news/details/universal-orlando-resort-launches-first-ever-specialty-license-plate-proceeds-benefitting-give-kids-the-world-12-10-2024"
+ ],
+ "robot_url": null,
+ "new": [
+  {"title": "Bonefish & Tarpon Trust", "cat": "nature", "source_img": null, "source": "https://www.flhsmv.gov/motor-vehicles-tags-titles/motor-vehicle-bulletins/2023-2/", "year": "2023", "matches_existing": null},
+  {"title": "Support Scenic Walton (30A)", "cat": "nature", "source_img": null, "source": "https://www.flhsmv.gov/pdf/bulletins/2023/rstl23-027.pdf", "year": "2023", "matches_existing": null},
+  {"title": "Auburn University", "cat": "colleges", "source_img": null, "source": "https://www.flhsmv.gov/motor-vehicles-tags-titles/motor-vehicle-bulletins/2023-2/", "year": "2023", "matches_existing": null},
+  {"title": "Florida Bay Forever", "cat": "nature", "source_img": null, "source": "https://www.flhsmv.gov/pdf/bulletins/2024/rstl24-007.pdf", "year": "2024", "matches_existing": null},
+  {"title": "University of Alabama", "cat": "colleges", "source_img": null, "source": "https://www.flhsmv.gov/motor-vehicles-tags-titles/motor-vehicle-bulletins/2024-2/", "year": "2024", "matches_existing": null},
+  {"title": "Swim For Life", "cat": "charity", "source_img": null, "source": "https://www.flhsmv.gov/pdf/bulletins/2024/rstl24-024.pdf", "year": "2025", "matches_existing": null},
+  {"title": "K9s United", "cat": "firstresponder", "source_img": null, "source": "https://www.flhsmv.gov/motor-vehicles-tags-titles/motor-vehicle-bulletins/2025-2/", "year": "2025", "matches_existing": null},
+  {"title": "Florida Stands With Israel", "cat": "other", "source_img": null, "source": "https://www.flhsmv.gov/motor-vehicles-tags-titles/motor-vehicle-bulletins/2025-2/", "year": "2025", "matches_existing": null},
+  {"title": "Protect the Gopher Tortoise", "cat": "nature", "source_img": null, "source": "https://www.flhsmv.gov/motor-vehicles-tags-titles/motor-vehicle-bulletins/2025-2/", "year": "2025", "matches_existing": null},
+  {"title": "Protect Biscayne Bay", "cat": "nature", "source_img": null, "source": "https://www.flhsmv.gov/pdf/bulletins/2025/rstl25-019.pdf", "year": "2025", "matches_existing": null},
+  {"title": "Margaritaville", "cat": "other", "source_img": null, "source": "https://www.flhsmv.gov/pdf/bulletins/2025/rstl25-013.pdf", "year": "2025", "matches_existing": null},
+  {"title": "Inter Miami CF", "cat": "sports", "source_img": null, "source": "https://www.flhsmv.gov/pdf/bulletins/2025/rstl25-016.pdf", "year": "2025", "matches_existing": null},
+  {"title": "New College of Florida", "cat": "colleges", "source_img": null, "source": "https://www.flhsmv.gov/pdf/bulletins/2024/info24-024.pdf", "year": "2025", "matches_existing": null},
+  {"title": "Florida State Beekeepers Association", "cat": "nature", "source_img": null, "source": "https://www.flhsmv.gov/pdf/bulletins/2025/rstl25-017.pdf", "year": "2025", "matches_existing": null}
+ ],
+ "redesigned": [
+  {"name_in_game": "Walt Disney World", "source_img": null, "note": "redesigned plate shipped Sep 2023"},
+  {"name_in_game": "Family Values", "source_img": null, "note": "redesigned plate shipped Oct 2023"},
+  {"name_in_game": "Miami Heat (NBA", "source_img": null, "note": "redesigned plate shipped Oct 2023"},
+  {"name_in_game": "Protect the Panther", "source_img": null, "note": "redesigned plate shipped Nov 2023"},
+  {"name_in_game": "Support Homeownership For All", "source_img": null, "note": "redesigned plate shipped Mar 2024"},
+  {"name_in_game": "Tampa Bay Buccaneers (NFL", "source_img": null, "note": "redesign announced Aug 2023 and Sep 2024; redesigned plate shipped Jun 2025"},
+  {"name_in_game": "Florida Atlantic University", "source_img": null, "note": "redesigned plate shipped Feb 2025"},
+  {"name_in_game": "Florida International University", "source_img": null, "note": "redesigned plate shipped Feb 2025"},
+  {"name_in_game": "Florida A&M University", "source_img": null, "note": "redesigned plate shipped Jul 2025"},
+  {"name_in_game": "University of North Florida", "source_img": null, "note": "deauthorized Jan 2024, reinstated by HB 403 (2024); redesigned plate shipped Jul 2025"},
+  {"name_in_game": "Orlando Magic (NBA", "source_img": null, "note": "redesigned plate shipped Aug 2025"},
+  {"name_in_game": "Fraternal Order of Police", "source_img": null, "note": "redesign announced Jul 2025"},
+  {"name_in_game": "Trees are Cool", "source_img": null, "note": "redesign announced May 2025; shipped early 2026 (RSTL 26-001)"}
+ ],
+ "retired": [
+  {"name_in_game": "Hodges University", "source": "https://www.flhsmv.gov/motor-vehicles-tags-titles/motor-vehicle-bulletins/2024-2/"},
+  {"name_in_game": "A State of Vision", "source": "https://www.flhsmv.gov/pdf/bulletins/2024/rstl24-023.pdf"},
+  {"name_in_game": "Florida Sherifs Youth Ranches", "source": "https://www.flhsmv.gov/pdf/bulletins/2024/rstl24-023.pdf"},
+  {"name_in_game": "Keep Kids Drug Free", "source": "https://www.flhsmv.gov/pdf/bulletins/2024/rstl24-023.pdf"},
+  {"name_in_game": "Scouting Teaches Values (Boy Scouts of America", "source": "https://www.flhsmv.gov/pdf/bulletins/2024/rstl24-023.pdf"},
+  {"name_in_game": "Support Florida Special Olympics", "source": "https://www.flhsmv.gov/pdf/bulletins/2024/rstl24-023.pdf"}
+ ],
+ "notes": "Dates come from FLHSMV bulletin titles (shipping or voucher-met); Beekeepers met its voucher threshold Jun 2025 but I could not open the shipping notice. Best Buddies was issued Jul 2023 and deauthorized Feb 2025, so it is left out. The other HB 403 (2024) pre-sale plates (Universal Orlando Resort, Clearwater Marine Aquarium, General Aviation, The Villages, Cure Diabetes, Recycle Florida, Boating Capital of the World, Project Addiction, USO) had no confirmed issue as of this check. No images: services.flhsmv.gov/specialtyplates now holds only reports, and the flhsmv.gov plate list page could not be fetched (only URLs from search results are allowed), so robot_url is null."
+}

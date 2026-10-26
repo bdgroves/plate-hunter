@@ -1,0 +1,39 @@
+{
+ "state": "VT",
+ "checked": [
+  "https://dmv.vermont.gov/node/212",
+  "https://dmv.vermont.gov/node/215",
+  "https://dmv.vermont.gov/bulletin/law-enforcement-bulletin-24-4-bronze-star-with-valor-license-plate",
+  "https://dmv.vermont.gov/vermontstrong23",
+  "https://vtdigger.org/2023/08/01/phil-scott-unveils-new-we-are-vermont-strong-license-plate-designs/",
+  "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf",
+  "https://governor.vermont.gov/press-release/governor-phil-scott-announces-new-vermont-license-plates-now-available-decorated",
+  "https://www.wcax.com/2026/07/31/vermont-rolls-out-special-ev-plates-help-first-responders/",
+  "https://legislature.vermont.gov/Documents/2026/Workgroups/Senate%20Transportation/Department%20of%20Motor%20Vehicles/W~Andrew%20Collier~Electric%20Vehicle%20License%20Plate%20Memo~3-17-2025.pdf",
+  "https://www.wcax.com/2026/02/05/lawmakers-introduce-specialty-license-plate-honoring-vermont-green-fc/"
+ ],
+ "robot_url": "https://dmv.vermont.gov/node/212",
+ "new": [
+  {"title": "Bronze Star with Valor", "cat": "military",
+   "source_img": "https://dmv.vermont.gov/sites/dmv/files/styles/large/public/field/image/Picture1.png?itok=Pu5CTtYr",
+   "source": "https://dmv.vermont.gov/bulletin/law-enforcement-bulletin-24-4-bronze-star-with-valor-license-plate", "year": "2024", "matches_existing": null},
+  {"title": "We Are Vermont Strong", "cat": "charity",
+   "source_img": "https://dmv.vermont.gov/sites/dmv/files/inline-images/Vermont%20Strong%201.png",
+   "source": "https://dmv.vermont.gov/vermontstrong23", "year": "2023", "matches_existing": null},
+  {"title": "We Are Vermont Strong - Tough Too!", "cat": "charity",
+   "source_img": "https://dmv.vermont.gov/sites/dmv/files/inline-images/Vermont%20Strong%202_0.png",
+   "source": "https://dmv.vermont.gov/vermontstrong23", "year": "2023", "matches_existing": null},
+  {"title": "Electric Vehicle", "cat": "vehicle",
+   "source_img": null,
+   "source": "https://www.wcax.com/2026/07/31/vermont-rolls-out-special-ev-plates-help-first-responders/", "year": "2026", "matches_existing": null},
+  {"title": "Air Medal", "cat": "military",
+   "source_img": "https://dmv.vermont.gov/sites/dmv/files/inline-images/Air%20Medal%20Truck.jpeg",
+   "source": "https://dmv.vermont.gov/node/212", "year": "2022", "matches_existing": null},
+  {"title": "Bronze Star", "cat": "military",
+   "source_img": "https://dmv.vermont.gov/sites/dmv/files/inline-images/Bronze%20Star%203.jpeg",
+   "source": "https://dmv.vermont.gov/node/212", "year": "2022", "matches_existing": null}
+ ],
+ "redesigned": [],
+ "retired": [],
+ "notes": "Vermont Strong '23 plates ($5, flood relief) are front-of-vehicle commemorative plates, not registration plates. The EV plate is required for new EV registrations from July 1, 2026 (all EVs by 2028) but no DMV image yet. Air Medal and Bronze Star date from July 2022, before the snapshot, but are missing from the game; Vermont Green FC plate was only proposed (Feb 2026). node/215 is the civilian specialty-plate gallery (14 images) if a second robot page is wanted."
+}

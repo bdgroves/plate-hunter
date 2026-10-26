@@ -2,9 +2,9 @@
  "code": "MI",
  "name": "Michigan",
  "rated": false,
- "checked": false,
+ "checked": true,
  "updated": "2026-10-25",
- "about": "Michigan special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "about": "Michigan special-design plates. Not rated yet: every plate is worth the same. Checked for plates added since 2023 on 2026-10-26.",
  "sources": [
   {
    "title": "Jon Keegan, us-license-plates (2023)",
@@ -443,6 +443,135 @@
    "name": "World War II veteran",
    "cat": "veterans",
    "img": "world-war-ii-veteran.webp"
+  },
+  {
+   "id": "michigan-4-h",
+   "name": "Michigan 4-H",
+   "cat": "charity",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.michigan.gov/sos/vehicle/license-plates/special-cause-fundraising-options",
+   "img_url": "https://www.michigan.gov/sos/-/media/Project/Websites/sos/Vehicle/License-plate-images/Special-cause/SpecialCause_4H.jpg?rev=bcfb5369890f4f8a8a35153aebdc3840&hash=CA12A3F52BFB9E3535B9B586DD6810EC&mw=1024",
+   "year": "2025"
+  },
+  {
+   "id": "sickle-cell-awareness",
+   "name": "Sickle Cell Awareness",
+   "cat": "charity",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.michigan.gov/sos/vehicle/license-plates/special-cause-fundraising-options",
+   "img_url": "https://www.michigan.gov/sos/-/media/Project/Websites/sos/Vehicle/License-plate-images/Special-cause/SpecialCause_SickleCell.png?rev=2755c0107238498389707a65fc5ac2d0&hash=A99EC85CEE670D39AABC166B72A551DE&mw=1024"
+  },
+  {
+   "id": "woman-veteran",
+   "name": "Woman veteran",
+   "cat": "veterans",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.michigan.gov/sos/resources/news/2025/11/14/new-license-plate-honoring-michigans-women-veterans-now-available",
+   "img_url": "https://www.michigan.gov/sos/-/media/Project/Websites/sos/Vehicle/License-plate-images/Military-and-veteran/MilitaryVeterans_WomanVeteran.jpg?rev=af4ca7d158174f6a91b5766a71231fb3&hash=547DE4F032A4CB5FFFF8A1F5B31E10FE&mw=1024",
+   "year": "2025"
+  },
+  {
+   "id": "merchant-marine-member",
+   "name": "Merchant Marine member",
+   "cat": "veterans",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.michigan.gov/sos/vehicle/license-plates/military-and-veteran-plate-options",
+   "img_url": "https://www.michigan.gov/sos/-/media/Project/Websites/sos/Vehicle/License-plate-images/Military-and-veteran/MilitaryVeterans_MerchantMarine.jpg?rev=54bf0399b67e46d6a4a0f8b184a23adb&hash=42A594A42B43C07202A01848746166FC&mw=1024",
+   "year": "2024"
+  },
+  {
+   "id": "water-wonderland",
+   "name": "Water Wonderland",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.michigan.gov/sos/resources/news/2025/12/22/whats-on-your-plate",
+   "year": "2024"
+  },
+  {
+   "id": "great-lakes-blue-legacy-plate",
+   "name": "Great Lakes (blue legacy plate)",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.michigan.gov/sos/resources/news/2025/01/31/secretary-benson-welcomes-back-two-license-plates-from-michigans-past",
+   "img_url": "https://www.michigan.gov/sos/-/media/Project/Websites/sos/Press-releases/2025/images/Legacy_GreatLakes_SAMPLE.png?rev=0813e01861824f008476eebc0429be05&hash=3DF98F5D59B82B68ACC8382C52DB74E6",
+   "year": "2025"
+  },
+  {
+   "id": "great-lake-state-black-legacy-plate",
+   "name": "Great Lake State (black legacy plate)",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.michigan.gov/sos/resources/news/2025/01/31/secretary-benson-welcomes-back-two-license-plates-from-michigans-past",
+   "img_url": "https://www.michigan.gov/sos/-/media/Project/Websites/sos/Press-releases/2025/images/Legacy_GreatLakeState_SAMPLE.png?rev=ed945ef682d14248829a0c9c7afa15e1&hash=DB8DDB7BADB230E056F31B854ED2246F",
+   "year": "2025"
+  },
+  {
+   "id": "semiquincentennial-legacy-plate-red-whit",
+   "name": "Semiquincentennial legacy plate (red, white and blue)",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://michigan.gov/sos/resources/news/2025/12/11/secretary-benson-announces-revival-of-iconic-red-white-and-blue-license-plate",
+   "img_url": "https://www.michigan.gov/sos/-/media/Project/Websites/sos/Vehicle/License-plate-images/Legacy/Legacy_Semiquincentennial.jpg?rev=068f3048564e4b3db1018406ac50567d&hash=49DE6CFF5A9C86E1548AF0DE88D65DF5&mw=1024",
+   "year": "2026"
+  },
+  {
+   "id": "alpha-phi-alpha-fraternity-inc",
+   "name": "Alpha Phi Alpha Fraternity, Inc.",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.michigan.gov/sos/resources/news/2026/06/18/michigan-introduces-new-license-plates-honoring-five-historically-black-sororities-and-fraternities",
+   "img_url": "https://www.michigan.gov/sos/-/media/Project/Websites/sos/Vehicle/License-plate-images/Special-org/SpecialOrg_AlphaPhiAlpha.jpg?rev=ef4e799c4d2f4a418d1b9edd86a8a256&hash=B22A85542914D84B9DEE2F2A634EC8AC&mw=1024",
+   "year": "2026"
+  },
+  {
+   "id": "kappa-alpha-psi-fraternity-inc",
+   "name": "Kappa Alpha Psi Fraternity, Inc.",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.michigan.gov/sos/resources/news/2026/06/18/michigan-introduces-new-license-plates-honoring-five-historically-black-sororities-and-fraternities",
+   "img_url": "https://www.michigan.gov/sos/-/media/Project/Websites/sos/Vehicle/License-plate-images/Special-org/SpecialOrg_KappaAlphaPsi.jpg?rev=160aa89823be4bcda4f84cfe75c7fd70&hash=1C348A789EEBA5585120BEB075F5FEAA&mw=1024",
+   "year": "2026"
+  },
+  {
+   "id": "delta-sigma-theta-sorority-inc",
+   "name": "Delta Sigma Theta Sorority, Inc.",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.michigan.gov/sos/resources/news/2026/06/18/michigan-introduces-new-license-plates-honoring-five-historically-black-sororities-and-fraternities",
+   "img_url": "https://www.michigan.gov/sos/-/media/Project/Websites/sos/Vehicle/License-plate-images/Special-org/SpecialOrg_DeltaSigmaTheta.jpg?rev=1cf4a349696b4e1eb3b7c577f3973d94&hash=2E30ED53818851DF761B6B74EDB5D37A&mw=1024",
+   "year": "2026"
+  },
+  {
+   "id": "phi-beta-sigma-fraternity-inc",
+   "name": "Phi Beta Sigma Fraternity, Inc.",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.michigan.gov/sos/resources/news/2026/06/18/michigan-introduces-new-license-plates-honoring-five-historically-black-sororities-and-fraternities",
+   "img_url": "https://www.michigan.gov/sos/-/media/Project/Websites/sos/Vehicle/License-plate-images/Special-org/SpecialOrg_PhiBetaSigma.jpg?rev=86efb0c0bcfd4d9b96cf558902616500&hash=320BBC8899A813C21AB73265D7F0F953&mw=1024",
+   "year": "2026"
+  },
+  {
+   "id": "zeta-phi-beta-sorority-inc",
+   "name": "Zeta Phi Beta Sorority, Inc.",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.michigan.gov/sos/resources/news/2026/06/18/michigan-introduces-new-license-plates-honoring-five-historically-black-sororities-and-fraternities",
+   "img_url": "https://www.michigan.gov/sos/-/media/Project/Websites/sos/Vehicle/License-plate-images/Special-org/SpecialOrg_ZetaPhiBeta.jpg?rev=4ca97b8ae29c4cbfa69fdf8a68447ce5&hash=D4490430A918ADA9B748EFA401707025&mw=1024",
+   "year": "2026"
   }
- ]
+ ],
+ "checked_on": "2026-10-26"
 }

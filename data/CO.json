@@ -2,9 +2,9 @@
  "code": "CO",
  "name": "Colorado",
  "rated": false,
- "checked": false,
+ "checked": true,
  "updated": "2026-10-25",
- "about": "Colorado special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "about": "Colorado special-design plates. Not rated yet: every plate is worth the same. Checked for plates added since 2023 on 2026-10-26.",
  "sources": [
   {
    "title": "Jon Keegan, us-license-plates (2023)",
@@ -737,6 +737,67 @@
    "name": "Wildlife Sporting",
    "cat": "nature",
    "img": "wildlife-sporting.webp"
+  },
+  {
+   "id": "born-to-be-wild",
+   "name": "Born To Be Wild",
+   "cat": "nature",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://dmv.colorado.gov/group-special-license-plates-new",
+   "img_url": "https://dmv.colorado.gov/sites/default/files/styles/large/public/born_to_be_wild_license_plate_0.jpg.avif?itok=N8ceDyTd",
+   "year": "2024"
+  },
+  {
+   "id": "in-god-we-trust",
+   "name": "In God We Trust",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://dmv.colorado.gov/group-special-license-plates-new",
+   "img_url": "https://dmv.colorado.gov/sites/default/files/styles/large/public/In_God_We_Trust_2024.png.avif?itok=AZ7SQJFP",
+   "year": "2024"
+  },
+  {
+   "id": "stegosaurus",
+   "name": "Stegosaurus",
+   "cat": "nature",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://dmv.colorado.gov/group-special-license-plates-new",
+   "img_url": "https://dmv.colorado.gov/sites/default/files/styles/large/public/Stegosaurus_2024.png.avif?itok=7vgFFC2l",
+   "year": "2024"
+  },
+  {
+   "id": "u-s-navy-seabees",
+   "name": "U.S. Navy Seabees",
+   "cat": "military",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://dmv.colorado.gov/license-plates-military",
+   "img_url": "https://dmv.colorado.gov/sites/default/files/styles/large/public/screenshot_2024-01-03_111253_0.png.avif?itok=wf5Bv6sS",
+   "year": "2024"
+  },
+  {
+   "id": "chicana-o-pride",
+   "name": "Chicana/o Pride",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://dmv.colorado.gov/group-special-license-plates-new",
+   "img_url": "https://dmv.colorado.gov/sites/default/files/styles/large/public/chicano_lic_plate_2025_0.png.avif?itok=EMdbBr-q",
+   "year": "2025"
+  },
+  {
+   "id": "agriculture",
+   "name": "Agriculture",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://dmv.colorado.gov/group-special-license-plates-new",
+   "img_url": "https://dmv.colorado.gov/sites/default/files/styles/large/public/agriculture_lic_plate_2025_0.png.avif?itok=D9DLWOWh",
+   "year": "2025"
   }
- ]
+ ],
+ "checked_on": "2026-10-26"
 }

@@ -1,0 +1,25 @@
+{
+ "state": "OK",
+ "checked": [
+  "https://aem-prod.oklahoma.gov/service/all-services/auto-vehicle/specialty-plates.html",
+  "https://aem-prod.oklahoma.gov/content/dam/service-oklahoma/Documents/mv-forms/SpecialtyPlatesCatalog.pdf",
+  "https://oklahomaroute66.com/news/oklahoma-route-66-centennial-plate",
+  "https://www.okhouse.gov/posts/news-20260429_2",
+  "https://freepressokc.com/press-release-elephant-design-selected-for-new-okc-zoo-specialty-license-plate/",
+  "https://cpo.soar.com/articles/2269273/Oklahoma/Oklahoma-Senate-proposes-new-support-license-plates-for-mental-health-and-education"
+ ],
+ "robot_url": null,
+ "new": [
+  {"title": "Route 66 Centennial", "cat": "other", "source_img": "https://images.squarespace-cdn.com/content/v1/6073a5302519e02f9450fc89/f8e3f09f-620c-4fcc-a77b-f27e113a675f/Route+66+Centennial+Plate+Image.png", "source": "https://aem-prod.oklahoma.gov/content/dam/service-oklahoma/Documents/mv-forms/SpecialtyPlatesCatalog.pdf", "year": "2026", "matches_existing": null},
+  {"title": "Oklahoma City Zoo", "cat": "nature", "source_img": null, "source": "https://aem-prod.oklahoma.gov/content/dam/service-oklahoma/Documents/mv-forms/SpecialtyPlatesCatalog.pdf", "year": "2026", "matches_existing": null},
+  {"title": "Alliance of Mental Health", "cat": "charity", "source_img": null, "source": "https://aem-prod.oklahoma.gov/content/dam/service-oklahoma/Documents/mv-forms/SpecialtyPlatesCatalog.pdf", "year": null, "matches_existing": null},
+  {"title": "Hallett Motor Racing Circuit", "cat": "hobby", "source_img": null, "source": "https://aem-prod.oklahoma.gov/content/dam/service-oklahoma/Documents/mv-forms/SpecialtyPlatesCatalog.pdf", "year": null, "matches_existing": null},
+  {"title": "Broken Arrow Public Schools", "cat": "other", "source_img": null, "source": "https://aem-prod.oklahoma.gov/content/dam/service-oklahoma/Documents/mv-forms/SpecialtyPlatesCatalog.pdf", "year": null, "matches_existing": null},
+  {"title": "Kansas University", "cat": "colleges", "source_img": null, "source": "https://aem-prod.oklahoma.gov/content/dam/service-oklahoma/Documents/mv-forms/SpecialtyPlatesCatalog.pdf", "year": null, "matches_existing": null},
+  {"title": "45th Infantry Brigade Combat Team", "cat": "military", "source_img": null, "source": "https://aem-prod.oklahoma.gov/content/dam/service-oklahoma/Documents/mv-forms/SpecialtyPlatesCatalog.pdf", "year": null, "matches_existing": null},
+  {"title": "Meritorious Service Medal", "cat": "military", "source_img": null, "source": "https://aem-prod.oklahoma.gov/content/dam/service-oklahoma/Documents/mv-forms/SpecialtyPlatesCatalog.pdf", "year": null, "matches_existing": null}
+ ],
+ "redesigned": [],
+ "retired": [],
+ "notes": "Based on Service Oklahoma's plate catalog PDF (updated 10-08-26) compared with the game: these 8 are listed now but not in the game, though I couldn't confirm first-issue years for 6 of them because the search budget ran out and oklegislature.gov blocks robots. Route 66 Centennial (HB 3147, 2026) and the OKC Zoo plate (pre-orders from Feb 2026) both needed 100 prepaid orders. The catalog merges per-branch Korean War, WWII and Distinguished Service Medal plates into single entries, so I didn't treat any game entries as retired. Plate pictures are only in the catalog PDF, not as <img> on a page."
+}

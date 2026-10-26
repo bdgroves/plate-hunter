@@ -2,9 +2,9 @@
  "code": "IA",
  "name": "Iowa",
  "rated": false,
- "checked": false,
+ "checked": true,
  "updated": "2026-10-25",
- "about": "Iowa special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "about": "Iowa special-design plates. Not rated yet: every plate is worth the same. Checked for plates added since 2023 on 2026-10-26.",
  "sources": [
   {
    "title": "Jon Keegan, us-license-plates (2023)",
@@ -485,6 +485,39 @@
    "name": "William Penn",
    "cat": "other",
    "img": "william-penn.webp"
+  },
+  {
+   "id": "dnr-pollinator",
+   "name": "DNR - Pollinator",
+   "cat": "nature",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://ia.iowadot.gov/mvd/personalizedplates/step2.aspx"
+  },
+  {
+   "id": "dnr-recreation",
+   "name": "DNR - Recreation",
+   "cat": "nature",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://ia.iowadot.gov/mvd/personalizedplates/step2.aspx"
+  },
+  {
+   "id": "emmaus-bible-college",
+   "name": "Emmaus Bible College",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://ia.iowadot.gov/mvd/personalizedplates/step2.aspx"
+  },
+  {
+   "id": "mercy-college-of-health-sciences",
+   "name": "Mercy College of Health Sciences",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://iowadot.gov/mvd/vehicleregistration/vehicleregistration/plates/Mercy"
   }
- ]
+ ],
+ "checked_on": "2026-10-26"
 }

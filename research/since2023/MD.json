@@ -1,0 +1,36 @@
+{
+ "state": "MD",
+ "checked": [
+  "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+  "https://mva.maryland.gov/media/524",
+  "https://mva.maryland.gov/title-registration/license-plates",
+  "https://mva.maryland.gov/title-registration/license-plates/specialty-personalized-license-plates",
+  "https://mva.maryland.gov/your-mva-guide/military-service-members/license-plates",
+  "https://mva.maryland.gov/your-mva-guide/businesses/bulletins-businesses/legislative-changes-plates-disabled-veterans-and-gold-star-families",
+  "https://mva.maryland.gov/news/updated-bays-license-plate-maryland-drivers",
+  "https://ricksplates.com/maryland/mdcurr-org.htm",
+  "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Maryland"
+ ],
+ "robot_url": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+ "new": [
+  {"title": "Gold Star Lapel Button", "cat": "military",
+   "source_img": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/medium/public/2026-01/Gold-Star-Plates.png.webp",
+   "source": "https://mva.maryland.gov/your-mva-guide/businesses/bulletins-businesses/legislative-changes-plates-disabled-veterans-and-gold-star-families",
+   "year": "2024", "matches_existing": null},
+  {"title": "Gold Star Next of Kin", "cat": "military",
+   "source_img": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/medium/public/2026-01/Gold-Star-Plates.png.webp",
+   "source": "https://mva.maryland.gov/your-mva-guide/businesses/bulletins-businesses/legislative-changes-plates-disabled-veterans-and-gold-star-families",
+   "year": "2024", "matches_existing": null},
+  {"title": "Disabled Veteran (50-99% rating)", "cat": "veterans",
+   "source_img": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/medium/public/2026-02/Disabled-Veteran-Tag.png.webp",
+   "source": "https://mva.maryland.gov/your-mva-guide/military-service-members/license-plates",
+   "year": "2024", "matches_existing": null},
+  {"title": "Protect the Chesapeake and Coastal Bays", "cat": "nature",
+   "source_img": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/small/public/2026-01/Chesapeake-Bay-Plate.png.webp",
+   "source": "https://mva.maryland.gov/news/updated-bays-license-plate-maryland-drivers",
+   "year": "2024", "matches_existing": null}
+ ],
+ "redesigned": [],
+ "retired": [],
+ "notes": "Confirmed additions are the Oct 2024 Gold Star (one image shows both versions) and 50-99% Disabled Veteran plates, plus the July 2024 'Protect the Chesapeake and Coastal Bays' revision of the Bay plate. The game has no Bay, Agricultural ('Our Farms, Our Future') or 1910 Vintage plate at all, so the Bay plate is listed as new instead of redesigned. The MVA's organizational list (777 entries, page updated June 2026) could not be read in full: WebFetch returned arbitrary 18-entry pages whatever page= value was sent. So I could not date any org plate added since mid-2023. The MVA code-list PDF (media/524, undated) has these orgs the game lacks that look recent: MAGFest Inc., Bigfoot Endurance, Annapolis Dragon Boat Club, Warrior Canine Connection, Velo City Riders Cycling Club, Taipei Economic and Cultural Representative Office, WWW.WEFISHSALT.COM, Charles County IAFF L4658, Charles County Dive Rescue and Harford County Deputy Sheriffs Union. None of them has a confirmed date, and the game also misses some old orgs whose plates show only a 'Tag Coming Soon' placeholder (e.g. Steelworkers 2609/9116). MD image URLs are cdn.maryland.gov paths with their expiring signed query strings removed; the unsigned paths may not load, and I could not test them. Bay image may show the 2018 wording rather than the 2024 Coastal Bays version."
+}

@@ -4,7 +4,7 @@
  "rated": false,
  "checked": false,
  "updated": "2026-10-25",
- "about": "Georgia special-design plates. Not rated yet: every plate is worth the same. From the 2023 snapshot, not yet checked against the state's current list.",
+ "about": "Georgia special-design plates. Not rated yet: every plate is worth the same. Partly checked for plates added since 2023.",
  "sources": [
   {
    "title": "Jon Keegan, us-license-plates (2023)",
@@ -1739,6 +1739,45 @@
    "name": "ZOO Atlanta",
    "cat": "nature",
    "img": "zoo-atlanta.webp"
+  },
+  {
+   "id": "america-first",
+   "name": "America First",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.wctv.tv/2025/12/30/america-first-license-plate-available-january/",
+   "year": "2026"
+  },
+  {
+   "id": "selfless-service-georgia-veterans-servic",
+   "name": "Selfless Service (Georgia Veterans Service Foundation)",
+   "cat": "veterans",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.atlantanewsfirst.com/2026/01/02/georgia-releases-new-specialty-license-plates-2026/",
+   "year": "2026"
+  },
+  {
+   "id": "georgia-state-parks",
+   "name": "Georgia State Parks",
+   "cat": "nature",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://gastateparks.org/press-release-parks/Show-Your-State-Park-Pride%21-New-Specialty-License-Plate-Available",
+   "img_url": "https://gadnr.org/sites/default/files/inline-images/DNR-State-Parks-License-Plate-GO-CAMP.png",
+   "year": "2026"
+  },
+  {
+   "id": "black-bass-conservation",
+   "name": "Black Bass Conservation",
+   "cat": "nature",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://gadnr.org/new-bass-conservation-license-plate-now-available",
+   "img_url": "https://gadnr.org/sites/default/files/inline-images/GoFish_Graphic2_Bass%20License%20Plate.png",
+   "year": "2026"
   }
- ]
+ ],
+ "checked_on": "2026-10-26"
 }
