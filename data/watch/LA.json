@@ -6,7 +6,7 @@
   "/SpecialPlatesPublic/loadPlateImageAdmin.ashx": {
    "src": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/loadPlateImageAdmin.ashx?id=71",
    "alt": "Plate image",
-   "verdict": "pending:LA-phi-beta-sigma-zeta-phi-beta"
+   "verdict": "plate:beta-sigma-phi"
   },
   "/images/dept_title.jpg": {
    "src": "https://expresslane.dps.louisiana.gov/images/dept_title.jpg",
@@ -41,7 +41,7 @@
   "/images/omv_title.jpg": {
    "src": "https://expresslane.dps.louisiana.gov/images/omv_title.jpg",
    "alt": "",
-   "verdict": "pending:LA-home"
+   "verdict": "rejected"
   },
   "/images/search.gif": {
    "src": "https://expresslane.dps.louisiana.gov/images/search.gif",

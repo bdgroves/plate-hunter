@@ -1394,6 +1394,15 @@
    "added": "2026-10-26",
    "auto": true,
    "source": "https://www.scdmvonline.com/Vehicle-Owners/Registration/Plate-Gallery"
+  },
+  {
+   "id": "navy-and-marine-corps-medal",
+   "name": "Navy and Marine Corps Medal",
+   "cat": "veterans",
+   "img": "navy-and-marine-corps-medal.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.scdmvonline.com/Vehicle-Owners/Registration/Plate-Gallery"
   }
  ]
 }
