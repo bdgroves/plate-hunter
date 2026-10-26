@@ -1,0 +1,13 @@
+{
+ "code": "NL",
+ "url": "https://www.gov.nl.ca/motorregistration/vehicle-ownership/plates/",
+ "complete": true,
+ "pictures": {
+  "/wp-content/uploads/Lloyd-Parrott-02-2C9A9450.jpg": {
+   "src": "https://www.gov.nl.ca/wp-content/uploads/Lloyd-Parrott-02-2C9A9450.jpg",
+   "alt": "Honourable Lloyd Parrott",
+   "verdict": "not-a-plate"
+  }
+ },
+ "checked": "2026-10-26"
+}

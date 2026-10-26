@@ -1,0 +1,208 @@
+{
+ "code": "WV",
+ "url": "https://dmv.wv.gov/node/155",
+ "complete": true,
+ "pictures": {
+  "/sites/default/files/2026-03/82nd-Airborne-Div-Association%20%281%29.jpg": {
+   "src": "https://dmv.wv.gov/sites/default/files/2026-03/82nd-Airborne-Div-Association%20%281%29.jpg",
+   "alt": "82nd Airborne Division Association license plate",
+   "verdict": "plate:82nd-airborne-division-association"
+  },
+  "/sites/default/files/2026-03/Air-Force-Cross.jpg": {
+   "src": "https://dmv.wv.gov/sites/default/files/2026-03/Air-Force-Cross.jpg",
+   "alt": "Air Force Cross license plate",
+   "verdict": "plate:air-force-cross"
+  },
+  "/sites/default/files/2026-03/Air-Force-Reserves.jpg": {
+   "src": "https://dmv.wv.gov/sites/default/files/2026-03/Air-Force-Reserves.jpg",
+   "alt": "Air Force Reserves license plate",
+   "verdict": "plate:air-force-reserves"
+  },
+  "/sites/default/files/2026-03/Air-Force-Retired.jpg": {
+   "src": "https://dmv.wv.gov/sites/default/files/2026-03/Air-Force-Retired.jpg",
+   "alt": "Air Force Retired license plate",
+   "verdict": "plate:air-force-retired"
+  },
+  "/sites/default/files/2026-03/Air-Medal_plate.jpg": {
+   "src": "https://dmv.wv.gov/sites/default/files/2026-03/Air-Medal_plate.jpg",
+   "alt": "Air Metal license plate",
+   "verdict": "pending:WV-air-metal"
+  },
+  "/sites/default/files/2026-03/Air-National-Guard.jpg": {
+   "src": "https://dmv.wv.gov/sites/default/files/2026-03/Air-National-Guard.jpg",
+   "alt": "Air National Guard license plate",
+   "verdict": "plate:air-national-guard"
+  },
+  "/sites/default/files/2026-03/American-Legion.jpg": {
+   "src": "https://dmv.wv.gov/sites/default/files/2026-03/American-Legion.jpg",
+   "alt": "American Legion license plate",
+   "verdict": "plate:american-legion"
+  },
+  "/sites/default/files/2026-03/Army-National-Guard.jpg": {
+   "src": "https://dmv.wv.gov/sites/default/files/2026-03/Army-National-Guard.jpg",
+   "alt": "Army National Guard license plate",
+   "verdict": "plate:army-national-guard"
+  },
+  "/sites/default/files/2026-03/Army-Reserves.jpg": {
+   "src": "https://dmv.wv.gov/sites/default/files/2026-03/Army-Reserves.jpg",
+   "alt": "Army Reserves license plate",
+   "verdict": "plate:army-reserves"
+  },
+  "/sites/default/files/2026-03/Army-Retired.jpg": {
+   "src": "https://dmv.wv.gov/sites/default/files/2026-03/Army-Retired.jpg",
+   "alt": "Army Retired license plate",
+   "verdict": "plate:army-retired"
+  },
+  "/sites/default/files/2026-03/Bronze-Star.jpg": {
+   "src": "https://dmv.wv.gov/sites/default/files/2026-03/Bronze-Star.jpg",
+   "alt": "Bronze Star license plate",
+   "verdict": "plate:bronze-star"
+  },
+  "/sites/default/files/2026-03/Coast-Guard-Reserves.jpg": {
+   "src": "https://dmv.wv.gov/sites/default/files/2026-03/Coast-Guard-Reserves.jpg",
+   "alt": "Coast Guard Reserves license plate",
+   "verdict": "plate:coast-guard-reserves"
+  },
+  "/sites/default/files/2026-03/Coast-Guard-Retired.jpg": {
+   "src": "https://dmv.wv.gov/sites/default/files/2026-03/Coast-Guard-Retired.jpg",
+   "alt": "Coast Guard Retired license plate",
+   "verdict": "plate:coast-guard-retired"
+  },
+  "/sites/default/files/2026-03/Combat-Infantry-Badge.jpg": {
+   "src": "https://dmv.wv.gov/sites/default/files/2026-03/Combat-Infantry-Badge.jpg",
+   "alt": "Combat Infantry license plate",
+   "verdict": "plate:combat-infantry-badge"
+  },
+  "/sites/default/files/2026-03/Combat-Medic.jpg": {
+   "src": "https://dmv.wv.gov/sites/default/files/2026-03/Combat-Medic.jpg",
+   "alt": "Combat Medic license plate",
+   "verdict": "plate:combat-medic"
+  },
+  "/sites/default/files/2026-03/Disabled-Veteran-Mobility-Impaired_thumb.jpg": {
+   "src": "https://dmv.wv.gov/sites/default/files/2026-03/Disabled-Veteran-Mobility-Impaired_thumb.jpg",
+   "alt": "Disabled Veterans Mobility Impaired license plate",
+   "verdict": "plate:disabled-veterans-mobility-impaired"
+  },
+  "/sites/default/files/2026-03/Disabled-Veterans.jpg": {
+   "src": "https://dmv.wv.gov/sites/default/files/2026-03/Disabled-Veterans.jpg",
+   "alt": "Disabled Veterans license plate",
+   "verdict": "plate:disabled-veterans"
+  },
+  "/sites/default/files/2026-03/Disaled-American-Veterans.jpg": {
+   "src": "https://dmv.wv.gov/sites/default/files/2026-03/Disaled-American-Veterans.jpg",
+   "alt": "Disabled American Veterans license plate",
+   "verdict": "plate:disabled-american-veterans"
+  },
+  "/sites/default/files/2026-03/Distinguished-Flying-Cross_0.jpg": {
+   "src": "https://dmv.wv.gov/sites/default/files/2026-03/Distinguished-Flying-Cross_0.jpg",
+   "alt": "Distinguished Flying Cross license plate",
+   "verdict": "plate:distinguished-flying-cross"
+  },
+  "/sites/default/files/2026-03/Distinguished-Service-Cross_0.jpg": {
+   "src": "https://dmv.wv.gov/sites/default/files/2026-03/Distinguished-Service-Cross_0.jpg",
+   "alt": "Distinguished Service Cross license plate",
+   "verdict": "plate:distinguished-service-cross"
+  },
+  "/sites/default/files/2026-03/Former-POW.jpg": {
+   "src": "https://dmv.wv.gov/sites/default/files/2026-03/Former-POW.jpg",
+   "alt": "Former Prisoner of War license plate",
+   "verdict": "plate:former-prisoner-of-war"
+  },
+  "/sites/default/files/2026-03/Gold-Star-Family.jpg": {
+   "src": "https://dmv.wv.gov/sites/default/files/2026-03/Gold-Star-Family.jpg",
+   "alt": "Gold Star Family license plate",
+   "verdict": "plate:gold-star-family"
+  },
+  "/sites/default/files/2026-03/Korean-War-Veteran.jpg": {
+   "src": "https://dmv.wv.gov/sites/default/files/2026-03/Korean-War-Veteran.jpg",
+   "alt": "Korean War Veteran license plate",
+   "verdict": "plate:korean-war-veteran"
+  },
+  "/sites/default/files/2026-03/Marine-Corps-League.jpg": {
+   "src": "https://dmv.wv.gov/sites/default/files/2026-03/Marine-Corps-League.jpg",
+   "alt": "Marine Corps League license plate",
+   "verdict": "plate:marine-corps-league"
+  },
+  "/sites/default/files/2026-03/Marine-Corps-Reserves.jpg": {
+   "src": "https://dmv.wv.gov/sites/default/files/2026-03/Marine-Corps-Reserves.jpg",
+   "alt": "Marine Corps Reserves license plate",
+   "verdict": "plate:marine-corps-reserves"
+  },
+  "/sites/default/files/2026-03/Marine-Corps-Retired.jpg": {
+   "src": "https://dmv.wv.gov/sites/default/files/2026-03/Marine-Corps-Retired.jpg",
+   "alt": "Marine Corps Retired license plate",
+   "verdict": "plate:marines-corps-retired"
+  },
+  "/sites/default/files/2026-03/Medal-of-Honor.jpg": {
+   "src": "https://dmv.wv.gov/sites/default/files/2026-03/Medal-of-Honor.jpg",
+   "alt": "Medal of Honor license plate",
+   "verdict": "plate:medal-of-honor"
+  },
+  "/sites/default/files/2026-03/Navy-Cross.jpg": {
+   "src": "https://dmv.wv.gov/sites/default/files/2026-03/Navy-Cross.jpg",
+   "alt": "Navy Cross license plate",
+   "verdict": "plate:navy-cross"
+  },
+  "/sites/default/files/2026-03/Navy-Reserves.jpg": {
+   "src": "https://dmv.wv.gov/sites/default/files/2026-03/Navy-Reserves.jpg",
+   "alt": "Navy Reserve license plate",
+   "verdict": "plate:navy-reserves"
+  },
+  "/sites/default/files/2026-03/Navy-Retired.jpg": {
+   "src": "https://dmv.wv.gov/sites/default/files/2026-03/Navy-Retired.jpg",
+   "alt": "Navy Retired license plate",
+   "verdict": "plate:navy-retired"
+  },
+  "/sites/default/files/2026-03/Pearl-Harbor-Survivor.jpg": {
+   "src": "https://dmv.wv.gov/sites/default/files/2026-03/Pearl-Harbor-Survivor.jpg",
+   "alt": "Pearl Harbor Survivor license plate",
+   "verdict": "plate:pearl-harbor-survivor"
+  },
+  "/sites/default/files/2026-03/Persian-Golf-Veteran.jpg": {
+   "src": "https://dmv.wv.gov/sites/default/files/2026-03/Persian-Golf-Veteran.jpg",
+   "alt": "Persian Gulf Veteran license plate",
+   "verdict": "plate:persian-gulf-veteran"
+  },
+  "/sites/default/files/2026-03/Purple-Heart.jpg": {
+   "src": "https://dmv.wv.gov/sites/default/files/2026-03/Purple-Heart.jpg",
+   "alt": "Purple Heart license plate",
+   "verdict": "plate:purple-heart"
+  },
+  "/sites/default/files/2026-03/Silver-Star.jpg": {
+   "src": "https://dmv.wv.gov/sites/default/files/2026-03/Silver-Star.jpg",
+   "alt": "Silver Star license plate",
+   "verdict": "plate:silver-star"
+  },
+  "/sites/default/files/2026-03/Veteran.jpg": {
+   "src": "https://dmv.wv.gov/sites/default/files/2026-03/Veteran.jpg",
+   "alt": "Veteran license plate",
+   "verdict": "plate:veteran"
+  },
+  "/sites/default/files/2026-03/Vietnam-War-Veteran.jpg": {
+   "src": "https://dmv.wv.gov/sites/default/files/2026-03/Vietnam-War-Veteran.jpg",
+   "alt": "Vietnam War Veteran license plate",
+   "verdict": "plate:vietnam-war-veteran"
+  },
+  "/sites/default/files/2026-03/War-On-Terrorism-Afghanistan-Campaign.jpg": {
+   "src": "https://dmv.wv.gov/sites/default/files/2026-03/War-On-Terrorism-Afghanistan-Campaign.jpg",
+   "alt": "War on Terrorism - Afghanistan license plate",
+   "verdict": "plate:war-on-terrorism-afghanistan"
+  },
+  "/sites/default/files/2026-03/War-On-Terrorism-Iraq-Campaign.jpg": {
+   "src": "https://dmv.wv.gov/sites/default/files/2026-03/War-On-Terrorism-Iraq-Campaign.jpg",
+   "alt": "War on Terrorism - Iraq license plate",
+   "verdict": "plate:war-on-terrorism-iraq"
+  },
+  "/sites/default/files/2026-03/Women-Veterans.jpg": {
+   "src": "https://dmv.wv.gov/sites/default/files/2026-03/Women-Veterans.jpg",
+   "alt": "Women Veterans license plate",
+   "verdict": "plate:women-veterans"
+  },
+  "/sites/default/files/2026-03/World-War-II-Veteran.jpg": {
+   "src": "https://dmv.wv.gov/sites/default/files/2026-03/World-War-II-Veteran.jpg",
+   "alt": "World War II Veteran license plate",
+   "verdict": "plate:world-war-ii-veteran"
+  }
+ },
+ "checked": "2026-10-26"
+}

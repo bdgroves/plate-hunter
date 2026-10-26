@@ -1,0 +1,58 @@
+{
+ "code": "VA",
+ "url": "https://www.dmv.virginia.gov/vehicles/license-plates/search",
+ "complete": true,
+ "pictures": {
+  "/sites/default/files/styles/max_650x650/public/images/173airborne.jpg": {
+   "src": "https://www.dmv.virginia.gov/sites/default/files/styles/max_650x650/public/images/173airborne.jpg?itok=qTGH3txy",
+   "alt": "",
+   "verdict": "plate:173rd-airborne"
+  },
+  "/sites/default/files/styles/max_650x650/public/images/aa.jpg": {
+   "src": "https://www.dmv.virginia.gov/sites/default/files/styles/max_650x650/public/images/aa.jpg?itok=TydQGMbc",
+   "alt": "",
+   "verdict": "plate:alzheimer-s-association"
+  },
+  "/sites/default/files/styles/max_650x650/public/images/aam.jpg": {
+   "src": "https://www.dmv.virginia.gov/sites/default/files/styles/max_650x650/public/images/aam.jpg?itok=WCAwG0Kr",
+   "alt": "",
+   "verdict": "not-for-cars"
+  },
+  "/sites/default/files/styles/max_650x650/public/images/afc.jpg": {
+   "src": "https://www.dmv.virginia.gov/sites/default/files/styles/max_650x650/public/images/afc.jpg?itok=a4knq03B",
+   "alt": "",
+   "verdict": "plate:air-force-cross"
+  },
+  "/sites/default/files/styles/max_650x650/public/images/afr.jpg": {
+   "src": "https://www.dmv.virginia.gov/sites/default/files/styles/max_650x650/public/images/afr.jpg?itok=vD_Gesrr",
+   "alt": "",
+   "verdict": "plate:air-force-reserve"
+  },
+  "/sites/default/files/styles/max_650x650/public/images/akas.jpg": {
+   "src": "https://www.dmv.virginia.gov/sites/default/files/styles/max_650x650/public/images/akas.jpg?itok=GsrpuCjL",
+   "alt": "",
+   "verdict": "plate:alpha-kappa-alpha-sorority"
+  },
+  "/sites/default/files/styles/max_650x650/public/images/amd.jpg": {
+   "src": "https://www.dmv.virginia.gov/sites/default/files/styles/max_650x650/public/images/amd.jpg?itok=2oFMIDlh",
+   "alt": "",
+   "verdict": "plate:air-medal"
+  },
+  "/sites/default/files/styles/max_650x650/public/images/amdm.jpg": {
+   "src": "https://www.dmv.virginia.gov/sites/default/files/styles/max_650x650/public/images/amdm.jpg?itok=Aa89Ypjf",
+   "alt": "",
+   "verdict": "not-for-cars"
+  },
+  "/sites/default/files/styles/max_650x650/public/images/apa2.jpg": {
+   "src": "https://www.dmv.virginia.gov/sites/default/files/styles/max_650x650/public/images/apa2.jpg?itok=rt_eVQOe",
+   "alt": "",
+   "verdict": "plate:alpha-phi-alpha"
+  },
+  "/sites/default/files/styles/max_650x650/public/images/ara.jpg": {
+   "src": "https://www.dmv.virginia.gov/sites/default/files/styles/max_650x650/public/images/ara.jpg?itok=I8zRgFZY",
+   "alt": "250th American Revolution Anniversary Plate",
+   "verdict": "plate:250th-american-revolution-anniversary"
+  }
+ },
+ "checked": "2026-10-26"
+}

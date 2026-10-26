@@ -1,8 +1,24 @@
 {
+ "AB": {
+  "url": "https://eservices.alberta.ca/specialty-plates",
+  "ok": true,
+  "pictures": 2,
+  "plates": 0,
+  "added": [],
+  "checked": "2026-10-26"
+ },
  "AK": {
   "url": "https://doa.alaska.gov/dmv/plates/index.htm",
   "ok": false,
   "error": "HTTP Error 403: Forbidden",
+  "checked": "2026-10-26"
+ },
+ "AK-2": {
+  "url": "https://dmv.alaska.gov/vehicle-services/license-plates/",
+  "ok": true,
+  "pictures": 47,
+  "plates": 41,
+  "added": [],
   "checked": "2026-10-26"
  },
  "AL": {
@@ -10,6 +26,22 @@
   "ok": true,
   "pictures": 51,
   "plates": 36,
+  "added": [],
+  "checked": "2026-10-26"
+ },
+ "AZ": {
+  "url": "https://azmvdnow.gov/plates",
+  "ok": true,
+  "pictures": 0,
+  "plates": 0,
+  "added": [],
+  "checked": "2026-10-26"
+ },
+ "BC": {
+  "url": "https://www.icbc.com/vehicle-registration/licence-plates",
+  "ok": true,
+  "pictures": 9,
+  "plates": 5,
   "added": [],
   "checked": "2026-10-26"
  },
@@ -29,6 +61,12 @@
  },
  "CO-2": {
   "url": "https://dmv.colorado.gov/group-special-license-plates",
+  "ok": false,
+  "error": "HTTP Error 403: Forbidden",
+  "checked": "2026-10-26"
+ },
+ "CO-3": {
+  "url": "https://dmv.colorado.gov/group-special-license-plates-new",
   "ok": false,
   "error": "HTTP Error 403: Forbidden",
   "checked": "2026-10-26"
@@ -71,10 +109,26 @@
   "kind": "pdf",
   "checked": "2026-10-26"
  },
+ "GA": {
+  "url": "https://mvd.dor.ga.gov/motor/plates/PlateSelection.aspx",
+  "ok": true,
+  "pictures": 0,
+  "plates": 0,
+  "added": [],
+  "checked": "2026-10-26"
+ },
  "HI": {
   "url": "https://dod.hawaii.gov/ovs/benefits-and-services/",
   "ok": true,
   "pictures": 2,
+  "plates": 0,
+  "added": [],
+  "checked": "2026-10-26"
+ },
+ "IA": {
+  "url": "https://iowadot.gov/registration-plates/license-plates/decals/available-decals",
+  "ok": true,
+  "pictures": 38,
   "plates": 0,
   "added": [],
   "checked": "2026-10-26"
@@ -93,6 +147,12 @@
   "added": [],
   "checked": "2026-10-26"
  },
+ "IL": {
+  "url": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/licenseplates.html",
+  "ok": false,
+  "error": "The read operation timed out",
+  "checked": "2026-10-26"
+ },
  "IN": {
   "url": "https://www.in.gov/bmv/registration-plates/license-plates-overview/license-plate-designs/",
   "ok": true,
@@ -105,6 +165,14 @@
   "url": "https://files.leavenworthcounty.gov/Department/Treasurer/Forms/Kansas%20License%20Plate%20Guide%2012022021.pdf",
   "ok": false,
   "error": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)>",
+  "checked": "2026-10-26"
+ },
+ "KY": {
+  "url": "https://secure2.kentucky.gov/kytc/plates/web/",
+  "ok": true,
+  "pictures": 1,
+  "plates": 0,
+  "added": [],
   "checked": "2026-10-26"
  },
  "LA": {
@@ -121,11 +189,35 @@
   "kind": "pdf",
   "checked": "2026-10-26"
  },
+ "MA-2": {
+  "url": "https://www.mass.gov/info-details/veteran-status-licenses-and-specialty-plates",
+  "ok": true,
+  "pictures": 22,
+  "plates": 10,
+  "added": [],
+  "checked": "2026-10-26"
+ },
+ "MB": {
+  "url": "https://www.mpi.mb.ca/specialty-plates-non-member/",
+  "ok": true,
+  "pictures": 15,
+  "plates": 13,
+  "added": [],
+  "checked": "2026-10-26"
+ },
  "MD": {
   "url": "https://mva.maryland.gov/Pages/licenseplates-Organizational.aspx",
   "ok": true,
   "pictures": 0,
   "plates": 0,
+  "added": [],
+  "checked": "2026-10-26"
+ },
+ "MD-2": {
+  "url": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+  "ok": true,
+  "pictures": 36,
+  "plates": 14,
   "added": [],
   "checked": "2026-10-26"
  },
@@ -139,6 +231,12 @@
  },
  "ME-2": {
   "url": "https://www.maine.gov/sos/bmv/registration/availablevet.html",
+  "ok": false,
+  "error": "HTTP Error 403: Forbidden",
+  "checked": "2026-10-26"
+ },
+ "ME-3": {
+  "url": "https://www.maine.gov/sos/bmv/vehicles/veteran-plate-or-decal/vehicles/available-veteran-plates",
   "ok": false,
   "error": "HTTP Error 403: Forbidden",
   "checked": "2026-10-26"
@@ -159,7 +257,7 @@
   "url": "https://dps.mn.gov/divisions/dvs/vehicle/license-plates/specialized-license-plates",
   "ok": true,
   "pictures": 96,
-  "plates": 67,
+  "plates": 69,
   "added": [],
   "checked": "2026-10-26"
  },
@@ -171,10 +269,34 @@
   "added": [],
   "checked": "2026-10-26"
  },
+ "MS": {
+  "url": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+  "ok": true,
+  "pictures": 305,
+  "plates": 245,
+  "added": [],
+  "checked": "2026-10-26"
+ },
  "MT": {
   "url": "http://dojmt.gov/driving/plate-designs-and-fees/service-organizations-associations/",
   "ok": true,
   "pictures": 1,
+  "plates": 0,
+  "added": [],
+  "checked": "2026-10-26"
+ },
+ "MT-2": {
+  "url": "https://mvdmt.gov/license-plate-lookup/",
+  "ok": true,
+  "pictures": 29,
+  "plates": 15,
+  "added": [],
+  "checked": "2026-10-26"
+ },
+ "NB": {
+  "url": "https://www.gnb.ca/en/topic/driving-transportation/registration-inspection.html",
+  "ok": true,
+  "pictures": 0,
   "plates": 0,
   "added": [],
   "checked": "2026-10-26"
@@ -217,11 +339,35 @@
   "added": [],
   "checked": "2026-10-26"
  },
+ "NL": {
+  "url": "https://www.gov.nl.ca/motorregistration/vehicle-ownership/plates/",
+  "ok": true,
+  "pictures": 1,
+  "plates": 0,
+  "added": [],
+  "checked": "2026-10-26"
+ },
  "NM": {
   "url": "https://www.mvd.newmexico.gov/vehicles/license-plates/",
   "ok": true,
   "pictures": 54,
   "plates": 43,
+  "added": [],
+  "checked": "2026-10-26"
+ },
+ "NS": {
+  "url": "https://data.novascotia.ca/resource/78vj-k5bf.json",
+  "ok": true,
+  "pictures": 0,
+  "plates": 0,
+  "added": [],
+  "checked": "2026-10-26"
+ },
+ "NT": {
+  "url": "https://www.idmv.inf.gov.nt.ca/Vehicles/Licence-Plate",
+  "ok": true,
+  "pictures": 2,
+  "plates": 0,
   "added": [],
   "checked": "2026-10-26"
  },
@@ -251,6 +397,12 @@
   "error": "HTTP Error 403: Forbidden",
   "checked": "2026-10-26"
  },
+ "NY-3": {
+  "url": "https://dmv.ny.gov/plates/picture-plates",
+  "ok": false,
+  "error": "HTTP Error 403: Forbidden",
+  "checked": "2026-10-26"
+ },
  "OH": {
   "url": "https://www.bmv.ohio.gov/vr-sp-geninfo.aspx",
   "ok": true,
@@ -267,6 +419,14 @@
   "added": [],
   "checked": "2026-10-26"
  },
+ "ON": {
+  "url": "https://www.ontario.ca/page/choose-licence-plate-graphic",
+  "ok": true,
+  "pictures": 68,
+  "plates": 67,
+  "added": [],
+  "checked": "2026-10-26"
+ },
  "OR": {
   "url": "https://www.oregon.gov/odot/Forms/DMV/6726.pdf",
   "ok": true,
@@ -277,6 +437,30 @@
   "url": "https://www.dmv.pa.gov/VEHICLE-SERVICES/Registration%20Plates/Pages/Approved-Organizations.aspx",
   "ok": true,
   "pictures": 0,
+  "plates": 0,
+  "added": [],
+  "checked": "2026-10-26"
+ },
+ "PA-2": {
+  "url": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
+  "ok": true,
+  "pictures": 0,
+  "plates": 0,
+  "added": [],
+  "checked": "2026-10-26"
+ },
+ "PE": {
+  "url": "https://www.princeedwardisland.ca/en/news/province-unveils-new-license-plates",
+  "ok": true,
+  "pictures": 0,
+  "plates": 0,
+  "added": [],
+  "checked": "2026-10-26"
+ },
+ "QC": {
+  "url": "https://saaq.gouv.qc.ca/en/vehicle-registration/temporary-licence-plate-categories",
+  "ok": true,
+  "pictures": 41,
   "plates": 0,
   "added": [],
   "checked": "2026-10-26"
@@ -299,8 +483,10 @@
  },
  "SC": {
   "url": "https://www.scdmvonline.com/Vehicle-Owners/Registration/Plate-Gallery",
-  "ok": false,
-  "error": "<urlopen error timed out>",
+  "ok": true,
+  "pictures": 236,
+  "plates": 182,
+  "added": [],
   "checked": "2026-10-26"
  },
  "SD": {
@@ -319,11 +505,57 @@
   "added": [],
   "checked": "2026-10-26"
  },
+ "SK": {
+  "url": "https://sgi.sk.ca/personalized-plates",
+  "ok": true,
+  "pictures": 0,
+  "plates": 0,
+  "added": [],
+  "checked": "2026-10-26"
+ },
+ "TN": {
+  "url": "https://www.tn.gov/content/tn/revenue/title-and-registration/license-plates/available-license-plates.html",
+  "ok": false,
+  "error": "<urlopen error [Errno 104] Connection reset by peer>",
+  "checked": "2026-10-26"
+ },
  "TX": {
   "url": "https://www.myplates.com/",
   "ok": true,
   "pictures": 9,
   "plates": 5,
+  "added": [],
+  "checked": "2026-10-26"
+ },
+ "TX-2": {
+  "url": "https://www.myplates.com/discontinued-plates",
+  "ok": true,
+  "pictures": 59,
+  "plates": 13,
+  "added": [],
+  "checked": "2026-10-26"
+ },
+ "TX-3": {
+  "url": "https://www.myplates.com/api/plates",
+  "ok": true,
+  "pictures": 0,
+  "plates": 0,
+  "added": [],
+  "checked": "2026-10-26"
+ },
+ "UT": {
+  "url": "https://dmv.utah.gov/plates/license-plates/",
+  "ok": true,
+  "pictures": 88,
+  "plates": 36,
+  "added": [],
+  "checked": "2026-10-26"
+ },
+ "VA": {
+  "url": "https://www.dmv.virginia.gov/vehicles/license-plates/search",
+  "ok": true,
+  "pictures": 10,
+  "plates": 8,
   "added": [],
   "checked": "2026-10-26"
  },
@@ -333,11 +565,35 @@
   "kind": "pdf",
   "checked": "2026-10-26"
  },
+ "VT-2": {
+  "url": "https://dmv.vermont.gov/node/212",
+  "ok": true,
+  "pictures": 19,
+  "plates": 9,
+  "added": [],
+  "checked": "2026-10-26"
+ },
  "WA": {
   "url": "https://dol.wa.gov/vehicles-and-boats/vehicles/license-plates/get-custom-plates/special-design-plates",
   "ok": true,
   "pictures": 76,
   "plates": 62,
+  "added": [],
+  "checked": "2026-10-26"
+ },
+ "WI": {
+  "url": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/special.aspx",
+  "ok": true,
+  "pictures": 71,
+  "plates": 64,
+  "added": [],
+  "checked": "2026-10-26"
+ },
+ "WV": {
+  "url": "https://dmv.wv.gov/node/155",
+  "ok": true,
+  "pictures": 40,
+  "plates": 39,
   "added": [],
   "checked": "2026-10-26"
  },
@@ -355,6 +611,12 @@
   "pictures": 2,
   "plates": 0,
   "added": [],
+  "checked": "2026-10-26"
+ },
+ "YT": {
+  "url": "https://yukon.ca/en/driving-and-transportation/vehicle-registration",
+  "ok": false,
+  "error": "HTTP Error 403: Forbidden",
   "checked": "2026-10-26"
  }
 }

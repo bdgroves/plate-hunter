@@ -1,0 +1,348 @@
+{
+ "code": "ON",
+ "url": "https://www.ontario.ca/page/choose-licence-plate-graphic",
+ "complete": true,
+ "pictures": {
+  "/files/2026-03/48th_highlanders_english_web_ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-03/48th_highlanders_english_web_ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — 48th Highlanders",
+   "verdict": "plate:48th-highlanders"
+  },
+  "/files/2026-03/army_cadet_english_web_ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-03/army_cadet_english_web_ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — Army Cadet League of Canada (Ontario)",
+   "verdict": "plate:army-cadet-league-of-canada-ontario"
+  },
+  "/files/2026-03/breast_cancer_society_english_web_ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-03/breast_cancer_society_english_web_ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — Breast Cancer Society of Canada",
+   "verdict": "plate:breast-cancer-society-of-canada"
+  },
+  "/files/2026-03/canadian_distillers_english_web_ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-03/canadian_distillers_english_web_ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — Association of Canadian Distillers",
+   "verdict": "plate:association-of-canadian-distillers"
+  },
+  "/files/2026-03/canadian_tire_jumpstart_english_web_ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-03/canadian_tire_jumpstart_english_web_ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — Canadian Tire Jumpstart Charities",
+   "verdict": "plate:canadian-tire-jumpstart-charities"
+  },
+  "/files/2026-03/cdn_bloodservices_english.png": {
+   "src": "https://ontario.ca/files/2026-03/cdn_bloodservices_english.png",
+   "alt": "Illustration of Licence Plate — Canadian Blood Services",
+   "verdict": "plate:canadian-blood-services"
+  },
+  "/files/2026-03/elmer_english_002.png": {
+   "src": "https://ontario.ca/files/2026-03/elmer_english_002.png",
+   "alt": "Illustration of Licence Plate — Elmer the Safety Elephant",
+   "verdict": "plate:elmer-the-safety-elephant"
+  },
+  "/files/2026-03/farley_foundation_english_web_ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-03/farley_foundation_english_web_ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — Farley Foundation",
+   "verdict": "plate:farley-foundation"
+  },
+  "/files/2026-03/girls_guides_of_canada_english_web_ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-03/girls_guides_of_canada_english_web_ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — Girl Guides of Canada",
+   "verdict": "plate:girl-guides-of-canada"
+  },
+  "/files/2026-03/governor_generals_horse_english_web_ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-03/governor_generals_horse_english_web_ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — Governor General’s Horse Guards Association",
+   "verdict": "plate:governor-general-s-horse-guards-associat"
+  },
+  "/files/2026-03/grand_lodge_english_web_ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-03/grand_lodge_english_web_ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — Grand Lodge A.F. & A.M. of Canada",
+   "verdict": "plate:grand-lodge-a-f-a-m-of-canada"
+  },
+  "/files/2026-03/grand_lodge_independent_order_english_web_ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-03/grand_lodge_independent_order_english_web_ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — Grand Lodge of Ontario, Independent Order of Odd Fellows",
+   "verdict": "plate:grand-lodge-of-ontario-independent-order"
+  },
+  "/files/2026-03/kinsmen_club_english_web_ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-03/kinsmen_club_english_web_ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — Kinsmen Club of Goderich",
+   "verdict": "plate:kinsmen-club-of-goderich"
+  },
+  "/files/2026-03/knights_of_columbus_english_web_ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-03/knights_of_columbus_english_web_ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — Knights of Columbus",
+   "verdict": "plate:knights-of-columbus"
+  },
+  "/files/2026-03/lincoln_and_welland_regiment_english_web_ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-03/lincoln_and_welland_regiment_english_web_ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — Lincoln and Welland Regiment Foundation",
+   "verdict": "plate:lincoln-and-welland-regiment-foundation"
+  },
+  "/files/2026-03/madd_english_web_ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-03/madd_english_web_ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — MADD Canada (Mothers Against Drunk Driving)",
+   "verdict": "plate:madd-canada-mothers-against-drunk-drivin"
+  },
+  "/files/2026-03/ontario_square_and_round_dance_english_web_ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-03/ontario_square_and_round_dance_english_web_ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — Ontario Square and Round Dance Federation",
+   "verdict": "plate:ontario-square-and-round-dance-federatio"
+  },
+  "/files/2026-03/ottawa_valley_english_web_ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-03/ottawa_valley_english_web_ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — Ottawa Valley Adventure Playground",
+   "verdict": "plate:ottawa-valley-adventure-playground"
+  },
+  "/files/2026-03/queens_own_rifles_english_web_ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-03/queens_own_rifles_english_web_ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — Queens Own Rifles of Canada",
+   "verdict": "plate:queens-own-rifles-of-canada"
+  },
+  "/files/2026-03/queens_york_rangers_english_web_ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-03/queens_york_rangers_english_web_ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — Queen’s York Rangers",
+   "verdict": "plate:queen-s-york-rangers"
+  },
+  "/files/2026-03/radio_amateurs_of_canada_english_web_ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-03/radio_amateurs_of_canada_english_web_ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — Radio Amateurs of Canada",
+   "verdict": "plate:radio-amateurs-of-canada"
+  },
+  "/files/2026-03/rotary_international_english_web_ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-03/rotary_international_english_web_ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — Rotary International",
+   "verdict": "plate:rotary-international"
+  },
+  "/files/2026-03/royal_canadian_legion_english_web_ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-03/royal_canadian_legion_english_web_ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — Royal Canadian Legion (Ontario Provincial Command)",
+   "verdict": "plate:royal-canadian-legion-ontario-provincial"
+  },
+  "/files/2026-03/royal_hamilton_light_infantry_english_web_ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-03/royal_hamilton_light_infantry_english_web_ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — Royal Hamilton Light Infantry",
+   "verdict": "plate:royal-hamilton-light-infantry"
+  },
+  "/files/2026-03/royal_regiment_of_canada_english_web_ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-03/royal_regiment_of_canada_english_web_ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — Royal Regiment of Canada",
+   "verdict": "plate:royal-regiment-of-canada"
+  },
+  "/files/2026-03/royal_regiment_of_canadian_artillery_english_web_ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-03/royal_regiment_of_canadian_artillery_english_web_ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — Royal Regiment of Canadian Artillery",
+   "verdict": "plate:royal-regiment-of-canadian-artillery"
+  },
+  "/files/2026-03/st_john_ambulance_english_web_ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-03/st_john_ambulance_english_web_ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — St. John Ambulance",
+   "verdict": "plate:st-john-ambulance"
+  },
+  "/files/2026-03/trillium_gift_of_life_english_web_ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-03/trillium_gift_of_life_english_web_ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — Trillium Gift of Life Network",
+   "verdict": "plate:trillium-gift-of-life-network"
+  },
+  "/files/2026-05/Argonauts_de_Toronto_GOTEAM_english_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-05/Argonauts_de_Toronto_GOTEAM_english_300dpi.png",
+   "alt": "Illustration of Licence Plate — Toronto Argonauts",
+   "verdict": "plate:toronto-argonauts"
+  },
+  "/files/2026-05/Association_Lacrosse_de_l%27Ontario_ENGLISH_web%20ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-05/Association_Lacrosse_de_l%27Ontario_ENGLISH_web%20ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — Association Lacrosse de l'Ontario",
+   "verdict": "plate:ontario-lacrosse-association"
+  },
+  "/files/2026-05/Blue_Jays_de_Toronto_GOTEAM_english_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-05/Blue_Jays_de_Toronto_GOTEAM_english_300dpi.png",
+   "alt": "Illustration of Licence Plate — Toronto Blue Jays",
+   "verdict": "plate:toronto-blue-jays"
+  },
+  "/files/2026-05/Canadian_Association_of_Fire_Chiefs%20_english_web_ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-05/Canadian_Association_of_Fire_Chiefs%20_english_web_ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — Canadian Association of Fire Chiefs",
+   "verdict": "plate:ontario-association-of-fire-chiefs"
+  },
+  "/files/2026-05/Don%27t_Drink_and_Drive_english_web_ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-05/Don%27t_Drink_and_Drive_english_web_ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — Don't Drink and Drive",
+   "verdict": "plate:don-t-drink-and-drive"
+  },
+  "/files/2026-05/Equine_Canada_ENGLISH_web_ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-05/Equine_Canada_ENGLISH_web_ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — Equine Canada",
+   "verdict": "plate:equine-canada"
+  },
+  "/files/2026-05/Franco-Ontarian_english_web_ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-05/Franco-Ontarian_english_web_ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — Franco-Ontarian Flag (English)",
+   "verdict": "plate:franco-ontarian-flag-english"
+  },
+  "/files/2026-05/Garden_River_english_web_ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-05/Garden_River_english_web_ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — Garden River First Nation Ketegaunseebee GRFN",
+   "verdict": "plate:garden-river-first-nation-ketegaunseebee"
+  },
+  "/files/2026-05/George_Brown_College_english_web_ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-05/George_Brown_College_english_web_ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — George Brown College",
+   "verdict": "plate:george-brown-college"
+  },
+  "/files/2026-05/Heart_english_web_ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-05/Heart_english_web_ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — Heart",
+   "verdict": "plate:heart"
+  },
+  "/files/2026-05/IHeart_english_web_ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-05/IHeart_english_web_ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — I Heart",
+   "verdict": "plate:i-heart"
+  },
+  "/files/2026-05/Lakehead_University_english_web_ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-05/Lakehead_University_english_web_ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — Lakehead University",
+   "verdict": "plate:lakehead-university"
+  },
+  "/files/2026-05/Loon_english_web_ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-05/Loon_english_web_ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — Loon",
+   "verdict": "plate:loon"
+  },
+  "/files/2026-05/Maple_Leafs_de_Toronto_GOTEAM_english_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-05/Maple_Leafs_de_Toronto_GOTEAM_english_300dpi.png",
+   "alt": "Illustration of Licence Plate — Toronto Maple Leafs",
+   "verdict": "plate:toronto-maple-leafs"
+  },
+  "/files/2026-05/Nation_Anishinabek_english_web_ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-05/Nation_Anishinabek_english_web_ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — Anishinabek Nation",
+   "verdict": "plate:anishinabek-nation"
+  },
+  "/files/2026-05/Nation_Nishnawbe_english_web_ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-05/Nation_Nishnawbe_english_web_ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — Nishnawbe Aski Nation",
+   "verdict": "plate:nishnawbe-aski-nation"
+  },
+  "/files/2026-05/Ontario_Federation_of_Aglers_and_Hunters_english_web_ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-05/Ontario_Federation_of_Aglers_and_Hunters_english_web_ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — Ontario Federation of Aglers and Hunters",
+   "verdict": "plate:ontario-federation-of-anglers-and-hunter"
+  },
+  "/files/2026-05/Ontario_Paramedic_Association%20_english_web_ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-05/Ontario_Paramedic_Association%20_english_web_ready_300dpi.png",
+   "alt": "",
+   "verdict": "plate:ontario-paramedic-association"
+  },
+  "/files/2026-05/Ontario_Professional_Fire_Fighter_english_web_ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-05/Ontario_Professional_Fire_Fighter_english_web_ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — Ontario Professional Fire Fighter",
+   "verdict": "plate:ontario-professional-fire-fighter-associ"
+  },
+  "/files/2026-05/Ontario_Snowmobile_Club_english_web_ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-05/Ontario_Snowmobile_Club_english_web_ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — Ontario Snowmobile Club",
+   "verdict": "plate:ontario-federation-of-snowmobile-clubs"
+  },
+  "/files/2026-05/Ottawa_Redblacks_GOTEAM_english_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-05/Ottawa_Redblacks_GOTEAM_english_300dpi.png",
+   "alt": "",
+   "verdict": "plate:ottawa-redblacks"
+  },
+  "/files/2026-05/Ottawa_Senators_GOTEAM_english_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-05/Ottawa_Senators_GOTEAM_english_300dpi.png",
+   "alt": "Illustration of Licence Plate — Ottawa Senators",
+   "verdict": "plate:ottawa-senators"
+  },
+  "/files/2026-05/Professional_Engineers_of_Ontario%20_english_web_ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-05/Professional_Engineers_of_Ontario%20_english_web_ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — Professional Engineers of Ontario",
+   "verdict": "plate:professional-engineers-ontario"
+  },
+  "/files/2026-05/Queen%27s_University_english_web_ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-05/Queen%27s_University_english_web_ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — Queen’s University",
+   "verdict": "plate:queen-s-university"
+  },
+  "/files/2026-05/Raptors_de_Toronto_GOTEAM_english_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-05/Raptors_de_Toronto_GOTEAM_english_300dpi.png",
+   "alt": "Illustration of Licence Plate — Toronto Raptors",
+   "verdict": "plate:toronto-raptors"
+  },
+  "/files/2026-05/Road_Safety_english_web_ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-05/Road_Safety_english_web_ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — Road Safety",
+   "verdict": "plate:road-safety"
+  },
+  "/files/2026-05/Scouts%20of%20Canada_ENGLISH_web%20ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-05/Scouts%20of%20Canada_ENGLISH_web%20ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — Scouts of Canada",
+   "verdict": "plate:scouts-canada"
+  },
+  "/files/2026-05/Shriners_International_english_web%20ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-05/Shriners_International_english_web%20ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — Shriners International",
+   "verdict": "plate:shriners-international"
+  },
+  "/files/2026-05/Support_our_troops_english_web%20ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-05/Support_our_troops_english_web%20ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — Support our troops",
+   "verdict": "plate:support-our-troops"
+  },
+  "/files/2026-05/Tiger-Cats_GOTEAM_english_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-05/Tiger-Cats_GOTEAM_english_300dpi.png",
+   "alt": "Illustration of Licence Plate — Hamilton Tiger-Cats",
+   "verdict": "plate:hamilton-tiger-cats"
+  },
+  "/files/2026-05/Toronto_Scottish_Regiment_english_web_ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-05/Toronto_Scottish_Regiment_english_web_ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — Toronto Scottish Regiment",
+   "verdict": "plate:toronto-scottish-regiment"
+  },
+  "/files/2026-05/Trill_english_web_ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-05/Trill_english_web_ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — Trillium",
+   "verdict": "plate:trillium"
+  },
+  "/files/2026-05/United_Empire_Loyalist_english_web_ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-05/United_Empire_Loyalist_english_web_ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — United Empire Loyalist",
+   "verdict": "plate:united-empire-loyalists-association-of-c"
+  },
+  "/files/2026-05/University_of_Toronto_english_web_ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-05/University_of_Toronto_english_web_ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — University of Toronto",
+   "verdict": "plate:university-of-toronto"
+  },
+  "/files/2026-05/University_of_Waterloo_english_web_ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-05/University_of_Waterloo_english_web_ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — University of Waterloo",
+   "verdict": "plate:university-of-waterloo"
+  },
+  "/files/2026-05/Unlimited_ducks_english_web_ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-05/Unlimited_ducks_english_web_ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — Ducks Unlimited",
+   "verdict": "plate:ducks-unlimited"
+  },
+  "/files/2026-05/Veteran_MCL_web_ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-05/Veteran_MCL_web_ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — Veteran - Motorcycle",
+   "verdict": "not-for-cars"
+  },
+  "/files/2026-05/Veteran_english_web_ready_300dpi_1.png": {
+   "src": "https://ontario.ca/files/2026-05/Veteran_english_web_ready_300dpi_1.png",
+   "alt": "Illustration of Licence Plate — Veteran - Passenger",
+   "verdict": "plate:veteran-passenger"
+  },
+  "/files/2026-05/Wilfrid%20Laurier%20University_ENGLISH_web%20ready_300dpi%201.png": {
+   "src": "https://ontario.ca/files/2026-05/Wilfrid%20Laurier%20University_ENGLISH_web%20ready_300dpi%201.png",
+   "alt": "Illustration of Licence Plate — Wilfrid Laurier University",
+   "verdict": "plate:wilfrid-laurier-university"
+  },
+  "/files/2026-05/international_Taekwon-Do_english_web_ready_300dpi.png": {
+   "src": "https://ontario.ca/files/2026-05/international_Taekwon-Do_english_web_ready_300dpi.png",
+   "alt": "Illustration of Licence Plate — International Ch’ang-Hon Taekwon-Do Federation",
+   "verdict": "plate:international-ch-ang-hon-taekwon-do-fede"
+  }
+ },
+ "checked": "2026-10-26"
+}

@@ -1,0 +1,363 @@
+{
+ "code": "WI",
+ "url": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/special.aspx",
+ "complete": true,
+ "pictures": {
+  "/PublishingImages/dmv/shared/envelope.png": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/envelope.png",
+   "alt": "Envelope",
+   "verdict": "not-a-plate"
+  },
+  "/PublishingImages/dmv/shared/plates/BOP-Blackout-plate-800.png": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/BOP-Blackout-plate-800.png",
+   "alt": "Blackout plate",
+   "verdict": "plate:blackout"
+  },
+  "/PublishingImages/dmv/shared/plates/CRN-intl-crane-fdn-200.png": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/CRN-intl-crane-fdn-200.png",
+   "alt": "Wisconsin National Guard license plate.",
+   "verdict": "plate:international-crane-foundation"
+  },
+  "/PublishingImages/dmv/shared/plates/EMS-red-200px.png": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/EMS-red-200px.png",
+   "alt": "EMS plate red",
+   "verdict": "plate:emergency-medical-services-red-white"
+  },
+  "/PublishingImages/dmv/shared/plates/EMS-white-200px.png": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/EMS-white-200px.png",
+   "alt": "EMS plate white",
+   "verdict": "plate:emergency-medical-services-white"
+  },
+  "/PublishingImages/dmv/shared/plates/Golf-WI-redesign2022.png": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/Golf-WI-redesign2022.png",
+   "alt": "Golf Wisconsin license plate",
+   "verdict": "plate:golf-wisconsin"
+  },
+  "/PublishingImages/dmv/shared/plates/MilwBrewers-MBO_200-web.png": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/MilwBrewers-MBO_200-web.png",
+   "alt": "Milwaukee Brewers license plate",
+   "verdict": "plate:milwaukee-brewers-brew-crew"
+  },
+  "/PublishingImages/dmv/shared/plates/MilwBrewers_MBN_200-web.png": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/MilwBrewers_MBN_200-web.png",
+   "alt": "Milwaukee Brewers license plate",
+   "verdict": "plate:milwaukee-brewers"
+  },
+  "/PublishingImages/dmv/shared/plates/RYP-Retro-Yellow-plate-800.png": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/RYP-Retro-Yellow-plate-800.png",
+   "alt": "Blackout plate",
+   "verdict": "plate:retro-yellow"
+  },
+  "/PublishingImages/dmv/shared/plates/Road-america-plate-2021-version.png": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/Road-america-plate-2021-version.png",
+   "alt": "Civil Air Patrol license plate",
+   "verdict": "plate:civil-air-patrol"
+  },
+  "/PublishingImages/dmv/shared/plates/TRE.png": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/TRE.png",
+   "alt": "Wisconsin National Guard license plate.",
+   "verdict": "pending:WI-wisconsin-national-guard"
+  },
+  "/PublishingImages/dmv/shared/plates/UTLPlate2020.png": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/UTLPlate2020.png",
+   "alt": "Keeping the Lights On Plate",
+   "verdict": "plate:keeping-the-lights-on"
+  },
+  "/PublishingImages/dmv/shared/plates/Versiti-web-200.png": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/Versiti-web-200.png",
+   "alt": "Civil Air Patrol license plate",
+   "verdict": "plate:civil-air-patrol"
+  },
+  "/PublishingImages/dmv/shared/plates/amradio.gif": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/amradio.gif",
+   "alt": "Amateur radio license plate Current design issued in 2001",
+   "verdict": "plate:amateur-radio"
+  },
+  "/PublishingImages/dmv/shared/plates/antique.gif": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/antique.gif",
+   "alt": "Antique license plate.",
+   "verdict": "plate:antique"
+  },
+  "/PublishingImages/dmv/shared/plates/bsa-alumni-plate-200px.png": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/bsa-alumni-plate-200px.png",
+   "alt": "Scouts Alumni plate",
+   "verdict": "plate:scouting-alumni"
+  },
+  "/PublishingImages/dmv/shared/plates/bsa-eagle-plate-200px.png": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/bsa-eagle-plate-200px.png",
+   "alt": "Scouts Eagle plate",
+   "verdict": "plate:scouting-alumni-eagle-scout"
+  },
+  "/PublishingImages/dmv/shared/plates/bucks-200.png": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/bucks-200.png",
+   "alt": "Bucks plate",
+   "verdict": "plate:milwaukee-bucks"
+  },
+  "/PublishingImages/dmv/shared/plates/bucky200.gif": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/bucky200.gif",
+   "alt": "University of Wisconsin higher education license plate.",
+   "verdict": "plate:university-of-wisconsin-higher-education"
+  },
+  "/PublishingImages/dmv/shared/plates/ccc-plate-200px.png": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/ccc-plate-200px.png",
+   "alt": "CCC plate",
+   "verdict": "plate:cure-childhood-cancer"
+  },
+  "/PublishingImages/dmv/shared/plates/child.gif": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/child.gif",
+   "alt": "Celebrate children - Issued January 1999 through October 2010",
+   "verdict": "plate:celebrate-children-foundation-1999-2010"
+  },
+  "/PublishingImages/dmv/shared/plates/civilair.gif": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/civilair.gif",
+   "alt": "Civil Air Patrol license plate",
+   "verdict": "plate:civil-air-patrol"
+  },
+  "/PublishingImages/dmv/shared/plates/clw-plate-200px.png": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/clw-plate-200px.png",
+   "alt": "Choose life plate",
+   "verdict": "plate:choose-life-wisconsin-inc"
+  },
+  "/PublishingImages/dmv/shared/plates/collector.gif": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/collector.gif",
+   "alt": "Collector license plate",
+   "verdict": "plate:collector"
+  },
+  "/PublishingImages/dmv/shared/plates/collspec.gif": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/collspec.gif",
+   "alt": "Collector special license plate.",
+   "verdict": "plate:collector-special"
+  },
+  "/PublishingImages/dmv/shared/plates/cyc-vet-current.jpg": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/cyc-vet-current.jpg",
+   "alt": "U.S. veteran motorcycle - Current design issued in 2003.",
+   "verdict": "pending:WI-current-design-issued-in-2003"
+  },
+  "/PublishingImages/dmv/shared/plates/cycvet-org.gif": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/cycvet-org.gif",
+   "alt": "U.S. veteran motorcycle - Issued in 2002 through 2003.",
+   "verdict": "pending:WI-issued-in-2002-through-2003"
+  },
+  "/PublishingImages/dmv/shared/plates/dis-vet-09.gif": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/dis-vet-09.gif",
+   "alt": "Disabled veteran license plate.",
+   "verdict": "plate:disabled-veteran"
+  },
+  "/PublishingImages/dmv/shared/plates/displate.gif": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/displate.gif",
+   "alt": "Disabled license plate",
+   "verdict": "plate:disabled"
+  },
+  "/PublishingImages/dmv/shared/plates/donatelifeplate.jpg": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/donatelifeplate.jpg",
+   "alt": "Donate Life Wisconsin license plate.",
+   "verdict": "plate:donate-life-wisconsin"
+  },
+  "/PublishingImages/dmv/shared/plates/ducks.gif": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/ducks.gif",
+   "alt": "Ducks Unlimited license plate.",
+   "verdict": "plate:ducks-unlimited"
+  },
+  "/PublishingImages/dmv/shared/plates/eagle-200.png": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/eagle-200.png",
+   "alt": "Eagle plate",
+   "verdict": "pending:WI-eagle"
+  },
+  "/PublishingImages/dmv/shared/plates/elk-plate-200px.png": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/elk-plate-200px.png",
+   "alt": "Elk plate",
+   "verdict": "plate:rocky-mountain-elk-foundation"
+  },
+  "/PublishingImages/dmv/shared/plates/eng-plate-2020.png": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/eng-plate-2020.png",
+   "alt": "Operating Engineers Local 139 Plate",
+   "verdict": "plate:operating-engineers-local-139"
+  },
+  "/PublishingImages/dmv/shared/plates/firefighter.gif": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/firefighter.gif",
+   "alt": "Firefighter license plate - Current design issued in 2007",
+   "verdict": "plate:firefighter-white"
+  },
+  "/PublishingImages/dmv/shared/plates/freemason.gif": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/freemason.gif",
+   "alt": "Freemason license plate.",
+   "verdict": "plate:freemason"
+  },
+  "/PublishingImages/dmv/shared/plates/god-we-trust.jpg": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/god-we-trust.jpg",
+   "alt": "In God We Trust license plate.",
+   "verdict": "plate:in-god-we-trust"
+  },
+  "/PublishingImages/dmv/shared/plates/goldstar.gif": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/goldstar.gif",
+   "alt": "Gold Star Family license plate.",
+   "verdict": "plate:gold-star-family"
+  },
+  "/PublishingImages/dmv/shared/plates/golf-wI-redesign2025.png": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/golf-wI-redesign2025.png",
+   "alt": "Golf Wisconsin license plate",
+   "verdict": "plate:golf-wisconsin"
+  },
+  "/PublishingImages/dmv/shared/plates/golf-wi.gif": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/golf-wi.gif",
+   "alt": "Golf Wisconsin license plate",
+   "verdict": "plate:golf-wisconsin"
+  },
+  "/PublishingImages/dmv/shared/plates/hobbyist.gif": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/hobbyist.gif",
+   "alt": "Hobbyist license plate.",
+   "verdict": "plate:hobbyist"
+  },
+  "/PublishingImages/dmv/shared/plates/ice-age-trail200.png": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/ice-age-trail200.png",
+   "alt": "Civil Air Patrol license plate",
+   "verdict": "plate:civil-air-patrol"
+  },
+  "/PublishingImages/dmv/shared/plates/laoplate.gif": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/laoplate.gif",
+   "alt": "Lao Veterans of America license plate.",
+   "verdict": "plate:lao-veterans-of-america"
+  },
+  "/PublishingImages/dmv/shared/plates/lem-200.png": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/lem-200.png",
+   "alt": "LEM plate",
+   "verdict": "plate:law-enforcement-memorial"
+  },
+  "/PublishingImages/dmv/shared/plates/lions-plate-200px.gif": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/lions-plate-200px.gif",
+   "alt": "Lions Foundation license plate.",
+   "verdict": "plate:lions-foundation"
+  },
+  "/PublishingImages/dmv/shared/plates/medal-honor09.jpg": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/medal-honor09.jpg",
+   "alt": "Medal of Honor license plate.",
+   "verdict": "plate:medal-of-honor"
+  },
+  "/PublishingImages/dmv/shared/plates/military-4408.gif": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/military-4408.gif",
+   "alt": "Military - U.S. Naval Academy",
+   "verdict": "plate:military-red-white-blue"
+  },
+  "/PublishingImages/dmv/shared/plates/military5.gif": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/military5.gif",
+   "alt": "Military - Marine Corps Veteran.",
+   "verdict": "plate:military-white"
+  },
+  "/PublishingImages/dmv/shared/plates/musky-200.jpg": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/musky-200.jpg",
+   "alt": "Wisconsin National Guard license plate.",
+   "verdict": "plate:wisconsin-national-guard"
+  },
+  "/PublishingImages/dmv/shared/plates/ng.gif": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/ng.gif",
+   "alt": "Wisconsin National Guard license plate.",
+   "verdict": "plate:wisconsin-national-guard"
+  },
+  "/PublishingImages/dmv/shared/plates/nurse-plate-200px.png": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/nurse-plate-200px.png",
+   "alt": "Nurse plate",
+   "verdict": "plate:nurses-change-lives"
+  },
+  "/PublishingImages/dmv/shared/plates/packer.gif": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/packer.gif",
+   "alt": "Green Bay Packers license plate.",
+   "verdict": "plate:green-bay-packers"
+  },
+  "/PublishingImages/dmv/shared/plates/plate-children-200.gif": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/plate-children-200.gif",
+   "alt": "Celebrate children. Current design issued in October 2010",
+   "verdict": "plate:celebrate-children-foundation-2010-2016"
+  },
+  "/PublishingImages/dmv/shared/plates/plate-children-2015-200.png": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/plate-children-2015-200.png",
+   "alt": "Children plate",
+   "verdict": "plate:celebrate-children-foundation-current"
+  },
+  "/PublishingImages/dmv/shared/plates/plate-firefighter.gif": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/plate-firefighter.gif",
+   "alt": "Firefighter license plate - Current design issued in 2011",
+   "verdict": "plate:firefighter-red"
+  },
+  "/PublishingImages/dmv/shared/plates/plate-harley-200.gif": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/plate-harley-200.gif",
+   "alt": "Harley-Davidson/Share the road license plate.",
+   "verdict": "plate:harley-davidson-share-the-road"
+  },
+  "/PublishingImages/dmv/shared/plates/plate-hist-military-200px.gif": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/plate-hist-military-200px.gif",
+   "alt": "Historic military vehicle license plate.",
+   "verdict": "plate:historic-military"
+  },
+  "/PublishingImages/dmv/shared/plates/plate-marquette-200px.gif": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/plate-marquette-200px.gif",
+   "alt": "Marquette University license plate.",
+   "verdict": "plate:marquette-university"
+  },
+  "/PublishingImages/dmv/shared/plates/plate-wolf-200.jpg": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/plate-wolf-200.jpg",
+   "alt": "Endangered resources license plate - Wolf design reissued in 2007",
+   "verdict": "plate:endangered-resources-wolf"
+  },
+  "/PublishingImages/dmv/shared/plates/pow.gif": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/pow.gif",
+   "alt": "Ex-prisoner of war license plate.",
+   "verdict": "plate:ex-prisoner-of-war"
+  },
+  "/PublishingImages/dmv/shared/plates/rescuesquadmember.gif": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/rescuesquadmember.gif",
+   "alt": "Rescue squad member license plate.",
+   "verdict": "plate:rescue-squad-member"
+  },
+  "/PublishingImages/dmv/shared/plates/road-america-plate-200.png": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/road-america-plate-200.png",
+   "alt": "Civil Air Patrol license plate",
+   "verdict": "plate:civil-air-patrol"
+  },
+  "/PublishingImages/dmv/shared/plates/salutes-vets.gif": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/salutes-vets.gif",
+   "alt": "Wisconsin salutes veterans license plate.",
+   "verdict": "plate:wisconsin-salutes-veterans"
+  },
+  "/PublishingImages/dmv/shared/plates/spec-design.gif": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/spec-design.gif",
+   "alt": "Special designed vehicle - Designed issued 1992 through 2003.",
+   "verdict": "pending:WI-designed-issued-1992-through-2003"
+  },
+  "/PublishingImages/dmv/shared/plates/trout.jpg": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/trout.jpg",
+   "alt": "Trout Unlimited license plate.",
+   "verdict": "plate:trout-unlimited"
+  },
+  "/PublishingImages/dmv/shared/plates/whitetails-plate-200px.png": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/whitetails-plate-200px.png",
+   "alt": "Whitetails plate",
+   "verdict": "plate:whitetails-unlimited"
+  },
+  "/PublishingImages/dmv/shared/plates/wwhf.gif": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/wwhf.gif",
+   "alt": "Wisconsin Women's  Health Foundation license plate.",
+   "verdict": "plate:wisconsin-women-s-health-foundation"
+  },
+  "/PublishingImages/dmv/vehicles/title-plates/afsp-plt.png": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/vehicles/title-plates/afsp-plt.png",
+   "alt": "American Foundation for Suicide Prevention plate",
+   "verdict": "plate:american-foundation-for-suicide-preventi"
+  },
+  "/PublishingImages/dmv/vehicles/title-plates/mcw-plate-200px.jpg": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/vehicles/title-plates/mcw-plate-200px.jpg",
+   "alt": "Wisconsin National Guard license plate.",
+   "verdict": "plate:wisconsin-national-guard"
+  },
+  "/PublishingImages/dmv/vehicles/title-plates/sna-plt.png": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/vehicles/title-plates/sna-plt.png",
+   "alt": "Civil Air Patrol license plate",
+   "verdict": "plate:spay-neuter-adopt"
+  },
+  "/_catalogs/masterpage/SharePointNext/images/DOT.png": {
+   "src": "https://wisconsindot.gov/_catalogs/masterpage/SharePointNext/images/DOT.png",
+   "alt": "Agency Logo",
+   "verdict": "not-a-plate"
+  }
+ },
+ "checked": "2026-10-26"
+}

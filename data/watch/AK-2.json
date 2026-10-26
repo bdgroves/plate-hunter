@@ -1,0 +1,243 @@
+{
+ "code": "AK-2",
+ "url": "https://dmv.alaska.gov/vehicle-services/license-plates/",
+ "complete": true,
+ "pictures": {
+  "/media/0b1fa4em/knightsofcolumbus.png": {
+   "src": "https://dmv.alaska.gov/media/0b1fa4em/knightsofcolumbus.png",
+   "alt": "Artistic Plate",
+   "verdict": "plate:knights-of-columbus"
+  },
+  "/media/0l4i2shl/navy.png": {
+   "src": "https://dmv.alaska.gov/media/0l4i2shl/navy.png",
+   "alt": "Artistic Plate",
+   "verdict": "plate:navy"
+  },
+  "/media/1hsp5wur/caribou.png": {
+   "src": "https://dmv.alaska.gov/media/1hsp5wur/caribou.png",
+   "alt": "Grizzly Bear",
+   "verdict": "plate:caribou"
+  },
+  "/media/2d1jmdax/support.png": {
+   "src": "https://dmv.alaska.gov/media/2d1jmdax/support.png",
+   "alt": "Artistic Plate",
+   "verdict": "plate:support-our-troops"
+  },
+  "/media/45jnyt0l/pws.png": {
+   "src": "https://dmv.alaska.gov/media/45jnyt0l/pws.png",
+   "alt": "Artistic Plate",
+   "verdict": "plate:pws"
+  },
+  "/media/5cxnurjj/ak-in-god-we-trust.png": {
+   "src": "https://dmv.alaska.gov/media/5cxnurjj/ak-in-god-we-trust.png",
+   "alt": "Artistic Plate",
+   "verdict": "plate:in-god-we-trust"
+  },
+  "/media/5mbcquee/purple_heart.png": {
+   "src": "https://dmv.alaska.gov/media/5mbcquee/purple_heart.png",
+   "alt": "Artistic Plate",
+   "verdict": "plate:purple-heart"
+  },
+  "/media/a0gl1y4f/fireweed.png": {
+   "src": "https://dmv.alaska.gov/media/a0gl1y4f/fireweed.png",
+   "alt": "Artistic Plate",
+   "verdict": "pending:AK-artistic"
+  },
+  "/media/av3ccmcf/goldstar.png": {
+   "src": "https://dmv.alaska.gov/media/av3ccmcf/goldstar.png",
+   "alt": "Goldstar",
+   "verdict": "plate:gold-star-family"
+  },
+  "/media/av3ov1rq/pioneers-of-alaska-plate.png": {
+   "src": "https://dmv.alaska.gov/media/av3ov1rq/pioneers-of-alaska-plate.png",
+   "alt": "Artistic Plate",
+   "verdict": "pending:AK-artistic-x-x-x-x-x"
+  },
+  "/media/bl2g0jvk/uaf.png": {
+   "src": "https://dmv.alaska.gov/media/bl2g0jvk/uaf.png",
+   "alt": "Artistic Plate",
+   "verdict": "plate:uaf"
+  },
+  "/media/bofoueji/marine.png": {
+   "src": "https://dmv.alaska.gov/media/bofoueji/marine.png",
+   "alt": "Artistic Plate",
+   "verdict": "plate:marines"
+  },
+  "/media/d2hpglw2/laosvet.png": {
+   "src": "https://dmv.alaska.gov/media/d2hpglw2/laosvet.png",
+   "alt": "Artistic Plate",
+   "verdict": "plate:laos-vet"
+  },
+  "/media/dcfjpm3v/coast-guard.png": {
+   "src": "https://dmv.alaska.gov/media/dcfjpm3v/coast-guard.png",
+   "alt": "Artistic Plate",
+   "verdict": "plate:coast-guard"
+  },
+  "/media/dyoolhuv/collector.png": {
+   "src": "https://dmv.alaska.gov/media/dyoolhuv/collector.png",
+   "alt": "Artistic Plate",
+   "verdict": "plate:custom-collector"
+  },
+  "/media/edgdi4hf/pearl-harbor-survivor.png": {
+   "src": "https://dmv.alaska.gov/media/edgdi4hf/pearl-harbor-survivor.png",
+   "alt": "Artistic Plate",
+   "verdict": "plate:pearl-harbor-survivor"
+  },
+  "/media/fnxlvgie/iditarod.png": {
+   "src": "https://dmv.alaska.gov/media/fnxlvgie/iditarod.png",
+   "alt": "Artistic Plate",
+   "verdict": "plate:iditarod-finisher"
+  },
+  "/media/i24del1j/grizzly-bear.png": {
+   "src": "https://dmv.alaska.gov/media/i24del1j/grizzly-bear.png",
+   "alt": "Grizzly Bear",
+   "verdict": "plate:grizzly-bear"
+  },
+  "/media/iren1wex/pow.png": {
+   "src": "https://dmv.alaska.gov/media/iren1wex/pow.png",
+   "alt": "Artistic Plate",
+   "verdict": "plate:former-prisoner-of-war"
+  },
+  "/media/jauloerq/farm.png": {
+   "src": "https://dmv.alaska.gov/media/jauloerq/farm.png",
+   "alt": "Artistic Plate",
+   "verdict": "plate:farm"
+  },
+  "/media/krzfzwxj/choose-life.png": {
+   "src": "https://dmv.alaska.gov/media/krzfzwxj/choose-life.png",
+   "alt": "Artistic Plate",
+   "verdict": "plate:choose-life"
+  },
+  "/media/l2rlef5w/army.png": {
+   "src": "https://dmv.alaska.gov/media/l2rlef5w/army.png",
+   "alt": "Artistic Plate",
+   "verdict": "plate:army"
+  },
+  "/media/lu0gkl4c/mountain.png": {
+   "src": "https://dmv.alaska.gov/media/lu0gkl4c/mountain.png",
+   "alt": "Blue N Gold",
+   "verdict": "plate:mountain"
+  },
+  "/media/n45pdhfw/guard-plate.png": {
+   "src": "https://dmv.alaska.gov/media/n45pdhfw/guard-plate.png",
+   "alt": "Artistic Plate",
+   "verdict": "plate:alaska-national-guard"
+  },
+  "/media/nk2myuer/fallen-officer-large-plate.png": {
+   "src": "https://dmv.alaska.gov/media/nk2myuer/fallen-officer-large-plate.png",
+   "alt": "Artistic Plate",
+   "verdict": "plate:honoring-fallen-police-officers"
+  },
+  "/media/nquhmeds/historic_vehicle.png": {
+   "src": "https://dmv.alaska.gov/media/nquhmeds/historic_vehicle.png",
+   "alt": "Artistic Plate",
+   "verdict": "plate:historic"
+  },
+  "/media/o1vlp3d3/plate-disabled-veteran-parking.png": {
+   "src": "https://dmv.alaska.gov/media/o1vlp3d3/plate-disabled-veteran-parking.png",
+   "alt": "Artistic Plate",
+   "verdict": "plate:disabled-veteran-w-parking-privileges"
+  },
+  "/media/qmblf5oz/uaa-se2025.jpg": {
+   "src": "https://dmv.alaska.gov/media/qmblf5oz/uaa-se2025.jpg",
+   "alt": "Artistic Plate",
+   "verdict": "pending:AK-artistic-x-x"
+  },
+  "/media/qrwlvo22/fire.png": {
+   "src": "https://dmv.alaska.gov/media/qrwlvo22/fire.png",
+   "alt": "Artistic Plate",
+   "verdict": "plate:firefighter-ems"
+  },
+  "/media/qxppp5mp/11th-airborne-license-plate.jpg": {
+   "src": "https://dmv.alaska.gov/media/qxppp5mp/11th-airborne-license-plate.jpg",
+   "alt": "Artistic Plate",
+   "verdict": "pending:AK-artistic-x-x-x"
+  },
+  "/media/rj0bnnha/iaff.png": {
+   "src": "https://dmv.alaska.gov/media/rj0bnnha/iaff.png",
+   "alt": "Artistic Plate",
+   "verdict": "plate:international-association-of-fire-fighte"
+  },
+  "/media/rxqiti0p/uaa.png": {
+   "src": "https://dmv.alaska.gov/media/rxqiti0p/uaa.png",
+   "alt": "Artistic Plate",
+   "verdict": "plate:uaa"
+  },
+  "/media/sdrh4cot/blood-bank-plate-final.png": {
+   "src": "https://dmv.alaska.gov/media/sdrh4cot/blood-bank-plate-final.png",
+   "alt": "Artistic Plate",
+   "verdict": "plate:blood-bank-of-alaska"
+  },
+  "/media/ueafjour/blue-n-gold-1.png": {
+   "src": "https://dmv.alaska.gov/media/ueafjour/blue-n-gold-1.png",
+   "alt": "Artistic Plate",
+   "verdict": "plate:amateur-radio-call-sign"
+  },
+  "/media/ugzo1vnh/freemason.png": {
+   "src": "https://dmv.alaska.gov/media/ugzo1vnh/freemason.png",
+   "alt": "Artistic Plate",
+   "verdict": "plate:freemason"
+  },
+  "/media/uk0goygn/goldstar2.png": {
+   "src": "https://dmv.alaska.gov/media/uk0goygn/goldstar2.png",
+   "alt": "Goldstar2",
+   "verdict": "plate:gold-star-family"
+  },
+  "/media/vciof5ca/nra-license-plate-lg.png": {
+   "src": "https://dmv.alaska.gov/media/vciof5ca/nra-license-plate-lg.png",
+   "alt": "Artistic Plate",
+   "verdict": "plate:national-rifle-association"
+  },
+  "/media/w1xavru1/veteran-commemorative.png": {
+   "src": "https://dmv.alaska.gov/media/w1xavru1/veteran-commemorative.png",
+   "alt": "Artistic Plate",
+   "verdict": "pending:AK-artistic-x-x-x-x"
+  },
+  "/media/wpgjz5nz/plate-disabled-veteran-parking-no.png": {
+   "src": "https://dmv.alaska.gov/media/wpgjz5nz/plate-disabled-veteran-parking-no.png",
+   "alt": "Artistic Plate",
+   "verdict": "plate:disabled-veteran-w-o-parking-privileges"
+  },
+  "/media/x40lbe3z/lions.png": {
+   "src": "https://dmv.alaska.gov/media/x40lbe3z/lions.png",
+   "alt": "Artistic Plate",
+   "verdict": "plate:lions-club"
+  },
+  "/media/xayfrqej/plate-disabled.png": {
+   "src": "https://dmv.alaska.gov/media/xayfrqej/plate-disabled.png",
+   "alt": "Artistic Plate",
+   "verdict": "plate:disabled-w-parking-privileges"
+  },
+  "/media/xpvlrjop/blue-n-gold.png": {
+   "src": "https://dmv.alaska.gov/media/xpvlrjop/blue-n-gold.png",
+   "alt": "Blue N Gold",
+   "verdict": "plate:amateur-radio-call-sign"
+  },
+  "/media/xvymq3sx/space-force-veteran.png": {
+   "src": "https://dmv.alaska.gov/media/xvymq3sx/space-force-veteran.png",
+   "alt": "Artistic Plate",
+   "verdict": "plate:space-force"
+  },
+  "/media/ysxlrhpf/breast-cancer.png": {
+   "src": "https://dmv.alaska.gov/media/ysxlrhpf/breast-cancer.png",
+   "alt": "Artistic Plate",
+   "verdict": "pending:AK-artistic-x"
+  },
+  "/media/ytebjcqg/kid.png": {
+   "src": "https://dmv.alaska.gov/media/ytebjcqg/kid.png",
+   "alt": "Artistic Plate",
+   "verdict": "plate:alaska-children-s-trust"
+  },
+  "/media/yu1agjpw/airforce.png": {
+   "src": "https://dmv.alaska.gov/media/yu1agjpw/airforce.png",
+   "alt": "Artistic Plate",
+   "verdict": "plate:air-force"
+  },
+  "/media/zxnnmadp/pro-family-pro-choice-plate.png": {
+   "src": "https://dmv.alaska.gov/media/zxnnmadp/pro-family-pro-choice-plate.png",
+   "alt": "Artistic Plate",
+   "verdict": "plate:pro-family-pro-choice"
+  }
+ },
+ "checked": "2026-10-26"
+}

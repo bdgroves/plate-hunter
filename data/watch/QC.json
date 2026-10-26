@@ -1,0 +1,213 @@
+{
+ "code": "QC",
+ "url": "https://saaq.gouv.qc.ca/en/vehicle-registration/temporary-licence-plate-categories",
+ "complete": true,
+ "pictures": {
+  "/blob/saaq/_processed_/4/f/csm_a-00000_verte_f0074b4254.png": {
+   "src": "https://saaq.gouv.qc.ca/blob/saaq/_processed_/4/f/csm_a-00000_verte_f0074b4254.png",
+   "alt": "Example of a green licence plate for an electric bus, bearing the number A00000",
+   "verdict": "not-a-plate"
+  },
+  "/blob/saaq/_processed_/5/d/csm_e00-vea_verte_329bdf29b1.png": {
+   "src": "https://saaq.gouv.qc.ca/blob/saaq/_processed_/5/d/csm_e00-vea_verte_329bdf29b1.png",
+   "alt": "Example of a green licence plate for an electric passenger vehicle, bearing the number E00 VEA",
+   "verdict": "not-a-plate"
+  },
+  "/blob/saaq/_processed_/9/3/csm_fve-000_verte_dc3bc5bb29.png": {
+   "src": "https://saaq.gouv.qc.ca/blob/saaq/_processed_/9/3/csm_fve-000_verte_dc3bc5bb29.png",
+   "alt": "Example of a green licence plate for an electric commercial vehicle with a net weight of 3,000 kg or less, bearing the number FVE0000",
+   "verdict": "not-a-plate"
+  },
+  "/blob/saaq/_processed_/9/f/csm_F000000_verte_ec12b5a7e7.png": {
+   "src": "https://saaq.gouv.qc.ca/blob/saaq/_processed_/9/f/csm_F000000_verte_ec12b5a7e7.png",
+   "alt": "Example of a green licence plate for an electric commercial or special use vehicle, bearing the number F000000",
+   "verdict": "not-a-plate"
+  },
+  "/blob/saaq/documents/images/immatriculation/000-abc.png": {
+   "src": "https://saaq.gouv.qc.ca/blob/saaq/documents/images/immatriculation/000-abc.png",
+   "alt": "Example of a licence plate without prefix for a passenger vehicle or a motor home, bearing number 000 ABC",
+   "verdict": "not-a-plate"
+  },
+  "/blob/saaq/documents/images/immatriculation/00001a.png": {
+   "src": "https://saaq.gouv.qc.ca/blob/saaq/documents/images/immatriculation/00001a.png",
+   "alt": "Example of a licence plate for a 2- or 3-wheel motorcycle, bearing the number 00001A",
+   "verdict": "not-a-plate"
+  },
+  "/blob/saaq/documents/images/immatriculation/0001ve-verte.png": {
+   "src": "https://saaq.gouv.qc.ca/blob/saaq/documents/images/immatriculation/0001ve-verte.png",
+   "alt": "Example of a green licence plate for an electric motorcycle, moped or scooter, bearing the number 0001VE",
+   "verdict": "not-a-plate"
+  },
+  "/blob/saaq/documents/images/immatriculation/000h000.png": {
+   "src": "https://saaq.gouv.qc.ca/blob/saaq/documents/images/immatriculation/000h000.png",
+   "alt": "Example of a licence plate without prefix for a passenger vehicle or a motor home, bearing number 000H000",
+   "verdict": "not-a-plate"
+  },
+  "/blob/saaq/documents/images/immatriculation/123-abc-veterans-verte.png": {
+   "src": "https://saaq.gouv.qc.ca/blob/saaq/documents/images/immatriculation/123-abc-veterans-verte.png",
+   "alt": "Example of a licence plate for a veteran’s electric vehicle. It has green lettering, bears number 123 ABC, and has the image of poppies, the faces of two soldiers and the word “vétérans”",
+   "verdict": "not-a-plate"
+  },
+  "/blob/saaq/documents/images/immatriculation/123-abc-veterans.png": {
+   "src": "https://saaq.gouv.qc.ca/blob/saaq/documents/images/immatriculation/123-abc-veterans.png",
+   "alt": "Example of a plate issued for a vehicle belonging to a veteran, bearing number 123 ABC and the image of poppies, the faces of two soldiers and the word “vétérans”",
+   "verdict": "not-a-plate"
+  },
+  "/blob/saaq/documents/images/immatriculation/12345-veterans-verte.png": {
+   "src": "https://saaq.gouv.qc.ca/blob/saaq/documents/images/immatriculation/12345-veterans-verte.png",
+   "alt": "Example of a plate issued for an electric motorcycle belonging to a veteran, bearing number 12345 with green lettering, and the image of poppies, the faces of two soldiers and the word “vétérans”",
+   "verdict": "not-a-plate"
+  },
+  "/blob/saaq/documents/images/immatriculation/12345-veterans.png": {
+   "src": "https://saaq.gouv.qc.ca/blob/saaq/documents/images/immatriculation/12345-veterans.png",
+   "alt": "Example of a plate issued for a motorcycle belonging to a veteran, bearing number 12345 and the image of poppies, the faces of two soldiers and the word “vétérans”",
+   "verdict": "not-a-plate"
+  },
+  "/blob/saaq/documents/images/immatriculation/VA2-AB.png": {
+   "src": "https://saaq.gouv.qc.ca/blob/saaq/documents/images/immatriculation/VA2-AB.png",
+   "alt": "Example of a licence plate for a ham radio operator's vehicle, bearing number VA2 AB",
+   "verdict": "not-a-plate"
+  },
+  "/blob/saaq/documents/images/immatriculation/VA2-ABC.png": {
+   "src": "https://saaq.gouv.qc.ca/blob/saaq/documents/images/immatriculation/VA2-ABC.png",
+   "alt": "Example of a licence plate for a ham radio operator's vehicle, bearing number VA2 ABC",
+   "verdict": "not-a-plate"
+  },
+  "/blob/saaq/documents/images/immatriculation/VE2-AB.png": {
+   "src": "https://saaq.gouv.qc.ca/blob/saaq/documents/images/immatriculation/VE2-AB.png",
+   "alt": "Example of a licence plate for a ham radio operator's vehicle, bearing number VE2 AB",
+   "verdict": "not-a-plate"
+  },
+  "/blob/saaq/documents/images/immatriculation/VE2-ABC.png": {
+   "src": "https://saaq.gouv.qc.ca/blob/saaq/documents/images/immatriculation/VE2-ABC.png",
+   "alt": "Example of a licence plate for a ham radio operator's vehicle, bearing number VE2 ABC",
+   "verdict": "not-a-plate"
+  },
+  "/blob/saaq/documents/images/immatriculation/a-00000.png": {
+   "src": "https://saaq.gouv.qc.ca/blob/saaq/documents/images/immatriculation/a-00000.png",
+   "alt": "Example of a licence plate for a private or public bus or minibus, or a bus or minibus used to transport school children, bearing number A00000",
+   "verdict": "not-a-plate"
+  },
+  "/blob/saaq/documents/images/immatriculation/a00-abc.png": {
+   "src": "https://saaq.gouv.qc.ca/blob/saaq/documents/images/immatriculation/a00-abc.png",
+   "alt": "Example of a licence plate without prefix for a passenger vehicle or a motor home, bearing number A00 ABC",
+   "verdict": "not-a-plate"
+  },
+  "/blob/saaq/documents/images/immatriculation/abc-000.png": {
+   "src": "https://saaq.gouv.qc.ca/blob/saaq/documents/images/immatriculation/abc-000.png",
+   "alt": "Example of a licence plate without prefix for a passenger vehicle or a motor home, bearing number ABC 000",
+   "verdict": "not-a-plate"
+  },
+  "/blob/saaq/documents/images/immatriculation/ae-00000.png": {
+   "src": "https://saaq.gouv.qc.ca/blob/saaq/documents/images/immatriculation/ae-00000.png",
+   "alt": "Example of a licence plate for a private or public bus or minibus, or a bus or minibus used to transport school children, bearing number AE00000",
+   "verdict": "not-a-plate"
+  },
+  "/blob/saaq/documents/images/immatriculation/ap-00000.png": {
+   "src": "https://saaq.gouv.qc.ca/blob/saaq/documents/images/immatriculation/ap-00000.png",
+   "alt": "Example of a licence plate for a private or public bus or minibus, or a bus or minibus used to transport school children, bearing number AP00000",
+   "verdict": "not-a-plate"
+  },
+  "/blob/saaq/documents/images/immatriculation/au-00000.png": {
+   "src": "https://saaq.gouv.qc.ca/blob/saaq/documents/images/immatriculation/au-00000.png",
+   "alt": "Example of a licence plate for a private or public bus or minibus, or a bus or minibus used to transport school children, bearing number AU00000",
+   "verdict": "not-a-plate"
+  },
+  "/blob/saaq/documents/images/immatriculation/c-00000.png": {
+   "src": "https://saaq.gouv.qc.ca/blob/saaq/documents/images/immatriculation/c-00000.png",
+   "alt": "Example of a licence plate for a tractor, bearing the number C000000",
+   "verdict": "not-a-plate"
+  },
+  "/blob/saaq/documents/images/immatriculation/c0001ve-verte.png": {
+   "src": "https://saaq.gouv.qc.ca/blob/saaq/documents/images/immatriculation/c0001ve-verte.png",
+   "alt": "Example of a green licence plate for an electric road vehicle with restricted-area use, bearing the number C0001VE",
+   "verdict": "not-a-plate"
+  },
+  "/blob/saaq/documents/images/immatriculation/cc-0000.png": {
+   "src": "https://saaq.gouv.qc.ca/blob/saaq/documents/images/immatriculation/cc-0000.png",
+   "alt": "Example of a licence plate with a prefix for a passenger vehicle used by members of a consular corps or a foreign delegation, bearing the number CC 0000",
+   "verdict": "not-a-plate"
+  },
+  "/blob/saaq/documents/images/immatriculation/cc-01ve-verte.png": {
+   "src": "https://saaq.gouv.qc.ca/blob/saaq/documents/images/immatriculation/cc-01ve-verte.png",
+   "alt": "Example of a green licence plate for an electric passenger vehicle used by members of a consular corps or a foreign delegation, bearing the number CC 01VE",
+   "verdict": "not-a-plate"
+  },
+  "/blob/saaq/documents/images/immatriculation/cd-0000.png": {
+   "src": "https://saaq.gouv.qc.ca/blob/saaq/documents/images/immatriculation/cd-0000.png",
+   "alt": "Example of a licence plate with a prefix for a passenger vehicle used by members of a diplomatic corps or the International Civil Aviation Organization, bearing the number CD 0000",
+   "verdict": "not-a-plate"
+  },
+  "/blob/saaq/documents/images/immatriculation/cd-01ve-verte.png": {
+   "src": "https://saaq.gouv.qc.ca/blob/saaq/documents/images/immatriculation/cd-01ve-verte.png",
+   "alt": "Example of a green licence plate for an electric passenger vehicle used by members of a diplomatic corps or the International Civil Aviation Organization, bearing the number CD 01VE",
+   "verdict": "not-a-plate"
+  },
+  "/blob/saaq/documents/images/immatriculation/faa0000.png": {
+   "src": "https://saaq.gouv.qc.ca/blob/saaq/documents/images/immatriculation/faa0000.png",
+   "alt": "Example of a licence plate for a pickup truck or minivan owned by a farmer who uses it in the operation of the farm, bearing the number FAA0000",
+   "verdict": "not-a-plate"
+  },
+  "/blob/saaq/documents/images/immatriculation/l-00000.png": {
+   "src": "https://saaq.gouv.qc.ca/blob/saaq/documents/images/immatriculation/l-00000.png",
+   "alt": "Example of a lience plate for a truck or a farm motor vehicle, bearing number L000000",
+   "verdict": "not-a-plate"
+  },
+  "/blob/saaq/documents/images/immatriculation/l0001ve-verte.png": {
+   "src": "https://saaq.gouv.qc.ca/blob/saaq/documents/images/immatriculation/l0001ve-verte.png",
+   "alt": "Example of a green licence plate for an electric truck, combination of road vehicles or farm vehicle weighing more than 3,000 kg, bearing the number L0001VE",
+   "verdict": "not-a-plate"
+  },
+  "/blob/saaq/documents/images/immatriculation/plaque-perso-verte.png": {
+   "src": "https://saaq.gouv.qc.ca/blob/saaq/documents/images/immatriculation/plaque-perso-verte.png",
+   "alt": "Example of a green personalized licence plate without a prefix for an electric passenger vehicle, bearing the character combination SAAQ",
+   "verdict": "not-a-plate"
+  },
+  "/blob/saaq/documents/images/immatriculation/plaque-perso.png": {
+   "src": "https://saaq.gouv.qc.ca/blob/saaq/documents/images/immatriculation/plaque-perso.png",
+   "alt": "Example of a personalized licence plate without a prefix for a passenger vehicle or motor home, bearing the character combination SAAQ",
+   "verdict": "not-a-plate"
+  },
+  "/blob/saaq/documents/images/immatriculation/ra0000a.png": {
+   "src": "https://saaq.gouv.qc.ca/blob/saaq/documents/images/immatriculation/ra0000a.png",
+   "alt": "Example of a licence plate for a farm trailer, bearing the number RA0000A",
+   "verdict": "not-a-plate"
+  },
+  "/blob/saaq/documents/images/immatriculation/v00000a.png": {
+   "src": "https://saaq.gouv.qc.ca/blob/saaq/documents/images/immatriculation/v00000a.png",
+   "alt": "Example of a licence plate for an off-road vehicle, bearing the number V00000A",
+   "verdict": "not-a-plate"
+  },
+  "/blob/saaq/documents/images/immatriculation/v0001ve-verte.png": {
+   "src": "https://saaq.gouv.qc.ca/blob/saaq/documents/images/immatriculation/v0001ve-verte.png",
+   "alt": "Example of a green licence plate for an electric off-road vehicle, bearing the number V0001VE",
+   "verdict": "not-a-plate"
+  },
+  "/blob/saaq/documents/images/immatriculation/ve2-ab-verte.png": {
+   "src": "https://saaq.gouv.qc.ca/blob/saaq/documents/images/immatriculation/ve2-ab-verte.png",
+   "alt": "Ve2 ab verte",
+   "verdict": "not-a-plate"
+  },
+  "/blob/saaq/documents/images/immatriculation/ve2-abc-verte.png": {
+   "src": "https://saaq.gouv.qc.ca/blob/saaq/documents/images/immatriculation/ve2-abc-verte.png",
+   "alt": "VE2 ABC verte",
+   "verdict": "not-a-plate"
+  },
+  "/blob/saaq/documents/images/immatriculation/x-000000.png": {
+   "src": "https://saaq.gouv.qc.ca/blob/saaq/documents/images/immatriculation/x-000000.png",
+   "alt": "Example of a dealer plate (X licence plate), bearing number X000000",
+   "verdict": "not-a-plate"
+  },
+  "/blob/saaq/documents/images/immatriculation/xa-0000.png": {
+   "src": "https://saaq.gouv.qc.ca/blob/saaq/documents/images/immatriculation/xa-0000.png",
+   "alt": "Example of a dealer plate (X licence plate), bearing number XA0000",
+   "verdict": "not-a-plate"
+  },
+  "/blob/saaq/documents/images/immatriculation/xa-00000.png": {
+   "src": "https://saaq.gouv.qc.ca/blob/saaq/documents/images/immatriculation/xa-00000.png",
+   "alt": "Example of a dealer plate (X licence plate), bearing number XA00000",
+   "verdict": "not-a-plate"
+  }
+ },
+ "checked": "2026-10-26"
+}

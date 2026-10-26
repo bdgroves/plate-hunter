@@ -1,0 +1,83 @@
+{
+ "code": "MB",
+ "url": "https://www.mpi.mb.ca/specialty-plates-non-member/",
+ "complete": true,
+ "pictures": {
+  "/wp-content/uploads/2022/10/jets-heritage-plates.jpg": {
+   "src": "https://www.mpi.mb.ca/wp-content/uploads/2022/10/jets-heritage-plates.jpg",
+   "alt": "",
+   "verdict": "plate:winnipeg-jets-heritage"
+  },
+  "/wp-content/uploads/2022/10/licence-plate-humanesociety.png": {
+   "src": "https://www.mpi.mb.ca/wp-content/uploads/2022/10/licence-plate-humanesociety.png",
+   "alt": "",
+   "verdict": "plate:winnipeg-humane-society"
+  },
+  "/wp-content/uploads/2022/10/plate-basketball-manitoba.png": {
+   "src": "https://www.mpi.mb.ca/wp-content/uploads/2022/10/plate-basketball-manitoba.png",
+   "alt": "",
+   "verdict": "plate:basketball-manitoba"
+  },
+  "/wp-content/uploads/2022/10/plate-brandon-wheat-kings.png": {
+   "src": "https://www.mpi.mb.ca/wp-content/uploads/2022/10/plate-brandon-wheat-kings.png",
+   "alt": "",
+   "verdict": "plate:brandon-wheat-kings"
+  },
+  "/wp-content/uploads/2022/10/plate-curl-manitoba.png": {
+   "src": "https://www.mpi.mb.ca/wp-content/uploads/2022/10/plate-curl-manitoba.png",
+   "alt": "",
+   "verdict": "plate:curl-manitoba"
+  },
+  "/wp-content/uploads/2022/10/plate-fish-futures.png": {
+   "src": "https://www.mpi.mb.ca/wp-content/uploads/2022/10/plate-fish-futures.png",
+   "alt": "",
+   "verdict": "pending:MB-fish-futures"
+  },
+  "/wp-content/uploads/2022/10/plate-goldeyes.png": {
+   "src": "https://www.mpi.mb.ca/wp-content/uploads/2022/10/plate-goldeyes.png",
+   "alt": "",
+   "verdict": "plate:winnipeg-goldeyes"
+  },
+  "/wp-content/uploads/2022/10/plate-snoman.png": {
+   "src": "https://www.mpi.mb.ca/wp-content/uploads/2022/10/plate-snoman.png",
+   "alt": "",
+   "verdict": "plate:snoman"
+  },
+  "/wp-content/uploads/2022/10/plate-support-our-troops.png": {
+   "src": "https://www.mpi.mb.ca/wp-content/uploads/2022/10/plate-support-our-troops.png",
+   "alt": "",
+   "verdict": "plate:support-our-troops"
+  },
+  "/wp-content/uploads/2022/10/plate-uw.png": {
+   "src": "https://www.mpi.mb.ca/wp-content/uploads/2022/10/plate-uw.png",
+   "alt": "",
+   "verdict": "plate:university-of-winnipeg"
+  },
+  "/wp-content/uploads/2022/12/20-070-1938-Madoxs_Warriors_v5-1024x512.jpg": {
+   "src": "https://www.mpi.mb.ca/wp-content/uploads/2022/12/20-070-1938-Madoxs_Warriors_v5-1024x512.jpg",
+   "alt": "",
+   "verdict": "plate:madox-s-warriors"
+  },
+  "/wp-content/uploads/2022/12/Winnipeg-Blue-Bombers-Grey-Cup-plate-1024x516.jpg": {
+   "src": "https://www.mpi.mb.ca/wp-content/uploads/2022/12/Winnipeg-Blue-Bombers-Grey-Cup-plate-1024x516.jpg",
+   "alt": "",
+   "verdict": "plate:winnipeg-blue-bombers"
+  },
+  "/wp-content/uploads/2022/12/plate-winnipeg-jets.png": {
+   "src": "https://www.mpi.mb.ca/wp-content/uploads/2022/12/plate-winnipeg-jets.png",
+   "alt": "",
+   "verdict": "plate:winnipeg-jets"
+  },
+  "/wp-content/uploads/MMIWG-twoplates.jpg": {
+   "src": "https://www.mpi.mb.ca/wp-content/uploads/MMIWG-twoplates.jpg",
+   "alt": "",
+   "verdict": "not-a-plate"
+  },
+  "/wp-content/uploads/RideforDadPlateWEB-1024x534.png": {
+   "src": "https://www.mpi.mb.ca/wp-content/uploads/RideforDadPlateWEB-1024x534.png",
+   "alt": "",
+   "verdict": "plate:ride-for-dad"
+  }
+ },
+ "checked": "2026-10-26"
+}

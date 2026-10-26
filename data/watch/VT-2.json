@@ -1,0 +1,103 @@
+{
+ "code": "VT-2",
+ "url": "https://dmv.vermont.gov/node/212",
+ "complete": true,
+ "pictures": {
+  "/sites/dmv/files/images/Afghanistan_web.jpg": {
+   "src": "https://dmv.vermont.gov/sites/dmv/files/images/Afghanistan_web.jpg",
+   "alt": "",
+   "verdict": "pending:VT-required-forms-x"
+  },
+  "/sites/dmv/files/images/Gold.png": {
+   "src": "https://dmv.vermont.gov/sites/dmv/files/images/Gold.png",
+   "alt": "",
+   "verdict": "plate:gold-star-family"
+  },
+  "/sites/dmv/files/images/Gulf%20War_web.jpg": {
+   "src": "https://dmv.vermont.gov/sites/dmv/files/images/Gulf%20War_web.jpg",
+   "alt": "",
+   "verdict": "pending:VT-required-forms-x-x"
+  },
+  "/sites/dmv/files/images/Iraq_web.jpg": {
+   "src": "https://dmv.vermont.gov/sites/dmv/files/images/Iraq_web.jpg",
+   "alt": "",
+   "verdict": "pending:VT-required-forms-x-x-x"
+  },
+  "/sites/dmv/files/images/Kin.jpg": {
+   "src": "https://dmv.vermont.gov/sites/dmv/files/images/Kin.jpg",
+   "alt": "",
+   "verdict": "plate:gold-star-next-of-kin"
+  },
+  "/sites/dmv/files/images/Korean%20War_web.jpg": {
+   "src": "https://dmv.vermont.gov/sites/dmv/files/images/Korean%20War_web.jpg",
+   "alt": "",
+   "verdict": "pending:VT-required-forms-x-x-x-x"
+  },
+  "/sites/dmv/files/images/National%20Guard_web.jpg": {
+   "src": "https://dmv.vermont.gov/sites/dmv/files/images/National%20Guard_web.jpg",
+   "alt": "",
+   "verdict": "plate:vermont-national-guard"
+  },
+  "/sites/dmv/files/images/POW_web.jpg": {
+   "src": "https://dmv.vermont.gov/sites/dmv/files/images/POW_web.jpg",
+   "alt": "",
+   "verdict": "plate:ex-prisoner-of-war"
+  },
+  "/sites/dmv/files/images/Purple%20Heart_web.jpg": {
+   "src": "https://dmv.vermont.gov/sites/dmv/files/images/Purple%20Heart_web.jpg",
+   "alt": "",
+   "verdict": "pending:VT-required-forms"
+  },
+  "/sites/dmv/files/images/US%20Veteran_web.jpg": {
+   "src": "https://dmv.vermont.gov/sites/dmv/files/images/US%20Veteran_web.jpg",
+   "alt": "",
+   "verdict": "plate:u-s-veteran"
+  },
+  "/sites/dmv/files/images/VFW_web.jpg": {
+   "src": "https://dmv.vermont.gov/sites/dmv/files/images/VFW_web.jpg",
+   "alt": "",
+   "verdict": "pending:VT-vfw"
+  },
+  "/sites/dmv/files/images/Vietnam%20Veterans%20of%20America_web.jpg": {
+   "src": "https://dmv.vermont.gov/sites/dmv/files/images/Vietnam%20Veterans%20of%20America_web.jpg",
+   "alt": "",
+   "verdict": "plate:vietnam-veterans-of-america"
+  },
+  "/sites/dmv/files/images/Vietnam_web.jpg": {
+   "src": "https://dmv.vermont.gov/sites/dmv/files/images/Vietnam_web.jpg",
+   "alt": "",
+   "verdict": "pending:VT-required-forms-x-x-x-x-x"
+  },
+  "/sites/dmv/files/images/WWII_web.jpg": {
+   "src": "https://dmv.vermont.gov/sites/dmv/files/images/WWII_web.jpg",
+   "alt": "",
+   "verdict": "pending:VT-required-forms-x-x-x-x-x-x"
+  },
+  "/sites/dmv/files/images/dav.jpg": {
+   "src": "https://dmv.vermont.gov/sites/dmv/files/images/dav.jpg",
+   "alt": "Vermont Disabled Veteran License Plate",
+   "verdict": "pending:VT-vermont-disabled-veteran"
+  },
+  "/sites/dmv/files/inline-images/ALERT%20(4).png": {
+   "src": "https://dmv.vermont.gov/sites/dmv/files/inline-images/ALERT%20(4).png",
+   "alt": "alert icon",
+   "verdict": "not-a-plate"
+  },
+  "/sites/dmv/files/inline-images/Air%20Medal%20Truck.jpeg": {
+   "src": "https://dmv.vermont.gov/sites/dmv/files/inline-images/Air%20Medal%20Truck.jpeg",
+   "alt": "Air Medal Plate",
+   "verdict": "plate:air-medal"
+  },
+  "/sites/dmv/files/inline-images/Bronze%20Star%203.jpeg": {
+   "src": "https://dmv.vermont.gov/sites/dmv/files/inline-images/Bronze%20Star%203.jpeg",
+   "alt": "Bronze Star Plate",
+   "verdict": "plate:bronze-star"
+  },
+  "/sites/dmv/files/inline-images/download.jpg": {
+   "src": "https://dmv.vermont.gov/sites/dmv/files/inline-images/download.jpg",
+   "alt": "Pearl Harbor Survivor Plate",
+   "verdict": "plate:pearl-harbor-survivor"
+  }
+ },
+ "checked": "2026-10-26"
+}

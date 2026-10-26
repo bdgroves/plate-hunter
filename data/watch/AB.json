@@ -1,0 +1,18 @@
+{
+ "code": "AB",
+ "url": "https://eservices.alberta.ca/specialty-plates",
+ "complete": true,
+ "pictures": {
+  "/media/catalog/category/Photo1285v0.06_2.jpg": {
+   "src": "https://eservices.alberta.ca/media/catalog/category/Photo1285v0.06_2.jpg",
+   "alt": "Specialty Plates",
+   "verdict": "not-a-plate"
+  },
+  "/static/version1792757223/frontend/Demac/alberta/en_CA/images/loader-1.gif": {
+   "src": "https://eservices.alberta.ca/static/version1792757223/frontend/Demac/alberta/en_CA/images/loader-1.gif",
+   "alt": "Loading...",
+   "verdict": "not-a-plate"
+  }
+ },
+ "checked": "2026-10-26"
+}

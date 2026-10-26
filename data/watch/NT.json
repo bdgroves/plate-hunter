@@ -1,0 +1,18 @@
+{
+ "code": "NT",
+ "url": "https://www.idmv.inf.gov.nt.ca/Vehicles/Licence-Plate",
+ "complete": true,
+ "pictures": {
+  "/Frontend/Images/NWT_Wordmark_SM.png": {
+   "src": "https://www.idmv.inf.gov.nt.ca/Frontend/Images/NWT_Wordmark_SM.png",
+   "alt": "",
+   "verdict": "not-a-plate"
+  },
+  "/Frontend/Images/box_alert.png": {
+   "src": "https://www.idmv.inf.gov.nt.ca/Frontend/Images/box_alert.png",
+   "alt": "",
+   "verdict": "not-a-plate"
+  }
+ },
+ "checked": "2026-10-26"
+}

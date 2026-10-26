@@ -1,0 +1,13 @@
+{
+ "code": "KY",
+ "url": "https://secure2.kentucky.gov/kytc/plates/web/",
+ "complete": true,
+ "pictures": {
+  "/kytc/plates/web/SharedMasterPages_Bootstrap3/KYTC/Plates/images/drive-ky-gov-wide-black.png": {
+   "src": "https://secure2.kentucky.gov/kytc/plates/web/SharedMasterPages_Bootstrap3/KYTC/Plates/images/drive-ky-gov-wide-black.png",
+   "alt": "drive.ky.gov Logo",
+   "verdict": "not-a-plate"
+  }
+ },
+ "checked": "2026-10-26"
+}

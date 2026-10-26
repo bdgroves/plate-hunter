@@ -1,0 +1,153 @@
+{
+ "code": "MT-2",
+ "url": "https://mvdmt.gov/license-plate-lookup/",
+ "complete": true,
+ "pictures": {
+  "/wp-content/uploads/2023/09/carFamily-e1699372662896.png": {
+   "src": "https://mvdmt.gov/wp-content/uploads/2023/09/carFamily-e1699372662896.png",
+   "alt": "Three people traveling in car with seatbelts on.",
+   "verdict": "not-a-plate"
+  },
+  "/wp-content/uploads/2023/10/Montana-Wilderness-Association-2023.jpg": {
+   "src": "https://mvdmt.gov/wp-content/uploads/2023/10/Montana-Wilderness-Association-2023.jpg",
+   "alt": "A license plate with white and black text. Illustrated wildlife scene of a meadowlark bird, ponderosa pine, bitterroot flower, grizzly bear, and mountains in distance. Bottom says Wilderness.",
+   "verdict": "pending:MT-wild-montana"
+  },
+  "/wp-content/uploads/2023/10/Somers-Volunteer-Firefighters-Association-2023.jpg": {
+   "src": "https://mvdmt.gov/wp-content/uploads/2023/10/Somers-Volunteer-Firefighters-Association-2023.jpg",
+   "alt": "A gray license plate with white text. State outline filled with American flag with a red line running across.",
+   "verdict": "pending:MT-somers-volunteer-firefighters-associatio"
+  },
+  "/wp-content/uploads/2023/10/Stafford-Animal-Shelter-2023.jpg": {
+   "src": "https://mvdmt.gov/wp-content/uploads/2023/10/Stafford-Animal-Shelter-2023.jpg",
+   "alt": "A license plate with black an peach text. A illustrated mountain range with a full moon on left side. A silhouette of a dog and cat on right side. Bottom says Adopt a Friend for Life.",
+   "verdict": "plate:stafford-animal-shelter"
+  },
+  "/wp-content/uploads/2023/10/Sustainable-Montana-2023.jpg": {
+   "src": "https://mvdmt.gov/wp-content/uploads/2023/10/Sustainable-Montana-2023.jpg",
+   "alt": "A white license plate with black text. Grayscale mountain peak across plate. A heart and 406 in upper right corner.",
+   "verdict": "plate:sustainable-montana"
+  },
+  "/wp-content/uploads/2023/10/Sweet-Grass-Community-Foundation-2023.jpg": {
+   "src": "https://mvdmt.gov/wp-content/uploads/2023/10/Sweet-Grass-Community-Foundation-2023.jpg",
+   "alt": "A black and grayscale license plate with white text showing snow covered mountain range. Bottom says Big Sky Country.",
+   "verdict": "plate:sweet-grass-community-foundation"
+  },
+  "/wp-content/uploads/2023/10/The-Vital-Ground-Foundation-2023.jpg": {
+   "src": "https://mvdmt.gov/wp-content/uploads/2023/10/The-Vital-Ground-Foundation-2023.jpg",
+   "alt": "A license plate with a a large grizzly bear illustration. Bottom says Vital ground dot org.",
+   "verdict": "pending:MT-vital-ground-foundation"
+  },
+  "/wp-content/uploads/2023/10/The-Way-Home-2023.jpg": {
+   "src": "https://mvdmt.gov/wp-content/uploads/2023/10/The-Way-Home-2023.jpg",
+   "alt": "A blue to white gradient license plate with black and blue text and half of state outline on left. Bottom says The Way Home.",
+   "verdict": "plate:the-way-home"
+  },
+  "/wp-content/uploads/2023/10/Tough-Enough-to-Wear-Pink-MT-2023.jpg": {
+   "src": "https://mvdmt.gov/wp-content/uploads/2023/10/Tough-Enough-to-Wear-Pink-MT-2023.jpg",
+   "alt": "A pink license plate with a yellow rope border and black text. A pink ribbon in the middle. Black and purple silhouette mountains along bottom. Tough Enough to Wear Pink of Montana logo on left.",
+   "verdict": "pending:MT-tough-enough-to-wear-pink-of-montana"
+  },
+  "/wp-content/uploads/2023/10/Veterans-Monument-Inc-2023.jpg": {
+   "src": "https://mvdmt.gov/wp-content/uploads/2023/10/Veterans-Monument-Inc-2023.jpg",
+   "alt": "A black license plate with white text. POW MIA, You Are Not Forgotten logo on left. Text at bottom of plate says Duty, Honor, Country.",
+   "verdict": "plate:veterans-monument-inc"
+  },
+  "/wp-content/uploads/2023/10/Walleyes-Unlimited-of-MT-2023.jpg": {
+   "src": "https://mvdmt.gov/wp-content/uploads/2023/10/Walleyes-Unlimited-of-MT-2023.jpg",
+   "alt": "A license plate with black, yellow, orange, and green text. A walleye with mouth open and fishing lure cover whole plate. A small silhouette of a person holding a child's hand in bottom left. Bottom says Walleyes Unlimited of Montana, Take a Kid Fishing.",
+   "verdict": "pending:MT-walleyes-unlimited-of-montana"
+  },
+  "/wp-content/uploads/2023/10/Western-Sustainability-Exchange-2023.jpg": {
+   "src": "https://mvdmt.gov/wp-content/uploads/2023/10/Western-Sustainability-Exchange-2023.jpg",
+   "alt": "A license plate with black and red text. A watercolor of a country side scene with mountains in the the distance, barn, and stream. Text at bottom of plate says Sustaining the Legacy.",
+   "verdict": "pending:MT-western-sustainability-exchange"
+  },
+  "/wp-content/uploads/2023/10/YAAK-Valley-Forest-2023.jpg": {
+   "src": "https://mvdmt.gov/wp-content/uploads/2023/10/YAAK-Valley-Forest-2023.jpg",
+   "alt": "A license plate with white text and an illustration of a dense pine forest with a chipmunk, deer, bear, and moth. Text at bottom of plate says Saving Montana Forests Yaak.",
+   "verdict": "pending:MT-yaak-valley-forest"
+  },
+  "/wp-content/uploads/2023/10/Yellowstone-Wildlife-Sanctuary-2023.jpg": {
+   "src": "https://mvdmt.gov/wp-content/uploads/2023/10/Yellowstone-Wildlife-Sanctuary-2023.jpg",
+   "alt": "A license plate with white and green text. Photo of mountains, meadow, wildflowers, and mountain lion. Text at bottom of plate says Yellowstone Wildlife Sanctuary.",
+   "verdict": "pending:MT-yellowstone-wildlife-sanctuary"
+  },
+  "/wp-content/uploads/2023/10/Zoo-Montana-2023-1.jpg": {
+   "src": "https://mvdmt.gov/wp-content/uploads/2023/10/Zoo-Montana-2023-1.jpg",
+   "alt": "A black license plate with white and gray text. A picture of a siberian tiger is on left. Bottom says Zoo Montana.",
+   "verdict": "pending:MT-zoomontana"
+  },
+  "/wp-content/uploads/2023/10/buyer-e1696272770560-300x180.png": {
+   "src": "https://mvdmt.gov/wp-content/uploads/2023/10/buyer-e1696272770560-300x180.png",
+   "alt": "A car salesman giving the keys to a car buyer in front a car.",
+   "verdict": "pending:MT-i-just-got-a-to-me-vehicle"
+  },
+  "/wp-content/uploads/2023/11/b4ugo.png": {
+   "src": "https://mvdmt.gov/wp-content/uploads/2023/11/b4ugo.png",
+   "alt": "Know Before You Go",
+   "verdict": "not-a-plate"
+  },
+  "/wp-content/uploads/2023/11/bythenumbers-e1699028410786.png": {
+   "src": "https://mvdmt.gov/wp-content/uploads/2023/11/bythenumbers-e1699028410786.png",
+   "alt": "Miscellaneous number cloud.",
+   "verdict": "pending:MT-miscellaneous-number-cloud"
+  },
+  "/wp-content/uploads/2023/11/question.png": {
+   "src": "https://mvdmt.gov/wp-content/uploads/2023/11/question.png",
+   "alt": "A man with a large question mark over his head.",
+   "verdict": "not-a-plate"
+  },
+  "/wp-content/uploads/2024/02/Veterans-Navigation-Network-2024.jpg": {
+   "src": "https://mvdmt.gov/wp-content/uploads/2024/02/Veterans-Navigation-Network-2024.jpg",
+   "alt": "A black license plate with white text and a blue outline of state. A buffalo skull is on left with black silhouettes of pine trees along bottom. White stars in upper sky.",
+   "verdict": "plate:veterans-navigation-network"
+  },
+  "/wp-content/uploads/2024/08/Windhorse-Equine-Learning-2024.jpg": {
+   "src": "https://mvdmt.gov/wp-content/uploads/2024/08/Windhorse-Equine-Learning-2024.jpg",
+   "alt": "A license plate with white text and a multi-colored background of a sketch of mountains, trees, and sun. A horse head is on the left side with face paint. Bottom says Windhorse Equine Learning.",
+   "verdict": "plate:windhorse-equine-learning"
+  },
+  "/wp-content/uploads/2024/08/Youth-Overcoming-Lifes-Obstacles-2024.jpg": {
+   "src": "https://mvdmt.gov/wp-content/uploads/2024/08/Youth-Overcoming-Lifes-Obstacles-2024.jpg",
+   "alt": "A black license plate with white text and white pine tree silhouettes along the bottom.",
+   "verdict": "plate:youth-overcoming-life-s-obstacles"
+  },
+  "/wp-content/uploads/2025/01/South-Central-Montana-Regional-Mental-Health-Center-2025.jpg": {
+   "src": "https://mvdmt.gov/wp-content/uploads/2025/01/South-Central-Montana-Regional-Mental-Health-Center-2025.jpg",
+   "alt": "A white license plate with black text and a black outline of the state. Green hearts and hands with ribbons in lower corners. Bottom says Mental Health Awareness; Supporting Our Communities and Future; End the Stigma.",
+   "verdict": "plate:south-central-montana-regional-mental-he"
+  },
+  "/wp-content/uploads/2025/08/Selway-Bitterroot-Foundation-DBA-2025.jpg": {
+   "src": "https://mvdmt.gov/wp-content/uploads/2025/08/Selway-Bitterroot-Foundation-DBA-2025.jpg",
+   "alt": "A license plate with white text and landscape painting of elk, mountains, and trees in fall foilage. Bottom says The Wildest Place.",
+   "verdict": "plate:selway-bitterroot-frank-church-foundatio"
+  },
+  "/wp-content/uploads/2025/09/Warriors-and-Quiet-Waters-Foundation-2025-1.jpg": {
+   "src": "https://mvdmt.gov/wp-content/uploads/2025/09/Warriors-and-Quiet-Waters-Foundation-2025-1.jpg",
+   "alt": "A black license plate with white text. An illustration of a mountain range and pine trees in gray and forest green along bottom.",
+   "verdict": "plate:warriors-quiet-waters-foundation"
+  },
+  "/wp-content/uploads/2026/02/Serve-Montana-Donate-Life-2026.jpg": {
+   "src": "https://mvdmt.gov/wp-content/uploads/2026/02/Serve-Montana-Donate-Life-2026.jpg",
+   "alt": "A license plate with white and black text. Illustrated flowers along top and bottom and a butterfly. Bottom has Donate Life logo and says Organ, Eye & Tissue Donation Saves Lives.",
+   "verdict": "plate:serve-montana-donate-life"
+  },
+  "/wp-content/uploads/2026/02/South-Kalsipell-Volunteer-Firefighters-Association-2023.jpg": {
+   "src": "https://mvdmt.gov/wp-content/uploads/2026/02/South-Kalsipell-Volunteer-Firefighters-Association-2023.jpg",
+   "alt": "A black license plate with white text. A red line runs through middle of the plate.",
+   "verdict": "plate:south-kalispell-volunteer-firefighter-as"
+  },
+  "/wp-content/uploads/2026/06/Wildlife-Crossings-MT-FWP-2026.jpg": {
+   "src": "https://mvdmt.gov/wp-content/uploads/2026/06/Wildlife-Crossings-MT-FWP-2026.jpg",
+   "alt": "A license plate with black and white text. A painting of an elk about to cross a wildlife highway crossing over a highway. Snow along both sides of highway with mountains in distance.",
+   "verdict": "plate:wildlife-crossings-mt-fwp"
+  },
+  "/wp-content/uploads/2026/06/Yellowstone-Forever-2026.jpg": {
+   "src": "https://mvdmt.gov/wp-content/uploads/2026/06/Yellowstone-Forever-2026.jpg",
+   "alt": "A license plate with white text. An illustration of the Grand Prismatic Spring with a buffalo on the left. Text at bottom says Yellowstone National Park.",
+   "verdict": "plate:yellowstone-forever"
+  }
+ },
+ "checked": "2026-10-26"
+}

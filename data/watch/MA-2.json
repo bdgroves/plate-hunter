@@ -1,0 +1,118 @@
+{
+ "code": "MA-2",
+ "url": "https://www.mass.gov/info-details/veteran-status-licenses-and-specialty-plates",
+ "complete": true,
+ "pictures": {
+  "/files/styles/565x/public/2025-02/StandardID-0921-VETERAN_0.png": {
+   "src": "https://www.mass.gov/files/styles/565x/public/2025-02/StandardID-0921-VETERAN_0.png?itok=g7T9-4Vz",
+   "alt": "MA Veteran Drivers License Example",
+   "verdict": "pending:MA-ma-veteran-drivers-example"
+  },
+  "/files/styles/embedded_full_width/public/bronze_star1.jpg": {
+   "src": "https://www.mass.gov/files/styles/embedded_full_width/public/bronze_star1.jpg?itok=oSHXNf36",
+   "alt": "bronze star plate",
+   "verdict": "pending:MA-bronze-star"
+  },
+  "/files/styles/embedded_full_width/public/silver_star_1.jpg": {
+   "src": "https://www.mass.gov/files/styles/embedded_full_width/public/silver_star_1.jpg?itok=s6c_4HAE",
+   "alt": "silver star plate",
+   "verdict": "pending:MA-silver-star"
+  },
+  "/files/styles/embedded_half_width/public/bronze_star.jpg": {
+   "src": "https://www.mass.gov/files/styles/embedded_half_width/public/bronze_star.jpg?itok=kchf9OYc",
+   "alt": "bronze star motorcycle plate",
+   "verdict": "not-for-cars"
+  },
+  "/files/styles/embedded_half_width/public/disabledvet-1.jpg": {
+   "src": "https://www.mass.gov/files/styles/embedded_half_width/public/disabledvet-1.jpg?itok=C-OxO6hr",
+   "alt": "disabled veteran plate",
+   "verdict": "pending:MA-disabled-veteran"
+  },
+  "/files/styles/embedded_half_width/public/ex_pow_0.jpg": {
+   "src": "https://www.mass.gov/files/styles/embedded_half_width/public/ex_pow_0.jpg?itok=tUWEAD9k",
+   "alt": "ex-prisoner of war motorcycle plate",
+   "verdict": "not-for-cars"
+  },
+  "/files/styles/embedded_half_width/public/expow_0.jpg": {
+   "src": "https://www.mass.gov/files/styles/embedded_half_width/public/expow_0.jpg?itok=dZRi5EyB",
+   "alt": "Ex POW plate",
+   "verdict": "plate:ex-pow"
+  },
+  "/files/styles/embedded_half_width/public/flying.jpg": {
+   "src": "https://www.mass.gov/files/styles/embedded_half_width/public/flying.jpg?itok=WWzKtgpL",
+   "alt": "distinguished flying cross plate",
+   "verdict": "plate:distinguished-flying-cross"
+  },
+  "/files/styles/embedded_half_width/public/goldstar.jpg": {
+   "src": "https://www.mass.gov/files/styles/embedded_half_width/public/goldstar.jpg?itok=lT92VI6f",
+   "alt": "gold star family plate",
+   "verdict": "plate:gold-star-family"
+  },
+  "/files/styles/embedded_half_width/public/guard_0.jpg": {
+   "src": "https://www.mass.gov/files/styles/embedded_half_width/public/guard_0.jpg?itok=ra7lyDkv",
+   "alt": "National Guard plate",
+   "verdict": "plate:national-guard"
+  },
+  "/files/styles/embedded_half_width/public/honor_0.jpg": {
+   "src": "https://www.mass.gov/files/styles/embedded_half_width/public/honor_0.jpg?itok=C1erAupG",
+   "alt": "Medal of Honor plate",
+   "verdict": "plate:congressional-medal-of-honor"
+  },
+  "/files/styles/embedded_half_width/public/images/2021-12/pheart_2021.jpg": {
+   "src": "https://www.mass.gov/files/styles/embedded_half_width/public/images/2021-12/pheart_2021.jpg?itok=UC_YV0Ri",
+   "alt": "purple heart plate",
+   "verdict": "plate:purple-heart"
+  },
+  "/files/styles/embedded_half_width/public/images/2025-02/medal_of_liberty.jpg": {
+   "src": "https://www.mass.gov/files/styles/embedded_half_width/public/images/2025-02/medal_of_liberty.jpg?itok=6jkkk1Zm",
+   "alt": "Medal of Liberty License Plate",
+   "verdict": "plate:medal-of-liberty"
+  },
+  "/files/styles/embedded_half_width/public/motorcycle_df_0.jpg": {
+   "src": "https://www.mass.gov/files/styles/embedded_half_width/public/motorcycle_df_0.jpg?itok=bJCiXVnU",
+   "alt": "distinguished flying cross motorcycle plate",
+   "verdict": "not-for-cars"
+  },
+  "/files/styles/embedded_half_width/public/motorcycle_legion_of_valor.jpg": {
+   "src": "https://www.mass.gov/files/styles/embedded_half_width/public/motorcycle_legion_of_valor.jpg?itok=bg0gEvLj",
+   "alt": "legion of valor motorcycle plate",
+   "verdict": "not-for-cars"
+  },
+  "/files/styles/embedded_half_width/public/motorcycle_mh_new.jpg": {
+   "src": "https://www.mass.gov/files/styles/embedded_half_width/public/motorcycle_mh_new.jpg?itok=NTehYvzJ",
+   "alt": "congressional medal of honor motorcycle plate",
+   "verdict": "not-for-cars"
+  },
+  "/files/styles/embedded_half_width/public/motorcycle_ph_new.jpg": {
+   "src": "https://www.mass.gov/files/styles/embedded_half_width/public/motorcycle_ph_new.jpg?itok=FJkyOQTb",
+   "alt": "purple heart motorcycle plate",
+   "verdict": "not-for-cars"
+  },
+  "/files/styles/embedded_half_width/public/pearl_harbor-1.jpg": {
+   "src": "https://www.mass.gov/files/styles/embedded_half_width/public/pearl_harbor-1.jpg?itok=0OEbyQc8",
+   "alt": "pearl harbor survivor motorcycle plate",
+   "verdict": "not-for-cars"
+  },
+  "/files/styles/embedded_half_width/public/pharbor_0.jpg": {
+   "src": "https://www.mass.gov/files/styles/embedded_half_width/public/pharbor_0.jpg?itok=ZM7s3VNh",
+   "alt": "pearl harbor survivor plate",
+   "verdict": "plate:pearl-harbor-survivor"
+  },
+  "/files/styles/embedded_half_width/public/silver_star.jpg": {
+   "src": "https://www.mass.gov/files/styles/embedded_half_width/public/silver_star.jpg?itok=3x96Rv9g",
+   "alt": "silver star motorcycle plate",
+   "verdict": "not-for-cars"
+  },
+  "/files/styles/embedded_half_width/public/valor_0.jpg": {
+   "src": "https://www.mass.gov/files/styles/embedded_half_width/public/valor_0.jpg?itok=kFdMnT9L",
+   "alt": "Legion of Valor plate",
+   "verdict": "plate:legion-of-valor"
+  },
+  "/files/styles/embedded_half_width/public/veteran.jpg": {
+   "src": "https://www.mass.gov/files/styles/embedded_half_width/public/veteran.jpg?itok=BLymbj9T",
+   "alt": "veteran plate",
+   "verdict": "plate:veterans"
+  }
+ },
+ "checked": "2026-10-26"
+}
