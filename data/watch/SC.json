@@ -18,15 +18,35 @@
    "alt": "Play Tennis!",
    "verdict": "plate:play-tennis"
   },
+  "/sites/scdmv/files/2025-12/West%20Virginia%20University_0.jpg": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/2025-12/West%20Virginia%20University_0.jpg",
+   "alt": "West Virginia University Plate",
+   "verdict": "pending:SC-west-virginia-university"
+  },
+  "/sites/scdmv/files/2026-01/Ole%20Miss.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/2026-01/Ole%20Miss.png",
+   "alt": "University of Mississippi Plate",
+   "verdict": "pending:SC-university-of-mississippi"
+  },
   "/sites/scdmv/files/2026-01/Respiratory%20Therapy.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/2026-01/Respiratory%20Therapy.png",
    "alt": "Respiratory Therapy Plate",
    "verdict": "new:respiratory-therapy"
   },
+  "/sites/scdmv/files/2026-01/U.S.%20Submarine%20Veteran.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/2026-01/U.S.%20Submarine%20Veteran.png",
+   "alt": "U.S. Submarine Veterans Plate",
+   "verdict": "pending:SC-u-s-submarine-veterans"
+  },
   "/sites/scdmv/files/2026-03/National%20Wild%20Turkey%20Federation.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/2026-03/National%20Wild%20Turkey%20Federation.png",
    "alt": "National Wild Turkey Federation",
    "verdict": "rejected"
+  },
+  "/sites/scdmv/files/2026-04/Arts%20Education.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/2026-04/Arts%20Education.png",
+   "alt": "The Power of Art",
+   "verdict": "plate:respiratory-therapy"
   },
   "/sites/scdmv/files/media/Images/Plates/AND-plate.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/AND-plate.png",
@@ -633,10 +653,30 @@
    "alt": "Coast Guard",
    "verdict": "plate:coast-guard"
   },
+  "/sites/scdmv/files/media/Images/Plates/New-Military-Images/SC-US-Military-Reserve-Navy-3-24-22_NM_DLP.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/New-Military-Images/SC-US-Military-Reserve-Navy-3-24-22_NM_DLP.png",
+   "alt": "Navy Reserve",
+   "verdict": "pending:SC-navy-reserve"
+  },
   "/sites/scdmv/files/media/Images/Plates/New-Military-Images/SC-US-Military-Reserves-Air-Force_NN_DLP.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/New-Military-Images/SC-US-Military-Reserves-Air-Force_NN_DLP.png",
    "alt": "US Military Reserve Air Force",
    "verdict": "plate:us-air-force-reserve"
+  },
+  "/sites/scdmv/files/media/Images/Plates/New-Military-Images/SC-US-Military-Reserves-Army_NK_DLP.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/New-Military-Images/SC-US-Military-Reserves-Army_NK_DLP.png",
+   "alt": "US Military Reserve Army",
+   "verdict": "pending:SC-us-military-reserve-army"
+  },
+  "/sites/scdmv/files/media/Images/Plates/New-Military-Images/SC-US-Military-Reserves-Coast-Guard_AJ_DLP.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/New-Military-Images/SC-US-Military-Reserves-Coast-Guard_AJ_DLP.png",
+   "alt": "US Military Reserves Coast Guard",
+   "verdict": "pending:SC-us-military-reserves-coast-guard"
+  },
+  "/sites/scdmv/files/media/Images/Plates/New-Military-Images/SC-US-Military-Reserves-Marine-Corps_NL_DLP.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/New-Military-Images/SC-US-Military-Reserves-Marine-Corps_NL_DLP.png",
+   "alt": "US Military Reserves Marine Corps",
+   "verdict": "pending:SC-us-military-reserves-marine-corps"
   },
   "/sites/scdmv/files/media/Images/Plates/New-Military-Images/SC-US-Navy_NV_DLP.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/New-Military-Images/SC-US-Navy_NV_DLP.png",
@@ -883,6 +923,26 @@
    "alt": "Troopers Association",
    "verdict": "plate:back-the-badge"
   },
+  "/sites/scdmv/files/media/Images/Plates/SC-Trout-Unlimited-NPTU.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/SC-Trout-Unlimited-NPTU.png",
+   "alt": "Trout Unlimited",
+   "verdict": "pending:SC-trout-unlimited"
+  },
+  "/sites/scdmv/files/media/Images/Plates/SC-US-Air-Force-Academy.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/SC-US-Air-Force-Academy.png",
+   "alt": "US Air Force Academy",
+   "verdict": "pending:SC-us-air-force-academy"
+  },
+  "/sites/scdmv/files/media/Images/Plates/SC-USC-2017-National-Womens-Championship-NT_WB/SC-USC-20172022-National-Womens-Basketball-Champions-WB5922DLPHiRes.jpg": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/SC-USC-2017-National-Womens-Championship-NT_WB/SC-USC-20172022-National-Womens-Basketball-Champions-WB5922DLPHiRes.jpg",
+   "alt": "USC NCAAW 3x National Champions",
+   "verdict": "plate:respiratory-therapy"
+  },
+  "/sites/scdmv/files/media/Images/Plates/SC-Virginia-Tech-HK-8-26-19-DLP.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/SC-Virginia-Tech-HK-8-26-19-DLP.png",
+   "alt": "Virginia Tech",
+   "verdict": "pending:SC-virginia-tech"
+  },
   "/sites/scdmv/files/media/Images/Plates/SC-Zeta-Phi-Beta.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/SC-Zeta-Phi-Beta.png",
    "alt": "Zeta Phi Beta",
@@ -983,10 +1043,100 @@
    "alt": "OSU plate",
    "verdict": "plate:back-the-badge"
   },
+  "/sites/scdmv/files/media/Images/Plates/Tree-My-Dog.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Tree-My-Dog.png",
+   "alt": "Tree My Dog",
+   "verdict": "pending:SC-tree-my-dog"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Trees-SC.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Trees-SC.png",
+   "alt": "Trees SC",
+   "verdict": "pending:SC-trees-sc"
+  },
+  "/sites/scdmv/files/media/Images/Plates/US-Armed-Forces-Retired.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/US-Armed-Forces-Retired.png",
+   "alt": "Armed Forces Retired plate",
+   "verdict": "pending:SC-armed-forces-retired"
+  },
+  "/sites/scdmv/files/media/Images/Plates/US-Naval-Academy.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/US-Naval-Academy.png",
+   "alt": "US Naval Academy plate",
+   "verdict": "pending:SC-us-naval-academy"
+  },
+  "/sites/scdmv/files/media/Images/Plates/US-Navy-Chief-Petty.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/US-Navy-Chief-Petty.png",
+   "alt": "Navy Chief Petty Officer",
+   "verdict": "pending:SC-navy-chief-petty-officer"
+  },
+  "/sites/scdmv/files/media/Images/Plates/USC-Association-of-Lettermen-HiRes.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/USC-Association-of-Lettermen-HiRes.png",
+   "alt": "USC Association of Lettermen",
+   "verdict": "pending:SC-usc-association-of-lettermen"
+  },
+  "/sites/scdmv/files/media/Images/Plates/USC-Baseball-National-Champions.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/USC-Baseball-National-Champions.png",
+   "alt": "USC Baseball National Champs plate",
+   "verdict": "pending:SC-usc-baseball-national-champs"
+  },
+  "/sites/scdmv/files/media/Images/Plates/USCUpstate.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/USCUpstate.png",
+   "alt": "USC Upstate",
+   "verdict": "pending:SC-usc-upstate"
+  },
   "/sites/scdmv/files/media/Images/Plates/UTD-CLEMSON-MEN-SOCCER-4-TIMES.jpg": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/UTD-CLEMSON-MEN-SOCCER-4-TIMES.jpg",
    "alt": "Clemson Men Soccer",
    "verdict": "new:clemson-men-s-soccer"
+  },
+  "/sites/scdmv/files/media/Images/Plates/United-We-Stand.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/United-We-Stand.png",
+   "alt": "United We Stand plate",
+   "verdict": "pending:SC-united-we-stand"
+  },
+  "/sites/scdmv/files/media/Images/Plates/University-of-Alabama.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/University-of-Alabama.png",
+   "alt": "University of Alabama plate",
+   "verdict": "pending:SC-university-of-alabama"
+  },
+  "/sites/scdmv/files/media/Images/Plates/University-of-Florida.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/University-of-Florida.png",
+   "alt": "University of Florida plate",
+   "verdict": "pending:SC-university-of-florida"
+  },
+  "/sites/scdmv/files/media/Images/Plates/University-of-Georgia.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/University-of-Georgia.png",
+   "alt": "UGA plate",
+   "verdict": "pending:SC-uga"
+  },
+  "/sites/scdmv/files/media/Images/Plates/University-of-NC.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/University-of-NC.png",
+   "alt": "UNC plate",
+   "verdict": "plate:st-jude-children-s-research-hospital"
+  },
+  "/sites/scdmv/files/media/Images/Plates/University-of-South-Carolina.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/University-of-South-Carolina.png",
+   "alt": "USC plate",
+   "verdict": "pending:SC-usc"
+  },
+  "/sites/scdmv/files/media/Images/Plates/University-of-Tennessee.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/University-of-Tennessee.png",
+   "alt": "UT plate",
+   "verdict": "pending:SC-university-of-tennessee"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Veteran.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Veteran.png",
+   "alt": "Veteran plate",
+   "verdict": "pending:SC-veteran"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Vietnam-Veteran.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Vietnam-Veteran.png",
+   "alt": "Vietnam Veteran plate",
+   "verdict": "pending:SC-vietnam-veteran"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Volunteer-Fireman.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Volunteer-Fireman.png",
+   "alt": "Volunteer Firefighter",
+   "verdict": "pending:SC-volunteer-firefighter"
   },
   "/sites/scdmv/files/media/Images/Plates/Voorhees-College.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Voorhees-College.png",
@@ -1002,6 +1152,36 @@
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Wheelchair.png",
    "alt": "Wheelchair Plate",
    "verdict": "rejected"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Wildlife-Bunting.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Wildlife-Bunting.png",
+   "alt": "Wildlife Bunting",
+   "verdict": "pending:SC-wildlife-bunting"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Wildlife-Deer.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Wildlife-Deer.png",
+   "alt": "Wildlife Deer",
+   "verdict": "pending:SC-wildlife-deer"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Wilson-High-School.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Wilson-High-School.png",
+   "alt": "Wilson High School",
+   "verdict": "pending:SC-wilson-high-school"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Winthrop-University.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Winthrop-University.png",
+   "alt": "Winthrop Univeristy",
+   "verdict": "pending:SC-winthrop-univeristy"
+  },
+  "/sites/scdmv/files/media/Images/Plates/Wofford-College.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/Wofford-College.png",
+   "alt": "Wofford plate",
+   "verdict": "pending:SC-wofford"
+  },
+  "/sites/scdmv/files/media/Images/Plates/World-War-II.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/World-War-II.png",
+   "alt": "WWII plate",
+   "verdict": "pending:SC-wwii"
   }
  },
  "checked": "2026-10-26"
