@@ -101,6 +101,8 @@ main { border:1px solid var(--mist); border-top:none; background:var(--white); m
 .ch:hover { color:var(--rust); }
 .ch[aria-pressed=true] { background:var(--ink); border-color:var(--ink); color:var(--parchment); }
 .ch .n { opacity:.6; margin-left:4px; }
+.fb.country { position:static; justify-content:center; background:transparent; border-bottom:0; padding:12px 14px 0; }
+.fb.country .ch { font-size:0.68rem; padding:7px 14px; }
 .picker { display:flex; align-items:center; gap:12px; padding:14px 20px 0; }
 .picker select { flex:1; max-width:420px; background:var(--cream); color:var(--ink); border:1px solid var(--mist); padding:8px 10px; font-family:var(--serif); font-size:0.95rem; }
 .search { padding:12px 14px 0; background:var(--white); }
@@ -110,6 +112,7 @@ main { border:1px solid var(--mist); border-top:none; background:var(--white); m
 /* ---------- the map ---------- */
 .map-wrap { padding:14px 12px 4px; }
 .map { width:100%; height:auto; display:block; }
+.map-ca { max-width:640px; margin:0 auto; }   /* Canada's map is taller than wide-ish; keep it on one screen */
 .map path { fill:var(--map-off); stroke:var(--map-line); stroke-width:1.2; cursor:pointer; transition:fill .25s; }
 .map path:hover { fill:var(--mist); }
 .map path.ever:not(.found) { fill:var(--map-ever); }

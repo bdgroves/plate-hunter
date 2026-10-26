@@ -83,18 +83,19 @@ def main() -> int:
         if changed:
             f.write_text(json.dumps(doc, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
 
-    sf = ROOT / "data/states.json"
-    states = json.loads(sf.read_text())
-    changed = False
-    for s in states:
-        if s.get("img_url") and grab(s["img_url"], ROOT / "plates/standard" / f"{s['code']}.webp", 400):
-            s["img"] = f"plates/standard/{s['code']}.webp"
-            del s["img_url"]
-            changed = True
-            got += 1
-            print(f"standard plate: {s['name']}")
-    if changed:
-        sf.write_text(json.dumps(states, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
+    for sf in (ROOT / "data/states.json", ROOT / "data/provinces.json"):
+        states = json.loads(sf.read_text())
+        changed = False
+        for s in states:
+            local = handed_in("standard", s["code"]) if s.get("img_url") else None
+            if s.get("img_url") and grab(s["img_url"], ROOT / "plates/standard" / f"{s['code']}.webp", 400, local):
+                s["img"] = f"plates/standard/{s['code']}.webp"
+                del s["img_url"]
+                changed = True
+                got += 1
+                print(f"standard plate: {s['name']}", flush=True)
+        if changed:
+            sf.write_text(json.dumps(states, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
     # handed-in pictures are used once; whatever wasn't used (wrong shape, no such plate) stays for a person
     for f in [*(ROOT / "incoming").glob("*/*"), *(ROOT / "incoming").glob("*--*.*")]:
         code, pid = f.stem.split("--", 1) if "--" in f.stem else (f.parent.name, f.stem)

@@ -46,6 +46,22 @@ for s in states:
     if s.get("img") and not (ROOT / s["img"]).exists():
         bad(f"data/states.json: {s['code']} picture {s['img']} is missing")
 
+provinces = load("data/provinces.json") or []
+camap = load("data/ca-map.json") or {"states": {}}
+pcodes = [s["code"] for s in provinces]
+if len(set(pcodes)) != 13:
+    bad(f"data/provinces.json: expected 13 provinces and territories, found {len(set(pcodes))}")
+if set(pcodes) & set(codes):
+    bad(f"a province shares a code with a state: {sorted(set(pcodes) & set(codes))}")
+for s in provinces:
+    if s["code"] not in camap["states"]:
+        bad(f"data/ca-map.json: no shape for {s['code']}")
+    if s.get("img") and not (ROOT / s["img"]).exists():
+        bad(f"data/provinces.json: {s['code']} picture {s['img']} is missing")
+for c in cols:
+    if (c.get("country") == "CA") != (c["code"] in pcodes):
+        bad(f"data/collections.json: {c['code']} should{'' if c['code'] in pcodes else ' not'} have country CA")
+
 total_plates = 0
 for c in cols:
     doc = load(c["file"])
@@ -90,4 +106,4 @@ if problems:
     for p in problems:
         print("  -", p)
     sys.exit(1)
-print(f"OK: {len(states)} states, {len(cols)} specialty collections, {total_plates} plates")
+print(f"OK: {len(states)} states, {len(provinces)} provinces and territories, {len(cols)} specialty collections, {total_plates} plates")

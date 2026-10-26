@@ -1,0 +1,80 @@
+[
+ {
+  "code": "AB",
+  "name": "Alberta",
+  "country": "CA",
+  "img": null
+ },
+ {
+  "code": "BC",
+  "name": "British Columbia",
+  "country": "CA",
+  "img": null
+ },
+ {
+  "code": "MB",
+  "name": "Manitoba",
+  "country": "CA",
+  "img": null
+ },
+ {
+  "code": "NB",
+  "name": "New Brunswick",
+  "country": "CA",
+  "img": null
+ },
+ {
+  "code": "NL",
+  "name": "Newfoundland and Labrador",
+  "country": "CA",
+  "img": null
+ },
+ {
+  "code": "NS",
+  "name": "Nova Scotia",
+  "country": "CA",
+  "img": null
+ },
+ {
+  "code": "ON",
+  "name": "Ontario",
+  "country": "CA",
+  "img": null
+ },
+ {
+  "code": "PE",
+  "name": "Prince Edward Island",
+  "country": "CA",
+  "img": null
+ },
+ {
+  "code": "QC",
+  "name": "Quebec",
+  "country": "CA",
+  "img": null
+ },
+ {
+  "code": "SK",
+  "name": "Saskatchewan",
+  "country": "CA",
+  "img": null
+ },
+ {
+  "code": "NT",
+  "name": "Northwest Territories",
+  "country": "CA",
+  "img": null
+ },
+ {
+  "code": "NU",
+  "name": "Nunavut",
+  "country": "CA",
+  "img": null
+ },
+ {
+  "code": "YT",
+  "name": "Yukon",
+  "country": "CA",
+  "img": null
+ }
+]
