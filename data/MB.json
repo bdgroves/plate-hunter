@@ -16,10 +16,11 @@
    "id": "firefighters",
    "name": "Firefighters",
    "cat": "firstresponder",
-   "img": "firefighters.webp",
+   "img": null,
    "supports": "Manitoba Firefighters Burn Fund and Manitoba Fallen Firefighters Fund",
    "fact": "Winnipeg firefighters can have their badge number on the plate.",
-   "source": "https://www.mpi.mb.ca/specialty-plates-member/"
+   "source": "https://www.mpi.mb.ca/specialty-plates-member/",
+   "no_official_picture": true
   },
   {
    "id": "paramedics",
