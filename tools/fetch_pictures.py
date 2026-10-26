@@ -33,7 +33,8 @@ failed_hosts: dict[str, int] = {}
 
 def handed_in(code: str, pid: str) -> Path | None:
     """A picture a person downloaded for us (tools/grab_pictures.ps1) and uploaded to incoming/<STATE>/."""
-    hits = sorted((ROOT / "incoming" / code).glob(f"{pid}.*"))
+    hits = sorted((ROOT / "incoming" / code).glob(f"{pid}.*")) or \
+           sorted((ROOT / "incoming").glob(f"{code}--{pid}.*"))   # grab_in_browser.js names them flat
     return hits[0] if hits else None
 
 
@@ -95,8 +96,8 @@ def main() -> int:
     if changed:
         sf.write_text(json.dumps(states, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
     # handed-in pictures are used once; whatever wasn't used (wrong shape, no such plate) stays for a person
-    for f in (ROOT / "incoming").glob("*/*"):
-        pid, code = f.stem, f.parent.name
+    for f in [*(ROOT / "incoming").glob("*/*"), *(ROOT / "incoming").glob("*--*.*")]:
+        code, pid = f.stem.split("--", 1) if "--" in f.stem else (f.parent.name, f.stem)
         doc_file = ROOT / "data" / f"{code}.json"
         if doc_file.exists() and any(p["id"] == pid and p.get("img") and not p.get("img_url")
                                      for p in json.loads(doc_file.read_text())["plates"]):
