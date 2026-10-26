@@ -152,6 +152,13 @@
    "img": "boy-scouts-of-america.webp"
   },
   {
+   "id": "juvenile-diabetes-research-foundation",
+   "name": "Breakthrough T1D (formerly JDRF)",
+   "cat": "charity",
+   "img": "juvenile-diabetes-research-foundation-2026-10-26.webp",
+   "redesigned": "2026-10-26"
+  },
+  {
    "id": "breast-cancer-awareness",
    "name": "Breast Cancer Awareness",
    "cat": "charity",
@@ -625,13 +632,6 @@
    "name": "Jackson Zoo",
    "cat": "nature",
    "img": "jackson-zoo.webp"
-  },
-  {
-   "id": "juvenile-diabetes-research-foundation",
-   "name": "Juvenile Diabetes Research Foundation",
-   "cat": "charity",
-   "img": "juvenile-diabetes-research-foundation-2026-10-26.webp",
-   "redesigned": "2026-10-26"
   },
   {
    "id": "kappa-alpha-psi",

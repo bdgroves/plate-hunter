@@ -50,8 +50,6 @@ brooksgroves.com/games.html; the story is `blog/plate-hunter-post.html` in `bdgr
   small provinces and PEI's Retired Volunteer Firefighter.
 - [ ] **US leftovers:** 4 Colorado plates (agency shows only 4-up sheets), Maryland's 2 Gold Star plates (one
   combined image), ~20 Maryland plates where MVA shows "Tag Coming Soon", a handful of Texas pre-orders.
-- [ ] Mississippi's JDRF plate now shows the Breakthrough T1D design; consider renaming it
-  "Breakthrough T1D (formerly JDRF)" (same id).
 - [ ] Brooks's judgment (Oct 26): plates missing from a catalog but not proven retired **stay unretired**
   (TX Choose Life/Grambling/Panoramic/Lone Star, NC NASCAR drivers, KY Friends of Hemp/Cardinal, MS
   military qualification plates, PA possible duplicates). Listed under `retired_unsure` in the research files.
