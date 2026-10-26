@@ -581,6 +581,24 @@
    "added": "2026-10-26",
    "auto": true,
    "source": "https://dps.mn.gov/divisions/dvs/vehicle/license-plates/specialized-license-plates"
+  },
+  {
+   "id": "lions-club",
+   "name": "Lions Club",
+   "cat": "sports",
+   "img": "lions-club.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://dps.mn.gov/divisions/dvs/vehicle/license-plates/specialized-license-plates"
+  },
+  {
+   "id": "rotary-international",
+   "name": "Rotary International",
+   "cat": "hobby",
+   "img": "rotary-international.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://dps.mn.gov/divisions/dvs/vehicle/license-plates/specialized-license-plates"
   }
  ]
 }

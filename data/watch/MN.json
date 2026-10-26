@@ -36,7 +36,7 @@
   "/files/dvs/Citizen-Band-Text-1500x751.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Citizen-Band-Text-1500x751.jpg?v=1765415280",
    "alt": "Sample of a Citizens Band Radio license plate",
-   "verdict": "pending:MN-of-a-citizens-band-radio"
+   "verdict": "rejected"
   },
   "/files/dvs/Collegiate-Augsburg-Text-1500x751.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Collegiate-Augsburg-Text-1500x751.jpg?v=1778093315",
@@ -241,7 +241,7 @@
   "/files/dvs/Lions-Club-Text-1500x751.png": {
    "src": "https://assets.dps.mn.gov/files/dvs/Lions-Club-Text-1500x751.png?v=1765415472",
    "alt": "Sample of a Lion's Club license plate",
-   "verdict": "pending:MN-of-a-lion-s-club"
+   "verdict": "new:lions-club"
   },
   "/files/dvs/MMIR-Text-1500x751.png": {
    "src": "https://assets.dps.mn.gov/files/dvs/MMIR-Text-1500x751.png?v=1765415493",
@@ -281,7 +281,7 @@
   "/files/dvs/Minnesota-100-Club-Text-1500x751.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Minnesota-100-Club-Text-1500x751.jpg?v=1787600499",
    "alt": "Sample of a Minnesota 100 Club license plate",
-   "verdict": "pending:MN-of-a-minnesota-100-club"
+   "verdict": "rejected"
   },
   "/files/dvs/Minnesota-Golf-Text-1500x751.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Minnesota-Golf-Text-1500x751.jpg?v=1765415489",
@@ -321,7 +321,7 @@
   "/files/dvs/Rotary-International-Text-1500x763.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Rotary-International-Text-1500x763.jpg?v=1765415596",
    "alt": "Sample of a Rotary International license plate",
-   "verdict": "pending:MN-of-a-rotary-international"
+   "verdict": "new:rotary-international"
   },
   "/files/dvs/Standard-Collector-Text-1500x751.jpg": {
    "src": "https://assets.dps.mn.gov/files/dvs/Standard-Collector-Text-1500x751.jpg?v=1765415600",
