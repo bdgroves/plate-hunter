@@ -1430,6 +1430,33 @@
    "added": "2026-10-26",
    "auto": true,
    "source": "https://www.scdmvonline.com/Vehicle-Owners/Registration/Plate-Gallery"
+  },
+  {
+   "id": "u-s-submarine-veterans",
+   "name": "U.S. Submarine Veterans",
+   "cat": "veterans",
+   "img": "u-s-submarine-veterans.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.scdmvonline.com/Vehicle-Owners/Registration/Plate-Gallery"
+  },
+  {
+   "id": "university-of-mississippi-ole-miss",
+   "name": "University of Mississippi (Ole Miss)",
+   "cat": "colleges",
+   "img": "university-of-mississippi-ole-miss.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.scdmvonline.com/Vehicle-Owners/Registration/Plate-Gallery"
+  },
+  {
+   "id": "west-virginia-university",
+   "name": "West Virginia University",
+   "cat": "colleges",
+   "img": "west-virginia-university.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.scdmvonline.com/Vehicle-Owners/Registration/Plate-Gallery"
   }
  ]
 }
