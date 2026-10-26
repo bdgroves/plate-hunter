@@ -2,9 +2,9 @@
  "code": "TX",
  "name": "Texas",
  "rated": false,
- "checked": false,
+ "checked": true,
  "updated": "2026-10-25",
- "about": "Texas special-design plates. Not rated yet: every plate is worth the same. Partly checked for plates added since 2023. Checked for plates added since 2023 on 2026-10-26.",
+ "about": "Texas special-design plates. Not rated yet: every plate is worth the same. Partly checked for plates added since 2023. Checked for plates added since 2023 on 2026-10-26. Checked for plates added since 2023 on 2026-10-26.",
  "sources": [
   {
    "title": "Jon Keegan, us-license-plates (2023)",
@@ -1385,7 +1385,8 @@
    "id": "houston-texans-state",
    "name": "Houston Texans - State",
    "cat": "sports",
-   "img": "houston-texans-state.webp"
+   "img": "houston-texans-state.webp",
+   "retired": true
   },
   {
    "id": "i-d-rather-be-golfing",
@@ -2872,7 +2873,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://txdmv.blogs.govdelivery.com/county-rts-release-notes-23-4-08-26-2023-930-am/",
-   "year": "2023"
+   "year": "2023",
+   "img_url": "https://cdn.myplates.com/plates/auto.ofs.png"
   },
   {
    "id": "antarctica-service-medal",
@@ -2881,7 +2883,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://txdmv.blogs.govdelivery.com/county-rts-release-notes-23-4-08-26-2023-930-am/",
-   "year": "2023"
+   "year": "2023",
+   "img_url": "https://cdn.myplates.com/plates/auto.asm.png"
   },
   {
    "id": "humanitarian-service-medal",
@@ -2890,7 +2893,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://txdmv.blogs.govdelivery.com/county-rts-release-notes-23-4-08-26-2023-930-am/",
-   "year": "2023"
+   "year": "2023",
+   "img_url": "https://cdn.myplates.com/plates/auto.hsm.png"
   },
   {
    "id": "industrial-firefighter",
@@ -2899,7 +2903,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://txdmv.blogs.govdelivery.com/county-rts-release-notes-23-4-08-26-2023-930-am/",
-   "year": "2023"
+   "year": "2023",
+   "img_url": "https://cdn.myplates.com/plates/auto.iffplt.png"
   },
   {
    "id": "retired-peace-officer",
@@ -2908,7 +2913,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://txdmv.blogs.govdelivery.com/county-rts-release-notes-23-4-08-26-2023-930-am/",
-   "year": "2023"
+   "year": "2023",
+   "img_url": "https://cdn.myplates.com/plates/auto.rpoplt.png"
   },
   {
    "id": "fallen-law-enforcement-officer",
@@ -2917,7 +2923,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://txdmv.blogs.govdelivery.com/county-rts-release-notes-23-4-08-26-2023-930-am/",
-   "year": "2023"
+   "year": "2023",
+   "img_url": "https://cdn.myplates.com/plates/auto.feoplt.png"
   },
   {
    "id": "burn-pits-360-veterans-organization",
@@ -2934,7 +2941,8 @@
    "cat": "military",
    "img": null,
    "added": "2026-10-26",
-   "source": "https://capitol.texas.gov/tlodocs/88R/analysis/html/HB04861H.htm"
+   "source": "https://capitol.texas.gov/tlodocs/88R/analysis/html/HB04861H.htm",
+   "img_url": "https://cdn.myplates.com/plates/auto.hml.png"
   },
   {
    "id": "lone-star-distinguished-service-medal",
@@ -2942,7 +2950,8 @@
    "cat": "military",
    "img": null,
    "added": "2026-10-26",
-   "source": "https://capitol.texas.gov/tlodocs/88R/analysis/html/HB04861H.htm"
+   "source": "https://capitol.texas.gov/tlodocs/88R/analysis/html/HB04861H.htm",
+   "img_url": "https://cdn.myplates.com/plates/auto.dsm.png"
   },
   {
    "id": "texas-outstanding-service-medal",
@@ -2950,7 +2959,8 @@
    "cat": "military",
    "img": null,
    "added": "2026-10-26",
-   "source": "https://capitol.texas.gov/tlodocs/88R/analysis/html/HB04861H.htm"
+   "source": "https://capitol.texas.gov/tlodocs/88R/analysis/html/HB04861H.htm",
+   "img_url": "https://cdn.myplates.com/plates/auto.osm.png"
   },
   {
    "id": "texas-medal-of-merit",
@@ -2958,7 +2968,8 @@
    "cat": "military",
    "img": null,
    "added": "2026-10-26",
-   "source": "https://capitol.texas.gov/tlodocs/88R/analysis/html/HB04861H.htm"
+   "source": "https://capitol.texas.gov/tlodocs/88R/analysis/html/HB04861H.htm",
+   "img_url": "https://cdn.myplates.com/plates/auto.mom.png"
   },
   {
    "id": "sheriffs-association-of-texas",
@@ -2966,7 +2977,8 @@
    "cat": "firstresponder",
    "img": null,
    "added": "2026-10-26",
-   "source": "https://prod-origin.txdmv.gov:443/sites/default/files/body-files/Special-Plate-Guide.pdf"
+   "source": "https://prod-origin.txdmv.gov:443/sites/default/files/body-files/Special-Plate-Guide.pdf",
+   "img_url": "https://cdn.myplates.com/plates/auto.satplt.png"
   },
   {
    "id": "k9s4kids",
@@ -2974,7 +2986,8 @@
    "cat": "charity",
    "img": null,
    "added": "2026-10-26",
-   "source": "https://prod-origin.txdmv.gov:443/sites/default/files/body-files/Special-Plate-Guide.pdf"
+   "source": "https://prod-origin.txdmv.gov:443/sites/default/files/body-files/Special-Plate-Guide.pdf",
+   "img_url": "https://cdn.myplates.com/plates/auto.k9kplt.png"
   },
   {
    "id": "classroom-teacher",
@@ -2982,7 +2995,8 @@
    "cat": "other",
    "img": null,
    "added": "2026-10-26",
-   "source": "https://prod-origin.txdmv.gov:443/sites/default/files/body-files/Special-Plate-Guide.pdf"
+   "source": "https://prod-origin.txdmv.gov:443/sites/default/files/body-files/Special-Plate-Guide.pdf",
+   "img_url": "https://cdn.myplates.com/plates/auto.cteplt.png"
   },
   {
    "id": "retired-classroom-teacher",
@@ -2990,7 +3004,8 @@
    "cat": "other",
    "img": null,
    "added": "2026-10-26",
-   "source": "https://prod-origin.txdmv.gov:443/sites/default/files/body-files/Special-Plate-Guide.pdf"
+   "source": "https://prod-origin.txdmv.gov:443/sites/default/files/body-files/Special-Plate-Guide.pdf",
+   "img_url": "https://cdn.myplates.com/plates/auto.rctplt.png"
   },
   {
    "id": "texas-our-texas",
@@ -2998,7 +3013,8 @@
    "cat": "other",
    "img": null,
    "added": "2026-10-26",
-   "source": "https://prod-origin.txdmv.gov:443/sites/default/files/body-files/Special-Plate-Guide.pdf"
+   "source": "https://prod-origin.txdmv.gov:443/sites/default/files/body-files/Special-Plate-Guide.pdf",
+   "img_url": "https://cdn.myplates.com/plates/auto.totplt.png"
   },
   {
    "id": "brushed-metal-grill",
@@ -3007,7 +3023,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://txdmv.blogs.govdelivery.com/?p=8423",
-   "year": "2024"
+   "year": "2024",
+   "img_url": "https://cdn.myplates.com/plates/auto.BrushedMetalGrill.png"
   },
   {
    "id": "dps-troopers-foundation",
@@ -3016,7 +3033,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://txdmv.blogs.govdelivery.com/?p=8423",
-   "year": "2024"
+   "year": "2024",
+   "img_url": "https://cdn.myplates.com/plates/auto.DPSTroopersFoundation.png"
   },
   {
    "id": "premium-embossed-black-gold",
@@ -3034,7 +3052,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://txdmv.blogs.govdelivery.com/?p=8639",
-   "year": "2024"
+   "year": "2024",
+   "img_url": "https://cdn.myplates.com/plates/auto.Embossed_YellowBlack.png"
   },
   {
    "id": "blue-gold-premium-embossed",
@@ -3043,7 +3062,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://txdmv.blogs.govdelivery.com/?p=8639",
-   "year": "2024"
+   "year": "2024",
+   "img_url": "https://cdn.myplates.com/plates/auto.Embossed_GoldBlue.png"
   },
   {
    "id": "phi-beta-sigma",
@@ -3061,7 +3081,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://content.govdelivery.com/accounts/TXDMV/bulletins/3c8ec48",
-   "year": "2025"
+   "year": "2025",
+   "img_url": "https://cdn.myplates.com/plates/auto.coll0149.png"
   },
   {
    "id": "guadalupe-mountains-national-park",
@@ -3071,7 +3092,8 @@
    "added": "2026-10-26",
    "source": "https://content.govdelivery.com/accounts/TXDMV/bulletins/3c8ec48",
    "year": "2025",
-   "no_official_picture": true
+   "no_official_picture": true,
+   "img_url": "https://cdn.myplates.com/plates/auto.gumo.png"
   },
   {
    "id": "embossed-black-white",
@@ -3089,7 +3111,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://txdmv.blogs.govdelivery.com/?p=8834",
-   "year": "2025"
+   "year": "2025",
+   "img_url": "https://cdn.myplates.com/plates/auto.LoneStarFlag.png"
   },
   {
    "id": "state-fair-of-texas",
@@ -3108,7 +3131,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://content.govdelivery.com/accounts/TXDMV/bulletins/3ef1907",
-   "year": "2025"
+   "year": "2025",
+   "img_url": "https://cdn.myplates.com/plates/auto.DucksUnlimited.png"
   },
   {
    "id": "sand-dollar",
@@ -3117,7 +3141,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://content.govdelivery.com/accounts/TXDMV/bulletins/3ef1907",
-   "year": "2025"
+   "year": "2025",
+   "img_url": "https://cdn.myplates.com/plates/auto.SandDollar.png"
   },
   {
    "id": "sigma-gamma-rho",
@@ -3135,7 +3160,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://prod-origin.txdmv.gov/sites/default/files/body-files/2026-03-10_TxDMV_New_License_Plates.pdf",
-   "year": "2026"
+   "year": "2026",
+   "img_url": "https://cdn.myplates.com/plates/auto.rffplt.png"
   },
   {
    "id": "u-s-army-ranger",
@@ -3144,7 +3170,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://prod-origin.txdmv.gov/sites/default/files/body-files/2026-03-10_TxDMV_New_License_Plates.pdf",
-   "year": "2026"
+   "year": "2026",
+   "img_url": "https://cdn.myplates.com/plates/auto.ur.png"
   },
   {
    "id": "75th-army-ranger-regiment",
@@ -3153,7 +3180,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://prod-origin.txdmv.gov/sites/default/files/body-files/2026-03-10_TxDMV_New_License_Plates.pdf",
-   "year": "2026"
+   "year": "2026",
+   "img_url": "https://cdn.myplates.com/plates/auto.75r.png"
   },
   {
    "id": "animal-friendly-spay-neuter-adopt",
@@ -3162,7 +3190,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://prod-origin.txdmv.gov/sites/default/files/body-files/2026-03-10_TxDMV_New_License_Plates.pdf",
-   "year": "2026"
+   "year": "2026",
+   "img_url": "https://cdn.myplates.com/plates/auto.snaplt.png"
   },
   {
    "id": "central-catholic-high-school",
@@ -3171,7 +3200,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://prod-origin.txdmv.gov/sites/default/files/body-files/2026-03-10_TxDMV_New_License_Plates.pdf",
-   "year": "2026"
+   "year": "2026",
+   "img_url": "https://cdn.myplates.com/plates/auto.cchplt.png"
   },
   {
    "id": "disabled-peace-officer",
@@ -3180,7 +3210,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://content.govdelivery.com/accounts/TXDMV/bulletins/3ff42ab",
-   "year": "2026"
+   "year": "2026",
+   "img_url": "https://cdn.myplates.com/plates/auto.dpoiplt.png"
   },
   {
    "id": "national-cowgirl-museum-hall-of-fame-pre",
@@ -3205,6 +3236,121 @@
    "img": "university-of-missouri-pre-order.webp",
    "added": "2026-10-26",
    "source": "https://www.myplates.com/comingsoon"
+  },
+  {
+   "id": "florida-a-m-university",
+   "name": "Florida A&M University",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.myplates.com/api/plates",
+   "img_url": "https://cdn.myplates.com/plates/auto.FAMU.png",
+   "year": "2024"
+  },
+  {
+   "id": "jackson-state-university",
+   "name": "Jackson State University",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.myplates.com/api/plates",
+   "img_url": "https://cdn.myplates.com/plates/auto.JacksonStateUniversity.png"
+  },
+  {
+   "id": "support-adoption",
+   "name": "Support Adoption",
+   "cat": "charity",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.myplates.com/api/plates",
+   "img_url": "https://cdn.myplates.com/plates/auto.SupportAdoption.png"
+  },
+  {
+   "id": "american-flag",
+   "name": "American Flag",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.myplates.com/api/plates",
+   "img_url": "https://cdn.myplates.com/plates/auto.AmericanFlag.png"
+  },
+  {
+   "id": "navy-marine-corps-achievement-medal",
+   "name": "Navy & Marine Corps Achievement Medal",
+   "cat": "military",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.myplates.com/api/plates",
+   "img_url": "https://cdn.myplates.com/plates/auto.nam.png",
+   "year": "2026"
+  },
+  {
+   "id": "texas-humanitarian-service-medal",
+   "name": "Texas Humanitarian Service Medal",
+   "cat": "military",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.myplates.com/api/plates",
+   "img_url": "https://cdn.myplates.com/plates/auto.thm.png"
+  },
+  {
+   "id": "texas-superior-service-medal",
+   "name": "Texas Superior Service Medal",
+   "cat": "military",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.myplates.com/api/plates",
+   "img_url": "https://cdn.myplates.com/plates/auto.ssm.png"
+  },
+  {
+   "id": "texas-national-guard",
+   "name": "Texas National Guard",
+   "cat": "military",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.myplates.com/api/plates",
+   "img_url": "https://cdn.myplates.com/plates/auto.tgp.png"
+  },
+  {
+   "id": "antique-vehicle",
+   "name": "Antique Vehicle",
+   "cat": "vehicle",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.myplates.com/api/plates",
+   "img_url": "https://cdn.myplates.com/plates/auto.ap.png"
+  },
+  {
+   "id": "medal-of-honor-army",
+   "name": "Medal of Honor - Army",
+   "cat": "military",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.myplates.com/api/plates"
+  },
+  {
+   "id": "medal-of-honor-navy",
+   "name": "Medal of Honor - Navy",
+   "cat": "military",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.myplates.com/api/plates"
+  },
+  {
+   "id": "medal-of-honor-air-force",
+   "name": "Medal of Honor - Air Force",
+   "cat": "military",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.myplates.com/api/plates"
+  },
+  {
+   "id": "legion-of-valor-medal",
+   "name": "Legion of Valor Medal",
+   "cat": "military",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.myplates.com/api/plates"
   }
  ],
  "checked_on": "2026-10-26"

@@ -2,9 +2,9 @@
  "code": "MT",
  "name": "Montana",
  "rated": false,
- "checked": false,
+ "checked": true,
  "updated": "2026-10-25",
- "about": "Montana special-design plates. Not rated yet: every plate is worth the same. Partly checked for plates added since 2023. Checked for plates added since 2023 on 2026-10-26.",
+ "about": "Montana special-design plates. Not rated yet: every plate is worth the same. Partly checked for plates added since 2023. Checked for plates added since 2023 on 2026-10-26. Checked for plates added since 2023 on 2026-10-26.",
  "sources": [
   {
    "title": "Jon Keegan, us-license-plates (2023)",
@@ -554,7 +554,8 @@
    "id": "lewis-clark-bicentennial",
    "name": "Lewis & Clark Bicentennial",
    "cat": "charity",
-   "img": "lewis-clark-bicentennial.webp"
+   "img": "lewis-clark-bicentennial.webp",
+   "retired": true
   },
   {
    "id": "lewis-clark-humane-society",
@@ -1781,6 +1782,44 @@
    "added": "2026-10-26",
    "source": "https://mvdmt.gov/license-plate-lookup/page/4/",
    "year": "2026"
+  },
+  {
+   "id": "gallatin-county-open-lands-board",
+   "name": "Gallatin County Open Lands Board",
+   "cat": "nature",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mvdmt.gov/portfolio-item/gallatin-county-open-lands-board/",
+   "img_url": "https://mvdmt.gov/wp-content/uploads/2023/10/Gallatin-Open-Lands-2023.jpg"
+  },
+  {
+   "id": "flathead-county-search-and-rescue",
+   "name": "Flathead County Search and Rescue",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mvdmt.gov/portfolio-item/flathead-county-search-and-rescue/",
+   "img_url": "https://mvdmt.gov/wp-content/uploads/2025/08/Flathead-County-Search-and-Rescue-2025-1.jpg",
+   "year": "2025"
+  },
+  {
+   "id": "flathead-county-sheriff-s-posse",
+   "name": "Flathead County Sheriff’s Posse",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mvdmt.gov/portfolio-item/flathead-county-sheriffs-posse/",
+   "img_url": "https://mvdmt.gov/wp-content/uploads/2023/10/Flathead-County-Sheriffs-Posse-2023.jpg"
+  },
+  {
+   "id": "cascade-county-sheriffs-foundation",
+   "name": "Cascade County Sheriffs Foundation",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mvdmt.gov/portfolio-item/cascade-county-sheriffs-foundation/",
+   "img_url": "https://mvdmt.gov/wp-content/uploads/2025/08/Cascade-County-Sheriffs-Foundation-2025.jpg",
+   "year": "2025"
   }
  ],
  "checked_on": "2026-10-26"

@@ -1,0 +1,42 @@
+{
+ "state": "AZ",
+ "checked": [
+  "https://azmvdnow.gov/plates",
+  "https://azmvdnowapi.dmz.mvm.azdot.gov/api/guest/titleregistration/plates/platetypes/filtered"
+ ],
+ "robot_url": "https://azmvdnow.gov/plates",
+ "new": [
+  {"title": "Alternative Fuel", "cat": "vehicle", "source_img": "https://mvmpublic.blob.core.usgovcloudapi.net/plates/AlternativeFuel.jpg", "source": "https://azmvdnow.gov/plates", "year": null, "matches_existing": null}
+ ],
+ "redesigned": [
+  {"name_in_game": "Channel 8 PBS", "source_img": "https://mvmpublic.blob.core.usgovcloudapi.net/plates/ArizonaPBS.jpg", "note": "now listed as 'Arizona PBS' (renamed/redesigned Aug 2026)"},
+  {"name_in_game": "Arizona Diamondbacks", "source_img": "https://mvmpublic.blob.core.usgovcloudapi.net/plates/ArizonaDiamondbacks.jpg", "note": "redesign announced March 2026; current catalog image"},
+  {"name_in_game": "University of Phoenix", "source_img": "https://mvmpublic.blob.core.usgovcloudapi.net/plates/UniversityofPhoenix.jpg", "note": "redesigned Aug 2026; current catalog image"},
+  {"name_in_game": "National Guard", "source_img": "https://mvmpublic.blob.core.usgovcloudapi.net/plates/NationalGuard.jpg", "note": "redesign announced April 2025; current catalog image"},
+  {"name_in_game": "Keep Arizona Beautiful", "source_img": "https://mvmpublic.blob.core.usgovcloudapi.net/plates/KeepArizonaBeautiful.jpg", "note": "redesigned; current catalog image"}
+ ],
+ "retired": [],
+ "pictures": [
+  {"name_in_game": "Empower", "source_img": "https://mvmpublic.blob.core.usgovcloudapi.net/plates/EmpoweringCharitableOrganizations.jpg"},
+  {"name_in_game": "In Loving Memory", "source_img": "https://mvmpublic.blob.core.usgovcloudapi.net/plates/InLovingMemory.jpg"},
+  {"name_in_game": "State Forty Eight", "source_img": "https://mvmpublic.blob.core.usgovcloudapi.net/plates/StateFortyEight.jpg"},
+  {"name_in_game": "Hualapai Tribe", "source_img": "https://mvmpublic.blob.core.usgovcloudapi.net/plates/HualapaiTribe.jpg"},
+  {"name_in_game": "Phoenix Rising FC", "source_img": "https://mvmpublic.blob.core.usgovcloudapi.net/plates/PhoenixRisingFC.jpg"},
+  {"name_in_game": "Ovarian Cancer Awareness", "source_img": "https://mvmpublic.blob.core.usgovcloudapi.net/plates/OvarianCancerAwareness.jpg"},
+  {"name_in_game": "Phoenix Mercury", "source_img": "https://mvmpublic.blob.core.usgovcloudapi.net/plates/PhoenixMercury.jpg"},
+  {"name_in_game": "Verde Valley Wine Trail", "source_img": "https://mvmpublic.blob.core.usgovcloudapi.net/plates/VerdeValleyWineTrail.jpg"},
+  {"name_in_game": "Arizona Youth Charities", "source_img": "https://mvmpublic.blob.core.usgovcloudapi.net/plates/ArizonaYouthCharities.jpg"},
+  {"name_in_game": "Gila River Indian Community", "source_img": "https://mvmpublic.blob.core.usgovcloudapi.net/plates/GilaRiverIndianCommunity.jpg"},
+  {"name_in_game": "No One Fights Alone", "source_img": "https://mvmpublic.blob.core.usgovcloudapi.net/plates/NoOneFightsAlone.jpg"},
+  {"name_in_game": "Teen Lifeline", "source_img": "https://mvmpublic.blob.core.usgovcloudapi.net/plates/TeenSuicidePrevention.jpg"},
+  {"name_in_game": "4AZKids", "source_img": "https://mvmpublic.blob.core.usgovcloudapi.net/plates/4AZKids.jpg"},
+  {"name_in_game": "Maverick Community Impact", "source_img": "https://mvmpublic.blob.core.usgovcloudapi.net/plates/MavericksCommunityImpact.jpg"},
+  {"name_in_game": "Italian American Heritage", "source_img": "https://mvmpublic.blob.core.usgovcloudapi.net/plates/ItalianAmericanHeritage.jpg"},
+  {"name_in_game": "Kidney Disease Awareness", "source_img": "https://mvmpublic.blob.core.usgovcloudapi.net/plates/KidneyDiseaseAwareness.jpg"},
+  {"name_in_game": "Suicide Prevention", "source_img": "https://mvmpublic.blob.core.usgovcloudapi.net/plates/SuicidePrevention.jpg"},
+  {"name_in_game": "Rotary International", "source_img": "https://mvmpublic.blob.core.usgovcloudapi.net/plates/RotaryInternational.jpg"},
+  {"name_in_game": "Autism Support", "source_img": "https://mvmpublic.blob.core.usgovcloudapi.net/plates/AutismSupport.jpg"}
+ ],
+ "complete": true,
+ "notes": "The azmvdnow.gov/plates gallery loads its catalog from a public read-only JSON API (guest/.../platetypes/filtered: 143 entries, 102 non-motorcycle) with every image at mvmpublic.blob.core.usgovcloudapi.net/plates/<Name>.jpg; all URLs above were confirmed to load in the browser. Every specialty plate in the catalog is in the game (Teen Lifeline is listed as 'Teen Suicide Prevention', recipient Teen Lifeline; Maverick as 'Mavericks Community Impact'); Rotary and Autism Support pictures are offered as agency replacements for the sponsor images used earlier. The guest catalog omits eligibility-based plates (Purple Heart, POW, Medal of Honor, Legion of Valor, Pearl Harbor, DFC, Gold Star, Classic/Historic/Horseless Carriage/Street Rod, Farm, Amateur Radio, Deaf/Disability), so their absence is not treated as retirement. Arizona Coyotes is still offered. Alternative Fuel (a HURF plate, not 'specialty') is listed as new only in case the game wants it. complete=true refers to the publicly orderable catalog."
+}

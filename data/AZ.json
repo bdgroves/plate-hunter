@@ -2,9 +2,9 @@
  "code": "AZ",
  "name": "Arizona",
  "rated": false,
- "checked": false,
+ "checked": true,
  "updated": "2026-10-25",
- "about": "Arizona special-design plates. Not rated yet: every plate is worth the same. Partly checked for plates added since 2023. Checked for plates added since 2023 on 2026-10-26.",
+ "about": "Arizona special-design plates. Not rated yet: every plate is worth the same. Partly checked for plates added since 2023. Checked for plates added since 2023 on 2026-10-26. Checked for plates added since 2023 on 2026-10-26.",
  "sources": [
   {
    "title": "Jon Keegan, us-license-plates (2023)",
@@ -70,7 +70,9 @@
    "id": "arizona-diamondbacks",
    "name": "Arizona Diamondbacks",
    "cat": "sports",
-   "img": "arizona-diamondbacks.webp"
+   "img": "arizona-diamondbacks.webp",
+   "img_url": "https://mvmpublic.blob.core.usgovcloudapi.net/plates/ArizonaDiamondbacks.jpg",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "arizona-education",
@@ -142,7 +144,9 @@
    "id": "channel-8-pbs",
    "name": "Channel 8 PBS",
    "cat": "other",
-   "img": "channel-8-pbs.webp"
+   "img": "channel-8-pbs.webp",
+   "img_url": "https://mvmpublic.blob.core.usgovcloudapi.net/plates/ArizonaPBS.jpg",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "character-education",
@@ -334,7 +338,9 @@
    "id": "keep-arizona-beautiful",
    "name": "Keep Arizona Beautiful",
    "cat": "nature",
-   "img": "keep-arizona-beautiful.webp"
+   "img": "keep-arizona-beautiful.webp",
+   "img_url": "https://mvmpublic.blob.core.usgovcloudapi.net/plates/KeepArizonaBeautiful.jpg",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "legion-of-valor",
@@ -376,7 +382,9 @@
    "id": "national-guard",
    "name": "National Guard",
    "cat": "military",
-   "img": "national-guard.webp"
+   "img": "national-guard.webp",
+   "img_url": "https://mvmpublic.blob.core.usgovcloudapi.net/plates/NationalGuard.jpg",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "navajo-nation",
@@ -496,7 +504,9 @@
    "id": "university-of-phoenix",
    "name": "University of Phoenix",
    "cat": "colleges",
-   "img": "university-of-phoenix.webp"
+   "img": "university-of-phoenix.webp",
+   "img_url": "https://mvmpublic.blob.core.usgovcloudapi.net/plates/UniversityofPhoenix.jpg",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "veteran",
@@ -601,7 +611,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://azdot.gov/news/adot-unveils-three-new-specialty-license-plates",
-   "year": "2023"
+   "year": "2023",
+   "img_url": "https://mvmpublic.blob.core.usgovcloudapi.net/plates/EmpoweringCharitableOrganizations.jpg"
   },
   {
    "id": "in-loving-memory",
@@ -610,7 +621,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://azdot.gov/news/adot-unveils-three-new-specialty-license-plates",
-   "year": "2023"
+   "year": "2023",
+   "img_url": "https://mvmpublic.blob.core.usgovcloudapi.net/plates/InLovingMemory.jpg"
   },
   {
    "id": "state-forty-eight",
@@ -619,7 +631,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://azdot.gov/news/adot-unveils-three-new-specialty-license-plates",
-   "year": "2023"
+   "year": "2023",
+   "img_url": "https://mvmpublic.blob.core.usgovcloudapi.net/plates/StateFortyEight.jpg"
   },
   {
    "id": "hualapai-tribe",
@@ -628,7 +641,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://azdot.gov/news/adot-unveils-three-more-new-specialty-license-plates",
-   "year": "2024"
+   "year": "2024",
+   "img_url": "https://mvmpublic.blob.core.usgovcloudapi.net/plates/HualapaiTribe.jpg"
   },
   {
    "id": "phoenix-rising-fc",
@@ -638,7 +652,8 @@
    "added": "2026-10-26",
    "source": "https://azdot.gov/news/adot-unveils-three-more-new-specialty-license-plates",
    "year": "2024",
-   "no_official_picture": true
+   "no_official_picture": true,
+   "img_url": "https://mvmpublic.blob.core.usgovcloudapi.net/plates/PhoenixRisingFC.jpg"
   },
   {
    "id": "rotary-international",
@@ -665,7 +680,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://azdot.gov/news/adot-unveils-three-new-specialty-license-plates-total-109",
-   "year": "2025"
+   "year": "2025",
+   "img_url": "https://mvmpublic.blob.core.usgovcloudapi.net/plates/OvarianCancerAwareness.jpg"
   },
   {
    "id": "phoenix-mercury",
@@ -674,7 +690,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://azdot.gov/news/adot-unveils-three-new-specialty-license-plates-total-109",
-   "year": "2025"
+   "year": "2025",
+   "img_url": "https://mvmpublic.blob.core.usgovcloudapi.net/plates/PhoenixMercury.jpg"
   },
   {
    "id": "verde-valley-wine-trail",
@@ -683,7 +700,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://azdot.gov/news/adot-unveils-three-new-specialty-license-plates-total-109",
-   "year": "2025"
+   "year": "2025",
+   "img_url": "https://mvmpublic.blob.core.usgovcloudapi.net/plates/VerdeValleyWineTrail.jpg"
   },
   {
    "id": "arizona-youth-charities",
@@ -692,7 +710,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://azdot.gov/news/adot-unveils-five-new-specialty-license-plates-1",
-   "year": "2026"
+   "year": "2026",
+   "img_url": "https://mvmpublic.blob.core.usgovcloudapi.net/plates/ArizonaYouthCharities.jpg"
   },
   {
    "id": "gila-river-indian-community",
@@ -701,7 +720,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://azdot.gov/news/adot-unveils-five-new-specialty-license-plates-1",
-   "year": "2026"
+   "year": "2026",
+   "img_url": "https://mvmpublic.blob.core.usgovcloudapi.net/plates/GilaRiverIndianCommunity.jpg"
   },
   {
    "id": "no-one-fights-alone",
@@ -710,7 +730,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://azdot.gov/news/adot-unveils-five-new-specialty-license-plates-1",
-   "year": "2026"
+   "year": "2026",
+   "img_url": "https://mvmpublic.blob.core.usgovcloudapi.net/plates/NoOneFightsAlone.jpg"
   },
   {
    "id": "teen-lifeline",
@@ -719,7 +740,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://azdot.gov/news/adot-unveils-five-new-specialty-license-plates-1",
-   "year": "2026"
+   "year": "2026",
+   "img_url": "https://mvmpublic.blob.core.usgovcloudapi.net/plates/TeenSuicidePrevention.jpg"
   },
   {
    "id": "4azkids",
@@ -728,7 +750,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://azdot.gov/news/adot-unveils-five-new-specialty-license-plates-1",
-   "year": "2026"
+   "year": "2026",
+   "img_url": "https://mvmpublic.blob.core.usgovcloudapi.net/plates/4AZKids.jpg"
   },
   {
    "id": "maverick-community-impact",
@@ -737,7 +760,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://azdot.gov/news/adot-unveils-new-specialty-license-plate",
-   "year": "2026"
+   "year": "2026",
+   "img_url": "https://mvmpublic.blob.core.usgovcloudapi.net/plates/MavericksCommunityImpact.jpg"
   },
   {
    "id": "italian-american-heritage",
@@ -746,7 +770,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://azdot.gov/news/adot-unveils-three-new-specialty-license-plates-0",
-   "year": "2026"
+   "year": "2026",
+   "img_url": "https://mvmpublic.blob.core.usgovcloudapi.net/plates/ItalianAmericanHeritage.jpg"
   },
   {
    "id": "kidney-disease-awareness",
@@ -755,7 +780,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://azdot.gov/news/adot-unveils-three-new-specialty-license-plates-0",
-   "year": "2026"
+   "year": "2026",
+   "img_url": "https://mvmpublic.blob.core.usgovcloudapi.net/plates/KidneyDiseaseAwareness.jpg"
   },
   {
    "id": "suicide-prevention",
@@ -764,7 +790,17 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://azdot.gov/news/adot-unveils-three-new-specialty-license-plates-0",
-   "year": "2026"
+   "year": "2026",
+   "img_url": "https://mvmpublic.blob.core.usgovcloudapi.net/plates/SuicidePrevention.jpg"
+  },
+  {
+   "id": "alternative-fuel",
+   "name": "Alternative Fuel",
+   "cat": "vehicle",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://azmvdnow.gov/plates",
+   "img_url": "https://mvmpublic.blob.core.usgovcloudapi.net/plates/AlternativeFuel.jpg"
   }
  ],
  "checked_on": "2026-10-26"

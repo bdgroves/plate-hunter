@@ -2,9 +2,9 @@
  "code": "VA",
  "name": "Virginia",
  "rated": false,
- "checked": false,
+ "checked": true,
  "updated": "2026-10-25",
- "about": "Virginia special-design plates. Not rated yet: every plate is worth the same. Partly checked for plates added since 2023. Checked for plates added since 2023 on 2026-10-26.",
+ "about": "Virginia special-design plates. Not rated yet: every plate is worth the same. Partly checked for plates added since 2023. Checked for plates added since 2023 on 2026-10-26. Checked for plates added since 2023 on 2026-10-26.",
  "sources": [
   {
    "title": "Jon Keegan, us-license-plates (2023)",
@@ -1097,7 +1097,9 @@
    "id": "rotary-international",
    "name": "Rotary International",
    "cat": "hobby",
-   "img": "rotary-international.webp"
+   "img": "rotary-international.webp",
+   "img_url": "https://www.dmv.virginia.gov/sites/default/files/styles/max_650x650/public/images/roi2.jpg",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "scenic-mountain-to-seashore",
@@ -1508,7 +1510,9 @@
    "id": "virginia-wesleyan-university",
    "name": "Virginia Wesleyan University",
    "cat": "colleges",
-   "img": "virginia-wesleyan-university.webp"
+   "img": "virginia-wesleyan-university.webp",
+   "img_url": "https://www.dmv.virginia.gov/sites/default/files/styles/max_650x650/public/images/bu.jpg",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "virginia-western-community-college",
@@ -1638,7 +1642,8 @@
    "added": "2026-10-26",
    "source": "https://dmv.virginia.gov/vehicles/license-plates/search/250th-american-revolution-anniversary",
    "year": "2024",
-   "no_official_picture": true
+   "no_official_picture": true,
+   "img_url": "https://www.dmv.virginia.gov/sites/default/files/styles/max_650x650/public/images/ara.jpg"
   },
   {
    "id": "blue-ridge-parkway-foundation",
@@ -1648,6 +1653,51 @@
    "added": "2026-10-26",
    "source": "https://www.dmv.virginia.gov/vehicles/license-plates/search/blue-ridge-parkway-foundation",
    "year": "2024"
+  },
+  {
+   "id": "boat-us",
+   "name": "Boat US",
+   "cat": "hobby",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.dmv.virginia.gov/vehicles/license-plates/search/boat-us",
+   "img_url": "https://www.dmv.virginia.gov/sites/default/files/styles/max_650x650/public/images/boat.jpg"
+  },
+  {
+   "id": "city-of-manassas",
+   "name": "City of Manassas",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.dmv.virginia.gov/vehicles/license-plates/search/city-manassas",
+   "img_url": "https://www.dmv.virginia.gov/sites/default/files/styles/max_650x650/public/images/mana.jpg"
+  },
+  {
+   "id": "radford-university-highlanders",
+   "name": "Radford University Highlanders",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.dmv.virginia.gov/vehicles/license-plates/search/radford-university-highlanders",
+   "img_url": "https://www.dmv.virginia.gov/sites/default/files/styles/max_650x650/public/images/radu.jpg"
+  },
+  {
+   "id": "support-women-veterans",
+   "name": "Support Women Veterans",
+   "cat": "veterans",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.dmv.virginia.gov/vehicles/license-plates/search/support-women-veterans",
+   "img_url": "https://www.dmv.virginia.gov/sites/default/files/styles/max_650x650/public/images/swv.jpg"
+  },
+  {
+   "id": "town-of-vienna-250th",
+   "name": "Town of Vienna 250th",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.dmv.virginia.gov/vehicles/license-plates/search/town-vienna-250th",
+   "img_url": "https://www.dmv.virginia.gov/sites/default/files/styles/max_650x650/public/images/vnna.jpg"
   }
  ],
  "checked_on": "2026-10-26"

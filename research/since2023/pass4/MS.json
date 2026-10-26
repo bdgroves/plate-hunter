@@ -1,0 +1,171 @@
+{
+ "state": "MS",
+ "checked": [
+  "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+  "https://www.dor.ms.gov/motor-vehicle/available-license-plates"
+ ],
+ "robot_url": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+ "new": [
+  {
+   "title": "Columbus Municipal School District",
+   "cat": "other",
+   "source_img": "https://www.dor.ms.gov/sites/default/files/motor-vehicle-services/license-plates/FS_0.PNG",
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Friends of Jackson County Animal Shelter",
+   "cat": "charity",
+   "source_img": "https://www.dor.ms.gov/sites/default/files/motor-vehicle-services/license-plates/Jackson%252520County%252520Animal%252520Shelter_jpg.jpg",
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "George County School District",
+   "cat": "other",
+   "source_img": "https://www.dor.ms.gov/sites/default/files/motor-vehicle-services/license-plates/George%252520County%252520School%252520District_jpg.jpg",
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Lafayette County School District",
+   "cat": "other",
+   "source_img": "https://www.dor.ms.gov/sites/default/files/motor-vehicle-services/license-plates/Lafayette%252520County%252520School%252520District_jpg.jpg",
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Rankin County School District",
+   "cat": "other",
+   "source_img": "https://www.dor.ms.gov/sites/default/files/motor-vehicle-services/license-plates/Rankin%252520County%252520School%252520District_jpg.jpg",
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Stone County School District",
+   "cat": "other",
+   "source_img": "https://www.dor.ms.gov/sites/default/files/motor-vehicle-services/license-plates/Stone%252520County%252520School%252520District_jpg.jpg",
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Sunflower County Ministerial Alliance Counseling Services",
+   "cat": "charity",
+   "source_img": "https://www.dor.ms.gov/sites/default/files/motor-vehicle-services/license-plates/TF.PNG",
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Blackout Passenger",
+   "cat": "other",
+   "source_img": "https://www.dor.ms.gov/sites/default/files/motor-vehicle-services/license-plates/Blackout%20Passenger.png",
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "100% Disabled Veteran Air Force",
+   "cat": "veterans",
+   "source_img": "https://www.dor.ms.gov/sites/default/files/motor-vehicle-services/license-plates/MS.PLTVAF.JPG.JPG",
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "100% Disabled Veteran Army",
+   "cat": "veterans",
+   "source_img": "https://www.dor.ms.gov/sites/default/files/motor-vehicle-services/license-plates/MS.PLTVAY.JPG.JPG",
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "100% Disabled Veteran Coast Guard",
+   "cat": "veterans",
+   "source_img": "https://www.dor.ms.gov/sites/default/files/motor-vehicle-services/license-plates/MS.PLTVCG.JPG.JPG",
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "100% Disabled Veteran Marine",
+   "cat": "veterans",
+   "source_img": "https://www.dor.ms.gov/sites/default/files/motor-vehicle-services/license-plates/MS.PLTVMR.JPG.JPG",
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "100% Disabled Veteran Navy",
+   "cat": "veterans",
+   "source_img": "https://www.dor.ms.gov/sites/default/files/motor-vehicle-services/license-plates/MS.PLTVNV.JPG.JPG",
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+   "year": null,
+   "matches_existing": null
+  }
+ ],
+ "redesigned": [
+  {
+   "name_in_game": "Female Veteran - Cost Guard",
+   "source_img": "https://www.dor.ms.gov/sites/default/files/motor-vehicle-services/license-plates/FCG.PNG",
+   "note": "name typo in game; DOR lists 'Female Veteran - Coast Guard'"
+  }
+ ],
+ "retired": [
+  {
+   "name_in_game": "Blair E Batson Children Hospital",
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates"
+  }
+ ],
+ "pictures": [
+  {
+   "name_in_game": "2022 National Championship Ole Miss Baseball",
+   "source_img": "https://www.dor.ms.gov/sites/default/files/motor-vehicle-services/license-plates/2022%2520National%2520Championship%2520Ole%2520Miss%2520Baseball.jpg"
+  },
+  {
+   "name_in_game": "Alzheimer's Awareness",
+   "source_img": "https://www.dor.ms.gov/sites/default/files/motor-vehicle-services/license-plates/UMMC-Alzheimer_0.JPG"
+  },
+  {
+   "name_in_game": "Diocese of Biloxi",
+   "source_img": "https://www.dor.ms.gov/sites/default/files/motor-vehicle-services/license-plates/Screenshot%25202023-08-31%2520154222.jpg"
+  },
+  {
+   "name_in_game": "EV Mississippi",
+   "source_img": "https://www.dor.ms.gov/sites/default/files/motor-vehicle-services/license-plates/SnipImage%2520%2528002%2529.JPG"
+  },
+  {
+   "name_in_game": "Gulf War Veteran",
+   "source_img": "https://www.dor.ms.gov/sites/default/files/motor-vehicle-services/license-plates/Gulf%2520%2528002%2529.png"
+  },
+  {
+   "name_in_game": "Magnolia Heights School",
+   "source_img": "https://www.dor.ms.gov/sites/default/files/motor-vehicle-services/license-plates/Magnolia%2520%2528002%2529.png"
+  },
+  {
+   "name_in_game": "Mississippi Aquarium",
+   "source_img": "https://www.dor.ms.gov/sites/default/files/motor-vehicle-services/license-plates/MS%2520Aquarium%2520%2528001%2529.JPG"
+  },
+  {
+   "name_in_game": "Neshoba Central Rockets",
+   "source_img": "https://www.dor.ms.gov/sites/default/files/motor-vehicle-services/license-plates/Neshoba%2520%2528002%2529.png"
+  },
+  {
+   "name_in_game": "MS Sweet Potato",
+   "source_img": "https://www.dor.ms.gov/sites/default/files/motor-vehicle-services/license-plates/Sweet%20Potato.jpg"
+  },
+  {
+   "name_in_game": "Friends of Children's Hospital",
+   "source_img": "https://www.dor.ms.gov/sites/default/files/motor-vehicle-services/license-plates/Friends%2520of%2520Children%25E2%2580%2599s%2520Hospital.JPG"
+  }
+ ],
+ "complete": true,
+ "notes": "The DOR specialty page now renders a full image gallery (272 non-motorcycle designs, including dealer/government/truck types); every image URL above is the full-size original (the page shows styles/medium .webp copies) and loaded in the browser. The double-encoded '%2520' names are the real file names. 'Retired' = in the game but absent from this full gallery: retired-military plates, National Guard - State, Special National Guard (a 'National Guard - Special' remains), Veterans of the US Armed Forces, Ambulance, and Blair E Batson (superseded by Friends of Children's Hospital). Also absent but left out of 'retired' as non-passenger/government: Department of Transportation, Mississippi Department of Transportation, Farm Carriers/Property Carrier over 10,000 GVW, B-10 and F-10 (the gallery has B10/F10 Blackout and B16-B80/F16-F80 instead), and Antique (now Antique Car/Truck). Juvenile Diabetes and Merchant Marine may just be variants of game plates (see matches_existing). The school-district plates likely date from 2023-25 but the page gives no dates; Blackout Passenger is the 2024-2029 series."
+}

@@ -1,0 +1,109 @@
+{
+ "state": "MT",
+ "checked": [
+  "https://mvdmt.gov/license-plate-lookup/",
+  "https://mvdmt.gov/license-plate-lookup/page/2/",
+  "https://mvdmt.gov/license-plate-lookup/page/3/",
+  "https://mvdmt.gov/license-plate-lookup/page/4/",
+  "https://mvdmt.gov/license-plate-lookup/page/5/",
+  "https://mvdmt.gov/license-plate-lookup/page/6/",
+  "https://mvdmt.gov/license-plate-lookup/page/7/",
+  "https://mvdmt.gov/license-plate-lookup/page/8/",
+  "https://mvdmt.gov/license-plate-lookup/page/9/",
+  "https://mvdmt.gov/license-plate-lookup/page/10/",
+  "https://mvdmt.gov/license-plate-lookup/page/11/",
+  "https://mvdmt.gov/license-plate-lookup/page/12/",
+  "https://mvdmt.gov/portfolio-item/montana-motorcycle-safety-foundation/",
+  "https://mvdmt.gov/portfolio-item/motorcycle-safety-education-grants/",
+  "https://mvdmt.gov/?s=Algeria"
+ ],
+ "robot_url": "https://mvdmt.gov/license-plate-lookup/",
+ "new": [
+  {
+   "title": "Montana Motorcycle Safety Foundation",
+   "cat": "charity",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2025/01/Montana-Motorcycle-Safety-Foundation-2025-1.jpg",
+   "source": "https://mvdmt.gov/portfolio-item/montana-motorcycle-safety-foundation/",
+   "year": "2025",
+   "matches_existing": null
+  },
+  {
+   "title": "Montana Snowmobile Association",
+   "cat": "hobby",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2023/10/Montana-Snowmobile-Association-2023.jpg",
+   "source": "https://mvdmt.gov/portfolio-item/montana-snowmobile-association/",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Gallatin County Open Lands Board",
+   "cat": "nature",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2023/10/Gallatin-Open-Lands-2023.jpg",
+   "source": "https://mvdmt.gov/portfolio-item/gallatin-county-open-lands-board/",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Flathead County Search and Rescue",
+   "cat": "firstresponder",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2025/08/Flathead-County-Search-and-Rescue-2025-1.jpg",
+   "source": "https://mvdmt.gov/portfolio-item/flathead-county-search-and-rescue/",
+   "year": "2025",
+   "matches_existing": null
+  },
+  {
+   "title": "Flathead County Sheriff\u2019s Posse",
+   "cat": "firstresponder",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2023/10/Flathead-County-Sheriffs-Posse-2023.jpg",
+   "source": "https://mvdmt.gov/portfolio-item/flathead-county-sheriffs-posse/",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Cascade County Sheriffs Foundation",
+   "cat": "firstresponder",
+   "source_img": "https://mvdmt.gov/wp-content/uploads/2025/08/Cascade-County-Sheriffs-Foundation-2025.jpg",
+   "source": "https://mvdmt.gov/portfolio-item/cascade-county-sheriffs-foundation/",
+   "year": "2025",
+   "matches_existing": null
+  }
+ ],
+ "redesigned": [],
+ "retired": [
+  {
+   "name_in_game": "Chippewa Cree Business Committee",
+   "source": "mvdmt.gov/license-plate-lookup pages 1-12 (all 269 entries), read 2026-10-26: absent"
+  },
+  {
+   "name_in_game": "Flathead Lake Protection Association",
+   "source": "mvdmt.gov/license-plate-lookup pages 1-12 (all 269 entries), read 2026-10-26: absent"
+  },
+  {
+   "name_in_game": "Gallatin Ice Foundation",
+   "source": "mvdmt.gov/license-plate-lookup pages 1-12 (all 269 entries), read 2026-10-26: absent"
+  },
+  {
+   "name_in_game": "Montana Agricultural Heritage Foundation",
+   "source": "mvdmt.gov/license-plate-lookup pages 1-12 (all 269 entries), read 2026-10-26: absent"
+  },
+  {
+   "name_in_game": "Montana Waterfowl Foundation",
+   "source": "mvdmt.gov/license-plate-lookup pages 1-12 (all 269 entries), read 2026-10-26: absent"
+  },
+  {
+   "name_in_game": "Options Clinic",
+   "source": "mvdmt.gov/license-plate-lookup pages 1-12 (all 269 entries), read 2026-10-26: absent"
+  },
+  {
+   "name_in_game": "The Nature Conservancy",
+   "source": "mvdmt.gov/license-plate-lookup pages 1-12 (all 269 entries), read 2026-10-26: absent"
+  },
+  {
+   "name_in_game": "Lewis & Clark Bicentennial",
+   "source": "mvdmt.gov/license-plate-lookup pages 1-12 (all 269 entries), read 2026-10-26: absent"
+  }
+ ],
+ "pictures": [],
+ "complete": true,
+ "notes": "Read all 12 lookup pages in the browser (269 entries: sponsored, military/veteran, standard alternatives) and diffed against the game. Algeria Shriners is on no lookup page and the site search finds nothing, so still no picture (it is in MVD's CY26 Q1 snapshot PDF, so it may be pending a design). Not retired but worth tidying: 'Violence Free Crisis Line' duplicates 'Abbie Shelter' (MVD slug abbie-shelter-violence-free-crisis); 'Montana Centennial' is MVD's 'Standard Alternative \u2013 1989 Centennial'; 'Special Mobile Decal' is not on the lookup (not a plate). Butte, Cascade and both Flathead County plates were proposed twice before and left out of the game, perhaps deliberately (local government/law-enforcement); they are live on MVD's lookup. Skipped 'Motorcycle Safety Education Grants' (2026, likely motorcycle-only) and the standard alternative reissues (1991, 2000, 2006 designs, Blue & White) since the game lists no standard plates."
+}

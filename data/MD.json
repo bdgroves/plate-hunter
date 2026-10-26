@@ -2,9 +2,9 @@
  "code": "MD",
  "name": "Maryland",
  "rated": false,
- "checked": false,
+ "checked": true,
  "updated": "2026-10-25",
- "about": "Maryland special-design plates. Not rated yet: every plate is worth the same. Partly checked for plates added since 2023. Checked for plates added since 2023 on 2026-10-26.",
+ "about": "Maryland special-design plates. Not rated yet: every plate is worth the same. Partly checked for plates added since 2023. Checked for plates added since 2023 on 2026-10-26. Checked for plates added since 2023 on 2026-10-26.",
  "sources": [
   {
    "title": "Jon Keegan, us-license-plates (2023)",
@@ -82,7 +82,8 @@
    "id": "air-force-459th-airlift-wing",
    "name": "Air Force 459th Airlift Wing",
    "cat": "military",
-   "img": "air-force-459th-airlift-wing.webp"
+   "img": "air-force-459th-airlift-wing.webp",
+   "retired": true
   },
   {
    "id": "air-force-achievement",
@@ -94,7 +95,8 @@
    "id": "air-force-association",
    "name": "Air Force Association",
    "cat": "military",
-   "img": "air-force-association.webp"
+   "img": "air-force-association.webp",
+   "retired": true
   },
   {
    "id": "air-force-commendation-medal",
@@ -154,7 +156,8 @@
    "id": "allegany-community-college",
    "name": "Allegany Community College",
    "cat": "colleges",
-   "img": "allegany-community-college.webp"
+   "img": "allegany-community-college.webp",
+   "retired": true
   },
   {
    "id": "allegany-high-school-alumni-association",
@@ -268,7 +271,8 @@
    "id": "animal-resource-foundation",
    "name": "Animal Resource Foundation",
    "cat": "charity",
-   "img": "animal-resource-foundation.webp"
+   "img": "animal-resource-foundation.webp",
+   "retired": true
   },
   {
    "id": "annapolis-professional-firefighters-loca",
@@ -304,7 +308,8 @@
    "id": "arcadia-volunteer-fire-company-inc",
    "name": "Arcadia Volunteer Fire Company, Inc.",
    "cat": "firstresponder",
-   "img": "arcadia-volunteer-fire-company-inc.webp"
+   "img": "arcadia-volunteer-fire-company-inc.webp",
+   "retired": true
   },
   {
    "id": "archeological-society-of-maryland-inc",
@@ -478,7 +483,8 @@
    "id": "baltimore-pro-duckpin-assc",
    "name": "Baltimore Pro Duckpin Assc",
    "cat": "other",
-   "img": "baltimore-pro-duckpin-assc.webp"
+   "img": "baltimore-pro-duckpin-assc.webp",
+   "retired": true
   },
   {
    "id": "baltimore-retired-police-benevolent-asso",
@@ -622,7 +628,8 @@
    "id": "boonsboro-athletic-boosters-inc",
    "name": "Boonsboro Athletic Boosters, Inc.",
    "cat": "other",
-   "img": "boonsboro-athletic-boosters-inc.webp"
+   "img": "boonsboro-athletic-boosters-inc.webp",
+   "retired": true
   },
   {
    "id": "boumi-temple-a-a-o-n-m-s",
@@ -676,7 +683,8 @@
    "id": "bread-of-life-tabernacle",
    "name": "Bread of Life Tabernacle",
    "cat": "other",
-   "img": "bread-of-life-tabernacle.webp"
+   "img": "bread-of-life-tabernacle.webp",
+   "retired": true
   },
   {
    "id": "bronze-star-medal",
@@ -718,13 +726,15 @@
    "id": "building-industries-foundation",
    "name": "Building Industries Foundation",
    "cat": "charity",
-   "img": "building-industries-foundation.webp"
+   "img": "building-industries-foundation.webp",
+   "retired": true
   },
   {
    "id": "burtonsville-volunteer-fire-department-i",
    "name": "Burtonsville Volunteer Fire Department, Inc",
    "cat": "firstresponder",
-   "img": "burtonsville-volunteer-fire-department-i.webp"
+   "img": "burtonsville-volunteer-fire-department-i.webp",
+   "retired": true
   },
   {
    "id": "bush-river-yacht-club",
@@ -754,7 +764,8 @@
    "id": "calvary-chapel-church-of-god",
    "name": "Calvary Chapel Church of God",
    "cat": "charity",
-   "img": "calvary-chapel-church-of-god.webp"
+   "img": "calvary-chapel-church-of-god.webp",
+   "retired": true
   },
   {
    "id": "calvert-advance-life-support",
@@ -772,7 +783,8 @@
    "id": "calvert-marine-museum-society-inc",
    "name": "Calvert Marine Museum Society, Inc.",
    "cat": "military",
-   "img": "calvert-marine-museum-society-inc.webp"
+   "img": "calvert-marine-museum-society-inc.webp",
+   "retired": true
   },
   {
    "id": "cambridge-lighthouse-foundation-choptank",
@@ -808,13 +820,15 @@
    "id": "catholic-daughters-of-the-americas",
    "name": "Catholic Daughters of the Americas",
    "cat": "other",
-   "img": "catholic-daughters-of-the-americas.webp"
+   "img": "catholic-daughters-of-the-americas.webp",
+   "retired": true
   },
   {
    "id": "catholic-university-of-america",
    "name": "Catholic University of America",
    "cat": "colleges",
-   "img": "catholic-university-of-america.webp"
+   "img": "catholic-university-of-america.webp",
+   "retired": true
   },
   {
    "id": "catonsville-high-alumni-association",
@@ -838,7 +852,8 @@
    "id": "chesapeake-yacht-club-inc",
    "name": "Chesapeake Yacht Club, Inc.",
    "cat": "charity",
-   "img": "chesapeake-yacht-club-inc.webp"
+   "img": "chesapeake-yacht-club-inc.webp",
+   "retired": true
   },
   {
    "id": "chester-river-yacht-country-club",
@@ -892,7 +907,8 @@
    "id": "city-union-of-baltimore",
    "name": "City Union of Baltimore",
    "cat": "other",
-   "img": "city-union-of-baltimore.webp"
+   "img": "city-union-of-baltimore.webp",
+   "retired": true
   },
   {
    "id": "clear-spring-volunteer-fire-co-inc",
@@ -946,7 +962,8 @@
    "id": "columbia-ski-club",
    "name": "Columbia Ski Club",
    "cat": "sports",
-   "img": "columbia-ski-club.webp"
+   "img": "columbia-ski-club.webp",
+   "retired": true
   },
   {
    "id": "combat-action-badge",
@@ -1090,13 +1107,15 @@
    "id": "country-pride-dancers",
    "name": "Country Pride Dancers",
    "cat": "other",
-   "img": "country-pride-dancers.webp"
+   "img": "country-pride-dancers.webp",
+   "retired": true
   },
   {
    "id": "crabtowne-skiers-inc",
    "name": "Crabtowne Skiers, Inc.",
    "cat": "other",
-   "img": "crabtowne-skiers-inc.webp"
+   "img": "crabtowne-skiers-inc.webp",
+   "retired": true
   },
   {
    "id": "cresaptown-volunteer-fire-department",
@@ -1120,19 +1139,22 @@
    "id": "csx-employees-service-club-of-baltimore",
    "name": "CSX Employees Service Club of Baltimore",
    "cat": "charity",
-   "img": "csx-employees-service-club-of-baltimore.webp"
+   "img": "csx-employees-service-club-of-baltimore.webp",
+   "retired": true
   },
   {
    "id": "cure-autism-now",
    "name": "Cure Autism Now",
    "cat": "charity",
-   "img": "cure-autism-now.webp"
+   "img": "cure-autism-now.webp",
+   "retired": true
   },
   {
    "id": "david-taylor-model-basin",
    "name": "David Taylor Model Basin",
    "cat": "other",
-   "img": "david-taylor-model-basin.webp"
+   "img": "david-taylor-model-basin.webp",
+   "retired": true
   },
   {
    "id": "davis-elkins-college",
@@ -1156,7 +1178,8 @@
    "id": "deacons-conference-of-baltimore-and-vici",
    "name": "Deacons Conference of Baltimore and Vicinity, Inc.",
    "cat": "other",
-   "img": "deacons-conference-of-baltimore-and-vici.webp"
+   "img": "deacons-conference-of-baltimore-and-vici.webp",
+   "retired": true
   },
   {
    "id": "deal-island-chance-volunteer-fire-co",
@@ -1168,7 +1191,8 @@
    "id": "deep-creek-volunteer-fire-company-inc",
    "name": "Deep Creek Volunteer Fire Company, Inc.",
    "cat": "firstresponder",
-   "img": "deep-creek-volunteer-fire-company-inc.webp"
+   "img": "deep-creek-volunteer-fire-company-inc.webp",
+   "retired": true
   },
   {
    "id": "deer-park-volunteer-fire-dept",
@@ -1282,7 +1306,8 @@
    "id": "dundalk-renaissance-corporation",
    "name": "Dundalk Renaissance Corporation",
    "cat": "other",
-   "img": "dundalk-renaissance-corporation.webp"
+   "img": "dundalk-renaissance-corporation.webp",
+   "retired": true
   },
   {
    "id": "dunkirk-volunteer-fire-dept",
@@ -1318,7 +1343,8 @@
    "id": "east-new-market-fire-company",
    "name": "East New Market Fire Company",
    "cat": "firstresponder",
-   "img": "east-new-market-fire-company.webp"
+   "img": "east-new-market-fire-company.webp",
+   "retired": true
   },
   {
    "id": "eastern-garrett-vol-fire-rescue-dept",
@@ -1378,7 +1404,8 @@
    "id": "emerald-isle-club",
    "name": "Emerald Isle Club",
    "cat": "charity",
-   "img": "emerald-isle-club.webp"
+   "img": "emerald-isle-club.webp",
+   "retired": true
   },
   {
    "id": "empowerment-temple-cecelia-williams-brya",
@@ -1390,19 +1417,22 @@
    "id": "equality-maryland",
    "name": "Equality Maryland",
    "cat": "other",
-   "img": "equality-maryland.webp"
+   "img": "equality-maryland.webp",
+   "retired": true
   },
   {
    "id": "faith-united-baptist-church",
    "name": "Faith United Baptist Church",
    "cat": "charity",
-   "img": "faith-united-baptist-church.webp"
+   "img": "faith-united-baptist-church.webp",
+   "retired": true
   },
   {
    "id": "family-life-ministries",
    "name": "Family Life Ministries",
    "cat": "charity",
-   "img": "family-life-ministries.webp"
+   "img": "family-life-ministries.webp",
+   "retired": true
   },
   {
    "id": "family-resource-information-education-ne",
@@ -1456,7 +1486,8 @@
    "id": "first-baptist-church-of-highland-park",
    "name": "First Baptist Church of Highland Park",
    "cat": "nature",
-   "img": "first-baptist-church-of-highland-park.webp"
+   "img": "first-baptist-church-of-highland-park.webp",
+   "retired": true
   },
   {
    "id": "first-cavalry-division-association",
@@ -1528,7 +1559,8 @@
    "id": "fraternal-order-of-eagles",
    "name": "Fraternal Order of Eagles",
    "cat": "sports",
-   "img": "fraternal-order-of-eagles.webp"
+   "img": "fraternal-order-of-eagles.webp",
+   "retired": true
   },
   {
    "id": "fraternal-order-of-police-associate-memb",
@@ -1558,13 +1590,15 @@
    "id": "frederick-community-college",
    "name": "Frederick Community College",
    "cat": "colleges",
-   "img": "frederick-community-college.webp"
+   "img": "frederick-community-college.webp",
+   "retired": true
   },
   {
    "id": "frederick-memorial-hospital",
    "name": "Frederick Memorial Hospital",
    "cat": "charity",
-   "img": "frederick-memorial-hospital.webp"
+   "img": "frederick-memorial-hospital.webp",
+   "retired": true
   },
   {
    "id": "frederick-saltwater-anglers",
@@ -1576,7 +1610,8 @@
    "id": "frederick-maryland-chapter-harley-owners",
    "name": "Frederick, Maryland Chapter Harley Owners Group, Inc.",
    "cat": "hobby",
-   "img": "frederick-maryland-chapter-harley-owners.webp"
+   "img": "frederick-maryland-chapter-harley-owners.webp",
+   "retired": true
   },
   {
    "id": "free-state-corvette-club-of-maryland",
@@ -1612,7 +1647,8 @@
    "id": "friendship-house-house-of-iran",
    "name": "Friendship House (House of Iran",
    "cat": "other",
-   "img": "friendship-house-house-of-iran.webp"
+   "img": "friendship-house-house-of-iran.webp",
+   "retired": true
   },
   {
    "id": "friendsville-volunteer-fire-rescue-depar",
@@ -1630,13 +1666,15 @@
    "id": "frostburg-state-university-alumni-associ",
    "name": "Frostburg State University Alumni Association",
    "cat": "colleges",
-   "img": "frostburg-state-university-alumni-associ.webp"
+   "img": "frostburg-state-university-alumni-associ.webp",
+   "retired": true
   },
   {
    "id": "fruitland-volunteer-fire-company-inc",
    "name": "Fruitland Volunteer Fire Company, Inc.",
    "cat": "firstresponder",
-   "img": "fruitland-volunteer-fire-company-inc.webp"
+   "img": "fruitland-volunteer-fire-company-inc.webp",
+   "retired": true
   },
   {
    "id": "funkstown-volunteer-fire-company-inc",
@@ -1648,7 +1686,8 @@
    "id": "g-burg-vettes-inc",
    "name": "G - Burg Vettes, Inc.",
    "cat": "other",
-   "img": "g-burg-vettes-inc.webp"
+   "img": "g-burg-vettes-inc.webp",
+   "retired": true
   },
   {
    "id": "gadsden-pew-club",
@@ -1678,7 +1717,8 @@
    "id": "gallaudet-university-alumni-association",
    "name": "Gallaudet University Alumni Association",
    "cat": "colleges",
-   "img": "gallaudet-university-alumni-association.webp"
+   "img": "gallaudet-university-alumni-association.webp",
+   "retired": true
   },
   {
    "id": "geo-institute-of-the-maryland-section-as",
@@ -1792,7 +1832,8 @@
    "id": "grace-bible-church-of-north-carroll",
    "name": "Grace Bible Church of North Carroll",
    "cat": "charity",
-   "img": "grace-bible-church-of-north-carroll.webp"
+   "img": "grace-bible-church-of-north-carroll.webp",
+   "retired": true
   },
   {
    "id": "grand-commandery-of-maryland-s-knights-t",
@@ -1912,7 +1953,8 @@
    "id": "hawks-pleasure-club",
    "name": "Hawks Pleasure Club",
    "cat": "sports",
-   "img": "hawks-pleasure-club.webp"
+   "img": "hawks-pleasure-club.webp",
+   "retired": true
   },
   {
    "id": "hebron-volunteer-fire-department",
@@ -1936,13 +1978,15 @@
    "id": "hill-s-angels-gymnastics-team-inc",
    "name": "Hill's Angels Gymnastics Team, Inc.",
    "cat": "other",
-   "img": "hill-s-angels-gymnastics-team-inc.webp"
+   "img": "hill-s-angels-gymnastics-team-inc.webp",
+   "retired": true
   },
   {
    "id": "hillside-volunteer-fire-department-inc",
    "name": "Hillside Volunteer Fire Department, Inc.",
    "cat": "firstresponder",
-   "img": "hillside-volunteer-fire-department-inc.webp"
+   "img": "hillside-volunteer-fire-department-inc.webp",
+   "retired": true
   },
   {
    "id": "hiram-grand-lodge",
@@ -1990,13 +2034,15 @@
    "id": "hood-college-alumnae",
    "name": "Hood College Alumnae",
    "cat": "colleges",
-   "img": "hood-college-alumnae.webp"
+   "img": "hood-college-alumnae.webp",
+   "retired": true
   },
   {
    "id": "hoopers-island-volunteer-fire-company",
    "name": "Hoopers Island Volunteer Fire Company",
    "cat": "firstresponder",
-   "img": "hoopers-island-volunteer-fire-company.webp"
+   "img": "hoopers-island-volunteer-fire-company.webp",
+   "retired": true
   },
   {
    "id": "hubble-space-telescope",
@@ -2074,7 +2120,8 @@
    "id": "international-association-of-fire-fighte-2",
    "name": "International Association of Fire Fighters Local # F-281",
    "cat": "firstresponder",
-   "img": "international-association-of-fire-fighte-2.webp"
+   "img": "international-association-of-fire-fighte-2.webp",
+   "retired": true
   },
   {
    "id": "international-association-of-fire-fighte-2-2",
@@ -2164,13 +2211,15 @@
    "id": "jerusalem-temple-no-4",
    "name": "Jerusalem Temple No. 4",
    "cat": "other",
-   "img": "jerusalem-temple-no-4.webp"
+   "img": "jerusalem-temple-no-4.webp",
+   "retired": true
   },
   {
    "id": "jewish-war-veterans-of-the-usa",
    "name": "Jewish War Veterans of the USA",
    "cat": "veterans",
-   "img": "jewish-war-veterans-of-the-usa.webp"
+   "img": "jewish-war-veterans-of-the-usa.webp",
+   "retired": true
   },
   {
    "id": "johns-hopkins-bayview-medical-center",
@@ -2260,7 +2309,8 @@
    "id": "king-s-college-alumni-association",
    "name": "King's College Alumni Association",
    "cat": "colleges",
-   "img": "king-s-college-alumni-association.webp"
+   "img": "king-s-college-alumni-association.webp",
+   "retired": true
   },
   {
    "id": "kings-point-club-washington-chapter",
@@ -2278,7 +2328,8 @@
    "id": "kiwanis-clubs-of-maryland",
    "name": "Kiwanis Clubs of Maryland",
    "cat": "hobby",
-   "img": "kiwanis-clubs-of-maryland.webp"
+   "img": "kiwanis-clubs-of-maryland.webp",
+   "retired": true
   },
   {
    "id": "knight-ryderz-m-c-baltimore-maryland",
@@ -2296,13 +2347,15 @@
    "id": "knights-of-st-john",
    "name": "Knights of St. John",
    "cat": "hobby",
-   "img": "knights-of-st-john.webp"
+   "img": "knights-of-st-john.webp",
+   "retired": true
   },
   {
    "id": "korean-american-vietnam-veterans-associa",
    "name": "Korean American Vietnam Veterans Association, Inc.",
    "cat": "veterans",
-   "img": "korean-american-vietnam-veterans-associa.webp"
+   "img": "korean-american-vietnam-veterans-associa.webp",
+   "retired": true
   },
   {
    "id": "korean-service-medal",
@@ -2416,7 +2469,8 @@
    "id": "little-ark-missionary-baptist-church",
    "name": "Little Ark Missionary Baptist Church",
    "cat": "charity",
-   "img": "little-ark-missionary-baptist-church.webp"
+   "img": "little-ark-missionary-baptist-church.webp",
+   "retired": true
   },
   {
    "id": "live-baltimore-home-center",
@@ -2452,7 +2506,8 @@
    "id": "m-w-zerubbabel-grand-lodge",
    "name": "M.W. Zerubbabel Grand Lodge",
    "cat": "other",
-   "img": "m-w-zerubbabel-grand-lodge.webp"
+   "img": "m-w-zerubbabel-grand-lodge.webp",
+   "retired": true
   },
   {
    "id": "maple-springs-baptist-church",
@@ -2470,7 +2525,8 @@
    "id": "marietta-college-alumni-association",
    "name": "Marietta College Alumni Association",
    "cat": "colleges",
-   "img": "marietta-college-alumni-association.webp"
+   "img": "marietta-college-alumni-association.webp",
+   "retired": true
   },
   {
    "id": "marine-corps-expeditionary",
@@ -2506,7 +2562,8 @@
    "id": "martin-state-airport-fire-department",
    "name": "Martin State Airport Fire Department",
    "cat": "firstresponder",
-   "img": "martin-state-airport-fire-department.webp"
+   "img": "martin-state-airport-fire-department.webp",
+   "retired": true
   },
   {
    "id": "maryland-arborist-association",
@@ -2554,13 +2611,15 @@
    "id": "maryland-chevelle-club",
    "name": "Maryland Chevelle Club",
    "cat": "charity",
-   "img": "maryland-chevelle-club.webp"
+   "img": "maryland-chevelle-club.webp",
+   "retired": true
   },
   {
    "id": "maryland-chiropractic-association",
    "name": "Maryland Chiropractic Association",
    "cat": "charity",
-   "img": "maryland-chiropractic-association.webp"
+   "img": "maryland-chiropractic-association.webp",
+   "retired": true
   },
   {
    "id": "maryland-classified-employees-associatio",
@@ -2578,7 +2637,8 @@
    "id": "maryland-division-of-the-society-of-amer",
    "name": "Maryland Division of the Society of American Foresters",
    "cat": "nature",
-   "img": "maryland-division-of-the-society-of-amer.webp"
+   "img": "maryland-division-of-the-society-of-amer.webp",
+   "retired": true
   },
   {
    "id": "maryland-ducks-unlimited",
@@ -2596,7 +2656,8 @@
    "id": "maryland-farm-bureau-inc",
    "name": "Maryland Farm Bureau, Inc.",
    "cat": "vehicle",
-   "img": "maryland-farm-bureau-inc.webp"
+   "img": "maryland-farm-bureau-inc.webp",
+   "retired": true
   },
   {
    "id": "maryland-federation-of-art",
@@ -2608,7 +2669,8 @@
    "id": "maryland-federaton-of-business-and-profe",
    "name": "Maryland Federaton of Business and Professional Women's Clubs",
    "cat": "charity",
-   "img": "maryland-federaton-of-business-and-profe.webp"
+   "img": "maryland-federaton-of-business-and-profe.webp",
+   "retired": true
   },
   {
    "id": "maryland-fire-chiefs-association",
@@ -2626,7 +2688,8 @@
    "id": "maryland-gridiron-network",
    "name": "Maryland Gridiron Network",
    "cat": "other",
-   "img": "maryland-gridiron-network.webp"
+   "img": "maryland-gridiron-network.webp",
+   "retired": true
   },
   {
    "id": "maryland-horse-breeders-assoc",
@@ -2650,7 +2713,8 @@
    "id": "maryland-jaycees",
    "name": "Maryland Jaycees",
    "cat": "other",
-   "img": "maryland-jaycees.webp"
+   "img": "maryland-jaycees.webp",
+   "retired": true
   },
   {
    "id": "maryland-law-enforcement-officer",
@@ -2662,7 +2726,8 @@
    "id": "maryland-locksmith-association",
    "name": "Maryland Locksmith Association",
    "cat": "charity",
-   "img": "maryland-locksmith-association.webp"
+   "img": "maryland-locksmith-association.webp",
+   "retired": true
   },
   {
    "id": "maryland-motorassociation-inc",
@@ -2686,7 +2751,8 @@
    "id": "maryland-ornithological-society",
    "name": "Maryland Ornithological Society",
    "cat": "charity",
-   "img": "maryland-ornithological-society.webp"
+   "img": "maryland-ornithological-society.webp",
+   "retired": true
   },
   {
    "id": "maryland-peace-action-education-fund",
@@ -2698,25 +2764,29 @@
    "id": "maryland-pharmaceutical-association",
    "name": "Maryland Pharmaceutical Association",
    "cat": "charity",
-   "img": "maryland-pharmaceutical-association.webp"
+   "img": "maryland-pharmaceutical-association.webp",
+   "retired": true
   },
   {
    "id": "maryland-press-club",
    "name": "Maryland Press Club",
    "cat": "hobby",
-   "img": "maryland-press-club.webp"
+   "img": "maryland-press-club.webp",
+   "retired": true
   },
   {
    "id": "maryland-psychological-association-inc",
    "name": "Maryland Psychological Association, Inc.",
    "cat": "charity",
-   "img": "maryland-psychological-association-inc.webp"
+   "img": "maryland-psychological-association-inc.webp",
+   "retired": true
   },
   {
    "id": "maryland-pta",
    "name": "Maryland PTA",
    "cat": "other",
-   "img": "maryland-pta.webp"
+   "img": "maryland-pta.webp",
+   "retired": true
   },
   {
    "id": "maryland-public-television",
@@ -2752,13 +2822,15 @@
    "id": "maryland-society-of-accountants-inc",
    "name": "Maryland Society of Accountants, Inc.",
    "cat": "charity",
-   "img": "maryland-society-of-accountants-inc.webp"
+   "img": "maryland-society-of-accountants-inc.webp",
+   "retired": true
   },
   {
    "id": "maryland-society-of-architects",
    "name": "Maryland Society of Architects",
    "cat": "charity",
-   "img": "maryland-society-of-architects.webp"
+   "img": "maryland-society-of-architects.webp",
+   "retired": true
   },
   {
    "id": "maryland-society-of-professional-enginee",
@@ -2776,13 +2848,15 @@
    "id": "maryland-society-of-radiologic-technolog",
    "name": "Maryland Society of Radiologic Technologists",
    "cat": "hobby",
-   "img": "maryland-society-of-radiologic-technolog.webp"
+   "img": "maryland-society-of-radiologic-technolog.webp",
+   "retired": true
   },
   {
    "id": "maryland-society-of-surveyors-inc",
    "name": "Maryland Society of Surveyors, Inc",
    "cat": "charity",
-   "img": "maryland-society-of-surveyors-inc.webp"
+   "img": "maryland-society-of-surveyors-inc.webp",
+   "retired": true
   },
   {
    "id": "maryland-society-sons-of-the-american-re",
@@ -2794,7 +2868,8 @@
    "id": "maryland-state-association-of-b-nai-b-ri",
    "name": "Maryland State Association of B'nai B'rith Lodges",
    "cat": "charity",
-   "img": "maryland-state-association-of-b-nai-b-ri.webp"
+   "img": "maryland-state-association-of-b-nai-b-ri.webp",
+   "retired": true
   },
   {
    "id": "maryland-state-beekeepers-association",
@@ -2806,7 +2881,8 @@
    "id": "maryland-state-bowling-association",
    "name": "Maryland State Bowling Association",
    "cat": "sports",
-   "img": "maryland-state-bowling-association.webp"
+   "img": "maryland-state-bowling-association.webp",
+   "retired": true
   },
   {
    "id": "maryland-state-chapter-peo-sisterhood",
@@ -2818,7 +2894,8 @@
    "id": "maryland-state-dental-association",
    "name": "Maryland State Dental Association",
    "cat": "charity",
-   "img": "maryland-state-dental-association.webp"
+   "img": "maryland-state-dental-association.webp",
+   "retired": true
   },
   {
    "id": "maryland-state-fair",
@@ -2848,13 +2925,15 @@
    "id": "maryland-swimming-inc",
    "name": "Maryland Swimming, Inc.",
    "cat": "other",
-   "img": "maryland-swimming-inc.webp"
+   "img": "maryland-swimming-inc.webp",
+   "retired": true
   },
   {
    "id": "maryland-transportation-authority-police",
    "name": "Maryland Transportation Authority Police Association",
    "cat": "firstresponder",
-   "img": "maryland-transportation-authority-police.webp"
+   "img": "maryland-transportation-authority-police.webp",
+   "retired": true
   },
   {
    "id": "maryland-troopers-association",
@@ -2866,7 +2945,8 @@
    "id": "maryland-volksport-association",
    "name": "Maryland Volksport Association",
    "cat": "charity",
-   "img": "maryland-volksport-association.webp"
+   "img": "maryland-volksport-association.webp",
+   "retired": true
   },
   {
    "id": "maryland-watermen-s-association-inc",
@@ -2956,7 +3036,8 @@
    "id": "mensa",
    "name": "Mensa",
    "cat": "other",
-   "img": "mensa.webp"
+   "img": "mensa.webp",
+   "retired": true
   },
   {
    "id": "mercedes-benz-club-of-america-inc",
@@ -3016,7 +3097,8 @@
    "id": "mid-maryland-ford-club",
    "name": "Mid Maryland Ford Club",
    "cat": "charity",
-   "img": "mid-maryland-ford-club.webp"
+   "img": "mid-maryland-ford-club.webp",
+   "retired": true
   },
   {
    "id": "mid-maryland-triathlon-club",
@@ -3034,7 +3116,8 @@
    "id": "middle-river-volunteer-fire-company-inc",
    "name": "Middle River Volunteer Fire Company, Inc.",
    "cat": "firstresponder",
-   "img": "middle-river-volunteer-fire-company-inc.webp"
+   "img": "middle-river-volunteer-fire-company-inc.webp",
+   "retired": true
   },
   {
    "id": "middletown-volunteer-fire-company",
@@ -3058,13 +3141,15 @@
    "id": "millers-island-lighthouse",
    "name": "Millers Island Lighthouse",
    "cat": "nature",
-   "img": "millers-island-lighthouse.webp"
+   "img": "millers-island-lighthouse.webp",
+   "retired": true
   },
   {
    "id": "mit-club-of-washington",
    "name": "MIT Club of Washington",
    "cat": "charity",
-   "img": "mit-club-of-washington.webp"
+   "img": "mit-club-of-washington.webp",
+   "retired": true
   },
   {
    "id": "montgomery-village-foundation",
@@ -3088,7 +3173,8 @@
    "id": "moroccan-american-society",
    "name": "Moroccan American Society",
    "cat": "charity",
-   "img": "moroccan-american-society.webp"
+   "img": "moroccan-american-society.webp",
+   "retired": true
   },
   {
    "id": "most-worshipful-prince-hall-grand-lodge-",
@@ -3154,7 +3240,8 @@
    "id": "national-association-of-letter-carriers",
    "name": "National Association of Letter Carriers",
    "cat": "charity",
-   "img": "national-association-of-letter-carriers.webp"
+   "img": "national-association-of-letter-carriers.webp",
+   "retired": true
   },
   {
    "id": "national-association-of-power-engineers-",
@@ -3190,7 +3277,8 @@
    "id": "national-organization-for-women",
    "name": "National Organization for Women",
    "cat": "other",
-   "img": "national-organization-for-women.webp"
+   "img": "national-organization-for-women.webp",
+   "retired": true
   },
   {
    "id": "national-ovarian-cancer-coalition",
@@ -3202,13 +3290,15 @@
    "id": "national-postal-mail-handlers-union",
    "name": "National Postal Mail Handlers Union",
    "cat": "other",
-   "img": "national-postal-mail-handlers-union.webp"
+   "img": "national-postal-mail-handlers-union.webp",
+   "retired": true
   },
   {
    "id": "national-rifle-association",
    "name": "National Rifle Association",
    "cat": "charity",
-   "img": "national-rifle-association.webp"
+   "img": "national-rifle-association.webp",
+   "retired": true
   },
   {
    "id": "national-ski-patrol",
@@ -3328,7 +3418,8 @@
    "id": "next-generation-space-telescope",
    "name": "Next Generation Space Telescope",
    "cat": "hobby",
-   "img": "next-generation-space-telescope.webp"
+   "img": "next-generation-space-telescope.webp",
+   "retired": true
   },
   {
    "id": "norfolk-state-university",
@@ -3376,7 +3467,8 @@
    "id": "northern-park-heights-cert",
    "name": "Northern Park Heights Cert",
    "cat": "nature",
-   "img": "northern-park-heights-cert.webp"
+   "img": "northern-park-heights-cert.webp",
+   "retired": true
   },
   {
    "id": "northwestern-university-alumni",
@@ -3412,7 +3504,8 @@
    "id": "o-conor-piper-flynn-recreational-social-",
    "name": "O'Conor, Piper & Flynn Recreational & Social Club, Inc.",
    "cat": "charity",
-   "img": "o-conor-piper-flynn-recreational-social-.webp"
+   "img": "o-conor-piper-flynn-recreational-social-.webp",
+   "retired": true
   },
   {
    "id": "oakland-volunteer-fire-department-inc",
@@ -3520,7 +3613,8 @@
    "id": "otter-point-yacht-club",
    "name": "Otter Point Yacht Club",
    "cat": "charity",
-   "img": "otter-point-yacht-club.webp"
+   "img": "otter-point-yacht-club.webp",
+   "retired": true
   },
   {
    "id": "owings-mills-volunteer-fire-company-inc",
@@ -3550,13 +3644,15 @@
    "id": "patapsco-river-power-squadron",
    "name": "Patapsco River Power Squadron",
    "cat": "nature",
-   "img": "patapsco-river-power-squadron.webp"
+   "img": "patapsco-river-power-squadron.webp",
+   "retired": true
   },
   {
    "id": "patterson-high-school-alumni-association",
    "name": "Patterson High School Alumni Association, Inc.",
    "cat": "colleges",
-   "img": "patterson-high-school-alumni-association.webp"
+   "img": "patterson-high-school-alumni-association.webp",
+   "retired": true
   },
   {
    "id": "patuxent-riverkeeper",
@@ -3568,7 +3664,8 @@
    "id": "pearl-harbor-survivors-association-inc",
    "name": "Pearl Harbor Survivors Association, Inc.",
    "cat": "veterans",
-   "img": "pearl-harbor-survivors-association-inc.webp"
+   "img": "pearl-harbor-survivors-association-inc.webp",
+   "retired": true
   },
   {
    "id": "penn-state-alumni-association",
@@ -3610,7 +3707,8 @@
    "id": "pleasant-grove-baptist-church",
    "name": "Pleasant Grove Baptist Church",
    "cat": "charity",
-   "img": "pleasant-grove-baptist-church.webp"
+   "img": "pleasant-grove-baptist-church.webp",
+   "retired": true
   },
   {
    "id": "plumbers-steamfitters-local-486",
@@ -3628,7 +3726,8 @@
    "id": "poe-s-crow-club-inc",
    "name": "Poe's Crow Club, Inc.",
    "cat": "charity",
-   "img": "poe-s-crow-club-inc.webp"
+   "img": "poe-s-crow-club-inc.webp",
+   "retired": true
   },
   {
    "id": "police-dispatchers-inc",
@@ -3664,7 +3763,8 @@
    "id": "port-towns-community-development-corpora",
    "name": "Port Towns Community Development Corporation",
    "cat": "other",
-   "img": "port-towns-community-development-corpora.webp"
+   "img": "port-towns-community-development-corpora.webp",
+   "retired": true
   },
   {
    "id": "potomac-valley-dressage-association",
@@ -3712,7 +3812,8 @@
    "id": "printing-industries-of-maryland-educatio",
    "name": "Printing Industries of Maryland Education Fund",
    "cat": "charity",
-   "img": "printing-industries-of-maryland-educatio.webp"
+   "img": "printing-industries-of-maryland-educatio.webp",
+   "retired": true
   },
   {
    "id": "private-sector-port-coalition",
@@ -3736,7 +3837,8 @@
    "id": "protectors-of-the-valley",
    "name": "Protectors Of The Valley",
    "cat": "other",
-   "img": "protectors-of-the-valley.webp"
+   "img": "protectors-of-the-valley.webp",
+   "retired": true
   },
   {
    "id": "proudly-she-served-united-states-air-for",
@@ -3790,7 +3892,8 @@
    "id": "quartermaster-drag-racing-team",
    "name": "Quartermaster Drag Racing Team",
    "cat": "sports",
-   "img": "quartermaster-drag-racing-team.webp"
+   "img": "quartermaster-drag-racing-team.webp",
+   "retired": true
   },
   {
    "id": "queen-anne-hillsboro-volunteer-fire-co-i",
@@ -3802,7 +3905,8 @@
    "id": "queen-anne-s-co-300th-anniversary-commit",
    "name": "Queen Anne's Co. 300th Anniversary Committee",
    "cat": "charity",
-   "img": "queen-anne-s-co-300th-anniversary-commit.webp"
+   "img": "queen-anne-s-co-300th-anniversary-commit.webp",
+   "retired": true
   },
   {
    "id": "queen-anne-s-co-department-of-emergency",
@@ -3826,7 +3930,8 @@
    "id": "ranger-social-club",
    "name": "Ranger Social Club",
    "cat": "military",
-   "img": "ranger-social-club.webp"
+   "img": "ranger-social-club.webp",
+   "retired": true
   },
   {
    "id": "ravens-all-community-team-foundation",
@@ -3850,7 +3955,8 @@
    "id": "reserve-officers-association-of-the-us",
    "name": "Reserve Officers Association of the US",
    "cat": "military",
-   "img": "reserve-officers-association-of-the-us.webp"
+   "img": "reserve-officers-association-of-the-us.webp",
+   "retired": true
   },
   {
    "id": "retired-dc-police-firemen",
@@ -3946,7 +4052,8 @@
    "id": "royal-gto-s",
    "name": "Royal GTO's",
    "cat": "other",
-   "img": "royal-gto-s.webp"
+   "img": "royal-gto-s.webp",
+   "retired": true
   },
   {
    "id": "royal-order-of-jesters",
@@ -3994,7 +4101,8 @@
    "id": "screaming-eagles-inc",
    "name": "Screaming Eagles, Inc.",
    "cat": "sports",
-   "img": "screaming-eagles-inc.webp"
+   "img": "screaming-eagles-inc.webp",
+   "retired": true
   },
   {
    "id": "seafarers-yacht-club",
@@ -4096,7 +4204,8 @@
    "id": "sisters-surviving",
    "name": "Sisters Surviving",
    "cat": "other",
-   "img": "sisters-surviving.webp"
+   "img": "sisters-surviving.webp",
+   "retired": true
   },
   {
    "id": "snow-hill-volunteer-fire-company",
@@ -4168,7 +4277,8 @@
    "id": "sparrows-point-country-club-inc",
    "name": "Sparrows Point Country Club, Inc.",
    "cat": "charity",
-   "img": "sparrows-point-country-club-inc.webp"
+   "img": "sparrows-point-country-club-inc.webp",
+   "retired": true
   },
   {
    "id": "spay-neuter",
@@ -4210,13 +4320,15 @@
    "id": "st-frances-academy-association",
    "name": "St. Frances Academy Association",
    "cat": "charity",
-   "img": "st-frances-academy-association.webp"
+   "img": "st-frances-academy-association.webp",
+   "retired": true
   },
   {
    "id": "st-james-parents-association",
    "name": "St. James Parents Association",
    "cat": "charity",
-   "img": "st-james-parents-association.webp"
+   "img": "st-james-parents-association.webp",
+   "retired": true
   },
   {
    "id": "st-johns-alumni-association",
@@ -4330,7 +4442,8 @@
    "id": "tall-cedars-of-lebanon",
    "name": "Tall Cedars of Lebanon",
    "cat": "other",
-   "img": "tall-cedars-of-lebanon.webp"
+   "img": "tall-cedars-of-lebanon.webp",
+   "retired": true
   },
   {
    "id": "taneytown-volunteer-fire-company-no-1",
@@ -4348,7 +4461,8 @@
    "id": "telephone-pioneers-of-america",
    "name": "Telephone Pioneers of America",
    "cat": "other",
-   "img": "telephone-pioneers-of-america.webp"
+   "img": "telephone-pioneers-of-america.webp",
+   "retired": true
   },
   {
    "id": "temple-university-alumni-assoc",
@@ -4402,7 +4516,8 @@
    "id": "the-catholic-high-school-of-baltimore",
    "name": "The Catholic High School of Baltimore",
    "cat": "charity",
-   "img": "the-catholic-high-school-of-baltimore.webp"
+   "img": "the-catholic-high-school-of-baltimore.webp",
+   "retired": true
   },
   {
    "id": "the-former-students-and-friends-of-rober",
@@ -4456,7 +4571,8 @@
    "id": "the-speaker-s-society",
    "name": "The Speaker's Society",
    "cat": "charity",
-   "img": "the-speaker-s-society.webp"
+   "img": "the-speaker-s-society.webp",
+   "retired": true
   },
   {
    "id": "the-turkey-point-light-station-inc",
@@ -4570,19 +4686,22 @@
    "id": "trial-judges-association",
    "name": "Trial Judges Association",
    "cat": "charity",
-   "img": "trial-judges-association.webp"
+   "img": "trial-judges-association.webp",
+   "retired": true
   },
   {
    "id": "triumphant-baptist-church",
    "name": "Triumphant Baptist Church",
    "cat": "charity",
-   "img": "triumphant-baptist-church.webp"
+   "img": "triumphant-baptist-church.webp",
+   "retired": true
   },
   {
    "id": "true-buddha-temple-maryland",
    "name": "True Buddha Temple Maryland",
    "cat": "other",
-   "img": "true-buddha-temple-maryland.webp"
+   "img": "true-buddha-temple-maryland.webp",
+   "retired": true
   },
   {
    "id": "tuskegee-airmen-east-coast-chapter",
@@ -4918,7 +5037,8 @@
    "id": "vanguard-justice-society-inc",
    "name": "Vanguard Justice Society, Inc.",
    "cat": "charity",
-   "img": "vanguard-justice-society-inc.webp"
+   "img": "vanguard-justice-society-inc.webp",
+   "retired": true
   },
   {
    "id": "veteran-us-space-force",
@@ -4954,7 +5074,8 @@
    "id": "villa-julie-alumni",
    "name": "Villa Julie Alumni",
    "cat": "colleges",
-   "img": "villa-julie-alumni.webp"
+   "img": "villa-julie-alumni.webp",
+   "retired": true
   },
   {
    "id": "villanova-university",
@@ -5020,7 +5141,8 @@
    "id": "walt-whitman-high-school",
    "name": "Walt Whitman High School",
    "cat": "charity",
-   "img": "walt-whitman-high-school.webp"
+   "img": "walt-whitman-high-school.webp",
+   "retired": true
   },
   {
    "id": "washington-and-lee-university-alumni-ass",
@@ -5038,7 +5160,8 @@
    "id": "washington-bible-college",
    "name": "Washington Bible College",
    "cat": "colleges",
-   "img": "washington-bible-college.webp"
+   "img": "washington-bible-college.webp",
+   "retired": true
   },
   {
    "id": "washington-capitals-charities",
@@ -5068,7 +5191,8 @@
    "id": "washington-district-church-of-the-nazare",
    "name": "Washington District Church of the Nazarene",
    "cat": "charity",
-   "img": "washington-district-church-of-the-nazare.webp"
+   "img": "washington-district-church-of-the-nazare.webp",
+   "retired": true
   },
   {
    "id": "washington-metropolitan-area-transit-aut",
@@ -5092,7 +5216,8 @@
    "id": "water-waste-operators-association-inc",
    "name": "Water & Waste Operators Association, Inc.",
    "cat": "charity",
-   "img": "water-waste-operators-association-inc.webp"
+   "img": "water-waste-operators-association-inc.webp",
+   "retired": true
   },
   {
    "id": "west-friendship-volunteer-fire-departmen",
@@ -5248,7 +5373,8 @@
    "id": "yedz-grotto",
    "name": "Yedz Grotto",
    "cat": "other",
-   "img": "yedz-grotto.webp"
+   "img": "yedz-grotto.webp",
+   "retired": true
   },
   {
    "id": "york-college-of-pennsylvania",
@@ -5317,6 +5443,797 @@
    "img": "amateur-radio-operator.webp",
    "added": "2026-10-26",
    "source": "https://mva.prod.maryland.gov/title-registration/license-plates/specialty-license-plates"
+  },
+  {
+   "id": "annapolis-dragon-boat-club",
+   "name": "Annapolis Dragon Boat Club",
+   "cat": "sports",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Annapolis%20Dragon%20Boat%20Club.png.webp"
+  },
+  {
+   "id": "anne-arundel-county-professional-firefig",
+   "name": "Anne Arundel County Professional Firefighters Local 1563",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Anne-Arundel-County-Professional-Firefighters-Local-1563-AP.gif.webp"
+  },
+  {
+   "id": "anne-arundel-county-retired-fire-fighter",
+   "name": "Anne Arundel County Retired Fire Fighters Association",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/imgi_122_AACO-REtired-Fire-Fighters.gif.webp"
+  },
+  {
+   "id": "arlington-county-fire-department-local-2",
+   "name": "Arlington County Fire Department Local 2800",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/imgi_182_Arlington-Co-Fire-Dept-Local-2800.gif.webp"
+  },
+  {
+   "id": "baltimore-county-fire-department-chief-o",
+   "name": "Baltimore County Fire Department Chief Officers Association, Inc.",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Balto-County-Fire-Chiefs-FX.gif.webp"
+  },
+  {
+   "id": "baltimore-county-fire-fighters-associati",
+   "name": "Baltimore County Fire Fighters Association Local No. 1311",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Balto-Fire-CF.gif.webp"
+  },
+  {
+   "id": "baltimore-county-retired-fire-officers-a",
+   "name": "Baltimore County Retired Fire Officers and Fire Fighters",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Baltimore-County-Retired-RS.gif.webp"
+  },
+  {
+   "id": "baltimore-washington-conference-united-m",
+   "name": "Baltimore Washington Conference United Methodist Church",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Baltimore-Washington-Conference-United-Methodist-Church.jpg.webp"
+  },
+  {
+   "id": "bloomington-volunteer-fire-company",
+   "name": "Bloomington Volunteer Fire Company",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Bloomington-Vol-Fire-Co-BE.jpg.webp"
+  },
+  {
+   "id": "blue-knights-international-law-enforceme",
+   "name": "Blue Knights International Law Enforcement Motorcycle Club, Inc.",
+   "cat": "hobby",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Blue-Knight-M-C-Club-BK.gif.webp"
+  },
+  {
+   "id": "caroline-county-life-support-services-in",
+   "name": "Caroline County Life Support Services, Inc",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Caroline-Co.-E.M.S-ES.gif.webp"
+  },
+  {
+   "id": "carroll-county-local-5184",
+   "name": "Carroll County Local 5184",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Carroll-County-Local-5184-UL.gif.webp"
+  },
+  {
+   "id": "carroll-public-schools",
+   "name": "Carroll Public Schools",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Carroll-Public-Schools-QS.gif.webp"
+  },
+  {
+   "id": "cecil-county-des",
+   "name": "Cecil County DES",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Cecil-County-DES-EM.gif.webp"
+  },
+  {
+   "id": "charles-county-dive-rescue",
+   "name": "Charles County Dive Rescue",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Charles-County-Dive-Rescue-DR.gif.webp"
+  },
+  {
+   "id": "charles-county-iaff-local-4658",
+   "name": "Charles County IAFF Local 4658",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Charles-County-IAFF-Local-4658-CCLU.gif.webp"
+  },
+  {
+   "id": "charles-county-volunteer-rescue-squad-in",
+   "name": "Charles County Volunteer Rescue Squad, Inc.",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Charles-County-Rescue-Sqd-LR.gif.webp"
+  },
+  {
+   "id": "chesapeake-bay-power-boat-association",
+   "name": "Chesapeake Bay Power Boat Association",
+   "cat": "hobby",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Cheasapeake-Bay-Pwr-Boat-As-CPB.gif.webp"
+  },
+  {
+   "id": "cockeysville-volunteer",
+   "name": "Cockeysville Volunteer",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates"
+  },
+  {
+   "id": "dc-united",
+   "name": "DC United",
+   "cat": "sports",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/DCUnited-DCU.jpg.webp"
+  },
+  {
+   "id": "found-in-faith-ministries",
+   "name": "Found In Faith Ministries",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Found-In-Faith-Minitries-InGodWeTrust-IG.png.webp"
+  },
+  {
+   "id": "frederick-county-career-firefighters-ass",
+   "name": "Frederick County Career Firefighters Association I.A.F.F. Local 3666",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Frederick3666-CFA.gif.webp"
+  },
+  {
+   "id": "free-state-nam-knight-motorcycle-club-of",
+   "name": "Free State Nam Knight Motorcycle Club of America",
+   "cat": "hobby",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Nam-Knights-NK.gif.webp"
+  },
+  {
+   "id": "harford-county-deputy-sheriffs-union",
+   "name": "Harford County Deputy Sheriffs Union",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Harford-County-Deputy-Sheriffs-Union.gif.webp"
+  },
+  {
+   "id": "historic-skipjacks",
+   "name": "Historic Skipjacks",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Historic-Skipjacks.jpg.webp"
+  },
+  {
+   "id": "house-of-hope-animal-rescue",
+   "name": "House of Hope Animal Rescue",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/House-of-Hope-Animal-Rescue.gif.webp"
+  },
+  {
+   "id": "howard-county-department-of-fire-and-res",
+   "name": "Howard County Department of Fire and Rescue Services",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Howard-County-Department-of-Fire-and-Rescue-Service.gif.webp"
+  },
+  {
+   "id": "howard-county-professional-fire-officers",
+   "name": "Howard County Professional Fire Officers",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Howard-County-Professional-Fire-Officers.gif.webp"
+  },
+  {
+   "id": "howard-county-professional-firefighters-",
+   "name": "Howard County Professional Firefighters Local 2000",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Howard-County-Professional-Firefighters-Local-2000.gif.webp"
+  },
+  {
+   "id": "howard-university-alumni-chapter-of-prin",
+   "name": "Howard University Alumni Chapter of Prince George's County",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Howard-University-Alumni-Chapter-of-Prince%20Georges-County.gif.webp"
+  },
+  {
+   "id": "humane-society-of-charles-county-inc",
+   "name": "Humane Society of Charles County Inc.",
+   "cat": "charity",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Humane-Society-of-Charles-County.gif.webp"
+  },
+  {
+   "id": "humane-society-of-harford-county",
+   "name": "Humane Society of Harford County",
+   "cat": "charity",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Humane-Society-Of-Harford-County.gif.webp"
+  },
+  {
+   "id": "ibew-local-24",
+   "name": "IBEW Local 24",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/IBEW-Local-24.png.webp"
+  },
+  {
+   "id": "ibew-local-410",
+   "name": "IBEW Local 410",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates"
+  },
+  {
+   "id": "international-longshoremen-s-association",
+   "name": "International Longshoremen's Association (ILA) Local 333",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates"
+  },
+  {
+   "id": "jarrettsville-volunteer-fire-co",
+   "name": "Jarrettsville Volunteer Fire Co.",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates"
+  },
+  {
+   "id": "job-s-daughters",
+   "name": "Job's Daughters",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Jobs-Daughters.gif.webp"
+  },
+  {
+   "id": "law-officers-association-of-baltimore-co",
+   "name": "Law Officers Association of Baltimore County",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Law-Officers-Association-of-Baltimore-County.gif.webp"
+  },
+  {
+   "id": "lynx-motorcycle-club-inc",
+   "name": "Lynx Motorcycle Club Inc",
+   "cat": "hobby",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Lynx-Motorcycle-Club.gif.webp"
+  },
+  {
+   "id": "magfest-inc",
+   "name": "MAGFest Inc.",
+   "cat": "hobby",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates"
+  },
+  {
+   "id": "marshall-university",
+   "name": "Marshall University",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Marshall-University.gif.webp"
+  },
+  {
+   "id": "maryland-dental-hygienists-association",
+   "name": "Maryland Dental Hygienists' Association",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/imgi_194_Dental%20Hygienists%20Assoc.jpg.webp"
+  },
+  {
+   "id": "maryland-food-bank",
+   "name": "Maryland Food Bank",
+   "cat": "charity",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Maryland-Food-Bank.jpg.webp"
+  },
+  {
+   "id": "maryland-municipal-league",
+   "name": "Maryland Municipal League",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Maryland-Municipal-League.gif.webp"
+  },
+  {
+   "id": "maryland-school-bus-contractors",
+   "name": "Maryland School Bus Contractors",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Maryland-School-Bus-Contractors.jpg.webp"
+  },
+  {
+   "id": "montgomery-county-agricultural-fair",
+   "name": "Montgomery County Agricultural Fair",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Montgomery-County-Agricultural-Fair.gif.webp"
+  },
+  {
+   "id": "montgomery-county-fire-and-rescue-servic",
+   "name": "Montgomery County Fire and Rescue Service",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Montgomery-County-Fire-and-Rescue-Service.gif.webp"
+  },
+  {
+   "id": "montgomery-county-humane-society-inc",
+   "name": "Montgomery County Humane Society, Inc.",
+   "cat": "charity",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Montgomery-County-Humane-Society.gif.webp"
+  },
+  {
+   "id": "montgomery-county-police-association-inc",
+   "name": "Montgomery County Police Association, Inc.",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Montgomery-County-Policy-Association.gif.webp"
+  },
+  {
+   "id": "montgomery-county-tennis-association",
+   "name": "Montgomery County Tennis Association",
+   "cat": "sports",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Montgomery-County-Tennis-Association.gif.webp"
+  },
+  {
+   "id": "oriole-advocates-charitable-foundation",
+   "name": "Oriole Advocates Charitable Foundation",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates"
+  },
+  {
+   "id": "past-presidents-of-the-fire-department",
+   "name": "Past Presidents of the Fire Department",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates"
+  },
+  {
+   "id": "past-presidents-of-the-ladies-auxiliary",
+   "name": "Past Presidents of the Ladies Auxiliary",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates"
+  },
+  {
+   "id": "pha-eastern-star",
+   "name": "PHA Eastern Star",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/PHA-Eastern-Star.jpg.webp"
+  },
+  {
+   "id": "pleasant-valley-community-fire-company",
+   "name": "Pleasant Valley Community Fire Company",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Pleasant-Vally-Community-Fire-Company.jpg.webp"
+  },
+  {
+   "id": "potomac-fire-co-no-2-inc",
+   "name": "Potomac Fire Co. No. 2 Inc.",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Potomac-Fire-Company-No-2.png.webp"
+  },
+  {
+   "id": "prince-george-s-county-college-campus",
+   "name": "Prince George's County College Campus",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates"
+  },
+  {
+   "id": "prince-george-s-county-crime-solvers-inc",
+   "name": "Prince George's County Crime Solvers, Inc.",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Prince-Georges-County-Crime-Solvers.gif.webp"
+  },
+  {
+   "id": "red-knights-international-motorcycle-clu",
+   "name": "Red Knights International Motorcycle Club",
+   "cat": "hobby",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Red-Knights-International-Motorcycle-Club.gif.webp"
+  },
+  {
+   "id": "reserve-officers-anne-arundel-county-pol",
+   "name": "Reserve Officers Anne Arundel County Police Department",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Reserve-Officers-Anne-Arundel-County-Police-Department.gif.webp"
+  },
+  {
+   "id": "ridge-volunteer-rescue-squad",
+   "name": "Ridge Volunteer Rescue Squad",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Ridge-Volunteer-Rescue-Squad.gif.webp"
+  },
+  {
+   "id": "society-of-senate-s-past",
+   "name": "Society of Senate's Past",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Society-of-Senates-Past.gif.webp"
+  },
+  {
+   "id": "southern-garrett-county-rescue-squad-inc",
+   "name": "Southern Garrett County Rescue Squad, Inc.",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Southern-Garrett-Rescue-Squad.gif.webp"
+  },
+  {
+   "id": "st-mary-s-county-als-unit",
+   "name": "St. Mary's County ALS Unit",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/St.-Marys-County-ALS-Unit.gif.webp"
+  },
+  {
+   "id": "st-mary-s-county-tennis-association-inc",
+   "name": "St. Mary's County Tennis Association Inc.",
+   "cat": "sports",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/St-Marys-County-Tennis-Association-Inc.gif.webp"
+  },
+  {
+   "id": "st-pauls-college-alumni",
+   "name": "St. Pauls College Alumni",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates"
+  },
+  {
+   "id": "teacher-of-the-year",
+   "name": "Teacher of the Year",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates"
+  },
+  {
+   "id": "the-one-hundred-club-of-anne-arundel-cou",
+   "name": "The One Hundred Club of Anne Arundel County",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/The-One-Hundred-Club.gif.webp"
+  },
+  {
+   "id": "town-of-la-plata",
+   "name": "Town of La Plata",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Town-of-La-Plata.gif.webp"
+  },
+  {
+   "id": "united-steelworkers-of-america-local-260",
+   "name": "United Steelworkers of America Local 2609",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates"
+  },
+  {
+   "id": "united-steelworkers-of-america-local-911",
+   "name": "United Steelworkers of America Local 9116",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates"
+  },
+  {
+   "id": "university-of-maryland-baltimore-county-",
+   "name": "University of Maryland Baltimore County Foundation, Inc.",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates"
+  },
+  {
+   "id": "upper-montgomery-county-volunteer-fire-d",
+   "name": "Upper Montgomery County Volunteer Fire Department",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Upper-Montgomery-County-Volunteer-Fire-Department.gif.webp"
+  },
+  {
+   "id": "velo-city-riders-cycling",
+   "name": "Velo City Riders Cycling",
+   "cat": "sports",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Velo-City-Riders-Cycling.png.webp"
+  },
+  {
+   "id": "warrior-canine-connection",
+   "name": "Warrior Canine Connection",
+   "cat": "charity",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Warrior-Canine-Connection.png.webp"
+  },
+  {
+   "id": "washington-county-fire-police",
+   "name": "Washington County Fire Police",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Washington-County-Fire-Police.gif.webp"
+  },
+  {
+   "id": "washington-redskins-charitable-foundatio",
+   "name": "Washington Redskins Charitable Foundation",
+   "cat": "sports",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates"
+  },
+  {
+   "id": "worcester-county-fire-police",
+   "name": "Worcester County Fire Police",
+   "cat": "firstresponder",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Worchester-County-Fire-Police.jpg.webp"
+  },
+  {
+   "id": "zeta-phi-beta-sorority",
+   "name": "Zeta Phi Beta Sorority",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Zeta-Phi-Beta-Sorority-Inc.jpg.webp"
+  },
+  {
+   "id": "bruce-high-school-alumni",
+   "name": "Bruce High School Alumni",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates"
+  },
+  {
+   "id": "fleet-reserve-association",
+   "name": "Fleet Reserve Association",
+   "cat": "veterans",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/imgi_155_Fleet-Reserve-Association.gif.webp"
+  },
+  {
+   "id": "livingstone-college",
+   "name": "Livingstone College",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates"
+  },
+  {
+   "id": "maryland-state-teachers-association",
+   "name": "Maryland State Teachers Association",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates"
+  },
+  {
+   "id": "mississippi-state-university",
+   "name": "Mississippi State University",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-06/Mississippi-State-University.gif.webp"
+  },
+  {
+   "id": "university-of-illinois-alumni-club-of-gr",
+   "name": "University of Illinois Alumni Club of Greater Washington DC",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates"
+  },
+  {
+   "id": "veteran-u-s-air-force",
+   "name": "Veteran U.S. Air Force",
+   "cat": "veterans",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/your-mva-guide/military-service-members/license-plates/view-all-military-veteran-license-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-04/Veteran%20US%20Air%20Force.png.webp"
+  },
+  {
+   "id": "veteran-u-s-army",
+   "name": "Veteran U.S. Army",
+   "cat": "veterans",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/your-mva-guide/military-service-members/license-plates/view-all-military-veteran-license-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-04/Veteran%20US%20Army2.jpg.webp"
+  },
+  {
+   "id": "veteran-u-s-marine-corps",
+   "name": "Veteran U.S. Marine Corps",
+   "cat": "veterans",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/your-mva-guide/military-service-members/license-plates/view-all-military-veteran-license-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-04/Veteran-US-Marine-Corps.jpg.webp"
+  },
+  {
+   "id": "veteran-u-s-navy",
+   "name": "Veteran U.S. Navy",
+   "cat": "veterans",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/your-mva-guide/military-service-members/license-plates/view-all-military-veteran-license-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-04/VeteranNavy%20%281%29.png.webp"
+  },
+  {
+   "id": "veteran-us-coast-guard-vehicle",
+   "name": "Veteran US Coast Guard (vehicle)",
+   "cat": "veterans",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mva.maryland.gov/your-mva-guide/military-service-members/license-plates/view-all-military-veteran-license-plates",
+   "img_url": "https://cdn.maryland.gov/maryland-cms/prod/mva/s3fs-public/styles/16_9_960x540_focal_point_webp/public/images/2026-04/Veteran%20US%20Coast%20Guard.jpg.webp"
   }
  ],
  "checked_on": "2026-10-26"

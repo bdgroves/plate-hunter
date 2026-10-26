@@ -2,9 +2,9 @@
  "code": "MS",
  "name": "Mississippi",
  "rated": false,
- "checked": false,
+ "checked": true,
  "updated": "2026-10-25",
- "about": "Mississippi special-design plates. Not rated yet: every plate is worth the same. Partly checked for plates added since 2023. Checked for plates added since 2023 on 2026-10-26.",
+ "about": "Mississippi special-design plates. Not rated yet: every plate is worth the same. Partly checked for plates added since 2023. Checked for plates added since 2023 on 2026-10-26. Checked for plates added since 2023 on 2026-10-26.",
  "sources": [
   {
    "title": "Jon Keegan, us-license-plates (2023)",
@@ -130,7 +130,8 @@
    "id": "blair-e-batson-children-hospital",
    "name": "Blair E Batson Children Hospital",
    "cat": "charity",
-   "img": "blair-e-batson-children-hospital.webp"
+   "img": "blair-e-batson-children-hospital.webp",
+   "retired": true
   },
   {
    "id": "board-of-contractor",
@@ -436,7 +437,9 @@
    "id": "female-veteran-cost-guard",
    "name": "Female Veteran - Cost Guard",
    "cat": "veterans",
-   "img": "female-veteran-cost-guard.webp"
+   "img": "female-veteran-cost-guard.webp",
+   "img_url": "https://www.dor.ms.gov/sites/default/files/motor-vehicle-services/license-plates/FCG.PNG",
+   "redesigned": "2026-10-26"
   },
   {
    "id": "female-veteran-marine",
@@ -1387,7 +1390,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
-   "no_official_picture": true
+   "no_official_picture": true,
+   "img_url": "https://www.dor.ms.gov/sites/default/files/motor-vehicle-services/license-plates/2022%2520National%2520Championship%2520Ole%2520Miss%2520Baseball.jpg"
   },
   {
    "id": "alzheimer-s-awareness",
@@ -1395,7 +1399,8 @@
    "cat": "charity",
    "img": null,
    "added": "2026-10-26",
-   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates"
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+   "img_url": "https://www.dor.ms.gov/sites/default/files/motor-vehicle-services/license-plates/UMMC-Alzheimer_0.JPG"
   },
   {
    "id": "diocese-of-biloxi",
@@ -1403,7 +1408,8 @@
    "cat": "other",
    "img": null,
    "added": "2026-10-26",
-   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates"
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+   "img_url": "https://www.dor.ms.gov/sites/default/files/motor-vehicle-services/license-plates/Screenshot%25202023-08-31%2520154222.jpg"
   },
   {
    "id": "ev-mississippi",
@@ -1411,7 +1417,8 @@
    "cat": "vehicle",
    "img": null,
    "added": "2026-10-26",
-   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates"
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+   "img_url": "https://www.dor.ms.gov/sites/default/files/motor-vehicle-services/license-plates/SnipImage%2520%2528002%2529.JPG"
   },
   {
    "id": "gulf-war-veteran",
@@ -1419,7 +1426,8 @@
    "cat": "veterans",
    "img": null,
    "added": "2026-10-26",
-   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates"
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+   "img_url": "https://www.dor.ms.gov/sites/default/files/motor-vehicle-services/license-plates/Gulf%2520%2528002%2529.png"
   },
   {
    "id": "magnolia-heights-school",
@@ -1427,7 +1435,8 @@
    "cat": "other",
    "img": null,
    "added": "2026-10-26",
-   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates"
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+   "img_url": "https://www.dor.ms.gov/sites/default/files/motor-vehicle-services/license-plates/Magnolia%2520%2528002%2529.png"
   },
   {
    "id": "mississippi-aquarium",
@@ -1435,7 +1444,8 @@
    "cat": "nature",
    "img": null,
    "added": "2026-10-26",
-   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates"
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+   "img_url": "https://www.dor.ms.gov/sites/default/files/motor-vehicle-services/license-plates/MS%2520Aquarium%2520%2528001%2529.JPG"
   },
   {
    "id": "neshoba-central-rockets",
@@ -1443,7 +1453,8 @@
    "cat": "other",
    "img": null,
    "added": "2026-10-26",
-   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates"
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+   "img_url": "https://www.dor.ms.gov/sites/default/files/motor-vehicle-services/license-plates/Neshoba%2520%2528002%2529.png"
   },
   {
    "id": "ms-sweet-potato",
@@ -1452,7 +1463,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://www.producemarketguide.com/news/sweetpotato-councils-promotional-plans-include-focus-health-highlights-license",
-   "year": "2025"
+   "year": "2025",
+   "img_url": "https://www.dor.ms.gov/sites/default/files/motor-vehicle-services/license-plates/Sweet%20Potato.jpg"
   },
   {
    "id": "friends-of-children-s-hospital",
@@ -1460,7 +1472,126 @@
    "cat": "charity",
    "img": null,
    "added": "2026-10-26",
-   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates"
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+   "img_url": "https://www.dor.ms.gov/sites/default/files/motor-vehicle-services/license-plates/Friends%2520of%2520Children%25E2%2580%2599s%2520Hospital.JPG"
+  },
+  {
+   "id": "columbus-municipal-school-district",
+   "name": "Columbus Municipal School District",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+   "img_url": "https://www.dor.ms.gov/sites/default/files/motor-vehicle-services/license-plates/FS_0.PNG"
+  },
+  {
+   "id": "friends-of-jackson-county-animal-shelter",
+   "name": "Friends of Jackson County Animal Shelter",
+   "cat": "charity",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+   "img_url": "https://www.dor.ms.gov/sites/default/files/motor-vehicle-services/license-plates/Jackson%252520County%252520Animal%252520Shelter_jpg.jpg"
+  },
+  {
+   "id": "george-county-school-district",
+   "name": "George County School District",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+   "img_url": "https://www.dor.ms.gov/sites/default/files/motor-vehicle-services/license-plates/George%252520County%252520School%252520District_jpg.jpg"
+  },
+  {
+   "id": "lafayette-county-school-district",
+   "name": "Lafayette County School District",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+   "img_url": "https://www.dor.ms.gov/sites/default/files/motor-vehicle-services/license-plates/Lafayette%252520County%252520School%252520District_jpg.jpg"
+  },
+  {
+   "id": "rankin-county-school-district",
+   "name": "Rankin County School District",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+   "img_url": "https://www.dor.ms.gov/sites/default/files/motor-vehicle-services/license-plates/Rankin%252520County%252520School%252520District_jpg.jpg"
+  },
+  {
+   "id": "stone-county-school-district",
+   "name": "Stone County School District",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+   "img_url": "https://www.dor.ms.gov/sites/default/files/motor-vehicle-services/license-plates/Stone%252520County%252520School%252520District_jpg.jpg"
+  },
+  {
+   "id": "sunflower-county-ministerial-alliance-co",
+   "name": "Sunflower County Ministerial Alliance Counseling Services",
+   "cat": "charity",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+   "img_url": "https://www.dor.ms.gov/sites/default/files/motor-vehicle-services/license-plates/TF.PNG"
+  },
+  {
+   "id": "blackout-passenger",
+   "name": "Blackout Passenger",
+   "cat": "other",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+   "img_url": "https://www.dor.ms.gov/sites/default/files/motor-vehicle-services/license-plates/Blackout%20Passenger.png",
+   "year": "2024"
+  },
+  {
+   "id": "100-disabled-veteran-air-force",
+   "name": "100% Disabled Veteran Air Force",
+   "cat": "veterans",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+   "img_url": "https://www.dor.ms.gov/sites/default/files/motor-vehicle-services/license-plates/MS.PLTVAF.JPG.JPG"
+  },
+  {
+   "id": "100-disabled-veteran-army",
+   "name": "100% Disabled Veteran Army",
+   "cat": "veterans",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+   "img_url": "https://www.dor.ms.gov/sites/default/files/motor-vehicle-services/license-plates/MS.PLTVAY.JPG.JPG"
+  },
+  {
+   "id": "100-disabled-veteran-coast-guard",
+   "name": "100% Disabled Veteran Coast Guard",
+   "cat": "veterans",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+   "img_url": "https://www.dor.ms.gov/sites/default/files/motor-vehicle-services/license-plates/MS.PLTVCG.JPG.JPG"
+  },
+  {
+   "id": "100-disabled-veteran-marine",
+   "name": "100% Disabled Veteran Marine",
+   "cat": "veterans",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+   "img_url": "https://www.dor.ms.gov/sites/default/files/motor-vehicle-services/license-plates/MS.PLTVMR.JPG.JPG"
+  },
+  {
+   "id": "100-disabled-veteran-navy",
+   "name": "100% Disabled Veteran Navy",
+   "cat": "veterans",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
+   "img_url": "https://www.dor.ms.gov/sites/default/files/motor-vehicle-services/license-plates/MS.PLTVNV.JPG.JPG"
   }
  ],
  "checked_on": "2026-10-26"

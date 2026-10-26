@@ -22,13 +22,25 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from research_from_keegan import SKIP, category  # noqa: E402
+from research_from_keegan import category  # noqa: E402
 from plate_robot import slug, words  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 TODAY = dt.date.today().isoformat()
 CATS = {"military", "veterans", "nature", "sports", "colleges", "firstresponder", "charity", "hobby",
         "vehicle", "tribal", "other"}
+
+
+# Research files are checked by hand, so only drop plates that aren't for everyday cars.
+# (The importer's broader SKIP also drops "county" and "boat", which would lose real plates
+# like "Rankin County School District" or "Chesapeake Bay Power Boat Association".)
+NOT_A_CAR = re.compile(r"""\b(motorcycles?(?!\s+club)|moped|autocycle|trailers?|dealers?|manufacturers?|transporters?|
+    exempt|temporary|in[- ]transit|permit|taxi|for\shire|apportioned|commercial|tractor|wrecker|
+    off[- ]?highway|snowmobile)\b""", re.I | re.X)
+
+
+def squash(name: str) -> str:
+    return re.sub(r"[^a-z0-9&]", "", name.lower())
 
 
 def same_name(a: str, b: str, state: str) -> bool:
@@ -47,8 +59,11 @@ def apply(path: Path) -> str:
 
     for n in r.get("new", []):
         title = (n.get("title") or "").strip()
-        if (not title or n.get("matches_existing") or SKIP.search(title)
-                or any(same_name(title, p["name"], state_name) for p in plates)):
+        # a plate counts as already in the game only under the same name: the researcher compared
+        # names by hand, and a loose match takes "Southern University" for "Georgia Southern" and
+        # "Florida A&M" for "University of Florida"
+        if (not title or n.get("matches_existing") or NOT_A_CAR.search(title)
+                or any(squash(p["name"]) == squash(title) for p in plates)):
             continue
         pid = slug(title)
         while pid in ids:
@@ -65,22 +80,26 @@ def apply(path: Path) -> str:
         plates.append(p)
         added += 1
 
+    def find(name: str):
+        # an exact name first: "Houston Texans" must not stand in for "Houston Texans - State"
+        return next((p for p in plates if p["name"] == name), None) or \
+               next((p for p in plates if same_name(name, p["name"], state_name)), None)
+
     for d in r.get("redesigned", []):
-        hit = next((p for p in plates if same_name(d.get("name_in_game", ""), p["name"], state_name)), None)
+        hit = find(d.get("name_in_game", ""))
         if hit and d.get("source_img") and hit.get("img_url") != d["source_img"]:
             hit["img_url"], hit["redesigned"] = d["source_img"], TODAY
             redesigned += 1
 
     pictured = 0
     for d in r.get("pictures", []):
-        hit = next((p for p in plates if p["name"] == d.get("name_in_game")), None) or \
-              next((p for p in plates if same_name(d.get("name_in_game", ""), p["name"], state_name)), None)
+        hit = find(d.get("name_in_game", ""))
         if hit and not hit.get("img") and d.get("source_img"):
             hit["img_url"] = d["source_img"]
             pictured += 1
 
     for d in r.get("retired", []):
-        hit = next((p for p in plates if same_name(d.get("name_in_game", ""), p["name"], state_name)), None)
+        hit = find(d.get("name_in_game", ""))
         if hit and not hit.get("retired"):
             hit["retired"] = True
             retired += 1

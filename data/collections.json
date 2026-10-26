@@ -27,9 +27,9 @@
   "code": "AZ",
   "name": "Arizona",
   "file": "data/AZ.json",
-  "count": 116,
+  "count": 117,
   "rated": false,
-  "checked": false
+  "checked": true
  },
  {
   "code": "AR",
@@ -91,9 +91,9 @@
   "code": "GA",
   "name": "Georgia",
   "file": "data/GA.json",
-  "count": 292,
+  "count": 302,
   "rated": false,
-  "checked": false
+  "checked": true
  },
  {
   "code": "HI",
@@ -115,9 +115,9 @@
   "code": "IL",
   "name": "Illinois",
   "file": "data/IL.json",
-  "count": 102,
+  "count": 148,
   "rated": false,
-  "checked": false
+  "checked": true
  },
  {
   "code": "IN",
@@ -147,9 +147,9 @@
   "code": "KY",
   "name": "Kentucky",
   "file": "data/KY.json",
-  "count": 162,
+  "count": 194,
   "rated": false,
-  "checked": false
+  "checked": true
  },
  {
   "code": "LA",
@@ -171,9 +171,9 @@
   "code": "MD",
   "name": "Maryland",
   "file": "data/MD.json",
-  "count": 881,
+  "count": 971,
   "rated": false,
-  "checked": false
+  "checked": true
  },
  {
   "code": "MA",
@@ -203,9 +203,9 @@
   "code": "MS",
   "name": "Mississippi",
   "file": "data/MS.json",
-  "count": 238,
+  "count": 251,
   "rated": false,
-  "checked": false
+  "checked": true
  },
  {
   "code": "MO",
@@ -219,9 +219,9 @@
   "code": "MT",
   "name": "Montana",
   "file": "data/MT.json",
-  "count": 268,
+  "count": 272,
   "rated": false,
-  "checked": false
+  "checked": true
  },
  {
   "code": "NE",
@@ -355,9 +355,9 @@
   "code": "TX",
   "name": "Texas",
   "file": "data/TX.json",
-  "count": 514,
+  "count": 527,
   "rated": false,
-  "checked": false
+  "checked": true
  },
  {
   "code": "UT",
@@ -379,9 +379,9 @@
   "code": "VA",
   "name": "Virginia",
   "file": "data/VA.json",
-  "count": 271,
+  "count": 276,
   "rated": false,
-  "checked": false
+  "checked": true
  },
  {
   "code": "WV",

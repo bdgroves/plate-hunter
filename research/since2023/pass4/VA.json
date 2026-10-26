@@ -1,0 +1,93 @@
+{
+ "state": "VA",
+ "checked": [
+  "https://www.dmv.virginia.gov/vehicles/license-plates/search (all 35 pages via ?page=0-34, 342 entries)",
+  "https://www.dmv.virginia.gov/vehicles/license-plates/search/batten-university",
+  "https://www.dmv.virginia.gov/vehicles/license-plates/search/town-vienna-250th",
+  "https://www.dmv.virginia.gov/vehicles/license-plates/search/support-women-veterans",
+  "https://www.dmv.virginia.gov/vehicles/license-plates/search/boat-us",
+  "https://www.dmv.virginia.gov/vehicles/license-plates/search/city-manassas",
+  "https://www.dmv.virginia.gov/vehicles/license-plates/search/radford-university-highlanders"
+ ],
+ "robot_url": "https://www.dmv.virginia.gov/vehicles/license-plates/search",
+ "new": [
+  {
+   "title": "Batten University",
+   "cat": "colleges",
+   "source_img": "https://www.dmv.virginia.gov/sites/default/files/styles/max_650x650/public/images/bu.jpg",
+   "source": "https://www.dmv.virginia.gov/vehicles/license-plates/search/batten-university",
+   "year": "2025",
+   "matches_existing": "Virginia Wesleyan University"
+  },
+  {
+   "title": "Boat US",
+   "cat": "hobby",
+   "source_img": "https://www.dmv.virginia.gov/sites/default/files/styles/max_650x650/public/images/boat.jpg",
+   "source": "https://www.dmv.virginia.gov/vehicles/license-plates/search/boat-us",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "City of Manassas",
+   "cat": "other",
+   "source_img": "https://www.dmv.virginia.gov/sites/default/files/styles/max_650x650/public/images/mana.jpg",
+   "source": "https://www.dmv.virginia.gov/vehicles/license-plates/search/city-manassas",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Radford University Highlanders",
+   "cat": "colleges",
+   "source_img": "https://www.dmv.virginia.gov/sites/default/files/styles/max_650x650/public/images/radu.jpg",
+   "source": "https://www.dmv.virginia.gov/vehicles/license-plates/search/radford-university-highlanders",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Support Women Veterans",
+   "cat": "veterans",
+   "source_img": "https://www.dmv.virginia.gov/sites/default/files/styles/max_650x650/public/images/swv.jpg",
+   "source": "https://www.dmv.virginia.gov/vehicles/license-plates/search/support-women-veterans",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Town of Vienna 250th",
+   "cat": "other",
+   "source_img": "https://www.dmv.virginia.gov/sites/default/files/styles/max_650x650/public/images/vnna.jpg",
+   "source": "https://www.dmv.virginia.gov/vehicles/license-plates/search/town-vienna-250th",
+   "year": null,
+   "matches_existing": null
+  }
+ ],
+ "redesigned": [
+  {
+   "name_in_game": "Virginia Wesleyan University",
+   "source_img": "https://www.dmv.virginia.gov/sites/default/files/styles/max_650x650/public/images/bu.jpg",
+   "note": "Renamed Batten University (2025); DMV now issues BU plates and VWC/VWC2/VWC3 are renew/transfer only. Listed in 'new' too with matches_existing; use whichever fits the game."
+  },
+  {
+   "name_in_game": "Rotary International",
+   "source_img": "https://www.dmv.virginia.gov/sites/default/files/styles/max_650x650/public/images/roi2.jpg",
+   "note": "DMV lists 'Rotary International (redesign)' (ROI2); date of redesign not shown."
+  }
+ ],
+ "retired": [
+  {
+   "name_in_game": "Robert E. Lee",
+   "source": "https://www.dmv.virginia.gov/vehicles/license-plates/search (absent from all 342 entries)"
+  },
+  {
+   "name_in_game": "Sons of Confederate Veterans",
+   "source": "https://www.dmv.virginia.gov/vehicles/license-plates/search (absent from all 342 entries)"
+  }
+ ],
+ "pictures": [
+  {
+   "name_in_game": "250th American Revolution Anniversary",
+   "source_img": "https://www.dmv.virginia.gov/sites/default/files/styles/max_650x650/public/images/ara.jpg"
+  }
+ ],
+ "complete": true,
+ "notes": "In the browser the DMV list pages do carry <img> tags, so the search page works as robot_url (10 per page, ?page=0..34). Diffed all 342 entries; skipped commercial/for-hire, trailer, truck-only (Don't Tread On Me Truck, Tobacco Heritage Truck), moped, low-speed and motorcycle versions. Lee and SCV plates are gone from the catalog (HB 1344). Years unknown for the new plates except Batten (Virginia Wesleyan renamed 2025). DMV also marks Longwood, George Mason (both), George Washington and W&M Athletic as '(redesign)'; their dates aren't shown, so they aren't listed as redesigned. Game entries 'private or for-hire' and 'Permanent (private or for-hire' are garbled truck-plate rows and could be removed. Not in catalog yet: Celebrate Diversity, Lupus Awareness, Richmond SPCA, Air Force emblem."
+}

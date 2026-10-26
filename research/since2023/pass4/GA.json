@@ -1,0 +1,115 @@
+{
+ "state": "GA",
+ "checked": [
+  "https://mvd.dor.ga.gov/motor/plates/PlateSelection.aspx",
+  "https://mvd.dor.ga.gov/motor/plates/PlateDetails.aspx?PlateCode=A8",
+  "https://mvd.dor.ga.gov/motor/plates/PlateDetails.aspx?PlateCode=VT",
+  "https://mvd.dor.ga.gov/motor/plates/PlateDetails.aspx?PlateCode=S8",
+  "https://mvd.dor.ga.gov/motor/plates/PlateDetails.aspx?PlateCode=C6",
+  "https://mvd.dor.ga.gov/motor/plates/PlateDetails.aspx?PlateCode=S7",
+  "https://mvd.dor.ga.gov/motor/plates/PlateDetails.aspx?PlateCode=MI",
+  "https://mvd.dor.ga.gov/motor/plates/PlateDetails.aspx?PlateCode=RZ",
+  "https://mvd.dor.ga.gov/motor/plates/PlateDetails.aspx?PlateCode=R2",
+  "https://mvd.dor.ga.gov/motor/plates/PlateDetails.aspx?PlateCode=R3",
+  "https://mvd.dor.ga.gov/motor/plates/PlateDetails.aspx?PlateCode=R4",
+  "https://mvd.dor.ga.gov/motor/plates/PlateDetails.aspx?PlateCode=R5",
+  "https://mvd.dor.ga.gov/motor/plates/PlateDetails.aspx?PlateCode=R6"
+ ],
+ "robot_url": "https://mvd.dor.ga.gov/motor/plates/PlateSelection.aspx",
+ "new": [
+  {
+   "title": "Alabama State University",
+   "cat": "colleges",
+   "source_img": "https://mvd.dor.ga.gov/motor/plates/images/2004/S8_Large.jpg",
+   "source": "https://mvd.dor.ga.gov/motor/plates/PlateDetails.aspx?PlateCode=S8",
+   "year": "2025-2026",
+   "matches_existing": null
+  },
+  {
+   "title": "Shepherd Center",
+   "cat": "charity",
+   "source_img": "https://mvd.dor.ga.gov/motor/plates/images/2004/C6_Large.jpg",
+   "source": "https://mvd.dor.ga.gov/motor/plates/PlateDetails.aspx?PlateCode=C6",
+   "year": "2025-2026",
+   "matches_existing": null
+  },
+  {
+   "title": "Southern University",
+   "cat": "colleges",
+   "source_img": "https://mvd.dor.ga.gov/motor/plates/images/2004/S7_Large.jpg",
+   "source": "https://mvd.dor.ga.gov/motor/plates/PlateDetails.aspx?PlateCode=S7",
+   "year": "2025-2026",
+   "matches_existing": null
+  },
+  {
+   "title": "Samford University",
+   "cat": "colleges",
+   "source_img": "https://mvd.dor.ga.gov/motor/plates/images/2004/MI_Large.jpg",
+   "source": "https://mvd.dor.ga.gov/motor/plates/PlateDetails.aspx?PlateCode=MI",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "National Guard - Retired",
+   "cat": "military",
+   "source_img": "https://mvd.dor.ga.gov/motor/plates/images/2004/RZ_Large.jpg",
+   "source": "https://mvd.dor.ga.gov/motor/plates/PlateDetails.aspx?PlateCode=RZ",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Reserve Air Force - Retired",
+   "cat": "military",
+   "source_img": "https://mvd.dor.ga.gov/motor/plates/images/2004/R2_Large.jpg",
+   "source": "https://mvd.dor.ga.gov/motor/plates/PlateDetails.aspx?PlateCode=R2",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Reserve Army - Retired",
+   "cat": "military",
+   "source_img": "https://mvd.dor.ga.gov/motor/plates/images/2004/R3_Large.jpg",
+   "source": "https://mvd.dor.ga.gov/motor/plates/PlateDetails.aspx?PlateCode=R3",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Reserve Coast Guard - Retired",
+   "cat": "military",
+   "source_img": "https://mvd.dor.ga.gov/motor/plates/images/2004/R4_Large.jpg",
+   "source": "https://mvd.dor.ga.gov/motor/plates/PlateDetails.aspx?PlateCode=R4",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Reserve Marine - Retired",
+   "cat": "military",
+   "source_img": "https://mvd.dor.ga.gov/motor/plates/images/2004/R5_Large.jpg",
+   "source": "https://mvd.dor.ga.gov/motor/plates/PlateDetails.aspx?PlateCode=R5",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Reserve Navy - Retired",
+   "cat": "military",
+   "source_img": "https://mvd.dor.ga.gov/motor/plates/images/2004/R6_Large.jpg",
+   "source": "https://mvd.dor.ga.gov/motor/plates/PlateDetails.aspx?PlateCode=R6",
+   "year": null,
+   "matches_existing": null
+  }
+ ],
+ "redesigned": [],
+ "retired": [],
+ "pictures": [
+  {
+   "name_in_game": "America First",
+   "source_img": "https://mvd.dor.ga.gov/motor/plates/images/2004/A8_Large.jpg"
+  },
+  {
+   "name_in_game": "Selfless Service (Georgia Veterans Service Foundation)",
+   "source_img": "https://mvd.dor.ga.gov/motor/plates/images/2004/VT_Large.jpg"
+  }
+ ],
+ "complete": true,
+ "notes": "Read the full GA DOR plate list (PlateSelection.aspx, 339 links incl. motorcycle) in the browser. Every plate image is at mvd.dor.ga.gov/motor/plates/images/2004/<PlateCode>_Large.jpg (the folder is always '2004'; codes come from PlateDetails.aspx?PlateCode=XX links). Selfless Service is listed as 'Georgia Veterans Plate' (code VT), and I confirmed it by viewing the image. Alabama State, Shepherd Center and Southern University are HB 208 plates now in the catalog. Samford and the National Guard/Reserve 'Retired' variants may be older plates the 2023 snapshot missed, so their years are unknown. Every game plate matched a catalog entry, so there are no retirements; the '-no longer available' plates are already flagged in the game. Skipped: Ambulance, Hearse, Limousine, Taxi, Trailer, Low Speed Vehicle, MPOHV, Retired Legislators, and the Standard/Standard Alternate/America 250 standard plates."
+}

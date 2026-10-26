@@ -2,9 +2,9 @@
  "code": "GA",
  "name": "Georgia",
  "rated": false,
- "checked": false,
+ "checked": true,
  "updated": "2026-10-25",
- "about": "Georgia special-design plates. Not rated yet: every plate is worth the same. Partly checked for plates added since 2023. Checked for plates added since 2023 on 2026-10-26.",
+ "about": "Georgia special-design plates. Not rated yet: every plate is worth the same. Partly checked for plates added since 2023. Checked for plates added since 2023 on 2026-10-26. Checked for plates added since 2023 on 2026-10-26.",
  "sources": [
   {
    "title": "Jon Keegan, us-license-plates (2023)",
@@ -1747,7 +1747,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://www.wctv.tv/2025/12/30/america-first-license-plate-available-january/",
-   "year": "2026"
+   "year": "2026",
+   "img_url": "https://mvd.dor.ga.gov/motor/plates/images/2004/A8_Large.jpg"
   },
   {
    "id": "selfless-service-georgia-veterans-servic",
@@ -1756,7 +1757,8 @@
    "img": null,
    "added": "2026-10-26",
    "source": "https://www.atlantanewsfirst.com/2026/01/02/georgia-releases-new-specialty-license-plates-2026/",
-   "year": "2026"
+   "year": "2026",
+   "img_url": "https://mvd.dor.ga.gov/motor/plates/images/2004/VT_Large.jpg"
   },
   {
    "id": "georgia-state-parks",
@@ -1775,6 +1777,99 @@
    "added": "2026-10-26",
    "source": "https://gadnr.org/new-bass-conservation-license-plate-now-available",
    "year": "2026"
+  },
+  {
+   "id": "alabama-state-university",
+   "name": "Alabama State University",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mvd.dor.ga.gov/motor/plates/PlateDetails.aspx?PlateCode=S8",
+   "img_url": "https://mvd.dor.ga.gov/motor/plates/images/2004/S8_Large.jpg",
+   "year": "2025-2026"
+  },
+  {
+   "id": "shepherd-center",
+   "name": "Shepherd Center",
+   "cat": "charity",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mvd.dor.ga.gov/motor/plates/PlateDetails.aspx?PlateCode=C6",
+   "img_url": "https://mvd.dor.ga.gov/motor/plates/images/2004/C6_Large.jpg",
+   "year": "2025-2026"
+  },
+  {
+   "id": "southern-university",
+   "name": "Southern University",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mvd.dor.ga.gov/motor/plates/PlateDetails.aspx?PlateCode=S7",
+   "img_url": "https://mvd.dor.ga.gov/motor/plates/images/2004/S7_Large.jpg",
+   "year": "2025-2026"
+  },
+  {
+   "id": "samford-university",
+   "name": "Samford University",
+   "cat": "colleges",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mvd.dor.ga.gov/motor/plates/PlateDetails.aspx?PlateCode=MI",
+   "img_url": "https://mvd.dor.ga.gov/motor/plates/images/2004/MI_Large.jpg"
+  },
+  {
+   "id": "national-guard-retired",
+   "name": "National Guard - Retired",
+   "cat": "military",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mvd.dor.ga.gov/motor/plates/PlateDetails.aspx?PlateCode=RZ",
+   "img_url": "https://mvd.dor.ga.gov/motor/plates/images/2004/RZ_Large.jpg"
+  },
+  {
+   "id": "reserve-air-force-retired",
+   "name": "Reserve Air Force - Retired",
+   "cat": "military",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mvd.dor.ga.gov/motor/plates/PlateDetails.aspx?PlateCode=R2",
+   "img_url": "https://mvd.dor.ga.gov/motor/plates/images/2004/R2_Large.jpg"
+  },
+  {
+   "id": "reserve-army-retired",
+   "name": "Reserve Army - Retired",
+   "cat": "military",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mvd.dor.ga.gov/motor/plates/PlateDetails.aspx?PlateCode=R3",
+   "img_url": "https://mvd.dor.ga.gov/motor/plates/images/2004/R3_Large.jpg"
+  },
+  {
+   "id": "reserve-coast-guard-retired",
+   "name": "Reserve Coast Guard - Retired",
+   "cat": "military",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mvd.dor.ga.gov/motor/plates/PlateDetails.aspx?PlateCode=R4",
+   "img_url": "https://mvd.dor.ga.gov/motor/plates/images/2004/R4_Large.jpg"
+  },
+  {
+   "id": "reserve-marine-retired",
+   "name": "Reserve Marine - Retired",
+   "cat": "military",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mvd.dor.ga.gov/motor/plates/PlateDetails.aspx?PlateCode=R5",
+   "img_url": "https://mvd.dor.ga.gov/motor/plates/images/2004/R5_Large.jpg"
+  },
+  {
+   "id": "reserve-navy-retired",
+   "name": "Reserve Navy - Retired",
+   "cat": "military",
+   "img": null,
+   "added": "2026-10-26",
+   "source": "https://mvd.dor.ga.gov/motor/plates/PlateDetails.aspx?PlateCode=R6",
+   "img_url": "https://mvd.dor.ga.gov/motor/plates/images/2004/R6_Large.jpg"
   }
  ],
  "checked_on": "2026-10-26"

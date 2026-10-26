@@ -1,0 +1,306 @@
+{
+ "state": "TX",
+ "checked": [
+  "https://www.myplates.com/design/personalized/passenger/",
+  "https://www.myplates.com/api/plates",
+  "https://www.myplates.com/api/vehicletypes",
+  "https://www.myplates.com/discontinued-plates",
+  "https://www.txdmv.gov/motorists/license-plates/specialty-license-plates (redirects to myplates.com)"
+ ],
+ "robot_url": "https://www.myplates.com/api/plates",
+ "new": [
+  {
+   "title": "East Texas A&M University",
+   "cat": "colleges",
+   "source_img": "https://cdn.myplates.com/plates/auto.EastTexasAMU.png",
+   "source": "https://www.myplates.com/api/plates",
+   "year": "2024",
+   "matches_existing": "Texas A&M University - Commerce (school renamed 2024; new design)"
+  },
+  {
+   "title": "Florida A&M University",
+   "cat": "colleges",
+   "source_img": "https://cdn.myplates.com/plates/auto.FAMU.png",
+   "source": "https://www.myplates.com/api/plates",
+   "year": "2024",
+   "matches_existing": null
+  },
+  {
+   "title": "Jackson State University",
+   "cat": "colleges",
+   "source_img": "https://cdn.myplates.com/plates/auto.JacksonStateUniversity.png",
+   "source": "https://www.myplates.com/api/plates",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Clemson University",
+   "cat": "colleges",
+   "source_img": "https://cdn.myplates.com/plates/auto.ClemsonAlumni.png",
+   "source": "https://www.myplates.com/api/plates",
+   "year": null,
+   "matches_existing": "Clemson University (Pre-order) - now on sale"
+  },
+  {
+   "title": "Texas Elks",
+   "cat": "charity",
+   "source_img": "https://cdn.myplates.com/plates/auto.TexasElks.png",
+   "source": "https://www.myplates.com/api/plates",
+   "year": null,
+   "matches_existing": "Texas Elks (Pre-order) - now on sale"
+  },
+  {
+   "title": "Support Adoption",
+   "cat": "charity",
+   "source_img": "https://cdn.myplates.com/plates/auto.SupportAdoption.png",
+   "source": "https://www.myplates.com/api/plates",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "American Flag",
+   "cat": "other",
+   "source_img": "https://cdn.myplates.com/plates/auto.AmericanFlag.png",
+   "source": "https://www.myplates.com/api/plates",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Lone Star Badge Black",
+   "cat": "other",
+   "source_img": "https://cdn.myplates.com/plates/auto.LoneStarBadgeBlack.png",
+   "source": "https://www.myplates.com/api/plates",
+   "year": "2025",
+   "matches_existing": "Lone Star Badge"
+  },
+  {
+   "title": "Houston Texans H-Town",
+   "cat": "sports",
+   "source_img": "https://cdn.myplates.com/plates/auto.HoustonTexansCrossover.png",
+   "source": "https://www.myplates.com/api/plates",
+   "year": "2026",
+   "matches_existing": "Houston Texans"
+  },
+  {
+   "title": "Navy & Marine Corps Achievement Medal",
+   "cat": "military",
+   "source_img": "https://cdn.myplates.com/plates/auto.nam.png",
+   "source": "https://www.myplates.com/api/plates",
+   "year": "2026",
+   "matches_existing": null
+  },
+  {
+   "title": "Texas Humanitarian Service Medal",
+   "cat": "military",
+   "source_img": "https://cdn.myplates.com/plates/auto.thm.png",
+   "source": "https://www.myplates.com/api/plates",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Texas Superior Service Medal",
+   "cat": "military",
+   "source_img": "https://cdn.myplates.com/plates/auto.ssm.png",
+   "source": "https://www.myplates.com/api/plates",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Texas National Guard",
+   "cat": "military",
+   "source_img": "https://cdn.myplates.com/plates/auto.tgp.png",
+   "source": "https://www.myplates.com/api/plates",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Antique Vehicle",
+   "cat": "vehicle",
+   "source_img": "https://cdn.myplates.com/plates/auto.ap.png",
+   "source": "https://www.myplates.com/api/plates",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Texas Exes Black (Pre-order)",
+   "cat": "colleges",
+   "source_img": "https://cdn.myplates.com/plates/auto.TexasExBlack.png",
+   "source": "https://www.myplates.com/api/plates",
+   "year": null,
+   "matches_existing": "Texas Exes"
+  },
+  {
+   "title": "Medal of Honor - Army",
+   "cat": "military",
+   "source_img": null,
+   "source": "https://www.myplates.com/api/plates",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Medal of Honor - Navy",
+   "cat": "military",
+   "source_img": null,
+   "source": "https://www.myplates.com/api/plates",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Medal of Honor - Air Force",
+   "cat": "military",
+   "source_img": null,
+   "source": "https://www.myplates.com/api/plates",
+   "year": null,
+   "matches_existing": null
+  },
+  {
+   "title": "Legion of Valor Medal",
+   "cat": "military",
+   "source_img": null,
+   "source": "https://www.myplates.com/api/plates",
+   "year": null,
+   "matches_existing": null
+  }
+ ],
+ "redesigned": [],
+ "retired": [
+  {
+   "name_in_game": "Houston Texans - State",
+   "source": "https://www.myplates.com/api/plates (absent from current catalog; replaced by Houston Texans H-Town)"
+  },
+  {
+   "name_in_game": "Sam Houston State University (Pre-order",
+   "source": "https://www.myplates.com/api/plates (pre-order no longer listed; regular Sam Houston State University plate remains)"
+  }
+ ],
+ "pictures": [
+  {
+   "name_in_game": "Operation Freedom's Sentinel",
+   "source_img": "https://cdn.myplates.com/plates/auto.ofs.png"
+  },
+  {
+   "name_in_game": "Antarctica Service Medal",
+   "source_img": "https://cdn.myplates.com/plates/auto.asm.png"
+  },
+  {
+   "name_in_game": "Humanitarian Service Medal",
+   "source_img": "https://cdn.myplates.com/plates/auto.hsm.png"
+  },
+  {
+   "name_in_game": "Industrial Firefighter",
+   "source_img": "https://cdn.myplates.com/plates/auto.iffplt.png"
+  },
+  {
+   "name_in_game": "Retired Peace Officer",
+   "source_img": "https://cdn.myplates.com/plates/auto.rpoplt.png"
+  },
+  {
+   "name_in_game": "Fallen Law Enforcement Officer",
+   "source_img": "https://cdn.myplates.com/plates/auto.feoplt.png"
+  },
+  {
+   "name_in_game": "Texas Homeland Defense Service Medal",
+   "source_img": "https://cdn.myplates.com/plates/auto.hml.png"
+  },
+  {
+   "name_in_game": "Lone Star Distinguished Service Medal",
+   "source_img": "https://cdn.myplates.com/plates/auto.dsm.png"
+  },
+  {
+   "name_in_game": "Texas Outstanding Service Medal",
+   "source_img": "https://cdn.myplates.com/plates/auto.osm.png"
+  },
+  {
+   "name_in_game": "Texas Medal of Merit",
+   "source_img": "https://cdn.myplates.com/plates/auto.mom.png"
+  },
+  {
+   "name_in_game": "Sheriffs' Association of Texas",
+   "source_img": "https://cdn.myplates.com/plates/auto.satplt.png"
+  },
+  {
+   "name_in_game": "K9S4KIDS",
+   "source_img": "https://cdn.myplates.com/plates/auto.k9kplt.png"
+  },
+  {
+   "name_in_game": "Classroom Teacher",
+   "source_img": "https://cdn.myplates.com/plates/auto.cteplt.png"
+  },
+  {
+   "name_in_game": "Retired Classroom Teacher",
+   "source_img": "https://cdn.myplates.com/plates/auto.rctplt.png"
+  },
+  {
+   "name_in_game": "Texas, Our Texas",
+   "source_img": "https://cdn.myplates.com/plates/auto.totplt.png"
+  },
+  {
+   "name_in_game": "Brushed Metal Grill",
+   "source_img": "https://cdn.myplates.com/plates/auto.BrushedMetalGrill.png"
+  },
+  {
+   "name_in_game": "DPS Troopers Foundation",
+   "source_img": "https://cdn.myplates.com/plates/auto.DPSTroopersFoundation.png"
+  },
+  {
+   "name_in_game": "Premium Embossed Black & Yellow",
+   "source_img": "https://cdn.myplates.com/plates/auto.Embossed_YellowBlack.png"
+  },
+  {
+   "name_in_game": "Blue & Gold Premium Embossed",
+   "source_img": "https://cdn.myplates.com/plates/auto.Embossed_GoldBlue.png"
+  },
+  {
+   "name_in_game": "Texas A&M University-Texarkana",
+   "source_img": "https://cdn.myplates.com/plates/auto.coll0149.png"
+  },
+  {
+   "name_in_game": "Guadalupe Mountains National Park",
+   "source_img": "https://cdn.myplates.com/plates/auto.gumo.png"
+  },
+  {
+   "name_in_game": "Lone Star Flag",
+   "source_img": "https://cdn.myplates.com/plates/auto.LoneStarFlag.png"
+  },
+  {
+   "name_in_game": "Ducks Unlimited Crossover",
+   "source_img": "https://cdn.myplates.com/plates/auto.DucksUnlimited.png"
+  },
+  {
+   "name_in_game": "Sand Dollar",
+   "source_img": "https://cdn.myplates.com/plates/auto.SandDollar.png"
+  },
+  {
+   "name_in_game": "Retired Firefighter",
+   "source_img": "https://cdn.myplates.com/plates/auto.rffplt.png"
+  },
+  {
+   "name_in_game": "U.S. Army Ranger",
+   "source_img": "https://cdn.myplates.com/plates/auto.ur.png"
+  },
+  {
+   "name_in_game": "75th Army Ranger Regiment",
+   "source_img": "https://cdn.myplates.com/plates/auto.75r.png"
+  },
+  {
+   "name_in_game": "Animal Friendly - Spay. Neuter. Adopt.",
+   "source_img": "https://cdn.myplates.com/plates/auto.snaplt.png"
+  },
+  {
+   "name_in_game": "Central Catholic High School",
+   "source_img": "https://cdn.myplates.com/plates/auto.cchplt.png"
+  },
+  {
+   "name_in_game": "Disabled Peace Officer",
+   "source_img": "https://cdn.myplates.com/plates/auto.dpoiplt.png"
+  }
+ ],
+ "complete": true,
+ "notes": "Full catalog = My Plates' own JSON (/api/plates, 646 unique passenger designs; TxDMV's specialty-plate page redirects to myplates.com). All 46 cdn.myplates.com/plates images verified to load. Game names matched to catalog by meaning (e.g. 'Classroom Teachers', 'Spay. Neuter. Adopt', 'Federal Humanitarian Service Medal', 'Classic Auto', 'Custom Vehicle'). Medal of Honor and Legion of Valor show only a blank template (no picture). Premium-embossed variants of existing designs (Carbon Fiber, Sand Dollar, Lone Star Flag/Badge Black, UFC, Texas Exes Black, Houston Texans H-Town) and Log Loader (commercial) not listed as new. Retired items are inferred from absence in the catalog, not from a discontinuation notice; Choose Life, Grambling, Panoramic and plain 'Lone Star' deserve a second look before removal. Phi Beta Sigma and Sigma Gamma Rho ARE in the live catalog (fraternity section), correcting earlier passes.",
+ "retired_unsure": [
+  "Grambling State University",
+  "Choose Life",
+  "Panoramic",
+  "Lone Star"
+ ]
+}

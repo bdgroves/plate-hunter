@@ -323,5 +323,35 @@
   "code": "TN",
   "name": "Tennessee",
   "url": "https://www.tn.gov/content/tn/revenue/title-and-registration/license-plates/available-license-plates.html"
+ },
+ {
+  "code": "AZ",
+  "name": "Arizona",
+  "url": "https://azmvdnow.gov/plates"
+ },
+ {
+  "code": "GA",
+  "name": "Georgia",
+  "url": "https://mvd.dor.ga.gov/motor/plates/PlateSelection.aspx"
+ },
+ {
+  "code": "IL",
+  "name": "Illinois",
+  "url": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/licenseplates.html"
+ },
+ {
+  "code": "KY",
+  "name": "Kentucky",
+  "url": "https://secure2.kentucky.gov/kytc/plates/web/"
+ },
+ {
+  "code": "MS",
+  "name": "Mississippi",
+  "url": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates"
+ },
+ {
+  "code": "TX-3",
+  "name": "Texas",
+  "url": "https://www.myplates.com/api/plates"
  }
 ]
