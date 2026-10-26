@@ -1,1 +1,17 @@
-{}
+{
+ "MB__mmiwg2s": "ok image/jpeg 196546",
+ "MIC__current-design-2022": "FAIL <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
+ "MIC__standard": "FAIL <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
+ "VER__standard": "FAIL <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
+ "VER__current-design-2026": "FAIL <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
+ "PUE__standard": "ok image/jpeg 355361",
+ "PUE__current-design-2022": "ok image/jpeg 355361",
+ "CO__in-god-we-trust": "ok image/png 275105",
+ "CO__u-s-navy-seabees": "ok image/png 151976",
+ "CO__chicana-o-pride": "ok image/png 265265",
+ "CO__agriculture": "ok image/png 340595",
+ "MD__gold-star-lapel-button": "ok image/png 107719",
+ "MD__gold-star-next-of-kin": "ok image/png 107719",
+ "TX__guide": "ok application/pdf 3554205",
+ "TX__brochure": "ok application/pdf 6306797"
+}
