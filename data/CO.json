@@ -751,10 +751,11 @@
    "id": "in-god-we-trust",
    "name": "In God We Trust",
    "cat": "other",
-   "img": "in-god-we-trust.webp",
+   "img": null,
    "added": "2026-10-26",
    "source": "https://dmv.colorado.gov/group-special-license-plates-new",
-   "year": "2024"
+   "year": "2024",
+   "no_official_picture": true
   },
   {
    "id": "stegosaurus",
@@ -769,28 +770,31 @@
    "id": "u-s-navy-seabees",
    "name": "U.S. Navy Seabees",
    "cat": "military",
-   "img": "u-s-navy-seabees.webp",
+   "img": null,
    "added": "2026-10-26",
    "source": "https://dmv.colorado.gov/license-plates-military",
-   "year": "2024"
+   "year": "2024",
+   "no_official_picture": true
   },
   {
    "id": "chicana-o-pride",
    "name": "Chicana/o Pride",
    "cat": "other",
-   "img": "chicana-o-pride.webp",
+   "img": null,
    "added": "2026-10-26",
    "source": "https://dmv.colorado.gov/group-special-license-plates-new",
-   "year": "2025"
+   "year": "2025",
+   "no_official_picture": true
   },
   {
    "id": "agriculture",
    "name": "Agriculture",
    "cat": "other",
-   "img": "agriculture.webp",
+   "img": null,
    "added": "2026-10-26",
    "source": "https://dmv.colorado.gov/group-special-license-plates-new",
-   "year": "2025"
+   "year": "2025",
+   "no_official_picture": true
   }
  ],
  "checked_on": "2026-10-26"
