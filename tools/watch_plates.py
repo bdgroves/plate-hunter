@@ -17,6 +17,7 @@ from __future__ import annotations
 
 import argparse
 import datetime as dt
+import hashlib
 import json
 import sys
 import urllib.request
@@ -55,10 +56,10 @@ class Pictures(HTMLParser):
             self.found[path]["alt"] = alt
 
 
-def fetch(url: str) -> str:
-    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "text/html"})
+def fetch(url: str) -> tuple[bytes, str]:
+    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "text/html,application/pdf"})
     with urllib.request.urlopen(req, timeout=40) as r:
-        return r.read().decode(r.headers.get_content_charset() or "utf-8", "replace")
+        return r.read(), r.headers.get_content_charset() or "utf-8"
 
 
 def main() -> int:
@@ -75,11 +76,20 @@ def main() -> int:
         snap_file = SNAP / f"{code}.json"
         old = json.loads(snap_file.read_text(encoding="utf-8")) if snap_file.exists() else None
         try:
-            p = Pictures(url)
-            p.feed(fetch(url))
+            raw, charset = fetch(url)
         except Exception as e:  # noqa: BLE001
             failures.append(f"- **{code}** {url}: {e}")
             continue
+        if raw[:5] == b"%PDF-":
+            # Some agencies publish their plate list as a PDF: note when the file changes.
+            digest = hashlib.sha256(raw).hexdigest()
+            if old and old.get("sha256") != digest:
+                sections.append(f"### {page.get('name', code)}\nThe plate list PDF changed: {url}")
+            if not old or old.get("sha256") != digest:
+                snap_file.write_text(json.dumps({"code": code, "url": url, "checked": today, "sha256": digest}, indent=1) + "\n")
+            continue
+        p = Pictures(url)
+        p.feed(raw.decode(charset, "replace"))
         if len(p.found) < 5:
             failures.append(f"- **{code}** {url}: only {len(p.found)} pictures on the page; the layout may have changed")
             continue

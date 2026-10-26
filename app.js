@@ -133,6 +133,12 @@ function plateVisual(img, code, cls = 'plate-img') {
              : `<span class="fake" aria-hidden="true"><small>${esc((S.states.find(s => s.code === code) || {}).name || '')}</small><b>${esc(code)}</b></span>`;
 }
 
+// A specialty plate's picture, or a drawn stand-in with its name until we have one.
+function platePic(c, p, cls = 'plate-img') {
+  return p.img ? `<img class="${cls}" src="plates/${c.code}/${esc(p.img)}" alt="" loading="lazy" decoding="async">`
+               : `<span class="fake named" aria-hidden="true"><small>${esc(c.name)}</small><em>${esc(p.name)}</em><i>picture coming</i></span>`;
+}
+
 function stateCard(s) {
   const f = S.trip.seen[s.code];
   return `<div class="card${f ? ' found' : ''}" data-card="${s.code}">
@@ -188,7 +194,7 @@ function renderGrid() {
     const fd = !!c.found[p.id];
     return `<div class="card${fd ? ' found' : ''}" data-card="${p.id}">
       <button class="hit" data-id="${p.id}" aria-pressed="${fd}" aria-label="${esc(p.name)}${fd ? ', found. Open details' : ', mark as found'}">
-        <div class="iw"><img class="plate-img" src="plates/${c.code}/${esc(p.img)}" alt="" loading="lazy" decoding="async"><div class="chk">✓</div></div>
+        <div class="iw">${platePic(c, p)}<div class="chk">✓</div></div>
       </button>
       <button class="hit ci" data-info="${p.id}" aria-label="About the ${esc(p.name)} plate">
         <div class="cn">${esc(p.name)}</div>
@@ -296,17 +302,24 @@ function closeDrawer() {
 function openPlate(id) {
   const c = S.col, p = c.plates.find(x => x.id === id), f = c.found[id];
   S.drawer = { kind: 'plate', id };
-  openSheet(`<div class="drawer-img-wrap"><img class="drawer-img" src="plates/${c.code}/${esc(p.img)}" alt="${esc(p.name)} plate"></div>
+  openSheet(`<div class="drawer-img-wrap">${platePic(c, p, 'drawer-img')}</div>
   <div class="drawer-body">
     <h2 class="drawer-name" id="dTitle">${esc(p.name)}</h2>
     <div class="drawer-meta"><span class="rar r-${p.rar}">${p.rar}</span><span class="pts">+${p.pts} pts</span>
-      ${p.year ? `<span>First issued ${esc(p.year)}</span>` : ''}${p.vehicles ? `<span>🚗 ${esc(p.vehicles)} on ${esc(c.name)} roads</span>` : ''}</div>
+      ${p.year ? `<span>First issued ${esc(p.year)}</span>` : ''}${p.vehicles ? `<span>🚗 ${esc(vehiclesLine(p.vehicles, c.name))}</span>` : ''}</div>
     ${p.fact ? `<div class="fact-box"><div class="fact-label">💡 Did you know?</div><div class="info-text">${esc(p.fact)}</div></div>` : ''}
     ${p.supports ? `<div class="info-section"><div class="info-label">Supports</div><div class="info-text">${esc(p.supports)}</div></div>` : ''}
     ${f ? `<div class="info-section"><div class="info-label">Found</div><div class="info-text">${esc(fmtDate(f))}</div></div>` : ''}
     <button class="collect${f ? ' found-btn' : ''}" id="dBtn">${f ? '✓ Found. Tap to unmark' : 'Mark as found'}</button>
   </div>`);
   $('#dBtn').onclick = () => f ? setPlate(id, false) : (closeDrawer(), tapPlate(id));
+}
+
+// "~100 (2023)" -> "~100 on Washington roads (2023 count)"; "New in 2026" stays as it is.
+function vehiclesLine(v, state) {
+  const m = String(v).match(/^(.*?)\s*\((\d{4})\)\s*$/);
+  if (m) return `${m[1]} on ${state} roads (${m[2]} count)`;
+  return /\d/.test(v) && !/^new/i.test(v) ? `${v} on ${state} roads` : v;
 }
 
 function openState(code) {
@@ -332,7 +345,7 @@ function openAbout() {
   openSheet(`<div class="drawer-body sheet-text">
     <h2 class="drawer-name">How to play</h2>
     <p><b>States</b> is the classic road-trip game. Every time you see a plate from a new state, tap it on the map or in the list. Start a new trip when you set off again; the states you've ever seen are kept.</p>
-    <p><b>Specialty</b> is the deep cut: special-design plates for ${cols}. Tap a plate when you spot it. Rarer plates are worth more. In Washington the points come from how many vehicles carry each plate (2025 DOL figures); other states aren't rated yet.</p>
+    <p><b>Specialty</b> is the deep cut: special-design plates for ${cols}. Tap a plate when you spot it. Rarer plates are worth more. In Washington the points come from how many vehicles really carry each plate, from the Department of Licensing's own counts. The other states aren't rated yet, so every plate there is worth the same.</p>
     <p>Tapped the wrong one? Use <b>Undo</b>, or open the plate and unmark it.</p>
     <h3>Your progress</h3>
     <p>Everything is saved in this browser on this device, with no account. To move it to another phone, save a backup and open it there.</p>
@@ -340,7 +353,7 @@ function openAbout() {
     <h3>Install it</h3>
     <p>On a phone, use your browser's <b>Add to Home Screen</b>. Plate Hunter then opens like an app and works with no signal; tap <b>Save for offline</b> in a specialty collection first to keep all of its pictures.</p>
     <h3>Where the plates come from</h3>
-    <p>Plate images: state licensing agencies, many via Jon Keegan's <a href="https://github.com/jonkeegan/us-license-plates" target="_blank" rel="noopener">US license plates dataset</a> (2023) for Beautiful Public Data. Washington counts: WA DOL 2025 registration figures as reported by the Seattle Times. Spot a plate that's missing? <a href="https://github.com/bdgroves/plate-hunter/issues/new?title=New%20plate%3A%20" target="_blank" rel="noopener">Tell us on GitHub</a>.</p>
+    <p>Plate images: state licensing agencies, many via Jon Keegan's <a href="https://github.com/jonkeegan/us-license-plates" target="_blank" rel="noopener">US license plates dataset</a> (2023) for Beautiful Public Data. Washington counts: WA DOL's Special License Plate Annual Report to the Legislature, and 2025 figures reported by the Seattle Times. Spot a plate that's missing? <a href="https://github.com/bdgroves/plate-hunter/issues/new?title=New%20plate%3A%20" target="_blank" rel="noopener">Tell us on GitHub</a>.</p>
     ${S.trips.length ? `<h3>Past trips</h3><ul>${S.trips.slice(0, 8).map(t => `<li>${esc(fmtDate(t.started))} to ${esc(fmtDate(t.ended))}: ${t.count} states</li>`).join('')}</ul>` : ''}
     <button class="btn ghost" data-close>Close</button></div>`);
   $('#bkSave').onclick = backup;
@@ -367,7 +380,7 @@ async function restore(e) {
 }
 
 /* ---------- offline pictures ---------- */
-function plateUrls(c) { return c.plates.map(p => new URL(`plates/${c.code}/${p.img}`, location.href).href); }
+function plateUrls(c) { return c.plates.filter(p => p.img).map(p => new URL(`plates/${c.code}/${p.img}`, location.href).href); }
 async function checkOffline() {
   if (!('caches' in window)) return $('#offBtn').remove();
   const cache = await caches.open('ph-plates');

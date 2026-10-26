@@ -1,0 +1,505 @@
+[
+ {
+  "state": "AL",
+  "name": "Alabama",
+  "plate_title": "Standard Passenger",
+  "keegan_img": "2022-passenger-sample-image-scaled.jpg",
+  "note": "2022 coastal-scene design with alabama.travel; no new standard design found as of Oct 2026 (DOR memos cover specialty redesigns only).",
+  "source": "https://www.revenue.alabama.gov/license-plates/",
+  "keegan_source_img": "https://www.revenue.alabama.gov/wp-content/uploads/2022/04/2022-passenger-sample-image-scaled.jpg",
+  "changed_since_mid_2023": false
+ },
+ {
+  "state": "AK",
+  "name": "Alaska",
+  "plate_title": "Standard Gold",
+  "keegan_img": "blue-n-gold.png",
+  "note": "Gold plate with blue text and flag; one of several no-extra-fee designs. Typeface and tabs updated 2023 (Alaska Beacon), design otherwise unchanged.",
+  "source": "https://alaskabeacon.com/?p=7403",
+  "keegan_source_img": "https://doa.alaska.gov/dmv/plates/Images/Standard/blue-n-gold.png",
+  "changed_since_mid_2023": false
+ },
+ {
+  "state": "AZ",
+  "name": "Arizona",
+  "plate_title": "Standard",
+  "keegan_img": "standard-plate.jpg",
+  "note": "Grand Canyon State sunset design; current.",
+  "source": "https://azdot.gov/standard",
+  "keegan_source_img": "https://azdot.gov/sites/default/files/2023-08/standard-plate.jpg",
+  "changed_since_mid_2023": false
+ },
+ {
+  "state": "AR",
+  "name": "Arkansas",
+  "plate_title": "Personalized License Plate",
+  "keegan_img": "pclp_lg.jpg",
+  "note": "No \"Standard\" row in Keegan; the personalized row shows the general-issue \"The Natural State\" base (2006 series per Wikipedia). Confirm the image matches the diamond-graphic design.",
+  "source": "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Arkansas",
+  "keegan_source_img": "https://www.dfa.arkansas.gov/images/uploads/specialtyPlates/Personalized License Plate",
+  "changed_since_mid_2023": false
+ },
+ {
+  "state": "CA",
+  "name": "California",
+  "plate_title": "Standard - Script",
+  "keegan_img": "pass-1.gif",
+  "note": "White plate with red \"California\" script and dmv.ca.gov; unchanged. Serial format switched to 123ABC1 in 2026.",
+  "source": "https://www.dmv.ca.gov/portal/vehicle-registration/license-plates-decals-and-placards/california-license-plates/standard-license-plates/",
+  "keegan_source_img": "https://www.dmv.ca.gov/portal/uploads/2020/02/pass-1.gif",
+  "changed_since_mid_2023": false
+ },
+ {
+  "state": "CO",
+  "name": "Colorado",
+  "plate_title": "Passenger License Plate",
+  "keegan_img": "passenger_license_plate.png",
+  "note": "Green mountain silhouette design; current.",
+  "source": "https://dmv.colorado.gov/regular-license-plates",
+  "keegan_source_img": "https://dmv.colorado.gov/sites/dmv/files/styles/large_thumbnail_450x450_/public/12-2020/passenger_license_plate.jpg.webp",
+  "changed_since_mid_2023": false
+ },
+ {
+  "state": "CT",
+  "name": "Connecticut",
+  "plate_title": null,
+  "keegan_img": null,
+  "note": "No standard row in Keegan. Current general issue is the sky-blue gradient \"Constitution State\" plate (base introduced 2000).",
+  "source": "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Connecticut",
+  "changed_since_mid_2023": false
+ },
+ {
+  "state": "DE",
+  "name": "Delaware",
+  "plate_title": "Application for Delaware Sample Plates",
+  "keegan_img": "Sample.jpg",
+  "note": "No \"Standard\" row; this sample image shows the general-issue gold-on-blue \"The First State\" plate.",
+  "source": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all",
+  "keegan_source_img": "https://www.dmv.de.gov/VehicleServices/tags/images/tags/Sample.jpg",
+  "changed_since_mid_2023": false
+ },
+ {
+  "state": "DC",
+  "name": "District of Columbia",
+  "plate_title": null,
+  "keegan_img": null,
+  "note": "No standard row in Keegan. General issue is the white/red/blue \"End Taxation Without Representation\" plate (2017 design). Design described from general knowledge, not re-verified this session.",
+  "source": null,
+  "changed_since_mid_2023": false
+ },
+ {
+  "state": "FL",
+  "name": "Florida",
+  "plate_title": "Standard  - Sunshine",
+  "keegan_img": "plate1-1.jpg",
+  "note": "Sunshine State orange-blossom design. Keegan also has \"In God We Trust\" and county-name variants of the same base.",
+  "source": "https://www.flhsmv.gov/motor-vehicles-tags-titles/license-plates-registration/",
+  "keegan_source_img": "",
+  "changed_since_mid_2023": false
+ },
+ {
+  "state": "GA",
+  "name": "Georgia",
+  "plate_title": "Standard",
+  "keegan_img": "AA_Large.jpg",
+  "note": "Peach design with county name; Keegan \"Standard Alternate\" is the no-cost alternate.",
+  "source": "https://mvd.dor.ga.gov/motor/plates/PlateDetails.aspx?pcode=AA",
+  "keegan_source_img": "https://mvd.dor.ga.gov/motor/plates/images/2004/AA_Large.jpg",
+  "changed_since_mid_2023": false
+ },
+ {
+  "state": "HI",
+  "name": "Hawaii",
+  "plate_title": "Standard",
+  "keegan_img": "standard-plate.jpg",
+  "note": "Rainbow \"Aloha State\" plate.",
+  "source": "https://www.honolulu.gov/cms-csd-menu/site-csd-sitearticles/34571-the-hawai%CA%BBi-national-park-license-plates-information.html",
+  "keegan_source_img": "https://www8.honolulu.gov/csd/wp-content/uploads/sites/6/2023/07/sample.png",
+  "changed_since_mid_2023": false
+ },
+ {
+  "state": "ID",
+  "name": "Idaho",
+  "plate_title": null,
+  "keegan_img": null,
+  "note": "Keegan has no general-issue row (its \"FAMOUS POTATOES\" row is the baked-potato specialty plate). General issue is the red-white-blue scenic \"Famous Potatoes\" plate. CHANGES: retro black/white and white/teal \"World Famous Potatoes\" options from 2025 (HB 207), and ITD announced a new standard white-and-black plate available July 1, 2026.",
+  "source": "https://itd.idaho.gov/?p=84309",
+  "new_img": "https://itd.idaho.gov/wp-content/uploads/2026/06/WhiteBlack-e1782405776923.png",
+  "changed_since_mid_2023": true
+ },
+ {
+  "state": "IL",
+  "name": "Illinois",
+  "plate_title": "Passenger",
+  "keegan_img": "passengervanity.gif",
+  "note": "Lincoln / Chicago skyline \"Land of Lincoln\" design (2017); image is a vanity sample of the same base.",
+  "source": "https://www.ilsos.gov/departments/vehicles/license_plate_guide/passenger.html",
+  "keegan_source_img": "https://www.ilsos.gov/images/licenseplates/pap/Passenger",
+  "changed_since_mid_2023": false
+ },
+ {
+  "state": "IN",
+  "name": "Indiana",
+  "plate_title": "Standard Passenger",
+  "keegan_img": "plate-placeholder.jpg",
+  "note": "Keegan image is a placeholder, as is the image on the BMV design page (https://www.in.gov/bmv/images/plate-placeholder.jpg). Current Indiana standard design not verified; the no-fee \"In God We Trust\" row (standplate_igwt-large.jpg) is the common alternative.",
+  "source": "https://www.in.gov/bmv/registration-plates/license-plates-overview/license-plate-designs/",
+  "keegan_source_img": "https://www.in.gov/bmv/registration-plates/images/plates/Standard Passenger",
+  "changed_since_mid_2023": false
+ },
+ {
+  "state": "IA",
+  "name": "Iowa",
+  "plate_title": "Regular County Design",
+  "keegan_img": "personal.gif",
+  "note": "Iowa skyline/county design (2017 base); current.",
+  "source": "https://iowadot.gov/mvd/vehicleregistration/vehicleregistration/plates/personal",
+  "keegan_source_img": "https://iowadot.gov/mvd/vehicleregistration/plates/personal.gif",
+  "changed_since_mid_2023": false
+ },
+ {
+  "state": "KS",
+  "name": "Kansas",
+  "plate_title": "Standard current issue",
+  "keegan_img": "KS-plates_image-129.jpg",
+  "note": "CHANGED: Keegan image is the previous \"Ad Astra\" seal design. The new \"To the Stars\" standard (Statehouse dome in a state outline, blue-white-yellow gradient), chosen by public vote in Dec 2023, has been issued since Aug 19, 2024.",
+  "source": "https://content.govdelivery.com/accounts/KSOG/bulletins/3afbd7e",
+  "keegan_source_img": "",
+  "changed_since_mid_2023": true
+ },
+ {
+  "state": "KY",
+  "name": "Kentucky",
+  "plate_title": "Standard Vehicle",
+  "keegan_img": "Standard_Vehicle.png",
+  "note": "Default standard design. \"Team Kentucky\" (Oct 2022) is an optional alternate standard design, and both come with or without \"In God We Trust\".",
+  "source": "https://transportation.ky.gov/NewsRoom/New Standard License Plate Options.pdf",
+  "keegan_source_img": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=5a29be27-b7ac-4b6e-a0a1-8c4491c2f81e&licensePlateId=030af448-0201-471d-b561-d68376752ef6",
+  "changed_since_mid_2023": false
+ },
+ {
+  "state": "LA",
+  "name": "Louisiana",
+  "plate_title": "Personalized",
+  "keegan_img": "PERSONALIZEDOMV.JPG",
+  "note": "No standard row; the personalized row shows the general-issue \"Sportsman's Paradise\" base.",
+  "source": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/SpecialPlatesViewer.aspx",
+  "keegan_source_img": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/loadPlateImageAdmin.ashx?PlateName=Personalized",
+  "changed_since_mid_2023": false
+ },
+ {
+  "state": "ME",
+  "name": "Maine",
+  "plate_title": "Passenger",
+  "keegan_img": "PC.gif",
+  "note": "CHANGED: Keegan image is the Chickadee plate (1999-2025). The new Pine Tree standard (pine tree and North Star, plus a plain \"No Tree\" option) has been issued since May 1, 2025, and Chickadee plates were replaced at renewal through Apr 2026.",
+  "source": "https://www.maine.gov/sos/news/bureau-motor-vehicles-begin-issuing-new-pine-tree-license-plate-may-1-2025",
+  "keegan_source_img": "https://www.maine.gov/sos/bmv/images/passengerplt.jpg",
+  "new_img": "https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/New%20Maine%20standard%20issue%20plate%20-%20Pine%20Tree.png",
+  "changed_since_mid_2023": true
+ },
+ {
+  "state": "MD",
+  "name": "Maryland",
+  "plate_title": null,
+  "keegan_img": null,
+  "note": "No standard row found in Keegan (989 MD rows are mostly organizational). General issue is the white plate with Maryland flag graphic (2016 base). Design described from general knowledge, not re-verified this session.",
+  "source": null,
+  "changed_since_mid_2023": false
+ },
+ {
+  "state": "MA",
+  "name": "Massachusetts",
+  "plate_title": "PASSENGER NORMAL - Red",
+  "keegan_img": "MA-plates_image-011.jpg",
+  "note": "Red-text \"The Spirit of America\" plate; current.",
+  "source": "https://www.mass.gov/doc/passenger-plates-manual-0/download",
+  "keegan_source_img": "",
+  "changed_since_mid_2023": false
+ },
+ {
+  "state": "MI",
+  "name": "Michigan",
+  "plate_title": "Pure Michigan",
+  "keegan_img": "Standard_PureMichigan.jpg",
+  "note": "Blue-on-white \"Pure Michigan\" standard (image file named Standard_PureMichigan). Keegan \"Water-Winter Wonderland\" is a no-extra-fee optional standard design.",
+  "source": "https://www.michigan.gov/sos/vehicle/license-plates/standard-plate-options",
+  "keegan_source_img": "https://www.michigan.gov/sos/-/media/Project/Websites/sos/Vehicle/License-plate-images/Pure Michigan",
+  "changed_since_mid_2023": false
+ },
+ {
+  "state": "MN",
+  "name": "Minnesota",
+  "plate_title": "Personalized",
+  "keegan_img": "MN-plates_image-070.jpg",
+  "note": "No standard row; the personalized row shows the general-issue \"Explore Minnesota / 10,000 lakes\" base.",
+  "source": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/Special-Plates-Brochure.pdf",
+  "keegan_source_img": "",
+  "changed_since_mid_2023": false
+ },
+ {
+  "state": "MS",
+  "name": "Mississippi",
+  "plate_title": null,
+  "keegan_img": null,
+  "note": "Keegan \"Passenger\" row is actually a specialty (Hornet Nation) plate. General issue is the 2019 blues-guitar \"In God We Trust\" design. Design described from general knowledge, not re-verified this session.",
+  "source": null,
+  "changed_since_mid_2023": false
+ },
+ {
+  "state": "MO",
+  "name": "Missouri",
+  "plate_title": null,
+  "keegan_img": null,
+  "note": "Keegan \"Standard\" row shows the Missouri Bicentennial plate, an optional design, not general issue. General issue is the white/blue bluebird \"Show-Me State\" design. Design described from general knowledge, not re-verified this session.",
+  "source": null,
+  "changed_since_mid_2023": false
+ },
+ {
+  "state": "MT",
+  "name": "Montana",
+  "plate_title": null,
+  "keegan_img": null,
+  "note": "No standard row in Keegan (mostly sponsor plates). General issue is the blue mountain \"Montana\" base. Serial format changed in 2025; no new design found.",
+  "source": "https://www.licenseplates.cc/MT",
+  "changed_since_mid_2023": false
+ },
+ {
+  "state": "NE",
+  "name": "Nebraska",
+  "plate_title": null,
+  "keegan_img": null,
+  "note": "No standard row in Keegan. General issue since Jan 2023 is the dark-blue-on-white \"Genius of Creative Energy\" Capitol mosaic design; a new design is expected in 2029.",
+  "source": "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Nebraska",
+  "changed_since_mid_2023": false
+ },
+ {
+  "state": "NV",
+  "name": "Nevada",
+  "plate_title": "Home Means Nevada",
+  "keegan_img": "hmn.png",
+  "note": "Home Means Nevada (2016) remains general issue; about 1.89 million on the road.",
+  "source": "https://dmv.nv.gov/platesmain.htm#standard",
+  "keegan_source_img": "https://dmv.nv.gov/img/plates/hmn.png",
+  "changed_since_mid_2023": false
+ },
+ {
+  "state": "NH",
+  "name": "New Hampshire",
+  "plate_title": "Passenger",
+  "keegan_img": "NH-plates_image-025.jpg",
+  "note": "\"Live Free or Die\" Old Man of the Mountain plate.",
+  "source": "https://www.dmv.nh.gov/sites/g/files/ehbemt416/files/inline-documents/list-of-plates-table.pdf",
+  "keegan_source_img": "https://www.dmv.nh.gov/sites/g/files/ehbemt416/files/inline-documents/list-of-plates-table.pdf",
+  "changed_since_mid_2023": false
+ },
+ {
+  "state": "NJ",
+  "name": "New Jersey",
+  "plate_title": "Standard",
+  "keegan_img": "standard.jpg",
+  "note": "Yellow \"Garden State\" plate.",
+  "source": "https://www.state.nj.us/mvc/vehicles/standplates.htm",
+  "keegan_source_img": "https://www.state.nj.us/mvc/images/standard.jpg",
+  "changed_since_mid_2023": false
+ },
+ {
+  "state": "NM",
+  "name": "New Mexico",
+  "plate_title": "Standard Red and Yellow License Plate",
+  "keegan_img": "Standard-Red-and-Yellow-License-Plate.png",
+  "note": "Yellow/red standard. The turquoise Centennial plate is also widely issued; both are in Keegan.",
+  "source": "https://www.mvd.newmexico.gov/vehicles/license-plates/",
+  "keegan_source_img": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/Standard Red and Yellow License Plate",
+  "changed_since_mid_2023": false
+ },
+ {
+  "state": "NY",
+  "name": "New York",
+  "plate_title": "Excelsior",
+  "keegan_img": "excelsior_embossed_plate_3d_master.jpg",
+  "note": "\"Excelsior\" design (2020); current.",
+  "source": "https://dmv.ny.gov/plates/excelsior-plates",
+  "keegan_source_img": "https://dmv.ny.gov/sites/default/files/styles/panopoly_image_original/public/excelsior_embossed_plate_3d_master.jpg?itok=_MtZ3876",
+  "changed_since_mid_2023": false
+ },
+ {
+  "state": "NC",
+  "name": "North Carolina",
+  "plate_title": "Private Auto",
+  "keegan_img": "plate_sample_4.jpeg",
+  "note": "\"First in Flight\" standard.",
+  "source": "https://www.ncdot.gov/dmv/title-registration/license-plates/Pages/default.aspx",
+  "keegan_source_img": "https://d3nh6asts0jslb.cloudfront.net/ncdmv/plates/plate_sample_4.jpeg",
+  "changed_since_mid_2023": false
+ },
+ {
+  "state": "ND",
+  "name": "North Dakota",
+  "plate_title": "Standard",
+  "keegan_img": "standard.jpg",
+  "note": "\"Legendary\" sunset with bison design; current.",
+  "source": "https://apps.nd.gov/dot/mv/mvrenewal/plateSearch.htm",
+  "keegan_source_img": "https://apps.nd.gov/dot/mv/mvrenewal/images/dot/mv/mvrenewal/plates/standard.jpg",
+  "changed_since_mid_2023": false
+ },
+ {
+  "state": "OH",
+  "name": "Ohio",
+  "plate_title": null,
+  "keegan_img": null,
+  "note": "No standard row in Keegan. General issue is the \"Sunrise in Ohio\" design (2022). Design described from general knowledge, not re-verified this session.",
+  "source": null,
+  "changed_since_mid_2023": false
+ },
+ {
+  "state": "OK",
+  "name": "Oklahoma",
+  "plate_title": null,
+  "keegan_img": null,
+  "note": "CHANGED: new \"Iconic Oklahoma\" standard (46-star flag icon, new wordmark), issued on new registrations from Sept 1, 2024; it replaced the scissortail design. No matching Keegan row (its \"In God We Trust\" row is an optional plate).",
+  "source": "https://www.kgou.org/transportation/2024-08-01/oklahoma-unveils-new-standard-license-plate-design",
+  "new_img": "https://npr.brightspotcdn.com/dims4/default/82952b7/2147483647/strip/true/crop/990x743+0+0/resize/880x660!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F69%2F22%2Ff98533f949d386fe7b825a354eb0%2F453509836-890551259759142-7028230212998294322-n.jpg",
+  "changed_since_mid_2023": true
+ },
+ {
+  "state": "OR",
+  "name": "Oregon",
+  "plate_title": "Standard Tree",
+  "keegan_img": "OR-op_image-000.jpg",
+  "note": "Douglas fir \"Tree\" plate; current (listed in Oregon License Plate Manual rev 7-2026).",
+  "source": "https://www.oregon.gov/odot/Forms/DMV/6726.pdf",
+  "keegan_source_img": "",
+  "changed_since_mid_2023": false
+ },
+ {
+  "state": "PA",
+  "name": "Pennsylvania",
+  "plate_title": "PA Sample Standard Issue Registration Plate",
+  "keegan_img": "PA Sample Standard Issue Registration Plate.jpg",
+  "note": "visitPA.com standard; current.",
+  "source": "https://www.dmv.pa.gov/VEHICLE-SERVICES/Registration%20Plates/Pages/Approved-Organizations.aspx",
+  "keegan_source_img": "https://www.dmv.pa.gov/VEHICLE-SERVICES/Registration%20Plates/Military/PublishingImages/PA Sample Standard Issue Registration Plate",
+  "changed_since_mid_2023": false
+ },
+ {
+  "state": "RI",
+  "name": "Rhode Island",
+  "plate_title": "Passenger Plates",
+  "keegan_img": "Ocean%20Passenger.jpg",
+  "note": "\"Ocean State\" wave design (2020).",
+  "source": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-types",
+  "keegan_source_img": "https://dmv.ri.gov/sites/g/files/xkgbur556/files/styles/max_1300x1300/public/2022-10/Ocean%20Passenger.jpg?itok=9qbuJqjQ",
+  "changed_since_mid_2023": false
+ },
+ {
+  "state": "SC",
+  "name": "South Carolina",
+  "plate_title": "Personalized License Plate",
+  "keegan_img": "Personalized.png",
+  "note": "No standard row; the personalized row is the closest. Verify against the current general-issue design (palmetto/sunset). Design described from general knowledge, not re-verified this session.",
+  "source": "https://www.scdmvonline.com/Vehicle-Owners/Registration/Plate-Gallery",
+  "keegan_source_img": "https://www.scdmvonline.com/Personalized License Plate",
+  "changed_since_mid_2023": false
+ },
+ {
+  "state": "SD",
+  "name": "South Dakota",
+  "plate_title": "Standard South Dakota License Plates",
+  "keegan_img": "standard-plate.png",
+  "note": "Mount Rushmore design; current.",
+  "source": "https://dor.sd.gov/individuals/motor-vehicle/cars-trucks-vans/#plates",
+  "keegan_source_img": "https://dor.sd.gov/media/fv3jypr0/standard-plate.png?width=207&height=100",
+  "changed_since_mid_2023": false
+ },
+ {
+  "state": "TN",
+  "name": "Tennessee",
+  "plate_title": "Automobile Automobile & Motorcycle",
+  "keegan_img": "Automobile.jpg",
+  "note": "Navy-blue design with state outline and tristar (2022); current.",
+  "source": "https://www.tn.gov/content/tn/revenue/title-and-registration/license-plates/available-license-plates/automobile-motorcycle/automobile.html",
+  "keegan_source_img": "https://www.tn.gov/content/dam/tn/revenue/images/licenseplates/plates-gallery-photos/Automobile.jpg",
+  "changed_since_mid_2023": false
+ },
+ {
+  "state": "TX",
+  "name": "Texas",
+  "plate_title": null,
+  "keegan_img": null,
+  "note": "No plain general-issue row in Keegan (the \"Lone Star\"/\"Classic Black\" rows are optional specialty designs). General issue is the white \"Texas\" plate with a small state silhouette and \"The Lone Star State\". Design described from general knowledge, not re-verified this session.",
+  "source": null,
+  "changed_since_mid_2023": false
+ },
+ {
+  "state": "UT",
+  "name": "Utah",
+  "plate_title": "Life Elevated Arches",
+  "keegan_img": "arches.png",
+  "note": "Delicate Arch \"Life Elevated\" design (Keegan \"Utah\" row is the plain option). Since Jan 1, 2025 plates are flat-printed with an embossed edge, and only a rear plate is issued (SB 45, 2024); artwork largely unchanged.",
+  "source": "https://www.stgeorgeutah.com/news/dmv-announces-significant-changes-to-utah-license-plates-starting-in-the-new-year/article_023872c8-ac3d-11ef-9d33-47e166e8898b.html",
+  "keegan_source_img": "https://dmv.utah.govLife Elevated Arches",
+  "changed_since_mid_2023": false
+ },
+ {
+  "state": "VT",
+  "name": "Vermont",
+  "plate_title": "Pleasure Car",
+  "keegan_img": "VT-plates_image-001.jpg",
+  "note": "Green \"Green Mountain State\" plate.",
+  "source": "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf",
+  "keegan_source_img": "",
+  "changed_since_mid_2023": false
+ },
+ {
+  "state": "VA",
+  "name": "Virginia",
+  "plate_title": "Passenger Standard Issue",
+  "keegan_img": "pavl.jpg",
+  "note": "Plain \"Virginia\" standard; current.",
+  "source": "https://www.dmv.virginia.gov/vehicles/splates/info.asp?idnm=PAVL",
+  "keegan_source_img": "https://www.dmv.virginia.gov/azure/plates/images/plates/pavl.jpg",
+  "changed_since_mid_2023": false
+ },
+ {
+  "state": "WA",
+  "name": "Washington",
+  "plate_title": "Personalized plates",
+  "keegan_img": "personalizedPlate.png",
+  "note": "No \"Standard\" row; the personalized row shows the general-issue Mt. Rainier \"Evergreen State\" base. The standard is unchanged, but many new optional plates arrived 2025-26 (Historical Throwback blackout, Pickleball, Smokey Bear, Mount St. Helens and others).",
+  "source": "https://dannyslicenseplates.com/2025/11/01/washingtons-new-optional-license-plates/",
+  "keegan_source_img": "https://www.dol.wa.gov/sites/default/files/plates/Personalized plates",
+  "changed_since_mid_2023": false
+ },
+ {
+  "state": "WV",
+  "name": "West Virginia",
+  "plate_title": "Standard",
+  "keegan_img": "Standard.jpg",
+  "note": "\"Wild Wonderful\" design; current.",
+  "source": "https://transportation.wv.gov/DMV/Vehicle-Services/License-Plates/Special-Plates/Pages/Special-Plate.aspx?p=3",
+  "keegan_source_img": "https://transportation.wv.gov/DMV/Vehicle-Services/License-Plates/Special-Plates/PublishingImages/LicensePlateImages/Large/Standard",
+  "changed_since_mid_2023": false
+ },
+ {
+  "state": "WI",
+  "name": "Wisconsin",
+  "plate_title": "Regular automobile",
+  "keegan_img": "2017-auto.jpg",
+  "note": "\"America's Dairyland\" (2017 base). Optional \"Retro Yellow\" and blackout designs added Jan 2026.",
+  "source": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/persplat.aspx",
+  "keegan_source_img": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/Regular automobile",
+  "changed_since_mid_2023": false
+ },
+ {
+  "state": "WY",
+  "name": "Wyoming",
+  "plate_title": "Standard",
+  "keegan_img": "2017 SAMPLE.jpg",
+  "note": "CHANGED: Keegan image is the 2016 design with Square Top Mountain. A new standard (state-flag navy blue, bucking horse kept, Square Top removed) has been issued since 2025, with all vehicles moving to it.",
+  "source": "https://buckrail.com/new-license-plates-coming-to-wyo-in-2025/",
+  "keegan_source_img": "https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Motor%20Vehicle%20Services/2017%20SAMPLE.jpg",
+  "new_img": "https://i0.wp.com/buckrail.com/wp-content/uploads/2024/03/2-1.jpg",
+  "changed_since_mid_2023": true
+ }
+]

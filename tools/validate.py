@@ -62,7 +62,7 @@ for c in cols:
         bad(f"{c['file']}: duplicate id {dup}")
     for p in plates:
         where = f"{c['file']} [{p.get('id')}]"
-        for field in ("id", "name", "cat", "img"):
+        for field in ("id", "name", "cat"):
             if not p.get(field):
                 bad(f"{where}: missing {field}")
         if not re.fullmatch(r"[a-z0-9-]+", str(p.get("id", ""))):
@@ -75,7 +75,7 @@ for c in cols:
             if not isinstance(p.get("pts"), int):
                 bad(f"{where}: pts should be a whole number")
         img = ROOT / "plates" / c["code"] / str(p.get("img"))
-        if not img.exists():
+        if p.get("img") and not img.exists():
             bad(f"{where}: picture plates/{c['code']}/{p.get('img')} is missing")
 
 # Everything the service worker precaches has to exist, or installing it fails.

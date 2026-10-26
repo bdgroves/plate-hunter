@@ -2,32 +2,32 @@
  {
   "code": "AL",
   "name": "Alabama",
-  "img": null
+  "img": "plates/standard/AL.webp"
  },
  {
   "code": "AK",
   "name": "Alaska",
-  "img": null
+  "img": "plates/standard/AK.webp"
  },
  {
   "code": "AZ",
   "name": "Arizona",
-  "img": null
+  "img": "plates/standard/AZ.webp"
  },
  {
   "code": "AR",
   "name": "Arkansas",
-  "img": null
+  "img": "plates/standard/AR.webp"
  },
  {
   "code": "CA",
   "name": "California",
-  "img": null
+  "img": "plates/standard/CA.webp"
  },
  {
   "code": "CO",
   "name": "Colorado",
-  "img": null
+  "img": "plates/standard/CO.webp"
  },
  {
   "code": "CT",
@@ -37,7 +37,7 @@
  {
   "code": "DE",
   "name": "Delaware",
-  "img": null
+  "img": "plates/standard/DE.webp"
  },
  {
   "code": "DC",
@@ -47,27 +47,29 @@
  {
   "code": "FL",
   "name": "Florida",
-  "img": null
+  "img": "plates/standard/FL.webp"
  },
  {
   "code": "GA",
   "name": "Georgia",
-  "img": null
+  "img": "plates/standard/GA.webp"
  },
  {
   "code": "HI",
   "name": "Hawaii",
-  "img": null
+  "img": "plates/standard/HI.webp"
  },
  {
   "code": "ID",
   "name": "Idaho",
-  "img": null
+  "img": null,
+  "img_url": "https://itd.idaho.gov/wp-content/uploads/2026/06/WhiteBlack-e1782405776923.png",
+  "note": "Idaho has several everyday designs, including the classic red, white and blue “Famous Potatoes” plate. Any Idaho plate counts."
  },
  {
   "code": "IL",
   "name": "Illinois",
-  "img": null
+  "img": "plates/standard/IL.webp"
  },
  {
   "code": "IN",
@@ -77,27 +79,30 @@
  {
   "code": "IA",
   "name": "Iowa",
-  "img": null
+  "img": "plates/standard/IA.webp"
  },
  {
   "code": "KS",
   "name": "Kansas",
-  "img": null
+  "img": "plates/standard/KS.webp",
+  "note": "Kansas started a new standard plate in 2024. Older plates are still on the road, so either one counts."
  },
  {
   "code": "KY",
   "name": "Kentucky",
-  "img": null
+  "img": "plates/standard/KY.webp"
  },
  {
   "code": "LA",
   "name": "Louisiana",
-  "img": null
+  "img": "plates/standard/LA.webp"
  },
  {
   "code": "ME",
   "name": "Maine",
-  "img": null
+  "img": "plates/standard/ME.webp",
+  "img_url": "https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/New%20Maine%20standard%20issue%20plate%20-%20Pine%20Tree.png",
+  "note": "Maine is replacing its chickadee plate with a new pine-tree design starting in 2025. Either one counts."
  },
  {
   "code": "MD",
@@ -107,17 +112,17 @@
  {
   "code": "MA",
   "name": "Massachusetts",
-  "img": null
+  "img": "plates/standard/MA.webp"
  },
  {
   "code": "MI",
   "name": "Michigan",
-  "img": null
+  "img": "plates/standard/MI.webp"
  },
  {
   "code": "MN",
   "name": "Minnesota",
-  "img": null
+  "img": "plates/standard/MN.webp"
  },
  {
   "code": "MS",
@@ -142,37 +147,37 @@
  {
   "code": "NV",
   "name": "Nevada",
-  "img": null
+  "img": "plates/standard/NV.webp"
  },
  {
   "code": "NH",
   "name": "New Hampshire",
-  "img": null
+  "img": "plates/standard/NH.webp"
  },
  {
   "code": "NJ",
   "name": "New Jersey",
-  "img": null
+  "img": "plates/standard/NJ.webp"
  },
  {
   "code": "NM",
   "name": "New Mexico",
-  "img": null
+  "img": "plates/standard/NM.webp"
  },
  {
   "code": "NY",
   "name": "New York",
-  "img": null
+  "img": "plates/standard/NY.webp"
  },
  {
   "code": "NC",
   "name": "North Carolina",
-  "img": null
+  "img": "plates/standard/NC.webp"
  },
  {
   "code": "ND",
   "name": "North Dakota",
-  "img": null
+  "img": "plates/standard/ND.webp"
  },
  {
   "code": "OH",
@@ -182,37 +187,38 @@
  {
   "code": "OK",
   "name": "Oklahoma",
-  "img": null
+  "img": null,
+  "note": "Oklahoma started a new standard plate in 2024. Older plates are still on the road, so either one counts."
  },
  {
   "code": "OR",
   "name": "Oregon",
-  "img": null
+  "img": "plates/standard/OR.webp"
  },
  {
   "code": "PA",
   "name": "Pennsylvania",
-  "img": null
+  "img": "plates/standard/PA.webp"
  },
  {
   "code": "RI",
   "name": "Rhode Island",
-  "img": null
+  "img": "plates/standard/RI.webp"
  },
  {
   "code": "SC",
   "name": "South Carolina",
-  "img": null
+  "img": "plates/standard/SC.webp"
  },
  {
   "code": "SD",
   "name": "South Dakota",
-  "img": null
+  "img": "plates/standard/SD.webp"
  },
  {
   "code": "TN",
   "name": "Tennessee",
-  "img": null
+  "img": "plates/standard/TN.webp"
  },
  {
   "code": "TX",
@@ -222,36 +228,37 @@
  {
   "code": "UT",
   "name": "Utah",
-  "img": null
+  "img": "plates/standard/UT.webp"
  },
  {
   "code": "VT",
   "name": "Vermont",
-  "img": null
+  "img": "plates/standard/VT.webp"
  },
  {
   "code": "VA",
   "name": "Virginia",
-  "img": null
+  "img": "plates/standard/VA.webp"
  },
  {
   "code": "WA",
   "name": "Washington",
-  "img": null
+  "img": "plates/standard/WA.webp"
  },
  {
   "code": "WV",
   "name": "West Virginia",
-  "img": null
+  "img": "plates/standard/WV.webp"
  },
  {
   "code": "WI",
   "name": "Wisconsin",
-  "img": null
+  "img": "plates/standard/WI.webp"
  },
  {
   "code": "WY",
   "name": "Wyoming",
-  "img": null
+  "img": "plates/standard/WY.webp",
+  "note": "Wyoming is rolling out a new standard plate. The older bucking-horse plates still count."
  }
 ]

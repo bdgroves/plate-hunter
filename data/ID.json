@@ -1,0 +1,453 @@
+{
+ "code": "ID",
+ "name": "Idaho",
+ "rated": false,
+ "updated": "2026-10-25",
+ "about": "Idaho special-design plates. Not rated yet: every plate is worth the same.",
+ "sources": [
+  {
+   "title": "Jon Keegan, us-license-plates (2023)",
+   "url": "https://github.com/jonkeegan/us-license-plates"
+  }
+ ],
+ "plates": [
+  {
+   "id": "4-h",
+   "name": "4-H",
+   "cat": "charity",
+   "img": "4-h.webp",
+   "supports": "Friends of 4-H (University of Idaho Foundation)"
+  },
+  {
+   "id": "agriculture",
+   "name": "Agriculture",
+   "cat": "other",
+   "img": "agriculture.webp",
+   "supports": "Idaho Ag in the Classroom"
+  },
+  {
+   "id": "agriculture-harvest-the-future-2026-desi",
+   "name": "Agriculture (Harvest the Future, 2026 design)",
+   "cat": "other",
+   "img": null,
+   "img_url": "https://itd.idaho.gov/wp-content/uploads/2026/06/image-1-1024x515.png",
+   "year": "2026",
+   "supports": "Idaho Ag in the Classroom"
+  },
+  {
+   "id": "appaloosa",
+   "name": "Appaloosa",
+   "cat": "hobby",
+   "img": "appaloosa.webp",
+   "supports": "Appaloosa Horse Club youth programs"
+  },
+  {
+   "id": "aviation",
+   "name": "Aviation",
+   "cat": "hobby",
+   "img": "aviation.webp",
+   "supports": "Idaho Aviation Foundation (backcountry airstrips, safety)"
+  },
+  {
+   "id": "mountain-biking-preserve-our-trails",
+   "name": "Mountain Biking (Preserve Our Trails)",
+   "cat": "hobby",
+   "img": "mountain-biking-preserve-our-trails.webp"
+  },
+  {
+   "id": "wildlife-mountain-bluebird",
+   "name": "Wildlife: Mountain Bluebird",
+   "cat": "nature",
+   "img": "wildlife-mountain-bluebird.webp",
+   "supports": "Idaho Fish and Game nongame wildlife programs",
+   "vehicles": "34,450 (2026)"
+  },
+  {
+   "id": "wildlife-elk",
+   "name": "Wildlife: Elk",
+   "cat": "nature",
+   "img": "wildlife-elk.webp",
+   "supports": "Idaho Fish and Game wildlife programs",
+   "vehicles": "51,451 (2026)"
+  },
+  {
+   "id": "wildlife-cutthroat-trout",
+   "name": "Wildlife: Cutthroat Trout",
+   "cat": "nature",
+   "img": "wildlife-cutthroat-trout.webp",
+   "supports": "Idaho Fish and Game / Parks and Recreation",
+   "vehicles": "28,948 (2026)"
+  },
+  {
+   "id": "boise-state-university",
+   "name": "Boise State University",
+   "cat": "colleges",
+   "img": "boise-state-university.webp",
+   "supports": "Scholarships (collegiate plate program)"
+  },
+  {
+   "id": "byu-idaho",
+   "name": "BYU-Idaho",
+   "cat": "colleges",
+   "img": "byu-idaho.webp",
+   "supports": "Scholarships (collegiate plate program)"
+  },
+  {
+   "id": "college-of-eastern-idaho",
+   "name": "College of Eastern Idaho",
+   "cat": "colleges",
+   "img": "college-of-eastern-idaho.webp",
+   "supports": "Scholarships (collegiate plate program)"
+  },
+  {
+   "id": "college-of-idaho",
+   "name": "College of Idaho",
+   "cat": "colleges",
+   "img": "college-of-idaho.webp",
+   "supports": "Scholarships (collegiate plate program)"
+  },
+  {
+   "id": "college-of-southern-idaho",
+   "name": "College of Southern Idaho",
+   "cat": "colleges",
+   "img": "college-of-southern-idaho.webp",
+   "supports": "Scholarships (collegiate plate program)"
+  },
+  {
+   "id": "college-of-western-idaho",
+   "name": "College of Western Idaho",
+   "cat": "colleges",
+   "img": "college-of-western-idaho.webp",
+   "supports": "Scholarships (collegiate plate program)"
+  },
+  {
+   "id": "idaho-state-university",
+   "name": "Idaho State University",
+   "cat": "colleges",
+   "img": "idaho-state-university.webp",
+   "supports": "Scholarships (collegiate plate program)"
+  },
+  {
+   "id": "lewis-clark-state-college",
+   "name": "Lewis-Clark State College",
+   "cat": "colleges",
+   "img": "lewis-clark-state-college.webp",
+   "supports": "Scholarships (collegiate plate program)"
+  },
+  {
+   "id": "north-idaho-college",
+   "name": "North Idaho College",
+   "cat": "colleges",
+   "img": "north-idaho-college.webp",
+   "supports": "Scholarships (collegiate plate program)"
+  },
+  {
+   "id": "northwest-nazarene-university",
+   "name": "Northwest Nazarene University",
+   "cat": "colleges",
+   "img": "northwest-nazarene-university.webp",
+   "supports": "Scholarships (collegiate plate program)"
+  },
+  {
+   "id": "university-of-idaho",
+   "name": "University of Idaho",
+   "cat": "colleges",
+   "img": "university-of-idaho.webp",
+   "supports": "Scholarships (collegiate plate program)"
+  },
+  {
+   "id": "capitol-restoration-capitol-commission",
+   "name": "Capitol Restoration (Capitol Commission)",
+   "cat": "other",
+   "img": "capitol-restoration-capitol-commission.webp",
+   "supports": "Capitol Maintenance Reserve Fund"
+  },
+  {
+   "id": "statehood-centennial-1890-1990",
+   "name": "Statehood Centennial (1890-1990)",
+   "cat": "other",
+   "img": "statehood-centennial-1890-1990.webp",
+   "supports": "Highway Distribution Account"
+  },
+  {
+   "id": "choose-life",
+   "name": "Choose Life",
+   "cat": "charity",
+   "img": "choose-life.webp",
+   "supports": "Choose Life Idaho (pregnancy resource centers)"
+  },
+  {
+   "id": "famous-potatoes-baked-potato",
+   "name": "Famous Potatoes (baked potato)",
+   "cat": "other",
+   "img": "famous-potatoes-baked-potato.webp",
+   "supports": "Idaho Potato Commission"
+  },
+  {
+   "id": "world-famous-potatoes-retro-black-white",
+   "name": "World Famous Potatoes (retro black & white)",
+   "cat": "other",
+   "img": null,
+   "year": "2025",
+   "supports": "Idaho Potato Commission",
+   "vehicles": "60,362 (2026)"
+  },
+  {
+   "id": "firefighters",
+   "name": "Firefighters",
+   "cat": "firstresponder",
+   "img": "firefighters.webp",
+   "supports": "Idaho Fire Chiefs Association (fire safety education)"
+  },
+  {
+   "id": "peace-officer-memorial",
+   "name": "Peace Officer Memorial",
+   "cat": "firstresponder",
+   "img": "peace-officer-memorial.webp",
+   "supports": "Peace Officers Memorial Fund"
+  },
+  {
+   "id": "lewis-clark",
+   "name": "Lewis & Clark",
+   "cat": "other",
+   "img": "lewis-clark.webp",
+   "supports": "Governor's Lewis and Clark Trail Committee"
+  },
+  {
+   "id": "north-america-commercial-trailer",
+   "name": "North America (commercial trailer)",
+   "cat": "vehicle",
+   "img": "north-america-commercial-trailer.webp",
+   "vehicles": "51,688 (2026)"
+  },
+  {
+   "id": "pet-friendly",
+   "name": "Pet Friendly",
+   "cat": "charity",
+   "img": "pet-friendly.webp",
+   "supports": "Idaho Humane Society Pet Lovers Fund (spay/neuter)"
+  },
+  {
+   "id": "rangeland",
+   "name": "Rangeland",
+   "cat": "nature",
+   "img": "rangeland.webp",
+   "supports": "Idaho Rangeland Resource Commission"
+  },
+  {
+   "id": "sawtooth-national-recreation-area",
+   "name": "Sawtooth National Recreation Area",
+   "cat": "nature",
+   "img": "sawtooth-national-recreation-area.webp",
+   "supports": "Idaho Parks and Recreation"
+  },
+  {
+   "id": "selway-bitterroot-wilderness",
+   "name": "Selway-Bitterroot Wilderness",
+   "cat": "nature",
+   "img": "selway-bitterroot-wilderness.webp",
+   "supports": "Selway-Bitterroot Foundation"
+  },
+  {
+   "id": "snowmobile",
+   "name": "Snowmobile",
+   "cat": "hobby",
+   "img": "snowmobile.webp",
+   "supports": "State Snowmobile Account (county grooming)"
+  },
+  {
+   "id": "snowskier",
+   "name": "Snowskier",
+   "cat": "hobby",
+   "img": "snowskier.webp",
+   "supports": "Idaho Division of Tourism (ski promotion)"
+  },
+  {
+   "id": "timber",
+   "name": "Timber",
+   "cat": "nature",
+   "img": "timber.webp",
+   "supports": "Idaho Department of Lands (reforestation, forestry education)"
+  },
+  {
+   "id": "white-water-rafting",
+   "name": "White Water Rafting",
+   "cat": "hobby",
+   "img": "white-water-rafting.webp",
+   "supports": "Idaho tourism (whitewater promotion)"
+  },
+  {
+   "id": "youth",
+   "name": "Youth",
+   "cat": "charity",
+   "img": "youth.webp",
+   "supports": "County sheriff at-risk youth programs"
+  },
+  {
+   "id": "support-our-troops",
+   "name": "Support Our Troops",
+   "cat": "military",
+   "img": "support-our-troops.webp",
+   "supports": "Idaho Support Our Troops, Inc."
+  },
+  {
+   "id": "don-t-tread-on-me",
+   "name": "Don't Tread On Me",
+   "cat": "other",
+   "img": null,
+   "year": "2025",
+   "supports": "Firearms Safety Grant Fund (State Board of Education)"
+  },
+  {
+   "id": "an-appeal-to-heaven",
+   "name": "An Appeal to Heaven",
+   "cat": "other",
+   "img": null,
+   "supports": "State Highway Account",
+   "year": "New"
+  },
+  {
+   "id": "uss-idaho",
+   "name": "USS Idaho",
+   "cat": "military",
+   "img": null,
+   "supports": "State Highway Account",
+   "year": "New"
+  },
+  {
+   "id": "idaho-america-250",
+   "name": "Idaho America 250",
+   "cat": "other",
+   "img": null,
+   "img_url": "https://itd.idaho.gov/wp-content/uploads/2026/04/A250_plate-768x1024.jpg",
+   "year": "2026",
+   "supports": "Idaho Heritage Trust"
+  },
+  {
+   "id": "classic",
+   "name": "Classic",
+   "cat": "vehicle",
+   "img": "classic.webp"
+  },
+  {
+   "id": "old-timer",
+   "name": "Old Timer",
+   "cat": "vehicle",
+   "img": "old-timer.webp"
+  },
+  {
+   "id": "street-rod",
+   "name": "Street Rod",
+   "cat": "vehicle",
+   "img": "street-rod.webp"
+  },
+  {
+   "id": "custom-vehicle",
+   "name": "Custom Vehicle",
+   "cat": "vehicle",
+   "img": "custom-vehicle.webp"
+  },
+  {
+   "id": "year-of-manufacture",
+   "name": "Year of Manufacture",
+   "cat": "vehicle",
+   "img": "year-of-manufacture.webp"
+  },
+  {
+   "id": "radio-amateur",
+   "name": "Radio Amateur",
+   "cat": "hobby",
+   "img": "radio-amateur.webp"
+  },
+  {
+   "id": "disability",
+   "name": "Disability",
+   "cat": "other",
+   "img": "disability.webp"
+  },
+  {
+   "id": "disabled-veteran",
+   "name": "Disabled Veteran",
+   "cat": "veterans",
+   "img": "disabled-veteran.webp"
+  },
+  {
+   "id": "purple-heart",
+   "name": "Purple Heart",
+   "cat": "military",
+   "img": "purple-heart.webp"
+  },
+  {
+   "id": "former-prisoner-of-war",
+   "name": "Former Prisoner of War",
+   "cat": "military",
+   "img": "former-prisoner-of-war.webp"
+  },
+  {
+   "id": "gold-star-family",
+   "name": "Gold Star Family",
+   "cat": "military",
+   "img": "gold-star-family.webp",
+   "supports": "Veterans Support Fund"
+  },
+  {
+   "id": "medal-of-honor",
+   "name": "Medal of Honor",
+   "cat": "military",
+   "img": "medal-of-honor.webp"
+  },
+  {
+   "id": "pearl-harbor-survivor",
+   "name": "Pearl Harbor Survivor",
+   "cat": "military",
+   "img": "pearl-harbor-survivor.webp"
+  },
+  {
+   "id": "armed-forces-reserve",
+   "name": "Armed Forces Reserve",
+   "cat": "military",
+   "img": "armed-forces-reserve.webp"
+  },
+  {
+   "id": "national-guard",
+   "name": "National Guard",
+   "cat": "military",
+   "img": "national-guard.webp"
+  },
+  {
+   "id": "veteran-u-s-air-force",
+   "name": "Veteran: U.S. Air Force",
+   "cat": "veterans",
+   "img": "veteran-u-s-air-force.webp",
+   "supports": "Idaho State Veterans Cemetery maintenance"
+  },
+  {
+   "id": "veteran-u-s-army",
+   "name": "Veteran: U.S. Army",
+   "cat": "veterans",
+   "img": "veteran-u-s-army.webp",
+   "supports": "Idaho State Veterans Cemetery maintenance"
+  },
+  {
+   "id": "veteran-u-s-coast-guard",
+   "name": "Veteran: U.S. Coast Guard",
+   "cat": "veterans",
+   "img": "veteran-u-s-coast-guard.webp",
+   "supports": "Idaho State Veterans Cemetery maintenance"
+  },
+  {
+   "id": "veteran-u-s-marine-corps",
+   "name": "Veteran: U.S. Marine Corps",
+   "cat": "veterans",
+   "img": "veteran-u-s-marine-corps.webp",
+   "supports": "Idaho State Veterans Cemetery maintenance"
+  },
+  {
+   "id": "veteran-u-s-navy",
+   "name": "Veteran: U.S. Navy",
+   "cat": "veterans",
+   "img": "veteran-u-s-navy.webp",
+   "supports": "Idaho State Veterans Cemetery maintenance"
+  }
+ ]
+}

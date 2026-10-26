@@ -17,10 +17,19 @@ import json
 import sys
 import urllib.request
 from pathlib import Path
+from urllib.parse import urlparse
 
 from PIL import Image
 
 ROOT = Path(__file__).resolve().parent.parent
+TRUSTED = (".gov", ".us")
+
+
+def trusted(url):
+    host = urlparse(url or "").netloc.lower()
+    return bool(host) and host.endswith(TRUSTED)
+
+
 UA = {"User-Agent": "Mozilla/5.0 (plate-hunter importer; +https://github.com/bdgroves/plate-hunter)"}
 
 
@@ -38,24 +47,29 @@ def main() -> int:
         r = picks.get(s["code"])
         if not r:
             continue
-        try:
-            if r.get("new_img"):
-                raw = urllib.request.urlopen(urllib.request.Request(r["new_img"], headers=UA), timeout=60).read()
+        im = None
+        new = r.get("new_img") if trusted(r.get("new_img")) else None
+        if new:
+            s["img_url"] = new   # the current design; fetch_pictures.py swaps it in on GitHub's runners
+            try:
+                raw = urllib.request.urlopen(urllib.request.Request(new, headers=UA), timeout=30).read()
                 im = Image.open(io.BytesIO(raw))
-            elif r.get("keegan_img") and a.keegan:
-                im = Image.open(a.keegan / "plates" / s["code"] / r["keegan_img"])
-            else:
-                continue
-        except Exception as e:  # noqa: BLE001
-            print(f"  {s['code']}: no picture ({e})", file=sys.stderr)
+                s.pop("img_url")
+            except Exception:  # noqa: BLE001
+                pass
+        k = r.get("keegan_img") or ""
+        if im is None and k and "placeholder" not in k and a.keegan and (a.keegan / "plates" / s["code"] / k).exists():
+            im = Image.open(a.keegan / "plates" / s["code"] / k)
+        if r.get("note"):
+            s["note"] = r["note"]
+        if im is None:
+            print(f"  {s['code']}: no picture yet" + (" (URL saved)" if s.get("img_url") else ""), file=sys.stderr)
             continue
         im = im.convert("RGBA") if im.mode in ("P", "LA", "RGBA") else im.convert("RGB")
         if im.width > 400:
             im = im.resize((400, round(im.height * 400 / im.width)), Image.LANCZOS)
         im.save(out / f"{s['code']}.webp", "WEBP", quality=82, method=6)
         s["img"] = f"plates/standard/{s['code']}.webp"
-        if r.get("note"):
-            s["note"] = r["note"]
     states_file.write_text(json.dumps(states, indent=1, ensure_ascii=False) + "\n")
     print(f"{sum(1 for s in states if s.get('img'))} of {len(states)} states have a plate picture")
     return 0

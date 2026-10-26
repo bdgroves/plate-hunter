@@ -1,10 +1,11 @@
 /* Plate Hunter service worker: lets the game open with no signal.
    The page and plate lists: network first (so new plates show up), cached copy when offline.
    Plate pictures: cache first, kept in 'ph-plates' (the page's "Save for offline" fills it). */
-const SHELL = 'ph-shell-v2';
+const SHELL = 'ph-shell-v3';
 const PLATES = 'ph-plates';
 const FILES = ['./', 'index.html', 'app.js', 'app.css', 'manifest.webmanifest',
-  'data/states.json', 'data/collections.json', 'data/us-map.json', 'data/WA.json',
+  'data/states.json', 'data/collections.json', 'data/us-map.json',
+  'data/WA.json', 'data/OR.json', 'data/ID.json', 'data/CA.json', 'data/NV.json',
   'icons/icon-192.png', 'icons/icon-512.png'];
 
 self.addEventListener('install', e => {

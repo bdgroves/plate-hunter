@@ -1,0 +1,231 @@
+{
+ "code": "CA",
+ "name": "California",
+ "rated": false,
+ "updated": "2026-10-25",
+ "about": "California special-design plates. Not rated yet: every plate is worth the same.",
+ "sources": [
+  {
+   "title": "Jon Keegan, us-license-plates (2023)",
+   "url": "https://github.com/jonkeegan/us-license-plates"
+  }
+ ],
+ "plates": [
+  {
+   "id": "california-1960s-legacy",
+   "name": "California 1960s Legacy",
+   "cat": "other",
+   "img": "california-1960s-legacy.webp",
+   "year": "2015",
+   "vehicles": "787,236 (2019)"
+  },
+  {
+   "id": "environmental-personalized",
+   "name": "Environmental (personalized)",
+   "cat": "other",
+   "img": "environmental-personalized.webp",
+   "year": "1970",
+   "vehicles": "685,189 (2019)"
+  },
+  {
+   "id": "have-a-heart-be-a-star-help-our-kids",
+   "name": "Have A Heart, Be A Star, Help Our KIDS",
+   "cat": "charity",
+   "img": "have-a-heart-be-a-star-help-our-kids.webp",
+   "year": "1994",
+   "supports": "Child health and safety programs (CDPH and Dept of Social Services)",
+   "vehicles": "105,454 (2019)"
+  },
+  {
+   "id": "whale-tail-coastal-commission",
+   "name": "Whale Tail (Coastal Commission)",
+   "cat": "nature",
+   "img": "whale-tail-coastal-commission.webp",
+   "year": "1997",
+   "supports": "California Coastal Commission coastal protection and access",
+   "vehicles": "80,883 (2019)"
+  },
+  {
+   "id": "lake-tahoe-conservancy",
+   "name": "Lake Tahoe Conservancy",
+   "cat": "nature",
+   "img": "lake-tahoe-conservancy.webp",
+   "year": "1996",
+   "supports": "California Tahoe Conservancy",
+   "vehicles": "64,437 (2019)"
+  },
+  {
+   "id": "arts-council",
+   "name": "Arts Council",
+   "cat": "charity",
+   "img": "arts-council.webp",
+   "year": "1994",
+   "supports": "California Arts Council",
+   "vehicles": "48,901 (2019)"
+  },
+  {
+   "id": "yosemite-conservancy",
+   "name": "Yosemite Conservancy",
+   "cat": "nature",
+   "img": "yosemite-conservancy.webp",
+   "year": "1993",
+   "supports": "Yosemite Conservancy",
+   "vehicles": "38,434 (2019)"
+  },
+  {
+   "id": "veterans-organizations",
+   "name": "Veterans' Organizations",
+   "cat": "veterans",
+   "img": "veterans-organizations.webp",
+   "year": "2001",
+   "vehicles": "31,637 (2019)"
+  },
+  {
+   "id": "firefighters",
+   "name": "Firefighters",
+   "cat": "firstresponder",
+   "img": "firefighters.webp",
+   "year": "1995",
+   "vehicles": "19,650 (2019)"
+  },
+  {
+   "id": "memorial-we-will-never-forget",
+   "name": "Memorial (We Will Never Forget)",
+   "cat": "firstresponder",
+   "img": "memorial-we-will-never-forget.webp",
+   "year": "2002",
+   "supports": "Cal OES anti-terrorism and CDFA agro-terrorism prevention",
+   "vehicles": "16,946 (2019)"
+  },
+  {
+   "id": "california-museums-snoopy",
+   "name": "California Museums (Snoopy)",
+   "cat": "charity",
+   "img": "california-museums-snoopy.webp",
+   "year": "2016",
+   "supports": "California Cultural and Historical Endowment (museum grants)",
+   "vehicles": "10,117 (2019)"
+  },
+  {
+   "id": "pet-lovers",
+   "name": "Pet Lovers",
+   "cat": "charity",
+   "img": "pet-lovers.webp",
+   "year": "2013",
+   "supports": "Spay/neuter grants (e.g. Sacramento SPCA, per CBS Sacramento 2024)",
+   "vehicles": "7,814 (2019)"
+  },
+  {
+   "id": "california-agriculture-calag",
+   "name": "California Agriculture (CalAg)",
+   "cat": "other",
+   "img": "california-agriculture-calag.webp",
+   "year": "2013",
+   "vehicles": "6,882 (2019)"
+  },
+  {
+   "id": "breast-cancer-awareness",
+   "name": "Breast Cancer Awareness",
+   "cat": "charity",
+   "img": "breast-cancer-awareness.webp",
+   "year": "2017",
+   "vehicles": "5,516 (2019)"
+  },
+  {
+   "id": "ucla-collegiate",
+   "name": "UCLA (Collegiate)",
+   "cat": "colleges",
+   "img": "ucla-collegiate.webp",
+   "year": "1994",
+   "supports": "UCLA Alumni Association",
+   "vehicles": "1,573 (2019)"
+  },
+  {
+   "id": "faithful-to-state-parks-san-francisco-49",
+   "name": "Faithful to State Parks (San Francisco 49ers)",
+   "cat": "sports",
+   "img": null,
+   "img_url": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/49ers/pmjthujq3yhft7pfmuvl",
+   "year": "2025",
+   "supports": "California Natural Resources Agency (state parks) and 49ers Foundation youth programs"
+  },
+  {
+   "id": "congressional-medal-of-honor",
+   "name": "Congressional Medal of Honor",
+   "cat": "military",
+   "img": "congressional-medal-of-honor.webp"
+  },
+  {
+   "id": "gold-star-family",
+   "name": "Gold Star Family",
+   "cat": "military",
+   "img": "gold-star-family.webp"
+  },
+  {
+   "id": "ex-prisoner-of-war",
+   "name": "Ex-Prisoner of War",
+   "cat": "military",
+   "img": "ex-prisoner-of-war.webp"
+  },
+  {
+   "id": "legion-of-valor",
+   "name": "Legion of Valor",
+   "cat": "military",
+   "img": "legion-of-valor.webp"
+  },
+  {
+   "id": "pearl-harbor-survivor",
+   "name": "Pearl Harbor Survivor",
+   "cat": "military",
+   "img": "pearl-harbor-survivor.webp"
+  },
+  {
+   "id": "purple-heart",
+   "name": "Purple Heart",
+   "cat": "military",
+   "img": "purple-heart.webp"
+  },
+  {
+   "id": "disabled-veteran-dv",
+   "name": "Disabled Veteran (DV)",
+   "cat": "veterans",
+   "img": "disabled-veteran-dv.webp"
+  },
+  {
+   "id": "disabled-person-dp",
+   "name": "Disabled Person (DP)",
+   "cat": "other",
+   "img": "disabled-person-dp.webp"
+  },
+  {
+   "id": "amateur-radio-call-letters",
+   "name": "Amateur Radio Call Letters",
+   "cat": "hobby",
+   "img": "amateur-radio-call-letters.webp"
+  },
+  {
+   "id": "citizens-band",
+   "name": "Citizens Band",
+   "cat": "hobby",
+   "img": "citizens-band.webp"
+  },
+  {
+   "id": "press-photographer",
+   "name": "Press Photographer",
+   "cat": "other",
+   "img": "press-photographer.webp"
+  },
+  {
+   "id": "historical-vehicle",
+   "name": "Historical Vehicle",
+   "cat": "vehicle",
+   "img": "historical-vehicle.webp"
+  },
+  {
+   "id": "horseless-carriage",
+   "name": "Horseless Carriage",
+   "cat": "vehicle",
+   "img": "horseless-carriage.webp"
+  }
+ ]
+}

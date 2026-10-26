@@ -1,0 +1,268 @@
+{
+ "code": "OR",
+ "name": "Oregon",
+ "rated": false,
+ "updated": "2026-10-25",
+ "about": "Oregon special-design plates. Not rated yet: every plate is worth the same.",
+ "sources": [
+  {
+   "title": "Jon Keegan, us-license-plates (2023)",
+   "url": "https://github.com/jonkeegan/us-license-plates"
+  }
+ ],
+ "plates": [
+  {
+   "id": "crater-lake",
+   "name": "Crater Lake",
+   "cat": "nature",
+   "img": "crater-lake.webp",
+   "year": "2022",
+   "supports": "Crater Lake National Park (proceeds via Oregon Community Foundation per DMV fee chart)"
+  },
+  {
+   "id": "cultural-trust",
+   "name": "Cultural Trust",
+   "cat": "charity",
+   "img": "cultural-trust.webp",
+   "year": "2021",
+   "supports": "Oregon Cultural Trust"
+  },
+  {
+   "id": "salmon",
+   "name": "Salmon",
+   "cat": "nature",
+   "img": "salmon.webp",
+   "year": "2021",
+   "supports": "Watershed conservation and Oregon Parks & Recreation"
+  },
+  {
+   "id": "pacific-wonderland",
+   "name": "Pacific Wonderland",
+   "cat": "other",
+   "img": "pacific-wonderland.webp",
+   "year": "2010",
+   "supports": "Oregon State Capitol Foundation and Oregon Historical Society"
+  },
+  {
+   "id": "wine-country",
+   "name": "Wine Country",
+   "cat": "other",
+   "img": "wine-country.webp",
+   "year": "2012",
+   "supports": "Oregon Tourism Commission (wine/culinary tourism)"
+  },
+  {
+   "id": "gray-whale-coastal-playground",
+   "name": "Gray Whale (Coastal Playground)",
+   "cat": "nature",
+   "img": "gray-whale-coastal-playground.webp",
+   "year": "2019",
+   "supports": "Marine Mammal Institute, Oregon State University"
+  },
+  {
+   "id": "smokey-bear",
+   "name": "Smokey Bear",
+   "cat": "nature",
+   "img": "smokey-bear.webp",
+   "year": "2019",
+   "supports": "Keep Oregon Green Association"
+  },
+  {
+   "id": "watch-for-wildlife",
+   "name": "Watch for Wildlife",
+   "cat": "nature",
+   "img": "watch-for-wildlife.webp",
+   "year": "2022",
+   "supports": "Oregon Wildlife Foundation (wildlife crossings)"
+  },
+  {
+   "id": "portland-trail-blazers",
+   "name": "Portland Trail Blazers",
+   "cat": "sports",
+   "img": "portland-trail-blazers.webp",
+   "year": "2016",
+   "supports": "Portland Trail Blazers Foundation"
+  },
+  {
+   "id": "uo-ducks",
+   "name": "UO Ducks",
+   "cat": "colleges",
+   "img": "uo-ducks.webp",
+   "year": "2019",
+   "supports": "University of Oregon Alumni Association"
+  },
+  {
+   "id": "osu-beaver",
+   "name": "OSU Beaver",
+   "cat": "colleges",
+   "img": null,
+   "img_url": "https://communications.oregonstate.edu/sites/communications.oregonstate.edu/files/styles/large/public/license-hero.jpg.webp?itok=3afNaP0S",
+   "year": "2025",
+   "supports": "Oregon State University"
+  },
+  {
+   "id": "pollinator-paradise",
+   "name": "Pollinator Paradise",
+   "cat": "nature",
+   "img": null,
+   "year": "2023",
+   "supports": "OSU Department of Horticulture (pollinator research)"
+  },
+  {
+   "id": "oregon-zoo",
+   "name": "Oregon Zoo",
+   "cat": "nature",
+   "img": null,
+   "img_url": "https://www.oregonzoo.org/sites/default/files/styles/scale_675w/public/2024-07/oregon-zoo-license-plate-art.jpg.webp?itok=kg0Y2swa",
+   "year": "2025",
+   "supports": "Oregon Zoo Foundation"
+  },
+  {
+   "id": "golf-oregon",
+   "name": "Golf Oregon",
+   "cat": "sports",
+   "img": null,
+   "year": "2026",
+   "supports": "Oregon Junior Golf (Oregon Golf Association youth programs)"
+  },
+  {
+   "id": "share-the-road",
+   "name": "Share the Road",
+   "cat": "charity",
+   "img": "share-the-road.webp",
+   "year": "2008",
+   "supports": "Cycle Oregon and The Street Trust"
+  },
+  {
+   "id": "veteran",
+   "name": "Veteran",
+   "cat": "veterans",
+   "img": "veteran.webp",
+   "supports": "Oregon Veterans' Home Trust"
+  },
+  {
+   "id": "vietnam-veterans-of-america",
+   "name": "Vietnam Veterans of America",
+   "cat": "veterans",
+   "img": "vietnam-veterans-of-america.webp",
+   "supports": "Vietnam Veterans of America, Oregon State Council"
+  },
+  {
+   "id": "paralyzed-veterans-of-america",
+   "name": "Paralyzed Veterans of America",
+   "cat": "veterans",
+   "img": "paralyzed-veterans-of-america.webp",
+   "supports": "Oregon Paralyzed Veterans of America"
+  },
+  {
+   "id": "non-commissioned-officers-association",
+   "name": "Non-Commissioned Officers Association",
+   "cat": "veterans",
+   "img": "non-commissioned-officers-association.webp"
+  },
+  {
+   "id": "gold-star-family",
+   "name": "Gold Star Family",
+   "cat": "military",
+   "img": "gold-star-family.webp"
+  },
+  {
+   "id": "disabled-veteran",
+   "name": "Disabled Veteran",
+   "cat": "veterans",
+   "img": "disabled-veteran.webp"
+  },
+  {
+   "id": "ex-pow",
+   "name": "Ex-POW",
+   "cat": "military",
+   "img": "ex-pow.webp"
+  },
+  {
+   "id": "national-guard",
+   "name": "National Guard",
+   "cat": "military",
+   "img": "national-guard.webp"
+  },
+  {
+   "id": "oregon-professional-firefighters",
+   "name": "Oregon Professional Firefighters",
+   "cat": "firstresponder",
+   "img": "oregon-professional-firefighters.webp",
+   "supports": "Oregon professional firefighters charities"
+  },
+  {
+   "id": "fallen-public-safety-officer",
+   "name": "Fallen Public Safety Officer",
+   "cat": "firstresponder",
+   "img": "fallen-public-safety-officer.webp",
+   "supports": "Law Enforcement Memorial Trust Fund"
+  },
+  {
+   "id": "amateur-ham-radio-operator",
+   "name": "Amateur (HAM) Radio Operator",
+   "cat": "hobby",
+   "img": "amateur-ham-radio-operator.webp"
+  },
+  {
+   "id": "antique",
+   "name": "Antique",
+   "cat": "vehicle",
+   "img": "antique.webp"
+  },
+  {
+   "id": "special-interest-collector-vehicle",
+   "name": "Special Interest (collector vehicle)",
+   "cat": "vehicle",
+   "img": "special-interest-collector-vehicle.webp"
+  },
+  {
+   "id": "farm",
+   "name": "Farm",
+   "cat": "vehicle",
+   "img": "farm.webp"
+  },
+  {
+   "id": "truck",
+   "name": "Truck",
+   "cat": "vehicle",
+   "img": "truck.webp"
+  },
+  {
+   "id": "travel-trailer",
+   "name": "Travel Trailer",
+   "cat": "vehicle",
+   "img": "travel-trailer.webp"
+  },
+  {
+   "id": "motor-home",
+   "name": "Motor Home",
+   "cat": "vehicle",
+   "img": "motor-home.webp"
+  },
+  {
+   "id": "first-marine-division-fmf",
+   "name": "First Marine Division FMF",
+   "cat": "veterans",
+   "img": null,
+   "supports": "Oregon Chapter, First Marine Division Association",
+   "year": "New"
+  },
+  {
+   "id": "u-s-army-special-forces-airborne",
+   "name": "U.S. Army Special Forces Airborne",
+   "cat": "veterans",
+   "img": null,
+   "supports": "Oregon Veterans' Home Trust",
+   "year": "New"
+  },
+  {
+   "id": "purple-heart",
+   "name": "Purple Heart",
+   "cat": "military",
+   "img": null,
+   "supports": "Military Order of the Purple Heart",
+   "year": "New"
+  }
+ ]
+}

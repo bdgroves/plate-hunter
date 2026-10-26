@@ -1,0 +1,33 @@
+name: Fetch plate pictures
+
+# Plates added with only a picture address ("img_url") get their picture downloaded here.
+on:
+  push:
+    branches: [main]
+    paths: ["data/*.json"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-pictures
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pillow
+      - run: python tools/fetch_pictures.py
+      - run: python tools/validate.py
+      - name: Save
+        run: |
+          git config user.name "plate-hunter-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data plates
+          git diff --cached --quiet || (git commit -m "chore: plate pictures fetched" && git push)

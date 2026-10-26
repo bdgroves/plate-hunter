@@ -1,3 +1,7 @@
 [
- {"code": "WA", "name": "Washington", "url": "https://dol.wa.gov/vehicles-and-boats/vehicles/license-plates/get-custom-plates/special-design-plates"}
+ {"code": "WA", "name": "Washington", "url": "https://dol.wa.gov/vehicles-and-boats/vehicles/license-plates/get-custom-plates/special-design-plates"},
+ {"code": "OR", "name": "Oregon", "url": "https://www.oregon.gov/odot/Forms/DMV/6726.pdf"},
+ {"code": "CA", "name": "California", "url": "https://www.dmv.ca.gov/portal/vehicle-registration/license-plates-decals-and-placards/california-license-plates/special-license-plates/"},
+ {"code": "NV", "name": "Nevada (charitable)", "url": "https://dmv.nv.gov/platescharitable.htm"},
+ {"code": "NV-main", "name": "Nevada (other)", "url": "https://dmv.nv.gov/platesmain.htm"}
 ]

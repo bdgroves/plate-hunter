@@ -5,5 +5,33 @@
   "file": "data/WA.json",
   "count": 72,
   "rated": true
+ },
+ {
+  "code": "CA",
+  "name": "California",
+  "file": "data/CA.json",
+  "count": 29,
+  "rated": false
+ },
+ {
+  "code": "ID",
+  "name": "Idaho",
+  "file": "data/ID.json",
+  "count": 63,
+  "rated": false
+ },
+ {
+  "code": "NV",
+  "name": "Nevada",
+  "file": "data/NV.json",
+  "count": 67,
+  "rated": false
+ },
+ {
+  "code": "OR",
+  "name": "Oregon",
+  "file": "data/OR.json",
+  "count": 35,
+  "rated": false
  }
 ]

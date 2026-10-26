@@ -4,11 +4,15 @@
  "storageKey": "ph_wa",
  "rated": true,
  "updated": "2026-10-25",
- "about": "Every Washington special-design plate. Points come from 2025 DOL registration counts where they were reported (Seattle Times, April 20, 2026); the rest are estimates.",
+ "about": "Every Washington special-design plate. Points come from real registration counts: WA DOL's Special License Plate Annual Report to the Legislature (2023 data) and the 2025 figures reported by the Seattle Times. Brand-new plates are estimates.",
  "sources": [
   {
    "title": "WA DOL: Special-design plates",
    "url": "https://dol.wa.gov/vehicles-and-boats/vehicles/license-plates/get-custom-plates/special-design-plates"
+  },
+  {
+   "title": "WA DOL Special License Plate Annual Report (2024)",
+   "url": "https://dol.wa.gov/media/pdf/3700/2024-special-license-plate-annual-reportpdf"
   },
   {
    "title": "Jon Keegan, us-license-plates (2023)",
@@ -20,13 +24,18 @@
    "id": "af",
    "name": "US Air Force",
    "cat": "military",
-   "rar": "rare",
-   "pts": 50,
+   "rar": "uncommon",
+   "pts": 25,
    "img": "airforcePlate.webp",
    "year": "1996",
-   "supports": "State Veterans Cemetery Operations & veterans programs",
-   "vehicles": "~2,800",
-   "fact": "The Air Force plate was part of a wave of six Armed Forces plates released in September 1996 — the same month the first specialty plates rolled off the digital printer at the Walla Walla Penitentiary."
+   "supports": "Veterans Stewardship Account ($28/plate; state veterans cemetery, homeless-veteran programs)",
+   "vehicles": "~3,800 (2023)",
+   "fact": "The Air Force plate is one of Washington's six Armed Forces plates. Each purchase or renewal sends $28 to the Veterans Stewardship Account, which helps fund the state veterans cemetery and programs for homeless veterans.",
+   "vehicles_source": "DOL 2024 Special License Plate Annual Report: FY2023 original issuances + renewals",
+   "sources": [
+    "https://www.dva.wa.gov/node/640",
+    "https://dol.wa.gov/media/pdf/3700/2024-special-license-plate-annual-reportpdf"
+   ]
   },
   {
    "id": "army",
@@ -36,9 +45,14 @@
    "pts": 25,
    "img": "armyPlate.webp",
    "year": "1996",
-   "supports": "State Veterans Cemetery Operations & veterans programs",
-   "vehicles": "~7,700",
-   "fact": "The most popular of Washington's six Armed Forces plates with about 7,700 registered vehicles — ranking 7th overall among all specialty plates statewide. Eligibility requires being a veteran, active duty, reservist, National Guard member, or family of one."
+   "supports": "Veterans Stewardship Account ($28/plate; state veterans cemetery, homeless-veteran programs)",
+   "vehicles": "~7,700 (2025)",
+   "fact": "The most popular of Washington's six Armed Forces plates with about 7,700 registered vehicles — ranking 7th overall among all specialty plates statewide. Eligibility requires being a veteran, active duty, reservist, National Guard member, or family of one.",
+   "vehicles_source": "Balk 2025 DOL figures",
+   "sources": [
+    "https://www.dva.wa.gov/node/640",
+    "https://dol.wa.gov/media/pdf/3700/2024-special-license-plate-annual-reportpdf"
+   ]
   },
   {
    "id": "cg",
@@ -48,45 +62,67 @@
    "pts": 50,
    "img": "coastguardPlate.webp",
    "year": "1996",
-   "supports": "State Veterans Cemetery Operations & veterans programs",
-   "vehicles": "~600",
-   "fact": "Washington has more miles of coastline than any other contiguous US state — over 3,000 miles when all the inlets and islands are counted. The Coast Guard operates 3 sectors and 21 stations across Washington waters."
+   "supports": "Veterans Stewardship Account ($28/plate; state veterans cemetery, homeless-veteran programs)",
+   "vehicles": "~900 (2023)",
+   "fact": "Counting every inlet, bay and island, Washington has more than 3,000 miles of tidal shoreline, so there is plenty of water for the Coast Guard to watch over. Like all six Armed Forces plates, it sends $28 per plate to veterans programs.",
+   "vehicles_source": "DOL 2024 Special License Plate Annual Report: FY2023 original issuances + renewals",
+   "sources": [
+    "https://coast.noaa.gov/data/docs/states/shorelines.pdf",
+    "https://www.dva.wa.gov/node/640",
+    "https://dol.wa.gov/media/pdf/3700/2024-special-license-plate-annual-reportpdf"
+   ]
   },
   {
    "id": "mc",
    "name": "US Marine Corps",
    "cat": "military",
-   "rar": "rare",
-   "pts": 50,
+   "rar": "uncommon",
+   "pts": 25,
    "img": "marinesPlate.webp",
    "year": "1996",
-   "supports": "State Veterans Cemetery Operations & veterans programs",
-   "vehicles": "~1,200",
-   "fact": "Joint Base Lewis-McChord near Tacoma is one of the largest military installations in the US, home to both Army and Marine Corps units. Washington has one of the highest per-capita veteran populations of any state."
+   "supports": "Veterans Stewardship Account ($28/plate; state veterans cemetery, homeless-veteran programs)",
+   "vehicles": "~4,500 (2023)",
+   "fact": "The Marine Corps plate is one of Washington's six Armed Forces plates, open to Marines, veterans, reservists and their families. Each purchase or renewal sends $28 to the Veterans Stewardship Account.",
+   "vehicles_source": "DOL 2024 Special License Plate Annual Report: FY2023 original issuances + renewals",
+   "sources": [
+    "https://www.dva.wa.gov/node/640",
+    "https://dol.wa.gov/media/pdf/3700/2024-special-license-plate-annual-reportpdf"
+   ]
   },
   {
    "id": "ng",
    "name": "WA National Guard",
    "cat": "military",
-   "rar": "rare",
-   "pts": 50,
+   "rar": "legendary",
+   "pts": 150,
    "img": "NationalGuardPlate.webp",
    "year": "1996",
-   "supports": "State Veterans Cemetery Operations & veterans programs",
-   "vehicles": "~900",
-   "fact": "The Washington National Guard was activated during the 1980 eruption of Mount St. Helens, conducting search and rescue operations across a devastated zone stretching 230 square miles. They've been called up for every major Washington disaster since."
+   "supports": "Veterans Stewardship Account ($28/plate; state veterans cemetery, homeless-veteran programs)",
+   "vehicles": "~370 (2023)",
+   "fact": "The Washington National Guard helped with search and rescue after Mount St. Helens erupted in 1980, when the blast flattened about 230 square miles of forest. Guard members still answer the call when floods and wildfires hit the state.",
+   "vehicles_source": "DOL 2024 Special License Plate Annual Report: FY2023 original issuances + renewals",
+   "sources": [
+    "https://www.dva.wa.gov/node/640",
+    "https://dol.wa.gov/media/pdf/3700/2024-special-license-plate-annual-reportpdf",
+    "https://www.usgs.gov/volcanoes/mount-st.-helens"
+   ]
   },
   {
    "id": "navy",
    "name": "US Navy",
    "cat": "military",
-   "rar": "rare",
-   "pts": 50,
+   "rar": "uncommon",
+   "pts": 25,
    "img": "navyPlate.webp",
    "year": "1996",
-   "supports": "State Veterans Cemetery Operations & veterans programs",
-   "vehicles": "~2,100",
-   "fact": "Naval Station Everett and Naval Base Kitsap make Washington one of the most important Navy states in the nation. Puget Sound's sheltered deep water made it a strategic Navy hub going back to the Civil War era."
+   "supports": "Veterans Stewardship Account ($28/plate; state veterans cemetery, homeless-veteran programs)",
+   "vehicles": "~4,700 (2023)",
+   "fact": "With Naval Station Everett and Naval Base Kitsap, Washington is one of the Navy's key home ports. Puget Sound's deep, sheltered water drew the Navy here in the 1890s, when the Bremerton shipyard was founded.",
+   "vehicles_source": "DOL 2024 Special License Plate Annual Report: FY2023 original issuances + renewals",
+   "sources": [
+    "https://www.dva.wa.gov/node/640",
+    "https://dol.wa.gov/media/pdf/3700/2024-special-license-plate-annual-reportpdf"
+   ]
   },
   {
    "id": "dav",
@@ -158,19 +194,23 @@
    "year": "1993",
    "supports": "Recognition of combat-wounded veterans",
    "vehicles": "~800",
-   "fact": "The Purple Heart is awarded to military members wounded or killed in combat. It's America's oldest military decoration, established by George Washington in 1782 as the Badge of Military Merit. Washington state has one of the highest concentrations of Purple Heart recipients per capita."
+   "fact": "The Purple Heart honors service members wounded or killed in combat. It traces back to George Washington's Badge of Military Merit of 1782, which makes it the oldest U.S. military award still given."
   },
   {
    "id": "v988",
-   "name": "988 Prevent Veteran Suicide",
+   "name": "988 Veteran Suicide Prevention (emblem)",
    "cat": "veterans",
    "rar": "rare",
    "pts": 50,
    "img": "lifeline-plate.webp",
    "year": "2022",
-   "supports": "988 Lifeline veteran suicide prevention",
+   "supports": "WDVA veteran & military suicide prevention programs",
    "vehicles": "~500",
-   "fact": "Veterans die by suicide at 1.5x the rate of non-veteran adults. The 988 Lifeline (press 1 for veterans) connects callers directly to VA-trained counselors. This plate carries that number directly on the road — a moving reminder of the crisis and the resource."
+   "fact": "This is a slim emblem that fits on any Washington plate and shows the 988 crisis line with the words 'There is hope!' Proceeds fund suicide prevention for veterans and service members. Veterans make up about 7% of Washington's population but about 18% of its suicides.",
+   "sources": [
+    "https://www.kuow.org/stories/suicide-prevention-awareness-sticker-now-on-sale-for-wa-license-plates-5a74",
+    "https://dol.wa.gov/node/1447"
+   ]
   },
   {
    "id": "orca",
@@ -181,8 +221,14 @@
    "img": "orcaPlate.webp",
    "year": "1996",
    "supports": "WA Dept. of Fish & Wildlife orca recovery",
-   "vehicles": "~4,200",
-   "fact": "Washington's Southern Resident Killer Whales are critically endangered — only about 73 remain as of 2025. They are a distinct population that speaks a different 'dialect' from other orca groups and has never successfully interbred with transient orcas. The $28 annual fee from this plate goes directly to their recovery."
+   "vehicles": "~6,800 (2023)",
+   "fact": "Washington's Southern Resident orcas are endangered. The July 2026 census counted 76 whales in J, K and L pods, up two from the year before. They live on salmon and have their own calls, distinct from other killer whales.",
+   "vehicles_source": "DOL 2024 Special License Plate Annual Report: FY2023 original issuances + renewals",
+   "sources": [
+    "https://komonews.com/news/local/endangered-southern-resident-killer-orca-whales-census-center-for-whale-research-second-year-small-population-growth-increase-of-two-since-july-2026-noaa",
+    "https://www.whaleresearch.com/orca-population",
+    "https://dol.wa.gov/media/pdf/3700/2024-special-license-plate-annual-reportpdf"
+   ]
   },
   {
    "id": "hb",
@@ -191,34 +237,49 @@
    "rar": "rare",
    "pts": 50,
    "img": "honeybees-pollinators-plate.webp",
-   "year": "2025",
+   "year": "2026",
    "supports": "WA State Beekeepers Association research & education",
-   "vehicles": "New in 2025",
-   "fact": "Washington is one of the top honey-producing states in the nation and the nation's largest apple producer — a crop that depends entirely on pollinator activity. The state has lost an estimated 30% of managed honeybee colonies in the past decade to colony collapse disorder."
+   "vehicles": "New in 2026",
+   "fact": "This plate shows a monarch, a honey bee and a mason bee among flowers. $28 from each plate goes to the Washington State Beekeepers Association for pollinator research and education, and the plate arrived in 2026.",
+   "sources": [
+    "https://dol.wa.gov/node/3621",
+    "https://www.32auctions.com/wabeeplate",
+    "https://washingtonstatestandard.com/2025/05/29/smokey-bear-pickleball-and-pollinator-license-plates-on-the-way-in-wa/"
+   ]
   },
   {
    "id": "lt",
    "name": "Lighthouses",
    "cat": "nature",
-   "rar": "rare",
-   "pts": 50,
+   "rar": "uncommon",
+   "pts": 25,
    "img": "lighthousePlate.webp",
    "year": "1996",
-   "supports": "Washington lighthouse preservation",
-   "vehicles": "~1,100",
-   "fact": "Washington has 28 historic lighthouses, more than almost any other state. The oldest, the New Dungeness Lighthouse on the Olympic Peninsula, has been continuously operated since 1857. It's one of the few lighthouses in the US still staffed by volunteer keepers who live on-site for week-long rotations."
+   "supports": "Washington Lighthouses (nonprofit)",
+   "vehicles": "~3,000 (2023)",
+   "fact": "New Dungeness Lighthouse on the Olympic Peninsula has guided ships since 1857. Volunteers still take turns as keepers, living at the light station for a week at a time.",
+   "vehicles_source": "DOL 2024 Special License Plate Annual Report: CY2023 original issuances + renewals",
+   "sources": [
+    "https://dol.wa.gov/node/1455",
+    "https://dol.wa.gov/media/pdf/3700/2024-special-license-plate-annual-reportpdf"
+   ]
   },
   {
    "id": "sji",
    "name": "San Juan Islands",
    "cat": "nature",
-   "rar": "uncommon",
-   "pts": 25,
+   "rar": "rare",
+   "pts": 50,
    "img": "SanJuanIslandsPlate.webp",
-   "year": "2003",
-   "supports": "San Juan Islands conservation",
-   "vehicles": "~3,500",
-   "fact": "The San Juan Islands archipelago contains 172 named islands and hundreds of smaller rocks and reefs. The boundary between the US and Canada runs through the middle of the archipelago — a line drawn after the 'Pig War' of 1859, the only 'war' in US history with a single casualty: a pig."
+   "year": "2019",
+   "supports": "Madrona Institute (San Juan conservation & stewardship)",
+   "vehicles": "~1,900 (2023)",
+   "fact": "The San Juan Islands have 172 named islands. They were the scene of the 1859 'Pig War' between the US and Britain, where the only casualty was a pig. An 1872 arbitration put the border west of the islands, so all of them belong to Washington.",
+   "vehicles_source": "DOL 2024 Special License Plate Annual Report: CY2023 original issuances + renewals",
+   "sources": [
+    "https://www.islandssounder.com/2019/09/24/new-license-plates-to-benefit-san-juan-island-stewardship-available-oct-1/",
+    "https://dol.wa.gov/media/pdf/3700/2024-special-license-plate-annual-reportpdf"
+   ]
   },
   {
    "id": "sf",
@@ -228,9 +289,14 @@
    "pts": 50,
    "img": "StateFlowerPlate.webp",
    "year": "2001",
-   "supports": "WA Dept. of Fish & Wildlife",
-   "vehicles": "~1,800",
-   "fact": "Washington's state flower is the Coast Rhododendron (Rhododendron macrophyllum), designated in 1892 — before Washington had even been a state for 3 years. It blooms in pink and purple clusters across the Olympic Peninsula and Cascade foothills each spring."
+   "supports": "Meerkerk Rhododendron Gardens",
+   "vehicles": "~1,100 (2023)",
+   "fact": "Washington's state flower is the coast rhododendron. Women voters picked it in 1892, three years after statehood, and the Legislature made it official in 1949. Plate fees support Meerkerk Rhododendron Gardens on Whidbey Island.",
+   "vehicles_source": "DOL 2024 Special License Plate Annual Report: CY2023 original issuances + renewals",
+   "sources": [
+    "https://dol.wa.gov/vehicles-and-boats/license-plates/get-custom-plates/special-design-plates/state-flower",
+    "https://dol.wa.gov/media/pdf/3700/2024-special-license-plate-annual-reportpdf"
+   ]
   },
   {
    "id": "wac",
@@ -241,8 +307,13 @@
    "img": "WashingtonApplesPlate.webp",
    "year": "2020",
    "supports": "Washington Apple Commission",
-   "vehicles": "~1,200",
-   "fact": "Washington produces about 60% of all apples grown in the United States — roughly 10 billion apples per year. The apple capital is Wenatchee in Chelan County. The first apple trees in Washington were planted by Hudson's Bay Company at Fort Vancouver in 1826."
+   "vehicles": "~1,200 (2023)",
+   "fact": "Washington grows well over half of America's apples, and Wenatchee calls itself the Apple Capital of the World. The state's first apple trees are said to have been planted at the Hudson's Bay Company's Fort Vancouver in 1826.",
+   "vehicles_source": "DOL 2024 Special License Plate Annual Report: CY2023 original issuances + renewals",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Washington_(state)",
+    "https://dol.wa.gov/media/pdf/3700/2024-special-license-plate-annual-reportpdf"
+   ]
   },
   {
    "id": "np",
@@ -251,10 +322,16 @@
    "rar": "common",
    "pts": 10,
    "img": "NationalParksPlate.webp",
-   "year": "1996",
+   "year": "2005",
    "supports": "Washington's National Park Fund",
-   "vehicles": "~12,700",
-   "fact": "Washington has 3 national parks — Olympic, Mount Rainier, and North Cascades — plus a fourth that straddles the Canadian border, North Cascades/BC Parks. Mount Rainier at 14,411 feet is the most glaciated peak in the contiguous US, with 26 named glaciers."
+   "vehicles": "~12,700 (2025)",
+   "fact": "Washington has three national parks: Olympic, Mount Rainier and North Cascades. At 14,410 feet, Mount Rainier carries more glacier ice than any other peak in the lower 48, with more than two dozen glaciers. $28 from each plate goes to Washington's National Park Fund.",
+   "vehicles_source": "Balk 2025 DOL figures (12,749 per KPQ)",
+   "sources": [
+    "https://wnpf.org/support-parks/shop-to-support/license-plates/",
+    "https://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5832-S.sl.pdf",
+    "https://kpq.com/ixp/1135/p/washington-specialty-license-plates/"
+   ]
   },
   {
    "id": "stp",
@@ -265,20 +342,31 @@
    "img": "StateParksPlate.webp",
    "year": "1996",
    "supports": "WA State Parks and Recreation Commission",
-   "vehicles": "~6,200",
-   "fact": "Washington has 125 state parks covering over 120,000 acres. Deception Pass State Park is the most visited, with over 2 million visitors per year — more than Yellowstone. The 180-foot bridge over Deception Pass is one of the most photographed spots in the state."
+   "vehicles": "~5,700 (2023)",
+   "fact": "Deception Pass is Washington's busiest state park, with more than 3 million visitors a year. In 2021 it drew more people than Yosemite National Park. $28 from each plate goes to Washington State Parks.",
+   "vehicles_source": "DOL 2024 Special License Plate Annual Report: FY2023 original issuances + renewals",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Deception_Pass_State_Park",
+    "https://dol.wa.gov/node/1466",
+    "https://dol.wa.gov/media/pdf/3700/2024-special-license-plate-annual-reportpdf"
+   ]
   },
   {
    "id": "bear",
    "name": "Wildlife – Bear",
    "cat": "nature",
-   "rar": "rare",
-   "pts": 50,
+   "rar": "uncommon",
+   "pts": 25,
    "img": "bearPlate.webp",
    "year": "1996",
    "supports": "WA Dept. of Fish & Wildlife",
-   "vehicles": "~1,600",
-   "fact": "Washington has an estimated 25,000–30,000 black bears — one of the largest populations in the contiguous US. The Cascades are particularly dense with bear activity. Despite their name, black bears in Washington frequently appear brown, cinnamon, or even blond."
+   "vehicles": "~3,100 (2022)",
+   "fact": "Washington is home to an estimated 25,000 to 30,000 black bears. Despite the name, many are brown, cinnamon or even blond. $28 from each wildlife plate helps WDFW manage the state's game animals.",
+   "vehicles_source": "DOL 2023 report: FY2022 original issuances + renewals",
+   "sources": [
+    "https://dol.wa.gov/node/1460",
+    "https://dol.wa.gov/media/pdf/3244/2023-special-license-plate-reportpdf"
+   ]
   },
   {
    "id": "deer",
@@ -289,20 +377,29 @@
    "img": "deerPlate.webp",
    "year": "1996",
    "supports": "WA Dept. of Fish & Wildlife",
-   "vehicles": "~1,900",
-   "fact": "Washington has two native deer species: the black-tailed deer west of the Cascades and the mule deer to the east. The Columbia white-tailed deer, found along the Columbia River, was once nearly extinct — now protected and slowly recovering thanks to refuges near Cathlamet."
+   "vehicles": "~1,200 (2023)",
+   "fact": "Washington has black-tailed deer west of the Cascades, mule deer to the east and white-tailed deer in the northeast. The rare Columbia white-tailed deer is recovering at a refuge near Cathlamet.",
+   "vehicles_source": "DOL 2024 Special License Plate Annual Report: FY2023 original issuances + renewals",
+   "sources": [
+    "https://dol.wa.gov/node/1460",
+    "https://dol.wa.gov/media/pdf/3700/2024-special-license-plate-annual-reportpdf"
+   ]
   },
   {
    "id": "elk",
    "name": "Wildlife – Elk",
    "cat": "nature",
-   "rar": "rare",
-   "pts": 50,
+   "rar": "uncommon",
+   "pts": 25,
    "img": "elkPlate.webp",
    "year": "1996",
    "supports": "WA Dept. of Fish & Wildlife",
-   "vehicles": "~2,100",
-   "fact": "Washington's Olympic Peninsula hosts the Roosevelt elk — the largest elk subspecies in North America. Olympic National Park was actually established in 1938 partly to protect this herd. Some bulls weigh over 1,000 pounds and carry antlers spanning 5 feet."
+   "vehicles": "~4,000 (2023)",
+   "fact": "The Olympic Peninsula is home to Roosevelt elk, the largest elk in North America. Protecting these herds was one reason Olympic National Park was created in 1938.",
+   "vehicles_source": "DOL 2024 Special License Plate Annual Report: FY2023 original issuances + renewals",
+   "sources": [
+    "https://dol.wa.gov/media/pdf/3700/2024-special-license-plate-annual-reportpdf"
+   ]
   },
   {
    "id": "steel",
@@ -313,8 +410,12 @@
    "img": "SteelheadPlate.webp",
    "year": "1996",
    "supports": "WA Dept. of Fish & Wildlife",
-   "vehicles": "~1,400",
-   "fact": "The steelhead is actually a rainbow trout that migrates to the ocean and back — making it technically the same species as a rainbow trout, just with a radically different life history. Washington's steelhead runs are iconic but critically imperiled by dams, particularly on the Snake River."
+   "vehicles": "~2,300 (2023)",
+   "fact": "A steelhead is a rainbow trout that heads out to sea and comes back to its home river to spawn. It's the same species with a very different life story. Several Washington runs, including the Snake River's, are protected as threatened.",
+   "vehicles_source": "DOL 2024 Special License Plate Annual Report: FY2023 original issuances + renewals",
+   "sources": [
+    "https://dol.wa.gov/media/pdf/3700/2024-special-license-plate-annual-reportpdf"
+   ]
   },
   {
    "id": "eagle",
@@ -325,8 +426,12 @@
    "img": "eaglePlate.webp",
    "year": "1996",
    "supports": "WA Dept. of Fish & Wildlife",
-   "vehicles": "~4,800",
-   "fact": "Washington has one of the highest concentrations of bald eagles in the contiguous US. The Skagit River delta in winter hosts hundreds of eagles feeding on spawned-out salmon — one of the great wildlife spectacles in the Pacific Northwest. The bald eagle was removed from the endangered species list in 2007."
+   "vehicles": "~5,400 (2023)",
+   "fact": "Washington has one of the highest concentrations of bald eagles in the contiguous US. The Skagit River delta in winter hosts hundreds of eagles feeding on spawned-out salmon — one of the great wildlife spectacles in the Pacific Northwest. The bald eagle was removed from the endangered species list in 2007.",
+   "vehicles_source": "DOL 2024 Special License Plate Annual Report: FY2023 original issuances + renewals",
+   "sources": [
+    "https://dol.wa.gov/media/pdf/3700/2024-special-license-plate-annual-reportpdf"
+   ]
   },
   {
    "id": "kwe",
@@ -335,10 +440,16 @@
    "rar": "rare",
    "pts": 50,
    "img": "keep-wa-evergreen-plate.webp",
-   "year": "2025",
+   "year": "2026",
    "supports": "Electric vehicle charging station expansion",
-   "vehicles": "New in 2025",
-   "fact": "The green-on-white design is a deliberate throwback to Washington's standard plates from 1968–1986 — 18 years when every car in the state wore this color scheme. The retro design is doubly 'green': honoring the state's Evergreen identity while funding EV infrastructure."
+   "vehicles": "New in 2026",
+   "fact": "Keep WA Evergreen brings back the green-on-white look of Washington's 1970s plates, with an EV logo. Fees help build electric-vehicle charging stations, and you don't need an EV to get one.",
+   "sources": [
+    "https://dol.wa.gov/node/3610",
+    "https://lawfilesext.leg.wa.gov/Biennium/2023-24/Htm/Bills/House%20Bills/1647-S.htm",
+    "https://www.seattleeva.org/wp/wp-content/uploads/2026/03/202603_March_Power_Outlet.pdf",
+    "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Washington_(state)"
+   ]
   },
   {
    "id": "smb",
@@ -347,10 +458,16 @@
    "rar": "rare",
    "pts": 50,
    "img": "smokey-bear-plate.webp",
-   "year": "2025",
+   "year": "2025–26",
    "supports": "WA Dept. of Natural Resources wildfire prevention",
    "vehicles": "New in 2025",
-   "fact": "Smokey Bear turns 81 in 2025. The real Smokey was a black bear cub rescued from a 1950 New Mexico wildfire, his paws burned. He lived at the National Zoo until 1976. Oregon's Smokey Bear plate — launched in 2019 — became one of the most popular specialty plates in that state's history with over 90,000 registered."
+   "fact": "Smokey Bear has been the face of wildfire prevention since 1944. The real Smokey was a cub rescued from a 1950 New Mexico fire who lived out his life at the National Zoo. Washington joins Oregon and Texas in offering a Smokey plate, which funds DNR wildfire prevention.",
+   "sources": [
+    "https://www.kiro7.com/news/local/was-first-smokey-bear-license-plate-available-funds-going-human-caused-wildfire-campaigns/S6GQDJIV3JBJXPI7SXWQ37ULKM",
+    "https://washingtonstatestandard.com/2025/05/29/smokey-bear-pickleball-and-pollinator-license-plates-on-the-way-in-wa/",
+    "https://www.komonews.com/news/local/new-specialty-throwback-license-plates-in-wa-early-20th-century-non-embossed-more-special-designs-coming",
+    "https://dol.wa.gov/es/node/298"
+   ]
   },
   {
    "id": "msh",
@@ -359,10 +476,15 @@
    "rar": "rare",
    "pts": 50,
    "img": "mount-st-helens-license-plate-scaled.webp",
-   "year": "2025",
-   "supports": "Mount St. Helens education & stewardship",
-   "vehicles": "New in 2025",
-   "fact": "Mount St. Helens erupted on May 18, 1980, in the deadliest and most economically destructive volcanic event in US history. The eruption removed 1,314 feet from the summit and blasted 230 square miles of forest flat. This plate's first design failed DOL readability testing — a fitting nod to a mountain that refuses to be tamed."
+   "year": "2026",
+   "supports": "Mount St. Helens Institute",
+   "vehicles": "New in 2026",
+   "fact": "Mount St. Helens erupted on May 18, 1980, lowering its summit by 1,314 feet and flattening about 230 square miles of forest. Each plate sends $28 to the Mount St. Helens Institute for youth education, trail work and science.",
+   "sources": [
+    "https://dol.wa.gov/vehicles-and-boats/license-plates/get-custom-plates/special-design-plates/mount-st-helens",
+    "https://komonews.com/news/local/washington-drivers-get-new-mount-st-helens-license-plate-option-wsdot-mt-",
+    "https://www.fox13seattle.com/news/wa-mount-st-helens-plate"
+   ]
   },
   {
    "id": "hawks",
@@ -371,58 +493,87 @@
    "rar": "common",
    "pts": 10,
    "img": "seahawksPlate.webp",
-   "year": "2001",
-   "supports": "Seattle Seahawks Charitable Foundation",
-   "vehicles": "~11,100",
-   "fact": "The Seahawks plate ranks 5th overall among all Washington specialty plates, with about 11,100 registered vehicles generating over $336,000 annually. The throwback design celebrates the team's 50th season with the original royal blue, apple green, and silver helmet colors from the 1976 expansion year."
+   "year": "2014",
+   "supports": "Seattle Seahawks Charitable Foundation ($21) & WA State Leadership Board ($7)",
+   "vehicles": "~11,100 (2025)",
+   "fact": "The Seahawks plate is Washington's 5th most popular, with about 11,100 vehicles in 2025. For the team's 50th season it got a new design in the classic blue and green, replacing the look used from 2014 to 2025.",
+   "vehicles_source": "Balk 2025 DOL figures",
+   "sources": [
+    "https://www.seahawks.com/50-seasons/license-plates",
+    "https://www.soundersfc.com/post/2013/05/17/seahawks-and-sounders-fc-license-plates-faq",
+    "https://kpq.com/ixp/1135/p/washington-specialty-license-plates/"
+   ]
   },
   {
    "id": "mar",
    "name": "Seattle Mariners",
    "cat": "sports",
-   "rar": "uncommon",
-   "pts": 25,
+   "rar": "rare",
+   "pts": 50,
    "img": "marinersPlate.webp",
    "year": "1997",
-   "supports": "Originally funded Safeco Field construction bonds",
-   "vehicles": "~1,100",
-   "fact": "The Mariners plate was created in 1997 specifically to help fund construction of what is now T-Mobile Park. It's the lowest-registered sports team plate in Washington — just 1,100 vehicles — despite the Mariners being one of the city's most beloved franchises. Maybe fans spend their money on tickets instead."
+   "supports": "WA State Leadership Board youth programs (World Fellows, Sports Mentorship)",
+   "vehicles": "~1,100 (2025)",
+   "fact": "Mariners plates sold since 2019 help fund youth programs through the Washington State Leadership Board, including first-generation college scholarships and inclusive sports grants. About 1,100 fans had one in 2025.",
+   "vehicles_source": "Balk 2025 DOL figures",
+   "sources": [
+    "https://www.mlb.com/news//c-296671814",
+    "https://lawfilesext.leg.wa.gov/Biennium/2017-18/Pdf/Bills/House%20Bills/2871.pdf",
+    "https://dol.wa.gov/media/pdf/3700/2024-special-license-plate-annual-reportpdf"
+   ]
   },
   {
    "id": "krak",
    "name": "Seattle Kraken",
    "cat": "sports",
-   "rar": "uncommon",
-   "pts": 25,
+   "rar": "rare",
+   "pts": 50,
    "img": "kraken-plate.webp",
    "year": "2021",
-   "supports": "Climate Pledge Arena & Kraken Community Iceplex",
-   "vehicles": "~3,200",
-   "fact": "Seattle's NHL team, the Kraken, chose their name after the legendary sea monster of Norse mythology — a fitting choice for a city built on Puget Sound. They played their first NHL game in 2021 and are the 32nd franchise in NHL history. Their home, Climate Pledge Arena, is the first carbon-neutral arena in the world."
+   "supports": "One Roof Foundation",
+   "vehicles": "~1,900 (2023)",
+   "fact": "The Kraken, named for a legendary sea monster from Scandinavian folklore, became the NHL's 32nd team and played their first game in 2021. Their plate went on sale in May 2021, with most of its proceeds going to the team's One Roof Foundation.",
+   "vehicles_source": "DOL 2024 Special License Plate Annual Report: CY2023 original issuances + renewals",
+   "sources": [
+    "https://nhl.com/kraken/news/kraken-license-plates-to-benefit-one-roof-foundation-324314466",
+    "https://dol.wa.gov/media/pdf/3700/2024-special-license-plate-annual-reportpdf"
+   ]
   },
   {
    "id": "sound",
    "name": "Seattle Sounders FC",
    "cat": "sports",
-   "rar": "uncommon",
-   "pts": 25,
+   "rar": "rare",
+   "pts": 50,
    "img": "soundersPlate.webp",
-   "year": "2009",
-   "supports": "Sounders FC community programs",
-   "vehicles": "~3,800",
-   "fact": "The Sounders have the highest average attendance of any MLS team, regularly selling out 69,000-seat Lumen Field — an arena built for the NFL. Their supporters' groups, including the Emerald City Supporters, are among the most passionate in North American soccer. They've won MLS Cup twice, in 2016 and 2019."
+   "year": "2014",
+   "supports": "Mentor Washington & WA State Leadership Board",
+   "vehicles": "~2,100 (2023)",
+   "fact": "Sounders crowds are among the biggest in MLS, averaging about 31,000 a game in 2025, second in the league. The club won MLS Cup in 2016 and 2019, and its plate supports youth mentoring.",
+   "vehicles_source": "DOL 2024 Special License Plate Annual Report: FY2023 original issuances + renewals",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Major_League_Soccer_attendance",
+    "https://www.soundersfc.com/post/2013/05/17/seahawks-and-sounders-fc-license-plates-faq",
+    "https://dol.wa.gov/media/pdf/3700/2024-special-license-plate-annual-reportpdf"
+   ]
   },
   {
    "id": "storm",
    "name": "Seattle Storm",
    "cat": "sports",
-   "rar": "rare",
-   "pts": 50,
+   "rar": "legendary",
+   "pts": 150,
    "img": "stormPlate.webp",
-   "year": "2001",
-   "supports": "Seattle Storm community programs",
-   "vehicles": "~1,800",
-   "fact": "The Seattle Storm are one of the most successful franchises in WNBA history with 4 championships (2004, 2010, 2018, 2020). Sue Bird, who played her entire 21-year career in Seattle, is widely considered the greatest WNBA player of all time. The Storm have a notoriously passionate fanbase."
+   "year": "2019",
+   "supports": "WA State Leadership Board grants for women's & girls' sports",
+   "vehicles": "~100 (2023)",
+   "fact": "The Storm have won four WNBA titles (2004, 2010, 2018 and 2020), and Sue Bird spent her whole career in Seattle, from 2002 to 2022. The plate funds grants that open up sports for women and girls.",
+   "vehicles_source": "DOL 2024 Special License Plate Annual Report: CY2023 original issuances + renewals",
+   "sources": [
+    "https://hoopfeed.com/content/2019/05/seattle-storm-to-get-washington-state-license-plate-proceeds-will-fund-youth-programs",
+    "https://dol.wa.gov/media/pdf/3700/2024-special-license-plate-annual-reportpdf",
+    "https://dol.wa.gov/media/pdf/3244/2023-special-license-plate-reportpdf"
+   ]
   },
   {
    "id": "ski",
@@ -432,9 +583,14 @@
    "pts": 50,
    "img": "skiPlate.webp",
    "year": "1996",
-   "supports": "Washington ski area infrastructure",
-   "vehicles": "~2,200",
-   "fact": "Washington has 20+ ski areas, with Crystal Mountain near Mount Rainier being the largest. The state gets some of the heaviest snowfall in North America at higher elevations — Mount Baker Ski Area holds the world record for snowfall in a single season: 1,140 inches (95 feet) in 1998–99."
+   "supports": "Ski Washington",
+   "vehicles": "~1,200 (2023)",
+   "fact": "Crystal Mountain near Mount Rainier is Washington's largest ski area. Mount Baker Ski Area holds the record for snowfall in a single season: 1,140 inches (95 feet) in 1998–99.",
+   "vehicles_source": "DOL 2024 Special License Plate Annual Report: FY2023 original issuances + renewals",
+   "sources": [
+    "https://dol.wa.gov/node/1478",
+    "https://dol.wa.gov/media/pdf/3700/2024-special-license-plate-annual-reportpdf"
+   ]
   },
   {
    "id": "pkl",
@@ -446,7 +602,11 @@
    "year": "2025",
    "supports": "Seattle Metro Pickleball Association court construction",
    "vehicles": "New in 2025",
-   "fact": "Pickleball was invented on Bainbridge Island, Washington in 1965 by Joel Pritchard (later a US Congressman), Bill Bell, and Barney McCallum. They created it with ping-pong paddles and a perforated plastic ball on a badminton court. Washington designated it the official state sport in 2022 — making this the first state sport license plate in the nation."
+   "fact": "Pickleball was invented on Bainbridge Island in 1965 by Joel Pritchard, Bill Bell and Barney McCallum, using ping-pong paddles and a plastic ball on a badminton court. It became the state sport in 2022, and this was the nation's first pickleball plate when it went on sale in November 2025.",
+   "sources": [
+    "https://washingtonstatestandard.com/?p=12480",
+    "https://washingtonstatestandard.com/2025/05/29/smokey-bear-pickleball-and-pollinator-license-plates-on-the-way-in-wa/"
+   ]
   },
   {
    "id": "tennis",
@@ -455,10 +615,16 @@
    "rar": "legendary",
    "pts": 150,
    "img": "TennisPlate.webp",
-   "year": "2022",
-   "supports": "New public indoor tennis facility construction",
-   "vehicles": "~19",
-   "fact": "With only about 19 registered plates statewide, Tennis is one of Washington's most obscure specialty plates. It funds construction of new public indoor tennis facilities. Washington has produced notable tennis talent — including a strong tradition at the University of Washington — but the plate hasn't caught on with the broader public."
+   "year": "2017",
+   "supports": "City public indoor tennis facility (4+ courts)",
+   "vehicles": "~80 (2023)",
+   "fact": "The Tennis plate is one of the rarest in Washington, with only about 80 on the road in 2023. Proceeds are set aside to help a city build and maintain a public tennis center with at least four indoor courts.",
+   "vehicles_source": "DOL 2024 Special License Plate Annual Report: CY2023 original issuances + renewals",
+   "sources": [
+    "https://lawfilesext.leg.wa.gov/biennium/2015-16/Htm/Bill%20Reports/House/2262%20HBA%20TR%2016.htm",
+    "https://dol.wa.gov/media/pdf/3700/2024-special-license-plate-annual-reportpdf",
+    "https://dol.wa.gov/media/pdf/3244/2023-special-license-plate-reportpdf"
+   ]
   },
   {
    "id": "wrest",
@@ -467,10 +633,15 @@
    "rar": "legendary",
    "pts": 150,
    "img": "WrestlingPlate.webp",
-   "year": "2022",
-   "supports": "Washington State Wrestling Foundation",
-   "vehicles": "~112",
-   "fact": "Wrestling is one of Washington's most successful high school and collegiate sports, with multiple state championship programs. Yet only about 112 vehicles carry this plate. Washington wrestlers have won Olympic and NCAA titles — but apparently prefer not to advertise it on their bumper."
+   "year": "2017",
+   "supports": "WA State Wrestling Foundation (college wrestling programs)",
+   "vehicles": "~270 (2023)",
+   "fact": "About 270 Washington drivers carry the Wrestling plate. Proceeds go to the Washington State Wrestling Foundation to help start and support college wrestling programs.",
+   "vehicles_source": "DOL 2024 Special License Plate Annual Report: CY2023 original issuances + renewals",
+   "sources": [
+    "https://lawfilestestext.leg.wa.gov/BienniumTest/2015-16/Pdf/Bill%20Reports/House/1830-S%20HBR%20FBR%2016.pdf",
+    "https://dol.wa.gov/media/pdf/3700/2024-special-license-plate-annual-reportpdf"
+   ]
   },
   {
    "id": "wsu",
@@ -481,8 +652,13 @@
    "img": "WSUplate.webp",
    "year": "1995",
    "supports": "WSU scholarship funds",
-   "vehicles": "~24,100",
-   "fact": "WSU is by far the most popular specialty plate in Washington, with 24,100 registered vehicles generating $734,000 annually — nearly twice its nearest competitor. Founded in 1890 as the state's land-grant university, WSU's Pullman campus sits in the rolling Palouse wheat country of eastern Washington."
+   "vehicles": "~24,100 (2025)",
+   "fact": "WSU is Washington's most popular specialty plate, with about 24,100 vehicles in 2025, more than twice as many as the UW plate. Founded in 1890 as the state's land-grant university, WSU sits in the rolling wheat country of the Palouse.",
+   "vehicles_source": "Balk 2025 DOL figures",
+   "sources": [
+    "https://magazine.wsu.edu/tag/license-plates/",
+    "https://kpq.com/ixp/1135/p/washington-specialty-license-plates/"
+   ]
   },
   {
    "id": "uw",
@@ -493,80 +669,110 @@
    "img": "UWplate.webp",
    "year": "1995",
    "supports": "UW scholarship funds",
-   "vehicles": "~10,300",
-   "fact": "The UW ranks 6th overall among Washington specialty plates. Founded in 1861 — before Washington was even a state — it's one of the oldest universities on the West Coast. The purple and gold plate features the block W that has been the Husky symbol since 1923. UW's medical school consistently ranks among the top 5 in the nation."
+   "vehicles": "~10,300 (2025)",
+   "fact": "The UW plate ranks 6th among Washington specialty plates, with about 10,300 vehicles. Founded in 1861, nearly 30 years before statehood, the UW is one of the oldest public universities on the West Coast.",
+   "vehicles_source": "Balk 2025 DOL figures",
+   "sources": [
+    "https://lawfilestestext.leg.wa.gov/BienniumTest/1993-94/Pdf/Bill%20Reports/Senate/6089-S.FBR.pdf"
+   ]
   },
   {
    "id": "cwu",
    "name": "Central Washington University",
    "cat": "colleges",
-   "rar": "uncommon",
-   "pts": 25,
+   "rar": "rare",
+   "pts": 50,
    "img": "CWUplate.webp",
    "year": "1996",
    "supports": "CWU scholarship funds",
-   "vehicles": "~2,800",
-   "fact": "Central Washington University in Ellensburg sits at the convergence of the Cascades and the Columbia Plateau. Founded in 1891, CWU is known for its aviation program — one of the best in the Northwest — and its primate research center, where chimpanzees have been taught American Sign Language since the 1970s."
+   "vehicles": "~680 (2023)",
+   "fact": "Central Washington University in Ellensburg was founded in 1891 and is known for its aviation program. For three decades it was home to Washoe, the famous chimpanzee who learned American Sign Language.",
+   "vehicles_source": "DOL 2024 Special License Plate Annual Report: CY2023 original issuances + renewals",
+   "sources": [
+    "https://dol.wa.gov/media/pdf/3700/2024-special-license-plate-annual-reportpdf"
+   ]
   },
   {
    "id": "ewu",
    "name": "Eastern Washington University",
    "cat": "colleges",
-   "rar": "uncommon",
-   "pts": 25,
+   "rar": "rare",
+   "pts": 50,
    "img": "EWUplate.webp",
    "year": "1996",
    "supports": "EWU scholarship funds",
-   "vehicles": "~2,400",
-   "fact": "Eastern Washington University in Cheney (near Spokane) has one of the most dominant FCS football programs in the country — the Eagles have won multiple national championships and regularly appear in the playoffs. The school's red-and-white colors make the plate one of the more distinctive in the college series."
+   "vehicles": "~1,900 (2023)",
+   "fact": "Eastern Washington University in Cheney won the FCS national football championship in 2010 and is famous for its red turf field, 'The Inferno'.",
+   "vehicles_source": "DOL 2024 Special License Plate Annual Report: CY2023 original issuances + renewals",
+   "sources": [
+    "https://dol.wa.gov/media/pdf/3700/2024-special-license-plate-annual-reportpdf"
+   ]
   },
   {
    "id": "esc",
    "name": "The Evergreen State College",
    "cat": "colleges",
-   "rar": "rare",
-   "pts": 50,
+   "rar": "legendary",
+   "pts": 150,
    "img": "TESCplate.webp",
    "year": "1997",
    "supports": "Evergreen State scholarship funds",
-   "vehicles": "~1,200",
-   "fact": "Evergreen State College in Olympia was founded in 1967 with a radically experimental model: no majors, no grades, no traditional departments. Students design their own curriculum in interdisciplinary programs. Notable alumni include Matt Groening (creator of The Simpsons) and Macklemore."
+   "vehicles": "~290 (2023)",
+   "fact": "Evergreen State College in Olympia was founded in 1967 with a radically experimental model: no majors, no grades, no traditional departments. Students design their own curriculum in interdisciplinary programs. Notable alumni include Matt Groening (creator of The Simpsons) and Macklemore.",
+   "vehicles_source": "DOL 2024 Special License Plate Annual Report: CY2023 original issuances + renewals",
+   "sources": [
+    "https://dol.wa.gov/media/pdf/3700/2024-special-license-plate-annual-reportpdf"
+   ]
   },
   {
    "id": "gonz",
    "name": "Gonzaga University",
    "cat": "colleges",
-   "rar": "uncommon",
-   "pts": 25,
+   "rar": "rare",
+   "pts": 50,
    "img": "gonzagaPlate.webp",
    "year": "1996",
    "supports": "Gonzaga scholarship funds",
-   "vehicles": "~3,100",
-   "fact": "Gonzaga University in Spokane is nationally known for its men's basketball program — the Bulldogs have made 27 consecutive NCAA Tournament appearances. The school was founded by Jesuits in 1887 on the banks of the Spokane River. Notable alumni include Bing Crosby, who was actually expelled before graduating."
+   "vehicles": "~1,900 (2023)",
+   "fact": "Gonzaga's men's basketball team reached its 27th straight NCAA Tournament in 2026. Jesuits founded the school on the Spokane River in 1887, and Bing Crosby studied there before leaving in 1924 to pursue music.",
+   "vehicles_source": "DOL 2024 Special License Plate Annual Report: CY2023 original issuances + renewals",
+   "sources": [
+    "https://wtop.com/ncaa-basketball/2026/03/gonzaga-is-back-in-the-ncaa-tournament-still-searching-for-that-elusive-championship/",
+    "https://historylink.org/File/8097",
+    "https://dol.wa.gov/media/pdf/3700/2024-special-license-plate-annual-reportpdf"
+   ]
   },
   {
    "id": "seu",
    "name": "Seattle University",
    "cat": "colleges",
-   "rar": "rare",
-   "pts": 50,
+   "rar": "legendary",
+   "pts": 150,
    "img": "seattle-univ-plate.webp",
    "year": "1996",
    "supports": "Seattle University scholarship funds",
-   "vehicles": "~200",
-   "fact": "Seattle University is the least-purchased college plate in Washington, with only about 200 registered vehicles — generating just $6,600 annually. The Jesuit university on Capitol Hill was founded in 1891 and is known for its law school and nursing program. Despite its small plate numbers, it has a fiercely loyal alumni base."
+   "vehicles": "~200 (2025)",
+   "fact": "Seattle University is the least-purchased college plate in Washington, with only about 200 registered vehicles — generating just $6,600 annually. The Jesuit university on Capitol Hill was founded in 1891 and is known for its law school and nursing program. Despite its small plate numbers, it has a fiercely loyal alumni base.",
+   "vehicles_source": "Balk 2025 DOL figures",
+   "sources": [
+    "https://dol.wa.gov/media/pdf/3700/2024-special-license-plate-annual-reportpdf"
+   ]
   },
   {
    "id": "wwu",
    "name": "Western Washington University",
    "cat": "colleges",
-   "rar": "uncommon",
-   "pts": 25,
+   "rar": "rare",
+   "pts": 50,
    "img": "WWUplate.webp",
    "year": "1996",
    "supports": "WWU scholarship funds",
-   "vehicles": "~3,600",
-   "fact": "Western Washington University in Bellingham sits between the North Cascades and Puget Sound, with a view of the San Juan Islands on clear days. Founded in 1893, WWU is known for its Huxley College of the Environment — one of the oldest and most respected environmental studies programs in the US."
+   "vehicles": "~580 (2023)",
+   "fact": "Western Washington University in Bellingham sits between the North Cascades and Puget Sound, with a view of the San Juan Islands on clear days. Founded in 1893, WWU is known for its Huxley College of the Environment — one of the oldest and most respected environmental studies programs in the US.",
+   "vehicles_source": "DOL 2024 Special License Plate Annual Report: CY2023 original issuances + renewals",
+   "sources": [
+    "https://dol.wa.gov/media/pdf/3700/2024-special-license-plate-annual-reportpdf"
+   ]
   },
   {
    "id": "lem",
@@ -577,8 +783,12 @@
    "img": "LEMplate.webp",
    "year": "1996",
    "supports": "Behind the Badge Foundation",
-   "vehicles": "~11,300",
-   "fact": "The Law Enforcement Memorial plate ranks 4th overall in Washington, with 11,300 registered vehicles — and uniquely, any Washington driver can purchase it regardless of profession. The $28 annual fee supports the Behind the Badge Foundation, which provides assistance to families of fallen officers."
+   "vehicles": "~11,300 (2025)",
+   "fact": "The Law Enforcement Memorial plate ranks 4th in Washington, with about 11,300 vehicles in 2025. It is open to any driver and supports families of fallen officers.",
+   "vehicles_source": "Balk 2025 DOL figures",
+   "sources": [
+    "https://kpq.com/ixp/1135/p/washington-specialty-license-plates/"
+   ]
   },
   {
    "id": "pff",
@@ -588,9 +798,14 @@
    "pts": 25,
    "img": "firefighterPlate.webp",
    "year": "1996",
-   "supports": "WA State Council of Firefighters",
-   "vehicles": "~4,800",
-   "fact": "Washington's professional firefighter plate requires proof of membership — you must be a current member of the Washington State Council of Firefighters. Washington has over 300 fire departments protecting communities from the rainy coast to the fire-prone east side. The firefighter tradition in the state goes back to the Great Seattle Fire of 1889."
+   "supports": "WSCFF Benevolent Fund",
+   "vehicles": "~4,700 (2023)",
+   "fact": "Fees from the Professional Firefighter plate go to the Washington State Council of Fire Fighters Benevolent Fund, which helps firefighters and their families in times of need.",
+   "vehicles_source": "DOL 2024 Special License Plate Annual Report: CY2023 original issuances + renewals",
+   "sources": [
+    "https://dol.wa.gov/node/1457",
+    "https://dol.wa.gov/media/pdf/3700/2024-special-license-plate-annual-reportpdf"
+   ]
   },
   {
    "id": "vff",
@@ -600,57 +815,81 @@
    "pts": 50,
    "img": "VolunteerFirefighterPlate.webp",
    "year": "2000",
-   "supports": "WA State Council of Firefighters",
-   "vehicles": "~1,600",
-   "fact": "About 70% of fire departments in Washington are staffed entirely or primarily by volunteers. Rural eastern Washington communities depend almost entirely on volunteer firefighters. The volunteer firefighter plate was approved for release in January 2000 — six years after it was first authorized by the legislature."
+   "supports": "Washington State Firefighters' Association",
+   "vehicles": "~1,200 (2023)",
+   "fact": "Volunteer firefighters protect much of rural Washington. Fees from this plate go to the Washington State Firefighters' Association.",
+   "vehicles_source": "DOL 2024 Special License Plate Annual Report: CY2023 original issuances + renewals",
+   "sources": [
+    "https://dol.wa.gov/node/1458",
+    "https://dol.wa.gov/media/pdf/3700/2024-special-license-plate-annual-reportpdf"
+   ]
   },
   {
    "id": "4h",
    "name": "4-H",
    "cat": "charity",
-   "rar": "uncommon",
-   "pts": 25,
+   "rar": "legendary",
+   "pts": 150,
    "img": "4Hplate.webp",
    "year": "2001",
    "supports": "4-H youth development programs",
-   "vehicles": "~2,600",
-   "fact": "4-H is America's largest youth development organization, with over 6 million members. The four H's stand for Head, Heart, Hands, and Health. In Washington, 4-H has deep roots in agricultural counties east of the Cascades, where county fairs featuring 4-H livestock competitions are major community events."
+   "vehicles": "~170 (2023)",
+   "fact": "4-H reaches nearly 6 million young people across the country, and the four H's stand for Head, Heart, Hands and Health. County fairs east of the Cascades are a big stage for Washington 4-H'ers.",
+   "vehicles_source": "DOL 2024 Special License Plate Annual Report: CY2023 original issuances + renewals",
+   "sources": [
+    "https://dol.wa.gov/media/pdf/3700/2024-special-license-plate-annual-reportpdf"
+   ]
   },
   {
    "id": "bca",
    "name": "Breast Cancer Awareness",
    "cat": "charity",
-   "rar": "uncommon",
-   "pts": 25,
+   "rar": "rare",
+   "pts": 50,
    "img": "Breast-cancer-plate.webp",
-   "year": "2001",
-   "supports": "Breast cancer research and awareness",
-   "vehicles": "~3,200",
-   "fact": "Washington is home to Fred Hutchinson Cancer Center in Seattle, one of the world's leading cancer research institutions. The pink ribbon on this plate has been a universal symbol of breast cancer awareness since 1991. Washington women have a slightly higher breast cancer incidence rate than the national average."
+   "year": "2015",
+   "supports": "WA Dept. of Health breast, cervical & colon health program",
+   "vehicles": "~640 (2023)",
+   "fact": "The pink ribbon has stood for breast cancer awareness since the early 1990s. Fees from this plate support the Washington Department of Health's breast, cervical and colon health program.",
+   "vehicles_source": "DOL 2024 Special License Plate Annual Report: FY2023 original issuances + renewals",
+   "sources": [
+    "https://lawfilesext.leg.wa.gov/biennium/2013-14/Pdf/Bills/Session%20Laws/House/2700.sl.pdf",
+    "https://dol.wa.gov/media/pdf/3700/2024-special-license-plate-annual-reportpdf"
+   ]
   },
   {
    "id": "ffa",
    "name": "FFA Foundation",
    "cat": "charity",
-   "rar": "rare",
-   "pts": 50,
+   "rar": "legendary",
+   "pts": 150,
    "img": "FFAplate.webp",
    "year": "2001",
-   "supports": "National FFA Organization Washington chapter",
-   "vehicles": "~1,800",
-   "fact": "FFA (formerly Future Farmers of America) has been preparing young people for careers in agriculture since 1928. Washington's agricultural sector generates over $10 billion annually — apples, wheat, hops, dairy, and wine grapes are the top commodities. FFA chapters are strongest in eastern Washington's agricultural heartland."
+   "supports": "FFA Foundation",
+   "vehicles": "~150 (2022)",
+   "fact": "FFA, founded in 1928 as Future Farmers of America, prepares students for careers in agriculture. Fees from this plate support the FFA Foundation.",
+   "vehicles_source": "DOL 2023 report: CY2022 original issuances + renewals",
+   "sources": [
+    "https://dol.wa.gov/node/1449",
+    "https://dol.wa.gov/media/pdf/3244/2023-special-license-plate-reportpdf",
+    "https://dol.wa.gov/media/pdf/3700/2024-special-license-plate-annual-reportpdf"
+   ]
   },
   {
    "id": "fh",
    "name": "Fred Hutchinson Cancer Ctr.",
    "cat": "charity",
-   "rar": "rare",
-   "pts": 50,
+   "rar": "legendary",
+   "pts": 150,
    "img": "fredhutchplate.webp",
    "year": "2006",
    "supports": "Fred Hutchinson Cancer Center research",
-   "vehicles": "~1,400",
-   "fact": "Fred Hutchinson Cancer Center in Seattle is where bone marrow transplantation was developed — a breakthrough that has saved millions of lives worldwide. It's named for Seattle-raised pitcher Fred Hutchinson, who died of lung cancer in 1964. Three Nobel Prizes in Medicine have been awarded for work done at the Hutch."
+   "vehicles": "~280 (2023)",
+   "fact": "Fred Hutch is where Dr. E. Donnall Thomas pioneered bone marrow transplants, work that earned a Nobel Prize in 1990. The center is named for Seattle-raised pitcher Fred Hutchinson, who died of lung cancer in 1964.",
+   "vehicles_source": "DOL 2024 Special License Plate Annual Report: FY2023 original issuances + renewals",
+   "sources": [
+    "https://dol.wa.gov/media/pdf/3700/2024-special-license-plate-annual-reportpdf"
+   ]
   },
   {
    "id": "hks",
@@ -659,58 +898,85 @@
    "rar": "rare",
    "pts": 50,
    "img": "HelpingKidsSpeakPlate.webp",
-   "year": "2009",
-   "supports": "Speech and language programs for children",
-   "vehicles": "~900",
-   "fact": "Communication disorders affect 1 in 12 children in the US. Washington's Helping Kids Speak plate funds speech-language therapy for children who might otherwise lack access. Early intervention in speech disorders before age 5 dramatically improves long-term outcomes."
+   "year": "by 2005",
+   "supports": "Scottish Rite RiteCare early speech & language clinics",
+   "vehicles": "~780 (2023)",
+   "fact": "Nearly 1 in 12 U.S. children has a voice, speech or language disorder. This plate supports free early speech and language help from Scottish Rite RiteCare clinics.",
+   "vehicles_source": "DOL 2024 Special License Plate Annual Report: CY2023 original issuances + renewals",
+   "sources": [
+    "https://dol.wa.gov/vehicles-and-boats/license-plates/get-custom-plates/special-design-plates/helping-kids-speak",
+    "https://lawfilesext.leg.wa.gov/biennium/2005-06/Pdf/Bills/Session%20Laws/Senate/5832-S.sl.pdf",
+    "https://dol.wa.gov/media/pdf/3700/2024-special-license-plate-annual-reportpdf"
+   ]
   },
   {
    "id": "jpp",
    "name": "J.P. Patches Pal",
    "cat": "charity",
-   "rar": "legendary",
-   "pts": 200,
+   "rar": "rare",
+   "pts": 50,
    "img": "patches-pal-plate.webp",
    "year": "2022",
-   "supports": "Seattle Children's Hospital cancer research",
-   "vehicles": "Under 500",
-   "fact": "The J.P. Patches Show ran on KIRO-TV from 1958 to 1981 — over 10,000 episodes, making it one of the longest-running locally produced children's shows in US history. The man behind the clown, Chris Wedes of Edmonds, died in 2012. His fans included Bill Gates, Paul Allen, and generations of Seattle kids. It took three tries to get the plate approved by the legislature."
+   "supports": "Seattle Children's cancer immunotherapy research",
+   "vehicles": "~580 (2023)",
+   "fact": "The J.P. Patches Show ran on KIRO-TV from 1958 to 1981, starring Edmonds' own Chris Wedes, who died in 2012. It took three tries in the Legislature to get the plate approved, and proceeds support cancer immunotherapy research at Seattle Children's.",
+   "vehicles_source": "DOL 2024 Special License Plate Annual Report: CY2023 original issuances + renewals",
+   "sources": [
+    "https://www.heraldnet.com/2022/11/15/j-p-patches-license-plate-third-time-proved-the-charm/",
+    "https://dol.wa.gov/media/pdf/3244/2023-special-license-plate-reportpdf",
+    "https://dol.wa.gov/media/pdf/3700/2024-special-license-plate-annual-reportpdf"
+   ]
   },
   {
    "id": "kks",
    "name": "Keep Kids Safe",
    "cat": "charity",
-   "rar": "uncommon",
-   "pts": 25,
+   "rar": "rare",
+   "pts": 50,
    "img": "KeepKidsSafePlate.webp",
    "year": "2006",
    "supports": "Strengthening Families Washington",
-   "vehicles": "~3,800",
-   "fact": "Issued January 3, 2006, the Keep Kids Safe plate supports Strengthening Families Washington, which works to prevent child abuse and neglect. The handprint design on the plate was created from actual children's handprints. Washington has invested significantly in early childhood programs including the nationally-recognized Early Achievers quality rating system."
+   "vehicles": "~830 (2023)",
+   "fact": "The Keep Kids Safe plate first went on sale on January 3, 2006, and supports work to prevent child abuse and neglect.",
+   "vehicles_source": "DOL 2024 Special License Plate Annual Report: FY2023 original issuances + renewals",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Washington_(state)",
+    "https://dol.wa.gov/media/pdf/3700/2024-special-license-plate-annual-reportpdf"
+   ]
   },
   {
    "id": "wine",
    "name": "Washington Wine Commission",
    "cat": "charity",
-   "rar": "rare",
-   "pts": 50,
+   "rar": "legendary",
+   "pts": 150,
    "img": "wine-country-plate.webp",
    "year": "2022",
    "supports": "Washington Wine Commission promotion & research",
-   "vehicles": "~1,200",
-   "fact": "Washington is the second-largest wine producer in the US after California, with over 1,000 wineries and 60,000+ acres of wine grapes. The Columbia Valley AVA east of the Cascades gets 300 days of sunshine per year — more than Napa Valley. Walla Walla and the Yakima Valley are the most celebrated wine regions."
+   "vehicles": "~300 (2023)",
+   "fact": "Washington is the nation's second-largest wine producer after California, with more than 1,000 wineries. Most of its grapes grow in the sunny Columbia Valley east of the Cascades.",
+   "vehicles_source": "DOL 2024 Special License Plate Annual Report: CY2023 original issuances + renewals (column alignment unclear)",
+   "sources": [
+    "https://dol.wa.gov/media/pdf/3244/2023-special-license-plate-reportpdf",
+    "https://dol.wa.gov/media/pdf/3700/2024-special-license-plate-annual-reportpdf"
+   ]
   },
   {
    "id": "pets",
    "name": "We Love Our Pets",
    "cat": "charity",
-   "rar": "uncommon",
-   "pts": 25,
+   "rar": "rare",
+   "pts": 50,
    "img": "petsPlate.webp",
    "year": "1996",
    "supports": "WA Federation of Animal Care & Control Agencies",
-   "vehicles": "~4,100",
-   "fact": "Washington has some of the most progressive animal welfare laws in the country. The We Love Our Pets plate funds spay/neuter programs statewide — reducing pet overpopulation and euthanasia rates. Seattle and King County have achieved 'no-kill' status, meaning over 90% of shelter animals are adopted or transferred."
+   "vehicles": "~2,100 (2023)",
+   "fact": "Fees from the We Love Our Pets plate go to the Washington State Federation of Animal Care and Control Agencies, which helps fund spay and neuter programs that mean fewer homeless pets.",
+   "vehicles_source": "DOL 2024 Special License Plate Annual Report: CY2023 original issuances + renewals",
+   "sources": [
+    "https://dol.wa.gov/vehicles-and-boats/license-plates/get-custom-plates/special-design-plates/we-love-our-pets",
+    "https://dol.wa.gov/media/pdf/3700/2024-special-license-plate-annual-reportpdf"
+   ]
   },
   {
    "id": "ham",
@@ -732,9 +998,14 @@
    "pts": 50,
    "img": "AviationPlate.webp",
    "year": "1996",
-   "supports": "Washington aviation education & infrastructure",
-   "vehicles": "~1,600",
-   "fact": "Washington is the birthplace of Boeing — the largest aerospace company in the world. The first Boeing airplane flew in 1916. Washington has over 130 public-use airports, more per capita than most states. The Fly Washington plate helps fund rural airport maintenance and aviation education programs."
+   "supports": "WSDOT Aviation projects",
+   "vehicles": "~1,500 (2023)",
+   "fact": "Boeing was founded in Seattle in 1916, the year its first airplane flew. $28 from each Fly Washington plate funds WSDOT aviation projects, including airport improvements that help with disaster response.",
+   "vehicles_source": "DOL 2024 Special License Plate Annual Report: FY2023 original issuances + renewals",
+   "sources": [
+    "https://wsdot.wa.gov/travel/aviation/news-contacts/aviation-license-plate",
+    "https://dol.wa.gov/media/pdf/3700/2024-special-license-plate-annual-reportpdf"
+   ]
   },
   {
    "id": "mm",
@@ -745,8 +1016,12 @@
    "img": "musicPlate.webp",
    "year": "2000",
    "supports": "Music Aid Northwest",
-   "vehicles": "~1,100",
-   "fact": "Seattle's music scene produced Jimi Hendrix, Nirvana, Pearl Jam, Soundgarden, and Macklemore — a disproportionate influence on rock history for one mid-sized city. Music Aid Northwest, supported by this plate, provides instruments and music education to underserved students across Washington."
+   "vehicles": "~2,300 (2023)",
+   "fact": "Seattle's music scene produced Jimi Hendrix, Nirvana, Pearl Jam, Soundgarden, and Macklemore — a disproportionate influence on rock history for one mid-sized city. Music Aid Northwest, supported by this plate, provides instruments and music education to underserved students across Washington.",
+   "vehicles_source": "DOL 2024 Special License Plate Annual Report: CY2023 original issuances + renewals",
+   "sources": [
+    "https://dol.wa.gov/media/pdf/3700/2024-special-license-plate-annual-reportpdf"
+   ]
   },
   {
    "id": "str",
@@ -756,9 +1031,14 @@
    "pts": 50,
    "img": "ShareRoadPlate.webp",
    "year": "1996",
-   "supports": "Bicycle infrastructure and safety",
-   "vehicles": "~1,900",
-   "fact": "The Share the Road plate features a cyclist and was part of the original 1996 specialty plate launch. Washington has invested heavily in bike infrastructure — the Burke-Gilman Trail in Seattle is one of the most used multi-use trails in the US. The state has over 3,000 miles of designated bicycle routes."
+   "supports": "Cascade Bicycle Club",
+   "vehicles": "~2,600 (2023)",
+   "fact": "The Share the Road plate features a cyclist, and its fees support Cascade Bicycle Club. Seattle's Burke-Gilman Trail is one of the busiest multi-use trails in the country.",
+   "vehicles_source": "DOL 2024 Special License Plate Annual Report: CY2023 original issuances + renewals",
+   "sources": [
+    "https://dol.wa.gov/node/1477",
+    "https://dol.wa.gov/media/pdf/3700/2024-special-license-plate-annual-reportpdf"
+   ]
   },
   {
    "id": "sq",
@@ -769,8 +1049,13 @@
    "img": "squaredancePlate.webp",
    "year": "1993",
    "supports": "No beneficiary — celebration of state dance",
-   "vehicles": "5",
-   "fact": "The Square Dancer was Washington's very first specialty license plate, debuting in 1993 — and for a few years, it was the ONLY specialty plate in the state. Square dancing was designated Washington's official state dance in 1979. At its peak, around 664 of these plates were registered. Today only 5 remain. It's the rarest plate on Washington roads."
+   "vehicles": "5 (2025)",
+   "fact": "Square dancing has been Washington's official state dance since 1979. In 2025 only about 5 vehicles carried this plate, making it the rarest catch on the road.",
+   "vehicles_source": "Balk 2025 DOL figures",
+   "sources": [
+    "https://dol.wa.gov/media/pdf/3700/2024-special-license-plate-annual-reportpdf",
+    "https://kpq.com/ixp/1135/p/washington-specialty-license-plates/"
+   ]
   },
   {
    "id": "tbk",
@@ -780,9 +1065,14 @@
    "pts": 50,
    "img": "throwback-plate.webp",
    "year": "2025",
-   "supports": "Driver education programs",
+   "supports": "DOL driver training program",
    "vehicles": "New in 2025",
-   "fact": "The black-on-white design references Washington's 1917–18 plate — the only time in state history a true blackout plate was issued. 'Blackout' plates have become enormously popular nationally, with states like California and Colorado seeing massive demand for similar designs. Washington's version was one of six new plates approved in the landmark 2025 omnibus plate bill."
+   "fact": "The Throwback plate has white characters on black, a nod to Washington's 1917–18 plates. It went on sale in November 2025 under the 2025 special-plate law, and its fees support driver training.",
+   "sources": [
+    "https://dol.wa.gov/node/3542",
+    "https://www.komonews.com/news/local/new-specialty-throwback-license-plates-in-wa-early-20th-century-non-embossed-more-special-designs-coming",
+    "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Washington_(state)"
+   ]
   },
   {
    "id": "lemay",
@@ -791,10 +1081,15 @@
    "rar": "rare",
    "pts": 50,
    "img": "lemay-plate.webp",
-   "year": "2025",
-   "supports": "LeMay — America's Car Museum education programs",
-   "vehicles": "New in 2025",
-   "fact": "LeMay — America's Car Museum in Tacoma is named for Harold LeMay of Spanaway, who assembled what was recognized as the world's largest private automobile collection before his death — over 3,000 vehicles. The museum, which opened in 2012, is housed in a striking building near I-5 designed by internationally renowned architect Antoine Predock."
+   "year": "2026",
+   "supports": "LeMay–America's Car Museum (automotive education & job training)",
+   "vehicles": "New in 2026",
+   "fact": "LeMay–America's Car Museum in Tacoma honors Harold LeMay, whose collection of more than 3,000 vehicles was listed by Guinness in 1997 as the world's largest private car collection. The museum opened in 2012, and the plate arrived in 2026.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Harold_LeMay",
+    "https://www.architectmagazine.com/?p=192934",
+    "https://theshopmag.com/news/lemay-americas-car-museum-specialty-license-plate-washington/"
+   ]
   },
   {
    "id": "col",
@@ -805,8 +1100,12 @@
    "img": "collectorPlate.webp",
    "year": "1993",
    "supports": "No beneficiary",
-   "vehicles": "~20,300",
-   "fact": "The Collector Vehicle plate is Washington's second most popular specialty plate, with 20,300 registered vehicles generating $710,400 annually. Eligible vehicles must be at least 30 years old and cannot be used for regular transportation like commuting. These are weekend show cars and parade vehicles only."
+   "vehicles": "~20,300 (2025)",
+   "fact": "The Collector Vehicle plate is Washington's second most popular specialty plate, with 20,300 registered vehicles generating $710,400 annually. Eligible vehicles must be at least 30 years old and cannot be used for regular transportation like commuting. These are weekend show cars and parade vehicles only.",
+   "vehicles_source": "Balk 2025 DOL figures",
+   "sources": [
+    "https://dol.wa.gov/node/1490"
+   ]
   },
   {
    "id": "hc",
@@ -817,8 +1116,13 @@
    "img": "HorselessCarriagePlate.webp",
    "year": "1993",
    "supports": "No beneficiary",
-   "vehicles": "~140",
-   "fact": "To qualify for the Horseless Carriage plate, your vehicle must have been built before January 1, 1916 — making it over 110 years old. Washington's first motor vehicle law was passed in 1905 when there were 1,253 cars in the entire state. The owner of the first licensed vehicle, Mr. S.A. Perkins of Tacoma, drove a 30 HP Pope-Toledo Touring Car."
+   "vehicles": "~140 (2025)",
+   "fact": "Since 2026, a Horseless Carriage plate is only for vehicles built before January 1, 1916. Washington began licensing cars in 1905, and S.A. Perkins of Tacoma got the first license for his Pope-Toledo touring car.",
+   "vehicles_source": "Balk 2025 DOL figures",
+   "sources": [
+    "https://dol.wa.gov/vehicles-and-boats/license-plates/get-custom-plates/special-design-plates/horseless-carriage",
+    "https://staff.washington.edu/bbirt/wahist~1.htm"
+   ]
   },
   {
    "id": "rest",
@@ -830,7 +1134,10 @@
    "year": "2001",
    "supports": "No beneficiary",
    "vehicles": "~1,800",
-   "fact": "The Restored Vehicle plate is for vehicles that have been authentically restored to original factory specifications — distinct from the Collector Vehicle plate which is for any old car. Washington's car restoration community is particularly active around the Puget Sound region, with several major shows and clubs."
+   "fact": "With the Restored plate, owners of classic cars can display a restored original Washington plate from the car's model year, like a 1967 plate on a 1967 Mustang.",
+   "sources": [
+    "https://dol.wa.gov/node/1490"
+   ]
   },
   {
    "id": "rs",
@@ -842,7 +1149,10 @@
    "year": "1996",
    "supports": "Commuter vanpool programs",
    "vehicles": "~1,200",
-   "fact": "Washington's Rideshare plate is specifically for vanpool vehicles carrying 3+ commuters — and it comes with a potential sales tax exemption. The state has one of the most active vanpool programs in the nation, with WSDOT subsidizing shared commuter vans to reduce traffic on major corridors like I-5 and SR-520."
+   "fact": "Rideshare plates are for commuter vehicles that carry a regular group of riders. Qualifying rideshare vans can even be exempt from sales tax.",
+   "sources": [
+    "https://dol.wa.gov/vehicles-and-boats/license-plates/get-custom-plates/special-design-plates/rideshare"
+   ]
   },
   {
    "id": "cheh",
@@ -851,10 +1161,13 @@
    "rar": "legendary",
    "pts": 200,
    "img": "chehalis-tribe-plate.webp",
-   "year": "2009",
-   "supports": "Chehalis Tribe government programs",
+   "year": "2023",
+   "supports": "Tribal members & tribal government only; standard plate pricing (no separate beneficiary)",
    "vehicles": "Under 500",
-   "fact": "The Chehalis Tribe (Confederated Tribes of the Chehalis Reservation) has lived along the Chehalis River in southwest Washington since time immemorial. Their reservation near Oakville was established in 1864. The tribe operates the Great Wolf Lodge resort and Talking Cedar Casino, which fund tribal government and social services."
+   "fact": "The Confederated Tribes of the Chehalis Reservation have lived along the Chehalis River since time immemorial, and their reservation near Oakville dates to 1864. Their plate arrived in 2023 and is reserved for tribal members.",
+   "sources": [
+    "https://dol.wa.gov/media/pdf/3700/2024-special-license-plate-annual-reportpdf"
+   ]
   },
   {
    "id": "muck",
@@ -863,10 +1176,13 @@
    "rar": "legendary",
    "pts": 200,
    "img": "muckleshoot-tribe-plate.webp",
-   "year": "2009",
-   "supports": "Muckleshoot Tribe government programs",
+   "year": "2023",
+   "supports": "Tribal members & tribal government only; standard plate pricing (no separate beneficiary)",
    "vehicles": "Under 500",
-   "fact": "The Muckleshoot Tribe lives on a reservation southeast of Auburn, between the White and Green Rivers. They are one of the most culturally active tribes in Washington, maintaining traditional salmon fishing rights on the White River. The tribe operates Muckleshoot Casino and has invested heavily in tribal education, housing, and cultural preservation."
+   "fact": "The Muckleshoot Indian Tribe's reservation lies between the White and Green rivers southeast of Auburn. The tribe's plate, reserved for members, arrived in 2023.",
+   "sources": [
+    "https://dol.wa.gov/media/pdf/3700/2024-special-license-plate-annual-reportpdf"
+   ]
   },
   {
    "id": "puy",
@@ -875,10 +1191,14 @@
    "rar": "legendary",
    "pts": 200,
    "img": "puyallup-tribe-plate.webp",
-   "year": "2009",
-   "supports": "Puyallup Tribe government programs",
+   "year": "2025",
+   "supports": "Tribal members & tribal government only; standard plate pricing (no separate beneficiary)",
    "vehicles": "Under 500",
-   "fact": "The Puyallup Tribe is one of the largest tribes in Washington with over 5,000 enrolled members. Their reservation near Tacoma covers land that was dramatically reduced after an 1854 treaty — then partially restored through a landmark 1989 settlement. The tribe operates Emerald Queen Casino and has built one of the most comprehensive tribal social service networks in the state."
+   "fact": "The Puyallup Tribe of Indians, based in Tacoma, signed the Medicine Creek Treaty in 1854 and won a landmark land-claims settlement in the late 1980s. Its plate, reserved for tribal members, arrived in 2025.",
+   "sources": [
+    "https://www.puyalluptribe-nsn.gov/news/puyallup-tribe-of-indians-license-plates-are-now-available-through-the-washington-state-department-of-licensing/",
+    "https://dol.wa.gov/node/3439"
+   ]
   }
  ]
 }

@@ -24,7 +24,7 @@ No server. No login. No ads. It installs to a phone's home screen and works with
 
 ## The rarity system (Washington)
 
-Points come from **Washington DOL 2025 registration figures**, as reported by Gene Balk (FYI Guy) in the Seattle Times on April 20, 2026.
+Points come from real registration counts: the **WA DOL Special License Plate Annual Report** to the Legislature ([2024 report, 2023 data](https://dol.wa.gov/media/pdf/3700/2024-special-license-plate-annual-reportpdf)) and the 2025 figures Gene Balk (FYI Guy) reported in the Seattle Times on April 20, 2026. Each plate's card says which.
 
 | Tier | Vehicles on WA roads | Points |
 |---|---|---|
@@ -47,7 +47,7 @@ Points come from **Washington DOL 2025 registration figures**, as reported by Ge
 | — | Horseless Carriage | ~140 | — |
 | Last | **Square Dancer** | **5** | — |
 
-Plates without a published count have an estimated tier. Other states' collections use the same tiers when real counts exist; otherwise they're marked *not rated yet* and every plate is worth 20.
+Plates too new to have a count yet have an estimated tier. Other states' collections use the same tiers when real counts exist; otherwise they're marked *not rated yet* and every plate is worth 20.
 
 ---
 

@@ -1,0 +1,481 @@
+{
+ "code": "NV",
+ "name": "Nevada",
+ "rated": false,
+ "updated": "2026-10-25",
+ "about": "Nevada special-design plates. Not rated yet: every plate is worth the same.",
+ "sources": [
+  {
+   "title": "Jon Keegan, us-license-plates (2023)",
+   "url": "https://github.com/jonkeegan/us-license-plates"
+  }
+ ],
+ "plates": [
+  {
+   "id": "circa-1982-replica-blue-throwback",
+   "name": "Circa 1982 Replica (blue throwback)",
+   "cat": "other",
+   "img": "circa-1982-replica-blue-throwback.webp",
+   "vehicles": "74,297 (2024)"
+  },
+  {
+   "id": "vintage",
+   "name": "Vintage",
+   "cat": "vehicle",
+   "img": "vintage.webp"
+  },
+  {
+   "id": "vegas-golden-knights",
+   "name": "Vegas Golden Knights",
+   "cat": "sports",
+   "img": "vegas-golden-knights.webp",
+   "year": "2018",
+   "supports": "Vegas Golden Knights Foundation",
+   "vehicles": "79,938 (2024)"
+  },
+  {
+   "id": "las-vegas-raiders",
+   "name": "Las Vegas Raiders",
+   "cat": "sports",
+   "img": "las-vegas-raiders.webp",
+   "supports": "Raiders Foundation",
+   "vehicles": "43,424 (2024)"
+  },
+  {
+   "id": "las-vegas-commemorative",
+   "name": "Las Vegas Commemorative",
+   "cat": "other",
+   "img": "las-vegas-commemorative.webp",
+   "year": "2005",
+   "supports": "City of Las Vegas historic preservation",
+   "vehicles": "87,018 (2024)"
+  },
+  {
+   "id": "lake-tahoe",
+   "name": "Lake Tahoe",
+   "cat": "nature",
+   "img": "lake-tahoe.webp",
+   "year": "1998",
+   "supports": "Lake Tahoe Basin preservation grants (Nevada Division of State Lands)",
+   "vehicles": "36,574 (2024)"
+  },
+  {
+   "id": "united-we-stand",
+   "name": "United We Stand",
+   "cat": "other",
+   "img": "united-we-stand.webp",
+   "year": "2004",
+   "supports": "State Emergency Response Commission (anti-terrorism preparedness)",
+   "vehicles": "22,940 (2024)"
+  },
+  {
+   "id": "unr-collegiate",
+   "name": "UNR Collegiate",
+   "cat": "colleges",
+   "img": "unr-collegiate.webp",
+   "year": "2011",
+   "supports": "UNR academic and athletic scholarships",
+   "vehicles": "11,778 (2024)"
+  },
+  {
+   "id": "unlv-collegiate",
+   "name": "UNLV Collegiate",
+   "cat": "colleges",
+   "img": "unlv-collegiate.webp",
+   "year": "2018",
+   "supports": "UNLV academic and athletic scholarships",
+   "vehicles": "5,505 (2024)"
+  },
+  {
+   "id": "agriculture",
+   "name": "Agriculture",
+   "cat": "other",
+   "img": "agriculture.webp",
+   "supports": "Nevada FFA Foundation and Nevada Department of Agriculture"
+  },
+  {
+   "id": "animal-appreciation",
+   "name": "Animal Appreciation",
+   "cat": "charity",
+   "img": "animal-appreciation.webp",
+   "supports": "County spay/neuter programs"
+  },
+  {
+   "id": "breast-cancer-awareness",
+   "name": "Breast Cancer Awareness",
+   "cat": "charity",
+   "img": "breast-cancer-awareness.webp",
+   "supports": "Nevada Health Centers Mammovan"
+  },
+  {
+   "id": "childhood-cancer",
+   "name": "Childhood Cancer",
+   "cat": "charity",
+   "img": "childhood-cancer.webp",
+   "supports": "Rare Disease Advisory Council (Nevada DHHS)"
+  },
+  {
+   "id": "children-in-the-arts",
+   "name": "Children in the Arts",
+   "cat": "charity",
+   "img": "children-in-the-arts.webp",
+   "supports": "Nevada Arts Council and Arts for All Nevada"
+  },
+  {
+   "id": "citizenship-project",
+   "name": "Citizenship Project",
+   "cat": "charity",
+   "img": "citizenship-project.webp",
+   "supports": "Citizenship Project, Las Vegas"
+  },
+  {
+   "id": "conserve-wildlife",
+   "name": "Conserve Wildlife",
+   "cat": "nature",
+   "img": "conserve-wildlife.webp",
+   "year": "2011",
+   "supports": "Nevada Department of Wildlife education and volunteer programs"
+  },
+  {
+   "id": "desert-conservation",
+   "name": "Desert Conservation",
+   "cat": "nature",
+   "img": "desert-conservation.webp",
+   "supports": "Clark County Desert Conservation Program"
+  },
+  {
+   "id": "forever-strong",
+   "name": "Forever Strong",
+   "cat": "charity",
+   "img": "forever-strong.webp",
+   "year": "2019",
+   "supports": "Vegas Strong Resiliency Center"
+  },
+  {
+   "id": "friends-of-las-vegas-metro-pd",
+   "name": "Friends of Las Vegas Metro PD",
+   "cat": "firstresponder",
+   "img": "friends-of-las-vegas-metro-pd.webp",
+   "year": "2021",
+   "supports": "Las Vegas Metropolitan Police Department Foundation"
+  },
+  {
+   "id": "golden-rule",
+   "name": "Golden Rule",
+   "cat": "charity",
+   "img": "golden-rule.webp",
+   "supports": "Interfaith Council of Southern Nevada"
+  },
+  {
+   "id": "hoover-dam",
+   "name": "Hoover Dam",
+   "cat": "other",
+   "img": "hoover-dam.webp",
+   "supports": "Boulder City Chamber of Commerce tourism"
+  },
+  {
+   "id": "hot-august-nights",
+   "name": "Hot August Nights",
+   "cat": "hobby",
+   "img": "hot-august-nights.webp",
+   "year": "2021",
+   "supports": "Hot August Nights children's charities"
+  },
+  {
+   "id": "missing-and-exploited-children",
+   "name": "Missing and Exploited Children",
+   "cat": "charity",
+   "img": "missing-and-exploited-children.webp",
+   "supports": "Nevada Clearinghouse for Missing and Exploited Children"
+  },
+  {
+   "id": "mount-charleston",
+   "name": "Mount Charleston",
+   "cat": "nature",
+   "img": "mount-charleston.webp",
+   "supports": "Mount Charleston area (Clark County Commission)"
+  },
+  {
+   "id": "nevada-bighorns-unlimited",
+   "name": "Nevada Bighorns Unlimited",
+   "cat": "nature",
+   "img": "nevada-bighorns-unlimited.webp",
+   "supports": "Nevada Bighorns Unlimited"
+  },
+  {
+   "id": "nevada-test-site",
+   "name": "Nevada Test Site",
+   "cat": "other",
+   "img": "nevada-test-site.webp",
+   "supports": "Nevada Test Site Historical Foundation"
+  },
+  {
+   "id": "opportunity-village",
+   "name": "Opportunity Village",
+   "cat": "charity",
+   "img": "opportunity-village.webp",
+   "year": "2021",
+   "supports": "Opportunity Village"
+  },
+  {
+   "id": "organ-donor",
+   "name": "Organ Donor",
+   "cat": "charity",
+   "img": "organ-donor.webp",
+   "supports": "Nevada Organ Donor Program (UNR School of Medicine)"
+  },
+  {
+   "id": "pyramid-lake",
+   "name": "Pyramid Lake",
+   "cat": "tribal",
+   "img": "pyramid-lake.webp",
+   "supports": "Pyramid Lake Paiute Tribe"
+  },
+  {
+   "id": "red-rock-canyon",
+   "name": "Red Rock Canyon",
+   "cat": "nature",
+   "img": "red-rock-canyon.webp",
+   "year": "2008",
+   "supports": "Friends of Red Rock Canyon"
+  },
+  {
+   "id": "reno-air-races",
+   "name": "Reno Air Races",
+   "cat": "hobby",
+   "img": "reno-air-races.webp",
+   "supports": "Reno Air Racing Association"
+  },
+  {
+   "id": "rodeo",
+   "name": "Rodeo",
+   "cat": "sports",
+   "img": "rodeo.webp",
+   "supports": "Reno Rodeo Foundation and Nevada High School Rodeo Association"
+  },
+  {
+   "id": "stem-education",
+   "name": "STEM Education",
+   "cat": "charity",
+   "img": "stem-education.webp",
+   "year": "2019",
+   "supports": "Governor's Office of Science, Innovation and Technology"
+  },
+  {
+   "id": "support-wildlife",
+   "name": "Support Wildlife",
+   "cat": "nature",
+   "img": "support-wildlife.webp",
+   "supports": "Wildlife Record Book Committee interpretive center"
+  },
+  {
+   "id": "ultimate-fighting-championship",
+   "name": "Ultimate Fighting Championship",
+   "cat": "sports",
+   "img": "ultimate-fighting-championship.webp",
+   "supports": "UFC Foundation"
+  },
+  {
+   "id": "virginia-truckee-railroad",
+   "name": "Virginia & Truckee Railroad",
+   "cat": "other",
+   "img": "virginia-truckee-railroad.webp",
+   "supports": "Northern Nevada Railway Foundation"
+  },
+  {
+   "id": "battleship-nevada",
+   "name": "Battleship Nevada",
+   "cat": "military",
+   "img": null,
+   "supports": "FallenHeroesFund.org",
+   "year": "New"
+  },
+  {
+   "id": "conserve-starry-skies",
+   "name": "Conserve Starry Skies",
+   "cat": "nature",
+   "img": null,
+   "img_url": "https://dmv.nv.gov/img/plates/starryskies.png",
+   "year": "2024",
+   "supports": "Friends of Nevada Wilderness (dark-sky conservation)"
+  },
+  {
+   "id": "divine-nine",
+   "name": "Divine Nine",
+   "cat": "charity",
+   "img": null,
+   "supports": "Historically Black fraternities and sororities",
+   "year": "New"
+  },
+  {
+   "id": "washoe-county-k9-partners",
+   "name": "Washoe County K9 Partners",
+   "cat": "firstresponder",
+   "img": null,
+   "year": "2024",
+   "supports": "Washoe County K9 Partners (law-enforcement K9 training center)"
+  },
+  {
+   "id": "all-veterans-families",
+   "name": "All Veterans & Families",
+   "cat": "veterans",
+   "img": "all-veterans-families.webp"
+  },
+  {
+   "id": "retired-military",
+   "name": "Retired Military",
+   "cat": "military",
+   "img": "retired-military.webp"
+  },
+  {
+   "id": "disabled-disabled-female-veteran",
+   "name": "Disabled & Disabled Female Veteran",
+   "cat": "veterans",
+   "img": "disabled-disabled-female-veteran.webp"
+  },
+  {
+   "id": "ex-prisoner-of-war",
+   "name": "Ex-Prisoner of War",
+   "cat": "military",
+   "img": "ex-prisoner-of-war.webp"
+  },
+  {
+   "id": "purple-heart",
+   "name": "Purple Heart",
+   "cat": "military",
+   "img": "purple-heart.webp"
+  },
+  {
+   "id": "bronze-star-with-valor",
+   "name": "Bronze Star (with valor)",
+   "cat": "military",
+   "img": "bronze-star-with-valor.webp"
+  },
+  {
+   "id": "silver-star",
+   "name": "Silver Star",
+   "cat": "military",
+   "img": "silver-star.webp"
+  },
+  {
+   "id": "congressional-medal-of-honor",
+   "name": "Congressional Medal of Honor",
+   "cat": "military",
+   "img": "congressional-medal-of-honor.webp"
+  },
+  {
+   "id": "pearl-harbor-survivor-veteran",
+   "name": "Pearl Harbor Survivor/Veteran",
+   "cat": "military",
+   "img": "pearl-harbor-survivor-veteran.webp"
+  },
+  {
+   "id": "gold-star",
+   "name": "Gold Star",
+   "cat": "military",
+   "img": "gold-star.webp"
+  },
+  {
+   "id": "fallen-military",
+   "name": "Fallen Military",
+   "cat": "military",
+   "img": "fallen-military.webp"
+  },
+  {
+   "id": "national-guard",
+   "name": "National Guard",
+   "cat": "military",
+   "img": "national-guard.webp"
+  },
+  {
+   "id": "professional-firefighter",
+   "name": "Professional Firefighter",
+   "cat": "firstresponder",
+   "img": "professional-firefighter.webp"
+  },
+  {
+   "id": "volunteer-firefighter",
+   "name": "Volunteer Firefighter",
+   "cat": "firstresponder",
+   "img": "volunteer-firefighter.webp"
+  },
+  {
+   "id": "decorated-peace-officer",
+   "name": "Decorated Peace Officer",
+   "cat": "firstresponder",
+   "img": "decorated-peace-officer.webp"
+  },
+  {
+   "id": "civil-air-patrol",
+   "name": "Civil Air Patrol",
+   "cat": "other",
+   "img": "civil-air-patrol.webp"
+  },
+  {
+   "id": "eagle-scout",
+   "name": "Eagle Scout",
+   "cat": "other",
+   "img": "eagle-scout.webp"
+  },
+  {
+   "id": "girl-scout-gold-award",
+   "name": "Girl Scout Gold Award",
+   "cat": "other",
+   "img": "girl-scout-gold-award.webp"
+  },
+  {
+   "id": "masonic-lodge-award",
+   "name": "Masonic Lodge Award",
+   "cat": "other",
+   "img": "masonic-lodge-award.webp"
+  },
+  {
+   "id": "hall-of-fame",
+   "name": "Hall of Fame",
+   "cat": "other",
+   "img": "hall-of-fame.webp"
+  },
+  {
+   "id": "amateur-radio",
+   "name": "Amateur Radio",
+   "cat": "hobby",
+   "img": "amateur-radio.webp"
+  },
+  {
+   "id": "press",
+   "name": "Press",
+   "cat": "other",
+   "img": "press.webp"
+  },
+  {
+   "id": "disabled",
+   "name": "Disabled",
+   "cat": "other",
+   "img": "disabled.webp"
+  },
+  {
+   "id": "electric-vehicle",
+   "name": "Electric Vehicle",
+   "cat": "vehicle",
+   "img": "electric-vehicle.webp"
+  },
+  {
+   "id": "street-rod",
+   "name": "Street Rod",
+   "cat": "vehicle",
+   "img": "street-rod.webp"
+  },
+  {
+   "id": "horseless-carriage",
+   "name": "Horseless Carriage",
+   "cat": "vehicle",
+   "img": "horseless-carriage.webp"
+  },
+  {
+   "id": "antique-truck-truck-tractor",
+   "name": "Antique Truck/Truck-Tractor",
+   "cat": "vehicle",
+   "img": "antique-truck-truck-tractor.webp"
+  }
+ ]
+}

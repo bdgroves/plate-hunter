@@ -24,6 +24,7 @@ import re
 import sys
 import urllib.request
 from pathlib import Path
+from urllib.parse import urlparse
 
 from PIL import Image
 
@@ -42,13 +43,35 @@ def count(v) -> int | None:
     return int(m.group().replace(",", "")) if m else None
 
 
-def picture(p: dict, keegan: Path | None, code: str) -> Image.Image:
-    if p.get("keegan_img") and keegan:
+# Pictures are only taken from the agencies themselves or the plate's own sponsor,
+# never from news photos.
+TRUSTED = (".gov", ".us", "oregonstate.edu", "oregonzoo.org", "nfl.com")
+
+
+def trusted(url: str | None) -> bool:
+    host = urlparse(url or "").netloc.lower()
+    return bool(host) and any(host.endswith(t) for t in TRUSTED)
+
+
+def picture(p: dict, keegan: Path | None, code: str) -> Image.Image | None:
+    """The plate's picture, or None when it can't be had here (fetch_pictures.py gets it later)."""
+    if p.get("keegan_img") and keegan and (keegan / "plates" / code / p["keegan_img"]).exists():
         return Image.open(keegan / "plates" / code / p["keegan_img"])
-    if p.get("source_img"):
-        req = urllib.request.Request(p["source_img"], headers=UA)
-        return Image.open(io.BytesIO(urllib.request.urlopen(req, timeout=60).read()))
-    raise FileNotFoundError(f"no picture for {p['title']}")
+    if trusted(p.get("source_img")):
+        try:
+            req = urllib.request.Request(p["source_img"], headers=UA)
+            return Image.open(io.BytesIO(urllib.request.urlopen(req, timeout=60).read()))
+        except Exception:  # noqa: BLE001
+            return None
+    return None
+
+
+def vehicles_text(r: dict) -> str | None:
+    n = count(r.get("vehicles"))
+    if n is None:
+        return None
+    year = re.search(r"(19|20)\d\d", str(r.get("vehicles_asof") or ""))
+    return f"{n:,}" + (f" ({year.group()})" if year else "")
 
 
 def main() -> int:
@@ -75,19 +98,25 @@ def main() -> int:
         while pid in seen:
             pid += "-2"
         seen.add(pid)
-        try:
-            im = picture(r, a.keegan, code)
-        except Exception as e:  # noqa: BLE001
-            print(f"  skipped {r['title']}: {e}", file=sys.stderr)
-            continue
-        im = im.convert("RGBA") if im.mode in ("P", "LA", "RGBA") else im.convert("RGB")
-        if im.width > 480:
-            im = im.resize((480, round(im.height * 480 / im.width)), Image.LANCZOS)
-        im.save(out_dir / f"{pid}.webp", "WEBP", quality=82, method=6)
-        p = {"id": pid, "name": r["title"], "cat": r.get("cat") or "other", "img": f"{pid}.webp"}
-        for k in ("year", "supports", "vehicles", "fact", "source"):
+        im = picture(r, a.keegan, code)
+        p = {"id": pid, "name": r["title"], "cat": r.get("cat") or "other", "img": None}
+        if im is not None:
+            im = im.convert("RGBA") if im.mode in ("P", "LA", "RGBA") else im.convert("RGB")
+            if im.width > 480:
+                im = im.resize((480, round(im.height * 480 / im.width)), Image.LANCZOS)
+            im.save(out_dir / f"{pid}.webp", "WEBP", quality=82, method=6)
+            p["img"] = f"{pid}.webp"
+        elif trusted(r.get("source_img")):
+            p["img_url"] = r["source_img"]   # fetch_pictures.py downloads it on GitHub's runners
+        if p["img"] is None:
+            print(f"  {r['title']}: no picture yet" + (" (URL saved)" if p.get("img_url") else ""), file=sys.stderr)
+        for k in ("year", "supports", "fact"):
             if r.get(k):
-                p[k] = r[k]
+                p[k] = str(r[k])
+        if vehicles_text(r):
+            p["vehicles"] = vehicles_text(r)
+        if r.get("status") == "new_since_2023" and not r.get("year"):
+            p["year"] = "New"
         if rated:
             n = count(r.get("vehicles"))
             if n is None:
