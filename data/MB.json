@@ -16,11 +16,10 @@
    "id": "firefighters",
    "name": "Firefighters",
    "cat": "firstresponder",
-   "img": null,
+   "img": "firefighters.webp",
    "supports": "Manitoba Firefighters Burn Fund and Manitoba Fallen Firefighters Fund",
    "fact": "Winnipeg firefighters can have their badge number on the plate.",
-   "source": "https://www.mpi.mb.ca/specialty-plates-member/",
-   "img_url": "https://www.mpi.mb.ca/wp-content/uploads/Winnipeg-licence-plate-firefighter-image.jpg"
+   "source": "https://www.mpi.mb.ca/specialty-plates-member/"
   },
   {
    "id": "paramedics",
@@ -130,11 +129,10 @@
    "id": "winnipeg-blue-bombers-original-gold-desi",
    "name": "Winnipeg Blue Bombers (original gold design)",
    "cat": "sports",
-   "img": null,
+   "img": "winnipeg-blue-bombers-original-gold-desi.webp",
    "supports": "Winnipeg Football Club",
    "fact": "The original gold Bombers plate stopped selling for cars and trucks on June 1, 2020, but plenty are still on the road.",
-   "source": "https://www.mpi.mb.ca/specialty-plates-non-member/",
-   "img_url": "https://www.mpi.mb.ca/wp-content/uploads/2022/10/plate-blue-bombers.png"
+   "source": "https://www.mpi.mb.ca/specialty-plates-non-member/"
   },
   {
    "id": "winnipeg-goldeyes",

@@ -3,9 +3,8 @@
   "code": "AB",
   "name": "Alberta",
   "country": "CA",
-  "img": null,
-  "note": "Alberta's long-running everyday plate is white with red characters and the slogan \"Wild Rose Country\"; a new \"Strong and Free\" plate with a Moraine Lake panorama, picked by public vote in November 2025, was due to start issuing in mid-2026.",
-  "img_url": "https://www.alberta.ca/system/files/styles/responsive_1040/private/licence-plate-moraine-lake-8.jpg?itok=JJPdrDue"
+  "img": "plates/standard/AB.webp",
+  "note": "Alberta's long-running everyday plate is white with red characters and the slogan \"Wild Rose Country\"; a new \"Strong and Free\" plate with a Moraine Lake panorama, picked by public vote in November 2025, was due to start issuing in mid-2026."
  },
  {
   "code": "BC",
@@ -46,9 +45,8 @@
   "code": "ON",
   "name": "Ontario",
   "country": "CA",
-  "img": null,
-  "note": "Ontario's everyday plate is white with blue lettering, a crown, and the slogan \"Yours to Discover\"; a short-lived blue \"A Place to Grow\" design was dropped in 2020.",
-  "img_url": "https://www.ontario.ca/files/2024-06/mpbsdp-so-licence-plate-renewals-thumbnail-352x264-2024-06-28.png"
+  "img": "plates/standard/ON.webp",
+  "note": "Ontario's everyday plate is white with blue lettering, a crown, and the slogan \"Yours to Discover\"; a short-lived blue \"A Place to Grow\" design was dropped in 2020."
  },
  {
   "code": "PE",
