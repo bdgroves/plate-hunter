@@ -616,436 +616,388 @@
    "id": "chicago-fire-fc",
    "name": "Chicago Fire FC",
    "cat": "sports",
-   "img": null,
+   "img": "chicago-fire-fc.webp",
    "added": "2026-10-26",
    "source": "https://www.chicagofirefc.com/news/giannoulias-debuts-chicago-fire-fc-license-plates",
    "year": "2025",
-   "no_official_picture": true,
-   "img_url": "https://www.ilsos.gov/content/dam/images/licenseplates/pap/chicagofire.gif"
+   "no_official_picture": true
   },
   {
    "id": "monarch-butterfly-universal-specialty-pl",
    "name": "Monarch Butterfly (universal specialty plate)",
    "cat": "nature",
-   "img": null,
+   "img": "monarch-butterfly-universal-specialty-pl.webp",
    "added": "2026-10-26",
    "source": "https://news.wttw.com/2023/11/16/honk-if-you-love-monarchs-illinois-finally-set-issue-license-plate-benefit-endangered",
-   "year": "2023",
-   "img_url": "https://www.ilsos.gov/content/dam/images/licenseplates/monarch.gif"
+   "year": "2023"
   },
   {
    "id": "afghanistan-campaign-medal",
    "name": "Afghanistan Campaign Medal",
    "cat": "military",
-   "img": null,
+   "img": "afghanistan-campaign-medal.webp",
    "added": "2026-10-26",
-   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html",
-   "img_url": "https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--72f15b13-0c16-457c-a4f9-6d0eef8d3bb0/m-afghanistan.gif"
+   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html"
   },
   {
    "id": "air-force-combat-action-medal",
    "name": "Air Force Combat Action Medal",
    "cat": "military",
-   "img": null,
+   "img": "air-force-combat-action-medal.webp",
    "added": "2026-10-26",
-   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html",
-   "img_url": "https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--7a1e3a9b-cd91-4438-8036-998ca8e32c89/m-airforcecombat.gif"
+   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html"
   },
   {
    "id": "air-force-service-cross",
    "name": "Air Force Service Cross",
    "cat": "military",
-   "img": null,
+   "img": "air-force-service-cross.webp",
    "added": "2026-10-26",
-   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html",
-   "img_url": "https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--bb5adefc-574a-4b8b-9de1-f0dd8c70084e/m-airforcecross.gif"
+   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html"
   },
   {
    "id": "air-medal",
    "name": "Air Medal",
    "cat": "military",
-   "img": null,
+   "img": "air-medal.webp",
    "added": "2026-10-26",
-   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html",
-   "img_url": "https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--078838f1-13f9-4306-ab53-482675b54908/m-airmedal.gif"
+   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html"
   },
   {
    "id": "armed-forces-expeditionary",
    "name": "Armed Forces Expeditionary",
    "cat": "military",
-   "img": null,
+   "img": "armed-forces-expeditionary.webp",
    "added": "2026-10-26",
-   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html",
-   "img_url": "https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--5dbf5da7-a8ca-4c77-b0b9-b407b8dd0f35/m-armedforcesexpeditionary.gif"
+   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html"
   },
   {
    "id": "armed-forces-reserves",
    "name": "Armed Forces Reserves",
    "cat": "military",
-   "img": null,
+   "img": "armed-forces-reserves.webp",
    "added": "2026-10-26",
-   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html",
-   "img_url": "https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--ec067318-2adf-46cf-9337-4d1340661545/m-armedforcereserves.gif"
+   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html"
   },
   {
    "id": "bronze-star",
    "name": "Bronze Star",
    "cat": "military",
-   "img": null,
+   "img": "bronze-star.webp",
    "added": "2026-10-26",
-   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html",
-   "img_url": "https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--4caba802-e0b1-4858-a006-abf70d0ebd3a/m-bronzestar.gif"
+   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html"
   },
   {
    "id": "coast-guard",
    "name": "Coast Guard",
    "cat": "military",
-   "img": null,
+   "img": "coast-guard.webp",
    "added": "2026-10-26",
-   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html",
-   "img_url": "https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--9bff3d3a-b1d6-4b24-9237-2ad405e8a051/m-coastguard.gif"
+   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html"
   },
   {
    "id": "cold-war",
    "name": "Cold War",
    "cat": "veterans",
-   "img": null,
+   "img": "cold-war.webp",
    "added": "2026-10-26",
-   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html",
-   "img_url": "https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--ba6b1ea3-b3f9-4883-a9d6-0624a8edf5d3/m-coldwar.gif"
+   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html"
   },
   {
    "id": "combat-action-badge",
    "name": "Combat Action Badge",
    "cat": "military",
-   "img": null,
+   "img": "combat-action-badge.webp",
    "added": "2026-10-26",
-   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html",
-   "img_url": "https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--f174d71b-e7b7-4df9-96a4-bc5da07e0695/m-combatactionbadge.gif"
+   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html"
   },
   {
    "id": "combat-action-ribbon",
    "name": "Combat Action Ribbon",
    "cat": "military",
-   "img": null,
+   "img": "combat-action-ribbon.webp",
    "added": "2026-10-26",
-   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html",
-   "img_url": "https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--c084304f-0f84-4b8b-a994-695be6287c8e/m-combatactionribbon.gif"
+   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html"
   },
   {
    "id": "combat-infantryman",
    "name": "Combat Infantryman",
    "cat": "military",
-   "img": null,
+   "img": "combat-infantryman.webp",
    "added": "2026-10-26",
-   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html",
-   "img_url": "https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--a29e102a-8154-4814-8696-e9bfaaad8aba/m-combatinfantryman.gif"
+   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html"
   },
   {
    "id": "congressional-medal-of-honor",
    "name": "Congressional Medal of Honor",
    "cat": "military",
-   "img": null,
+   "img": "congressional-medal-of-honor.webp",
    "added": "2026-10-26",
-   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html",
-   "img_url": "https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--797a560e-d984-42e7-a601-cd34ec91972b/m-congressional.gif"
+   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html"
   },
   {
    "id": "defense-distinguished-service",
    "name": "Defense Distinguished Service",
    "cat": "military",
-   "img": null,
+   "img": "defense-distinguished-service.webp",
    "added": "2026-10-26",
-   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html",
-   "img_url": "https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--1336406d-fe10-4020-bc83-896a660fe8e6/m-defensedist.gif"
+   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html"
   },
   {
    "id": "defense-superior-service",
    "name": "Defense Superior Service",
    "cat": "military",
-   "img": null,
+   "img": "defense-superior-service.webp",
    "added": "2026-10-26",
-   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html",
-   "img_url": "https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--9941b2b7-286f-4393-b299-acfdc2dff5d7/m-defensesuper.gif"
+   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html"
   },
   {
    "id": "disabled-veteran",
    "name": "Disabled Veteran",
    "cat": "veterans",
-   "img": null,
+   "img": "disabled-veteran.webp",
    "added": "2026-10-26",
-   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html",
-   "img_url": "https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--6c480ad1-d319-47ee-8f28-a81bf5f8b00e/m-disabledveteran.gif"
+   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html"
   },
   {
    "id": "disabled-veteran-service-connected-iserv",
    "name": "Disabled Veteran – Service-Connected (ISERVE)",
    "cat": "veterans",
-   "img": null,
+   "img": "disabled-veteran-service-connected-iserv.webp",
    "added": "2026-10-26",
-   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html",
-   "img_url": "https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--dfbb74aa-35dc-4000-a64a-6f19c71ec7fc/m-disabledveteraniserve.gif"
+   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html"
   },
   {
    "id": "distinguished-flying-cross",
    "name": "Distinguished Flying Cross",
    "cat": "military",
-   "img": null,
+   "img": "distinguished-flying-cross.webp",
    "added": "2026-10-26",
-   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html",
-   "img_url": "https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--3d444c61-fe2a-4101-bdb2-f68f629789b0/m-distflyingcross.gif"
+   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html"
   },
   {
    "id": "distinguished-service-cross",
    "name": "Distinguished Service Cross",
    "cat": "military",
-   "img": null,
+   "img": "distinguished-service-cross.webp",
    "added": "2026-10-26",
-   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html",
-   "img_url": "https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--e5851478-3769-4dff-8a63-dd7ce03b8ecd/m-distservicecross.gif"
+   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html"
   },
   {
    "id": "ex-prisoner-of-war",
    "name": "Ex-Prisoner of War",
    "cat": "veterans",
-   "img": null,
+   "img": "ex-prisoner-of-war.webp",
    "added": "2026-10-26",
-   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html",
-   "img_url": "https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--0b6e8c58-9b7d-4e10-8638-1a356979cd7a/m-expow.gif"
+   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html"
   },
   {
    "id": "gold-star",
    "name": "Gold Star",
    "cat": "veterans",
-   "img": null,
+   "img": "gold-star.webp",
    "added": "2026-10-26",
-   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html",
-   "img_url": "https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--d4849642-5b93-46ac-9231-6c55040e37be/m-goldstar.gif"
+   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html"
   },
   {
    "id": "global-war-on-terrorism",
    "name": "Global War on Terrorism",
    "cat": "military",
-   "img": null,
+   "img": "global-war-on-terrorism.webp",
    "added": "2026-10-26",
-   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html",
-   "img_url": "https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--3761d836-251a-4a52-b1b0-c153c2973667/m-globalwar.gif"
+   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html"
   },
   {
    "id": "illinois-national-guard",
    "name": "Illinois National Guard",
    "cat": "military",
-   "img": null,
+   "img": "illinois-national-guard.webp",
    "added": "2026-10-26",
-   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html",
-   "img_url": "https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--e6df26e7-91ec-4cb4-8a17-6c24b823b41e/m-ilnationalguard.gif"
+   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html"
   },
   {
    "id": "iraq-campaign-medal",
    "name": "Iraq Campaign Medal",
    "cat": "military",
-   "img": null,
+   "img": "iraq-campaign-medal.webp",
    "added": "2026-10-26",
-   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html",
-   "img_url": "https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--06bff092-78eb-44cc-8b1b-5aafae1fd43b/m-iraq.gif"
+   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html"
   },
   {
    "id": "korean-service",
    "name": "Korean Service",
    "cat": "military",
-   "img": null,
+   "img": "korean-service.webp",
    "added": "2026-10-26",
-   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html",
-   "img_url": "https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--5b6a1519-0096-4e53-8e26-ea2bd3406f9d/m-koreanservice.gif"
+   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html"
   },
   {
    "id": "marine-corps",
    "name": "Marine Corps",
    "cat": "military",
-   "img": null,
+   "img": "marine-corps.webp",
    "added": "2026-10-26",
-   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html",
-   "img_url": "https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--03cfcb4a-105e-4dff-a5fe-48ca0b172714/m-marinecorp.gif"
+   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html"
   },
   {
    "id": "legion-of-merit",
    "name": "Legion of Merit",
    "cat": "military",
-   "img": null,
+   "img": "legion-of-merit.webp",
    "added": "2026-10-26",
-   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html",
-   "img_url": "https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--5a9e89d0-5300-444d-a438-37972ecfe81d/m-legionofmerit.gif"
+   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html"
   },
   {
    "id": "navy-service-cross",
    "name": "Navy Service Cross",
    "cat": "military",
-   "img": null,
+   "img": "navy-service-cross.webp",
    "added": "2026-10-26",
-   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html",
-   "img_url": "https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--7507ca2f-1f16-4b09-b116-dbd00c99bc08/m-navyservicecross.gif"
+   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html"
   },
   {
    "id": "operation-desert-shield-storm",
    "name": "Operation Desert Shield/Storm",
    "cat": "veterans",
-   "img": null,
+   "img": "operation-desert-shield-storm.webp",
    "added": "2026-10-26",
-   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html",
-   "img_url": "https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--bd373960-9c47-4b53-8d55-179c1496f472/m-desert.gif"
+   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html"
   },
   {
    "id": "paratrooper",
    "name": "Paratrooper",
    "cat": "veterans",
-   "img": null,
+   "img": "paratrooper.webp",
    "added": "2026-10-26",
-   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html",
-   "img_url": "https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--524675d0-723f-403c-b351-d9d644e4a929/m-paratrooper.gif"
+   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html"
   },
   {
    "id": "pearl-harbor-survivor",
    "name": "Pearl Harbor Survivor",
    "cat": "veterans",
-   "img": null,
+   "img": "pearl-harbor-survivor.webp",
    "added": "2026-10-26",
-   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html",
-   "img_url": "https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--29807c84-c418-400b-b842-15684d33fc1e/m-pearlharbor.gif"
+   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html"
   },
   {
    "id": "pow-mia-illinois-remembers",
    "name": "POW/MIA Illinois Remembers",
    "cat": "veterans",
-   "img": null,
+   "img": "pow-mia-illinois-remembers.webp",
    "added": "2026-10-26",
-   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html",
-   "img_url": "https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--1d486ea1-7e18-4a5b-936b-00779bc2e0e8/m-powmia.gif"
+   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html"
   },
   {
    "id": "purple-heart",
    "name": "Purple Heart",
    "cat": "military",
-   "img": null,
+   "img": "purple-heart.webp",
    "added": "2026-10-26",
-   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html",
-   "img_url": "https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--85634572-af99-4f5b-9d8f-488219a1cfcc/m-purpleheart.gif"
+   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html"
   },
   {
    "id": "retired-armed-forces",
    "name": "Retired Armed Forces",
    "cat": "military",
-   "img": null,
+   "img": "retired-armed-forces.webp",
    "added": "2026-10-26",
-   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html",
-   "img_url": "https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--d68fc038-7dda-4829-9a39-363e9838cdf6/m-retiredarmedforces.gif"
+   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html"
   },
   {
    "id": "silver-star",
    "name": "Silver Star",
    "cat": "military",
-   "img": null,
+   "img": "silver-star.webp",
    "added": "2026-10-26",
-   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html",
-   "img_url": "https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--c0c47e2e-8059-4f4b-8799-3498da35466f/m-silverstar.gif"
+   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html"
   },
   {
    "id": "submarine-veteran",
    "name": "Submarine Veteran",
    "cat": "veterans",
-   "img": null,
+   "img": "submarine-veteran.webp",
    "added": "2026-10-26",
-   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html",
-   "img_url": "https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--f8980ce1-a397-4ab4-a3af-dac24ea84c91/m-submarinevet.gif"
+   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html"
   },
   {
    "id": "united-nations-protection-force",
    "name": "United Nations Protection Force",
    "cat": "military",
-   "img": null,
+   "img": "united-nations-protection-force.webp",
    "added": "2026-10-26",
-   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html",
-   "img_url": "https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--4e1a2fae-492f-42cd-bb73-cd9ffe2b9a86/m-unpf.gif"
+   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html"
   },
   {
    "id": "universal-veteran",
    "name": "Universal Veteran",
    "cat": "veterans",
-   "img": null,
+   "img": "universal-veteran.webp",
    "added": "2026-10-26",
-   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html",
-   "img_url": "https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--c8e8c106-5586-4223-a3b3-bd42e5aa5847/m-universalveteran.gif"
+   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html"
   },
   {
    "id": "u-s-air-force",
    "name": "U.S. Air Force",
    "cat": "military",
-   "img": null,
+   "img": "u-s-air-force.webp",
    "added": "2026-10-26",
-   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html",
-   "img_url": "https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--5221006d-dbdc-4d7c-8c6b-d8e0bd773d7b/m-usairforce.gif"
+   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html"
   },
   {
    "id": "u-s-army-veteran",
    "name": "U.S. Army Veteran",
    "cat": "veterans",
-   "img": null,
+   "img": "u-s-army-veteran.webp",
    "added": "2026-10-26",
-   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html",
-   "img_url": "https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--0278095a-b997-4303-bb4b-259e5db2e667/m-usarmyveteran.gif"
+   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html"
   },
   {
    "id": "u-s-navy-veteran",
    "name": "U.S. Navy Veteran",
    "cat": "veterans",
-   "img": null,
+   "img": "u-s-navy-veteran.webp",
    "added": "2026-10-26",
-   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html",
-   "img_url": "https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--fcd280ca-201b-4d49-af9a-0c35d098dedc/m-usnavyveteran.gif"
+   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html"
   },
   {
    "id": "vietnam-veteran",
    "name": "Vietnam Veteran",
    "cat": "veterans",
-   "img": null,
+   "img": "vietnam-veteran.webp",
    "added": "2026-10-26",
-   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html",
-   "img_url": "https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--d47cbff3-c9f4-4f7b-b3db-f6f9ec38d8b3/m-vietnamveteran.gif"
+   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html"
   },
   {
    "id": "west-point-bicentennial",
    "name": "West Point Bicentennial",
    "cat": "military",
-   "img": null,
+   "img": "west-point-bicentennial.webp",
    "added": "2026-10-26",
-   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html",
-   "img_url": "https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--b110bb1b-49a6-4e57-b156-fa92afac540b/m-westpoint.gif"
+   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html"
   },
   {
    "id": "women-veterans",
    "name": "Women Veterans",
    "cat": "veterans",
-   "img": null,
+   "img": "women-veterans.webp",
    "added": "2026-10-26",
-   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html",
-   "img_url": "https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--de9bcc46-6364-4794-8a07-ab3d15231028/m-womenveteran.gif"
+   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html"
   },
   {
    "id": "world-war-ii-veteran",
    "name": "World War II Veteran",
    "cat": "veterans",
-   "img": null,
+   "img": "world-war-ii-veteran.webp",
    "added": "2026-10-26",
-   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html",
-   "img_url": "https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--2dee9137-b806-4444-8df9-466a6ac74df1/m-ww2veteran.gif"
+   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military.html"
   },
   {
    "id": "ems-chief",
    "name": "EMS Chief",
    "cat": "firstresponder",
-   "img": null,
+   "img": "ems-chief.webp",
    "added": "2026-10-26",
-   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/ems-chief.html",
-   "img_url": "https://www.ilsos.gov/adobe/dynamicmedia/deliver/dm-aid--4cd06675-430f-4d9b-84eb-dc0148c032c1/emschief.gif"
+   "source": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/ems-chief.html"
   }
  ],
  "checked_on": "2026-10-26"
