@@ -1,159 +1,197 @@
 {
  "code": "SD",
  "url": "https://dor.sd.gov/individuals/motor-vehicle/cars-trucks-vans/military-plates-veteran-tribal-active-duty/",
- "checked": "2026-10-26",
  "pictures": {
   "/media/0p2nqdmq/airforceveteran-plate.jpg": {
    "src": "https://dor.sd.gov/media/0p2nqdmq/airforceveteran-plate.jpg",
-   "alt": "Air Force Veteran Plate"
+   "alt": "Air Force Veteran Plate",
+   "verdict": "pending:SD-air-force-veteran"
   },
   "/media/0qkflt1x/coastguardactiveduty-plate.jpg": {
    "src": "https://dor.sd.gov/media/0qkflt1x/coastguardactiveduty-plate.jpg",
-   "alt": "Coast Guard Vehicle Plate"
+   "alt": "Coast Guard Vehicle Plate",
+   "verdict": "pending:SD-coast-guard-vehicle"
   },
   "/media/1dvgspa5/coastguardveteran-plate.jpg": {
    "src": "https://dor.sd.gov/media/1dvgspa5/coastguardveteran-plate.jpg",
-   "alt": "Coast Guard Veteran Plate"
+   "alt": "Coast Guard Veteran Plate",
+   "verdict": "pending:SD-coast-guard-veteran"
   },
   "/media/1rke1dof/sissetonwhapetonoyatetribeveteran-plate.png": {
    "src": "https://dor.sd.gov/media/1rke1dof/sissetonwhapetonoyatetribeveteran-plate.png",
-   "alt": "Sisseton Wahpeton Oyate Tribe"
+   "alt": "Sisseton Wahpeton Oyate Tribe",
+   "verdict": "not-a-plate"
   },
   "/media/1sjfhjcg/womanveteranmarine-plate-optimized.jpg": {
    "src": "https://dor.sd.gov/media/1sjfhjcg/womanveteranmarine-plate-optimized.jpg",
-   "alt": "Woman Veteran Marine Plate"
+   "alt": "Woman Veteran Marine Plate",
+   "verdict": "pending:SD-woman-veteran-marine"
   },
   "/media/2adhgyiq/standingrocksiouxtribeveteran-plate.png": {
    "src": "https://dor.sd.gov/media/2adhgyiq/standingrocksiouxtribeveteran-plate.png",
-   "alt": "Standing Rock Sioux Tribe"
+   "alt": "Standing Rock Sioux Tribe",
+   "verdict": "not-a-plate"
   },
   "/media/2u3nxu3l/coastguardveteran-motorcycleplate.jpg": {
    "src": "https://dor.sd.gov/media/2u3nxu3l/coastguardveteran-motorcycleplate.jpg",
-   "alt": "Coast Guard Veteran Motorcycle Plate"
+   "alt": "Coast Guard Veteran Motorcycle Plate",
+   "verdict": "not-for-cars"
   },
   "/media/4d2m3ygj/airforceveteran-motorcycleplate.jpg": {
    "src": "https://dor.sd.gov/media/4d2m3ygj/airforceveteran-motorcycleplate.jpg",
-   "alt": "Air Force Veteran Motorcycle Plate"
+   "alt": "Air Force Veteran Motorcycle Plate",
+   "verdict": "not-for-cars"
   },
   "/media/a0xjbzmd/sddmvmsfv4_space-force-veteran-mc.jpg": {
    "src": "https://dor.sd.gov/media/a0xjbzmd/sddmvmsfv4_space-force-veteran-mc.jpg?rmode=max&width=215&height=93",
-   "alt": ""
+   "alt": "",
+   "verdict": "pending:SD-fee-x-x"
   },
   "/media/a23hndfr/crowcreektribeveteran-plate.png": {
    "src": "https://dor.sd.gov/media/a23hndfr/crowcreektribeveteran-plate.png",
-   "alt": "Crow Creek Sioux Tribe"
+   "alt": "Crow Creek Sioux Tribe",
+   "verdict": "not-a-plate"
   },
   "/media/duwf55x0/armyactiveduty-motorcycleplate.jpg": {
    "src": "https://dor.sd.gov/media/duwf55x0/armyactiveduty-motorcycleplate.jpg",
-   "alt": "Motorcycle Plate"
+   "alt": "Motorcycle Plate",
+   "verdict": "not-for-cars"
   },
   "/media/e4bfdu51/marineveteran-motorcycleplate.jpg": {
    "src": "https://dor.sd.gov/media/e4bfdu51/marineveteran-motorcycleplate.jpg",
-   "alt": "Marine Veteran Motorcycle Plate"
+   "alt": "Marine Veteran Motorcycle Plate",
+   "verdict": "not-for-cars"
   },
   "/media/h1sjczcj/womanveteranairforce-plate-optimized.jpg": {
    "src": "https://dor.sd.gov/media/h1sjczcj/womanveteranairforce-plate-optimized.jpg",
-   "alt": "Woman Veteran Air Force Plate"
+   "alt": "Woman Veteran Air Force Plate",
+   "verdict": "plate:air-force-woman-veteran"
   },
   "/media/ikrf2cbr/armyveteran-motorcycleplate.jpg": {
    "src": "https://dor.sd.gov/media/ikrf2cbr/armyveteran-motorcycleplate.jpg",
-   "alt": "Army Veteran Motorcycle Plate"
+   "alt": "Army Veteran Motorcycle Plate",
+   "verdict": "not-for-cars"
   },
   "/media/jufcyjl3/marineactiveduty-motorcycleplate.jpg": {
    "src": "https://dor.sd.gov/media/jufcyjl3/marineactiveduty-motorcycleplate.jpg",
-   "alt": "Marine Motorcycle Plate"
+   "alt": "Marine Motorcycle Plate",
+   "verdict": "not-for-cars"
   },
   "/media/jx2dumah/navyactiveduty-motorcycleplate.jpg": {
    "src": "https://dor.sd.gov/media/jx2dumah/navyactiveduty-motorcycleplate.jpg",
-   "alt": "Navy Motorcycle Plate"
+   "alt": "Navy Motorcycle Plate",
+   "verdict": "not-for-cars"
   },
   "/media/k2hd1gyu/cheyenneriversiouxtribeveteran-plate.png": {
    "src": "https://dor.sd.gov/media/k2hd1gyu/cheyenneriversiouxtribeveteran-plate.png",
-   "alt": "Cheyenne River Sioux Tribe"
+   "alt": "Cheyenne River Sioux Tribe",
+   "verdict": "not-a-plate"
   },
   "/media/kidpq0gt/sddmvpsfa7_space-force-active-duty8.jpg": {
    "src": "https://dor.sd.gov/media/kidpq0gt/sddmvpsfa7_space-force-active-duty8.jpg?rmode=max&width=288&height=95",
-   "alt": ""
+   "alt": "",
+   "verdict": "pending:SD-fee-x-x-x"
   },
   "/media/llpblmq0/womanveterannavy-plate-optimized.jpg": {
    "src": "https://dor.sd.gov/media/llpblmq0/womanveterannavy-plate-optimized.jpg",
-   "alt": "Woman Veteran Marine Plate"
+   "alt": "Woman Veteran Marine Plate",
+   "verdict": "pending:SD-woman-veteran-marine-x"
   },
   "/media/m0dftck1/airforceactiveduty-motorcycleplate.jpg": {
    "src": "https://dor.sd.gov/media/m0dftck1/airforceactiveduty-motorcycleplate.jpg",
-   "alt": "Air Force Motorcycle Plate"
+   "alt": "Air Force Motorcycle Plate",
+   "verdict": "not-for-cars"
   },
   "/media/mvwcohmk/oglalalakotasiouxtribeveteran-plate.jpg": {
    "src": "https://dor.sd.gov/media/mvwcohmk/oglalalakotasiouxtribeveteran-plate.jpg",
-   "alt": "Oglala Lakota Sioux Tribe"
+   "alt": "Oglala Lakota Sioux Tribe",
+   "verdict": "plate:oglala-lakota-sioux-tribe-veteran"
   },
   "/media/ndehvirb/womanveterancoastguard-plate-optimized.jpg": {
    "src": "https://dor.sd.gov/media/ndehvirb/womanveterancoastguard-plate-optimized.jpg",
-   "alt": "Woman Veteran Coast Guard Plate"
+   "alt": "Woman Veteran Coast Guard Plate",
+   "verdict": "pending:SD-woman-veteran-coast-guard"
   },
   "/media/nhlpvlnd/marineveteran-plate.jpg": {
    "src": "https://dor.sd.gov/media/nhlpvlnd/marineveteran-plate.jpg",
-   "alt": "Marine Veteran Plate"
+   "alt": "Marine Veteran Plate",
+   "verdict": "pending:SD-marine-veteran"
   },
   "/media/nj3fxhd0/sddmvpsfv7_space-force-veteran.jpg": {
    "src": "https://dor.sd.gov/media/nj3fxhd0/sddmvpsfv7_space-force-veteran.jpg?rmode=max&width=194&height=97",
-   "alt": ""
+   "alt": "",
+   "verdict": "pending:SD-fee"
   },
   "/media/nwjhnevv/navyveteran-motorcycleplate.jpg": {
    "src": "https://dor.sd.gov/media/nwjhnevv/navyveteran-motorcycleplate.jpg",
-   "alt": "Navy Veteran Motorcycle Plate"
+   "alt": "Navy Veteran Motorcycle Plate",
+   "verdict": "not-for-cars"
   },
   "/media/ocibpxck/lowerbruletribeveteran-plate.png": {
    "src": "https://dor.sd.gov/media/ocibpxck/lowerbruletribeveteran-plate.png",
-   "alt": "Lower Brule Sioux Tribe"
+   "alt": "Lower Brule Sioux Tribe",
+   "verdict": "not-a-plate"
   },
   "/media/p4hkc0od/womanveteranarmy-plate-optimized.jpg": {
    "src": "https://dor.sd.gov/media/p4hkc0od/womanveteranarmy-plate-optimized.jpg",
-   "alt": "Woman Veteran Army Plate"
+   "alt": "Woman Veteran Army Plate",
+   "verdict": "pending:SD-woman-veteran-army"
   },
   "/media/rcveh4oo/armyactiveduty-plate.jpg": {
    "src": "https://dor.sd.gov/media/rcveh4oo/armyactiveduty-plate.jpg",
-   "alt": "Army Vehicle Plate"
+   "alt": "Army Vehicle Plate",
+   "verdict": "pending:SD-army-vehicle"
   },
   "/media/roqfj3xk/coastguardactiveduty-motorcycleplate.jpg": {
    "src": "https://dor.sd.gov/media/roqfj3xk/coastguardactiveduty-motorcycleplate.jpg",
-   "alt": "Coast Guard Motorcycle Plate"
+   "alt": "Coast Guard Motorcycle Plate",
+   "verdict": "not-for-cars"
   },
   "/media/rv3dfzdf/navyactiveduty-plate.jpg": {
    "src": "https://dor.sd.gov/media/rv3dfzdf/navyactiveduty-plate.jpg",
-   "alt": "Navy Vehicle Plate"
+   "alt": "Navy Vehicle Plate",
+   "verdict": "pending:SD-navy-vehicle"
   },
   "/media/uooby455/air-forceactiveduty-plate.jpg": {
    "src": "https://dor.sd.gov/media/uooby455/air-forceactiveduty-plate.jpg",
-   "alt": "Air Force Vehicle Plate"
+   "alt": "Air Force Vehicle Plate",
+   "verdict": "pending:SD-air-force-vehicle"
   },
   "/media/uv2muksk/flandreausiouxtribeveteran-plate.png": {
    "src": "https://dor.sd.gov/media/uv2muksk/flandreausiouxtribeveteran-plate.png",
-   "alt": "Flandreau Santee Sioux Tribe"
+   "alt": "Flandreau Santee Sioux Tribe",
+   "verdict": "not-a-plate"
   },
   "/media/vc0ddelr/sddmvmsfa4_space-force-active-duty-mc.jpg": {
    "src": "https://dor.sd.gov/media/vc0ddelr/sddmvmsfa4_space-force-active-duty-mc.jpg?rmode=max&width=249&height=93",
-   "alt": ""
+   "alt": "",
+   "verdict": "pending:SD-fee-x-x-x-x"
   },
   "/media/vcxduqfc/marineactiveduty-plate.jpg": {
    "src": "https://dor.sd.gov/media/vcxduqfc/marineactiveduty-plate.jpg",
-   "alt": "Marine Vehicle Plate"
+   "alt": "Marine Vehicle Plate",
+   "verdict": "pending:SD-marine-vehicle"
   },
   "/media/wxcmnwcu/navyveteran-plate.jpg": {
    "src": "https://dor.sd.gov/media/wxcmnwcu/navyveteran-plate.jpg",
-   "alt": "Navy Veteran Plate"
+   "alt": "Navy Veteran Plate",
+   "verdict": "pending:SD-navy-veteran"
   },
   "/media/xcwpz1vg/armyveteran-plate.jpg": {
    "src": "https://dor.sd.gov/media/xcwpz1vg/armyveteran-plate.jpg",
-   "alt": "Army Veteran Plate"
+   "alt": "Army Veteran Plate",
+   "verdict": "pending:SD-army-veteran"
   },
   "/media/z4vhw1j2/sddmvpsfw7_space-force-woman-veteran.jpg": {
    "src": "https://dor.sd.gov/media/z4vhw1j2/sddmvpsfw7_space-force-woman-veteran.jpg?rmode=max&width=249&height=91",
-   "alt": ""
+   "alt": "",
+   "verdict": "pending:SD-fee-x"
   },
   "/media/zbrdc14y/rosebudsiouxtribeveteran-plate.png": {
    "src": "https://dor.sd.gov/media/zbrdc14y/rosebudsiouxtribeveteran-plate.png",
-   "alt": "Rosebud Sioux Tribe"
+   "alt": "Rosebud Sioux Tribe",
+   "verdict": "not-a-plate"
   }
- }
+ },
+ "checked": "2026-10-26"
 }

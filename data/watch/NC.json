@@ -1,0 +1,17 @@
+{
+ "code": "NC",
+ "url": "https://www.ncdot.gov/dmv/title-registration/license-plates/Pages/default.aspx",
+ "pictures": {
+  "/_layouts/15/images/searchresultui.png": {
+   "src": "https://www.ncdot.gov/_layouts/15/images/searchresultui.png?rev=44#ThemeKey=searchresultui",
+   "alt": "Search",
+   "verdict": "not-a-plate"
+  },
+  "/news/RR_IMAGE_CATALOG/dmv/ren/ren-DMV46.jpg": {
+   "src": "https://www.ncdot.gov/news/RR_IMAGE_CATALOG/dmv/ren/ren-DMV46.jpg?RenditionID=17",
+   "alt": "License Plates",
+   "verdict": "pending:NC-to-get-a-north-carolina-the-vehicle"
+  }
+ },
+ "checked": "2026-10-26"
+}

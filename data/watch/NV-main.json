@@ -1,47 +1,57 @@
 {
  "code": "NV-main",
  "url": "https://dmv.nv.gov/platesmain.htm",
- "checked": "2026-10-26",
  "pictures": {
   "/images/platesmain/agriculture.jpg": {
    "src": "https://dmv.nv.gov/images/platesmain/agriculture.jpg",
-   "alt": ""
+   "alt": "",
+   "verdict": "pending:NV-agriculture"
   },
   "/images/platesmain/bighorns.png": {
    "src": "https://dmv.nv.gov/images/platesmain/bighorns.png",
-   "alt": ""
+   "alt": "",
+   "verdict": "pending:NV-nevada-bighorns-unlimited"
   },
   "/images/platesmain/desert_conservation.png": {
    "src": "https://dmv.nv.gov/images/platesmain/desert_conservation.png",
-   "alt": ""
+   "alt": "",
+   "verdict": "pending:NV-desert-conservation"
   },
   "/images/platesmain/ducksunlimited.jpg": {
    "src": "https://dmv.nv.gov/images/platesmain/ducksunlimited.jpg",
-   "alt": ""
+   "alt": "",
+   "verdict": "pending:NV-ducks-unlimited"
   },
   "/images/platesmain/missing_children.jpg": {
    "src": "https://dmv.nv.gov/images/platesmain/missing_children.jpg",
-   "alt": ""
+   "alt": "",
+   "verdict": "pending:NV-missing-and-exploited-children"
   },
   "/images/platesmain/mobmuseum.jpg": {
    "src": "https://dmv.nv.gov/images/platesmain/mobmuseum.jpg",
-   "alt": ""
+   "alt": "",
+   "verdict": "pending:NV-mob-museum"
   },
   "/images/platesmain/mt_charleston.jpg": {
    "src": "https://dmv.nv.gov/images/platesmain/mt_charleston.jpg",
-   "alt": ""
+   "alt": "",
+   "verdict": "pending:NV-mount-charleston"
   },
   "/images/platesmain/nvcasa.jpg": {
    "src": "https://dmv.nv.gov/images/platesmain/nvcasa.jpg",
-   "alt": ""
+   "alt": "",
+   "verdict": "not-for-cars"
   },
   "/images/platesmain/support_wildlife.jpg": {
    "src": "https://dmv.nv.gov/images/platesmain/support_wildlife.jpg",
-   "alt": ""
+   "alt": "",
+   "verdict": "pending:NV-support-wildlife"
   },
   "/images/platesmain/veteranwhoisdisabled.jpg": {
    "src": "https://dmv.nv.gov/images/platesmain/veteranwhoisdisabled.jpg",
-   "alt": ""
+   "alt": "",
+   "verdict": "pending:NV-veteran-who-is-disabled"
   }
- }
+ },
+ "checked": "2026-10-26"
 }

@@ -1,27 +1,17 @@
 {
  "code": "WY-2",
  "url": "https://www.dot.state.wy.us/home/titles_plates_registration/specialty_plates/veteran_plates.html",
- "checked": "2026-10-26",
  "pictures": {
-  "/files/live/sites/wydot/files/shared/motor%20vehicle%20services/2025%20plate%20images/2025-all-7-military.jpg": {
+  "/files/live/sites/wydot/files/shared/Motor%20Vehicle%20Services/2025%20Plate%20images/2025-ALL-7-MILITARY.jpg": {
    "src": "https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Motor%20Vehicle%20Services/2025%20Plate%20images/2025-ALL-7-MILITARY.jpg",
-   "alt": "/files/live/sites/wydot/files/shared/Motor%20Vehicle%20Services/2025%20Plate%20images/2025-ALL-7-MILITARY.jpg"
+   "alt": "/files/live/sites/wydot/files/shared/Motor%20Vehicle%20Services/2025%20Plate%20images/2025-ALL-7-MILITARY.jpg",
+   "verdict": "not-a-plate"
   },
-  "/files/live/sites/wydot/files/shared/public%20affairs/photos/frontphotos/contactus-revised.png": {
+  "/files/live/sites/wydot/files/shared/Public%20Affairs/photos/FrontPhotos/ContactUs-revised.png": {
    "src": "https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Public%20Affairs/photos/FrontPhotos/ContactUs-revised.png",
-   "alt": "Contact Information"
-  },
-  "/files/live/sites/wydot/files/shared/public%20affairs/photos/frontphotos/facebook.png": {
-   "src": "https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Public%20Affairs/photos/FrontPhotos/Facebook.png",
-   "alt": "WYDOT Facebook"
-  },
-  "/files/live/sites/wydot/files/shared/public%20affairs/photos/frontphotos/linkedin.png": {
-   "src": "https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Public%20Affairs/photos/FrontPhotos/Linkedin.png",
-   "alt": "LinkedIn"
-  },
-  "/files/live/sites/wydot/files/shared/public%20affairs/photos/frontphotos/youtube.png": {
-   "src": "https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Public%20Affairs/photos/FrontPhotos/YouTube.png",
-   "alt": "YouTube"
+   "alt": "Contact Information",
+   "verdict": "not-a-plate"
   }
- }
+ },
+ "checked": "2026-10-26"
 }
