@@ -1,7 +1,7 @@
 /* Plate Hunter service worker: lets the game open with no signal.
    The page and plate lists: network first (so new plates show up), cached copy when offline.
    Plate pictures: cache first, kept in 'ph-plates' (the page's "Save for offline" fills it). */
-const SHELL = 'ph-shell-v6';
+const SHELL = 'ph-shell-v7';
 const PLATES = 'ph-plates';
 const FILES = ['./', 'index.html', 'app.js', 'app.css', 'manifest.webmanifest',
   'data/states.json', 'data/collections.json', 'data/us-map.json',

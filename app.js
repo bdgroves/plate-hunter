@@ -88,9 +88,10 @@ function renderStates() {
     </div>
   </section>
   <div class="map-wrap">${mapSVG()}
-    <div class="map-key"><span><i style="background:var(--y)"></i>This trip</span><span><i style="background:#2f4a6e"></i>Seen on an earlier trip</span><span><i style="background:var(--map-off)"></i>Not yet</span></div>
+    <div class="map-key"><span><i style="background:var(--gold)"></i>This trip</span><span><i style="background:var(--map-ever)"></i>An earlier trip</span><span><i style="background:var(--map-off)"></i>Not yet</span></div>
   </div>
   <div class="grid sgrid" id="grid">${S.states.map(stateCard).join('')}</div>`;
+  refreshStatus();
   $('#newTrip').onclick = confirmNewTrip;
   $('#shareBtn').onclick = shareTrip;
   $('#main').querySelector('.map').addEventListener('click', e => {
@@ -120,12 +121,12 @@ function mapSVG() {
   }
   CALLOUTS.forEach((c, i) => {
     const m = M[c]; if (!m) return;
-    const x = 903, y = 140 + i * 36;
+    const x = 982, y = 150 + i * 36;
     call += `<g class="callout ${seen[c] ? 'found' : ''}" data-st="${c}" tabindex="-1">
       <line x1="${m.c[0]}" y1="${m.c[1]}" x2="${x}" y2="${y + 15}" stroke="rgba(255,255,255,.18)" stroke-width="1"/>
       <rect x="${x}" y="${y}" width="62" height="30" rx="7"/><text x="${x + 31}" y="${y + 15.5}" class="${seen[c] ? 'found' : ''}">${c}</text></g>`;
   });
-  return `<svg class="map" viewBox="0 0 975 610" role="group" aria-label="Map of states found this trip">${paths}${call}${labels}</svg>`;
+  return `<svg class="map" viewBox="0 0 1050 610" role="group" aria-label="Map of states found this trip">${paths}${call}${labels}</svg>`;
 }
 
 function plateVisual(img, code, cls = 'plate-img') {
@@ -199,7 +200,7 @@ function renderSpecialty() {
   };
   $('#offBtn').onclick = saveOffline;
   checkOffline();
-  renderGrid(); plateStats();
+  renderGrid(); plateStats(); refreshStatus();
 }
 
 function renderGrid() {
@@ -254,7 +255,7 @@ function setPlate(id, on) {
     if (on) { card.classList.add('pop'); setTimeout(() => card.classList.remove('pop'), 350); }
   }
   if (S.filter === 'found') renderGrid();
-  plateStats();
+  plateStats(); refreshStatus();
   if (S.drawer && S.drawer.id === id) openPlate(id);
 }
 
@@ -417,7 +418,7 @@ async function saveOffline() {
 }
 
 /* ---------- celebrations ---------- */
-const CC = ['#f5c518', '#2db37a', '#f07d18', '#e03c3c', '#8b5cf6', '#4fc3f7', '#ff6eb4'];
+const CC = ['#c8922a', '#4a5c45', '#8b3a2a', '#2a4a6b', '#d9a63f', '#83a077'];
 function confetti(el) {
   if (!el || reduceMotion) return;
   const r = el.getBoundingClientRect(), b = document.createElement('div');
@@ -458,7 +459,34 @@ function milestone(count, total, shown, key, noun) {
   }, 600);
 }
 
+/* ---------- the status bar and badge (same strip as the other games) ---------- */
+function refreshStatus() {
+  const n = Object.keys(S.trip.seen).length;
+  const parts = [
+    `Trip <b>${n}/${S.states.length || 51}</b>`,
+    `Since <b>${esc(new Date(S.trip.started).toLocaleDateString(undefined, { month: 'short', day: 'numeric' }))}</b>`,
+    `Ever <b>${Object.keys(S.ever).length}</b>`,
+  ];
+  if (S.col) {
+    const fp = S.col.plates.filter(p => S.col.found[p.id]);
+    parts.push(`${esc(S.col.code)} plates <b>${fp.length}/${S.col.plates.length}</b>`, `Points <b>${fp.reduce((s, p) => s + p.pts, 0).toLocaleString()}</b>`);
+  }
+  $('#statusbar').innerHTML = parts.map(x => `<span>${x}</span>`).join('');
+  $('#badge').textContent = S.view === 'states' ? 'States' : (S.col ? S.col.name : 'Specialty');
+}
+
 /* ---------- wiring ---------- */
+(() => {
+  const root = document.documentElement, tb = $('#theme-toggle');
+  const sync = () => { tb.textContent = root.getAttribute('data-theme') === 'dark' ? '\u25d0' : '\u25d1'; };
+  sync();
+  tb.onclick = () => {
+    const dark = root.getAttribute('data-theme') === 'dark';
+    dark ? root.removeAttribute('data-theme') : root.setAttribute('data-theme', 'dark');
+    try { localStorage.setItem('bg_theme', dark ? 'light' : 'dark'); } catch (e) { }
+    sync();
+  };
+})();
 document.querySelectorAll('.tab').forEach(t => t.onclick = () => { show(t.dataset.view); });
 $('#overlay').onclick = closeDrawer;
 $('#drawerX').onclick = closeDrawer;

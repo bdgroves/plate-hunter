@@ -4,8 +4,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
 <title>Plate Hunter: the road-trip license plate game</title>
-<meta name="description" content="Spot a plate from every state, or hunt down Washington's 72 specialty plates, from the square dancer to the Seahawks. A free road-trip game that works offline. No account, no ads.">
-<meta name="theme-color" content="#0a3a68">
+<meta name="description" content="Spot a plate from every state, or hunt more than 7,000 specialty plates, from Washington's square dancer to Minnesota's Vikings. A free road-trip game that works offline. No account, no ads.">
+<meta name="theme-color" content="#f5f0e8">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icons/icon-192.png" type="image/png">
 <link rel="apple-touch-icon" href="icons/icon-180.png">
@@ -18,36 +18,77 @@
 <meta name="twitter:card" content="summary_large_image">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Boogaloo&family=Nunito:wght@400;700;800;900&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=DM+Mono:wght@300;400&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="app.css">
+<script>
+  (function(){
+    try {
+      var saved = localStorage.getItem('bg_theme');
+      var dark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+      if (saved === 'dark' || (!saved && dark)) document.documentElement.setAttribute('data-theme','dark');
+    } catch(e) {}
+  })();
+</script>
 </head>
 <body>
-<div class="road" aria-hidden="true"></div>
-<nav class="bg-bar" aria-label="brooksgroves.com"><a href="https://brooksgroves.com/">&larr; brooksgroves.com</a><a href="https://brooksgroves.com/blog/plate-hunter-post.html">The story</a><a href="https://github.com/bdgroves/plate-hunter">Code</a></nav>
-<header>
-  <h1 class="title">🔍 PLATE HUNTER</h1>
-  <div class="sub">Spot &bull; Tap &bull; Collect</div>
-  <div class="tabs">
-    <div role="tablist" aria-label="Game" class="tabs">
-      <button class="tab" role="tab" data-view="states" aria-selected="true">🗺 States</button>
-      <button class="tab" role="tab" data-view="specialty" aria-selected="false">✨ Specialty</button>
+<div class="topline"></div>
+<div class="sitebar"><div class="masthead-inner">
+  <a href="https://brooksgroves.com/" class="site-name">Brooks Groves</a>
+  <nav class="sitenav" aria-label="brooksgroves.com">
+    <a href="https://brooksgroves.com/games.html">Games</a>
+    <a href="https://brooksgroves.com/blog/plate-hunter-post.html">Story</a>
+    <a href="https://brooksgroves.com/">Home</a>
+    <button id="theme-toggle" class="theme-toggle" title="Toggle dark mode" aria-label="Toggle dark mode">&#9680;</button>
+  </nav>
+</div></div>
+
+<div class="console">
+  <div class="gamehead">
+    <div>
+      <h1>Plate Hunter</h1>
+      <div class="sub">Road-trip license plates &middot; every state &middot; works offline</div>
     </div>
-    <button class="tab about" id="aboutBtn" aria-label="How to play, backups and sources">?</button>
+    <div class="badge" id="badge">States</div>
   </div>
-</header>
-<main id="main"><div class="empty"><b>🚗</b>Warming up the engine…</div></main>
+  <div class="statusbar" id="statusbar" aria-live="polite"></div>
+  <div class="navbar" role="tablist" aria-label="Game">
+    <button class="navbtn tab" role="tab" data-view="states" aria-selected="true">&#128506; States</button>
+    <button class="navbtn tab" role="tab" data-view="specialty" aria-selected="false">&#10024; Specialty</button>
+    <button class="navbtn narrow" id="aboutBtn" aria-label="How to play, backups and sources">?</button>
+  </div>
+  <main id="main"><div class="empty"><b>&#128663;</b>Warming up the engine&hellip;</div></main>
+  <div class="navbar bottom">
+    <a class="navbtn" href="https://github.com/bdgroves/plate-hunter">Code</a>
+    <a class="navbtn" href="https://brooksgroves.com/blog/plate-hunter-post.html">The story</a>
+    <a class="navbtn navhome" href="https://brooksgroves.com/games.html">&#127968; Games</a>
+  </div>
+</div>
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div>
+      <p class="footer-name">Brooks Groves</p>
+      <p class="footer-tagline">&#127794; Made in the Pacific Northwest &middot; No account, no ads, nothing leaves your phone</p>
+    </div>
+    <div class="footer-links">
+      <a href="https://brooksgroves.com/games.html">Games</a>
+      <a href="https://brooksgroves.com/">Home</a>
+      <a href="https://github.com/bdgroves/plate-hunter">GitHub</a>
+    </div>
+  </div>
+</footer>
 
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
 <div class="ms" id="ms" role="alertdialog" aria-labelledby="msTi" aria-describedby="msSu">
-  <div class="ms-em" id="msEm">🏆</div>
+  <div class="ms-em" id="msEm">&#127942;</div>
   <div class="ms-ti" id="msTi"></div>
   <div class="ms-su" id="msSu"></div>
-  <button class="btn" id="msBtn">Keep hunting!</button>
+  <button class="btn" id="msBtn">Keep hunting</button>
 </div>
 <div class="overlay" id="overlay"></div>
 <div class="drawer" id="drawer" role="dialog" aria-modal="true" aria-label="Details">
   <div class="drawer-handle"></div>
-  <button class="drawer-x" id="drawerX" aria-label="Close">✕</button>
+  <button class="drawer-x" id="drawerX" aria-label="Close">&#10005;</button>
   <div id="drawerInner"></div>
 </div>
 <noscript><p style="padding:20px">Plate Hunter needs JavaScript to run.</p></noscript>
