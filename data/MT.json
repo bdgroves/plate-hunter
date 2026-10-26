@@ -299,8 +299,7 @@
    "id": "compassion-montana",
    "name": "Compassion Montana",
    "cat": "other",
-   "img": "compassion-montana.webp",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2025/08/Compassion-Montana-2025.jpg",
+   "img": "compassion-montana-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -760,8 +759,7 @@
    "id": "montana-natural-history-center",
    "name": "Montana Natural History Center",
    "cat": "charity",
-   "img": "montana-natural-history-center.webp",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2024/02/Montana-Natural-History-2024.jpg",
+   "img": "montana-natural-history-center-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -816,8 +814,7 @@
    "id": "montana-state-golf-association",
    "name": "Montana State Golf Association",
    "cat": "sports",
-   "img": "montana-state-golf-association.webp",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2025/12/Montana-State-Golf-Association-2026.jpg",
+   "img": "montana-state-golf-association-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -1190,8 +1187,7 @@
    "id": "the-frontier-institute",
    "name": "The Frontier Institute",
    "cat": "other",
-   "img": "the-frontier-institute.webp",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2026/06/Frontier-Institute-2026.jpg",
+   "img": "the-frontier-institute-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -1259,8 +1255,7 @@
    "id": "university-of-montana-grizzly-scholarshi",
    "name": "University of Montana – Grizzly Scholarship Association",
    "cat": "colleges",
-   "img": "university-of-montana-grizzly-scholarshi.webp",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2025/12/Grizzly-Scholarship-Association-2026.jpg",
+   "img": "university-of-montana-grizzly-scholarshi-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -1336,8 +1331,7 @@
    "id": "youth-overcoming-life-s-obstacles",
    "name": "Youth Overcoming Life’s Obstacles",
    "cat": "other",
-   "img": "youth-overcoming-life-s-obstacles.webp",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2024/08/Youth-Overcoming-Lifes-Obstacles-2024.jpg",
+   "img": "youth-overcoming-life-s-obstacles-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -1624,187 +1618,168 @@
    "id": "citizens-for-a-better-flathead",
    "name": "Citizens for a Better Flathead",
    "cat": "nature",
-   "img": null,
+   "img": "citizens-for-a-better-flathead.webp",
    "added": "2026-10-26",
-   "source": "https://mvdmt.gov/license-plate-lookup/page/8/",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2026/02/Citizens-for-Better-Flathead-2023.jpg"
+   "source": "https://mvdmt.gov/license-plate-lookup/page/8/"
   },
   {
    "id": "city-of-laurel",
    "name": "City of Laurel",
    "cat": "other",
-   "img": null,
+   "img": "city-of-laurel.webp",
    "added": "2026-10-26",
    "source": "https://mvdmt.gov/license-plate-lookup/page/8/",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2024/02/City-of-Laurel-2024.jpg",
    "year": "2024"
   },
   {
    "id": "community-food-and-agriculture-coalition",
    "name": "Community Food and Agriculture Coalition",
    "cat": "charity",
-   "img": null,
+   "img": "community-food-and-agriculture-coalition.webp",
    "added": "2026-10-26",
-   "source": "https://mvdmt.gov/license-plate-lookup/page/8/",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2023/10/Community-Food-Ag-Coalition-2023.jpg"
+   "source": "https://mvdmt.gov/license-plate-lookup/page/8/"
   },
   {
    "id": "deliverfund",
    "name": "DeliverFund",
    "cat": "charity",
-   "img": null,
+   "img": "deliverfund.webp",
    "added": "2026-10-26",
    "source": "https://mvdmt.gov/license-plate-lookup/page/8/",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2025/01/DeliverFUND-2025.jpg",
    "year": "2025"
   },
   {
    "id": "don-t-tread-on-mt",
    "name": "Don't Tread on MT",
    "cat": "other",
-   "img": null,
+   "img": "don-t-tread-on-mt.webp",
    "added": "2026-10-26",
    "source": "https://mvdmt.gov/license-plate-lookup/page/8/",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2024/08/Dont-Tread-on-MT-2024.jpg",
    "year": "2024"
   },
   {
    "id": "gratitude-in-action-foundation",
    "name": "Gratitude in Action Foundation",
    "cat": "charity",
-   "img": null,
+   "img": "gratitude-in-action-foundation.webp",
    "added": "2026-10-26",
    "source": "https://mvdmt.gov/license-plate-lookup/page/6/",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2025/12/Gratitude-in-Action-2026.jpg",
    "year": "2026"
   },
   {
    "id": "kalispell-pee-wee-baseball",
    "name": "Kalispell Pee Wee Baseball",
    "cat": "sports",
-   "img": null,
+   "img": "kalispell-pee-wee-baseball.webp",
    "added": "2026-10-26",
    "source": "https://mvdmt.gov/license-plate-lookup/page/7/",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2025/08/Kalispell-Pee-Wee-Baseball-2025.jpg",
    "year": "2025"
   },
   {
    "id": "last-best-place-charities",
    "name": "Last Best Place Charities",
    "cat": "charity",
-   "img": null,
+   "img": "last-best-place-charities.webp",
    "added": "2026-10-26",
    "source": "https://mvdmt.gov/license-plate-lookup/page/7/",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2025/08/Last-Best-Place-2025.jpg",
    "year": "2025"
   },
   {
    "id": "laurel-public-library-foundation",
    "name": "Laurel Public Library Foundation",
    "cat": "charity",
-   "img": null,
+   "img": "laurel-public-library-foundation.webp",
    "added": "2026-10-26",
    "source": "https://mvdmt.gov/license-plate-lookup/page/7/",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2024/02/Laurel-Public-Library-Foundation-2024.jpg",
    "year": "2024"
   },
   {
    "id": "main-street-montana-foundation",
    "name": "Main Street Montana Foundation",
    "cat": "other",
-   "img": null,
+   "img": "main-street-montana-foundation.webp",
    "added": "2026-10-26",
    "source": "https://mvdmt.gov/license-plate-lookup/page/6/",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2026/01/Main-Street-Montana-Foundation-2025.jpg",
    "year": "2025"
   },
   {
    "id": "missoula-family-housing-center-ywca-miss",
    "name": "Missoula Family Housing Center: YWCA Missoula & MIC",
    "cat": "charity",
-   "img": null,
+   "img": "missoula-family-housing-center-ywca-miss.webp",
    "added": "2026-10-26",
    "source": "https://mvdmt.gov/license-plate-lookup/page/6/",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2024/02/YWCA-Missoula-2024.jpg",
    "year": "2024"
   },
   {
    "id": "montana-mobile-museum",
    "name": "Montana Mobile Museum",
    "cat": "other",
-   "img": null,
+   "img": "montana-mobile-museum.webp",
    "added": "2026-10-26",
    "source": "https://mvdmt.gov/license-plate-lookup/page/4/",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2024/02/Montana-Mobile-Museum-2024.jpg",
    "year": "2024"
   },
   {
    "id": "montana-neighborhood-development-corpora",
    "name": "Montana Neighborhood Development Corporation",
    "cat": "charity",
-   "img": null,
+   "img": "montana-neighborhood-development-corpora.webp",
    "added": "2026-10-26",
    "source": "https://mvdmt.gov/license-plate-lookup/page/4/",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2025/08/Neighborhood-Development-Corp-2025.jpg",
    "year": "2025"
   },
   {
    "id": "montana-public-policy-center",
    "name": "Montana Public Policy Center",
    "cat": "other",
-   "img": null,
+   "img": "montana-public-policy-center.webp",
    "added": "2026-10-26",
-   "source": "https://mvdmt.gov/license-plate-lookup/page/4/",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2023/10/Montana-Public-Policy-Center-2023.jpg"
+   "source": "https://mvdmt.gov/license-plate-lookup/page/4/"
   },
   {
    "id": "montana-sheriffs-and-peace-officers-asso",
    "name": "Montana Sheriffs and Peace Officers Association",
    "cat": "firstresponder",
-   "img": null,
+   "img": "montana-sheriffs-and-peace-officers-asso.webp",
    "added": "2026-10-26",
    "source": "https://mvdmt.gov/license-plate-lookup/page/4/",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2025/08/Montana-Sheriffs-and-Peace-Officers-Assoc-2025.jpg",
    "year": "2025"
   },
   {
    "id": "foundation-for-wildlife-management",
    "name": "Foundation for Wildlife Management",
    "cat": "nature",
-   "img": null,
+   "img": "foundation-for-wildlife-management.webp",
    "added": "2026-10-26",
    "source": "https://mvdmt.gov/license-plate-lookup/page/8/",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2026/06/Foundation-for-Wildlife-Management-2026.jpg",
    "year": "2026"
   },
   {
    "id": "glendive-police-association",
    "name": "Glendive Police Association",
    "cat": "firstresponder",
-   "img": null,
+   "img": "glendive-police-association.webp",
    "added": "2026-10-26",
    "source": "https://mvdmt.gov/license-plate-lookup/page/7/",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2026/06/Glendive-Police-Association-2026.jpg",
    "year": "2026"
   },
   {
    "id": "laurel-youth-soccer-club",
    "name": "Laurel Youth Soccer Club",
    "cat": "sports",
-   "img": null,
+   "img": "laurel-youth-soccer-club.webp",
    "added": "2026-10-26",
    "source": "https://mvdmt.gov/license-plate-lookup/page/7/",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2026/06/Laurel-Youth-Soccer-Club-2026.jpg",
    "year": "2026"
   },
   {
    "id": "montana-trucking-association-foundation",
    "name": "Montana Trucking Association Foundation",
    "cat": "other",
-   "img": null,
+   "img": "montana-trucking-association-foundation.webp",
    "added": "2026-10-26",
    "source": "https://mvdmt.gov/license-plate-lookup/page/4/",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2026/06/Montana-Trucking-Association-Foundation-2026.jpg",
    "year": "2026"
   }
  ],

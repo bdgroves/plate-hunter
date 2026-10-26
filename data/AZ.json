@@ -634,31 +634,28 @@
    "id": "phoenix-rising-fc",
    "name": "Phoenix Rising FC",
    "cat": "sports",
-   "img": null,
+   "img": "phoenix-rising-fc.webp",
    "added": "2026-10-26",
    "source": "https://azdot.gov/news/adot-unveils-three-more-new-specialty-license-plates",
-   "year": "2024",
-   "img_url": "https://www.phxrisingfc.com/wp-content/uploads/sites/29/2024/08/YbHVBcxU.jpg?w=1024"
+   "year": "2024"
   },
   {
    "id": "rotary-international",
    "name": "Rotary International",
    "cat": "charity",
-   "img": null,
+   "img": "rotary-international.webp",
    "added": "2026-10-26",
    "source": "https://azdot.gov/news/adot-unveils-three-more-new-specialty-license-plates",
-   "year": "2024",
-   "img_url": "https://res.cloudinary.com/givsum/image/upload/v1714062383/uploads/opportunities/auction-phone-d96532a5d/final-plate.jpg"
+   "year": "2024"
   },
   {
    "id": "autism-support",
    "name": "Autism Support",
    "cat": "charity",
-   "img": null,
+   "img": "autism-support.webp",
    "added": "2026-10-26",
    "source": "https://azdot.gov/news/adot-unveils-autism-support-specialty-license-plate",
-   "year": "2025",
-   "img_url": "https://autismcenter.org/wp-content/uploads/2025/04/Driving-Support-for-Autism-768x384.jpg"
+   "year": "2025"
   },
   {
    "id": "ovarian-cancer-awareness",

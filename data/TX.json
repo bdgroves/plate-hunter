@@ -2923,11 +2923,10 @@
    "id": "burn-pits-360-veterans-organization",
    "name": "Burn Pits 360 Veterans Organization",
    "cat": "veterans",
-   "img": null,
+   "img": "burn-pits-360-veterans-organization.webp",
    "added": "2026-10-26",
    "source": "https://txdmv.blogs.govdelivery.com/county-rts-release-notes-23-4-08-26-2023-930-am/",
-   "year": "2023",
-   "img_url": "https://cdn.shopify.com/s/files/1/0677/1789/0335/files/LicensePlate_Header_copy_600x600.jpg?v=1694397627"
+   "year": "2023"
   },
   {
    "id": "texas-homeland-defense-service-medal",
@@ -3023,11 +3022,10 @@
    "id": "premium-embossed-black-gold",
    "name": "Premium Embossed Black & Gold",
    "cat": "other",
-   "img": null,
+   "img": "premium-embossed-black-gold.webp",
    "added": "2026-10-26",
    "source": "https://txdmv.blogs.govdelivery.com/?p=8639",
-   "year": "2024",
-   "img_url": "https://cdn.myplates.com/plates/auto.Embossed_GoldBlack.png"
+   "year": "2024"
   },
   {
    "id": "premium-embossed-black-yellow",
@@ -3051,11 +3049,10 @@
    "id": "phi-beta-sigma",
    "name": "Phi Beta Sigma",
    "cat": "other",
-   "img": null,
+   "img": "phi-beta-sigma.webp",
    "added": "2026-10-26",
    "source": "https://txdmv.blogs.govdelivery.com/?p=8639",
-   "year": "2024",
-   "img_url": "https://cdn.myplates.com/discontinued/auto.PhiBetaSigma.png"
+   "year": "2024"
   },
   {
    "id": "texas-a-m-university-texarkana",
@@ -3070,21 +3067,19 @@
    "id": "guadalupe-mountains-national-park",
    "name": "Guadalupe Mountains National Park",
    "cat": "nature",
-   "img": null,
+   "img": "guadalupe-mountains-national-park.webp",
    "added": "2026-10-26",
    "source": "https://content.govdelivery.com/accounts/TXDMV/bulletins/3c8ec48",
-   "year": "2025",
-   "img_url": "https://ep-community-foundation-production.s3.amazonaws.com/news_articles/images/000/000/453/large/EPCF-Projects-Plate_copy.png?1744148605"
+   "year": "2025"
   },
   {
    "id": "embossed-black-white",
    "name": "Embossed Black & White",
    "cat": "other",
-   "img": null,
+   "img": "embossed-black-white.webp",
    "added": "2026-10-26",
    "source": "https://content.govdelivery.com/accounts/TXDMV/bulletins/3c8ec48",
-   "year": "2025",
-   "img_url": "https://cdn.myplates.com/plates/auto.Embossed_WhiteBlack.png"
+   "year": "2025"
   },
   {
    "id": "lone-star-flag",
@@ -3127,11 +3122,10 @@
    "id": "sigma-gamma-rho",
    "name": "Sigma Gamma Rho",
    "cat": "other",
-   "img": null,
+   "img": "sigma-gamma-rho.webp",
    "added": "2026-10-26",
    "source": "https://content.govdelivery.com/accounts/TXDMV/bulletins/3ef1907",
-   "year": "2025",
-   "img_url": "https://cdn.myplates.com/discontinued/auto.SigmaGammaRho.png"
+   "year": "2025"
   },
   {
    "id": "retired-firefighter",

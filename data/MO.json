@@ -966,11 +966,10 @@
    "id": "conservation-heritage-foundation-bass-fi",
    "name": "Conservation Heritage Foundation – Bass/Fish",
    "cat": "nature",
-   "img": null,
+   "img": "conservation-heritage-foundation-bass-fi.webp",
    "added": "2026-10-26",
    "source": "https://dor.mo.gov/motor-vehicle/plates/documents/SpecialtyPlateChart-FEB-8.pdf",
-   "year": "2023",
-   "img_url": "https://mochf.org/wp-content/uploads/2023/09/licenseplate2.png"
+   "year": "2023"
   },
   {
    "id": "army-of-occupation-medal",
@@ -994,11 +993,10 @@
    "id": "bee-friendly",
    "name": "Bee Friendly",
    "cat": "nature",
-   "img": null,
+   "img": "bee-friendly.webp",
    "added": "2026-10-26",
    "source": "https://dor.mo.gov/motor-vehicle/plates/documents/SpecialtyPlateChart-FEB-8.pdf",
-   "year": "2025",
-   "img_url": "https://www.mobees.org/wp-content/uploads/2024/05/MO-State-License-Plates-Options-03.png"
+   "year": "2025"
   },
   {
    "id": "cars-and-coffee-foundation",

@@ -1429,8 +1429,7 @@
    "id": "virginia-for-the-arts",
    "name": "Virginia For The Arts",
    "cat": "hobby",
-   "img": "virginia-for-the-arts.webp",
-   "img_url": "https://www.dmv.virginia.gov/sites/default/files/styles/small/public/images/art2.jpg?itok=kjzvZP66",
+   "img": "virginia-for-the-arts-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -1635,20 +1634,18 @@
    "id": "250th-american-revolution-anniversary",
    "name": "250th American Revolution Anniversary",
    "cat": "other",
-   "img": null,
+   "img": "250th-american-revolution-anniversary.webp",
    "added": "2026-10-26",
    "source": "https://dmv.virginia.gov/vehicles/license-plates/search/250th-american-revolution-anniversary",
-   "year": "2024",
-   "img_url": "https://www.va250.org/wp-content/uploads/2024/10/LicensePlate_2-825x342-1.jpg"
+   "year": "2024"
   },
   {
    "id": "blue-ridge-parkway-foundation",
    "name": "Blue Ridge Parkway Foundation",
    "cat": "nature",
-   "img": null,
+   "img": "blue-ridge-parkway-foundation.webp",
    "added": "2026-10-26",
    "source": "https://www.dmv.virginia.gov/vehicles/license-plates/search/blue-ridge-parkway-foundation",
-   "img_url": "https://www.dmv.virginia.gov/sites/default/files/styles/small/public/images/BRPF.jpg?itok=ckeqSf2U",
    "year": "2024"
   }
  ],

@@ -76,16 +76,14 @@
    "id": "air-medal-registration",
    "name": "Air Medal Registration",
    "cat": "veterans",
-   "img": "air-medal-registration.webp",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/military/airmedal.png",
+   "img": "air-medal-registration-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
    "id": "airborne-units",
    "name": "Airborne Units",
    "cat": "military",
-   "img": "airborne-units.webp",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/military/usmilitaryairborneunits.png",
+   "img": "airborne-units-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -176,8 +174,7 @@
    "id": "berwyn-fire-company",
    "name": "Berwyn Fire Company",
    "cat": "firstresponder",
-   "img": "berwyn-fire-company.webp",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/berwyn-fire-company-plate.jpg",
+   "img": "berwyn-fire-company-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -250,16 +247,14 @@
    "id": "bronze-star",
    "name": "Bronze Star",
    "cat": "veterans",
-   "img": "bronze-star.webp",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/military/bronze%20star%20blue%20and%20yellow.jpg",
+   "img": "bronze-star-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
    "id": "bronze-star-for-valor",
    "name": "Bronze Star for Valor",
    "cat": "veterans",
-   "img": "bronze-star-for-valor.webp",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/military/bronzestarforvalor.png",
+   "img": "bronze-star-for-valor-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -416,8 +411,7 @@
    "id": "conserve-wild-resources-hellbender",
    "name": "Conserve Wild Resources - Hellbender",
    "cat": "sports",
-   "img": "conserve-wild-resources-hellbender.webp",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/special-fund/conservewildresources.png",
+   "img": "conserve-wild-resources-hellbender-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -616,8 +610,7 @@
    "id": "fire-fighter",
    "name": "Fire Fighter",
    "cat": "firstresponder",
-   "img": "fire-fighter.webp",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/firefighter.png",
+   "img": "fire-fighter-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -690,8 +683,7 @@
    "id": "geneva-college",
    "name": "Geneva College",
    "cat": "colleges",
-   "img": "geneva-college.webp",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/geneva%20college.png",
+   "img": "geneva-college-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -818,8 +810,7 @@
    "id": "honor-women-vets",
    "name": "Honor Women Vets",
    "cat": "other",
-   "img": "honor-women-vets.webp",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/special-fund/honoring_our_women_veterans.png",
+   "img": "honor-women-vets-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -832,8 +823,7 @@
    "id": "honoring-vets",
    "name": "Honoring Vets",
    "cat": "other",
-   "img": "honoring-vets.webp",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/special-fund/honoring_our_veterans.png",
+   "img": "honoring-vets-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -900,8 +890,7 @@
    "id": "korean-defense-service",
    "name": "Korean Defense Service",
    "cat": "veterans",
-   "img": "korean-defense-service.webp",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/military/koreandefenseservice.jpg",
+   "img": "korean-defense-service-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -932,8 +921,7 @@
    "id": "la-salle-university",
    "name": "La Salle University",
    "cat": "colleges",
-   "img": "la-salle-university.webp",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/la-salle-university.png",
+   "img": "la-salle-university-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -946,8 +934,7 @@
    "id": "lancaster-bible-college",
    "name": "Lancaster Bible College",
    "cat": "colleges",
-   "img": "lancaster-bible-college.webp",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/lancaster_bible_college.png",
+   "img": "lancaster-bible-college-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -1086,8 +1073,7 @@
    "id": "masonic-blue-lodge",
    "name": "Masonic Blue Lodge",
    "cat": "hobby",
-   "img": "masonic-blue-lodge.webp",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/pennsylvania_masons.png",
+   "img": "masonic-blue-lodge-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -1154,8 +1140,7 @@
    "id": "moravian-college",
    "name": "Moravian College",
    "cat": "colleges",
-   "img": "moravian-college.webp",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/moravian%20university.png",
+   "img": "moravian-college-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -1288,16 +1273,14 @@
    "id": "operation-enduring-freedom",
    "name": "Operation Enduring Freedom",
    "cat": "other",
-   "img": "operation-enduring-freedom.webp",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/military/operationenduringfreedom.png",
+   "img": "operation-enduring-freedom-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
    "id": "operation-iraqi-freedom",
    "name": "Operation Iraqi Freedom",
    "cat": "veterans",
-   "img": "operation-iraqi-freedom.webp",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/military/operation-iraqi-freedom.png",
+   "img": "operation-iraqi-freedom-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -1316,8 +1299,7 @@
    "id": "pa-monument",
    "name": "PA Monument",
    "cat": "other",
-   "img": "pa-monument.webp",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/special-fund/pennsylvania_monuments.png",
+   "img": "pa-monument-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -1438,8 +1420,7 @@
    "id": "pennsylvania-society-of-physician",
    "name": "Pennsylvania Society of Physician...",
    "cat": "charity",
-   "img": "pennsylvania-society-of-physician.webp",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/pa%20society%20of%20physician%20associates.jpg",
+   "img": "pennsylvania-society-of-physician-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -1458,8 +1439,7 @@
    "id": "pennsylvania-spca-society-for-the",
    "name": "Pennsylvania SPCA - Society for the...",
    "cat": "charity",
-   "img": "pennsylvania-spca-society-for-the.webp",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/pennsylvania_spca.jpg",
+   "img": "pennsylvania-spca-society-for-the-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -1472,16 +1452,14 @@
    "id": "pennsylvania-state-nurses-assn",
    "name": "Pennsylvania State Nurses Assn",
    "cat": "other",
-   "img": "pennsylvania-state-nurses-assn.webp",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/pa%20state%20nurses%20assn.jpg",
+   "img": "pennsylvania-state-nurses-assn-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
    "id": "pennsylvania-state-society-daughters-of",
    "name": "Pennsylvania State Society Daughters of...",
    "cat": "charity",
-   "img": "pennsylvania-state-society-daughters-of.webp",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/pa-daughters-of-the-american-revolution.png",
+   "img": "pennsylvania-state-society-daughters-of-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -1524,8 +1502,7 @@
    "id": "philadelphia-museum-of-art",
    "name": "Philadelphia Museum of Art",
    "cat": "hobby",
-   "img": "philadelphia-museum-of-art.webp",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/philadelphia%20museum%20of%20art%20plate.png",
+   "img": "philadelphia-museum-of-art-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -1557,8 +1534,7 @@
    "id": "pittsburgh-vintage-grand-prix",
    "name": "Pittsburgh Vintage Grand Prix",
    "cat": "vehicle",
-   "img": "pittsburgh-vintage-grand-prix.webp",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/pvgp.png",
+   "img": "pittsburgh-vintage-grand-prix-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -1601,8 +1577,7 @@
    "id": "pollinator-habitat-registration",
    "name": "Pollinator Habitat Registration",
    "cat": "nature",
-   "img": "pollinator-habitat-registration.webp",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/special-fund/pollinator_habitat.png",
+   "img": "pollinator-habitat-registration-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -1615,8 +1590,7 @@
    "id": "preserve-our-heritage",
    "name": "Preserve Our Heritage",
    "cat": "military",
-   "img": "preserve-our-heritage.webp",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/special-fund/preserve-our-heritage-bank-barn.png",
+   "img": "preserve-our-heritage-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -1629,8 +1603,7 @@
    "id": "presque-isle-partnership",
    "name": "Presque Isle Partnership",
    "cat": "other",
-   "img": "presque-isle-partnership.webp",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/presque%20isle%20partnership.jpg",
+   "img": "presque-isle-partnership-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -1649,8 +1622,7 @@
    "id": "purple-heart",
    "name": "Purple Heart",
    "cat": "veterans",
-   "img": "purple-heart.webp",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/military/combatwoundedveteran.png",
+   "img": "purple-heart-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -1777,8 +1749,7 @@
    "id": "shippensburg-university-alumni",
    "name": "Shippensburg University Alumni",
    "cat": "colleges",
-   "img": "shippensburg-university-alumni.webp",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/shippensburg-university-alumni.png",
+   "img": "shippensburg-university-alumni-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -1935,8 +1906,7 @@
    "id": "u-s-air-force-veteran-revised",
    "name": "U.S. Air Force Veteran Revised",
    "cat": "veterans",
-   "img": "u-s-air-force-veteran-revised.webp",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/military/usairforceveteran.png",
+   "img": "u-s-air-force-veteran-revised-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -2027,16 +1997,14 @@
    "id": "us-coast-guard",
    "name": "US Coast Guard",
    "cat": "military",
-   "img": "us-coast-guard.webp",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/military/us-coast-guard.png",
+   "img": "us-coast-guard-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
    "id": "us-expeditionary-forces",
    "name": "US Expeditionary Forces",
    "cat": "other",
-   "img": "us-expeditionary-forces.webp",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/military/expeditionary-forces-veteran.png",
+   "img": "us-expeditionary-forces-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -2055,8 +2023,7 @@
    "id": "veteran",
    "name": "Veteran",
    "cat": "veterans",
-   "img": "veteran.webp",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/military/veteran.png",
+   "img": "veteran-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -2232,427 +2199,384 @@
    "id": "alpha-fire-company-no-1-inc",
    "name": "Alpha Fire Company No. 1 Inc.",
    "cat": "firstresponder",
-   "img": null,
+   "img": "alpha-fire-company-no-1-inc.webp",
    "added": "2026-10-26",
    "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin%2024-11%20new%20special%20organization%20registration%20plates.pdf",
-   "year": "2023",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/alpha%20fire%20company%20no%201%20inc.jpg"
+   "year": "2023"
   },
   {
    "id": "new-kingstown-fire-company",
    "name": "New Kingstown Fire Company",
    "cat": "firstresponder",
-   "img": null,
+   "img": "new-kingstown-fire-company.webp",
    "added": "2026-10-26",
    "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin%2024-11%20new%20special%20organization%20registration%20plates.pdf",
-   "year": "2023",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/new%20kingstown%20fire%20company.jpg"
+   "year": "2023"
   },
   {
    "id": "southampton-fire-company-no-1",
    "name": "Southampton Fire Company No. 1",
    "cat": "firstresponder",
-   "img": null,
+   "img": "southampton-fire-company-no-1.webp",
    "added": "2026-10-26",
    "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin%2024-11%20new%20special%20organization%20registration%20plates.pdf",
-   "year": "2023",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/southampton%20fire%20company%20no.%201.jpg"
+   "year": "2023"
   },
   {
    "id": "the-colebrookdale-railroad",
    "name": "The Colebrookdale Railroad",
    "cat": "hobby",
-   "img": null,
+   "img": "the-colebrookdale-railroad.webp",
    "added": "2026-10-26",
    "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin%2024-11%20new%20special%20organization%20registration%20plates.pdf",
-   "year": "2023",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/colebrookdale%20railroad.jpg"
+   "year": "2023"
   },
   {
    "id": "the-edward-francis-cancer-foundation",
    "name": "The Edward Francis Cancer Foundation",
    "cat": "charity",
-   "img": null,
+   "img": "the-edward-francis-cancer-foundation.webp",
    "added": "2026-10-26",
    "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin%2024-11%20new%20special%20organization%20registration%20plates.pdf",
-   "year": "2023",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/edward%20francis%20cancer%20foundation.jpg"
+   "year": "2023"
   },
   {
    "id": "the-video-game-clubs-of-america",
    "name": "The Video Game Clubs of America",
    "cat": "hobby",
-   "img": null,
+   "img": "the-video-game-clubs-of-america.webp",
    "added": "2026-10-26",
    "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin%2024-11%20new%20special%20organization%20registration%20plates.pdf",
-   "year": "2023",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/the%20video%20game%20clubs%20of%20america.jpg"
+   "year": "2023"
   },
   {
    "id": "spay-and-neuter-assistance-program-inc-s",
    "name": "Spay and Neuter Assistance Program, Inc. (Spay/Neuter Saves Lives)",
    "cat": "charity",
-   "img": null,
+   "img": "spay-and-neuter-assistance-program-inc-s.webp",
    "added": "2026-10-26",
    "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin%2024-11%20new%20special%20organization%20registration%20plates.pdf",
-   "year": "2024",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/spay%20and%20neuter%20assistance%20program.jpg"
+   "year": "2024"
   },
   {
    "id": "alliance-fire-and-rescue",
    "name": "Alliance Fire and Rescue",
    "cat": "firstresponder",
-   "img": null,
+   "img": "alliance-fire-and-rescue.webp",
    "added": "2026-10-26",
    "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin%2024-11%20new%20special%20organization%20registration%20plates.pdf",
-   "year": "2024",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/alliance%20fire%20and%20rescue.jpg"
+   "year": "2024"
   },
   {
    "id": "fairfield-hose-company",
    "name": "Fairfield Hose Company",
    "cat": "firstresponder",
-   "img": null,
+   "img": "fairfield-hose-company.webp",
    "added": "2026-10-26",
    "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin%2024-11%20new%20special%20organization%20registration%20plates.pdf",
-   "year": "2024",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/fairfield%20hose%20company.jpg"
+   "year": "2024"
   },
   {
    "id": "stat-medevac",
    "name": "Stat MedEvac",
    "cat": "firstresponder",
-   "img": null,
+   "img": "stat-medevac.webp",
    "added": "2026-10-26",
    "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin%2024-11%20new%20special%20organization%20registration%20plates.pdf",
-   "year": "2024",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/stat%20medevac.jpg"
+   "year": "2024"
   },
   {
    "id": "phi-beta-sigma-fraternity-inc",
    "name": "Phi Beta Sigma Fraternity, Inc.",
    "cat": "other",
-   "img": null,
+   "img": "phi-beta-sigma-fraternity-inc.webp",
    "added": "2026-10-26",
    "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin%2024-11%20new%20special%20organization%20registration%20plates.pdf",
-   "year": "2024",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/phi%20beta%20sigma%20fraternity,%20inc.jpg"
+   "year": "2024"
   },
   {
    "id": "down-syndrome-association-of-pittsburgh",
    "name": "Down Syndrome Association of Pittsburgh",
    "cat": "charity",
-   "img": null,
+   "img": "down-syndrome-association-of-pittsburgh.webp",
    "added": "2026-10-26",
    "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin%2024-11%20new%20special%20organization%20registration%20plates.pdf",
-   "year": "2024",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/down%20syndrome%20association%20of%20pittsburgh.png"
+   "year": "2024"
   },
   {
    "id": "lvhn-medevac",
    "name": "LVHN MedEvac",
    "cat": "firstresponder",
-   "img": null,
+   "img": "lvhn-medevac.webp",
    "added": "2026-10-26",
    "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin%2024-11%20new%20special%20organization%20registration%20plates.pdf",
-   "year": "2024",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/lvhn%20medevac.jpg"
+   "year": "2024"
   },
   {
    "id": "elle-s-angels-foundation",
    "name": "Elle's Angels Foundation",
    "cat": "charity",
-   "img": null,
+   "img": "elle-s-angels-foundation.webp",
    "added": "2026-10-26",
    "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin%2024-11%20new%20special%20organization%20registration%20plates.pdf",
-   "year": "2024",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/elle's%20angels%20foundation.png"
+   "year": "2024"
   },
   {
    "id": "angel-flight-east",
    "name": "Angel Flight East",
    "cat": "charity",
-   "img": null,
+   "img": "angel-flight-east.webp",
    "added": "2026-10-26",
    "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin%2024-12%20new%20special%20organization%20registration%20plate%20-%20angel%20flight%20east.pdf",
-   "year": "2024",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/angel%20flight%20east.png"
+   "year": "2024"
   },
   {
    "id": "nicnac-charities",
    "name": "NicNac Charities",
    "cat": "charity",
-   "img": null,
+   "img": "nicnac-charities.webp",
    "added": "2026-10-26",
    "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin%2024-20%20new%20special%20organization%20registration%20plates.pdf",
-   "year": "2024",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/nicnac%20charities.png"
+   "year": "2024"
   },
   {
    "id": "american-fire-company-1",
    "name": "American Fire Company #1",
    "cat": "firstresponder",
-   "img": null,
+   "img": "american-fire-company-1.webp",
    "added": "2026-10-26",
    "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin%2024-20%20new%20special%20organization%20registration%20plates.pdf",
-   "year": "2024",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/american%20fire%20company%201.png"
+   "year": "2024"
   },
   {
    "id": "nawcc-inc",
    "name": "NAWCC, Inc.",
    "cat": "hobby",
-   "img": null,
+   "img": "nawcc-inc.webp",
    "added": "2026-10-26",
    "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin%2024-20%20new%20special%20organization%20registration%20plates.pdf",
-   "year": "2024",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/nawcc.png"
+   "year": "2024"
   },
   {
    "id": "western-berks-fire-department",
    "name": "Western Berks Fire Department",
    "cat": "firstresponder",
-   "img": null,
+   "img": "western-berks-fire-department.webp",
    "added": "2026-10-26",
    "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin%2024-23%20new%20special%20organization%20registration%20plates%20-%20western%20berks%20fire%20department.pdf",
-   "year": "2024",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/western%20berks%20fire%20department.png"
+   "year": "2024"
   },
   {
    "id": "a-haven",
    "name": "A Haven",
    "cat": "charity",
-   "img": null,
+   "img": "a-haven.webp",
    "added": "2026-10-26",
    "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin-24-28-new-special-organization-registration-plates.pdf",
-   "year": "2025",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/a-haven.png"
+   "year": "2025"
   },
   {
    "id": "swarthmore-fire-rescue",
    "name": "Swarthmore Fire & Rescue",
    "cat": "firstresponder",
-   "img": null,
+   "img": "swarthmore-fire-rescue.webp",
    "added": "2026-10-26",
    "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin-24-28-new-special-organization-registration-plates.pdf",
-   "year": "2025",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/swarthmore-fire.png"
+   "year": "2025"
   },
   {
    "id": "edinboro-volunteer-fire-department",
    "name": "Edinboro Volunteer Fire Department",
    "cat": "firstresponder",
-   "img": null,
+   "img": "edinboro-volunteer-fire-department.webp",
    "added": "2026-10-26",
    "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin-24-28-new-special-organization-registration-plates.pdf",
-   "year": "2025",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/edinboro-fire.png"
+   "year": "2025"
   },
   {
    "id": "lily-s-hope",
    "name": "Lily's Hope",
    "cat": "charity",
-   "img": null,
+   "img": "lily-s-hope.webp",
    "added": "2026-10-26",
    "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin-24-28-new-special-organization-registration-plates.pdf",
-   "year": "2025",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/lilys-hope-foundation.png"
+   "year": "2025"
   },
   {
    "id": "thaddeus-stevens",
    "name": "Thaddeus Stevens",
    "cat": "colleges",
-   "img": null,
+   "img": "thaddeus-stevens.webp",
    "added": "2026-10-26",
    "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin-24-28-new-special-organization-registration-plates.pdf",
-   "year": "2025",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/thaddeus%20stevens.png"
+   "year": "2025"
   },
   {
    "id": "po-mar-lin-fire-company",
    "name": "Po-Mar-Lin Fire Company",
    "cat": "firstresponder",
-   "img": null,
+   "img": "po-mar-lin-fire-company.webp",
    "added": "2026-10-26",
    "source": "https://papl8s.com/archives2024.html",
-   "year": "2025",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/po-mar-lin.png"
+   "year": "2025"
   },
   {
    "id": "pa-sportsman",
    "name": "PA Sportsman",
    "cat": "nature",
-   "img": null,
+   "img": "pa-sportsman.webp",
    "added": "2026-10-26",
    "source": "https://papl8s.com/archives2024.html",
-   "year": "2024",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/special-fund/pasportsman.png"
+   "year": "2024"
   },
   {
    "id": "global-war-on-terrorism-expeditionary-me",
    "name": "Global War on Terrorism Expeditionary Medal",
    "cat": "military",
-   "img": null,
+   "img": "global-war-on-terrorism-expeditionary-me.webp",
    "added": "2026-10-26",
    "source": "https://papl8s.com/archives2024.html",
-   "year": "2025",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/military/gwot.jpg"
+   "year": "2025"
   },
   {
    "id": "woman-veteran",
    "name": "Woman Veteran",
    "cat": "veterans",
-   "img": null,
+   "img": "woman-veteran.webp",
    "added": "2026-10-26",
-   "source": "https://papl8s.com/archives2024.html",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/military/womanveteran.png"
+   "source": "https://papl8s.com/archives2024.html"
   },
   {
    "id": "operation-inherent-resolve",
    "name": "Operation Inherent Resolve",
    "cat": "veterans",
-   "img": null,
+   "img": "operation-inherent-resolve.webp",
    "added": "2026-10-26",
-   "source": "https://papl8s.com/archives2024.html",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/military/operation%20inherent%20resolve.png"
+   "source": "https://papl8s.com/archives2024.html"
   },
   {
    "id": "national-law-enforcement-officers-memori",
    "name": "National Law Enforcement Officers Memorial Fund",
    "cat": "firstresponder",
-   "img": null,
+   "img": "national-law-enforcement-officers-memori.webp",
    "added": "2026-10-26",
    "source": "https://nleomf.org/wp-content/uploads/2025/06/PA-License-Plate_Updated.pdf",
-   "year": "2025",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/nleomf.png"
+   "year": "2025"
   },
   {
    "id": "milton-hershey-school-alumni-association",
    "name": "Milton Hershey School Alumni Association",
    "cat": "other",
-   "img": null,
+   "img": "milton-hershey-school-alumni-association.webp",
    "added": "2026-10-26",
    "source": "https://papl8s.com/archives2025.html",
-   "year": "2025",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/milton_hershey_alumni_association.jpg"
+   "year": "2025"
   },
   {
    "id": "tim-heroes-inc",
    "name": "TIM Heroes, Inc.",
    "cat": "charity",
-   "img": null,
+   "img": "tim-heroes-inc.webp",
    "added": "2026-10-26",
-   "source": "https://papl8s.com/archives2025.html",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/tim-heroes-inc.png"
+   "source": "https://papl8s.com/archives2025.html"
   },
   {
    "id": "eagles-autism-foundation",
    "name": "Eagles Autism Foundation",
    "cat": "sports",
-   "img": null,
+   "img": "eagles-autism-foundation.webp",
    "added": "2026-10-26",
    "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin-25-20.pdf",
-   "year": "2026",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/eagles_autism_foundation.png"
+   "year": "2026"
   },
   {
    "id": "fairmount-rowing-association",
    "name": "Fairmount Rowing Association",
    "cat": "sports",
-   "img": null,
+   "img": "fairmount-rowing-association.webp",
    "added": "2026-10-26",
    "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin-26-02.pdf",
-   "year": "2026",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/fairmount_rowing_association.png"
+   "year": "2026"
   },
   {
    "id": "dlivrd-difference",
    "name": "dlivrd Difference",
    "cat": "charity",
-   "img": null,
+   "img": "dlivrd-difference.webp",
    "added": "2026-10-26",
    "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin-26-05.pdf",
-   "year": "2026",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/dlivrd-difference.png"
+   "year": "2026"
   },
   {
    "id": "middletown-vol-fire-dept",
    "name": "Middletown Vol. Fire Dept.",
    "cat": "firstresponder",
-   "img": null,
+   "img": "middletown-vol-fire-dept.webp",
    "added": "2026-10-26",
    "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin-26-05.pdf",
-   "year": "2026",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/middletown-volunteer-fire-department.png"
+   "year": "2026"
   },
   {
    "id": "friends-of-washington-crossing-park",
    "name": "Friends of Washington Crossing Park",
    "cat": "nature",
-   "img": null,
+   "img": "friends-of-washington-crossing-park.webp",
    "added": "2026-10-26",
    "source": "https://papl8s.com/archives2026.html",
-   "year": "2026",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/friends-of-washington-park.png"
+   "year": "2026"
   },
   {
    "id": "communications-workers-of-america",
    "name": "Communications Workers of America",
    "cat": "other",
-   "img": null,
+   "img": "communications-workers-of-america.webp",
    "added": "2026-10-26",
    "source": "https://papl8s.com/archives2026.html",
-   "year": "2026",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/communications-workers-of-america.png"
+   "year": "2026"
   },
   {
    "id": "american-legion-auxiliary",
    "name": "American Legion Auxiliary",
    "cat": "veterans",
-   "img": null,
+   "img": "american-legion-auxiliary.webp",
    "added": "2026-10-26",
    "source": "https://papl8s.com/archives2026.html",
-   "year": "2026",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/american-legion-auxiliary.png"
+   "year": "2026"
   },
   {
    "id": "acorn-acres-wildlife-rehab",
    "name": "Acorn Acres Wildlife Rehab",
    "cat": "nature",
-   "img": null,
+   "img": "acorn-acres-wildlife-rehab.webp",
    "added": "2026-10-26",
    "source": "https://papl8s.com/archives2026.html",
-   "year": "2026",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/acorn-acres-wildlife-rehab.png"
+   "year": "2026"
   },
   {
    "id": "narberth-ambulance",
    "name": "Narberth Ambulance",
    "cat": "firstresponder",
-   "img": null,
+   "img": "narberth-ambulance.webp",
    "added": "2026-10-26",
    "source": "https://papl8s.com/archives2026.html",
-   "year": "2026",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/narberth_ambulance.png"
+   "year": "2026"
   },
   {
    "id": "swing-phi-swing-social-fellowship-inc",
    "name": "Swing Phi Swing Social Fellowship Inc.",
    "cat": "other",
-   "img": null,
+   "img": "swing-phi-swing-social-fellowship-inc.webp",
    "added": "2026-10-26",
    "source": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/documents/business-partners/driver-and-vehicle-services-bulletin/bulletin-26-12.pdf",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/approved-organizations/swing-phi-swing-social-fellowship-inc.jpg",
    "year": "2026"
   },
   {
    "id": "usa-semiquincentennial",
    "name": "USA Semiquincentennial",
    "cat": "other",
-   "img": null,
+   "img": "usa-semiquincentennial.webp",
    "added": "2026-10-26",
-   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
-   "img_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/vehicle-services/license-plates/special-fund/usa%20semiquincentennial%20registration%20plate.jpg"
+   "source": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html"
   }
  ],
  "checked_on": "2026-10-26"
