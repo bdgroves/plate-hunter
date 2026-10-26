@@ -1376,6 +1376,24 @@
    "added": "2026-10-26",
    "auto": true,
    "source": "https://www.scdmvonline.com/Vehicle-Owners/Registration/Plate-Gallery"
+  },
+  {
+   "id": "clemson-men-s-soccer",
+   "name": "Clemson Men's Soccer",
+   "cat": "sports",
+   "img": "clemson-men-s-soccer.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.scdmvonline.com/Vehicle-Owners/Registration/Plate-Gallery"
+  },
+  {
+   "id": "darlington-raceway-too-tough-to-tame",
+   "name": "Darlington Raceway: Too Tough to Tame",
+   "cat": "other",
+   "img": "darlington-raceway-too-tough-to-tame.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.scdmvonline.com/Vehicle-Owners/Registration/Plate-Gallery"
   }
  ]
 }

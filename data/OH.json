@@ -1646,6 +1646,150 @@
    "added": "2026-10-26",
    "auto": true,
    "source": "https://www.bmv.ohio.gov/vr-sp-geninfo.aspx"
+  },
+  {
+   "id": "cat-friendly",
+   "name": "Cat Friendly",
+   "cat": "other",
+   "img": "cat-friendly.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.bmv.ohio.gov/vr-sp-geninfo.aspx"
+  },
+  {
+   "id": "cleveland-browns",
+   "name": "Cleveland Browns",
+   "cat": "sports",
+   "img": "cleveland-browns.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.bmv.ohio.gov/vr-sp-geninfo.aspx"
+  },
+  {
+   "id": "cleveland-guardians",
+   "name": "Cleveland Guardians",
+   "cat": "other",
+   "img": "cleveland-guardians.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.bmv.ohio.gov/vr-sp-geninfo.aspx"
+  },
+  {
+   "id": "dog-friendly",
+   "name": "Dog Friendly",
+   "cat": "other",
+   "img": "dog-friendly.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.bmv.ohio.gov/vr-sp-geninfo.aspx"
+  },
+  {
+   "id": "iota-phi-theta",
+   "name": "Iota Phi Theta",
+   "cat": "other",
+   "img": "iota-phi-theta.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.bmv.ohio.gov/vr-sp-geninfo.aspx"
+  },
+  {
+   "id": "keep-ohio-beautiful",
+   "name": "Keep Ohio Beautiful",
+   "cat": "nature",
+   "img": "keep-ohio-beautiful.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.bmv.ohio.gov/vr-sp-geninfo.aspx"
+  },
+  {
+   "id": "nasa-glenn-research-center",
+   "name": "NASA Glenn Research Center",
+   "cat": "other",
+   "img": "nasa-glenn-research-center.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.bmv.ohio.gov/vr-sp-geninfo.aspx"
+  },
+  {
+   "id": "ohio-craft-brewers",
+   "name": "Ohio Craft Brewers",
+   "cat": "sports",
+   "img": "ohio-craft-brewers.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.bmv.ohio.gov/vr-sp-geninfo.aspx"
+  },
+  {
+   "id": "ohio-house-rabbit-rescue",
+   "name": "Ohio House Rabbit Rescue",
+   "cat": "firstresponder",
+   "img": "ohio-house-rabbit-rescue.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.bmv.ohio.gov/vr-sp-geninfo.aspx"
+  },
+  {
+   "id": "ohio-society-for-respiratory-care",
+   "name": "Ohio Society for Respiratory Care",
+   "cat": "charity",
+   "img": "ohio-society-for-respiratory-care.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.bmv.ohio.gov/vr-sp-geninfo.aspx"
+  },
+  {
+   "id": "save-a-warrior",
+   "name": "Save a Warrior",
+   "cat": "other",
+   "img": "save-a-warrior.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.bmv.ohio.gov/vr-sp-geninfo.aspx"
+  },
+  {
+   "id": "wild-ohio-sportsmen",
+   "name": "Wild Ohio Sportsmen",
+   "cat": "sports",
+   "img": "wild-ohio-sportsmen.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.bmv.ohio.gov/vr-sp-geninfo.aspx"
+  },
+  {
+   "id": "twinsburg-city-schools",
+   "name": "Twinsburg City Schools",
+   "cat": "charity",
+   "img": "twinsburg-city-schools.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.bmv.ohio.gov/vr-sp-geninfo.aspx"
+  },
+  {
+   "id": "west-virginia-university",
+   "name": "West Virginia University",
+   "cat": "colleges",
+   "img": "west-virginia-university.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.bmv.ohio.gov/vr-sp-geninfo.aspx"
+  },
+  {
+   "id": "daughters-of-the-american-revolution",
+   "name": "Daughters of the American Revolution",
+   "cat": "other",
+   "img": "daughters-of-the-american-revolution.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.bmv.ohio.gov/vr-sp-geninfo.aspx"
+  },
+  {
+   "id": "volunteer-rescue-service",
+   "name": "Volunteer Rescue Service",
+   "cat": "firstresponder",
+   "img": "volunteer-rescue-service.webp",
+   "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.bmv.ohio.gov/vr-sp-geninfo.aspx"
   }
  ]
 }

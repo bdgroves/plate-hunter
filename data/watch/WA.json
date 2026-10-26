@@ -5,12 +5,12 @@
   "/sites/default/files/styles/card_thumbnail/public/2023-03/blue-license-plate-tab-registration.jpg": {
    "src": "https://dol.wa.gov/sites/default/files/styles/card_thumbnail/public/2023-03/blue-license-plate-tab-registration.jpg?itok=CheC2PEy",
    "alt": "Vehicle registration paper work with sticker tag.",
-   "verdict": "pending:WA-vehicle-registration-paper-work-with-sti"
+   "verdict": "rejected"
   },
   "/sites/default/files/styles/card_thumbnail/public/2023-03/chevy-car-personalized-license-plate.jpg": {
    "src": "https://dol.wa.gov/sites/default/files/styles/card_thumbnail/public/2023-03/chevy-car-personalized-license-plate.jpg?itok=HUDC0Ujs",
    "alt": "Old traditional classic restored and polished Chevy pickup truck in blue with shiny chrome bumpers and grill with a personalized license plate that says '49 Chev'.",
-   "verdict": "pending:WA-old-traditional-classic-restored-and-pol"
+   "verdict": "rejected"
   },
   "/sites/default/files/styles/max_135_x_135/public/plates/4Hplate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/4Hplate.png?itok=N8Lz_TZJ",
@@ -35,7 +35,7 @@
   "/sites/default/files/styles/max_135_x_135/public/plates/DisabledParkingPlate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/DisabledParkingPlate.png?itok=5nO0g5IS",
    "alt": "Sample Disabled Parking license plate with SMPLE as the plate text, a wheelchair and DP letters on the left",
-   "verdict": "pending:WA-disabled-parking-with-smple-as-the-text-"
+   "verdict": "rejected"
   },
   "/sites/default/files/styles/max_135_x_135/public/plates/EWUplate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/EWUplate.png?itok=1SySEP1i",
@@ -335,7 +335,7 @@
   "/sites/default/files/styles/max_135_x_135/public/plates/seahawks-throwback-plate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/seahawks-throwback-plate.png?itok=N1iT-W48",
    "alt": "Seattle Seahawks throwback license plate",
-   "verdict": "pending:WA-seattle-seahawks-throwback"
+   "verdict": "rejected"
   },
   "/sites/default/files/styles/max_135_x_135/public/plates/seattle-univ-plate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/seattle-univ-plate.png?itok=CznFnLF4",
@@ -355,7 +355,7 @@
   "/sites/default/files/styles/max_135_x_135/public/plates/sounders-plate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/sounders-plate.png?itok=Aw0F2kku",
    "alt": "Image depicting the Seattle Sounders special license plate design; A green background with white text reading \"FC SMPLE\" and the Sounders' logo in blue",
-   "verdict": "pending:WA-depicting-the-seattle-sounders-design-a-"
+   "verdict": "rejected"
   },
   "/sites/default/files/styles/max_135_x_135/public/plates/squaredancePlate.png": {
    "src": "https://dol.wa.gov/sites/default/files/styles/max_135_x_135/public/plates/squaredancePlate.png?itok=i0vWjbK1",

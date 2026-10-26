@@ -52,6 +52,8 @@ UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
       "Chrome/124.0 Safari/537.36 plate-hunter-robot (+https://github.com/bdgroves/plate-hunter)")
 CHROME = re.compile(r"logo|icon|sprite|banner|header|footer|social|seal|flag|translate|spinner|avatar|"
                     r"facebook|twitter|instagram|youtube|linkedin|arrow|button|bg[-_]|background", re.I)
+SENTENCE = re.compile(r"\b(thank|showing|interest|click|here|depict\w*|featur\w*|with the|this|that|your|you|"
+                      r"order|apply|application|fee|fees|download|form|available)\b", re.I)
 GENERIC = re.compile(r"^(sample|image|img|photo|picture|plate|license plate|licence plate|special plate|"
                      r"specialty plate|click here|view|enlarge|new|thumbnail|\d+)$", re.I)
 SAME = 8          # difference-hash distance that still counts as the same plate
@@ -144,11 +146,20 @@ def clean_name(s: str) -> str:
     return s[:60]
 
 
-def plate_name(pic: dict) -> str:
+def page_name(pic: dict) -> str | None:
+    """A plate name the page itself gives (alt text, caption, nearby words), if it reads like one."""
     for cand in (pic.get("alt"), pic.get("after"), pic.get("before")):
         n = clean_name(cand or "")
-        if n and not GENERIC.match(n) and 3 <= len(n) <= 60 and re.search(r"[A-Za-z]{3}", n):
+        if (n and not GENERIC.match(n) and not SENTENCE.search(n) and 3 <= len(n) <= 48
+                and len(n.split()) <= 7 and re.search(r"[A-Za-z]{3}", n)):
             return n
+    return None
+
+
+def plate_name(pic: dict) -> str:
+    n = page_name(pic)
+    if n:
+        return n
     n = clean_name(urlparse(pic["src"]).path.rsplit("/", 1)[-1])
     return n.title() if re.search(r"[A-Za-z]{3}", n) else f"New plate {TODAY}"
 
@@ -362,7 +373,7 @@ def visit(page: dict, state: State, max_new: int, status: dict, report: list[str
 
     # On the first look at a page, everything unmatched goes to a person: that's when old
     # picture differences pile up. After that, a picture that appears is almost always a new plate.
-    first_scan = not any("verdict" in v for v in old.values())
+    first_scan = not snap.get("complete")
     candidates = []
     for path, pic in todo:
         try:
@@ -403,7 +414,7 @@ def visit(page: dict, state: State, max_new: int, status: dict, report: list[str
             pics[path] = {**pic, "verdict": f"plate:{same}"}
             continue
         sure = (not flood and not first_scan and not same and near <= PLATELIKE
-                and im.width >= 200 and not name.startswith("New plate"))
+                and im.width >= 200 and page_name(pic) is not None)
         if sure:
             pid = state.add(im, name, url)
             pics[path] = {**pic, "verdict": f"new:{pid}"}
@@ -432,8 +443,10 @@ def visit(page: dict, state: State, max_new: int, status: dict, report: list[str
     for v in pics.values():
         v.pop("before", None)
         v.pop("after", None)
-    new_snap = {"code": code, "url": url, "pictures": dict(sorted(pics.items()))}
-    old_cmp = {"code": snap.get("code"), "url": snap.get("url"), "pictures": snap.get("pictures")}
+    new_snap = {"code": code, "url": url, "complete": bool(snap.get("complete")) or not flood,
+                "pictures": dict(sorted(pics.items()))}
+    old_cmp = {"code": snap.get("code"), "url": snap.get("url"), "complete": snap.get("complete"),
+               "pictures": snap.get("pictures")}
     if new_snap != old_cmp:
         snap_file.write_text(json.dumps({**new_snap, "checked": TODAY}, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
     plates_seen = sum(1 for v in pics.values() if v["verdict"].startswith(("plate:", "new:")))

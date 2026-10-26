@@ -30,7 +30,7 @@
   "/dmv/-/media/dmv/images/celnursing.jpg": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/celnursing.jpg?sc_lang=en&rev=a70e565a73e74abc835b1b027d9d4aab&hash=CF40A751467957B75F9A3A2D86C7CB29",
    "alt": "",
-   "verdict": "new:thank-you-for-showing-interest-in-the-ce"
+   "verdict": "plate:celebrate-nursing"
   },
   "/dmv/-/media/dmv/images/cpc.png": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/cpc.png?sc_lang=en&rev=066fceb2b36c4672a871d5c5fdaeb0b8&hash=965982F27E4FE3B44FC50B3A6E83A773",
@@ -150,7 +150,7 @@
   "/dmv/-/media/dmv/images/organiza.jpg": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/organiza.jpg?sc_lang=en&h=78&w=147&rev=66b0bbfc84ca48ed96c2c6845390dce9&hash=43D578404D431935859FD2714AC28B09",
    "alt": "",
-   "verdict": "pending:CT-thank-you-for-your-interest-in-creating-"
+   "verdict": "rejected"
   },
   "/dmv/-/media/dmv/images/pet.gif": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/pet.gif?sc_lang=en&h=145&w=300&rev=79d37ef1170846b48272e259db607367&hash=CB5606F6514E82F13E807642D6869B7E",
@@ -160,7 +160,7 @@
   "/dmv/-/media/dmv/images/pizza-state-plate.jpg": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/pizza-state-plate.jpg?rev=9034fe5799ef4310b2246fa52b8cf9cd&hash=E23768474260F5659D730845520F087B",
    "alt": "",
-   "verdict": "pending:CT-thank-you-for-showing-an-interest-in-the"
+   "verdict": "new:the-pizza-state"
   },
   "/dmv/-/media/dmv/images/police-commissioner.gif": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/police-commissioner.gif?sc_lang=en&rev=c1320469d02844aea7e4f9311ab76430&hash=0EB2B0F7EF149A2CBDE86FDF6EB38377",
@@ -180,7 +180,7 @@
   "/dmv/-/media/dmv/images/red-sox.png": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/red-sox.png?sc_lang=en&h=197&w=375&rev=cecc39a0fc26493eb816c38b9227f280&hash=695C3E2BFB73ED7AC1B369AACED0E8C4",
    "alt": "",
-   "verdict": "new:thank-you-for-showing-interest-in-the-re"
+   "verdict": "plate:red-sox-foundation"
   },
   "/dmv/-/media/dmv/images/savelakes.jpg": {
    "src": "https://portal.ct.gov/dmv/-/media/dmv/images/savelakes.jpg?sc_lang=en&h=150&w=310&rev=67a2941422e3442aacf0101706a63bec&hash=188AB62BD246E85031DB29CC803B61EF",

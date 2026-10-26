@@ -59,7 +59,7 @@
   "code": "CT",
   "name": "Connecticut",
   "file": "data/CT.json",
-  "count": 72,
+  "count": 71,
   "rated": false,
   "checked": false
  },
@@ -291,7 +291,7 @@
   "code": "OH",
   "name": "Ohio",
   "file": "data/OH.json",
-  "count": 269,
+  "count": 285,
   "rated": false,
   "checked": false
  },
@@ -331,7 +331,7 @@
   "code": "SC",
   "name": "South Carolina",
   "file": "data/SC.json",
-  "count": 224,
+  "count": 226,
   "rated": false,
   "checked": false
  },
