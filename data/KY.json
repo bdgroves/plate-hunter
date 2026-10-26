@@ -834,21 +834,19 @@
    "id": "pow-mia",
    "name": "POW-MIA",
    "cat": "veterans",
-   "img": null,
+   "img": "pow-mia.webp",
    "added": "2026-10-26",
    "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
-   "year": "2024",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=49dadb8c-5423-43d6-a404-cabd0759e6d8&licensePlateId=08bed0e9-8719-42a2-b648-29c91540aceb"
+   "year": "2024"
   },
   {
    "id": "zeta-phi-beta-sorority-inc",
    "name": "Zeta Phi Beta Sorority, Inc.",
    "cat": "other",
-   "img": null,
+   "img": "zeta-phi-beta-sorority-inc.webp",
    "added": "2026-10-26",
    "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
-   "year": "2024",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=1ec7d4c6-2f1a-4b3b-9374-f5008742722c&licensePlateId=afcf42f9-c0d5-440e-b823-35d44852cd70"
+   "year": "2024"
   },
   {
    "id": "operation-lifesaver-inc",
@@ -863,61 +861,55 @@
    "id": "omega-psi-fraternity",
    "name": "Omega Psi Fraternity",
    "cat": "other",
-   "img": null,
+   "img": "omega-psi-fraternity.webp",
    "added": "2026-10-26",
    "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
-   "year": "2024",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=58a299f3-d1bd-45fa-9e9c-10a8eabc0d59&licensePlateId=67bc2cb4-5196-4069-9810-ae753bd01c74"
+   "year": "2024"
   },
   {
    "id": "kentucky-casa-network",
    "name": "Kentucky CASA Network",
    "cat": "charity",
-   "img": null,
+   "img": "kentucky-casa-network.webp",
    "added": "2026-10-26",
    "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
-   "year": "2024",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=2d87131b-f168-4f1f-a3a5-4f7a8af63baf&licensePlateId=01a32d33-b36d-4606-a6f9-ea8105ab9ae0"
+   "year": "2024"
   },
   {
    "id": "kentuckians-for-the-arts",
    "name": "Kentuckians for the Arts",
    "cat": "charity",
-   "img": null,
+   "img": "kentuckians-for-the-arts.webp",
    "added": "2026-10-26",
    "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
-   "year": "2024",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=71df6b9a-61ef-4d5e-b86f-352549e03f01&licensePlateId=1d2b4aad-a798-40ff-91cc-d93ff6787188"
+   "year": "2024"
   },
   {
    "id": "kappa-alpha-psi",
    "name": "Kappa Alpha Psi",
    "cat": "other",
-   "img": null,
+   "img": "kappa-alpha-psi.webp",
    "added": "2026-10-26",
    "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
-   "year": "2024",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=2eb50c6e-7d62-4194-8aea-017183188c07&licensePlateId=a080e781-b576-45c9-8a26-1d57fbec27d1"
+   "year": "2024"
   },
   {
    "id": "alpha-kappa-alpha-sorority",
    "name": "Alpha Kappa Alpha Sorority",
    "cat": "other",
-   "img": null,
+   "img": "alpha-kappa-alpha-sorority.webp",
    "added": "2026-10-26",
    "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
-   "year": "2024",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=e5091ba7-f41a-443e-b586-88fcebd0718b&licensePlateId=66b119a3-9e8c-4ed1-9ee0-c4339271d815"
+   "year": "2024"
   },
   {
    "id": "be-kind",
    "name": "Be Kind",
    "cat": "charity",
-   "img": null,
+   "img": "be-kind.webp",
    "added": "2026-10-26",
    "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
-   "year": "2024",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=8f17d33c-94d0-438b-9f93-9a928e92ba65&licensePlateId=9525cabc-572f-41fa-b0c7-b0a8d13f1062"
+   "year": "2024"
   },
   {
    "id": "bardstown-community",
@@ -932,131 +924,118 @@
    "id": "ohv4ky",
    "name": "OHV4KY",
    "cat": "hobby",
-   "img": null,
+   "img": "ohv4ky.webp",
    "added": "2026-10-26",
    "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
-   "year": "2024",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=4fb02d27-b7a7-4761-bead-c41650b28e6e&licensePlateId=2821a914-6e7d-499d-a8f0-82be5715da68"
+   "year": "2024"
   },
   {
    "id": "kentucky-nurses-foundation",
    "name": "Kentucky Nurses Foundation",
    "cat": "other",
-   "img": null,
+   "img": "kentucky-nurses-foundation.webp",
    "added": "2026-10-26",
    "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
-   "year": "2024",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=c5319fa7-cb0b-4a0a-b461-297a9b3b456d&licensePlateId=21af9f05-77e2-4ce8-9e51-0d0c12a14f1a"
+   "year": "2024"
   },
   {
    "id": "congenital-heart-disease",
    "name": "Congenital Heart Disease",
    "cat": "charity",
-   "img": null,
+   "img": "congenital-heart-disease.webp",
    "added": "2026-10-26",
    "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
-   "year": "2024",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=2c462341-c418-4e43-8aed-6976aa9fab34&licensePlateId=fc41e693-7d70-4595-89a3-b4ec4cfb4f06"
+   "year": "2024"
   },
   {
    "id": "c-o-p-s",
    "name": "C.O.P.S.",
    "cat": "firstresponder",
-   "img": null,
+   "img": "c-o-p-s.webp",
    "added": "2026-10-26",
    "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
-   "year": "2024",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=ff8ca9e3-5067-4e7f-9895-d09e644a510b&licensePlateId=c7b6018e-1dea-4491-91b7-216f1222da8f"
+   "year": "2024"
   },
   {
    "id": "colon-cancer-prevention",
    "name": "Colon Cancer Prevention",
    "cat": "charity",
-   "img": null,
+   "img": "colon-cancer-prevention.webp",
    "added": "2026-10-26",
    "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
-   "year": "2024",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=228a8d50-19e7-4afd-b643-cccb3ec0b58f&licensePlateId=4f52a444-a703-4ac8-8d25-304eb8e93387"
+   "year": "2024"
   },
   {
    "id": "101st-airborne-division-air-assault",
    "name": "101st Airborne Division (Air Assault)",
    "cat": "military",
-   "img": null,
+   "img": "101st-airborne-division-air-assault.webp",
    "added": "2026-10-26",
    "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
-   "year": "2024",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=d355e8c9-45cc-44e3-a217-990b7cf1888f&licensePlateId=3c93b33d-0e8f-4891-9c8b-c52b2b3cb6a8"
+   "year": "2024"
   },
   {
    "id": "160th-special-operations-aviation-regime",
    "name": "160th Special Operations Aviation Regiment",
    "cat": "military",
-   "img": null,
+   "img": "160th-special-operations-aviation-regime.webp",
    "added": "2026-10-26",
    "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
-   "year": "2024",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=4dbea398-5422-4fce-9505-bd8caac39ab4&licensePlateId=a201b1f5-d309-42bf-bba5-61a09c8e4c4d"
+   "year": "2024"
   },
   {
    "id": "5th-special-forces-group-airborne",
    "name": "5th Special Forces Group (Airborne)",
    "cat": "military",
-   "img": null,
+   "img": "5th-special-forces-group-airborne.webp",
    "added": "2026-10-26",
    "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
-   "year": "2024",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=b9c25340-2d2d-4708-a61c-d4c88dae60f5&licensePlateId=c6d62e40-1b1b-45da-b191-137f9d1ddecf"
+   "year": "2024"
   },
   {
    "id": "u-s-army-human-resources-command",
    "name": "U.S. Army Human Resources Command",
    "cat": "military",
-   "img": null,
+   "img": "u-s-army-human-resources-command.webp",
    "added": "2026-10-26",
    "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
-   "year": "2024",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=c13c5e08-43d8-40b0-adb2-1bfc13f0246a&licensePlateId=cdd1c9c8-b80e-400c-8987-4f117523fe5a"
+   "year": "2024"
   },
   {
    "id": "u-s-army-recruiting-command",
    "name": "U.S. Army Recruiting Command",
    "cat": "military",
-   "img": null,
+   "img": "u-s-army-recruiting-command.webp",
    "added": "2026-10-26",
    "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
-   "year": "2024",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=4f6519ef-a28d-4487-904e-67f3f1bbcd4f&licensePlateId=7de8f4f0-69b2-4181-9843-86be0b2fc11c"
+   "year": "2024"
   },
   {
    "id": "u-s-army-cadet-command",
    "name": "U.S. Army Cadet Command",
    "cat": "military",
-   "img": null,
+   "img": "u-s-army-cadet-command.webp",
    "added": "2026-10-26",
    "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
-   "year": "2024",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=4d743904-e970-4d31-86e5-6690db812777&licensePlateId=0636bb41-eb61-4d42-8f6a-2778cc076d91"
+   "year": "2024"
   },
   {
    "id": "u-s-army-v-corps",
    "name": "U.S. Army V Corps",
    "cat": "military",
-   "img": null,
+   "img": "u-s-army-v-corps.webp",
    "added": "2026-10-26",
    "source": "https://drive.ky.gov/KAVIS/New-Special-License-Plates.pdf",
-   "year": "2024",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=25ccc015-8b02-4f79-85e1-752b3ccec413&licensePlateId=282b4b42-0fbd-4854-ad5a-007073b374d4"
+   "year": "2024"
   },
   {
    "id": "beautify-the-bluegrass",
    "name": "Beautify the Bluegrass",
    "cat": "nature",
-   "img": null,
+   "img": "beautify-the-bluegrass.webp",
    "added": "2026-10-26",
    "source": "https://www.wbko.com/2026/05/16/beautify-bluegrass-license-plate-now-available/",
-   "year": "2026",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=701222df-1a6f-4aa7-9957-9252a1eeb98c&licensePlateId=593f1769-1aed-4882-8d60-bc4131a0aa32"
+   "year": "2026"
   },
   {
    "id": "friends-of-hemp",
@@ -1070,309 +1049,275 @@
    "id": "cities-drive-kentucky",
    "name": "Cities Drive Kentucky",
    "cat": "charity",
-   "img": null,
+   "img": "cities-drive-kentucky.webp",
    "added": "2026-10-26",
    "source": "https://linknky.com/press-releases/2026/03/05/press-release-cities-drive-kentucky-license-plate-hits-production-supporting-disaster-relief-for-cities-statewide",
-   "year": "2026",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=8e17fdc3-e75d-45a3-bca6-8e7bb85dbb91&licensePlateId=465d248b-0af6-45fb-a2d9-0fa11a97a7a8"
+   "year": "2026"
   },
   {
    "id": "friends-of-agriculture",
    "name": "Friends of Agriculture",
    "cat": "other",
-   "img": null,
+   "img": "friends-of-agriculture.webp",
    "added": "2026-10-26",
    "source": "https://hoptownchronicle.org/friends-of-agriculture-license-plate-now-available-for-purchase/",
-   "year": "2026",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=f498cc53-1f7d-413c-94ea-466873fdd0c9&licensePlateId=8046eedc-3613-4330-b06c-f27bde8238c2"
+   "year": "2026"
   },
   {
    "id": "aerial-achievement-medal",
    "name": "Aerial Achievement Medal",
    "cat": "military",
-   "img": null,
+   "img": "aerial-achievement-medal.webp",
    "added": "2026-10-26",
-   "source": "https://secure2.kentucky.gov/kytc/plates/web/",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=922a24e9-9520-46ac-8786-587f8fd63172&licensePlateId=590126f2-67c9-4eb6-b5ad-2d82fe498bcf"
+   "source": "https://secure2.kentucky.gov/kytc/plates/web/"
   },
   {
    "id": "air-medal",
    "name": "Air Medal",
    "cat": "military",
-   "img": null,
+   "img": "air-medal.webp",
    "added": "2026-10-26",
-   "source": "https://secure2.kentucky.gov/kytc/plates/web/",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=dd6b7f75-3c9a-4292-a272-9c33a6b2b68b&licensePlateId=c62c785e-2f61-4da6-a84b-01284cc0194a"
+   "source": "https://secure2.kentucky.gov/kytc/plates/web/"
   },
   {
    "id": "army-combat-action-badge",
    "name": "Army Combat Action Badge",
    "cat": "military",
-   "img": null,
+   "img": "army-combat-action-badge.webp",
    "added": "2026-10-26",
-   "source": "https://secure2.kentucky.gov/kytc/plates/web/",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=6af43a64-b51e-48c3-84c3-d19c69228f7f&licensePlateId=55beebe2-4cc5-4caa-9aba-7305a6d56853"
+   "source": "https://secure2.kentucky.gov/kytc/plates/web/"
   },
   {
    "id": "army-combat-infantry-badge",
    "name": "Army Combat Infantry Badge",
    "cat": "military",
-   "img": null,
+   "img": "army-combat-infantry-badge.webp",
    "added": "2026-10-26",
-   "source": "https://secure2.kentucky.gov/kytc/plates/web/",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=dd198b4b-5995-48cc-96ef-91531af5de46&licensePlateId=177150b5-d680-4c31-99c1-da015d520b51"
+   "source": "https://secure2.kentucky.gov/kytc/plates/web/"
   },
   {
    "id": "distinguished-flying-cross",
    "name": "Distinguished Flying Cross",
    "cat": "military",
-   "img": null,
+   "img": "distinguished-flying-cross.webp",
    "added": "2026-10-26",
-   "source": "https://secure2.kentucky.gov/kytc/plates/web/",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=e485032c-5738-4440-b732-ba77a8af6b66&licensePlateId=d774aea4-1c60-4b0e-bf79-c071dbfd66fa"
+   "source": "https://secure2.kentucky.gov/kytc/plates/web/"
   },
   {
    "id": "legion-of-merit-medal",
    "name": "Legion of Merit Medal",
    "cat": "military",
-   "img": null,
+   "img": "legion-of-merit-medal.webp",
    "added": "2026-10-26",
-   "source": "https://secure2.kentucky.gov/kytc/plates/web/",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=318db8d9-d8f0-40d7-b7d7-44f08661f64e&licensePlateId=cfde96a0-d896-4ba0-8d5f-216beb1efe39"
+   "source": "https://secure2.kentucky.gov/kytc/plates/web/"
   },
   {
    "id": "space-force",
    "name": "Space Force",
    "cat": "military",
-   "img": null,
+   "img": "space-force.webp",
    "added": "2026-10-26",
-   "source": "https://secure2.kentucky.gov/kytc/plates/web/",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=a2801a3f-11f5-4d87-a794-7eeeeee7ef6f&licensePlateId=af5214f5-21fc-46b2-8c82-8d12425ba340"
+   "source": "https://secure2.kentucky.gov/kytc/plates/web/"
   },
   {
    "id": "kctcs",
    "name": "KCTCS",
    "cat": "colleges",
-   "img": null,
+   "img": "kctcs.webp",
    "added": "2026-10-26",
-   "source": "https://secure2.kentucky.gov/kytc/plates/web/",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=66efa51e-bc34-4d55-b1e7-edaf57ce3bf3&licensePlateId=f1d69f3c-290a-4f2c-b687-578e9945ce08"
+   "source": "https://secure2.kentucky.gov/kytc/plates/web/"
   },
   {
    "id": "alpha-phi-alpha",
    "name": "Alpha Phi Alpha",
    "cat": "other",
-   "img": null,
+   "img": "alpha-phi-alpha.webp",
    "added": "2026-10-26",
-   "source": "https://secure2.kentucky.gov/kytc/plates/web/",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=9698b1ff-a2a5-4401-b673-8011bbb5728a&licensePlateId=ed2f1fe0-ea00-4c7f-888f-4f5f022941ef"
+   "source": "https://secure2.kentucky.gov/kytc/plates/web/"
   },
   {
    "id": "american-saddlebred",
    "name": "American Saddlebred",
    "cat": "hobby",
-   "img": null,
+   "img": "american-saddlebred.webp",
    "added": "2026-10-26",
-   "source": "https://secure2.kentucky.gov/kytc/plates/web/",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=3e346f9f-b8e9-4360-a5ef-abf04d3a7344&licensePlateId=421aae62-924a-4b53-96df-79d4ae250e04"
+   "source": "https://secure2.kentucky.gov/kytc/plates/web/"
   },
   {
    "id": "appalachian-valley-autism",
    "name": "Appalachian Valley Autism",
    "cat": "charity",
-   "img": null,
+   "img": "appalachian-valley-autism.webp",
    "added": "2026-10-26",
-   "source": "https://secure2.kentucky.gov/kytc/plates/web/",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=019d1a49-aa8a-4bdb-860b-ea7ca3202fd0&licensePlateId=0823e224-bbd0-4725-854a-6e9438553392"
+   "source": "https://secure2.kentucky.gov/kytc/plates/web/"
   },
   {
    "id": "blackout",
    "name": "Blackout",
    "cat": "other",
-   "img": null,
+   "img": "blackout.webp",
    "added": "2026-10-26",
-   "source": "https://secure2.kentucky.gov/kytc/plates/web/",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=7a56c27a-1989-4431-8738-cae3d255b020&licensePlateId=93a657f7-8c9f-4746-b0e3-797576d0eaa5"
+   "source": "https://secure2.kentucky.gov/kytc/plates/web/"
   },
   {
    "id": "breeders-cup",
    "name": "Breeders' Cup",
    "cat": "sports",
-   "img": null,
+   "img": "breeders-cup.webp",
    "added": "2026-10-26",
-   "source": "https://secure2.kentucky.gov/kytc/plates/web/",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=7eefc878-fadc-42d6-96c9-ba90883a6485&licensePlateId=7b560dc3-2895-45aa-bbcb-e8e93dbd0500"
+   "source": "https://secure2.kentucky.gov/kytc/plates/web/"
   },
   {
    "id": "down-syndrome-kentucky",
    "name": "Down Syndrome Kentucky",
    "cat": "charity",
-   "img": null,
+   "img": "down-syndrome-kentucky.webp",
    "added": "2026-10-26",
-   "source": "https://secure2.kentucky.gov/kytc/plates/web/",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=429b4d8d-d9cf-4c8f-9bfe-0e0e45be5149&licensePlateId=0a2b9d37-2e21-4e3d-91f7-a21a45d1d0cb"
+   "source": "https://secure2.kentucky.gov/kytc/plates/web/"
   },
   {
    "id": "ems-memorial",
    "name": "EMS Memorial",
    "cat": "firstresponder",
-   "img": null,
+   "img": "ems-memorial.webp",
    "added": "2026-10-26",
-   "source": "https://secure2.kentucky.gov/kytc/plates/web/",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=b9932d69-03c5-414f-ac4f-b8b0aeaace71&licensePlateId=a638d392-c977-4078-8dbb-0d043b7b6b37"
+   "source": "https://secure2.kentucky.gov/kytc/plates/web/"
   },
   {
    "id": "governor-s-office-of-music",
    "name": "Governor's Office of Music",
    "cat": "other",
-   "img": null,
+   "img": "governor-s-office-of-music.webp",
    "added": "2026-10-26",
-   "source": "https://secure2.kentucky.gov/kytc/plates/web/",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=2dc024c0-ef8f-45e2-8cfb-722d7bf74335&licensePlateId=20f3c8ea-932c-4ca7-9a27-2093a9f1ef4c"
+   "source": "https://secure2.kentucky.gov/kytc/plates/web/"
   },
   {
    "id": "kentucky-beekeepers",
    "name": "Kentucky Beekeepers",
    "cat": "hobby",
-   "img": null,
+   "img": "kentucky-beekeepers.webp",
    "added": "2026-10-26",
-   "source": "https://secure2.kentucky.gov/kytc/plates/web/",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=218ce188-4450-4e4d-89c6-d50ab1a7a439&licensePlateId=cf311066-7ed1-4a7b-b7f2-c55d542819ec"
+   "source": "https://secure2.kentucky.gov/kytc/plates/web/"
   },
   {
    "id": "kentucky-cattlemen-s-foundation",
    "name": "Kentucky Cattlemen's Foundation",
    "cat": "other",
-   "img": null,
+   "img": "kentucky-cattlemen-s-foundation.webp",
    "added": "2026-10-26",
-   "source": "https://secure2.kentucky.gov/kytc/plates/web/",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=a7a21dc3-2b9f-4943-9287-17beb18e3ec9&licensePlateId=cf77c9ad-8138-4781-b117-1fbdce3081f5"
+   "source": "https://secure2.kentucky.gov/kytc/plates/web/"
   },
   {
    "id": "kentucky-professional-fire-fighter",
    "name": "Kentucky Professional Fire Fighter",
    "cat": "firstresponder",
-   "img": null,
+   "img": "kentucky-professional-fire-fighter.webp",
    "added": "2026-10-26",
-   "source": "https://secure2.kentucky.gov/kytc/plates/web/",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=eab438f0-8092-4663-ae04-002762d599ef&licensePlateId=fe8f7512-fadc-4120-8f95-83dc7dadf98e"
+   "source": "https://secure2.kentucky.gov/kytc/plates/web/"
   },
   {
    "id": "kentucky-teamsters",
    "name": "Kentucky Teamsters",
    "cat": "other",
-   "img": null,
+   "img": "kentucky-teamsters.webp",
    "added": "2026-10-26",
-   "source": "https://secure2.kentucky.gov/kytc/plates/web/",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=0c51e663-e2c6-4440-b547-dd0a83617341&licensePlateId=59a0ac39-7a83-4d33-9554-3a5c2d7743e0"
+   "source": "https://secure2.kentucky.gov/kytc/plates/web/"
   },
   {
    "id": "kentucky-trucking",
    "name": "Kentucky Trucking",
    "cat": "other",
-   "img": null,
+   "img": "kentucky-trucking.webp",
    "added": "2026-10-26",
-   "source": "https://secure2.kentucky.gov/kytc/plates/web/",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=e8f2057c-339a-43bb-b52a-ca3d10ef13fd&licensePlateId=dcd7b9c5-fe22-41db-b1f3-46f21612df67"
+   "source": "https://secure2.kentucky.gov/kytc/plates/web/"
   },
   {
    "id": "lexington-sporting-club",
    "name": "Lexington Sporting Club",
    "cat": "sports",
-   "img": null,
+   "img": "lexington-sporting-club.webp",
    "added": "2026-10-26",
-   "source": "https://secure2.kentucky.gov/kytc/plates/web/",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=028f9202-3f6c-446f-9934-05cdb0ccad33&licensePlateId=b17cd5fb-4642-453c-961e-7dd02ee2e1d9"
+   "source": "https://secure2.kentucky.gov/kytc/plates/web/"
   },
   {
    "id": "mental-health-awareness",
    "name": "Mental Health Awareness",
    "cat": "charity",
-   "img": null,
+   "img": "mental-health-awareness.webp",
    "added": "2026-10-26",
-   "source": "https://secure2.kentucky.gov/kytc/plates/web/",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=677808a5-b52c-42af-89b6-bf45ab734843&licensePlateId=9ebcc289-8775-481f-aa80-5c09fbaa7124"
+   "source": "https://secure2.kentucky.gov/kytc/plates/web/"
   },
   {
    "id": "never-alone-nick",
    "name": "Never Alone Nick",
    "cat": "charity",
-   "img": null,
+   "img": "never-alone-nick.webp",
    "added": "2026-10-26",
-   "source": "https://secure2.kentucky.gov/kytc/plates/web/",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=66f7e156-ae3c-4d1f-b71d-8461467ba109&licensePlateId=18d28217-8b71-4838-86bb-8fe5ff99f81e"
+   "source": "https://secure2.kentucky.gov/kytc/plates/web/"
   },
   {
    "id": "parkinson-s-awareness",
    "name": "Parkinson's Awareness",
    "cat": "charity",
-   "img": null,
+   "img": "parkinson-s-awareness.webp",
    "added": "2026-10-26",
-   "source": "https://secure2.kentucky.gov/kytc/plates/web/",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=c2ccb496-d0eb-4c3e-9069-5002e29b137e&licensePlateId=4976d0e7-6af8-42d5-9c5f-cfc39a7fe683"
+   "source": "https://secure2.kentucky.gov/kytc/plates/web/"
   },
   {
    "id": "phi-beta-sigma",
    "name": "Phi Beta Sigma",
    "cat": "other",
-   "img": null,
+   "img": "phi-beta-sigma.webp",
    "added": "2026-10-26",
-   "source": "https://secure2.kentucky.gov/kytc/plates/web/",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=f94f5d6c-089e-4576-926b-13ab31c80201&licensePlateId=7a72ca9a-d47a-44ed-819b-bffc5ede1f76"
+   "source": "https://secure2.kentucky.gov/kytc/plates/web/"
   },
   {
    "id": "promote-peace",
    "name": "Promote Peace",
    "cat": "other",
-   "img": null,
+   "img": "promote-peace.webp",
    "added": "2026-10-26",
-   "source": "https://secure2.kentucky.gov/kytc/plates/web/",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=20b1d63e-038a-4bc2-941e-967e04b5710e&licensePlateId=5e874230-2df1-47de-bf0f-73ddcea2dbb9"
+   "source": "https://secure2.kentucky.gov/kytc/plates/web/"
   },
   {
    "id": "red-river-gorge",
    "name": "Red River Gorge",
    "cat": "nature",
-   "img": null,
+   "img": "red-river-gorge.webp",
    "added": "2026-10-26",
-   "source": "https://secure2.kentucky.gov/kytc/plates/web/",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=4b10fa8f-2386-4ee0-bda1-1093b0c7754b&licensePlateId=58d990c7-738b-4463-97aa-ca9d415db068"
+   "source": "https://secure2.kentucky.gov/kytc/plates/web/"
   },
   {
    "id": "saint-xavier-high-school",
    "name": "Saint Xavier High School",
    "cat": "other",
-   "img": null,
+   "img": "saint-xavier-high-school.webp",
    "added": "2026-10-26",
-   "source": "https://secure2.kentucky.gov/kytc/plates/web/",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=abe016ad-36b1-4a6a-9d0d-d61c7fc89e9c&licensePlateId=aefbfd59-a3a6-41a8-ae64-0dedd952e2cb"
+   "source": "https://secure2.kentucky.gov/kytc/plates/web/"
   },
   {
    "id": "shaker-village",
    "name": "Shaker Village",
    "cat": "other",
-   "img": null,
+   "img": "shaker-village.webp",
    "added": "2026-10-26",
-   "source": "https://secure2.kentucky.gov/kytc/plates/web/",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=b933f0b6-48e6-40ac-94bc-1b66d8556123&licensePlateId=1fa22dd4-5c7b-485a-8e3b-75a516b4269e"
+   "source": "https://secure2.kentucky.gov/kytc/plates/web/"
   },
   {
    "id": "suicide-prevention",
    "name": "Suicide Prevention",
    "cat": "charity",
-   "img": null,
+   "img": "suicide-prevention.webp",
    "added": "2026-10-26",
-   "source": "https://secure2.kentucky.gov/kytc/plates/web/",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=e2b3b64b-38ab-43d7-9aba-e210f97d3a69&licensePlateId=230408ed-cd32-47c4-8a99-514c33174f44"
+   "source": "https://secure2.kentucky.gov/kytc/plates/web/"
   },
   {
    "id": "usa-cares",
    "name": "USA Cares",
    "cat": "veterans",
-   "img": null,
+   "img": "usa-cares.webp",
    "added": "2026-10-26",
-   "source": "https://secure2.kentucky.gov/kytc/plates/web/",
-   "img_url": "https://secure2.kentucky.gov/kytc/plates/web/LicensePlate/GenerateImage?imageId=7eec268b-91f5-4526-ba14-9554def2399e&licensePlateId=0ae2e75d-a614-4252-befd-cf70e94b5953"
+   "source": "https://secure2.kentucky.gov/kytc/plates/web/"
   }
  ],
  "checked_on": "2026-10-26"

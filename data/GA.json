@@ -1744,21 +1744,19 @@
    "id": "america-first",
    "name": "America First",
    "cat": "other",
-   "img": null,
+   "img": "america-first.webp",
    "added": "2026-10-26",
    "source": "https://www.wctv.tv/2025/12/30/america-first-license-plate-available-january/",
-   "year": "2026",
-   "img_url": "https://mvd.dor.ga.gov/motor/plates/images/2004/A8_Large.jpg"
+   "year": "2026"
   },
   {
    "id": "selfless-service-georgia-veterans-servic",
    "name": "Selfless Service (Georgia Veterans Service Foundation)",
    "cat": "veterans",
-   "img": null,
+   "img": "selfless-service-georgia-veterans-servic.webp",
    "added": "2026-10-26",
    "source": "https://www.atlantanewsfirst.com/2026/01/02/georgia-releases-new-specialty-license-plates-2026/",
-   "year": "2026",
-   "img_url": "https://mvd.dor.ga.gov/motor/plates/images/2004/VT_Large.jpg"
+   "year": "2026"
   },
   {
    "id": "georgia-state-parks",
@@ -1782,94 +1780,84 @@
    "id": "alabama-state-university",
    "name": "Alabama State University",
    "cat": "colleges",
-   "img": null,
+   "img": "alabama-state-university.webp",
    "added": "2026-10-26",
    "source": "https://mvd.dor.ga.gov/motor/plates/PlateDetails.aspx?PlateCode=S8",
-   "img_url": "https://mvd.dor.ga.gov/motor/plates/images/2004/S8_Large.jpg",
    "year": "2025-2026"
   },
   {
    "id": "shepherd-center",
    "name": "Shepherd Center",
    "cat": "charity",
-   "img": null,
+   "img": "shepherd-center.webp",
    "added": "2026-10-26",
    "source": "https://mvd.dor.ga.gov/motor/plates/PlateDetails.aspx?PlateCode=C6",
-   "img_url": "https://mvd.dor.ga.gov/motor/plates/images/2004/C6_Large.jpg",
    "year": "2025-2026"
   },
   {
    "id": "southern-university",
    "name": "Southern University",
    "cat": "colleges",
-   "img": null,
+   "img": "southern-university.webp",
    "added": "2026-10-26",
    "source": "https://mvd.dor.ga.gov/motor/plates/PlateDetails.aspx?PlateCode=S7",
-   "img_url": "https://mvd.dor.ga.gov/motor/plates/images/2004/S7_Large.jpg",
    "year": "2025-2026"
   },
   {
    "id": "samford-university",
    "name": "Samford University",
    "cat": "colleges",
-   "img": null,
+   "img": "samford-university.webp",
    "added": "2026-10-26",
-   "source": "https://mvd.dor.ga.gov/motor/plates/PlateDetails.aspx?PlateCode=MI",
-   "img_url": "https://mvd.dor.ga.gov/motor/plates/images/2004/MI_Large.jpg"
+   "source": "https://mvd.dor.ga.gov/motor/plates/PlateDetails.aspx?PlateCode=MI"
   },
   {
    "id": "national-guard-retired",
    "name": "National Guard - Retired",
    "cat": "military",
-   "img": null,
+   "img": "national-guard-retired.webp",
    "added": "2026-10-26",
-   "source": "https://mvd.dor.ga.gov/motor/plates/PlateDetails.aspx?PlateCode=RZ",
-   "img_url": "https://mvd.dor.ga.gov/motor/plates/images/2004/RZ_Large.jpg"
+   "source": "https://mvd.dor.ga.gov/motor/plates/PlateDetails.aspx?PlateCode=RZ"
   },
   {
    "id": "reserve-air-force-retired",
    "name": "Reserve Air Force - Retired",
    "cat": "military",
-   "img": null,
+   "img": "reserve-air-force-retired.webp",
    "added": "2026-10-26",
-   "source": "https://mvd.dor.ga.gov/motor/plates/PlateDetails.aspx?PlateCode=R2",
-   "img_url": "https://mvd.dor.ga.gov/motor/plates/images/2004/R2_Large.jpg"
+   "source": "https://mvd.dor.ga.gov/motor/plates/PlateDetails.aspx?PlateCode=R2"
   },
   {
    "id": "reserve-army-retired",
    "name": "Reserve Army - Retired",
    "cat": "military",
-   "img": null,
+   "img": "reserve-army-retired.webp",
    "added": "2026-10-26",
-   "source": "https://mvd.dor.ga.gov/motor/plates/PlateDetails.aspx?PlateCode=R3",
-   "img_url": "https://mvd.dor.ga.gov/motor/plates/images/2004/R3_Large.jpg"
+   "source": "https://mvd.dor.ga.gov/motor/plates/PlateDetails.aspx?PlateCode=R3"
   },
   {
    "id": "reserve-coast-guard-retired",
    "name": "Reserve Coast Guard - Retired",
    "cat": "military",
-   "img": null,
+   "img": "reserve-coast-guard-retired.webp",
    "added": "2026-10-26",
-   "source": "https://mvd.dor.ga.gov/motor/plates/PlateDetails.aspx?PlateCode=R4",
-   "img_url": "https://mvd.dor.ga.gov/motor/plates/images/2004/R4_Large.jpg"
+   "source": "https://mvd.dor.ga.gov/motor/plates/PlateDetails.aspx?PlateCode=R4"
   },
   {
    "id": "reserve-marine-retired",
    "name": "Reserve Marine - Retired",
    "cat": "military",
-   "img": null,
+   "img": "reserve-marine-retired.webp",
    "added": "2026-10-26",
-   "source": "https://mvd.dor.ga.gov/motor/plates/PlateDetails.aspx?PlateCode=R5",
-   "img_url": "https://mvd.dor.ga.gov/motor/plates/images/2004/R5_Large.jpg"
+   "source": "https://mvd.dor.ga.gov/motor/plates/PlateDetails.aspx?PlateCode=R5"
   },
   {
    "id": "reserve-navy-retired",
    "name": "Reserve Navy - Retired",
    "cat": "military",
-   "img": null,
+   "img": "reserve-navy-retired.webp",
    "added": "2026-10-26",
-   "source": "https://mvd.dor.ga.gov/motor/plates/PlateDetails.aspx?PlateCode=R6",
-   "img_url": "https://mvd.dor.ga.gov/motor/plates/images/2004/R6_Large.jpg"
+   "source": "https://mvd.dor.ga.gov/motor/plates/PlateDetails.aspx?PlateCode=R6"
   }
  ],
  "checked_on": "2026-10-26"

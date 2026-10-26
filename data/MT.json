@@ -1787,38 +1787,34 @@
    "id": "gallatin-county-open-lands-board",
    "name": "Gallatin County Open Lands Board",
    "cat": "nature",
-   "img": null,
+   "img": "gallatin-county-open-lands-board.webp",
    "added": "2026-10-26",
-   "source": "https://mvdmt.gov/portfolio-item/gallatin-county-open-lands-board/",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2023/10/Gallatin-Open-Lands-2023.jpg"
+   "source": "https://mvdmt.gov/portfolio-item/gallatin-county-open-lands-board/"
   },
   {
    "id": "flathead-county-search-and-rescue",
    "name": "Flathead County Search and Rescue",
    "cat": "firstresponder",
-   "img": null,
+   "img": "flathead-county-search-and-rescue.webp",
    "added": "2026-10-26",
    "source": "https://mvdmt.gov/portfolio-item/flathead-county-search-and-rescue/",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2025/08/Flathead-County-Search-and-Rescue-2025-1.jpg",
    "year": "2025"
   },
   {
    "id": "flathead-county-sheriff-s-posse",
    "name": "Flathead County Sheriff’s Posse",
    "cat": "firstresponder",
-   "img": null,
+   "img": "flathead-county-sheriff-s-posse.webp",
    "added": "2026-10-26",
-   "source": "https://mvdmt.gov/portfolio-item/flathead-county-sheriffs-posse/",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2023/10/Flathead-County-Sheriffs-Posse-2023.jpg"
+   "source": "https://mvdmt.gov/portfolio-item/flathead-county-sheriffs-posse/"
   },
   {
    "id": "cascade-county-sheriffs-foundation",
    "name": "Cascade County Sheriffs Foundation",
    "cat": "firstresponder",
-   "img": null,
+   "img": "cascade-county-sheriffs-foundation.webp",
    "added": "2026-10-26",
    "source": "https://mvdmt.gov/portfolio-item/cascade-county-sheriffs-foundation/",
-   "img_url": "https://mvdmt.gov/wp-content/uploads/2025/08/Cascade-County-Sheriffs-Foundation-2025.jpg",
    "year": "2025"
   }
  ],

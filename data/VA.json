@@ -1097,8 +1097,7 @@
    "id": "rotary-international",
    "name": "Rotary International",
    "cat": "hobby",
-   "img": "rotary-international.webp",
-   "img_url": "https://www.dmv.virginia.gov/sites/default/files/styles/max_650x650/public/images/roi2.jpg",
+   "img": "rotary-international-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -1510,8 +1509,7 @@
    "id": "virginia-wesleyan-university",
    "name": "Virginia Wesleyan University",
    "cat": "colleges",
-   "img": "virginia-wesleyan-university.webp",
-   "img_url": "https://www.dmv.virginia.gov/sites/default/files/styles/max_650x650/public/images/bu.jpg",
+   "img": "virginia-wesleyan-university-2026-10-26.webp",
    "redesigned": "2026-10-26"
   },
   {
@@ -1638,12 +1636,11 @@
    "id": "250th-american-revolution-anniversary",
    "name": "250th American Revolution Anniversary",
    "cat": "other",
-   "img": null,
+   "img": "250th-american-revolution-anniversary.webp",
    "added": "2026-10-26",
    "source": "https://dmv.virginia.gov/vehicles/license-plates/search/250th-american-revolution-anniversary",
    "year": "2024",
-   "no_official_picture": true,
-   "img_url": "https://www.dmv.virginia.gov/sites/default/files/styles/max_650x650/public/images/ara.jpg"
+   "no_official_picture": true
   },
   {
    "id": "blue-ridge-parkway-foundation",
@@ -1658,46 +1655,41 @@
    "id": "boat-us",
    "name": "Boat US",
    "cat": "hobby",
-   "img": null,
+   "img": "boat-us.webp",
    "added": "2026-10-26",
-   "source": "https://www.dmv.virginia.gov/vehicles/license-plates/search/boat-us",
-   "img_url": "https://www.dmv.virginia.gov/sites/default/files/styles/max_650x650/public/images/boat.jpg"
+   "source": "https://www.dmv.virginia.gov/vehicles/license-plates/search/boat-us"
   },
   {
    "id": "city-of-manassas",
    "name": "City of Manassas",
    "cat": "other",
-   "img": null,
+   "img": "city-of-manassas.webp",
    "added": "2026-10-26",
-   "source": "https://www.dmv.virginia.gov/vehicles/license-plates/search/city-manassas",
-   "img_url": "https://www.dmv.virginia.gov/sites/default/files/styles/max_650x650/public/images/mana.jpg"
+   "source": "https://www.dmv.virginia.gov/vehicles/license-plates/search/city-manassas"
   },
   {
    "id": "radford-university-highlanders",
    "name": "Radford University Highlanders",
    "cat": "colleges",
-   "img": null,
+   "img": "radford-university-highlanders.webp",
    "added": "2026-10-26",
-   "source": "https://www.dmv.virginia.gov/vehicles/license-plates/search/radford-university-highlanders",
-   "img_url": "https://www.dmv.virginia.gov/sites/default/files/styles/max_650x650/public/images/radu.jpg"
+   "source": "https://www.dmv.virginia.gov/vehicles/license-plates/search/radford-university-highlanders"
   },
   {
    "id": "support-women-veterans",
    "name": "Support Women Veterans",
    "cat": "veterans",
-   "img": null,
+   "img": "support-women-veterans.webp",
    "added": "2026-10-26",
-   "source": "https://www.dmv.virginia.gov/vehicles/license-plates/search/support-women-veterans",
-   "img_url": "https://www.dmv.virginia.gov/sites/default/files/styles/max_650x650/public/images/swv.jpg"
+   "source": "https://www.dmv.virginia.gov/vehicles/license-plates/search/support-women-veterans"
   },
   {
    "id": "town-of-vienna-250th",
    "name": "Town of Vienna 250th",
    "cat": "other",
-   "img": null,
+   "img": "town-of-vienna-250th.webp",
    "added": "2026-10-26",
-   "source": "https://www.dmv.virginia.gov/vehicles/license-plates/search/town-vienna-250th",
-   "img_url": "https://www.dmv.virginia.gov/sites/default/files/styles/max_650x650/public/images/vnna.jpg"
+   "source": "https://www.dmv.virginia.gov/vehicles/license-plates/search/town-vienna-250th"
   }
  ],
  "checked_on": "2026-10-26"
