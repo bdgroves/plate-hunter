@@ -14,6 +14,8 @@ from __future__ import annotations
 import io
 import json
 import sys
+import time
+import urllib.parse
 import urllib.request
 from pathlib import Path
 
@@ -23,9 +25,17 @@ ROOT = Path(__file__).resolve().parent.parent
 UA = {"User-Agent": "Mozilla/5.0 (plate-hunter; +https://github.com/bdgroves/plate-hunter)"}
 
 
+DEADLINE = time.monotonic() + 25 * 60     # leave what's left for the next run
+failed_hosts: dict[str, int] = {}
+
+
 def grab(url: str, dest: Path, width: int) -> bool:
+    host = urllib.parse.urlsplit(url).hostname or ""
+    if time.monotonic() > DEADLINE or failed_hosts.get(host, 0) >= 3:
+        return False   # out of time, or a site that keeps refusing: try again next run
     try:
-        raw = urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=60).read()
+        with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=30) as r:
+            raw = r.read(8_000_000)
         im = Image.open(io.BytesIO(raw))
         if not 1.3 <= im.width / max(im.height, 1) <= 3.2:   # artwork or a flyer, not a plate
             print(f"  {url}: not plate-shaped ({im.width}x{im.height}); left for a person", file=sys.stderr)
@@ -37,7 +47,8 @@ def grab(url: str, dest: Path, width: int) -> bool:
         im.save(dest, "WEBP", quality=82, method=6)
         return True
     except Exception as e:  # noqa: BLE001
-        print(f"  couldn't get {url}: {e}", file=sys.stderr)
+        failed_hosts[host] = failed_hosts.get(host, 0) + 1
+        print(f"  couldn't get {url}: {e}", file=sys.stderr, flush=True)
         return False
 
 
@@ -55,7 +66,7 @@ def main() -> int:
                 del p["img_url"]
                 changed = True
                 got += 1
-                print(f"{c['code']}: {p['name']}")
+                print(f"{c['code']}: {p['name']}", flush=True)
         if changed:
             f.write_text(json.dumps(doc, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
 
