@@ -70,6 +70,8 @@ brooksgroves.com/games.html; the story is `blog/plate-hunter-post.html` in `bdgr
   military qualification plates, PA possible duplicates). Listed under `retired_unsure` in the research files.
 
 ### Bigger, when Brooks is ready
+- [ ] **Making some money from it** (Brooks, Oct 27: "work on that more later"): pairs with the store version below.
+  Nothing decided yet; the game today is free, no account, no ads.
 - [ ] **App Store / Play Store** version for road trips (Capacitor wrapper, icons, screenshots, listings,
   privacy note; Apple developer account $99/yr). It already installs as a PWA and works offline.
 - [ ] **Family play:** several phones on one trip with a scoreboard (needs some sync; pairs with the app).
