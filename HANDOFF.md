@@ -52,6 +52,10 @@ brooksgroves.com/games.html; the story is `blog/plate-hunter-post.html` in `bdgr
   longer resolves (DNS gone), so its `img_url` will never download. Sites that refused (browser or GitHub):
   Sonora, Tlaxcala, Tabasco, Edomex, Guerrero, Hidalgo, Nayarit, CDMX SEMOVI, Campeche. Several Mexican start
   years are inferred from re-plating news (notes in `research/mexico/<CODE>.json`).
+- [ ] **Mexico designs vs. a collector's list** (`research/mexico/moini-check-2026-10.md`, Oct 27): Guanajuato
+  (2025), Nayarit (2026) and Puebla (2025) have newer everyday designs than the game; CHH, CMX and MEX may too;
+  a few start years differ; 34 disability/eco/antique plates in 20 states aren't in the game. Waiting on
+  Brooks's call. Moini's site forbids reuse: facts only, never his pictures or text; confirm officially first.
 - [ ] **Canada everyday plates** still drawn: MB, NB, NL, NT, YT; 14 Canadian specialty plates too (veteran,
   firefighter, amateur radio, bilingual MB, NS search and rescue, PEI Retired Volunteer Firefighter). Oct 26:
   MB, NB, NL, NWT, Yukon and AB/NWT Legion pages publish no plate pictures; Nova Scotia only shows the
