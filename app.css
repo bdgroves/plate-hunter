@@ -163,6 +163,11 @@ main { border:1px solid var(--mist); border-top:none; background:var(--white); m
 .fake.named em { font:700 .7rem/1.15 var(--display); font-style:normal; text-align:center; padding:2px 8px; }
 .fake.named i { font:400 .48rem/1 var(--mono); font-style:normal; letter-spacing:1px; text-transform:uppercase; opacity:.6; margin-top:3px; }
 .drawer .fake { max-width:220px; }
+/* Mexico: our own drawn plate (state-color band, AAA-000-A number, plate name along the bottom) */
+.fake.mx { container-type:inline-size; justify-content:space-between; padding:0 0 4% 0; overflow:hidden; background:#fbfaf6; border-color:#4a443b; color:#1c1a16; }
+.fake.mx small { align-self:stretch; background:var(--band); color:var(--band-ink); text-align:center; font:400 6.2cqw/1 var(--mono); letter-spacing:.12em; padding:4cqw 4cqw 3.2cqw; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+.fake.mx b { font:700 14.5cqw/1 'Arial Narrow','Roboto Condensed','Helvetica Neue',Arial,sans-serif; font-stretch:condensed; letter-spacing:.01em; }
+.fake.mx em { max-width:92%; font:400 5.2cqw/1.1 var(--mono); font-style:normal; letter-spacing:.06em; text-transform:uppercase; color:var(--band); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; border-top:1.5px solid var(--band); padding-top:2.2cqw; }
 
 .sgrid { grid-template-columns:repeat(auto-fill,minmax(132px,1fr)); }
 .sgrid .iw { height:78px; }

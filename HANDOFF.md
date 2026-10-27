@@ -13,7 +13,7 @@ brooksgroves.com/games.html; the story is `blog/plate-hunter-post.html` in `bdgr
 |---|---|
 | Classic game | US 50 + DC, Canada 13, Mexico 32, behind a USA / Canada / Mexico switch; one trip spans all three |
 | Specialty plates | **8,145** in 96 collections (51 US, 13 Canada, 32 Mexico) |
-| Official pictures | 7,970 (98%); the rest show a drawn stand-in with the plate's name |
+| Official pictures | 7,970 (98%); the rest show a drawn stand-in with the plate's name. Mexico's stand-ins (Oct 27) are our own plate drawing: state-color band (`MX_BAND` in `app.js`), the state code as the letters in Mexico's AAA-000-A pattern, plate name along the bottom |
 | Checked | every US state against its agency's current catalog (five passes, Oct 2026: `research/since2023/`); Canada and Mexico researched from scratch (`research/canada/`, `research/mexico/`) |
 | Retired plates | stay in the game, marked "No longer sold, still on the road" |
 | Rarity | real tiers only in Washington (DOL counts); everywhere else every plate is 20 pts |

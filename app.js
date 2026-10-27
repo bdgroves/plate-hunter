@@ -157,15 +157,38 @@ function mapSVG() {
   return `<svg class="map map-${S.country}" viewBox="0 0 ${C.w} ${h}" role="group" aria-label="Map of ${{ us: 'states', ca: 'provinces and territories', mx: 'Mexican states' }[S.country]} found this trip">${paths}${call}${labels}</svg>`;
 }
 
+// Our own drawn Mexican plate for designs we have no official picture of: a band in the state's color,
+// the plate number in Mexico's AAA-000-A pattern with the state's code as the letters, and the plate's
+// name along the bottom. Loosely plate-like on purpose; it isn't a copy of any real design.
+const MX_BAND = {
+  AGU: '#b8222f', BCN: '#0e6e8c', BCS: '#d97a2b', CAM: '#a33b2e', CHP: '#2e7d4f', CHH: '#8c5a2b',
+  CMX: '#b0124f', COA: '#3a3f8f', COL: '#d35400', DUR: '#6b4f9e', GUA: '#2b5f9e', GRO: '#e3b505',
+  HID: '#1b7f79', JAL: '#1f4fa3', MEX: '#6d2340', MIC: '#c76b1f', MOR: '#4f8a2b', NAY: '#138a8a',
+  NLE: '#e06a1c', OAX: '#c2185b', PUE: '#7b1e3c', QUE: '#3d5a80', ROO: '#00a3c4', SLP: '#2e8b57',
+  SIN: '#b5452b', SON: '#c9692e', TAB: '#3c8d2f', TAM: '#24527a', TLA: '#9b2335', VER: '#8e1b3c',
+  YUC: '#a0522d', ZAC: '#5b6770',
+};
+function mxPlate(code, name, label, seed) {
+  const band = MX_BAND[code] || '#2a4a6b';
+  const [r, g, b] = [1, 3, 5].map(i => parseInt(band.slice(i, i + 2), 16));
+  const ink = (0.299 * r + 0.587 * g + 0.114 * b) > 150 ? '#1c1a16' : '#fff';   // dark text on a light band
+  let h = 7; for (const ch of String(seed)) h = (h * 31 + ch.charCodeAt(0)) % 997;   // same number every time
+  return `<span class="fake mx" style="--band:${band};--band-ink:${ink}" aria-hidden="true">
+    <small>${esc(name)}</small><b>${esc(code)}-${String(h).padStart(3, '0')}-A</b><em>${esc(label)}</em></span>`;
+}
+
 function plateVisual(img, code, cls = 'plate-img') {
-  return img ? `<img class="${cls}" src="${esc(img)}" alt="" loading="lazy" decoding="async">`
-             : `<span class="fake" aria-hidden="true"><small>${esc((region(code) || {}).name || '')}</small><b>${esc(code)}</b></span>`;
+  if (img) return `<img class="${cls}" src="${esc(img)}" alt="" loading="lazy" decoding="async">`;
+  const r = region(code) || {};
+  return countryOf(code) === 'mx' ? mxPlate(code, r.name || '', 'México', code)
+    : `<span class="fake" aria-hidden="true"><small>${esc(r.name || '')}</small><b>${esc(code)}</b></span>`;
 }
 
 // A specialty plate's picture, or a drawn stand-in with its name until we have one.
 function platePic(c, p, cls = 'plate-img') {
-  return p.img ? `<img class="${cls}" src="plates/${c.code}/${esc(p.img)}" alt="" loading="lazy" decoding="async">`
-               : `<span class="fake named" aria-hidden="true"><small>${esc(c.name)}</small><em>${esc(p.name)}</em><i>picture coming</i></span>`;
+  if (p.img) return `<img class="${cls}" src="plates/${c.code}/${esc(p.img)}" alt="" loading="lazy" decoding="async">`;
+  return countryOf(c.code) === 'mx' ? mxPlate(c.code, c.name, p.name, p.id)
+    : `<span class="fake named" aria-hidden="true"><small>${esc(c.name)}</small><em>${esc(p.name)}</em><i>picture coming</i></span>`;
 }
 
 function stateCard(s) {
