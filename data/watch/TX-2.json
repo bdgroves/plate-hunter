@@ -1,7 +1,7 @@
 {
  "code": "TX-2",
  "url": "https://www.myplates.com/discontinued-plates",
- "complete": false,
+ "complete": true,
  "pictures": {
   "/discontinued/100Year.png": {
    "src": "https://cdn.myplates.com/discontinued/100Year.png",
@@ -93,6 +93,11 @@
    "alt": "Houston Dynamo - Discontinued",
    "verdict": "new:houston-dynamo"
   },
+  "/discontinued/auto.Illinois.png": {
+   "src": "https://cdn.myplates.com/discontinued/auto.Illinois.png",
+   "alt": "University of Illinois - Discontinued",
+   "verdict": "pending:TX-university-of-illinois-discontinued"
+  },
   "/discontinued/auto.IndianaUniversity.png": {
    "src": "https://cdn.myplates.com/discontinued/auto.IndianaUniversity.png",
    "alt": "Indiana University - Discontinued",
@@ -142,6 +147,11 @@
    "src": "https://cdn.myplates.com/discontinued/auto.MidlandLeeHS.png",
    "alt": "Lee High School Midland - Discontinued",
    "verdict": "new:lee-high-school-midland"
+  },
+  "/discontinued/auto.Mizzou21.png": {
+   "src": "https://cdn.myplates.com/discontinued/auto.Mizzou21.png",
+   "alt": "University of Missouri - Discontinued",
+   "verdict": "pending:TX-university-of-missouri-discontinued"
   },
   "/discontinued/auto.NWTF.png": {
    "src": "https://cdn.myplates.com/discontinued/auto.NWTF.png",
@@ -213,6 +223,11 @@
    "alt": "Sigma Gamma Rho - Discontinued",
    "verdict": "plate:sigma-gamma-rho"
   },
+  "/discontinued/auto.SouthCarolina.png": {
+   "src": "https://cdn.myplates.com/discontinued/auto.SouthCarolina.png",
+   "alt": "University of South Carolina - Discontinued",
+   "verdict": "pending:TX-university-of-south-carolina-discontinue"
+  },
   "/discontinued/auto.StreamEnergy.png": {
    "src": "https://cdn.myplates.com/discontinued/auto.StreamEnergy.png",
    "alt": "Ignite - Stream Energy - Discontinued",
@@ -237,6 +252,11 @@
    "src": "https://cdn.myplates.com/discontinued/auto.TXNursePractitioner.png",
    "alt": "Texas Nurse Practitioners - Discontinued",
    "verdict": "new:texas-nurse-practitioners"
+  },
+  "/discontinued/auto.Tennessee.png": {
+   "src": "https://cdn.myplates.com/discontinued/auto.Tennessee.png",
+   "alt": "University of Tennessee - Discontinued",
+   "verdict": "pending:TX-university-of-tennessee-discontinued"
   },
   "/discontinued/auto.Texas811.png": {
    "src": "https://cdn.myplates.com/discontinued/auto.Texas811.png",
@@ -263,11 +283,21 @@
    "alt": "Tyler Junior College Apache Belles - Discontinued",
    "verdict": "new:tyler-junior-college"
   },
+  "/discontinued/auto.UTSA.png": {
+   "src": "https://cdn.myplates.com/discontinued/auto.UTSA.png",
+   "alt": "University of Texas at San Antonio - Discontinued",
+   "verdict": "pending:TX-customer-service"
+  },
+  "/discontinued/auto.VirginiaTech.png": {
+   "src": "https://cdn.myplates.com/discontinued/auto.VirginiaTech.png",
+   "alt": "Virginia Tech - Discontinued",
+   "verdict": "pending:TX-virginia-tech-discontinued"
+  },
   "/discontinued/rockets.png": {
    "src": "https://cdn.myplates.com/discontinued/rockets.png",
    "alt": "Houston Rockets - Discontinued",
    "verdict": "rejected"
   }
  },
- "checked": "2026-10-26"
+ "checked": "2026-10-29"
 }

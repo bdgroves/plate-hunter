@@ -8,11 +8,11 @@
    "alt": "Specialty Plates",
    "verdict": "not-a-plate"
   },
-  "/static/version1792757223/frontend/Demac/alberta/en_CA/images/loader-1.gif": {
-   "src": "https://eservices.alberta.ca/static/version1792757223/frontend/Demac/alberta/en_CA/images/loader-1.gif",
+  "/static/version1792757934/frontend/Demac/alberta/en_CA/images/loader-1.gif": {
+   "src": "https://eservices.alberta.ca/static/version1792757934/frontend/Demac/alberta/en_CA/images/loader-1.gif",
    "alt": "Loading...",
    "verdict": "not-a-plate"
   }
  },
- "checked": "2026-10-26"
+ "checked": "2026-10-29"
 }

@@ -1,0 +1,58 @@
+{
+ "code": "PUE",
+ "url": "https://www.puebla.gob.mx/index.php/noticias/item/23330-presenta-gobierno-del-estado-placas-conmemorativas-mexico-2026",
+ "complete": true,
+ "pictures": {
+  "/media/k2/attachments/Finanzas_2104_(1).jpeg": {
+   "src": "https://www.puebla.gob.mx/media/k2/attachments/Finanzas_2104_(1).jpeg",
+   "alt": "",
+   "verdict": "pending:PUE-finanzas-2104-1"
+  },
+  "/media/k2/attachments/Finanzas_2104_(2).jpeg": {
+   "src": "https://www.puebla.gob.mx/media/k2/attachments/Finanzas_2104_(2).jpeg",
+   "alt": "",
+   "verdict": "pending:PUE-finanzas-2104-2"
+  },
+  "/media/k2/attachments/Finanzas_2104_(3).jpeg": {
+   "src": "https://www.puebla.gob.mx/media/k2/attachments/Finanzas_2104_(3).jpeg",
+   "alt": "",
+   "verdict": "pending:PUE-finanzas-2104-3"
+  },
+  "/media/k2/attachments/Finanzas_2104_(4).jpeg": {
+   "src": "https://www.puebla.gob.mx/media/k2/attachments/Finanzas_2104_(4).jpeg",
+   "alt": "",
+   "verdict": "pending:PUE-finanzas-2104-4"
+  },
+  "/media/k2/attachments/Finanzas_2104_(5).jpeg": {
+   "src": "https://www.puebla.gob.mx/media/k2/attachments/Finanzas_2104_(5).jpeg",
+   "alt": "",
+   "verdict": "plate:world-cup-2026-commemorative-green-and-r"
+  },
+  "/media/k2/attachments/Finanzas_2104_(6).jpeg": {
+   "src": "https://www.puebla.gob.mx/media/k2/attachments/Finanzas_2104_(6).jpeg",
+   "alt": "",
+   "verdict": "pending:PUE-finanzas-2104-6"
+  },
+  "/media/k2/attachments/Finanzas_2104_(7).jpeg": {
+   "src": "https://www.puebla.gob.mx/media/k2/attachments/Finanzas_2104_(7).jpeg",
+   "alt": "",
+   "verdict": "pending:PUE-finanzas-2104-7"
+  },
+  "/media/k2/attachments/Finanzas_2104_(8).jpeg": {
+   "src": "https://www.puebla.gob.mx/media/k2/attachments/Finanzas_2104_(8).jpeg",
+   "alt": "",
+   "verdict": "pending:PUE-finanzas-2104-8"
+  },
+  "/media/k2/attachments/Finanzas_2104_(9).jpeg": {
+   "src": "https://www.puebla.gob.mx/media/k2/attachments/Finanzas_2104_(9).jpeg",
+   "alt": "",
+   "verdict": "pending:PUE-finanzas-2104-9"
+  },
+  "/media/k2/items/cache/582d9d58f42d47d1316ae3a3b735af85_L.jpg": {
+   "src": "https://www.puebla.gob.mx/media/k2/items/cache/582d9d58f42d47d1316ae3a3b735af85_L.jpg",
+   "alt": "Presenta Gobierno del Estado placas conmemorativas México 2026",
+   "verdict": "not-a-plate"
+  }
+ },
+ "checked": "2026-10-29"
+}

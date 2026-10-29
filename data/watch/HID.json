@@ -1,0 +1,128 @@
+{
+ "code": "HID",
+ "url": "https://portaltributario.hidalgo.gob.mx/",
+ "complete": true,
+ "pictures": {
+  "/assets/images/Sliders/Imagen_00.png": {
+   "src": "https://portaltributario.hidalgo.gob.mx/assets/images/Sliders/Imagen_00.png",
+   "alt": "...",
+   "verdict": "not-a-plate"
+  },
+  "/assets/images/Sliders/Imagen_22.png": {
+   "src": "https://portaltributario.hidalgo.gob.mx/assets/images/Sliders/Imagen_22.png",
+   "alt": "...",
+   "verdict": "not-a-plate"
+  },
+  "/assets/images/Sliders/Imagen_23.png": {
+   "src": "https://portaltributario.hidalgo.gob.mx/assets/images/Sliders/Imagen_23.png",
+   "alt": "...",
+   "verdict": "not-a-plate"
+  },
+  "/assets/images/Sliders/Imagen_24.png": {
+   "src": "https://portaltributario.hidalgo.gob.mx/assets/images/Sliders/Imagen_24.png",
+   "alt": "...",
+   "verdict": "not-a-plate"
+  },
+  "/assets/images/Sliders/Imagen_26.png": {
+   "src": "https://portaltributario.hidalgo.gob.mx/assets/images/Sliders/Imagen_26.png",
+   "alt": "...",
+   "verdict": "not-a-plate"
+  },
+  "/assets/images/Sliders/coberturas.png": {
+   "src": "https://portaltributario.hidalgo.gob.mx/assets/images/Sliders/coberturas.png",
+   "alt": "Especificación de coberturas del seguro vehicular",
+   "verdict": "not-a-plate"
+  },
+  "/assets/images/img/Consulta-y-pago.png": {
+   "src": "https://portaltributario.hidalgo.gob.mx/assets/images/img/Consulta-y-pago.png",
+   "alt": "Consulta y Pago de Referencias Bancarias",
+   "verdict": "not-a-plate"
+  },
+  "/assets/images/img/car.png": {
+   "src": "https://portaltributario.hidalgo.gob.mx/assets/images/img/car.png",
+   "alt": "Servicio 0",
+   "verdict": "not-a-plate"
+  },
+  "/assets/images/img/cfdi.png": {
+   "src": "https://portaltributario.hidalgo.gob.mx/assets/images/img/cfdi.png",
+   "alt": "Comprobante Fiscal Digital por Internet (CDFI)",
+   "verdict": "not-a-plate"
+  },
+  "/assets/images/img/e-SIT.png": {
+   "src": "https://portaltributario.hidalgo.gob.mx/assets/images/img/e-SIT.png",
+   "alt": "e-SIT",
+   "verdict": "not-a-plate"
+  },
+  "/assets/images/img/e-SITmovil.png": {
+   "src": "https://portaltributario.hidalgo.gob.mx/assets/images/img/e-SITmovil.png",
+   "alt": "Descarga e-SIT móvil, Consulta y Paga",
+   "verdict": "not-a-plate"
+  },
+  "/assets/images/img/formatos.png": {
+   "src": "https://portaltributario.hidalgo.gob.mx/assets/images/img/formatos.png",
+   "alt": "Servicio 4",
+   "verdict": "not-a-plate"
+  },
+  "/assets/images/img/impuesto.png": {
+   "src": "https://portaltributario.hidalgo.gob.mx/assets/images/img/impuesto.png",
+   "alt": "Impuesto sobre Tenencia y Refrendo Vehicular",
+   "verdict": "not-a-plate"
+  },
+  "/assets/images/img/inf.png": {
+   "src": "https://portaltributario.hidalgo.gob.mx/assets/images/img/inf.png",
+   "alt": "Modal Image",
+   "verdict": "not-a-plate"
+  },
+  "/assets/images/img/instrumentos.png": {
+   "src": "https://portaltributario.hidalgo.gob.mx/assets/images/img/instrumentos.png",
+   "alt": "Servicio 2",
+   "verdict": "not-a-plate"
+  },
+  "/assets/images/img/municipios.jpg": {
+   "src": "https://portaltributario.hidalgo.gob.mx/assets/images/img/municipios.jpg",
+   "alt": "Imagen detallada",
+   "verdict": "not-a-plate"
+  },
+  "/assets/images/img/ov.png": {
+   "src": "https://portaltributario.hidalgo.gob.mx/assets/images/img/ov.png",
+   "alt": "Oficina Virtual",
+   "verdict": "not-a-plate"
+  },
+  "/assets/images/img/predial.png": {
+   "src": "https://portaltributario.hidalgo.gob.mx/assets/images/img/predial.png",
+   "alt": "Impuesto Predial",
+   "verdict": "not-a-plate"
+  },
+  "/assets/images/img/preguntas.png": {
+   "src": "https://portaltributario.hidalgo.gob.mx/assets/images/img/preguntas.png",
+   "alt": "Servicio 3",
+   "verdict": "not-a-plate"
+  },
+  "/assets/images/img/ruts.png": {
+   "src": "https://portaltributario.hidalgo.gob.mx/assets/images/img/ruts.png",
+   "alt": "Registro Único de Trámites y Servicio (RUTS)",
+   "verdict": "not-a-plate"
+  },
+  "/assets/images/img/simulador.png": {
+   "src": "https://portaltributario.hidalgo.gob.mx/assets/images/img/simulador.png",
+   "alt": "Simulador",
+   "verdict": "not-a-plate"
+  },
+  "/assets/images/img/spei.png": {
+   "src": "https://portaltributario.hidalgo.gob.mx/assets/images/img/spei.png",
+   "alt": "Servicio 6",
+   "verdict": "not-a-plate"
+  },
+  "/assets/images/img/tel.png": {
+   "src": "https://portaltributario.hidalgo.gob.mx/assets/images/img/tel.png",
+   "alt": "Servicio 1",
+   "verdict": "not-a-plate"
+  },
+  "/assets/images/modal/aviso1.png": {
+   "src": "https://portaltributario.hidalgo.gob.mx/assets/images/modal/aviso1.png",
+   "alt": "...",
+   "verdict": "pending:HID-ubicaci-n-aviso"
+  }
+ },
+ "checked": "2026-10-29"
+}

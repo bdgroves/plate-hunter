@@ -1,7 +1,7 @@
 {
  "code": "UT",
  "url": "https://dmv.utah.gov/plates/license-plates/",
- "complete": false,
+ "complete": true,
  "pictures": {
   "/wp-content/uploads/America-250-plate-2.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/America-250-plate-2.png",
@@ -18,10 +18,20 @@
    "alt": "Amateur Radio",
    "verdict": "plate:amateur-radio"
   },
+  "/wp-content/uploads/americanlegion-1.png": {
+   "src": "https://dmv.utah.gov/wp-content/uploads/americanlegion-1.png",
+   "alt": "american legion",
+   "verdict": "plate:collegiate-western-governors-university"
+  },
   "/wp-content/uploads/arches.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/arches.png",
    "alt": "Life Elevated Arches",
    "verdict": "plate:life-elevated-arches"
+  },
+  "/wp-content/uploads/army-1.png": {
+   "src": "https://dmv.utah.gov/wp-content/uploads/army-1.png",
+   "alt": "army",
+   "verdict": "plate:veterans-air-force"
   },
   "/wp-content/uploads/autism-1.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/autism-1.png",
@@ -77,6 +87,11 @@
    "src": "https://dmv.utah.gov/wp-content/uploads/cleanfuel.png",
    "alt": "Clean Fuel – Clean Air",
    "verdict": "plate:clean-fuel-clean-air"
+  },
+  "/wp-content/uploads/coastguard-1.png": {
+   "src": "https://dmv.utah.gov/wp-content/uploads/coastguard-1.png",
+   "alt": "coast guard",
+   "verdict": "plate:national-guard"
   },
   "/wp-content/uploads/disabled-1.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/disabled-1.png",
@@ -183,6 +198,11 @@
    "alt": "NHL Utah Mammoth",
    "verdict": "plate:nhl-utah-mammoth"
   },
+  "/wp-content/uploads/marines-1.png": {
+   "src": "https://dmv.utah.gov/wp-content/uploads/marines-1.png",
+   "alt": "marines",
+   "verdict": "plate:national-guard"
+  },
   "/wp-content/uploads/mlk-1.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/mlk-1.png",
    "alt": "martin luther king jr",
@@ -192,6 +212,11 @@
    "src": "https://dmv.utah.gov/wp-content/uploads/national-guard.png",
    "alt": "utah national guard",
    "verdict": "plate:national-guard"
+  },
+  "/wp-content/uploads/navy.png": {
+   "src": "https://dmv.utah.gov/wp-content/uploads/navy.png",
+   "alt": "navy",
+   "verdict": "plate:collegiate-university-of-utah-2-options-"
   },
   "/wp-content/uploads/nba-1.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/nba-1.png",
@@ -338,6 +363,26 @@
    "alt": "Utah Valley university",
    "verdict": "plate:collegiate-utah-valley-university"
   },
+  "/wp-content/uploads/vet-cab-1.png": {
+   "src": "https://dmv.utah.gov/wp-content/uploads/vet-cab-1.png",
+   "alt": "Veteran Combat Theater – Army Combat Action Badge",
+   "verdict": "plate:martin-luther-king"
+  },
+  "/wp-content/uploads/vet-cam-1.png": {
+   "src": "https://dmv.utah.gov/wp-content/uploads/vet-cam-1.png",
+   "alt": "Veteran Combat Theater – Air Force Combat Action Medal",
+   "verdict": "pending:UT-veterans-marines-veterans-navy"
+  },
+  "/wp-content/uploads/vet-car-1.png": {
+   "src": "https://dmv.utah.gov/wp-content/uploads/vet-car-1.png",
+   "alt": "Veteran Combat Theater – Marine & Navy Combat Action Ribbon",
+   "verdict": "pending:UT-vet-car-1"
+  },
+  "/wp-content/uploads/vet-cib-1.png": {
+   "src": "https://dmv.utah.gov/wp-content/uploads/vet-cib-1.png",
+   "alt": "Veteran Combat Theater – Army Combat Infantry Badge",
+   "verdict": "plate:martin-luther-king"
+  },
   "/wp-content/uploads/vintagevehicle.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/vintagevehicle.png",
    "alt": "Vintage Vehicle",
@@ -378,6 +423,11 @@
    "alt": "wildlife trout",
    "verdict": "plate:wildlife-trout"
   },
+  "/wp-content/uploads/womenssuffrage-1.png": {
+   "src": "https://dmv.utah.gov/wp-content/uploads/womenssuffrage-1.png",
+   "alt": "Women's suffrage",
+   "verdict": "pending:UT-women-s-suffrage"
+  },
   "/wp-content/uploads/wsuacademic.png": {
    "src": "https://dmv.utah.gov/wp-content/uploads/wsuacademic.png",
    "alt": "Weber State University Academic",
@@ -387,7 +437,12 @@
    "src": "https://dmv.utah.gov/wp-content/uploads/wsuathletic.png",
    "alt": "Weber State University athletic",
    "verdict": "plate:weber-state-university-athletic"
+  },
+  "/wp-content/uploads/zionpark-1.png": {
+   "src": "https://dmv.utah.gov/wp-content/uploads/zionpark-1.png",
+   "alt": "Zion National Park",
+   "verdict": "pending:UT-zion-national-park"
   }
  },
- "checked": "2026-10-26"
+ "checked": "2026-10-29"
 }

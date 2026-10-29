@@ -1,0 +1,63 @@
+{
+ "code": "TAM",
+ "url": "https://tamaulipas.gob.mx/2025/03/invita-gobierno-de-tamaulipas-a-aprovechar-el-50-de-descuento-en-recargos-y-a-regularizar-la-tenencia-vehicular/",
+ "complete": true,
+ "pictures": {
+  "/wp-content/themes/gobtam-2022/img/escudo-tam-dorado.png": {
+   "src": "https://tamaulipas.gob.mx/wp-content/themes/gobtam-2022/img/escudo-tam-dorado.png",
+   "alt": "Gobierno del Estado de Tamaulipas",
+   "verdict": "not-a-plate"
+  },
+  "/wp-content/themes/gobtam-2022/img/telefonos/TELEFONOS_070.png": {
+   "src": "https://tamaulipas.gob.mx/wp-content/themes/gobtam-2022/img/telefonos/TELEFONOS_070.png",
+   "alt": "065 Cruz Roja",
+   "verdict": "not-a-plate"
+  },
+  "/wp-content/themes/gobtam-2022/img/telefonos/TELEFONOS_089.png": {
+   "src": "https://tamaulipas.gob.mx/wp-content/themes/gobtam-2022/img/telefonos/TELEFONOS_089.png",
+   "alt": "089 Denuncia anonima",
+   "verdict": "not-a-plate"
+  },
+  "/wp-content/themes/gobtam-2022/img/telefonos/TELEFONOS_800.png": {
+   "src": "https://tamaulipas.gob.mx/wp-content/themes/gobtam-2022/img/telefonos/TELEFONOS_800.png",
+   "alt": "089 Denuncia Ciudadana",
+   "verdict": "not-a-plate"
+  },
+  "/wp-content/themes/gobtam-2022/img/telefonos/TELEFONOS_911.png": {
+   "src": "https://tamaulipas.gob.mx/wp-content/themes/gobtam-2022/img/telefonos/TELEFONOS_911.png",
+   "alt": "911 Emergencias",
+   "verdict": "unreadable"
+  },
+  "/wp-content/uploads/2025/03/SFT-005-2025.-Invita-Gobierno-de-Tamaulipas-a-aprovechar-el-50-de-descuento-en-recargos-y-a-regularizar-la-tenencia-vehicular-1-850x500.jpeg": {
+   "src": "https://tamaulipas.gob.mx/wp-content/uploads/2025/03/SFT-005-2025.-Invita-Gobierno-de-Tamaulipas-a-aprovechar-el-50-de-descuento-en-recargos-y-a-regularizar-la-tenencia-vehicular-1-850x500.jpeg",
+   "alt": "",
+   "verdict": "plate:current-design-2025"
+  },
+  "/wp-content/uploads/2025/03/SFT-005-2025.-Invita-Gobierno-de-Tamaulipas-a-aprovechar-el-50-de-descuento-en-recargos-y-a-regularizar-la-tenencia-vehicular-1.jpeg": {
+   "src": "https://tamaulipas.gob.mx/wp-content/uploads/2025/03/SFT-005-2025.-Invita-Gobierno-de-Tamaulipas-a-aprovechar-el-50-de-descuento-en-recargos-y-a-regularizar-la-tenencia-vehicular-1.jpeg",
+   "alt": "",
+   "verdict": "plate:current-design-2025"
+  },
+  "/wp-content/uploads/2025/03/SFT-005-2025.-Invita-Gobierno-de-Tamaulipas-a-aprovechar-el-50-de-descuento-en-recargos-y-a-regularizar-la-tenencia-vehicular-2-850x500.jpeg": {
+   "src": "https://tamaulipas.gob.mx/wp-content/uploads/2025/03/SFT-005-2025.-Invita-Gobierno-de-Tamaulipas-a-aprovechar-el-50-de-descuento-en-recargos-y-a-regularizar-la-tenencia-vehicular-2-850x500.jpeg",
+   "alt": "",
+   "verdict": "pending:TAM-compartir"
+  },
+  "/wp-content/uploads/2025/03/SFT-005-2025.-Invita-Gobierno-de-Tamaulipas-a-aprovechar-el-50-de-descuento-en-recargos-y-a-regularizar-la-tenencia-vehicular-2.jpeg": {
+   "src": "https://tamaulipas.gob.mx/wp-content/uploads/2025/03/SFT-005-2025.-Invita-Gobierno-de-Tamaulipas-a-aprovechar-el-50-de-descuento-en-recargos-y-a-regularizar-la-tenencia-vehicular-2.jpeg",
+   "alt": "",
+   "verdict": "pending:TAM-enlace-de-descarga"
+  },
+  "/wp-content/uploads/2025/03/SFT-005-2025.-Invita-Gobierno-de-Tamaulipas-a-aprovechar-el-50-de-descuento-en-recargos-y-a-regularizar-la-tenencia-vehicular-3-850x500.jpeg": {
+   "src": "https://tamaulipas.gob.mx/wp-content/uploads/2025/03/SFT-005-2025.-Invita-Gobierno-de-Tamaulipas-a-aprovechar-el-50-de-descuento-en-recargos-y-a-regularizar-la-tenencia-vehicular-3-850x500.jpeg",
+   "alt": "",
+   "verdict": "pending:TAM-enlace-de-descarga-x"
+  },
+  "/wp-content/uploads/2025/03/SFT-005-2025.-Invita-Gobierno-de-Tamaulipas-a-aprovechar-el-50-de-descuento-en-recargos-y-a-regularizar-la-tenencia-vehicular-3.jpeg": {
+   "src": "https://tamaulipas.gob.mx/wp-content/uploads/2025/03/SFT-005-2025.-Invita-Gobierno-de-Tamaulipas-a-aprovechar-el-50-de-descuento-en-recargos-y-a-regularizar-la-tenencia-vehicular-3.jpeg",
+   "alt": "",
+   "verdict": "not-a-plate"
+  }
+ },
+ "checked": "2026-10-29"
+}

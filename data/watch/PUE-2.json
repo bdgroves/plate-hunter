@@ -1,0 +1,18 @@
+{
+ "code": "PUE-2",
+ "url": "https://puebla.gob.mx/index.php/noticias/item/20813-gobierno-de-puebla-informa-sobre-la-entrega-de-placas-para-vehiculos-ecologicos",
+ "complete": true,
+ "pictures": {
+  "/media/k2/attachments/WhatsApp_Image_2025-10-07_at_6.08.55_PM.jpeg": {
+   "src": "https://puebla.gob.mx/media/k2/attachments/WhatsApp_Image_2025-10-07_at_6.08.55_PM.jpeg",
+   "alt": "",
+   "verdict": "not-a-plate"
+  },
+  "/media/k2/items/cache/065b88b618a467a1a3e47ba2a9287b4f_L.jpg": {
+   "src": "https://puebla.gob.mx/media/k2/items/cache/065b88b618a467a1a3e47ba2a9287b4f_L.jpg",
+   "alt": "Gobierno de Puebla informa sobre la entrega de placas para Vehículos Ecológicos",
+   "verdict": "not-a-plate"
+  }
+ },
+ "checked": "2026-10-29"
+}

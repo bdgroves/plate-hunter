@@ -1,0 +1,73 @@
+{
+ "code": "CHH",
+ "url": "https://chihuahua.gob.mx/contenidos/programa-de-revalidacion-y-canje-de-placas-para-reforzar-la-seguridad-publica-en",
+ "complete": true,
+ "pictures": {
+  "/atach2/grupos/user1517/whatsapp_image_2022-01-20_at_1.22.41_pm.jpeg": {
+   "src": "https://chihuahua.gob.mx/atach2/grupos/user1517/whatsapp_image_2022-01-20_at_1.22.41_pm.jpeg",
+   "alt": "",
+   "verdict": "pending:CHH-whatsapp-2022-01-20-at-1-22-41-pm"
+  },
+  "/atach2/grupos/user1517/whatsapp_image_2022-01-20_at_1.22.41_pm_1.jpeg": {
+   "src": "https://chihuahua.gob.mx/atach2/grupos/user1517/whatsapp_image_2022-01-20_at_1.22.41_pm_1.jpeg",
+   "alt": "",
+   "verdict": "pending:CHH-lo-m-s-visto"
+  },
+  "/atach2/grupos/user1517/whatsapp_image_2022-01-20_at_1.22.42_pm.jpeg": {
+   "src": "https://chihuahua.gob.mx/atach2/grupos/user1517/whatsapp_image_2022-01-20_at_1.22.42_pm.jpeg",
+   "alt": "",
+   "verdict": "not-a-plate"
+  },
+  "/sites/default/atach2/noticias/whatsapp_image_2022-01-20_at_1.22.43_pm.jpeg": {
+   "src": "https://chihuahua.gob.mx/sites/default/atach2/noticias/whatsapp_image_2022-01-20_at_1.22.43_pm.jpeg",
+   "alt": "",
+   "verdict": "not-a-plate"
+  },
+  "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-08/image1%283%29.jpeg": {
+   "src": "https://chihuahua.gob.mx/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-08/image1%283%29.jpeg?itok=xg7ufWDm",
+   "alt": "",
+   "verdict": "pending:CHH-image1-283-29"
+  },
+  "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/0f659f60-8223-450f-9a1b-3b7e38cf5338.jpg": {
+   "src": "https://chihuahua.gob.mx/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/0f659f60-8223-450f-9a1b-3b7e38cf5338.jpg?itok=8lq9rKoX",
+   "alt": "",
+   "verdict": "pending:CHH-new-plate-2026-10-29-x"
+  },
+  "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/426e729c-e0b7-4bc0-a012-61d2a81cfe6e.jpeg": {
+   "src": "https://chihuahua.gob.mx/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/426e729c-e0b7-4bc0-a012-61d2a81cfe6e.jpeg?itok=XaIi9rQt",
+   "alt": "",
+   "verdict": "pending:CHH-426e729c-e0b7-4bc0-a012-61d2a81cfe6e"
+  },
+  "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/789085275_1382641229959284_6850918020738480992_n%281%29.jpg": {
+   "src": "https://chihuahua.gob.mx/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/789085275_1382641229959284_6850918020738480992_n%281%29.jpg?itok=QX7b9BYX",
+   "alt": "",
+   "verdict": "pending:CHH-new-plate-2026-10-29"
+  },
+  "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/IMG_7819.jpeg": {
+   "src": "https://chihuahua.gob.mx/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/IMG_7819.jpeg?itok=Is3oNi95",
+   "alt": "",
+   "verdict": "pending:CHH-img-7819"
+  },
+  "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/WhatsApp%20Image%202026-09-02%20at%2012.00.11%20PM%20%281%29.jpeg": {
+   "src": "https://chihuahua.gob.mx/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/WhatsApp%20Image%202026-09-02%20at%2012.00.11%20PM%20%281%29.jpeg?itok=ADPqSQao",
+   "alt": "",
+   "verdict": "pending:CHH-whatsapp-2026-09-02-at-12-00-11-pm-281-2"
+  },
+  "/themes/custom/barrio_chihuahua_jsp/images/Vertical-Institucional-Gobierno-Azul.png": {
+   "src": "https://chihuahua.gob.mx/themes/custom/barrio_chihuahua_jsp/images/Vertical-Institucional-Gobierno-Azul.png",
+   "alt": "Gobierno",
+   "verdict": "not-a-plate"
+  },
+  "/themes/custom/barrio_chihuahua_jsp/images/chatbot@2x.png": {
+   "src": "https://chihuahua.gob.mx/themes/custom/barrio_chihuahua_jsp/images/chatbot@2x.png",
+   "alt": "Asistente Virtual",
+   "verdict": "not-a-plate"
+  },
+  "/themes/custom/barrio_chihuahua_jsp/images/encuesta.png": {
+   "src": "https://chihuahua.gob.mx/themes/custom/barrio_chihuahua_jsp/images/encuesta.png",
+   "alt": "",
+   "verdict": "not-a-plate"
+  }
+ },
+ "checked": "2026-10-29"
+}

@@ -1,0 +1,78 @@
+{
+ "code": "COA",
+ "url": "https://coahuila.gob.mx/noticias/index/atiende-gobierno-estatal-alta-demanda-en-replaqueo-y-pago-de-derechos-de-control-vehicular-03-01-25",
+ "complete": true,
+ "pictures": {
+  "/archivos/avisos/AVISO_TIPO_2-280X130_02_uploaded.jpg": {
+   "src": "https://coahuila.gob.mx/archivos/avisos/AVISO_TIPO_2-280X130_02_uploaded.jpg",
+   "alt": "Conoce Coahuila",
+   "verdict": "pending:COA-conoce-coahuila"
+  },
+  "/archivos/avisos/RadioCoahuila_uploaded_uploaded.jpg": {
+   "src": "https://coahuila.gob.mx/archivos/avisos/RadioCoahuila_uploaded_uploaded.jpg",
+   "alt": "Coahuila Radio",
+   "verdict": "pending:COA-coahuila-radio"
+  },
+  "/archivos/avisos/informe-veda_uploaded.jpeg": {
+   "src": "https://coahuila.gob.mx/archivos/avisos/informe-veda_uploaded.jpeg",
+   "alt": "",
+   "verdict": "pending:COA-transparencia"
+  },
+  "/archivos/avisos/transparencia-veda_uploaded.jpg": {
+   "src": "https://coahuila.gob.mx/archivos/avisos/transparencia-veda_uploaded.jpg",
+   "alt": "Transparencia",
+   "verdict": "not-a-plate"
+  },
+  "/archivos/imagenes/2/7/193322a2-d353-477c-be08-61bdd5945997_1_uploaded_v1_4.jpg": {
+   "src": "https://coahuila.gob.mx/archivos/imagenes/2/7/193322a2-d353-477c-be08-61bdd5945997_1_uploaded_v1_4.jpg",
+   "alt": "Pronostica lluvias fuertes, descargas eléctricas y rachas de viento de hasta 60 km por hora en Coahuila",
+   "verdict": "pending:COA-gobierno"
+  },
+  "/archivos/imagenes/5/7/001_LLEGA_MANOLO_A_PIEDRAS_NEGRAS_CON_155_MDP_PARA_DRENAJE_Y_TRATAMIENTO_DE_AGUA_uploaded_v1_4.jpg": {
+   "src": "https://coahuila.gob.mx/archivos/imagenes/5/7/001_LLEGA_MANOLO_A_PIEDRAS_NEGRAS_CON_155_MDP_PARA_DRENAJE_Y_TRATAMIENTO_DE_AGUA_uploaded_v1_4.jpg",
+   "alt": "Llega Manolo a Piedras Negras con 155 mdp para drenaje y tratamiento de agua",
+   "verdict": "pending:COA-vivienda-y-ordenamiento-territorial-x"
+  },
+  "/archivos/imagenes/5/7/001_RECONOCE_MANOLO_TRAYECTORIA_Y_APORTACIOYN_DE_L_A_CIRT_AL_DESARROLLO_DE_COAHUILA_uploaded_v1_4.jpg": {
+   "src": "https://coahuila.gob.mx/archivos/imagenes/5/7/001_RECONOCE_MANOLO_TRAYECTORIA_Y_APORTACIOYN_DE_L_A_CIRT_AL_DESARROLLO_DE_COAHUILA_uploaded_v1_4.jpg",
+   "alt": "Reconoce Manolo trayectoria y aportación de la CIRT al desarrollo de Coahuila",
+   "verdict": "pending:COA-gobierno-x"
+  },
+  "/archivos/imagenes/5/8/003_DIF_COAHUILA_FORTALECE_LA_PREVENCIOYN_Y_ATENC_IOYN_DEL_CAYNCER_DE_MAMA15_uploaded_v1_4.jpg": {
+   "src": "https://coahuila.gob.mx/archivos/imagenes/5/8/003_DIF_COAHUILA_FORTALECE_LA_PREVENCIOYN_Y_ATENC_IOYN_DEL_CAYNCER_DE_MAMA15_uploaded_v1_4.jpg",
+   "alt": "DIF Coahuila fortalece la prevención y atención del cáncer de mama",
+   "verdict": "pending:COA-asistencia-social"
+  },
+  "/archivos/imagenes/7/0/002_COAHUILA_BLINDA_CON_NUEVO_LEOYN_LIYMITES_E_STATALESCOAHUILA_BLINDA_CON_NUEVO_LEOYN_LIYMITES_ESTATA_LES_uploaded_v1_4.jpg": {
+   "src": "https://coahuila.gob.mx/archivos/imagenes/7/0/002_COAHUILA_BLINDA_CON_NUEVO_LEOYN_LIYMITES_E_STATALESCOAHUILA_BLINDA_CON_NUEVO_LEOYN_LIYMITES_ESTATA_LES_uploaded_v1_4.jpg",
+   "alt": "Coahuila blinda con Nuevo León límites estatales",
+   "verdict": "pending:COA-coahuila-blinda-con-nuevo-le-n-l-mites-e"
+  },
+  "/archivos/imagenes/7/4/002_NUEVA_INVERSIOYN_DE_2_MIL_100_MDP_DETONA_CIENT_OS_DE_EMPLEOS-_MANOLO_uploaded_v1_4.jpg": {
+   "src": "https://coahuila.gob.mx/archivos/imagenes/7/4/002_NUEVA_INVERSIOYN_DE_2_MIL_100_MDP_DETONA_CIENT_OS_DE_EMPLEOS-_MANOLO_uploaded_v1_4.jpg",
+   "alt": "Nueva inversión de 2 mil 100 mdp detona cientos de empleos: Manolo",
+   "verdict": "pending:COA-econom-a-x"
+  },
+  "/archivos/imagenes/8/0/004_COAHUILA_SEDE_DE_LA_CONVENCIOYN_NACIONAL_CANAC_INTRA_uploaded_v1_4.jpg": {
+   "src": "https://coahuila.gob.mx/archivos/imagenes/8/0/004_COAHUILA_SEDE_DE_LA_CONVENCIOYN_NACIONAL_CANAC_INTRA_uploaded_v1_4.jpg",
+   "alt": "Coahuila sede de la Convención Nacional CANACINTRA",
+   "verdict": "pending:COA-econom-a"
+  },
+  "/archivos/imagenes/8/7/005_DETONA_MANOLO_ENTREGA_DE_1150_ESCRITURAS_EN_TODAS_LAS_REGIONES_uploaded_v1_4.jpg": {
+   "src": "https://coahuila.gob.mx/archivos/imagenes/8/7/005_DETONA_MANOLO_ENTREGA_DE_1150_ESCRITURAS_EN_TODAS_LAS_REGIONES_uploaded_v1_4.jpg",
+   "alt": "Detona Manolo entrega de 1150 escrituras en todas las regiones",
+   "verdict": "pending:COA-vivienda-y-ordenamiento-territorial"
+  },
+  "/archivos/imagenes/8/8/001_PRESENTA_GOBERNADOR_MODELO_COAHUILA_EN_EL_SENADO_DE_LA_REPUYBLICA_uploaded_v1_4.jpg": {
+   "src": "https://coahuila.gob.mx/archivos/imagenes/8/8/001_PRESENTA_GOBERNADOR_MODELO_COAHUILA_EN_EL_SENADO_DE_LA_REPUYBLICA_uploaded_v1_4.jpg",
+   "alt": "Presenta Gobernador Modelo Coahuila en el Senado de la República",
+   "verdict": "pending:COA-seguridad-p-blica"
+  },
+  "/images/octubre-2026.png": {
+   "src": "https://coahuila.gob.mx/images/octubre-2026.png",
+   "alt": "Sitio Oficial del Gobierno de Coahuila",
+   "verdict": "not-a-plate"
+  }
+ },
+ "checked": "2026-10-29"
+}

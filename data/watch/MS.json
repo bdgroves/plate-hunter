@@ -1,7 +1,7 @@
 {
  "code": "MS",
  "url": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
- "complete": false,
+ "complete": true,
  "pictures": {
   "/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/100%25%20Disabled%20Air%20Force%20Motorcycle.png.webp": {
    "src": "https://www.dor.ms.gov/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/100%25%20Disabled%20Air%20Force%20Motorcycle.png.webp?itok=Wo1aUHZi",
@@ -593,6 +593,11 @@
    "alt": "Honoring Veterans",
    "verdict": "plate:honoring-veterans"
   },
+  "/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/Hotty%2520Toddy.PNG.webp": {
+   "src": "https://www.dor.ms.gov/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/Hotty%2520Toddy.PNG.webp?itok=vyWy8lb8",
+   "alt": "University of Mississippi",
+   "verdict": "plate:university-of-mississippi"
+  },
   "/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/House%252520of%252520Representative%252520%2528MS%2529_jpg.jpg.webp": {
    "src": "https://www.dor.ms.gov/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/House%252520of%252520Representative%252520%2528MS%2529_jpg.jpg.webp?itok=1NRavRRt",
    "alt": "Mississippi House of Representative",
@@ -1073,10 +1078,20 @@
    "alt": "Oxford School District",
    "verdict": "plate:navy-and-marine-corps"
   },
+  "/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/PHN.PNG.webp": {
+   "src": "https://www.dor.ms.gov/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/PHN.PNG.webp?itok=ZO6hW3H5",
+   "alt": "Poplarville Public School District",
+   "verdict": "plate:poplarville-public-school-district"
+  },
   "/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/PMS.PNG.webp": {
    "src": "https://www.dor.ms.gov/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/PMS.PNG.webp?itok=JxURNB1_",
    "alt": "MS Law Enforcement Officer Association Supporter",
    "verdict": "plate:pearl-harbor"
+  },
+  "/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/Passenger%20Vanity.jpg.webp": {
+   "src": "https://www.dor.ms.gov/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/Passenger%20Vanity.jpg.webp?itok=7YfHf1vK",
+   "alt": "Vanity Passenger",
+   "verdict": "pending:MS-vanity-passenger"
   },
   "/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/Pearl%252520Harbor%252520Motorcycle_jpg.jpg.webp": {
    "src": "https://www.dor.ms.gov/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/Pearl%252520Harbor%252520Motorcycle_jpg.jpg.webp?itok=ll7DqKel",
@@ -1102,6 +1117,11 @@
    "src": "https://www.dor.ms.gov/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/Petal%252520School%252520District_jpg.jpg.webp?itok=HC7Sy53h",
    "alt": "Petal School District",
    "verdict": "plate:petal-school-district"
+  },
+  "/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/Phi%252520Beta%252520Sigma_jpg.jpg.webp": {
+   "src": "https://www.dor.ms.gov/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/Phi%252520Beta%252520Sigma_jpg.jpg.webp?itok=-886Xg6x",
+   "alt": "Phi Beta Sigma",
+   "verdict": "plate:phi-beta-sigma"
   },
   "/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/Police%252520Law%252520Enforcement_jpg.jpg.webp": {
    "src": "https://www.dor.ms.gov/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/Police%252520Law%252520Enforcement_jpg.jpg.webp?itok=P6yOvtMD",
@@ -1208,6 +1228,11 @@
    "alt": "Law Enforcement - Sheriff",
    "verdict": "plate:retired-troopers"
   },
+  "/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/Sheriff%27s%20Office.jpg.webp": {
+   "src": "https://www.dor.ms.gov/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/Sheriff%27s%20Office.jpg.webp?itok=hfsAlA8L",
+   "alt": "Sheriff’s Office",
+   "verdict": "plate:sheriff-s-office"
+  },
   "/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/Silver%252520Star_jpg.jpg.webp": {
    "src": "https://www.dor.ms.gov/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/Silver%252520Star_jpg.jpg.webp?itok=CykarxAe",
    "alt": "Silver Star",
@@ -1242,6 +1267,11 @@
    "src": "https://www.dor.ms.gov/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/St%252520Patrick%252520High%252520School_jpg.jpg.webp?itok=LDHWxZ9d",
    "alt": "St Patrick High School",
    "verdict": "plate:sons-of-confederate-veterans"
+  },
+  "/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/St.%252520Jude%252520Children%2525E2%252580%252599s%252520Hospital_jpg.jpg.webp": {
+   "src": "https://www.dor.ms.gov/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/St.%252520Jude%252520Children%2525E2%252580%252599s%252520Hospital_jpg.jpg.webp?itok=YdHb8C9V",
+   "alt": "St Jude Children’s Hospital",
+   "verdict": "plate:st-jude-children-s-hospital"
   },
   "/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/St.%252520Martin%252520High%252520School_jpg.jpg.webp": {
    "src": "https://www.dor.ms.gov/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/St.%252520Martin%252520High%252520School_jpg.jpg.webp?itok=0mFFRL1n",
@@ -1353,6 +1383,11 @@
    "alt": "Dealer Used",
    "verdict": "not-for-cars"
   },
+  "/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/Vancleave%252520Home%252520Run%252520Club_jpg.jpg.webp": {
+   "src": "https://www.dor.ms.gov/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/Vancleave%252520Home%252520Run%252520Club_jpg.jpg.webp?itok=piIKm1G1",
+   "alt": "Vancleave Home Run Club",
+   "verdict": "plate:vancleave-home-run-club"
+  },
   "/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/Vanity%20Trailer.jpg.webp": {
    "src": "https://www.dor.ms.gov/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/Vanity%20Trailer.jpg.webp?itok=Ef3ju9Ga",
    "alt": "Vanity Trailer",
@@ -1368,20 +1403,45 @@
    "alt": "Veteran Army",
    "verdict": "plate:combat-veteran-coast-guard"
   },
+  "/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/Veteran%252520Coast%252520Guard_jpg.jpg.webp": {
+   "src": "https://www.dor.ms.gov/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/Veteran%252520Coast%252520Guard_jpg.jpg.webp?itok=spm5ZQAA",
+   "alt": "Veteran Coast Guard",
+   "verdict": "plate:veteran-coast-guard"
+  },
   "/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/Veteran%252520Marine_jpg.jpg.webp": {
    "src": "https://www.dor.ms.gov/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/Veteran%252520Marine_jpg.jpg.webp?itok=0GXlzUH1",
    "alt": "Veteran Marine",
    "verdict": "plate:veteran-air-force"
+  },
+  "/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/Veteran%252520Navy_jpg.jpg.webp": {
+   "src": "https://www.dor.ms.gov/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/Veteran%252520Navy_jpg.jpg.webp?itok=OXji5Nff",
+   "alt": "Veteran Navy",
+   "verdict": "plate:veteran-navy"
+  },
+  "/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/Veterans%252520of%252520Foreign%252520Wars_jpg.jpg.webp": {
+   "src": "https://www.dor.ms.gov/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/Veterans%252520of%252520Foreign%252520Wars_jpg.jpg.webp?itok=eUZ4VX0G",
+   "alt": "Veterans of Foreign Wars",
+   "verdict": "plate:veterans-of-foreign-wars"
   },
   "/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/Vietnam%252520Veteran_jpg.jpg.webp": {
    "src": "https://www.dor.ms.gov/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/Vietnam%252520Veteran_jpg.jpg.webp?itok=pTi1-rYV",
    "alt": "Vietnam Veteran",
    "verdict": "plate:veteran-coast-guard"
   },
+  "/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/Volunteer%252520Service_jpg.jpg.webp": {
+   "src": "https://www.dor.ms.gov/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/Volunteer%252520Service_jpg.jpg.webp?itok=JuDYZWoM",
+   "alt": "Volunteer Service",
+   "verdict": "plate:volunteer-service"
+  },
   "/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/West%252520Jones%252520High%252520School_jpg.jpg.webp": {
    "src": "https://www.dor.ms.gov/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/West%252520Jones%252520High%252520School_jpg.jpg.webp?itok=FRXFrmpQ",
    "alt": "West Jones High School",
    "verdict": "plate:veteran-marine"
+  },
+  "/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/West%252520Lauderdale%252520Knights_jpg.jpg.webp": {
+   "src": "https://www.dor.ms.gov/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/West%252520Lauderdale%252520Knights_jpg.jpg.webp?itok=wOO4dgS6",
+   "alt": "West Lauderdale Knights",
+   "verdict": "plate:west-lauderdale-knights"
   },
   "/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/Wholesaler%20Dealer.png.webp": {
    "src": "https://www.dor.ms.gov/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/Wholesaler%20Dealer.png.webp?itok=BwGN6GFA",
@@ -1392,6 +1452,11 @@
    "src": "https://www.dor.ms.gov/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/Wildlife%252520-%252520Mallard_jpg.jpg.webp?itok=kzgGbxY6",
    "alt": "Mallard - Department of Wildlife Fisheries and Parks",
    "verdict": "plate:veteran-navy"
+  },
+  "/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/Wildlife%252520-%252520Rabbit_jpg.jpg.webp": {
+   "src": "https://www.dor.ms.gov/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/Wildlife%252520-%252520Rabbit_jpg.jpg.webp?itok=pif1e-yK",
+   "alt": "Rabbit - Department of Wildlife Fisheries and Parks",
+   "verdict": "pending:MS-wildlife-252520-252520rabbit-jpg-jpg"
   },
   "/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/Wildlife%252520-%252520Speckled%252520Trout_jpg.jpg.webp": {
    "src": "https://www.dor.ms.gov/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/Wildlife%252520-%252520Speckled%252520Trout_jpg.jpg.webp?itok=Jk2ktKDi",
@@ -1464,5 +1529,5 @@
    "verdict": "rejected"
   }
  },
- "checked": "2026-10-26"
+ "checked": "2026-10-29"
 }

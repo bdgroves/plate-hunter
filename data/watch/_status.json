@@ -5,21 +5,21 @@
   "pictures": 2,
   "plates": 0,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "AK": {
   "url": "https://doa.alaska.gov/dmv/plates/index.htm",
   "ok": false,
   "error": "HTTP Error 403: Forbidden",
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "AK-2": {
   "url": "https://dmv.alaska.gov/vehicle-services/license-plates/",
   "ok": true,
   "pictures": 47,
-  "plates": 41,
+  "plates": 43,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "AL": {
   "url": "https://www.revenue.alabama.gov/license-plates/",
@@ -27,7 +27,7 @@
   "pictures": 51,
   "plates": 36,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "AZ": {
   "url": "https://azmvdnow.gov/plates",
@@ -35,15 +35,15 @@
   "pictures": 0,
   "plates": 0,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "BC": {
   "url": "https://www.icbc.com/vehicle-registration/licence-plates",
   "ok": true,
   "pictures": 9,
-  "plates": 5,
+  "plates": 7,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "BCN": {
   "url": "https://www.bajacalifornia.gob.mx/Prensa/Noticia/26394",
@@ -51,7 +51,15 @@
   "pictures": 4,
   "plates": 0,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
+ },
+ "BCS": {
+  "url": "https://tramites.bcs.gob.mx/catX/la-dotacion-y-o-reposicion-de-placas-de-identificacion-del-servicio-de-control-vehicular/",
+  "ok": true,
+  "pictures": 2,
+  "plates": 0,
+  "added": [],
+  "checked": "2026-10-29"
  },
  "CA": {
   "url": "https://www.dmv.ca.gov/portal/vehicle-registration/license-plates-decals-and-placards/license-plates/special-interest-special-license-plates/",
@@ -59,25 +67,55 @@
   "pictures": 121,
   "plates": 41,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
+ },
+ "CHH": {
+  "url": "https://chihuahua.gob.mx/contenidos/programa-de-revalidacion-y-canje-de-placas-para-reforzar-la-seguridad-publica-en",
+  "ok": true,
+  "pictures": 13,
+  "plates": 0,
+  "added": [],
+  "checked": "2026-10-29"
+ },
+ "CMX": {
+  "url": "https://www.semovi.cdmx.gob.mx/tramites-y-servicios/vehiculos-particulares/placas/alta-de-placas-para-vehiculo-hibrido",
+  "ok": false,
+  "error": "<urlopen error timed out>",
+  "checked": "2026-10-29"
+ },
+ "CMX-2": {
+  "url": "https://noticiasc21.cdmx.gob.mx/noticia/cdmx-arranca-entrega-de-placas-conmemorativas-del-mundial-2026-esto-es-lo-que-debes-saber",
+  "ok": true,
+  "pictures": 6,
+  "plates": 1,
+  "added": [],
+  "checked": "2026-10-29"
  },
  "CO": {
   "url": "https://dmv.colorado.gov/license-plates-military",
   "ok": false,
   "error": "HTTP Error 403: Forbidden",
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "CO-2": {
   "url": "https://dmv.colorado.gov/group-special-license-plates",
   "ok": false,
   "error": "HTTP Error 403: Forbidden",
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "CO-3": {
   "url": "https://dmv.colorado.gov/group-special-license-plates-new",
   "ok": false,
   "error": "HTTP Error 403: Forbidden",
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
+ },
+ "COA": {
+  "url": "https://coahuila.gob.mx/noticias/index/atiende-gobierno-estatal-alta-demanda-en-replaqueo-y-pago-de-derechos-de-control-vehicular-03-01-25",
+  "ok": true,
+  "pictures": 14,
+  "plates": 0,
+  "added": [],
+  "checked": "2026-10-29"
  },
  "CT": {
   "url": "https://portal.ct.gov/dmv/vehicle-services/get-vanity-special-plates?language=en_US",
@@ -85,7 +123,7 @@
   "pictures": 72,
   "plates": 66,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "DC": {
   "url": "https://dmv.dc.gov/service/organizations-offering-dc-dmv-vehicle-tags",
@@ -93,7 +131,7 @@
   "pictures": 35,
   "plates": 29,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "DC-2": {
   "url": "https://dmv.dc.gov/service/specialty-vehicle-tags",
@@ -101,7 +139,7 @@
   "pictures": 19,
   "plates": 10,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "DE": {
   "url": "https://www.dmv.de.gov/VehicleServices/tags/index.shtml?dc=tags_all",
@@ -109,13 +147,13 @@
   "pictures": 155,
   "plates": 136,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "FL": {
   "url": "https://www.flhsmv.gov/pdf/specialtyplates/tagbrochure.pdf",
   "ok": true,
   "kind": "pdf",
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "GA": {
   "url": "https://mvd.dor.ga.gov/motor/plates/PlateSelection.aspx",
@@ -123,7 +161,7 @@
   "pictures": 0,
   "plates": 0,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "HI": {
   "url": "https://dod.hawaii.gov/ovs/benefits-and-services/",
@@ -131,21 +169,29 @@
   "pictures": 2,
   "plates": 0,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
+ },
+ "HID": {
+  "url": "https://portaltributario.hidalgo.gob.mx/",
+  "ok": true,
+  "pictures": 24,
+  "plates": 0,
+  "added": [],
+  "checked": "2026-10-29"
  },
  "IA": {
   "url": "https://iowadot.gov/registration-plates/license-plates/decals/available-decals",
   "ok": true,
-  "pictures": 38,
+  "pictures": 37,
   "plates": 0,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "ID": {
   "url": "https://itd.idaho.gov/wp-content/uploads/2016/06/plates.pdf",
   "ok": false,
   "error": "HTTP Error 404: Not Found",
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "ID-2": {
   "url": "https://itd.idaho.gov/?p=3247",
@@ -153,13 +199,13 @@
   "pictures": 1,
   "plates": 0,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "IL": {
   "url": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/licenseplates.html",
   "ok": false,
   "error": "The read operation timed out",
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "IN": {
   "url": "https://www.in.gov/bmv/registration-plates/license-plates-overview/license-plate-designs/",
@@ -167,19 +213,19 @@
   "pictures": 1,
   "plates": 0,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "JAL": {
   "url": "https://www.jalisco.gob.mx/prensa/noticias/tiene-jalisco-nuevas-placas-vehiculares",
   "ok": false,
   "error": "HTTP Error 403: Forbidden",
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "KS": {
   "url": "https://files.leavenworthcounty.gov/Department/Treasurer/Forms/Kansas%20License%20Plate%20Guide%2012022021.pdf",
   "ok": false,
   "error": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)>",
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "KY": {
   "url": "https://secure2.kentucky.gov/kytc/plates/web/",
@@ -187,7 +233,7 @@
   "pictures": 1,
   "plates": 0,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "LA": {
   "url": "https://expresslane.dps.louisiana.gov/SpecialPlatesPublic/SpecialPlatesViewer.aspx",
@@ -195,13 +241,13 @@
   "pictures": 10,
   "plates": 1,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "MA": {
   "url": "https://www.mass.gov/doc/passenger-plates-manual-0/download",
   "ok": true,
   "kind": "pdf",
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "MA-2": {
   "url": "https://www.mass.gov/info-details/veteran-status-licenses-and-specialty-plates",
@@ -209,7 +255,7 @@
   "pictures": 22,
   "plates": 10,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "MB": {
   "url": "https://www.mpi.mb.ca/specialty-plates-non-member/",
@@ -217,7 +263,7 @@
   "pictures": 15,
   "plates": 13,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "MD": {
   "url": "https://mva.maryland.gov/Pages/licenseplates-Organizational.aspx",
@@ -225,7 +271,7 @@
   "pictures": 0,
   "plates": 0,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "MD-2": {
   "url": "https://mva.maryland.gov/title-registration/license-plates/organizational-license-plates/view-all-organizational-plates",
@@ -233,7 +279,7 @@
   "pictures": 36,
   "plates": 14,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "ME": {
   "url": "https://apps1.web.maine.gov/cgi-bin/online/bmv/vanity/select_type",
@@ -241,19 +287,19 @@
   "pictures": 0,
   "plates": 0,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "ME-2": {
   "url": "https://www.maine.gov/sos/bmv/registration/availablevet.html",
   "ok": false,
   "error": "HTTP Error 403: Forbidden",
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "ME-3": {
   "url": "https://www.maine.gov/sos/bmv/vehicles/veteran-plate-or-decal/vehicles/available-veteran-plates",
   "ok": false,
   "error": "HTTP Error 403: Forbidden",
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "MEX": {
   "url": "https://pagosytramites.edomex.gob.mx/recaudacion/CtrlVeh/MicRemplaca/index.jsp",
@@ -261,19 +307,25 @@
   "pictures": 10,
   "plates": 0,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "MI": {
   "url": "https://www.michigan.gov/sos/vehicle/license-plates/military-and-veteran-plate-options",
   "ok": false,
   "error": "HTTP Error 403: Forbidden",
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "MI-2": {
   "url": "https://www.michigan.gov/sos/vehicle/license-plates/special-cause-fundraising-options",
   "ok": false,
   "error": "HTTP Error 403: Forbidden",
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
+ },
+ "MIC": {
+  "url": "https://michoacan.gob.mx/noticias/este-mes-personas-que-reemplaquen-recibiran-descuentos-atractivos-luis-navarro-garcia/",
+  "ok": false,
+  "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
+  "checked": "2026-10-29"
  },
  "MN": {
   "url": "https://dps.mn.gov/divisions/dvs/vehicle/license-plates/specialized-license-plates",
@@ -281,7 +333,7 @@
   "pictures": 96,
   "plates": 69,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "MO": {
   "url": "https://dor.mo.gov/motor-vehicle/plates/personalized-specialty.html#preview",
@@ -289,15 +341,15 @@
   "pictures": 2,
   "plates": 0,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "MS": {
   "url": "https://www.dor.ms.gov/motor-vehicle/available-license-plates/specialty-license-plates",
   "ok": true,
   "pictures": 305,
-  "plates": 245,
+  "plates": 258,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "MT": {
   "url": "http://dojmt.gov/driving/plate-designs-and-fees/service-organizations-associations/",
@@ -305,7 +357,7 @@
   "pictures": 1,
   "plates": 0,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "MT-2": {
   "url": "https://mvdmt.gov/license-plate-lookup/",
@@ -313,7 +365,7 @@
   "pictures": 29,
   "plates": 15,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "NB": {
   "url": "https://www.gnb.ca/en/topic/driving-transportation/registration-inspection.html",
@@ -321,7 +373,7 @@
   "pictures": 0,
   "plates": 0,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "NC": {
   "url": "https://www.ncdot.gov/dmv/title-registration/license-plates/Pages/default.aspx",
@@ -329,7 +381,7 @@
   "pictures": 2,
   "plates": 0,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "ND": {
   "url": "https://apps.nd.gov/dot/mv/mvrenewal/plateSearch.htm",
@@ -337,13 +389,13 @@
   "pictures": 60,
   "plates": 46,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "NH": {
   "url": "https://www.dmv.nh.gov/sites/g/files/ehbemt416/files/inline-documents/list-of-plates-table.pdf",
   "ok": false,
   "error": "HTTP Error 403: Forbidden",
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "NJ": {
   "url": "https://www.state.nj.us/mvc/vehicles/serviceorg.htm",
@@ -351,7 +403,7 @@
   "pictures": 20,
   "plates": 17,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "NJ-2": {
   "url": "https://www.state.nj.us/mvc/vehicles/community.htm",
@@ -359,7 +411,7 @@
   "pictures": 17,
   "plates": 14,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "NL": {
   "url": "https://www.gov.nl.ca/motorregistration/vehicle-ownership/plates/",
@@ -367,7 +419,13 @@
   "pictures": 1,
   "plates": 0,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
+ },
+ "NLE": {
+  "url": "https://www.nl.gob.mx/es/boletines/presenta-nl-nuevo-tramite-digital-placas-para-personas-con-discapacidad",
+  "ok": false,
+  "error": "HTTP Error 403: Forbidden",
+  "checked": "2026-10-29"
  },
  "NM": {
   "url": "https://www.mvd.newmexico.gov/vehicles/license-plates/",
@@ -375,7 +433,7 @@
   "pictures": 54,
   "plates": 43,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "NS": {
   "url": "https://data.novascotia.ca/resource/78vj-k5bf.json",
@@ -383,7 +441,7 @@
   "pictures": 0,
   "plates": 0,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "NT": {
   "url": "https://www.idmv.inf.gov.nt.ca/Vehicles/Licence-Plate",
@@ -391,13 +449,13 @@
   "pictures": 2,
   "plates": 0,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "NV": {
   "url": "https://dmv.nv.gov/platescharitable.htm",
   "ok": false,
   "error": "HTTP Error 404: Not Found",
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "NV-main": {
   "url": "https://dmv.nv.gov/platesmain.htm",
@@ -405,25 +463,31 @@
   "pictures": 10,
   "plates": 8,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "NY": {
   "url": "https://dmv.ny.gov/plates/military-and-veterans",
   "ok": false,
   "error": "HTTP Error 403: Forbidden",
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "NY-2": {
   "url": "https://dmv.ny.gov/plates/professions",
   "ok": false,
   "error": "HTTP Error 403: Forbidden",
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "NY-3": {
   "url": "https://dmv.ny.gov/plates/picture-plates",
   "ok": false,
   "error": "HTTP Error 403: Forbidden",
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
+ },
+ "OAX": {
+  "url": "https://canjedeplacas.oaxaca.gob.mx/",
+  "ok": false,
+  "error": "<urlopen error [Errno -2] Name or service not known>",
+  "checked": "2026-10-29"
  },
  "OH": {
   "url": "https://www.bmv.ohio.gov/vr-sp-geninfo.aspx",
@@ -431,7 +495,7 @@
   "pictures": 286,
   "plates": 246,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "OK": {
   "url": "https://oklahoma.gov/service/all-services/auto-vehicle/specialty-plates.html",
@@ -439,7 +503,7 @@
   "pictures": 5,
   "plates": 0,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "ON": {
   "url": "https://www.ontario.ca/page/choose-licence-plate-graphic",
@@ -447,13 +511,13 @@
   "pictures": 68,
   "plates": 67,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "OR": {
   "url": "https://www.oregon.gov/odot/Forms/DMV/6726.pdf",
   "ok": true,
   "kind": "pdf",
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "PA": {
   "url": "https://www.dmv.pa.gov/VEHICLE-SERVICES/Registration%20Plates/Pages/Approved-Organizations.aspx",
@@ -461,7 +525,7 @@
   "pictures": 0,
   "plates": 0,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "PA-2": {
   "url": "https://www.pa.gov/services/dmv/apply-for-special-organization-registration-plates.html",
@@ -469,7 +533,7 @@
   "pictures": 0,
   "plates": 0,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "PE": {
   "url": "https://www.princeedwardisland.ca/en/news/province-unveils-new-license-plates",
@@ -477,7 +541,23 @@
   "pictures": 0,
   "plates": 0,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
+ },
+ "PUE": {
+  "url": "https://www.puebla.gob.mx/index.php/noticias/item/23330-presenta-gobierno-del-estado-placas-conmemorativas-mexico-2026",
+  "ok": true,
+  "pictures": 10,
+  "plates": 1,
+  "added": [],
+  "checked": "2026-10-29"
+ },
+ "PUE-2": {
+  "url": "https://puebla.gob.mx/index.php/noticias/item/20813-gobierno-de-puebla-informa-sobre-la-entrega-de-placas-para-vehiculos-ecologicos",
+  "ok": true,
+  "pictures": 2,
+  "plates": 0,
+  "added": [],
+  "checked": "2026-10-29"
  },
  "QC": {
   "url": "https://saaq.gouv.qc.ca/en/vehicle-registration/temporary-licence-plate-categories",
@@ -485,7 +565,7 @@
   "pictures": 41,
   "plates": 0,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "RI": {
   "url": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-designs-charity-plates",
@@ -493,7 +573,7 @@
   "pictures": 2,
   "plates": 0,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "RI-2": {
   "url": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-types",
@@ -501,7 +581,13 @@
   "pictures": 15,
   "plates": 10,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
+ },
+ "ROO": {
+  "url": "https://sefiplan.qroo.gob.mx/site/contenido/211",
+  "ok": false,
+  "error": "<urlopen error timed out>",
+  "checked": "2026-10-29"
  },
  "SC": {
   "url": "https://www.scdmvonline.com/Vehicle-Owners/Registration/Plate-Gallery",
@@ -509,7 +595,7 @@
   "pictures": 236,
   "plates": 182,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "SD": {
   "url": "https://dor.sd.gov/individuals/motor-vehicle/cars-trucks-vans/military-plates-veteran-tribal-active-duty/",
@@ -517,7 +603,7 @@
   "pictures": 38,
   "plates": 19,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "SD-2": {
   "url": "https://dor.sd.gov/individuals/motor-vehicle/cars-trucks-vans/specialty-military-plates/",
@@ -525,7 +611,7 @@
   "pictures": 26,
   "plates": 15,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "SK": {
   "url": "https://sgi.sk.ca/personalized-plates",
@@ -533,13 +619,35 @@
   "pictures": 0,
   "plates": 0,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
+ },
+ "SLP": {
+  "url": "https://slp.gob.mx/noticias/2025/12/16/anuncia-ricardo-gallardo-placas-vehiculares-conmemorativas-del-mundial-2026-en-slp/",
+  "ok": true,
+  "pictures": 3,
+  "plates": 1,
+  "added": [],
+  "checked": "2026-10-29"
+ },
+ "SON": {
+  "url": "https://hacienda.sonora.gob.mx/inicio/acciones/presenta-gobierno-de-sonora-nueva-imagen-de-placas-vehiculares-para-el-estado",
+  "ok": false,
+  "error": "HTTP Error 403: Forbidden",
+  "checked": "2026-10-29"
+ },
+ "TAM": {
+  "url": "https://tamaulipas.gob.mx/2025/03/invita-gobierno-de-tamaulipas-a-aprovechar-el-50-de-descuento-en-recargos-y-a-regularizar-la-tenencia-vehicular/",
+  "ok": true,
+  "pictures": 11,
+  "plates": 2,
+  "added": [],
+  "checked": "2026-10-29"
  },
  "TN": {
   "url": "https://www.tn.gov/content/tn/revenue/title-and-registration/license-plates/available-license-plates.html",
   "ok": false,
   "error": "<urlopen error [Errno 104] Connection reset by peer>",
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "TX": {
   "url": "https://www.myplates.com/",
@@ -547,15 +655,15 @@
   "pictures": 9,
   "plates": 5,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "TX-2": {
   "url": "https://www.myplates.com/discontinued-plates",
   "ok": true,
   "pictures": 59,
-  "plates": 13,
+  "plates": 49,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "TX-3": {
   "url": "https://www.myplates.com/api/plates",
@@ -563,15 +671,15 @@
   "pictures": 0,
   "plates": 0,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "UT": {
   "url": "https://dmv.utah.gov/plates/license-plates/",
   "ok": true,
   "pictures": 88,
-  "plates": 36,
+  "plates": 83,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "VA": {
   "url": "https://www.dmv.virginia.gov/vehicles/license-plates/search",
@@ -579,21 +687,27 @@
   "pictures": 10,
   "plates": 8,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
+ },
+ "VER": {
+  "url": "https://www.veracruz.gob.mx/2026/01/06/programa-de-reemplacamiento-2026-ano-nuevo-placas-nuevas/",
+  "ok": false,
+  "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
+  "checked": "2026-10-29"
  },
  "VT": {
   "url": "https://dmv.vermont.gov/sites/dmv/files/documents/VD-169-Vermont_License_Plates.pdf",
   "ok": true,
   "kind": "pdf",
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "VT-2": {
   "url": "https://dmv.vermont.gov/node/212",
   "ok": true,
   "pictures": 19,
-  "plates": 9,
+  "plates": 11,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "WA": {
   "url": "https://dol.wa.gov/vehicles-and-boats/vehicles/license-plates/get-custom-plates/special-design-plates",
@@ -601,15 +715,15 @@
   "pictures": 76,
   "plates": 62,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "WI": {
   "url": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/special.aspx",
   "ok": true,
   "pictures": 71,
-  "plates": 64,
+  "plates": 65,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "WV": {
   "url": "https://dmv.wv.gov/node/155",
@@ -617,7 +731,7 @@
   "pictures": 40,
   "plates": 39,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "WY": {
   "url": "https://www.dot.state.wy.us/home/titles_plates_registration/specialty_plates/choice_disabled_veteran.html",
@@ -625,7 +739,7 @@
   "pictures": 2,
   "plates": 0,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "WY-2": {
   "url": "https://www.dot.state.wy.us/home/titles_plates_registration/specialty_plates/veteran_plates.html",
@@ -633,12 +747,12 @@
   "pictures": 2,
   "plates": 0,
   "added": [],
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  },
  "YT": {
   "url": "https://yukon.ca/en/driving-and-transportation/vehicle-registration",
   "ok": false,
   "error": "HTTP Error 403: Forbidden",
-  "checked": "2026-10-26"
+  "checked": "2026-10-29"
  }
 }

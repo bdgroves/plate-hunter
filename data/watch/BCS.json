@@ -1,0 +1,18 @@
+{
+ "code": "BCS",
+ "url": "https://tramites.bcs.gob.mx/catX/la-dotacion-y-o-reposicion-de-placas-de-identificacion-del-servicio-de-control-vehicular/",
+ "complete": true,
+ "pictures": {
+  "/wp-content/uploads/2026/03/bannel-protestaciudadana.jpg": {
+   "src": "https://tramites.bcs.gob.mx/wp-content/uploads/2026/03/bannel-protestaciudadana.jpg",
+   "alt": "",
+   "verdict": "pending:BCS-tr-mites-i-servicios"
+  },
+  "/wp-content/uploads/2026/04/DIR-TRANSPARENCIA-Y-MEJORA-H.jpg": {
+   "src": "https://tramites.bcs.gob.mx/wp-content/uploads/2026/04/DIR-TRANSPARENCIA-Y-MEJORA-H.jpg",
+   "alt": "Tramites y Servicios",
+   "verdict": "not-a-plate"
+  }
+ },
+ "checked": "2026-10-29"
+}

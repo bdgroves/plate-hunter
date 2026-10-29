@@ -1,0 +1,23 @@
+{
+ "code": "SLP",
+ "url": "https://slp.gob.mx/noticias/2025/12/16/anuncia-ricardo-gallardo-placas-vehiculares-conmemorativas-del-mundial-2026-en-slp/",
+ "complete": true,
+ "pictures": {
+  "/media/imagen_2026-01-13_133610890.png": {
+   "src": "https://d3dac9gdq8t83x.cloudfront.net/media/imagen_2026-01-13_133610890.png",
+   "alt": "",
+   "verdict": "plate:2026-world-cup-commemorative-plates"
+  },
+  "/media/static/images/hor-blanco.png": {
+   "src": "https://d3dac9gdq8t83x.cloudfront.net/media/static/images/hor-blanco.png",
+   "alt": "San Luis Potosí para los Potosinos, Gobierno del Estado",
+   "verdict": "not-a-plate"
+  },
+  "/media/static/images/hor-verde.png": {
+   "src": "https://d3dac9gdq8t83x.cloudfront.net/media/static/images/hor-verde.png",
+   "alt": "San luis Potosí",
+   "verdict": "not-a-plate"
+  }
+ },
+ "checked": "2026-10-29"
+}
