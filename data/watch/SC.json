@@ -815,7 +815,7 @@
   },
   "/sites/scdmv/files/media/Images/Plates/SC-250-Year-Anniversary-Revolutionary-War.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/SC-250-Year-Anniversary-Revolutionary-War.png",
-   "alt": "Revolutionary War Plate",
+   "alt": "250th Anniversary of the Revolutionary War license plate",
    "verdict": "plate:250th-year-anniversary-revolutionary-war"
   },
   "/sites/scdmv/files/media/Images/Plates/SC-Aviation-Association.png": {
@@ -1184,5 +1184,5 @@
    "verdict": "rejected"
   }
  },
- "checked": "2026-10-26"
+ "checked": "2026-11-02"
 }

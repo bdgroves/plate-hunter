@@ -1,0 +1,33 @@
+{
+ "code": "ROO",
+ "url": "https://sefiplan.qroo.gob.mx/site/contenido/211",
+ "complete": true,
+ "pictures": {
+  "/sistemas/noticias/subidos2/211_1768236431.jpg": {
+   "src": "https://sefiplan.qroo.gob.mx/sistemas/noticias/subidos2/211_1768236431.jpg",
+   "alt": "",
+   "verdict": "not-a-plate"
+  },
+  "/sistemas/noticias/subidos2/211_1768236436.jpg": {
+   "src": "https://sefiplan.qroo.gob.mx/sistemas/noticias/subidos2/211_1768236436.jpg",
+   "alt": "",
+   "verdict": "not-a-plate"
+  },
+  "/sistemas/noticias/subidos2/211_1768236440.jpg": {
+   "src": "https://sefiplan.qroo.gob.mx/sistemas/noticias/subidos2/211_1768236440.jpg",
+   "alt": "",
+   "verdict": "not-a-plate"
+  },
+  "/sistemas/noticias/subidos2/211_1768236445.jpg": {
+   "src": "https://sefiplan.qroo.gob.mx/sistemas/noticias/subidos2/211_1768236445.jpg",
+   "alt": "",
+   "verdict": "not-a-plate"
+  },
+  "/site/tw.png": {
+   "src": "https://sefiplan.qroo.gob.mx/site/tw.png",
+   "alt": "",
+   "verdict": "not-a-plate"
+  }
+ },
+ "checked": "2026-11-02"
+}
