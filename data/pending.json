@@ -12,6 +12,19 @@
   "likeness": 92,
   "found": "2026-10-29"
  },
+ "CHH-090926-juarez-mesaseguridad-01": {
+  "state": "CHH",
+  "name": "090926-Juarez-Mesaseguridad-01",
+  "cat": "other",
+  "img": "CHH-090926-juarez-mesaseguridad-01.webp",
+  "kind": "new",
+  "target": null,
+  "source": "https://chihuahua.gob.mx/contenidos/programa-de-revalidacion-y-canje-de-placas-para-reforzar-la-seguridad-publica-en",
+  "page": "CHH",
+  "picture": "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/090926-JUAREZ-MESASEGURIDAD-01.jpg",
+  "likeness": 93,
+  "found": "2026-11-05"
+ },
  "CHH-253d5c44-7d30-4665-a3ca-fea033e22303": {
   "state": "CHH",
   "name": "253D5C44-7D30-4665-A3Ca Fea033E22303",
@@ -103,6 +116,19 @@
   "likeness": 93,
   "found": "2026-10-29"
  },
+ "CHH-mensaje-de-la-gobernadora-maru-campos": {
+  "state": "CHH",
+  "name": "MENSAJE DE LA GOBERNADORA MARU CAMPOS",
+  "cat": "other",
+  "img": "CHH-mensaje-de-la-gobernadora-maru-campos.webp",
+  "kind": "new",
+  "target": null,
+  "source": "https://chihuahua.gob.mx/contenidos/programa-de-revalidacion-y-canje-de-placas-para-reforzar-la-seguridad-publica-en",
+  "page": "CHH",
+  "picture": "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/1000435729.jpg",
+  "likeness": 85,
+  "found": "2026-11-05"
+ },
  "CHH-new-plate-2026-10-29": {
   "state": "CHH",
   "name": "New plate 2026-10-29",
@@ -142,6 +168,45 @@
   "likeness": 86,
   "found": "2026-11-02"
  },
+ "CHH-new-plate-2026-11-05": {
+  "state": "CHH",
+  "name": "New plate 2026-11-05",
+  "cat": "other",
+  "img": "CHH-new-plate-2026-11-05.webp",
+  "kind": "new",
+  "target": null,
+  "source": "https://chihuahua.gob.mx/contenidos/programa-de-revalidacion-y-canje-de-placas-para-reforzar-la-seguridad-publica-en",
+  "page": "CHH",
+  "picture": "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/486836788_1088976366592499_2248420376625648191_n.jpg",
+  "likeness": 102,
+  "found": "2026-11-05"
+ },
+ "CHH-new-plate-2026-11-05-x": {
+  "state": "CHH",
+  "name": "New plate 2026-11-05",
+  "cat": "other",
+  "img": "CHH-new-plate-2026-11-05-x.webp",
+  "kind": "new",
+  "target": null,
+  "source": "https://chihuahua.gob.mx/contenidos/programa-de-revalidacion-y-canje-de-placas-para-reforzar-la-seguridad-publica-en",
+  "page": "CHH",
+  "picture": "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/d9dc59bf-5a4f-460c-835a-f46f6c6d5565.jpg",
+  "likeness": 92,
+  "found": "2026-11-05"
+ },
+ "CHH-utcj-286-29": {
+  "state": "CHH",
+  "name": "Utcj %286%29",
+  "cat": "other",
+  "img": "CHH-utcj-286-29.webp",
+  "kind": "new",
+  "target": null,
+  "source": "https://chihuahua.gob.mx/contenidos/programa-de-revalidacion-y-canje-de-placas-para-reforzar-la-seguridad-publica-en",
+  "page": "CHH",
+  "picture": "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/utcj%20%286%29.jpg",
+  "likeness": 101,
+  "found": "2026-11-05"
+ },
  "CHH-whatsapp-2022-01-20-at-1-22-41-pm": {
   "state": "CHH",
   "name": "Whatsapp 2022-01-20 At 1.22.41 Pm",
@@ -180,6 +245,19 @@
   "picture": "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/WhatsApp%20Image%202026-09-09%20at%203.46.48%20PM.jpeg",
   "likeness": 101,
   "found": "2026-11-02"
+ },
+ "CHH-whatsapp-2026-09-11-at-11-10-44-am": {
+  "state": "CHH",
+  "name": "Whatsapp 2026-09-11 At 11.10.44 Am",
+  "cat": "other",
+  "img": "CHH-whatsapp-2026-09-11-at-11-10-44-am.webp",
+  "kind": "new",
+  "target": null,
+  "source": "https://chihuahua.gob.mx/contenidos/programa-de-revalidacion-y-canje-de-placas-para-reforzar-la-seguridad-publica-en",
+  "page": "CHH",
+  "picture": "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/WhatsApp%20Image%202026-09-11%20at%2011.10.44%20AM.jpeg",
+  "likeness": 100,
+  "found": "2026-11-05"
  },
  "CHH-whatsapp-2026-09-14-at-11-34-54-am": {
   "state": "CHH",
