@@ -38,10 +38,20 @@
    "alt": "",
    "verdict": "plate:mount-charleston"
   },
+  "/images/platesmain/nsu.jpg": {
+   "src": "https://dmv.nv.gov/images/platesmain/nsu.jpg",
+   "alt": "",
+   "verdict": "pending:NV-nevada-state-university"
+  },
   "/images/platesmain/nvcasa.jpg": {
    "src": "https://dmv.nv.gov/images/platesmain/nvcasa.jpg",
    "alt": "",
    "verdict": "not-for-cars"
+  },
+  "/images/platesmain/rosemanuni.jpg": {
+   "src": "https://dmv.nv.gov/images/platesmain/rosemanuni.jpg",
+   "alt": "",
+   "verdict": "pending:NV-roseman-university"
   },
   "/images/platesmain/support_wildlife.jpg": {
    "src": "https://dmv.nv.gov/images/platesmain/support_wildlife.jpg",
@@ -54,5 +64,5 @@
    "verdict": "rejected"
   }
  },
- "checked": "2026-10-26"
+ "checked": "2026-11-09"
 }

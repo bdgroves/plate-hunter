@@ -64,6 +64,45 @@
   "likeness": 92,
   "found": "2026-11-02"
  },
+ "CHH-curso-educacionespecial-281-29": {
+  "state": "CHH",
+  "name": "Curso-Educacionespecial %281%29",
+  "cat": "other",
+  "img": "CHH-curso-educacionespecial-281-29.webp",
+  "kind": "new",
+  "target": null,
+  "source": "https://chihuahua.gob.mx/contenidos/programa-de-revalidacion-y-canje-de-placas-para-reforzar-la-seguridad-publica-en",
+  "page": "CHH",
+  "picture": "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/CURSO-EDUCACIONESPECIAL%20%281%29.jpeg",
+  "likeness": 98,
+  "found": "2026-11-09"
+ },
+ "CHH-desviaci-c3-b3n-mlb-cambio-ruta-2-cambio": {
+  "state": "CHH",
+  "name": "Desviaci%C3%B3N Mlb Cambio Ruta 2 Cambio Ruta 2%281%29",
+  "cat": "sports",
+  "img": "CHH-desviaci-c3-b3n-mlb-cambio-ruta-2-cambio.webp",
+  "kind": "new",
+  "target": null,
+  "source": "https://chihuahua.gob.mx/contenidos/programa-de-revalidacion-y-canje-de-placas-para-reforzar-la-seguridad-publica-en",
+  "page": "CHH",
+  "picture": "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/desviaci%C3%B3n%20mlb_CAMBIO%20ruta%202_CAMBIO%20ruta%202%281%29.jpg",
+  "likeness": 95,
+  "found": "2026-11-09"
+ },
+ "CHH-dsc04811": {
+  "state": "CHH",
+  "name": "Dsc04811",
+  "cat": "other",
+  "img": "CHH-dsc04811.webp",
+  "kind": "new",
+  "target": null,
+  "source": "https://chihuahua.gob.mx/contenidos/programa-de-revalidacion-y-canje-de-placas-para-reforzar-la-seguridad-publica-en",
+  "page": "CHH",
+  "picture": "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/DSC04811.JPG",
+  "likeness": 94,
+  "found": "2026-11-09"
+ },
  "CHH-image1-283-29": {
   "state": "CHH",
   "name": "Image1%283%29",
@@ -115,6 +154,19 @@
   "picture": "/atach2/grupos/user1517/whatsapp_image_2022-01-20_at_1.22.41_pm_1.jpeg",
   "likeness": 93,
   "found": "2026-10-29"
+ },
+ "CHH-mcu02-281-29": {
+  "state": "CHH",
+  "name": "Mcu02 %281%29",
+  "cat": "other",
+  "img": "CHH-mcu02-281-29.webp",
+  "kind": "new",
+  "target": null,
+  "source": "https://chihuahua.gob.mx/contenidos/programa-de-revalidacion-y-canje-de-placas-para-reforzar-la-seguridad-publica-en",
+  "page": "CHH",
+  "picture": "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/MCU02%20%281%29.jpg",
+  "likeness": 84,
+  "found": "2026-11-09"
  },
  "CHH-mensaje-de-la-gobernadora-maru-campos": {
   "state": "CHH",
@@ -246,6 +298,19 @@
   "likeness": 101,
   "found": "2026-11-02"
  },
+ "CHH-whatsapp-2026-09-10-at-3-55-44-pm": {
+  "state": "CHH",
+  "name": "Whatsapp 2026-09-10 At 3.55.44 Pm",
+  "cat": "other",
+  "img": "CHH-whatsapp-2026-09-10-at-3-55-44-pm.webp",
+  "kind": "new",
+  "target": null,
+  "source": "https://chihuahua.gob.mx/contenidos/programa-de-revalidacion-y-canje-de-placas-para-reforzar-la-seguridad-publica-en",
+  "page": "CHH",
+  "picture": "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/WhatsApp%20Image%202026-09-10%20at%203.55.44%20PM.jpeg",
+  "likeness": 98,
+  "found": "2026-11-09"
+ },
  "CHH-whatsapp-2026-09-11-at-11-10-44-am": {
   "state": "CHH",
   "name": "Whatsapp 2026-09-11 At 11.10.44 Am",
@@ -271,6 +336,19 @@
   "picture": "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/WhatsApp%20Image%202026-09-14%20at%2011.34.54%20AM.jpeg",
   "likeness": 95,
   "found": "2026-11-02"
+ },
+ "CHH-whatsapp-2026-09-14-at-11-50-49-am-281-2": {
+  "state": "CHH",
+  "name": "Whatsapp 2026-09-14 At 11.50.49 Am %281%29",
+  "cat": "other",
+  "img": "CHH-whatsapp-2026-09-14-at-11-50-49-am-281-2.webp",
+  "kind": "new",
+  "target": null,
+  "source": "https://chihuahua.gob.mx/contenidos/programa-de-revalidacion-y-canje-de-placas-para-reforzar-la-seguridad-publica-en",
+  "page": "CHH",
+  "picture": "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/WhatsApp%20Image%202026-09-14%20at%2011.50.49%20AM%20%281%29.jpeg",
+  "likeness": 96,
+  "found": "2026-11-09"
  },
  "CMX-ceda": {
   "state": "CMX",
@@ -505,6 +583,110 @@
   "picture": "/sites/default/files/styles/medium/public/motor-vehicle-services/license-plates/Wildlife%252520-%252520Rabbit_jpg.jpg.webp",
   "likeness": 35,
   "found": "2026-10-29"
+ },
+ "NV-nevada-state-university": {
+  "state": "NV",
+  "name": "Nevada State University",
+  "cat": "colleges",
+  "img": "NV-nevada-state-university.webp",
+  "kind": "new",
+  "target": null,
+  "source": "https://dmv.nv.gov/platesmain.htm",
+  "page": "NV-main",
+  "picture": "/images/platesmain/nsu.jpg",
+  "likeness": 80,
+  "found": "2026-11-09"
+ },
+ "NV-roseman-university": {
+  "state": "NV",
+  "name": "Roseman University",
+  "cat": "colleges",
+  "img": "NV-roseman-university.webp",
+  "kind": "new",
+  "target": null,
+  "source": "https://dmv.nv.gov/platesmain.htm",
+  "page": "NV-main",
+  "picture": "/images/platesmain/rosemanuni.jpg",
+  "likeness": 81,
+  "found": "2026-11-09"
+ },
+ "OH-case-western-reserve-university": {
+  "state": "OH",
+  "name": "Case Western Reserve University",
+  "cat": "military",
+  "img": "OH-case-western-reserve-university.webp",
+  "kind": "new",
+  "target": null,
+  "source": "https://www.bmv.ohio.gov/vr-sp-geninfo.aspx",
+  "page": "OH",
+  "picture": "/img/special_plates/ohio_pride/c_case_western.jpg",
+  "likeness": 35,
+  "found": "2026-11-09"
+ },
+ "OH-kayak": {
+  "state": "OH",
+  "name": "kayak",
+  "cat": "other",
+  "img": "OH-kayak.webp",
+  "kind": "new",
+  "target": null,
+  "source": "https://www.bmv.ohio.gov/vr-sp-geninfo.aspx",
+  "page": "OH",
+  "picture": "/img/special_plates/ohio_pride/si_lake_erie_kayak.jpg",
+  "likeness": 25,
+  "found": "2026-11-09"
+ },
+ "OH-replica": {
+  "state": "OH",
+  "name": "Replica",
+  "cat": "vehicle",
+  "img": "OH-replica.webp",
+  "kind": "new",
+  "target": null,
+  "source": "https://www.bmv.ohio.gov/vr-sp-geninfo.aspx",
+  "page": "OH",
+  "picture": "/img/special_plates/ohio_pride/si_replica.jpg",
+  "likeness": 73,
+  "found": "2026-11-09"
+ },
+ "OH-vehicle-type": {
+  "state": "OH",
+  "name": "Vehicle Type",
+  "cat": "other",
+  "img": "OH-vehicle-type.webp",
+  "kind": "new",
+  "target": null,
+  "source": "https://www.bmv.ohio.gov/vr-sp-geninfo.aspx",
+  "page": "OH",
+  "picture": "/img/special_plates/g_state_d.gif",
+  "likeness": 82,
+  "found": "2026-11-09"
+ },
+ "OH-vehicle-type-x": {
+  "state": "OH",
+  "name": "Vehicle Type",
+  "cat": "other",
+  "img": "OH-vehicle-type-x.webp",
+  "kind": "new",
+  "target": null,
+  "source": "https://www.bmv.ohio.gov/vr-sp-geninfo.aspx",
+  "page": "OH",
+  "picture": "/img/special_plates/g_state_veh.gif",
+  "likeness": 85,
+  "found": "2026-11-09"
+ },
+ "OH-vehicle-type-x-x": {
+  "state": "OH",
+  "name": "Vehicle Type",
+  "cat": "other",
+  "img": "OH-vehicle-type-x-x.webp",
+  "kind": "new",
+  "target": null,
+  "source": "https://www.bmv.ohio.gov/vr-sp-geninfo.aspx",
+  "page": "OH",
+  "picture": "/img/special_plates/g_turnpike.gif",
+  "likeness": 82,
+  "found": "2026-11-09"
  },
  "PUE-finanzas-2104-1": {
   "state": "PUE",
