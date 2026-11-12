@@ -181,6 +181,19 @@
   "likeness": 85,
   "found": "2026-11-05"
  },
+ "CHH-mensaje-de-la-gobernadora-maru-campos-x": {
+  "state": "CHH",
+  "name": "MENSAJE DE LA GOBERNADORA MARU CAMPOS",
+  "cat": "other",
+  "img": "CHH-mensaje-de-la-gobernadora-maru-campos-x.webp",
+  "kind": "new",
+  "target": null,
+  "source": "https://chihuahua.gob.mx/contenidos/programa-de-revalidacion-y-canje-de-placas-para-reforzar-la-seguridad-publica-en",
+  "page": "CHH",
+  "picture": "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/1000435729.jpg",
+  "likeness": 85,
+  "found": "2026-11-12"
+ },
  "CHH-new-plate-2026-10-29": {
   "state": "CHH",
   "name": "New plate 2026-10-29",
@@ -246,6 +259,32 @@
   "likeness": 92,
   "found": "2026-11-05"
  },
+ "CHH-new-plate-2026-11-12": {
+  "state": "CHH",
+  "name": "New plate 2026-11-12",
+  "cat": "other",
+  "img": "CHH-new-plate-2026-11-12.webp",
+  "kind": "new",
+  "target": null,
+  "source": "https://chihuahua.gob.mx/contenidos/programa-de-revalidacion-y-canje-de-placas-para-reforzar-la-seguridad-publica-en",
+  "page": "CHH",
+  "picture": "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/486836788_1088976366592499_2248420376625648191_n.jpg",
+  "likeness": 102,
+  "found": "2026-11-12"
+ },
+ "CHH-new-plate-2026-11-12-x": {
+  "state": "CHH",
+  "name": "New plate 2026-11-12",
+  "cat": "other",
+  "img": "CHH-new-plate-2026-11-12-x.webp",
+  "kind": "new",
+  "target": null,
+  "source": "https://chihuahua.gob.mx/contenidos/programa-de-revalidacion-y-canje-de-placas-para-reforzar-la-seguridad-publica-en",
+  "page": "CHH",
+  "picture": "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/d9dc59bf-5a4f-460c-835a-f46f6c6d5565.jpg",
+  "likeness": 92,
+  "found": "2026-11-12"
+ },
  "CHH-utcj-286-29": {
   "state": "CHH",
   "name": "Utcj %286%29",
@@ -258,6 +297,19 @@
   "picture": "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/utcj%20%286%29.jpg",
   "likeness": 101,
   "found": "2026-11-05"
+ },
+ "CHH-utcj-286-29-x": {
+  "state": "CHH",
+  "name": "Utcj %286%29",
+  "cat": "other",
+  "img": "CHH-utcj-286-29-x.webp",
+  "kind": "new",
+  "target": null,
+  "source": "https://chihuahua.gob.mx/contenidos/programa-de-revalidacion-y-canje-de-placas-para-reforzar-la-seguridad-publica-en",
+  "page": "CHH",
+  "picture": "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/utcj%20%286%29.jpg",
+  "likeness": 101,
+  "found": "2026-11-12"
  },
  "CHH-whatsapp-2022-01-20-at-1-22-41-pm": {
   "state": "CHH",
@@ -349,6 +401,32 @@
   "picture": "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/WhatsApp%20Image%202026-09-14%20at%2011.50.49%20AM%20%281%29.jpeg",
   "likeness": 96,
   "found": "2026-11-09"
+ },
+ "CHH-whatsapp-2026-09-17-at-4-37-56-pm-281-29": {
+  "state": "CHH",
+  "name": "Whatsapp 2026-09-17 At 4.37.56 Pm %281%29",
+  "cat": "other",
+  "img": "CHH-whatsapp-2026-09-17-at-4-37-56-pm-281-29.webp",
+  "kind": "new",
+  "target": null,
+  "source": "https://chihuahua.gob.mx/contenidos/programa-de-revalidacion-y-canje-de-placas-para-reforzar-la-seguridad-publica-en",
+  "page": "CHH",
+  "picture": "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/WhatsApp%20Image%202026-09-17%20at%204.37.56%20PM%20%281%29.jpeg",
+  "likeness": 103,
+  "found": "2026-11-12"
+ },
+ "CHH-whatsapp-2026-09-23-at-11-27-07-am": {
+  "state": "CHH",
+  "name": "Whatsapp 2026-09-23 At 11.27.07 Am",
+  "cat": "other",
+  "img": "CHH-whatsapp-2026-09-23-at-11-27-07-am.webp",
+  "kind": "new",
+  "target": null,
+  "source": "https://chihuahua.gob.mx/contenidos/programa-de-revalidacion-y-canje-de-placas-para-reforzar-la-seguridad-publica-en",
+  "page": "CHH",
+  "picture": "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/WhatsApp%20Image%202026-09-23%20at%2011.27.07%20AM.jpeg",
+  "likeness": 88,
+  "found": "2026-11-12"
  },
  "CMX-ceda": {
   "state": "CMX",

@@ -12,12 +12,7 @@
    "src": "https://www.idmv.inf.gov.nt.ca/Frontend/Images/box_alert.png",
    "alt": "",
    "verdict": "not-a-plate"
-  },
-  "/Frontend/Images/box_info.png": {
-   "src": "https://www.idmv.inf.gov.nt.ca/Frontend/Images/box_info.png",
-   "alt": "",
-   "verdict": "not-a-plate"
   }
  },
- "checked": "2026-11-09"
+ "checked": "2026-11-12"
 }
