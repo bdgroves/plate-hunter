@@ -3,7 +3,7 @@
  "name": "South Carolina",
  "rated": false,
  "checked": true,
- "updated": "2026-10-26",
+ "updated": "2026-11-16",
  "about": "South Carolina special-design plates. Not rated yet: every plate is worth the same. Checked against the state's plate gallery by the plate robot, Oct 2026.",
  "sources": [
   {
@@ -1455,6 +1455,15 @@
    "cat": "colleges",
    "img": "west-virginia-university.webp",
    "added": "2026-10-26",
+   "auto": true,
+   "source": "https://www.scdmvonline.com/Vehicle-Owners/Registration/Plate-Gallery"
+  },
+  {
+   "id": "armed-forces-surviving-spouse",
+   "name": "Armed Forces Surviving Spouse",
+   "cat": "military",
+   "img": "armed-forces-surviving-spouse.webp",
+   "added": "2026-11-16",
    "auto": true,
    "source": "https://www.scdmvonline.com/Vehicle-Owners/Registration/Plate-Gallery"
   }

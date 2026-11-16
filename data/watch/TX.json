@@ -18,11 +18,6 @@
    "alt": "Two Texas license plates, one reading RESTYLE on the Texas flag design and one reading YOR PL8 in black",
    "verdict": "not-a-plate"
   },
-  "/plates/auto.Deepintheheart.png": {
-   "src": "https://cdn.myplates.com/plates/auto.Deepintheheart.png",
-   "alt": "Deep in the Heart Flag",
-   "verdict": "plate:deep-in-the-heart-flag"
-  },
   "/plates/auto.Embossed_CarbonFiber.png": {
    "src": "https://cdn.myplates.com/plates/auto.Embossed_CarbonFiber.png",
    "alt": "Carbon Fiber Premium Embossed",
@@ -47,7 +42,12 @@
    "src": "https://cdn.myplates.com/plates/auto.T_Silver.png",
    "alt": "Texas Silver 1836",
    "verdict": "plate:texas-silver-1836"
+  },
+  "/plates/auto.TexasRangers.png": {
+   "src": "https://cdn.myplates.com/plates/auto.TexasRangers.png",
+   "alt": "Texas Rangers",
+   "verdict": "pending:TX-texas-rangers"
   }
  },
- "checked": "2026-10-26"
+ "checked": "2026-11-16"
 }

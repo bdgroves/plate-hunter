@@ -285,6 +285,45 @@
   "likeness": 92,
   "found": "2026-11-12"
  },
+ "CHH-new-plate-2026-11-16": {
+  "state": "CHH",
+  "name": "New plate 2026-11-16",
+  "cat": "other",
+  "img": "CHH-new-plate-2026-11-16.webp",
+  "kind": "new",
+  "target": null,
+  "source": "https://chihuahua.gob.mx/contenidos/programa-de-revalidacion-y-canje-de-placas-para-reforzar-la-seguridad-publica-en",
+  "page": "CHH",
+  "picture": "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/1%20%283%29.jpeg",
+  "likeness": 93,
+  "found": "2026-11-16"
+ },
+ "CHH-new-plate-2026-11-16-x": {
+  "state": "CHH",
+  "name": "New plate 2026-11-16",
+  "cat": "other",
+  "img": "CHH-new-plate-2026-11-16-x.webp",
+  "kind": "new",
+  "target": null,
+  "source": "https://chihuahua.gob.mx/contenidos/programa-de-revalidacion-y-canje-de-placas-para-reforzar-la-seguridad-publica-en",
+  "page": "CHH",
+  "picture": "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/J3%20%282%29_0.jpeg",
+  "likeness": 92,
+  "found": "2026-11-16"
+ },
+ "CHH-new-plate-2026-11-16-x-x": {
+  "state": "CHH",
+  "name": "New plate 2026-11-16",
+  "cat": "other",
+  "img": "CHH-new-plate-2026-11-16-x-x.webp",
+  "kind": "new",
+  "target": null,
+  "source": "https://chihuahua.gob.mx/contenidos/programa-de-revalidacion-y-canje-de-placas-para-reforzar-la-seguridad-publica-en",
+  "page": "CHH",
+  "picture": "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/S1%20%281%29.jpeg",
+  "likeness": 89,
+  "found": "2026-11-16"
+ },
  "CHH-utcj-286-29": {
   "state": "CHH",
   "name": "Utcj %286%29",
@@ -415,6 +454,19 @@
   "likeness": 103,
   "found": "2026-11-12"
  },
+ "CHH-whatsapp-2026-09-18-at-10-27-30-am": {
+  "state": "CHH",
+  "name": "Whatsapp 2026-09-18 At 10.27.30 Am",
+  "cat": "other",
+  "img": "CHH-whatsapp-2026-09-18-at-10-27-30-am.webp",
+  "kind": "new",
+  "target": null,
+  "source": "https://chihuahua.gob.mx/contenidos/programa-de-revalidacion-y-canje-de-placas-para-reforzar-la-seguridad-publica-en",
+  "page": "CHH",
+  "picture": "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/WhatsApp%20Image%202026-09-18%20at%2010.27.30%20AM.jpeg",
+  "likeness": 93,
+  "found": "2026-11-16"
+ },
  "CHH-whatsapp-2026-09-23-at-11-27-07-am": {
   "state": "CHH",
   "name": "Whatsapp 2026-09-23 At 11.27.07 Am",
@@ -427,6 +479,32 @@
   "picture": "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/WhatsApp%20Image%202026-09-23%20at%2011.27.07%20AM.jpeg",
   "likeness": 88,
   "found": "2026-11-12"
+ },
+ "CHH-whatsapp-2026-09-24-at-12-14-47-pm-282-2": {
+  "state": "CHH",
+  "name": "Whatsapp 2026-09-24 At 12.14.47 Pm %282%29",
+  "cat": "other",
+  "img": "CHH-whatsapp-2026-09-24-at-12-14-47-pm-282-2.webp",
+  "kind": "new",
+  "target": null,
+  "source": "https://chihuahua.gob.mx/contenidos/programa-de-revalidacion-y-canje-de-placas-para-reforzar-la-seguridad-publica-en",
+  "page": "CHH",
+  "picture": "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/WhatsApp%20Image%202026-09-24%20at%2012.14.47%20PM%20%282%29.jpeg",
+  "likeness": 94,
+  "found": "2026-11-16"
+ },
+ "CHH-whatsapp-2026-09-25-at-15-01-33": {
+  "state": "CHH",
+  "name": "Whatsapp 2026-09-25 At 15.01.33",
+  "cat": "other",
+  "img": "CHH-whatsapp-2026-09-25-at-15-01-33.webp",
+  "kind": "new",
+  "target": null,
+  "source": "https://chihuahua.gob.mx/contenidos/programa-de-revalidacion-y-canje-de-placas-para-reforzar-la-seguridad-publica-en",
+  "page": "CHH",
+  "picture": "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/WhatsApp%20Image%202026-09-25%20at%2015.01.33%20Large.jpeg",
+  "likeness": 99,
+  "found": "2026-11-16"
  },
  "CMX-ceda": {
   "state": "CMX",
@@ -870,6 +948,19 @@
   "likeness": 92,
   "found": "2026-10-29"
  },
+ "SC-south-carolina-blackout": {
+  "state": "SC",
+  "name": "South Carolina Blackout",
+  "cat": "other",
+  "img": "SC-south-carolina-blackout.webp",
+  "kind": "new",
+  "target": null,
+  "source": "https://www.scdmvonline.com/Vehicle-Owners/Registration/Plate-Gallery",
+  "page": "SC",
+  "picture": "/sites/scdmv/files/2026-10/BO%20BLACKOUT.png",
+  "likeness": 67,
+  "found": "2026-11-16"
+ },
  "TAM-compartir": {
   "state": "TAM",
   "name": "Compartir",
@@ -921,6 +1012,19 @@
   "picture": "/discontinued/auto.UTSA.png",
   "likeness": 78,
   "found": "2026-10-29"
+ },
+ "TX-texas-rangers": {
+  "state": "TX",
+  "name": "Texas Rangers",
+  "cat": "military",
+  "img": "TX-texas-rangers.webp",
+  "kind": "redesign",
+  "target": "texas-rangers",
+  "source": "https://www.myplates.com/",
+  "page": "TX",
+  "picture": "/plates/auto.TexasRangers.png",
+  "likeness": 57,
+  "found": "2026-11-16"
  },
  "TX-university-of-illinois-discontinued": {
   "state": "TX",

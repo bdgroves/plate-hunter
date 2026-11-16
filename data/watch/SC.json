@@ -48,6 +48,21 @@
    "alt": "The Power of Art",
    "verdict": "plate:respiratory-therapy"
   },
+  "/sites/scdmv/files/2026-10/BO%20BLACKOUT.png": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/2026-10/BO%20BLACKOUT.png",
+   "alt": "South Carolina Blackout license plate",
+   "verdict": "pending:SC-south-carolina-blackout"
+  },
+  "/sites/scdmv/files/2026-10/IR%20INHERENT%20RESOLVE.jpg": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/2026-10/IR%20INHERENT%20RESOLVE.jpg",
+   "alt": "Operation Inherent Resolve license plate",
+   "verdict": "plate:navy-and-marine-corps-medal"
+  },
+  "/sites/scdmv/files/2026-10/TY%20ARMED%20FORCES%20SURVIVING%20SPOUSE_0.jpg": {
+   "src": "https://www.scdmvonline.com/sites/scdmv/files/2026-10/TY%20ARMED%20FORCES%20SURVIVING%20SPOUSE_0.jpg",
+   "alt": "Armed Forces Surviving Spouse license plate",
+   "verdict": "new:armed-forces-surviving-spouse"
+  },
   "/sites/scdmv/files/media/Images/Plates/AND-plate.png": {
    "src": "https://www.scdmvonline.com/sites/scdmv/files/media/Images/Plates/AND-plate.png",
    "alt": "Autistic / Neurodivergent License Plate",
@@ -1184,5 +1199,5 @@
    "verdict": "rejected"
   }
  },
- "checked": "2026-11-02"
+ "checked": "2026-11-16"
 }
