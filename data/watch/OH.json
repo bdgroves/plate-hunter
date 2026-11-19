@@ -963,6 +963,11 @@
    "alt": "Ohio Society Respiratory Care",
    "verdict": "plate:ohio-society-for-respiratory-care"
   },
+  "/img/special_plates/ohio_pride/si_ohio_ancient_order_of_hibernians.jpg": {
+   "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_ohio_ancient_order_of_hibernians.jpg",
+   "alt": "Ohio Ancient Order of Hibernians",
+   "verdict": "plate:alpha-kappa-alpha"
+  },
   "/img/special_plates/ohio_pride/si_ohio_bird_sanctuary.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_ohio_bird_sanctuary.jpg",
    "alt": "Ohio Bird Sanctuary",
@@ -1308,6 +1313,11 @@
    "alt": "Terrace Park",
    "verdict": "plate:ohio-society-for-respiratory-care"
   },
+  "/img/special_plates/ohio_pride/si_toledo_mud_hens.jpg": {
+   "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_toledo_mud_hens.jpg",
+   "alt": "Toledo Mud Hens",
+   "verdict": "plate:dayton-dragons"
+  },
   "/img/special_plates/ohio_pride/si_transit_bus.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_transit_bus.jpg",
    "alt": "Transit Bus",
@@ -1434,5 +1444,5 @@
    "verdict": "not-a-plate"
   }
  },
- "checked": "2026-11-09"
+ "checked": "2026-11-19"
 }

@@ -58,6 +58,11 @@
    "alt": "Wisconsin National Guard license plate.",
    "verdict": "new:support-county-forests"
   },
+  "/PublishingImages/dmv/shared/plates/TUR.png": {
+   "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/TUR.png",
+   "alt": "Whitetails plate",
+   "verdict": "pending:WI-whitetails"
+  },
   "/PublishingImages/dmv/shared/plates/UTLPlate2020.png": {
    "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/plates/UTLPlate2020.png",
    "alt": "Keeping the Lights On Plate",
@@ -359,5 +364,5 @@
    "verdict": "not-a-plate"
   }
  },
- "checked": "2026-10-26"
+ "checked": "2026-11-19"
 }

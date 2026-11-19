@@ -118,11 +118,11 @@
    "alt": "Servicio 1",
    "verdict": "not-a-plate"
   },
-  "/assets/images/modal/aviso1.png": {
-   "src": "https://portaltributario.hidalgo.gob.mx/assets/images/modal/aviso1.png",
+  "/assets/images/modal/aviso.png": {
+   "src": "https://portaltributario.hidalgo.gob.mx/assets/images/modal/aviso.png",
    "alt": "...",
-   "verdict": "pending:HID-ubicaci-n-aviso"
+   "verdict": "pending:HID-ubicaci-n-aviso-x"
   }
  },
- "checked": "2026-10-29"
+ "checked": "2026-11-19"
 }

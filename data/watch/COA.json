@@ -67,12 +67,7 @@
    "src": "https://coahuila.gob.mx/archivos/imagenes/8/8/001_PRESENTA_GOBERNADOR_MODELO_COAHUILA_EN_EL_SENADO_DE_LA_REPUYBLICA_uploaded_v1_4.jpg",
    "alt": "Presenta Gobernador Modelo Coahuila en el Senado de la República",
    "verdict": "pending:COA-seguridad-p-blica"
-  },
-  "/images/octubre-2026.png": {
-   "src": "https://coahuila.gob.mx/images/octubre-2026.png",
-   "alt": "Sitio Oficial del Gobierno de Coahuila",
-   "verdict": "not-a-plate"
   }
  },
- "checked": "2026-10-29"
+ "checked": "2026-11-19"
 }
