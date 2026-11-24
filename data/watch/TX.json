@@ -28,6 +28,11 @@
    "alt": "Lone Star 1836",
    "verdict": "plate:lone-star-1836"
   },
+  "/plates/auto.LoneStarRed.png": {
+   "src": "https://cdn.myplates.com/plates/auto.LoneStarRed.png",
+   "alt": "Lone Star Red",
+   "verdict": "plate:lone-star-red"
+  },
   "/plates/auto.LoveHeartBlack.png": {
    "src": "https://cdn.myplates.com/plates/auto.LoveHeartBlack.png",
    "alt": "Love Heart Black",
@@ -42,12 +47,7 @@
    "src": "https://cdn.myplates.com/plates/auto.T_Silver.png",
    "alt": "Texas Silver 1836",
    "verdict": "plate:texas-silver-1836"
-  },
-  "/plates/auto.TexasRangers.png": {
-   "src": "https://cdn.myplates.com/plates/auto.TexasRangers.png",
-   "alt": "Texas Rangers",
-   "verdict": "pending:TX-texas-rangers"
   }
  },
- "checked": "2026-11-16"
+ "checked": "2026-11-24"
 }

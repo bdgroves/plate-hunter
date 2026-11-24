@@ -319,7 +319,7 @@
    "verdict": "plate:retired-law-enforcement"
   },
   "/files/dvs/Rotary-International-Text-1500x763.jpg": {
-   "src": "https://assets.dps.mn.gov/files/dvs/Rotary-International-Text-1500x763.jpg?v=1765415596",
+   "src": "https://assets.dps.mn.gov/files/dvs/Rotary-International-Text-1500x763.jpg?v=1795194400",
    "alt": "Sample of a Rotary International license plate",
    "verdict": "new:rotary-international"
   },
@@ -484,5 +484,5 @@
    "verdict": "not-a-plate"
   }
  },
- "checked": "2026-10-26"
+ "checked": "2026-11-24"
 }

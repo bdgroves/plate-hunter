@@ -116,6 +116,19 @@
   "likeness": 96,
   "found": "2026-10-29"
  },
+ "CHH-img-1053": {
+  "state": "CHH",
+  "name": "Img 1053",
+  "cat": "other",
+  "img": "CHH-img-1053.webp",
+  "kind": "new",
+  "target": null,
+  "source": "https://chihuahua.gob.mx/contenidos/programa-de-revalidacion-y-canje-de-placas-para-reforzar-la-seguridad-publica-en",
+  "page": "CHH",
+  "picture": "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/IMG_1053.png",
+  "likeness": 98,
+  "found": "2026-11-24"
+ },
  "CHH-img-7819": {
   "state": "CHH",
   "name": "Img 7819",
@@ -323,6 +336,58 @@
   "picture": "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/S1%20%281%29.jpeg",
   "likeness": 89,
   "found": "2026-11-16"
+ },
+ "CHH-new-plate-2026-11-24": {
+  "state": "CHH",
+  "name": "New plate 2026-11-24",
+  "cat": "other",
+  "img": "CHH-new-plate-2026-11-24.webp",
+  "kind": "new",
+  "target": null,
+  "source": "https://chihuahua.gob.mx/contenidos/programa-de-revalidacion-y-canje-de-placas-para-reforzar-la-seguridad-publica-en",
+  "page": "CHH",
+  "picture": "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/1000439841.jpg",
+  "likeness": 93,
+  "found": "2026-11-24"
+ },
+ "CHH-new-plate-2026-11-24-x": {
+  "state": "CHH",
+  "name": "New plate 2026-11-24",
+  "cat": "other",
+  "img": "CHH-new-plate-2026-11-24-x.webp",
+  "kind": "new",
+  "target": null,
+  "source": "https://chihuahua.gob.mx/contenidos/programa-de-revalidacion-y-canje-de-placas-para-reforzar-la-seguridad-publica-en",
+  "page": "CHH",
+  "picture": "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-10/F1.jpg",
+  "likeness": 90,
+  "found": "2026-11-24"
+ },
+ "CHH-new-plate-2026-11-24-x-x": {
+  "state": "CHH",
+  "name": "New plate 2026-11-24",
+  "cat": "other",
+  "img": "CHH-new-plate-2026-11-24-x-x.webp",
+  "kind": "new",
+  "target": null,
+  "source": "https://chihuahua.gob.mx/contenidos/programa-de-revalidacion-y-canje-de-placas-para-reforzar-la-seguridad-publica-en",
+  "page": "CHH",
+  "picture": "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-10/1000413045.jpg",
+  "likeness": 91,
+  "found": "2026-11-24"
+ },
+ "CHH-nifco-1": {
+  "state": "CHH",
+  "name": "Nifco 1",
+  "cat": "other",
+  "img": "CHH-nifco-1.webp",
+  "kind": "new",
+  "target": null,
+  "source": "https://chihuahua.gob.mx/contenidos/programa-de-revalidacion-y-canje-de-placas-para-reforzar-la-seguridad-publica-en",
+  "page": "CHH",
+  "picture": "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/NIFCO%201.jpeg",
+  "likeness": 98,
+  "found": "2026-11-24"
  },
  "CHH-utcj-286-29": {
   "state": "CHH",
@@ -571,6 +636,19 @@
   "likeness": 97,
   "found": "2026-11-19"
  },
+ "CHH-whatsapp-2026-09-28-at-1-48-05-pm": {
+  "state": "CHH",
+  "name": "Whatsapp 2026-09-28 At 1.48.05 Pm",
+  "cat": "other",
+  "img": "CHH-whatsapp-2026-09-28-at-1-48-05-pm.webp",
+  "kind": "new",
+  "target": null,
+  "source": "https://chihuahua.gob.mx/contenidos/programa-de-revalidacion-y-canje-de-placas-para-reforzar-la-seguridad-publica-en",
+  "page": "CHH",
+  "picture": "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/WhatsApp%20Image%202026-09-28%20at%201.48.05%20PM.jpeg",
+  "likeness": 89,
+  "found": "2026-11-24"
+ },
  "CHH-whatsapp-2026-09-28-at-11-11-58": {
   "state": "CHH",
   "name": "Whatsapp 2026-09-28 At 11.11.58",
@@ -597,6 +675,19 @@
   "likeness": 95,
   "found": "2026-10-29"
  },
+ "CMX-ciudad-23-11-2026": {
+  "state": "CMX",
+  "name": "Ciudad 23/11/2026",
+  "cat": "other",
+  "img": "CMX-ciudad-23-11-2026.webp",
+  "kind": "new",
+  "target": null,
+  "source": "https://noticiasc21.cdmx.gob.mx/noticia/cdmx-arranca-entrega-de-placas-conmemorativas-del-mundial-2026-esto-es-lo-que-debes-saber",
+  "page": "CMX-2",
+  "picture": "/img/clara-brugada-da-la-bienvenida-a-15-mil-universitarios-al-programa-de-becas-para-transporte/uploads/1795372252164-416789.jpg",
+  "likeness": 90,
+  "found": "2026-11-24"
+ },
  "CMX-creado-con-ia": {
   "state": "CMX",
   "name": "CREADO CON IA",
@@ -622,6 +713,19 @@
   "picture": "/img/fmi-renueva-linea-de-credito/uploads/1794617763292-IMG_8423.jpg",
   "likeness": 93,
   "found": "2026-11-19"
+ },
+ "CMX-gobcdmx": {
+  "state": "CMX",
+  "name": "gobcdmx",
+  "cat": "other",
+  "img": "CMX-gobcdmx.webp",
+  "kind": "new",
+  "target": null,
+  "source": "https://noticiasc21.cdmx.gob.mx/noticia/cdmx-arranca-entrega-de-placas-conmemorativas-del-mundial-2026-esto-es-lo-que-debes-saber",
+  "page": "CMX-2",
+  "picture": "/img/cdmx-destina-14-mil-306-millones-de-pesos-a-escuelas-publicas-en-dos-anos/uploads/1795470599827-escuela_nuestra_programa_brugada_recursos_cdmx.jpg",
+  "likeness": 88,
+  "found": "2026-11-24"
  },
  "CMX-ssc": {
   "state": "CMX",
@@ -817,6 +921,19 @@
   "picture": "/assets/images/modal/aviso.png",
   "likeness": 92,
   "found": "2026-11-19"
+ },
+ "MB-call-mpi-basketball-manitoba": {
+  "state": "MB",
+  "name": "call MPI Basketball Manitoba",
+  "cat": "sports",
+  "img": "MB-call-mpi-basketball-manitoba.webp",
+  "kind": "new",
+  "target": null,
+  "source": "https://www.mpi.mb.ca/specialty-plates-non-member/",
+  "page": "MB",
+  "picture": "/wp-content/uploads/SeatbearsLicencePlate_HR.png",
+  "likeness": 73,
+  "found": "2026-11-24"
  },
  "MS-vanity-passenger": {
   "state": "MS",
