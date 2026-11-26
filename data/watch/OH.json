@@ -1088,6 +1088,11 @@
    "alt": "Physician",
    "verdict": "plate:physician"
   },
+  "/img/special_plates/ohio_pride/si_play_golf_ohio.jpg": {
+   "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_play_golf_ohio.jpg",
+   "alt": "Play Golf Ohio",
+   "verdict": "pending:OH-play-golf-ohio"
+  },
   "/img/special_plates/ohio_pride/si_playhouse-square.jpg": {
    "src": "https://www.bmv.ohio.gov/img/special_plates/ohio_pride/si_playhouse-square.jpg",
    "alt": "Playhouse Square",
@@ -1444,5 +1449,5 @@
    "verdict": "not-a-plate"
   }
  },
- "checked": "2026-11-19"
+ "checked": "2026-11-26"
 }

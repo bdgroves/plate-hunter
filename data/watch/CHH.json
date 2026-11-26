@@ -23,35 +23,35 @@
    "alt": "",
    "verdict": "not-a-plate"
   },
-  "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/1000439841.jpg": {
-   "src": "https://chihuahua.gob.mx/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/1000439841.jpg?itok=WH1uH8zR",
+  "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/1000411052.jpg": {
+   "src": "https://chihuahua.gob.mx/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/1000411052.jpg?itok=BZJiVpPP",
    "alt": "",
-   "verdict": "pending:CHH-new-plate-2026-11-24"
+   "verdict": "pending:CHH-new-plate-2026-11-26"
   },
-  "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/IMG_1053.png": {
-   "src": "https://chihuahua.gob.mx/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/IMG_1053.png?itok=WtXJ--ql",
+  "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/WhatsApp%20Image%202026-09-28%20at%2014.51.44.jpeg": {
+   "src": "https://chihuahua.gob.mx/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/WhatsApp%20Image%202026-09-28%20at%2014.51.44.jpeg?itok=1eD2r9-z",
    "alt": "",
-   "verdict": "pending:CHH-img-1053"
+   "verdict": "pending:CHH-whatsapp-2026-09-28-at-14-51-44"
   },
-  "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/NIFCO%201.jpeg": {
-   "src": "https://chihuahua.gob.mx/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/NIFCO%201.jpeg?itok=yVbkgdCd",
+  "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-10/Casa%20Juarez%20de%20taman%CC%83o%20grande.jpeg": {
+   "src": "https://chihuahua.gob.mx/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-10/Casa%20Juarez%20de%20taman%CC%83o%20grande.jpeg?itok=E0blCDYp",
    "alt": "",
-   "verdict": "pending:CHH-nifco-1"
+   "verdict": "pending:CHH-casa-juarez-de-taman-cc-83o-grande"
   },
-  "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/WhatsApp%20Image%202026-09-28%20at%201.48.05%20PM.jpeg": {
-   "src": "https://chihuahua.gob.mx/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-09/WhatsApp%20Image%202026-09-28%20at%201.48.05%20PM.jpeg?itok=ICRxXOzI",
+  "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-10/IMG_2986.jpeg": {
+   "src": "https://chihuahua.gob.mx/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-10/IMG_2986.jpeg?itok=TBMoK0rY",
    "alt": "",
-   "verdict": "pending:CHH-whatsapp-2026-09-28-at-1-48-05-pm"
+   "verdict": "pending:CHH-img-2986"
   },
-  "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-10/1000413045.jpg": {
-   "src": "https://chihuahua.gob.mx/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-10/1000413045.jpg?itok=GOb-8G-q",
+  "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-10/IMG_3335.jpg": {
+   "src": "https://chihuahua.gob.mx/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-10/IMG_3335.jpg?itok=DmqS5nx2",
    "alt": "",
-   "verdict": "pending:CHH-new-plate-2026-11-24-x-x"
+   "verdict": "pending:CHH-img-3335"
   },
-  "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-10/F1.jpg": {
-   "src": "https://chihuahua.gob.mx/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-10/F1.jpg?itok=lzerkHq5",
+  "/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-10/WhatsApp%20Image%202026-10-01%20at%209.39.38%20AM.jpeg": {
+   "src": "https://chihuahua.gob.mx/sites/default/atach2/styles/noticia_miniatura/public/noticias/imagen-destacada/2026-10/WhatsApp%20Image%202026-10-01%20at%209.39.38%20AM.jpeg?itok=VUXAAqWq",
    "alt": "",
-   "verdict": "pending:CHH-new-plate-2026-11-24-x"
+   "verdict": "pending:CHH-whatsapp-2026-10-01-at-9-39-38-am"
   },
   "/themes/custom/barrio_chihuahua_jsp/images/Vertical-Institucional-Gobierno-Azul.png": {
    "src": "https://chihuahua.gob.mx/themes/custom/barrio_chihuahua_jsp/images/Vertical-Institucional-Gobierno-Azul.png",
@@ -69,5 +69,5 @@
    "verdict": "not-a-plate"
   }
  },
- "checked": "2026-11-24"
+ "checked": "2026-11-26"
 }

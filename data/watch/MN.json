@@ -94,7 +94,7 @@
    "verdict": "plate:collegiate-macalester-university"
   },
   "/files/dvs/Collegiate-Metro-State-Text-1500x751.jpg": {
-   "src": "https://assets.dps.mn.gov/files/dvs/Collegiate-Metro-State-Text-1500x751.jpg?v=1765415294",
+   "src": "https://assets.dps.mn.gov/files/dvs/Collegiate-Metro-State-Text-1500x751.jpg?v=1795553066",
    "alt": "Sample of a Metro State University license plate",
    "verdict": "plate:collegiate-st-olaf"
   },
@@ -484,5 +484,5 @@
    "verdict": "not-a-plate"
   }
  },
- "checked": "2026-11-24"
+ "checked": "2026-11-26"
 }
